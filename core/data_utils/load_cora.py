@@ -84,7 +84,7 @@ def get_raw_text_cora(use_text=False, seed=0):
     for line in lines:
         pid = line.split('\t')[0]
         fn = line.split('\t')[1]
-        pid_filename[pid] = fn
+        pid_filename[pid] = fn.replace(":","_")
 
     path = 'dataset/cora_orig/mccallum/cora/extractions/'
     text = []
