@@ -1,0 +1,11 @@
+URL: http://www.neci.nj.nec.com/homepages/sebastien/papers/msc/stereo5.ps.Z
+Refering-URL: http://www.neci.nj.nec.com/homepages/sebastien/papers/
+Root-URL: http://www.neci.nj.nec.com
+Title: Un algorithme, solutionnant en partie le problme de la dtermination de la profondeur partir dune
+Author: Mesure de la confiance accorde chaque profondeur rcupre Prservation raisonnable du 
+Note: 88 5 Discussion et Conclusion  
+Abstract: Lalgorithme a t test sur des images synthtiques complexes pour lesquelles on disposait de la profondeur relle de chaque point. Lanalyse dun cube compos de cylindres texturs (Cube 1) a donn une erreur moyenne sur la disparit de 0.38 pixels et prouve la pertinence et la trs grande rsistance aux occlusions de lalgorithme. Lanalyse dun cube similaire au premier (Cube 2), mais sans texture, montre limportance de la texture dans la recherche des points homologues (0.5 pixels derreur moyenne). Finalement, la mme scne (Cube 3), vue avec un dplacement diffrent des camras, permet de dmontrer la souplesse de lalgorithme au niveau des dplacements de camras. Par le fait quelle supporte directement et simplement les dplacements quelconques de camras, on peut imaginer quil serait trs simple dappliquer cette mthode des squences dimages prises dans un intervalle de temps plutt que simultanment dans 
+Abstract-found: 1
+Intro-found: 0
+References-found: 0
+

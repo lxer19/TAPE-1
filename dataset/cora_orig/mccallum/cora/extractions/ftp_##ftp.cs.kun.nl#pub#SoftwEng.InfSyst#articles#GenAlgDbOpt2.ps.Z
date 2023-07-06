@@ -1,0 +1,14 @@
+URL: ftp://ftp.cs.kun.nl/pub/SoftwEng.InfSyst/articles/GenAlgDbOpt2.ps.Z
+Refering-URL: http://www.sci.kun.nl/afdis/publist.html
+Root-URL: 
+Title: Pool Heuristics in Evolutionary Database Optimization  Pool Heuristics in Evolutionary Database Optimization. In  
+Author: P. van Bommel C.B. Lucasius Th.P. van der Weide P. van Bommel, C.B. Lucasius, and Th.P. van der Weide. N. Prakash, 
+Date: October 1994.  
+Note: Published as:  editor, Proceedings of the International Conference on Information Systems and Management of Data (CISMOD 94), pages 76-90, Madras, India,  
+Address: Canada  
+Affiliation: University of Nijmegen, The Netherlands Dalhousie University, Halifax,  
+Abstract: This paper describes several new results of the project C2I at the University of Nijmegen, The Netherlands. The focus of C2I is the transformation of data models from the conceptual to the internal level. Several aspects are involved, such as data structures, operations, populations (values) and integrity constraints. Special emphasis is given to optimization of data structures with respect to the trade-off between response time and storage space. New results include PHSL, an abstract Pool Heuristic Specification Language for expressing the basic actions in advanced (evolutionary) optimization strategies. The paper also introduces an instrument for embedding conventional physical database design algorithms (index selection) within these advanced strategies. Furthermore, the applicability of the approach to traditional Codasyl network models is illustrated (it has already been shown that the approach is applicable to relational and nested-relational models).
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

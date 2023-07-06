@@ -1,0 +1,29 @@
+URL: http://www.cs.brandeis.edu/~hugues/papers/AAAI_98.ps.gz
+Refering-URL: http://www.demo.cs.brandeis.edu/coev_CA/
+Root-URL: http://www.cs.brandeis.edu
+Email: fhugues, pollackg@cs.brandeis.edu  
+Title: A Sampling-Based Heuristic for Tree Search Applied to Grammar Induction  
+Author: Hugues Juille and Jordan B. Pollack 
+Address: Waltham, Massachusetts 02254-9110  
+Affiliation: Computer Science Department Brandeis University  
+Abstract: In the field of Operation Research and Artificial Intelligence, several stochastic search algorithms have been designed based on the theory of global random search (Zhigljavsky 1991). Basically, those techniques iteratively sample the search space with respect to a probability distribution which is updated according to the result of previous samples and some predefined strategy. Genetic Algorithms (GAs) (Goldberg 1989) or Greedy Randomized Adaptive Search Procedures (GRASP) (Feo & Resende 1995) are two particular instances of this paradigm. In this paper, we present SAGE, a search algorithm based on the same fundamental mechanisms as those techniques. However, it addresses a class of problems for which it is difficult to design transformation operators to perform local search because of intrinsic constraints in the definition of the problem itself. For those problems, a procedural approach is the natural way to construct solutions, resulting in a state space represented as a tree or a DAG. The aim of this paper is to describe the underlying heuristics used by SAGE to address problems belonging to that class. The performance of SAGE is analyzed on the problem of grammar induction and its successful application to problems from the recent Abbadingo DFA learning competition is presented. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Angluin, D., and Smith, C. H. </author> <year> 1983. </year> <title> Inductive inference: Theory and methods. </title> <journal> Computing Surveys 15 </journal> <pages> 237-269. </pages>
+Reference: <author> Back, T.; Hoffmeister, F.; and Schwefel, H.-P. </author> <year> 1991. </year> <title> A survey of evolution strategies. </title> <editor> In Belew, R. K., and Booker, L. B., eds., </editor> <booktitle> Proceedings of the Fourth International Conference on Genetic Algorithms, </booktitle> <pages> 2-9. </pages> <address> San Mateo, California: </address> <publisher> Morgan Kaufmann. </publisher>
+Reference: <author> Baum, E. B. </author> <year> 1992. </year> <title> On optimal game tree propagation for imperfect players. </title> <booktitle> In Proceedings of the Tenth National Conference on Artificial Intelligence, </booktitle> <pages> 507-512. </pages>
+Reference: <author> Chen, P. C. </author> <year> 1992. </year> <title> Heuristic sampling: a method for predicting the performance of tree searching programs. </title> <journal> SIAM Journal on Computing 21 </journal> <pages> 295-315. </pages>
+Reference: <author> Feo, T. A., and Resende, M. G. </author> <year> 1995. </year> <title> Greedy randomized adaptive search procedures. </title> <journal> Journal of Global Optimization 6 </journal> <pages> 109-133. </pages>
+Reference: <author> Fogel, L. J. </author> <year> 1962. </year> <title> Autonomous automata. </title> <booktitle> Industrial Research 4 </booktitle> <pages> 14-19. </pages>
+Reference: <author> Gold, E. M. </author> <year> 1978. </year> <title> Complexity of automaton identification from given data. </title> <booktitle> Information and Control 37 </booktitle> <pages> 302-320. </pages>
+Reference: <author> Goldberg, D. E. </author> <year> 1989. </year> <title> Genetic Algorithms in Search, Optimization and Machine Learning. </title> <publisher> Addison-Wesley. </publisher>
+Reference: <author> Hillis, W. D. </author> <year> 1992. </year> <title> Co-evolving parasites improve simulated evolution as an optimization procedure. </title> <editor> In Langton, C., et al., eds., </editor> <booktitle> Artificial Life II, </booktitle> <pages> 313-324. </pages> <publisher> Addison Wesley. </publisher>
+Reference: <author> Knuth, D. E. </author> <year> 1975. </year> <title> Estimating the efficiency of backtracking programs. </title> <journal> Math. Comp. </journal> <volume> 29 </volume> <pages> 121-136. </pages>
+Reference: <author> Koza, J. R.; Bennett, F. H.; Andre, D.; and Keane, M. A. </author> <year> 1996. </year> <title> Four problems for which a computer program evolved by genetic programming is competitive with human performance. </title> <booktitle> In Proceedings of the Third IEEE International Conference on Evolutionary Computation, </booktitle> <pages> 1-10. </pages> <publisher> IEEE Press. </publisher>
+Reference: <author> Koza, J. R. </author> <year> 1992. </year> <title> Genetic Programming: On the Programming of Computers by Means of Natural Selection. </title> <publisher> MIT Press. </publisher>
+Reference: <author> Lang, K. J., and Pearlmutter, B. A. </author> <year> 1997. </year> <title> Ab-badingo one: Dfa learning competition. </title> <address> http://abba-dingo.cs.unm.edu. </address>
+Reference: <author> Lang, K. J. </author> <year> 1992. </year> <title> Random dfa's can be approximately learned from sparse uniform examples. </title> <booktitle> In Proceedings of the Fifth Annual ACM Workshop on Computational Learning Theory, </booktitle> <pages> 45-52. </pages>
+Reference: <author> Trakhtenbrot, B. A., and Barzdin, Y. M. </author> <year> 1973. </year> <title> Finite Automata: Behavior and Synthesis. </title> <publisher> North Holland Publishing Company. </publisher>
+Reference: <author> Zhigljavsky, A. A. </author> <year> 1991. </year> <title> Theory of Global Random Search. Kluwer academic. </title> <journal> volume 65 of Mathematics and Its Applications (Soviet Series). </journal>
+References-found: 16
+

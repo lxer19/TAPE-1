@@ -1,0 +1,10 @@
+URL: http://www.eecis.udel.edu/~bao/psfile/chapter2.ps.gz
+Refering-URL: http://www.eecis.udel.edu/~bao/phdthesis.html
+Root-URL: http://www.eecis.udel.edu
+Title: Chapter 2 SCHEDULING  
+Note: 2.1 Related Work in Scheduling 19  
+Abstract: In this chapter, we describe our work in designing a scheduler that is suitable for providing QoS control for multimedia applications. The scheduler functions on the outgoing link of each network node, e.g., a switch or a router. One task of the scheduler is to manage the limited resources pertaining to this link|buffers and bandwidth|to provide QoS control for the flows sharing the resources 1 . In this part of our research, we focus on the single link, multiple flows situation. This chapter is organized in the following way. Section 2.1 discusses the related work in scheduling, particularly the scheduling algorithms that are designed for the purpose of QoS control. Section 2.2 introduces a new scheduling algorithm| OCcuPancy Adjusting (OCP A)|which is designed to provide QoS control for applications with both delay and packet loss QoS requirements. We devote Section 2.3 to study the performance of OCP A in extensive simulations performed on various MPEG encoded video clips in different simulation configurations. Section 2.4 presents the conclusion of our study in scheduling. Among all the existing scheduling algorithms, we focus our discussion on the ones that emphasize QoS issues. We summarize them in Figure 2.1. They vary from each other on how they approach the issues of QoS control, the QoS measures 1 Sometimes for simplicity, we associate the resources with a network node rather than a particular outgoing link of the network node. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

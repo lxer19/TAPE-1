@@ -1,0 +1,26 @@
+URL: ftp://ftp.idsia.ch/pub/juergen/textcompression.ps.gz
+Refering-URL: http://www.ph.tn.tudelft.nl/PRInfo/reports/msg00040.html
+Root-URL: 
+Title: SEQUENTIAL NEURAL TEXT COMPRESSION IEEE Transactions on Neural Networks, 7(1):142-146, 1996.  
+Author: Jurgen Schmidhuber Stefan Heil 
+Web: http://www.idsia.ch/~juergen  
+Address: Corso Elvezia 36 CH-6900-Lugano, Switzerland  80290 Munchen, Germany  
+Affiliation: IDSIA,  Fakultat fur Informatik Technische Universitat Munchen  
+Abstract: The purpose of this paper is to show that neural networks may be promising tools for data compression without loss of information. We combine predictive neural nets and statistical coding techniques to compress text files. We apply our methods to certain short newspaper articles and obtain compression ratios exceeding those of widely used Lempel-Ziv algorithms (which build the basis of the UNIX functions "compress" and "gzip"). The main disadvantage of our methods is that they are about three orders of magnitude slower than standard methods. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> T. C. Bell, J. G. Cleary, and I. H. Witten. </author> <title> Text Compression. </title> <publisher> Prentice Hall, </publisher> <address> Englewood Cliffs, NJ, </address> <year> 1990. </year>
+Reference: [2] <author> G. </author> <title> Held. Data Compression. </title> <publisher> Wiley and Sons LTD, </publisher> <address> New York, </address> <year> 1991. </year>
+Reference: [3] <author> S. Lindstadt. </author> <title> Comparison of two unsupervised neural network models for redundancy reduction. </title> <editor> In M. C. Mozer, P. Smolensky, D. S. Touretzky, J. L. Elman, and A. S. Weigend, editors, </editor> <booktitle> Proc. of the 1993 Connectionist Models Summer School, </booktitle> <pages> pages 308-315. </pages> <address> Hillsdale, NJ: </address> <publisher> Erlbaum Associates, </publisher> <year> 1993. </year>
+Reference: [4] <author> D. E. Rumelhart, G. E. Hinton, and R. J. Williams. </author> <title> Learning internal representations by error propagation. </title> <booktitle> In Parallel Distributed Processing, </booktitle> <volume> volume 1, </volume> <pages> pages 318-362. </pages> <publisher> MIT Press, </publisher> <year> 1986. </year>
+Reference: [5] <author> J. H. Schmidhuber. </author> <title> Learning complex, extended sequences using the principle of history compression. </title> <journal> Neural Computation, </journal> <volume> 4(2) </volume> <pages> 234-242, </pages> <year> 1992. </year>
+Reference: [6] <author> J. H. Schmidhuber. </author> <title> Learning factorial codes by predictability minimization. </title> <journal> Neural Computation, </journal> <volume> 4(6) </volume> <pages> 863-879, </pages> <year> 1992. </year>
+Reference: [7] <author> J. H. Schmidhuber. </author> <title> Learning unambiguous reduced sequence descriptions. </title> <editor> In J. E. Moody, S. J. Hanson, and R. P. Lippman, editors, </editor> <booktitle> Advances in Neural Information Processing Systems 4, </booktitle> <pages> pages 291-298. </pages> <address> San Mateo, CA: </address> <publisher> Morgan Kaufmann, </publisher> <year> 1992. </year>
+Reference: [8] <author> J. H. Schmidhuber, M. C. Mozer, and D. Prelinger. </author> <title> Continuous history compression. </title> <editor> In H. Huning, S. Neuhauser, M. Raus, and W. Ritschel, editors, </editor> <booktitle> Proc. of Intl. Workshop on Neural Networks, RWTH Aachen, </booktitle> <pages> pages 87-95. </pages> <address> Augustinus, </address> <year> 1993. </year>
+Reference: [9] <author> J. H. Schmidhuber and D. Prelinger. </author> <title> Discovering predictable classifications. </title> <journal> Neural Computation, </journal> <volume> 5(4) </volume> <pages> 625-635, </pages> <year> 1993. </year>
+Reference: [10] <author> P. J. Werbos. </author> <title> Beyond Regression: New Tools for Prediction and Analysis in the Behavioral Sciences. </title> <type> PhD thesis, </type> <institution> Harvard University, </institution> <year> 1974. </year>
+Reference: [11] <author> I. H. Witten, R. M. Neal, and J. G. Cleary. </author> <title> Arithmetic coding for data compression. </title> <journal> Communications of the ACM, </journal> <volume> 30(6) </volume> <pages> 520-540, </pages> <year> 1987. </year>
+Reference: [12] <author> A. Wyner and J. Ziv. </author> <title> Fixed data base version of the Lempel-Ziv data compression algorithm. </title> <journal> IEEE Transactions Information Theory, </journal> <volume> 37 </volume> <pages> 878-880, </pages> <year> 1991. </year>
+
+References-found: 12
+

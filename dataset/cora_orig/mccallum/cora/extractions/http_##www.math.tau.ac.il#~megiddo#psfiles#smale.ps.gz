@@ -1,0 +1,26 @@
+URL: http://www.math.tau.ac.il/~megiddo/psfiles/smale.ps.gz
+Refering-URL: http://www.math.tau.ac.il/~megiddo/pub.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Email: j minfx j 0g,  
+Title: The Relation between the Path of Centers and Smale's Regularization of the Linear Programming Problem
+Author: Masakazu Kojima and Nimrod Megiddo j maxfx j g, 
+Address: Meguro-ku, Tokyo 152, Japan.  650 Harry Road, San Jose, California 95120-6099,  Israel.  
+Affiliation: Department of Information Sciences, Tokyo Institute of Technology,  IBM Almaden Research Center,  and School of Mathematical Sciences, Tel Aviv University, Tel Aviv,  
+Note: It is well known (see 2 that the linear programming problem: Minimize c T subject to Ax b 0  n T so that and w Note that here 2 R n is not the same as the in the linear programming problem above.  
+Date: Revised August 1990  1  
+Abstract: Smale proposed a framework for applying Newton's method to the linear programming problem. It is shown that his method is closely related to recent interior point methods, in the sense that it also traces the path of centers, even though the tracing is done outside the affine hull of the feasible domain. Also, an equivalence of the fundamental theorems is pointed out. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> D. A. Bayer and J. C. Lagarias, </author> <title> "The nonlinear geometry of linear programming: Affine and projective rescaling trajectories," </title> <journal> Trans. AMS, </journal> <note> to appear. </note>
+Reference: [2] <author> R. W. Cottle and G. B. Dantzig, </author> <note> "Complementary pivot theory of mathematical programming," Linear Algebra and Its Applications 1 (1968) 103-125. </note>
+Reference: [3] <author> B. C. Eaves and H. Scarf, </author> <title> "The solution of systems of piecewise linear equations," </title> <note> Mathematics of Operations Research 1 (1976) 1-27. </note>
+Reference: [4] <author> A. V. Fiacco and G. P. McCormick, </author> <title> Nonlinear Programming: Sequential Unconstrained Minimization Techniques, </title> <publisher> Wiley, </publisher> <address> New York, </address> <year> 1968. </year>
+Reference: [5] <author> M. Kojima, S. Mizuno and A. Yoshise, </author> <title> "A polynomial-time algorithm for a class of linear complementarity problems," </title> <note> Mathematical Programming 44 (1989) 1-26. </note>
+Reference: [6] <author> L. McLinden, </author> <title> "The complementarity problem for maximal monotone multifunctions," in: Variational Inequalities and Complementarity Problems, </title> <editor> R. W. Cottle, F. Gian-nessi and J.-L. Lions, Eds., </editor> <publisher> Wiley, </publisher> <address> New York, </address> <year> 1980, </year> <pages> pp. 251-270. </pages>
+Reference: [7] <author> N. Megiddo, </author> <title> "Pathways to the optimal set in linear programming," in: Progress in Mathematical Programming: Interior-Point and Related Methods, </title> <editor> N. Megiddo, ed., </editor> <publisher> Springer-Verlag, </publisher> <address> New York, </address> <year> 1988, </year> <pages> pp. 131-158. </pages>
+Reference: [8] <author> N. Megiddo and M. Kojima, </author> <title> "On the existence and uniqueness of solutions in nonlinear complementarity theory," </title> <note> Mathematical Programming 12 (1977) 110-130. </note>
+Reference: [9] <author> J. Renegar, </author> <title> "A polynomial-time algorithm, based on Newton's method, for linear programming," </title> <note> Mathematical Programming 40 (1988) 59-94. </note>
+Reference: [10] <author> S. Smale, </author> <title> "Algorithms for solving equations," </title> <booktitle> in: Proceedings of the International Congress of Mathematicians (Berkeley, </booktitle> <address> California, 1986), </address> <publisher> American Mathematical Society, </publisher> <address> Providence, RI, </address> <year> 1987, </year> <pages> pp. 172-195. </pages>
+Reference: [11] <author> Gy. Sonnevend, </author> <title> "An `analytic center' for polyhedrons and new classes of global algorithms for linear (smooth, convex) programming," </title> <institution> Institute of Mathematics, Etvos University, Hungary, </institution> <year> 1985. </year> <month> 4 </month>
+References-found: 11
+

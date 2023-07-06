@@ -1,0 +1,18 @@
+URL: ftp://publications.ai.mit.edu/ai-publications/1500-1999/AIM-1580.ps.Z
+Refering-URL: http://www.ph.tn.tudelft.nl/PRInfo/reports/msg00166.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: LEARNING LINEAR, SPARSE, FACTORIAL CODES  
+Author: BRUNO A. OLSHAUSEN 
+Note: This publication can be retrieved by anonymous ftp to publications.ai.mit.edu. The pathname for this publication is: ai-publications/1500-1999/AIM-1580.ps.Z Copyright c Massachusetts Institute of Technology, 1996  
+Date: 1580 September 6, 1996  138  
+Affiliation: MASSACHUSETTS INSTITUTE OF TECHNOLOGY ARTIFICIAL INTELLIGENCE LABORATORY and CENTER FOR BIOLOGICAL AND COMPUTATIONAL LEARNING DEPARTMENT OF BRAIN AND COGNITIVE SCIENCES  
+Pubnum: A.I. Memo No.  C.B.C.L Paper No.  
+Abstract: In previous work (Olshausen & Field 1996), an algorithm was described for learning linear sparse codes which, when trained on natural images, produces a set of basis functions that are spatially localized, oriented, and bandpass (i.e., wavelet-like). This note shows how the algorithm may be interpreted within a maximum-likelihood framework. Several useful insights emerge from this connection: it makes explicit the relation to statistical independence (i.e., factorial coding), it shows a formal relationship to the algorithm of Bell and Sejnowski (1995), and it suggests how to adapt parameters that were previously fixed. This report describes research done within the Center for Biological and Computational Learning in the Department of Brain and Cognitive Sciences at the Massachusetts Institute of Technology. This research is sponsored by an Individual National Research Service Award to B.A.O. (NIMH F32-MH11062) and by a grant from the National Science Foundation under contract ASC-9217041 (this award includes funds from ARPA provided under the HPCC program) to CBCL. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Amari S, </author> <title> Cichocki A, Yang HH (1996) A new learning algorithm for blind signal separation. </title> <booktitle> Advances in Neural Information Processing Systems, </booktitle> <volume> 8, </volume> <publisher> MIT Press. </publisher> <editor> Bell AJ, </editor> <title> Sejnowski TJ (1995) An information-maximization approach to blind separation and blind deconvolution. </title> <journal> Neural Computation, </journal> <volume> 7: </volume> <month> 1129-1159. </month> <title> Comon P (1994) Independent component analysis, a new concept? Signal Processing, </title> <booktitle> 36: </booktitle> <pages> 287-314. </pages>
+Reference: <author> Dayan P, Hinton GE, Neal RM, </author> <title> Zemel RS (1995) The Helmholtz machine. </title> <journal> Neural Computation, </journal> <volume> 7: </volume> <month> 889-904. </month> <title> Foldiak P (1990) Forming sparse representations by local anti-Hebbian learning. </title> <journal> Biol. Cybernetics, </journal> <volume> 64: </volume> <month> 165-170. </month> <title> Harpur GF, Prager RW (1996) Development of low entropy coding in a recurrent network, </title> <journal> Network, </journal> <volume> 7. </volume>
+Reference-contexts: The maximum-likelihood framework also makes possible the link to techniques used in the Helmholtz machine <ref> (Dayan et al., 1995) </ref>, which reveals that a better choice of approximating distribution, Q, could potentially lead to improvements. A practical advantage of looking at the problem within this framework is that it suggests we could adapt the shape of the prior.
+
+References-found: 2
+

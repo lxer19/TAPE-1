@@ -1,0 +1,18 @@
+URL: http://pertsserver.cs.uiuc.edu/epiq/files/qos-970722.ps
+Refering-URL: http://pertsserver.cs.uiuc.edu/epiq/
+Root-URL: http://www.cs.uiuc.edu
+Email: janeliu@cs.uiuc.edu)  
+Title: EPIQ QoS Characterization Draft Version  
+Author: Jane W. S. Liu, Klara Nahrstedt, David Hull, Shigang Chen, and Baochun Li 
+Date: July 22, 1997  
+Note: (Send comments to  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> Eric Horvitz and Shlomo Zilberstein, </author> <title> editors. Flexible Computation in Intelligent Systems: Results, Issues, and Opportunities, </title> <address> Cambridge, Massachusetts, </address> <month> November </month> <year> 1996. </year> <journal> American Association for Artificial Intelligence. </journal>
+Reference-contexts: 1 Introduction Researchers in diverse application domains have long advocated the use of flexible tasks as a way to make application systems adaptable to dynamic changes in user requirements and resource availability <ref> [1] </ref>.
+Reference: [2] <author> Jane W. S. Liu, Kwei-Jay Lin, Wei-Kuan Shih, Albert Chuang-shi Yu, Jen-Yao Chung, and Wei Zhao. </author> <title> Algorithms for scheduling imprecise computations. </title> <journal> IEEE Computer, </journal> <volume> 24(5) </volume> <pages> 58-68, </pages> <month> May </month> <year> 1991. </year>
+Reference-contexts: The model of tasks and their QoS characterization described in this report are designed with this objective in mind. 2.2 Types of Tasks It is convenient for us to divide tasks into two broad categories: filters (or sieves) and transformers. A task is a filter or a sieve <ref> [2] </ref> if its purpose is to produce an output that is the same as its input except for their qualities. So, the qualities of the input and output of a filter can be characterized by the same set of QoS parameters. The multimedia transmission task mentioned above is an example. <p> Hence, we can write ~q (~o k ) = R k (~r k ; ~q (~-k )). Figure 3 depicts this mapping. In the following, we omit the subscript k whenever there is no need for us to be specific about which task we are referring to. computation model <ref> [2] </ref>. In this model, each task T has only one input QoS parameter and one output QoS parameter. In addition to the input quality q (i), the output quality q (o) of the task depends on the amount t of processor time that is allocated to the task.
+Reference: [3] <author> Lixia Zhang, Stephen Deering, Deborah Estrin, Scott Shenker, and Daniel Zappala. RSVP: </author> <title> A new resource reservation protocol. </title> <journal> IEEE Network, </journal> <volume> 7(5) </volume> <pages> 8-18, </pages> <month> September </month> <year> 1993. </year>
+Reference-contexts: The unacceptable QoS region according to the composite value function is the union of the unacceptable regions according to the member value functions. Many existing systems adopt by default the maximum requirement composition rule. An example is the RSVP resource reservation protocol <ref> [3] </ref>. It assumes that every sender (a producer) sends messages of the best quality demanded by receivers (consumers) in a multicast group.
+References-found: 3
+

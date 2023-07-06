@@ -1,0 +1,19 @@
+URL: http://www.cs.iastate.edu/tech-reports/TR92-32.ps
+Refering-URL: http://www.cs.iastate.edu/tech-reports/catalog.html
+Root-URL: http://www.cs.iastate.edu
+Title: GPPL: A Small Block-Structured Imperative Programming Language Implemented Using Ox  
+Author: by Kurt M. Bischoff c fl Kurt M. Bischoff 
+Address: 226 Atanasoff Hall  Ames, Iowa 50011  
+Affiliation: Department of Computer Science  Iowa State University  
+Date: December, 1992  
+Pubnum: TR#92-32  
+Abstract-found: 0
+Intro-found: 1
+Reference: [Bischoff] <author> Kurt M. Bischoff, </author> <title> User Manual for Ox: An Attribute-Grammar Compiling System based on Yacc, Lex and C, </title> <institution> TR#92-30, Department of Computer Science, Iowa State University, Ames, Iowa. </institution> <month> December, </month> <year> 1992. </year>
+Reference-contexts: 1 Introduction GPPL is a small, block-structured, imperative programming language, for which a compiler, gc, has been built using the Yacc/Lex-based attribute-grammar compiler Ox (see <ref> [Bischoff] </ref>). This paper describes GPPL and gc, and is directed mainly to those who would like to study and modify them. The implementation of GPPL may be considered as an example of the use of attribute grammars in general and as a nontrivial example application of Ox. <p> Object returned by void function. -void fun () -return 1.0;- - * Non-integer object of exit statement. -bool condCheck () - ... - exit condCheck (); - 6 Implementation 6.1 Introduction The reader should be familiar with the use of Ox, or should have access to the Ox user's manual <ref> [Bischoff] </ref>.
+Reference: [Feldman] <author> S. I. Feldman, </author> <title> Make-A Program for Maintaining Computer Programs, </title> <institution> AT&T Bell Laboratories, </institution> <address> Murray Hill, New Jersey. </address> <note> Revised and reprinted as PS1:12 in UNIX Programmer's Manual, </note> <institution> Usenix Association, </institution> <year> 1986. </year>
+Reference-contexts: improve time and space efficiency, some of the attributes are defined as pointers to lists of shared data items. 6.2 Overview of gc's Source Files * Makefile is used to maintain consistent and up-to-date versions of the various component files of gc, and is input to the Make utility (see <ref> [Feldman] </ref>). 6 IMPLEMENTATION 14 * glob.h contains declarations of types and macros that need be visible from all of gc's .c files, including y.tab.c and lex.yy.c. * gppl.Y is the Y-file and contains the definition of main. * gppl.L is the L-file. * scan.c consists of routines to support lexical analysis
+Reference: [MacLennan] <author> Bruce J. MacLennan, </author> <booktitle> Principles of Programming Languages, 2nd. </booktitle> <publisher> Ed., Holt, Rinehart and Winston, </publisher> <year> 1987. </year>
+Reference-contexts: The dimList attribute of an indexSeq 6 IMPLEMENTATION 23 node whose parent is itself an indexSeq node is inherited as the dimList of the parent, less its least significant dimension. 6.10 Code Generation Chapter 6, Implementation of Block-Structured Languages, of <ref> [MacLennan] </ref> provides good background for understanding gc's code generation and the behavior of the generated programs. The reader should refer to code.c and some sample generated code while studying this section. 6.10.1 Target Language For the present implementation, the target language is C.
+References-found: 3
+

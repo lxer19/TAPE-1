@@ -1,0 +1,34 @@
+URL: ftp://info.mcs.anl.gov/pub/tech_reports/reports/P537.ps.Z
+Refering-URL: http://www.mcs.anl.gov/publications/abstracts/abstracts95.htm
+Root-URL: http://www.mcs.anl.gov
+Title: The Structure of a Moving Vortex Lattice  
+Author: D. W. Braun, G. W. Crabtree, H. G. Kaper, A. E. Koshelev, G. K. Leaf, D. M. Levine, V. M. Vinokur 
+Keyword: PACS numbers: 74.60.Ge  
+Note: Also:  
+Date: December 1995)  
+Address: Argonne, IL 60439  Chernogolovka, Moscow District, 142432, Russia.  
+Affiliation: Argonne National Laboratory,  Institute of Solid State Physics,  
+Pubnum: (MCS-P537-0895,  
+Abstract: Numerical solutions of the time-dependent Ginzburg-Landau equations show a new mechanism for plastic motion of a driven vortex lattice in a clean superconductor. The mechanism, which involves the creation of a defect superstructure, is intrinsic to the moving vortex lattice and is independent of bulk pinning. Other structural features found in the solutions include a reorientation of the vortex lattice and a gradual healing of lattice defects under the influence of a transport current. 
+Abstract-found: 1
+Intro-found: 0
+Reference: [1] <author> S. Bhattacharya and M. J. </author> <title> Higgins, </title> <journal> Phys. Rev. Lett., </journal> <volume> 70, </volume> <month> 2617 </month> <year> (1993). </year>
+Reference: [2] <author> W. K. Kwok et al., </author> <title> Phys. </title> <journal> Rev. Lett., </journal> <volume> 73, </volume> <month> 2614 </month> <year> (1994). </year>
+Reference: [3] <author> W. R. White, A. Kapitulnik, and M. R. </author> <title> Beasley, </title> <journal> Phys. Rev. B, </journal> <volume> 50, </volume> <month> 6303 </month> <year> (1994) </year> . 
+Reference: [4] <author> S. N. </author> <title> Coppersmith, </title> <journal> Phys. Rev. Lett., </journal> <volume> 65, </volume> <month> 1044 </month> <year> (1990). </year>
+Reference: [5] <author> A. E. Koshelev and V. M. </author> <title> Vinokur, </title> <journal> Phys. Rev. Lett., </journal> <volume> 73, </volume> <month> 3580 </month> <year> (1994). </year>
+Reference: [6] <author> P. DeGennes, </author> <title> Superconductivity in Metals and Alloys. </title> <publisher> Benjamin, </publisher> <address> New York, </address> <year> 1966. </year>
+Reference: [7] <author> A. Schmid, </author> <note> Phys. Kondens. Mater., 5, 302 (1966); L. </note> <author> P. Gor'kov and G. M. Eliashberg, Zh. Eksp. Teor. </author> <note> Fiz., 54, 612 (1968) [Sov. Phys. JETP 27, 328 (1968)]. </note>
+Reference: [8] <author> U. Essmann and H. </author> <title> Trauble, </title> <journal> Phys. Stat. </journal> <volume> Sol., 32, </volume> <month> 337 </month> <year> (1969). </year>
+Reference: [9] <editor> M. Marchevsky et al., </editor> <address> Leiden University, </address> <note> preprint (1995). </note>
+Reference: [10] <author> W. D. Gropp et al., J. </author> <note> Comp. Phys. (in press). </note>
+Reference: [11] <author> D. W. Braun et al., </author> <note> Technical Memorandum ANL/MCS-TM-XXX, </note> <institution> Mathematics and Computer Science Division, Argonne National Laboratory (1995). </institution>
+Reference: [12] <author> F. F. Preparata and M. L. Shamos, </author> <title> Computational Geometry: An Introduction. </title> <publisher> Springer-Verlag, </publisher> <address> New York, </address> <year> 1985. </year>
+Reference: [13] <author> A. T. </author> <title> Fiory, </title> <journal> Phys. Rev. Lett., </journal> <volume> 27, </volume> <month> 501 </month> <year> (1971). </year>
+Reference: [14] <author> J. M. Harris, </author> <title> et al., </title> <journal> Phys. Rev. Lett., </journal> <volume> 74, </volume> <month> 3685 </month> <year> (1995). </year>
+Reference: [15] <author> A. Schmid and W. Hauger, J. </author> <title> Low Temp. </title> <journal> Phys., </journal> <volume> 11, </volume> <month> 667 </month> <year> (1973). </year>
+Reference: [16] <author> V. V. Shmidt, Zh. Eksp. Teor. </author> <note> Fiz. 61, 398 (1971) [Sov. Phys. JETP 34, 211 (1972)]. </note>
+Reference: [17] <author> F. F. Ternovskii and L. N. Shekhata, Zh. Eksp. Teor. </author> <note> Fiz. 62, 2297 (1972) [Sov. Phys. JETP 35, 1202 (1972)]. </note>
+
+References-found: 17
+

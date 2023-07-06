@@ -1,0 +1,17 @@
+URL: http://http.icsi.berkeley.edu/~grannes/294-9/tr233.ps
+Refering-URL: http://http.icsi.berkeley.edu/~grannes/294-9/index.html
+Root-URL: http://www.icsi.berkeley.edu
+Title: Rochester Connectionist Simulator  
+Author: Nigel H. Goddard Kenton J. Lynne Toby Mintz Liudvikas Bukys 
+Note: This work was supported in part by ONR/DARPA research contracts N00014-82-K-0193 and N00014-84-K-0655 and in part by the IBM Corporation.  
+Date: 233 (revised) October 1989  
+Address: Rochester, New York 14627  
+Affiliation: The University of Rochester Computer Science Department  
+Pubnum: Technical Report  
+Abstract: Specifying, constructing and simulating structured connectionist networks requires significant programming effort. System tools can greatly reduce the effort required, and by providing a conceptual structure within which to work, make large and complex network simulations possible. The Rochester Connectionist Simulator is a system tool designed to aid specification, construction and simulation of connectionist networks. This report describes this tool in detail: the facilities provided and how to use them, as well as details of the implementation. Through this we hope not only to make designing and verifying connectionist networks easier, but also to encourage the development and refinement of connectionist research tools themselves. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [Rumelhart et al. 1986] <author> David E. Rumelhart, Geoffrey E. Hinton, and Ronald J. Williams, </author> <title> "Learning Internal Representations by Error Propagation", </title> <editor> In D. E. Rumelhart and J. L. McClelland, editors, </editor> <booktitle> Parallel Distributed Processing: Exploring the Microstructure of Cognition Volume 1: Foundations. </booktitle> <publisher> Bradford Books/MIT Press, </publisher> <address> Cambridge, MA, </address> <year> 1986. </year> <month> 207 </month>
+Reference-contexts: This package allows arbitrary activation and error-propagation functions. The standard UCSD sigmoid activation function and derivative based error-propagation functions (see <ref> [Rumelhart et al. 1986] </ref>) are provided in the package, but other functions may be written by the user. <p> In the first part of the error-propagation section delta, the error to be propagated is computed. It is a function of the error passed down from an upper layer, stored in up &gt;sites-&gt;data, and the current output of the unit, up-&gt;output. The specific function used is described in <ref> [Rumelhart et al. 1986] </ref>. For each link coming into the $learn site of the unit the weight change for each link, deltaw, is computed. It is a function of delta and the output of the unit where the link originates, together with a learning rate BPlearn.
+References-found: 1
+

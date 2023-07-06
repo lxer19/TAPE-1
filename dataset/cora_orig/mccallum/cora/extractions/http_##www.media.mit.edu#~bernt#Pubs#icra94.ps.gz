@@ -1,0 +1,28 @@
+URL: http://www.media.mit.edu/~bernt/Pubs/icra94.ps.gz
+Refering-URL: http://www.media.mit.edu/~bernt/Pubs/pubs.html
+Root-URL: http://www.media.mit.edu
+Email: schiele@imag.fr jlc@imag.fr  
+Phone: Phone (33) 76 57 46 55  
+Title: Comparison of Position Estimation Techniques Using Occupancy Grids  
+Author: Bernt Schiele and James L. Crowley 
+Address: 46 Avenue Felix Viallet 38031 Grenoble Cedex FRANCE  
+Affiliation: LIFIA-INPG  
+Abstract: This paper addresses the problem of perception and localisation for a mobile robot in an unknown environment. It describes a modelling of the environment based on two certainty grids: one local model and the other one a global model. Localisation of the robot is reduced to finding the best alignment of the local certainty grid onto the global certainty grid. Four localisation procedures to correct the robot position are introduced. First experimental results show the capacity of the method. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [Bab 78] <author> M. Babarrere, P. P. Krief, and B. Gimonet. </author> <title> Le Filtrage et ses Applications. </title> <address> Cepaclus Edition, </address> <year> 1978. </year>
+Reference: [Bal 82] <author> D. H. Ballard and C. M. Brown. </author> <title> Computer Vision. </title> <address> Englewood Cliffs, NJ: </address> <publisher> Prentice Hall, </publisher> <year> 1982. </year>
+Reference: [Bor 90] <author> J. Borenstein and Y. Koren. </author> <title> Real-time obstacle avoidance for fast mobile robots in cluttered environments. </title> <booktitle> In IEEE International Conference on Robotics and Automation, </booktitle> <pages> pages 572-577, </pages> <year> 1990. </year>
+Reference: [Bor 91] <author> J. Borenstein and Y. Koren. </author> <title> The vector field histogram fast obstacle avoidance for mobile robots. </title> <journal> IEEE Transactions on Robotics and Automation, </journal> <volume> 7(3): </volume> <pages> 278-288, </pages> <month> June </month> <year> 1991. </year>
+Reference: [Cro 89] <author> J. L. Crowley. </author> <title> World modelling and position estimation for a mobile robot using ultrasonic ranging. </title> <booktitle> In IEEE International Conference on Robotics and Automation, </booktitle> <pages> pages 674-680, </pages> <year> 1989. </year>
+Reference-contexts: Finding line segments in the two grids with our extended Hough-transform, 2. matching the segments (see 3.1) and 3. applying two independent Kalman filters for the correction of the orientation r ff and the position (r x r y ) T of the robot (see 4.1 and <ref> [Cro 89] </ref>). The other re-localisation processes search the best transformation t = (t x t y t ff ) T of the local grid into the global grid. <p> (see figure 1): S lo : ( lo ; 2 lo ; x lo ; y lo ; h lo ) gl ; gl ; 2 Here matching is a process of comparing each pair of segments to detect similarity in orientation (2), collinearity (3) and overlap (4) (see also <ref> [Cro 89] </ref>): ( gl lo ) 2 gl (2) gl + 2 (x gl x lo ) 2 + (y gl y lo ) 2 h gl + h lo (4) To the segment with the highest probability that has passed the these three comparison test we apply two independent Kalman
+Reference: [Cro 92] <author> J. L. Crowley, P. Stelmaszyk, T. Skordas, and P. Puget. </author> <title> Measurement and integration of 3-d structures by tracking edge lines. </title> <journal> International Journal of Computer Vision, </journal> <volume> 8(1): </volume> <pages> 29-52, </pages> <year> 1992. </year>
+Reference: [Elf 89] <author> A. Elfes. </author> <title> Using occupancy grids for mobile robot perception and navigation. </title> <booktitle> IEEE Computer, </booktitle> <pages> pages 46-57, </pages> <month> June </month> <year> 1989. </year>
+Reference: [Mor 85] <author> H. P. Moravec and A. Elfes. </author> <title> High resolution maps from angle sonar. </title> <booktitle> In IEEE International Conference on Robotics and Automation, </booktitle> <pages> pages 116-121, </pages> <month> March </month> <year> 1985. </year>
+Reference: [Mor 88] <author> H. P. Moravec. </author> <title> Sensor fusion in certainty grids for mobile robots. </title> <journal> AI Magazine, </journal> <volume> 9(2): </volume> <pages> 61-74, </pages> <year> 1988. </year>
+Reference: [Sch 93] <author> B. Schiele. </author> <title> Perception et Localisation pour un Robot Mobile. </title> <type> Technical report, </type> <institution> DEA Informatique, LI-FIA/INP Grenoble, </institution> <year> 1993. </year>
+Reference-contexts: Section 5 introduces the integration of the local certainty grid data into the global certainty grid. In section 6 the first experimental results of the described localisation procedures are discussed. A more detailed description of the perception and localisation process is given in <ref> [Sch 93] </ref>. 2 Certainty Grids The certainty grid method for modelling of a mobile robot environment is mainly motivated to obtain a map of free space, in order to compute safe trajectories for the vehicle.
+Reference: [Wal 92] <author> F. Wallner, T. C. Lueth, and F. Langinieux. </author> <title> Fast local path planning for a mobile robot. </title> <booktitle> In ICARCV'92 Second International Conference on Automation, Robotics and Computer Vision, </booktitle> <month> September </month> <year> 1992. </year>
+Reference: [Zha 92] <author> Y. Zhang and R. E. Webber. </author> <title> On combining the hough transform and occupancy grid methods for detection of moving objects. </title> <booktitle> In IEEE/RSJ International Conference on Intelligent Robots and Systems, </booktitle> <pages> pages 2155-2160, </pages> <month> July </month> <year> 1992. </year> <title> This article was processed using the T E X macro package with IRS93 style </title>
+References-found: 12
+

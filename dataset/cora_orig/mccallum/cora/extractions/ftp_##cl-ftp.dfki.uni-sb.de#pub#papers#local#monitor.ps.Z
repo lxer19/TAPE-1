@@ -1,0 +1,29 @@
+URL: ftp://cl-ftp.dfki.uni-sb.de/pub/papers/local/monitor.ps.Z
+Refering-URL: http://cl-www.dfki.uni-sb.de/cl/papers/cl-abstracts.html
+Root-URL: 
+Email: neumann@dfki.uni-sb.de  vannoord@let.rug.nl  
+Title: Self-Monitoring with Reversible Grammars  
+Author: Gunter Neumann and Gertjan van Noord, 
+Address: Stuhlsatzenhausweg 3 D-6600 Saarbrucken 11  Postbus 716 NL 9700 AS Groningen  
+Affiliation: Deutsches Forschungszentrum fur Kunstliche Intelligenz  Rijksuniversiteit Groningen  
+Abstract: We describe a method and its implementation for self-monitoring during natural language generation. In situations of communication where the generation of ambiguous utterances should be avoided our method is able to compute an unambiguous utterance for a given semantic input. The proposed method is based on a very strict integration of parsing and generation. During the monitored generation step, a previously generated (possibly) ambiguous utterance is parsed and the obtained alternative derivation trees are used as a `guide' for re-generating the utterance. To achieve such an integrated approach the underlying grammar must be reversible. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Douglas E. Appelt. </author> <title> Bidirectional grammars and the design of natural language generation sys-tems. </title> <editor> In Y. Wilks, editor, </editor> <booktitle> Theoretical Issues in Natural Language Processing, </booktitle> <pages> pages 206-212. </pages>
+Reference: <editor> Hillsdale, </editor> <address> N.J.: </address> <publisher> Erlbaum, </publisher> <year> 1989. </year>
+Reference: <author> K. De Smedt and G. Kempen. </author> <title> Incremental sen-tence production, </title> <editor> self-correction and coordina-tion. In G. Kempen, editor, </editor> <booktitle> Natural Language Generation, </booktitle> <pages> pages 365-376. </pages> <publisher> Martinus Nijhoff, </publisher> <address> Dordrecht, </address> <year> 1987. </year>
+Reference: <author> Jerry A. Fodor. </author> <title> The Modularity of Mind: An Essay on Faculty Psychology. A Bradford Book, </title> <publisher> MIT Press, </publisher> <address> Cambridge, Massachusetts, </address> <year> 1983. </year>
+Reference: <author> Anthony Jameson and Wolfgang Wahlster. </author> <title> User modelling in anaphora generation: Ellipsis and definite description. </title> <booktitle> In ECAI, </booktitle> <pages> pages 222-227, </pages> <address> Orsay, </address> <year> 1982. </year>
+Reference: <editor> Aravind K. Joshi. </editor> <booktitle> Generation anew frontier of natural language processing? In Theoretical Issues in Natural Language Processing 3, </booktitle> <address> New Mexico State University, </address> <year> 1987. </year>
+Reference: <author> Willem J. M. Levelt. </author> <title> Speaking: From Intention to Articulation. </title> <publisher> MIT Press, </publisher> <address> Cambridge, Massachusetts, </address> <year> 1989. </year>
+Reference: <author> Marie M. Meteer. </author> <title> The Generation Gap the problem of expressibility in text planning. </title> <type> PhD thesis, </type> <institution> University of Massachusetts, </institution> <year> 1990. </year>
+Reference: <author> Gunter Neumann and Wolfgang Finkler. </author> <title> A headdriven approach to incremental and parallel generation of syntactic structures. </title> <booktitle> In Proceedings of the 13th International Conference on Computational Linguistics (COLING), </booktitle> <pages> pages 288-293, </pages> <address> Helsinki, </address> <year> 1990. </year>
+Reference: <author> Gunter Neumann and Gertjan van Noord. </author> <title> Reversible grammars for self-monitoring and gen-eration of paraphrases. </title> <editor> In Tomek Strzalkowski, editor, </editor> <booktitle> Reversible Grammar in Natural Language Processing. </booktitle> <pages> Kluwer, </pages> <note> to appear. </note>
+Reference: <author> Gunter Neumann. </author> <title> Reversibility and modularity in natural language generation. </title> <booktitle> In Proceedings of the ACL Workshop on Reversible Grammar in Natural Language Processing, </booktitle> <pages> pages 31-39, </pages> <address> Berkeley, </address> <year> 1991. </year>
+Reference: <author> Stuart M. Shieber, Gertjan van Noord, </author> <note> Robert C. </note>
+Reference: <author> Moore, and Fernando C.N. Pereira. </author> <title> Semantichead-driven generation. </title> <journal> Computational Linguistics, </journal> <volume> 16(1), </volume> <year> 1990. </year>
+Reference: <author> Gertjan van Noord. </author> <title> Head corner parsing for dis-continuous constituency. </title> <booktitle> In 29th Annual Meeting of the Association for Computational Linguistics, </booktitle> <address> Berkeley, </address> <year> 1991. </year>
+Reference: <author> R. Wilensky, Y. Arens, and D. Chin. </author> <title> Talking to unix in english: An overview of uc. </title> <journal> Communications of the ACM, </journal> <pages> pages 574 - 593, </pages> <year> 1984. </year>
+Reference-contexts: The need to generate un-ambiguous utterances is also relevant for the development of natural language generation systems. For example in the case of an intelligent help-system that supports the use of an operating system <ref> ( Wilensky et al., 1984 ) </ref> , asking an inexperienced user to `Re- move the folder with the system tools' could have tremendous effects on the system itself.
+References-found: 15
+

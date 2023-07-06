@@ -1,0 +1,30 @@
+URL: ftp://ftp.icsi.berkeley.edu/pub/techreports/1994/tr-94-066.ps.gz
+Refering-URL: http://www.icsi.berkeley.edu/techreports/1994.html
+Root-URL: http://www.icsi.berkeley.edu
+Title: Side Effect Free Functions in Object-Oriented Languages  
+Author: Roberto Ierusalimschy Noemi Rodriguez 
+Address: I 1947 Center St. Suite 600 Berkeley, California 94704-1198  Brazil  
+Affiliation: INTERNATIONAL COMPUTER SCIENCE INSTITUTE  PUC-Rio,  
+Pubnum: TR-94-066  
+Email: email: roberto,noemi@inf.puc-rio.br  
+Phone: (510) 643-9153 FAX (510) 643-7684  
+Date: December 1994  
+Abstract: This paper presents a method for statically verifying that functions do not produce side effects, in an object-oriented language. The described model, although not allowing any changes to pre-existing objects during a function call, permits an imperative style of programming, where new objects can be freely created and manipulated. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [Car89] <author> L. Cardelli. </author> <title> Typeful programming. </title> <booktitle> In notes of IFIP Advanced Seminar on Formal Description of Programming Concepts, </booktitle> <address> Petropolis - Brazil, </address> <year> 1989. </year>
+Reference-contexts: One important property of this model is that it is completely based on the type system of the language. Thus, it goes in the direction proposed in <ref> [Car89] </ref>, extending the meaning of types to encompass more aspects of program correctness. A key point behind the model is that types, in School, are partial specifications; implementations are described by classes, an independent concept.
+Reference: [CW85] <author> L. Cardelli and P. Wegner. </author> <title> On understanding types, data abstraction and poly-morphism. </title> <journal> ACM Computing Surveys, </journal> <volume> 17(4), </volume> <year> 1985. </year>
+Reference-contexts: If this condition is satisfied, we say that the arity of X in a is a subarity of the arity of X in B. The apparent inversion in the last condition is known as the "contra-variance rule", and is needed to assure correctness <ref> [CW85] </ref>. Notice that the above definition is not formal, since it can result in an infinite recursion if a type refers to itself. The formal definition of subtyping can be found in the appendix.
+Reference: [GR83] <author> A. Goldberg and D. Robson. </author> <title> Smalltalk-80 : The Language and its Implementation. </title> <publisher> Addison-Wesley, </publisher> <year> 1983. </year>
+Reference-contexts: The concept of type in School is an important factor in this proposal. Types and classes are different concepts in School. A class specifies the implementation of similar objects, like in Smalltalk <ref> [GR83] </ref>. Types, on the other hand, are 1 that is, pointer equality 1 used only by the compiler; a type represents the interface of an object. Every object belongs to a fixed class but can "satisfy" several different types.
+Reference: [Ier93] <author> R. Ierusalimschy. </author> <title> A denotational approach for type-checking in object-oriented programming languages. </title> <journal> Computer Languages, </journal> <volume> 19(1) </volume> <pages> 19-40, </pages> <year> 1993. </year> <month> 13 </month>
+Reference-contexts: The formal definition of subtyping can be found in the appendix. A more complete treatment, as well as a formal proof that this definition avoids type errors, can be found in <ref> [Ier93] </ref>. The static verification of side-effect free functions implies in an extension of the type system defined above. In this extension, methods which are allegedly side effect free (sef ) will be prefixed with the keyword sef.
+Reference: [RIR93a] <author> N. Rodriguez, R. Ierusalimschy, and J. L. Rangel. Concilia~c~ao de flexibilidade e verifica~c~ao estatica em linguagens orientadas a objetos. </author> <booktitle> In VII Simposio Brasileiro de Engenharia de Software, </booktitle> <pages> pages 282-294, </pages> <year> 1993. </year>
+Reference-contexts: From now on, we will call this kind of function a side effect free (sef ) function. This paper proposes an algorithm to check whether a function is a sef function in the programming language School [RIR93b], <ref> [RIR93a] </ref>. School is an object-oriented language with separate type and class hierarchies, whose main goal is to achieve good flexibility with a secure static type system. The concept of type in School is an important factor in this proposal. Types and classes are different concepts in School.
+Reference: [RIR93b] <author> N. Rodriguez, R. Ierusalimschy, and J. L. Rangel. </author> <title> Types in School. </title> <journal> Sigplan Notices, </journal> <volume> 28(8), </volume> <year> 1993. </year>
+Reference-contexts: From now on, we will call this kind of function a side effect free (sef ) function. This paper proposes an algorithm to check whether a function is a sef function in the programming language School <ref> [RIR93b] </ref>, [RIR93a]. School is an object-oriented language with separate type and class hierarchies, whose main goal is to achieve good flexibility with a secure static type system. The concept of type in School is an important factor in this proposal. Types and classes are different concepts in School.
+Reference: [WZ88] <author> P. Wegner and S. Zdonik. </author> <title> Inheritance as an incremental modification mechanism or what like is and isn't like. </title> <booktitle> In ECOOP'88 Proceedings, </booktitle> <pages> pages 55-77, </pages> <year> 1988. </year> <note> LNCS 322. </note>
+Reference-contexts: On the other hand, to say that a class A is a subclass of a class B means that A inherits methods and variables from B . As they do not need to have compatible interfaces, A can freely modify the inherited features. Using the classification proposed in <ref> [WZ88] </ref>, subtyping must have behavior compatibility, or at least signature compatibility, while subclassing is free to adopt 2 cancel compatibility. Therefore, there is no compromise between the flexibility of cancel compatibility and the security of strong typing.
+References-found: 7
+

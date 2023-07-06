@@ -1,0 +1,15 @@
+URL: http://www.eecs.umich.edu/techreports/cse/1997/CSE-TR-338-97.ps.gz
+Refering-URL: http://www.eecs.umich.edu/home/techreports/cse97.html
+Root-URL: http://www.eecs.umich.edu
+Title: Choiceless Polynomial Time  
+Author: Andreas Blass, Yuri Gurevich and Saharon Shelah 
+Abstract: Turing machines define polynomial time (PTime) on strings but cannot deal with structures like graphs directly, and there is no known, easily computable string encoding of isomorphism classes of structures. Is there a computation model whose machines do not distinguish between isomorphic structures and compute exactly PTime properties? This question can be recast as follows: Does there exists a logic that captures polynomial time (without presuming the presence of a linear order)? Earlier, one of us conjectured the negative answer. The problem motivated a quest for stronger and stronger PTime logics. All these logics avoid arbitrary choice. Here we attempt to capture the choiceless fragment of PTime. Our computation model is a version of abstract state machines (formerly called evolving algebras). The idea is to replace arbitrary choice with parallel execution. The resulting logic is more expressive than other PTime logics in the literature. A more difficult theorem shows that the logic does not capture all PTime. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Abiteboul, Vardi and Vianu 1997 Serge Abiteboul, Moshe Y. Vardi and Victor Vianu, </author> <title> "Fixpoint Logics, Relational Machines, and Computational Complexity", </title> <journal> Journal of ACM, </journal> <note> to appear. </note> <author> Abiteboul and Vianu 1991 Serge Abiteboul and Victor Vianu, </author> <title> "Generic Computation and its Complexity", </title> <booktitle> ACM Symposium on Theory of Computing, </booktitle> <year> 1991, </year> <pages> 209-219. </pages>
+Reference: <author> Blass and Gurevich 1997 Andreas Blass and Yuri Gurevich, </author> <title> "The Linear Time Hierarchy Theorem for RAMs and Abstract State Machines", </title> <journal> Journal of Universal Computer Science (Springer), </journal> <volume> Vol. 3, No. 4 (1997), </volume> <pages> 247-278. </pages>
+
+Reference: <author> Kolaitis and Vardi 1992 Ph. G. Kolaitis and M. Y. Vardi, </author> <title> "Infinitary Logic and 0-1 Laws", Information and Computation 98 (1992), 258-294. Leivant 1989 Daniel Leivant, "Descriptive Characterizations of Computational Complexity", </title> <journal> Journal of Computer and System Sciences 39 (1989), </journal> <pages> 51-83. </pages>
+Reference: <editor> Moschovakis 1974 Y. N. Moschovakis, </editor> <title> "Elementary Induction on Abstract Structures" North-Holland, 1974. Shelah 1997 Saharon Shelah, </title> <type> Manuscript 534. 47 </type>
+References-found: 4
+

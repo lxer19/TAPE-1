@@ -1,0 +1,28 @@
+URL: http://www.cs.cornell.edu/Info/People/bba/ecoop.ps.gz
+Refering-URL: http://www.cs.cornell.edu/Info/People/bba/papers.html
+Root-URL: 
+Title: Towards A Generic Object Model For Multi-Domain Management Towards A Generic Object Model For Multi
+Author: Bela Ban, 
+Affiliation: IBM Zurich Research Laboratory 1 University of Zurich  
+Abstract: Today, management of heterogeneous distributed networks is a non-trivial task requiring sophisticated management tools. In the telecommunications area SNMP [7] and X.700 [3] are predominantly used while distributed object-oriented programming toolkits such as CORBA [6] or TINA [8] are emerging as alternatives. Therefore it would be beneficial to have a tool that lets programmers transparently access instances from several different object models. This paper presents a uniform generic object model (GOM) [2] that can be employed to transparently manipulate instances from various specific object models. 
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> Ban, Bela. </author> <title> Extending CORBA For Multi-Domain Management. </title> <institution> IBM Research Division. Zurich Research Laboratory, </institution> <year> 1995. </year> <note> http://www.zurich.ibm.com/~bba/corbagom.ps </note>
+Reference-contexts: The interpreter has been used to provide a proof-of-concept implementation of a toolkit for roaming agents 1 . Future work will include the provision of a generic event handling mechanism and the porting of the GOM toolkit to CORBA <ref> [1] </ref>.
+Reference: 2. <author> Ban, Bela. </author> <title> Towards an Object-Oriented Framework for Multi-Domain Management. </title> <type> Research Report RZ 2789 (89267). </type> <institution> IBM Research Division. Zurich Research Laboratory, </institution> <year> 1996. </year> <note> http://www.zurich.ibm.com/~bba/GOM.ps </note>
+Reference: 3. <author> ISO/IEC 9596. </author> <title> Common Management Information Protocol (CMIP). </title>
+Reference-contexts: The architecture of GOM is shown in figure 1 below: The approach taken by GOM is to collect meta-information from the specification of object models such as X.700s GDMO/ASN.1 <ref> [3] </ref> or CORBAs IDL [6] in a Meta-Information Database (MID) and access the instances in an X.700 agent or a CORBA server using this meta-information.
+Reference: 4. <institution> SOMobjects Developer Toolkit Programmers Reference. IBM. </institution> <address> New York, </address> <year> 1993. </year>
+Reference-contexts: A prototype including a subset of the functionality of GOM has been created at the IBM Zurich Research Laboratory using an implementation of CORBA <ref> [4] </ref> and an OSI agent develoment platform [5]. The prototype includes creation and deletion of GOM instances using the MID; GET-, SET and ACTION-requests for both CORBA and X.700 and a modified ASN.1 and GDMO compiler. Currently, there exists a graphical (WWW-based) user-interface for the manipulation of GOM.
+Reference: 5. <author> Feridun, M., L. Heusler and R. Nielsen: </author> <title> Implementing OSI Agents for TMN. </title> <institution> IBM Research Division, Zurich Research Laboratory. Rueschlikon, Switzerland. </institution>
+Reference-contexts: A prototype including a subset of the functionality of GOM has been created at the IBM Zurich Research Laboratory using an implementation of CORBA [4] and an OSI agent develoment platform <ref> [5] </ref>. The prototype includes creation and deletion of GOM instances using the MID; GET-, SET and ACTION-requests for both CORBA and X.700 and a modified ASN.1 and GDMO compiler. Currently, there exists a graphical (WWW-based) user-interface for the manipulation of GOM.
+Reference: 6. <author> Object Management Group: </author> <title> The Common Object Request Broker: Architecture and Specification. OMG, Framingham 1992. Doc. </title> <publisher> 92-12-1 </publisher>
+Reference-contexts: The architecture of GOM is shown in figure 1 below: The approach taken by GOM is to collect meta-information from the specification of object models such as X.700s GDMO/ASN.1 [3] or CORBAs IDL <ref> [6] </ref> in a Meta-Information Database (MID) and access the instances in an X.700 agent or a CORBA server using this meta-information.
+Reference: 7. <author> RFC 1157. Case, J., M. Fedor, M. Schoffstall, C. Davin. </author> <title> The Simple Network Management Protocol. </title> <month> May </month> <year> 1990. </year>
+Reference: 8. <institution> Telecommunications Information Networking Architecture Consortium: </institution> <note> Overall Concepts and Principles of TINA. Version 1.0, </note> <month> Feb. 17 </month> <year> 1995. </year>
+Reference: 9. <author> GOMscript. </author> <title> An Interpreter For GOM. </title> <address> http://www.zurich.ibm.com/~bba/gomscript.html </address>
+Reference-contexts: Currently, there exists a graphical (WWW-based) user-interface for the manipulation of GOM. It uses an HTTP-server and CGI-scripts for communication between a GOM manager and the frontend. A C++-like interpreter <ref> [9] </ref> has been written on top of GOM that allows to create and manipulate instances either interactively or by the use of scripts. The interpreter has been used to provide a proof-of-concept implementation of a toolkit for roaming agents 1 .
+Reference: 1. <institution> See http://www.zurich.ibm.com/~bba/agent.html </institution>
+Reference-contexts: The interpreter has been used to provide a proof-of-concept implementation of a toolkit for roaming agents 1 . Future work will include the provision of a generic event handling mechanism and the porting of the GOM toolkit to CORBA <ref> [1] </ref>.
+References-found: 10
+

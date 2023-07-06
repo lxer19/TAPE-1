@@ -1,0 +1,23 @@
+URL: http://ptolemy.eecs.berkeley.edu/papers/Radarsimu.ps.Z
+Refering-URL: http://ptolemy.eecs.berkeley.edu/papers/publications.html/pubs_1995.html
+Root-URL: http://www.cs.berkeley.edu
+Title: combined successfully to simulate a complex radar processing algorithm. Ptolemy: a Framework for Simulating and
+Author: . ACKNOWLEDGEMENTS J. T. Buck, S. Ha, E. A. Lee, D. G. Messerschmitt, [] J. Buck, S. Ha, E. A. Lee, D. G. Messerschmitt, [] G. Desodt, D. Muller, D. Puzenat, OSCAR, p. ,, Paris, . [] F. H. M Fransen, F. Balasa, M. F. X. B. van Swaaij, F. V. M. Cathoor, and H. J. De Man [] E. A. Lee and D. G. Messerschmitt, [] E. A. Lee, |X(bin)| dB bin 
+Address: M94/53, ERL, UC-Berkeley, Ca 94720  Minneapolis, MN,  
+Affiliation: ERL  
+Date: April 1991.  155-182, April, 1994.  319-327, September, 1993.  September, 1987.  April, 1993.  20.00  0.00 120.00  
+Note: These methods have been  9. REFERENCES [1]  Multi-rate Signal Processing in Ptolemy, Proceedings of ICASSP, Toronto,  Development, Vol. 4, pp.  IEEE Trans. on VLSI Systems, 1(3), pp.  [5] D. L. Johnson, London Mathematical Society, Presentations of Groups, Cambridge University press, 1990. [6] E.  Synchronous Data-ow, Proceedings of the IEEE,  Proc. of IEEE Int. Conf. on Acoustics, Speech, and Signal Processing,  
+Pubnum: Memo No. UCB/  0.00  40.00  
+Abstract: In the first one, we have shown how to define a model of data representation as a multiprojection. This representation is convenient in terms of reusability and development of functions. More precisely we have seen that a function can be reused independently of the number of dimensions by using M-operators to transpose the data representation. The second idea is to use higher-order function with a graphical language. We have used the higher-order function concept with one-dimensional functions to build representations of multidimensional signal processing. Higher-order functions allow us to use a hierarchical representation that is a convenient feature in designing complex simulations. It also presents an expressive description of the functions applied in a style that is close to the hardware implementation. Although not explored in this paper, it also exposes the natural parallelism in the algorithm. The authors gratefully acknowledge the entire Ptolemy team for building the infrastructure within which we could carry out these experiments. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> J. T. Buck, S. Ha, E. A. Lee, D. G. Messerschmitt, </author> <booktitle> Multi-rate Signal Processing in Ptolemy, Proceedings of ICASSP, </booktitle> <address> Toronto, </address> <month> April </month> <year> 1991. </year>
+Reference: [2] <author> J. Buck, S. Ha, E. A. Lee, D. G. Messerschmitt, Ptolemy: </author> <title> a Framework for Simulating and Prototyping Heterogeneous Systems, </title> <journal> International Journal of Computer Simulation, special issue on Simulation Software Development, </journal> <volume> Vol. 4, </volume> <pages> pp. 155-182, </pages> <month> April, </month> <year> 1994. </year>
+Reference: [3] <author> G. Desodt, D. Muller, D. Puzenat, OSCAR, </author> <title> a simulation environment dedicated to the design and performances assessment of RADAR system, </title> <booktitle> International Conference on Radar, </booktitle> <address> p. 414,419, Paris, </address> <year> 1994. </year>
+Reference: [4] <author> F. H. M Fransen, F. Balasa, M. F. X. B. van Swaaij, F. V. M. Cathoor, and H. J. </author> <title> De Man Modeling Multidimensional Data and Control Flow, </title> <journal> IEEE Trans. on VLSI Systems, </journal> <volume> 1(3), </volume> <pages> pp. 319-327, </pages> <month> September, </month> <year> 1993. </year>
+Reference: [5] <author> D. L. Johnson, </author> <title> London Mathematical Society, Presentations of Groups, </title> <publisher> Cambridge University press, </publisher> <year> 1990. </year>
+Reference: [6] <author> E. A.Lee, </author> <title> Dataow process networks, </title> <note> Memo No. UCB/ ERL M94/53, ERL, UC-Berkeley, Ca 94720 </note>
+Reference: [7] <author> E. A. Lee and D. G. Messerschmitt, </author> <title> Synchronous Data-ow, </title> <booktitle> Proceedings of the IEEE, </booktitle> <month> September, </month> <year> 1987. </year>
+
+References-found: 7
+

@@ -1,0 +1,16 @@
+URL: ftp://ftp.cs.rutgers.edu/pub/farach/2dAlphaInd.ps.Z
+Refering-URL: http://www.cs.rutgers.edu/~farach/index.html
+Root-URL: http://www.cs.rutgers.edu
+Title: Two Dimensional Matching 11 Efficient pattern matching with scaling, Proceedings Fast algorithms for two dimensional
+Author: [] A. Amir, G. Landau, and U. Vishkin, [] R. Baeza-Yates and M. R egnier, SWAT `, (). [] T. Baker, [] R. Boyer and J. Moore, [] M. T. Chen and J. Seiferas, A. Apostolico and Z. Galil, M. Fischer and M. Paterson, tion, R.M. Karp Z. G. A. Apos D. Harel and R. Tarjan, R. Karp, R. Miller, and A. Rosenberg, R. Karp and M. Rabin, D. Knuth, J. Morris, and V. Pratt, G. Landau and U. Vishkin, J. R. F. Zhu and T. Takaoka, 
+Address: San Fransisco, CA, (1990).  
+Note: of First Symposium on Discrete Algorithms,  SIAM J. Comp, 7 (1978), pp. 533-541. [9] R. Bird, Two dimensional pattern matching, Information Processing Letters, 6 (1977), pp. 168  Comm. ACM, 20 (1977), pp. 762  eds., NATO ASI Series F: Computer and System Sciences, 1985, ch. 12, pp. 97-107. [12]  (editor), SIAM-AMS Proceedings, 7 (1974), pp. 113-125. [13] Z. Galil,  tolico, ed., vol. 12, NATO ASI Series F, 1985, pp. 1-8. [14] Z. Galil and K. Park, Truly alphabet-independent two-dimensional pattern matching, Proc. 33rd IEEE FOCS, (1992). [15] Z. Galil and J. Seiferas, Time-space-optimal string matching, J. Computer and System Science, 26 (1983), pp. 280-294. [16]  Science, 13 (1984), pp. 338-355. [17]  Symposium on the Theory of Computing, 4 (1972), pp. 125-136. [18]  IBM Journal of Res. and Dev., (1987), pp. 249-260. [19]  SIAM J. Comp., 6 (1977), pp. 323-350. [20]  Proc. 26th IEEE FOCS, (1985), pp. 126-126. [21] M. Main and R.  of Algorithms, (1984), pp. 422-432. [22] E. M. McCreight, A space-economical suffix tree construction algorithm, Journal of the ACM, 23 (1976), pp. 262-272. [23] A. Rosenfeld and A. Kak, Digital Picture Processing, Academic Press, New York, 1982. [24] U. Vishkin,  SIAM J. Comp., 20 (1991), pp. 303-314. [25] P. Weiner, Linear pattern matching algorithm, Proc. 14 IEEE Symposium on Switching and Automata Theory, (1973), pp. 1-11. [26]  Comm. ACM, 32 (1989), pp. 1110-1120.  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> A. Aho and M. Corasick, </author> <title> Efficient string matching, </title> <editor> C. </editor> <booktitle> ACM, 18 (1975), </booktitle> <pages> pp. 333-340. </pages>
+Reference: [2] <author> A. Amir and G. Benson, </author> <title> Two-dimensional periodicity and its application, </title> <booktitle> Proc. of 3rd Symposium on Discrete Algorithms, </booktitle> <address> Orlando, FL, </address> <year> (1992). </year>
+Reference: [3] <author> A. Amir, G. Benson, and M. Farach, </author> <title> The truth, the whole truth and nothing but the truth: Alphabet independent 2-d witness table construction, </title> <type> Tech. Rep. </type> <institution> GIT-CC-92-51, Georgia Tech, </institution> <year> 1992. </year>
+Reference: [4] <author> A. Amir and M. Farach, </author> <title> Two dimensional dictionary matching. </title> <type> Manuscript, </type> <year> 1991. </year>
+
+References-found: 4
+

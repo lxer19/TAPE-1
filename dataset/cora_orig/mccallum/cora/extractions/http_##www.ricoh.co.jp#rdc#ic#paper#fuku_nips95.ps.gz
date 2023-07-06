@@ -1,0 +1,27 @@
+URL: http://www.ricoh.co.jp/rdc/ic/paper/fuku_nips95.ps.gz
+Refering-URL: http://www.cs.cmu.edu/Web/Groups/NIPS/NIPS95/Papers.html
+Root-URL: 
+Email: E-mail: fuku@ic.rdc.ricoh.co.jp  
+Title: Advances in Neural Information Processing Systems 8 Active Learning in Multilayer Perceptrons  
+Author: Kenji Fukumizu 
+Note: MLP. Its effectiveness is verified through experiments.  
+Address: Communication R&D Center, Ricoh Co., Ltd. 3-2-3, Shin-yokohama, Yokohama, 222 Japan  
+Affiliation: Information and  
+Abstract: We propose an active learning method with hidden-unit reduction, which is devised specially for multilayer perceptrons (MLP). First, we review our active learning method, and point out that many Fisher-information-based methods applied to MLP have a critical problem: the information matrix may be singular. To solve this problem, we derive the singularity condition of an information matrix, and propose an active learning technique that is applicable to 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> D. A. Cohn. </author> <title> (1994) Neural network exploration using optimal experiment design. </title>
+Reference: <editor> In J. Cowan et al. (ed.), </editor> <booktitle> Advances in Neural Information Processing Systems 6, </booktitle> <pages> 679-686. </pages> <address> San Mateo, CA: </address> <publisher> Morgan Kaufmann. </publisher>
+Reference: <author> V. V. Fedorov. </author> <title> (1972) Theory of Optimal Experiments. </title> <publisher> NY: Academic Press. </publisher>
+Reference: <author> K. Fukumizu. </author> <title> (1996) A Regularity Condition of the Information Matrix of a Multilayer Perceptron Network. Neural Networks, </title> <note> to appear. </note>
+Reference-contexts: The complete proof will appear in a forthcoming paper <ref> (Fukumizu, 1996) </ref>. Rough sketch of the proof. We know easily that an information matrix is singular if and only if f @f (x;) @ a g a are linearly dependent. The sufficiency can be proved easily.
+Reference: <author> K. Fukumizu, & S. Watanabe. </author> <title> (1994) Error Estimation and Learning Data Arrangement for Neural Networks. </title> <booktitle> Proc. IEEE Int. Conf. Neural Networks :777-780. </booktitle>
+Reference-contexts: In this paper, we consider the problem of active learning in multilayer perceptrons (MLP). First, we review our method of active learning <ref> (Fukumizu el al., 1994) </ref>, in which we prepare a probability distribution and obtain training data as samples from the distribution. This methodology leads us to an information-matrix-based criterion similar to other existing ones (Fedorov, 1972; Pukelsheim, 1993). <p> We demonstrate the effectiveness of the algorithm through experiments. 1 2 STATISTICALLY OPTIMAL TRAINING DATA 2.1 A CRITERION OF OPTIMALITY We review the criterion of statistically optimal training data <ref> (Fukumizu et al., 1994) </ref>. <p> We have proposed a practical algorithm in which we replace 0 with ^ , prepare a family of probability fr (x; v) j v : paramaterg to choose training samples, and optimize v and ^ iteratively <ref> (Fukumizu et al., 1994) </ref>. Active Learning Algorithm 1. Select an initial training data set D [0] from r (x; v [0] ), and compute ^ [0] . 2. k := 1. 3.
+Reference: <author> K. Hagiwara, N. Toda, & S. Usui. </author> <title> (1993) On the problem of applying AIC to determine the structure of a layered feed-forward neural network. </title> <booktitle> Proc. 1993 Int. Joint Conf. Neural Networks :2263-2266. </booktitle>
+Reference-contexts: Our active learning method as well as many other ones requires the inverse of an information matrix J . The information matrix of MLP, however, is not always invertible (White, 1989). Any statistical algorithms utilizing the inverse, then, cannot be applied directly to MLP <ref> (Hagiwara et al., 1993) </ref>.
+Reference: <author> D. MacKay. </author> <title> (1992) Information-based objective functions for active data selection, </title> <booktitle> Neural Computation 4(4) </booktitle> <pages> 305-318. </pages>
+Reference: <author> F. Pukelsheim. </author> <title> (1993) Optimal Design of Experiments. </title> <publisher> NY: John Wiley & Sons. </publisher>
+Reference: <author> H. White. </author> <booktitle> (1989) Learning in artificial neural networks: A statistical perspective Neural Computation 1(4) </booktitle> <pages> 425-464. 7 </pages>
+Reference-contexts: Active learning techniques have been recently used with neural networks (MacKay, 1992; Cohn, 1994). Our method, however, as well as many other ones has a crucial problem: the required inverse of an information matrix may not exist <ref> (White, 1989) </ref>. We propose an active learning technique which is applicable to three-layer perceptrons. Developing a theory on the singularity of a Fisher information matrix, we present an active learning algorithm which keeps the information matrix nonsingu-lar. <p> Our active learning method as well as many other ones requires the inverse of an information matrix J . The information matrix of MLP, however, is not always invertible <ref> (White, 1989) </ref>. Any statistical algorithms utilizing the inverse, then, cannot be applied directly to MLP (Hagiwara et al., 1993).
+References-found: 9
+

@@ -1,0 +1,13 @@
+URL: ftp://ftp.cs.colorado.edu/pub/HPSC/LabManualChap9.ps.Z
+Refering-URL: http://www.cs.colorado.edu/current/courses/materials.hpsc.html
+Root-URL: http://www.cs.colorado.edu
+Title: Lab 9 Molecular Dynamics: Accuracy of Numerical Methods 9.1 Introduction  
+Note: 227  
+Abstract: In this chapter we study the accuracy of Euler's method and Verlet's method for solving the equations of motion arising in molecular dynamics. You may need to review Verlet's algorithm, the basic form and the summed form, described in the molecular dynamics tutorial book chapter, herein called the tutorial (also available from the HPSC ftp directory as [Fosdick 95]). Some of the work here uses the properties of eigenvalues and eigenvectors of matrices; therefore you may want to review this material in the numerical review tutorial book chapter (also available in the HPSC ftp directory as [Fosdick & Jessup 95]). In the molecular dynamics tutorial, it was mentioned that the Hooke's Law (HL) model admits an exact solution in terms of the eigenvalues and eigenvectors of a certain matrix. We exploit this here. The exact solution is possible because the force in the HL model is a linear function of position; thus the equations of motion are linear. Even though the HL model is somewhat unnatural, forces in nature being nonlinear in general, it is an important special case for two reasons. First, in those molecular dynamics problems where it can be assumed that the displacement of atoms from their equilibrium positions is 
+Abstract-found: 1
+Intro-found: 1
+Reference: [Fosdick & Jessup 95] <author> FOSDICK, LLOYD D. AND ELIZABETH R. JESSUP. </author> <year> [1995]. </year> <title> A review of selected topics from numerical analysis. </title> <booktitle> HPSC Course Notes. </booktitle>
+Reference-contexts: Some of the work here uses the properties of eigenvalues and eigenvectors of matrices; therefore you may want to review this material in the numerical review tutorial book chapter (also available in the HPSC ftp directory as <ref> [Fosdick & Jessup 95] </ref>). In the molecular dynamics tutorial, it was mentioned that the Hooke's Law (HL) model admits an exact solution in terms of the eigenvalues and eigenvectors of a certain matrix. We exploit this here.
+
+References-found: 1
+

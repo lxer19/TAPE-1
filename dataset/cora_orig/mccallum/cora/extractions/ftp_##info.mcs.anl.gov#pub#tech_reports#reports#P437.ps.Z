@@ -1,0 +1,21 @@
+URL: ftp://info.mcs.anl.gov/pub/tech_reports/reports/P437.ps.Z
+Refering-URL: http://www.mcs.anl.gov/publications/abstracts/abstracts94.htm
+Root-URL: http://www.mcs.anl.gov
+Title: Cubature Rules of Prescribed Merit having dimension s and merit 2 k These rules seem
+Author: J. N. Lyness I. H. Sloan 
+Keyword: Key words. cubature, merit, multidimensional quadrature  
+Note: k  that can be achieved with a given number of abscissas.  AMS(MOS) subject classification. 65D32  
+Address: Argonne, IL 60439 USA  Sydney, N.S.W. 2033 Australia  
+Affiliation: Mathematics and Computer Science Division Argonne National Laboratory  School of Mathematics University of New South Wales  
+Abstract: We introduce a criterion for the evaluation of multidimensional quadrature, or cu-bature, rules for the hypercube: this is the merit of a rule, which is closely related to its trigonometric degree, and which reduces to the Zaremba figure of merit in the case of a lattice rule. We derive a family of rules Q s 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Delvos, F.-J. </author> <year> (1990), </year> <title> "Boolean Methods for Double Integration," </title> <journal> Math. Comp. </journal> <volume> 55, </volume> <pages> pp. 683-692. </pages>
+Reference: <author> Lyness, J. N. </author> <year> (1989), </year> <title> "An Introduction to Lattice Rules and Their Generator Matrices," </title> <journal> IMA J. Numer. Anal. </journal> <volume> 9, </volume> <pages> pp. 405-419. </pages>
+Reference: <author> Niederreiter, H. </author> <year> (1992), </year> <title> Random Number Generation and Quasi-Monte Carlo Methods, CBMS-NSF 63, </title> <publisher> SIAM, </publisher> <address> Philadelphia. </address>
+Reference: <author> Sloan, I. H., and Joe, S. </author> <year> (1994), </year> <title> Lattice Methods for Multiple Integration, </title> <publisher> Oxford University Press. </publisher>
+Reference: <author> Sloan, I. H., and Kachoyan, P. J. </author> <year> (1987), </year> <title> "Lattice Methods for Multiple Integration: Theory, Error Analysis and Examples," </title> <journal> SIAM J. Numer. Anal. </journal> <volume> 24, </volume> <pages> pp. 116-128. </pages>
+Reference: <author> Sloan, I. H., and Lyness, J. N. </author> <year> (1989), </year> <title> "The Representation of Lattice Quadrature Rules as Multiple Sums," </title> <journal> Math. Comput. </journal> <volume> 52, </volume> <pages> pp. 81-94. </pages>
+Reference: <author> Smoljak, S. A. </author> <year> (1963), </year> <title> "Quadrature and Interpolation Formulas for Tensor Products of Certain Classes of Functions," </title> <journal> Soviet Math. </journal> <volume> 4, </volume> <pages> pp. </pages> <month> 240-243. </month> <title> (Translated from Dokl. </title> <journal> Akad. Nauk. </journal> <volume> SSSR 148, </volume> <pages> pp. 1042-1043, </pages> <year> 1963.) </year> <note> Zaremba, </note> <author> S. K. </author> <year> (1974), </year> <title> "Good Latttice Points Modulo Composite Numbers," </title> <journal> Monatsh. Math. </journal> <volume> 78, </volume> <pages> pp. 446-460. 20 </pages>
+References-found: 7
+

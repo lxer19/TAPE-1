@@ -1,0 +1,12 @@
+URL: http://www.cis.ohio-state.edu/~yagel/sig96paper.ps.gz
+Refering-URL: http://www.cis.ohio-state.edu/~yagel/sig96course.html
+Root-URL: 
+Title: Volume Viewing: State of the Art Survey into the scene. The viewing algorithm is heavily
+Author: D Roni Yagel 
+Note: ixel  conclude by surveying  
+Affiliation: epartment of Computer and Information Science The Ohio State University  
+Abstract: D screen. Rendering is composed of a viewing process which is the subject of this paper, and the shading process. p The projection process determines, for each screen pixel, which objects are seen by the sight ray cast from this raphics engines can be exploited to display geometric primitives, typically employing surface rendering. However, r when volume primitives are displayed directly, a special volume viewing algorithm should be employed. This algo-ithm should capture the contents of the voxels on the surface as well as the inside of the volumetric object being e visualized. This paper surveys and compares previous work in the field of direct volume viewing. We describ ethods for accelerating volume viewing, parallel volume viewing algorithms, we special purpose hardware. We r
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

@@ -1,0 +1,13 @@
+URL: ftp://cag.lcs.mit.edu/pub/dm/papers/haller:skey.ps.gz
+Refering-URL: http://www.pdos.lcs.mit.edu/~dm/
+Root-URL: 
+Title: THE S/KEY TM ONE-TIME PASSWORD SYSTEM several advantages compared with other one-time or multi-use authentication
+Author: Neil M. Haller 
+Note: The S/KEY system has  has been in experimental use at Bellcore for two years. It is available by anonymous ftp on the Internet.  
+Address: Morristown, New Jersey  
+Affiliation: Bellcore  
+Abstract: Computing systems have been under increasingly sophisticated attack over the Internet and by using dial-up access ports. One form of attack is eavesdropping on network connections to obtain login id's and passwords of legitimate users. This information is used at a later time to attack the system. We have developed a prototype software system, the S/KEY TM one-time password system, to counter this type of attack and have been using it experimentally for external access to a research computer complex at Bellcore. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

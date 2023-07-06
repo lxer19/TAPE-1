@@ -1,0 +1,25 @@
+URL: http://www.cs.unc.edu/~stuerzl/papers/localillum.ps.gz
+Refering-URL: http://www.cs.unc.edu/~stuerzl/publications.html
+Root-URL: http://www.cs.unc.edu
+Abstract-found: 0
+Intro-found: 1
+Reference: <author> Arvo J., </author> <title> The Irradiance Jacobian for Partially Occluded Polyhedral Sources, </title> <booktitle> Computer Graphics (SIGGRAPH 94), </booktitle> <pages> pp. 343-350, </pages> <month> July </month> <year> 1994. </year>
+Reference: <author> Bian B., </author> <title> Hemispherical Projection of a triangle, In Graphics Gems III, </title> <editor> D. Kirk, Ed. </editor> <publisher> Academic Press, </publisher> <address> San Diego, </address> <year> 1992, </year> <pages> pp. 314-317. </pages>
+Reference: <author> Beran-Koehn J. C., and Pavicic M. J., </author> <title> A cubic tetra-hedal adaption of the hemi-cube algorithm, In Graphics Gems II, </title> <editor> J. Arvo, Ed. </editor> <publisher> Academic Press, </publisher> <address> San Diego, </address> <year> 1991, </year> <pages> pp. 229-302. </pages>
+Reference: <author> Baum D. R., Rushmeier H. E., and Winget J. M., </author> <title> Improving radiosity solutions through the use of analytically determined form-factors, </title> <booktitle> Computer Graphics (SIGGRAPH 89), </booktitle> <pages> pp. 325-334, </pages> <month> July </month> <year> 1989. </year>
+Reference: <author> Cohen M. F., and Greenberg D. P., </author> <title> The hemicube: A radiosity solution for complex environments, </title> <booktitle> Computer Graphics (SIGGRAPH 85), </booktitle> <pages> pp. 31-40, </pages> <month> July </month> <year> 1985. </year>
+Reference: <author> Cohen M. F., and Wallace J. R., </author> <title> Radiosity and Realistic Image Synthesis, </title> <publisher> Academic Press, </publisher> <year> 1993. </year>
+Reference: <author> Foley J. D., van Dam A., Feiner S. K., and Hughes J. F., </author> <title> Computer Graphics: Principles and Practice, Second Edition, </title> <publisher> Addison-Wesley, </publisher> <year> 1990. </year>
+Reference: <author> Fuchs H., Kedem, Z. M., and Naylor B. F., </author> <title> On Visi-bile Surface Generation by A Priori Tree Structures, </title> <booktitle> Computer Graphics (SIGGRAPH 80), </booktitle> <pages> pp. 124-133, </pages> <month> July </month> <year> 1980. </year>
+Reference: <author> Gatenby N., and Hewitt W. T., </author> <title> Radiosity in Computer Graphics: A Proposed Alternative to the Hemi-cube Algorithm, </title> <booktitle> Eurographics Workshop on Rendering 1991. </booktitle>
+Reference: <author> Recker R. J., George D. W., and Greenberg D. P., </author> <title> Acceleration techniques for progressive refinement radiosity, </title> <booktitle> Computer Graphics (1990 Symposium on Interactive 3D Graphics), </booktitle> <pages> pp. 59-66, </pages> <month> Mar. </month> <year> 1990. </year>
+Reference: <author> Rushmeier H. E., </author> <title> Realistic Image Synthesis for Scenes with Radiatively Participating Media, </title> <type> Ph.D. thesis, </type> <institution> Cornell University, </institution> <year> 1986. </year>
+Reference: <author> Shirley P., </author> <title> Physically Based Lighting Calculations for Computer Graphics, </title> <type> Ph.D. thesis, </type> <institution> University of Illinois at Urbana-Champain, </institution> <year> 1991. </year>
+Reference: <author> Spencer S. N., </author> <title> The hemisphere radiosity method: A tale of two algorithms, </title> <booktitle> In Photorealism in Computer Graphics (Proceedings Eurographics Workshop on Photosimulation, Realism and Physics in Computer Graphics, </booktitle> <year> 1990), </year> <editor> K. Boua-touch and C. Bouville, Eds., </editor> <year> 1991, </year> <pages> pp. 127-135. </pages>
+Reference: <author> Sillion F., and Puech C., </author> <title> A general two-pass method integrating specular and diffuse reection, </title> <booktitle> Computer Graphics (SIGGRAPH 89), </booktitle> <pages> pp. 335-344, </pages> <month> July </month> <year> 1989. </year>
+Reference: <author> Sillion F. X., and Puech C., </author> <title> Radiosity and Global Illumination, </title> <publisher> Morgan Kaufmann Publishers, </publisher> <year> 1994. </year>
+Reference: <author> Ward G. J., </author> <title> The RADIANCE Lighting Simulation and Rendering System, </title> <booktitle> Computer Graphics (SIGGRAPH 94), </booktitle> <pages> pp. 459-472, </pages> <month> July </month> <year> 1994. </year>
+Reference: <author> Weiler K., and Atherton P., </author> <title> Hidden Surface Removal Using Polygon Area Sorting, </title> <booktitle> Computer Graphics (SIGGRAPH 77), </booktitle> <pages> pp. 214-222, </pages> <year> 1977. </year>
+Reference: <author> Wang Y., and Davis W. A., </author> <title> Octant Priority for Radi-osity Image Rendering, </title> <booktitle> Graphics Interface 90, </booktitle> <pages> pp. 83-91, </pages> <year> 1990. </year>
+References-found: 18
+

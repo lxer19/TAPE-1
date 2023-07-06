@@ -1,0 +1,20 @@
+URL: ftp://ftp.ini.unizh.ch/pub/giacomo/papers/report97.ps.gz
+Refering-URL: http://www.ini.unizh.ch:80/telluride97/report97/
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Author: Terrence Sejnowski, Rodney Douglas, 
+Affiliation: Salk Institute UCSD Christof Koch, California Institute of Technology and  Institut fur Neuroinformatics, Zurich  
+Date: July 13, 1997  November 3, 1997  
+Note: WORKSHOPS ON NEUROMORPHIC ENGINEERING Monday, June 23 to Sunday,  
+Abstract: Report to the National Science Foundation: 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> S. Still and M.W. Tilden, </author> <title> "Biologically analogous controller for 4-legged robot locomotion", </title> <note> Submitted to NIPS 1997, </note> <institution> Denver, Colorado </institution>
+Reference-contexts: This gave people the opportunity to learn not only about the types of controllers that can drive legged machines, but also about the mechanics necessary for legged locomotion. Charles Higgins built a simple 4-legged robot using the basic controller <ref> [1] </ref> we offered, and a simple mechanical design replicating roughly one of Tildens existing machines. Higgins quickly became familiar with the control as well as mechanical problems involved in building such a machine and became able to solve most of them during the workshop.
+Reference: [2] <author> Indiveri, G. and Verschure P., </author> <title> "Autonomous vehicle guidance using analog VLSI neuromorphic sensors", </title> <booktitle> International Conference on Artificial Neural Networks ICANN97 8-10 October 1997, </booktitle> <address> Lausanne, Switzerland </address>
+Reference-contexts: In addition, these robot/retina systems were used to perform tasks such as line-following navigation based on line position as well as slip motion. These first attempts spawned a year of research on neuromorphic motor-sensory systems <ref> [2] </ref>, which resulted in the systems constructed at this year's workshop. Last year only few researchers worked on the integration of the latest retina or motion chips they were personally developing on to mobile platforms. This year we brought integrated sensory-motor systems, developed in advance specifically for this workshop.
+Reference: [3] <author> Kramer, J., Sarpechkar, R. and Koch C., </author> <title> "Pules-based analog VLSI velocity sensors", </title> <journal> IEEE Trans. Circuits and Systems II, </journal> <volume> vol. </volume> <month> 44 </month> <year> (1997) </year> <month> 86-101. </month>
+Reference-contexts: Neumann, P. Verschure This project was inspired by experiments performed on bees, which have been shown to use motion cues to keep centered when flying through narrow passages. In order to perform a similar experiment on a Koala robot driving between two walls, we mounted two FS velocity sensors <ref> [3] </ref> onto its front part, facing towards the left and right, respectively. The idea was to keep the robot centered between the walls by matching the optical flow seen by the two sensors.
+Reference: [4] <author> Niebur, E., Koch, C. and Rosin, C., </author> <title> "An oscillation-based model for the neural basis of attention", </title> <journal> Vision Research, </journal> <volume> vol. </volume> <month> 33 </month> <year> (1993) </year> <month> 2789-2802. </month>
+
+References-found: 4
+

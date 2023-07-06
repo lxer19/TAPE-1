@@ -1,0 +1,16 @@
+URL: http://www.crs4.it/~cmn/GeoComp/Papers/ParComp/euromech.ps.gz
+Refering-URL: http://www.crs4.it/~cmn/Parcomp/pcg_papers.html
+Root-URL: 
+Title: STOCHASTIC LATTICE GASES AND PARALLEL FLOW  
+Author: Leesa Brieger and Ernesto Bonomi 
+Address: Via Nazario Sauro 10 I 09123 Cagliari Italy  
+Affiliation: CRS4  
+Abstract: The stochastic lattice gas introduced in [1] was shown to simulate the one- dimensional Burgers' equation and the phenomena it embodies: travelling shocks and rarefaction waves. However, shock widening not characteristic of the actual solution is intrinsic to the model. In the present contribution, we consider a variant of this lattice model in which shock widening is inhibited. In addition, in [1] we supposed decorrelated occupation probabilities in the lattice system in order to derive the approximate master equation, a finite difference version of Burgers equation. Here we reconsider the master equation, incorporating the effect of the correlation into the derivation. We see that the master equation is in fact a finite difference discretization of the one-dimensional Navier-Stokes equation for incompressible parallel flow. 
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> L. Brieger, E. </author> <title> Bonomi, </title> <journal> J. Stat. Phys., </journal> <volume> 69, </volume> <pages> 837(1992). </pages>
+Reference-contexts: 1. INTRODUCTION The lattice gas considered in <ref> [1] </ref> is a one-dimensional model in which each particle takes a stochastic walk to the right: with probability ff a particle chooses to move and with probability 1ff chooses to remain stationary. <p> As in <ref> [1] </ref>, if we suppose that occupation probabilities are independent, then the conditional probabilities W n ij can be treated as simple probabilities and the balance equation becomes P n+1 j = 2 j+1 2P n j1 ) + 2 j 1)(P n j1 ): (2) Under appropriate conditions on ff and
+Reference: 2. <author> L. Brieger, E. </author> <title> Bonomi, </title> <journal> Physica D, </journal> <volume> 47, </volume> <pages> 159(1991). </pages>
+
+References-found: 2
+

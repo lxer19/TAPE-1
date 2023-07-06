@@ -1,0 +1,12 @@
+URL: http://www.cs.wustl.edu/~schmidt/LCN-93.ps.gz
+Refering-URL: http://www.cs.wustl.edu/~schmidt/adaptive.html
+Root-URL: 
+Title: Configuration Support for Flexible, Function-Based Communication Systems  
+Author: Douglas C. Schmidt Burkhard Stiller Ahmed Tantawy Tatsuya Suda Martina Zitterbart 
+Address: Irvine, California, USA Karlsruhe, Germany Yorktown Heights, NY  
+Affiliation: Info. and Comp. Sci. Dept. Institute of Telematics T.J. Watson Research Center University of California, Irvine 1 University of Karlsruhe IBM  
+Abstract: An earlier version of this paper appeared in the proceedings of the IEEE 18 th Local Computer Networks conference in Minneapolis, Minnesota, September 1993. Abstract The next generation of communication subsystems must support diverse applications (such as interactive voice and video conferencing, supercomputer visualization, collaborative work, and remote process control) operating over high-performance local, metropolitan, and wide area networks (such as FDDI, SMDS, and B-ISDN). This paper describes a framework that contains a number of resources, languages, and tools for generating customized protocols that support diverse multimedia applications running on high-performance networks. This framework facilitates the configuration of application-tailored, function-based communication protocols that are automatically synthesized from high-level specifications. In addition, this framework also decouples the platform-independent aspects of protocol configuration from the platform-dependent aspects. This enables the generation of efficient protocols on a variety of hardware platforms that offer parallel processing based on shared memory and message passing architectures. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

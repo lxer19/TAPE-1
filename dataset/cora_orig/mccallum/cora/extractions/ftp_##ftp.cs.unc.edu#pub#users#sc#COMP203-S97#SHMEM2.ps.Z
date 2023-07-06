@@ -1,0 +1,15 @@
+URL: ftp://ftp.cs.unc.edu/pub/users/sc/COMP203-S97/SHMEM2.ps.Z
+Refering-URL: http://www.cs.unc.edu/~sc/teaching/COMP203-S1997/slides.html
+Root-URL: http://www.cs.unc.edu
+Title: Shared memory (2) Memory consistency u When must a processor see a value that is
+Author: S. Chatterjee S. Chatterjee Fb S. Chatterjee Fb S. Chatterjee 
+Address: 0)  0)  
+Affiliation: Fb 0 if (Fb  Fb 1 if (Fb  
+Date: 16 April 1997  1997 2  1997 3  Fa 0  if (Fa 0)  1997 4  Fa 1  if (Fa 0)  1997 5  Fa 1  
+Note: S. Chatterjee 1997 1 COMP 203: Parallel and Distributed Computing  Fb 1 if (Fb 0) if (Fa 0) Could this happen? Should this happen? Mem the operations of each individual processor appear in this sequence in the order specified by its program. Lamport (1979)  
+Pubnum: P1 P2  P1 P2  P1 P2  
+Abstract: Fb = 1 S. Chatterjee 1997 6 Sequential consistency A multiprocessor system is sequentially consistent if: the result of any execution is the same as if the operations of all the processors were executed in some sequential order, and 
+Abstract-found: 1
+Intro-found: 0
+References-found: 0
+

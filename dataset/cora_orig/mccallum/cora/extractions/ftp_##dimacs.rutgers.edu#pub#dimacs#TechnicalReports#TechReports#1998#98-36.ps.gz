@@ -1,0 +1,20 @@
+URL: ftp://dimacs.rutgers.edu/pub/dimacs/TechnicalReports/TechReports/1998/98-36.ps.gz
+Refering-URL: http://dimacs.rutgers.edu/TechnicalReports/1998.html
+Root-URL: http://www.cs.rutgers.edu
+Email: Email: liberato@cs.rutgers.edu.  
+Title: Broadcast Disk Paging with a Small Cache  
+Author: by Vincenzo Liberatore ; 
+Web: URL: http://www.cs.rutgers.edu/~liberato/.  
+Address: New Brunswick, NJ 08903.  
+Affiliation: 2 Department of Computer Science, Hill Center, Rutgers University,  
+Date: 1998  
+Note: September  Supported by NSF Career Development Award CCR-9501942, NATO Grant CRG 960215, NSF/NIH Grant BIR 94-12594-03-CONF and an Alfred P. Sloan Research Fellowship. Travel support provided by a DIMACS graduate fellowhip. DIMACS is a partnership of Rutgers University, Princeton University, AT&T Labs-Research, Bell Labs, Bellcore and NEC Research Institute. DIMACS is an NSF Science and Technology Center, funded under contract STC-91-19999; and also receives support from the New Jersey Commission on Science and Technology.  
+Abstract: DIMACS Technical Report 98-36 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Sandy Irani and Anna R. Karlin. </author> <title> Online computation. </title> <editor> In Dorit S. Hochbaum, editor, </editor> <title> Approximation Algorithms for NP-hard Problems, </title> <booktitle> chapter 13, </booktitle> <pages> pages 521-564. </pages> <publisher> PWS Publishing Company, </publisher> <address> Boston, </address> <year> 1997. </year> <month> 8 </month>
+Reference-contexts: The proof is based on a potential function. In the proof we will assume n 6. The result is also proved for n = 3; 4; 5 by solving a linear program (see <ref> [1] </ref>). First of all, we state the following special provision for race configurations: if the rules below yield a potential for a race configuration which is less than fl, then the potential of that race configuration is set to fl. We turn now to define the potential function.
+Reference: [2] <author> Sanjeev Khanna and Vincenzo Liberatore. </author> <title> On broadcast disk paging. </title> <booktitle> In Proceedings of the 30th ACM Symposium on the Theory of Computing, </booktitle> <pages> pages 634-643, </pages> <year> 1998. </year> <month> 9 </month>
+Reference-contexts: 1 Introduction We have studied broadcast disk paging in <ref> [2] </ref>. Most of our proofs hold when the cache size k is at least 3 or some larger constant. In this paper, we will study the case k = 2, and we will show an algorithm that is (n 2=(n 2))-competitive and prove that no better algorithm is possible.
+References-found: 2
+

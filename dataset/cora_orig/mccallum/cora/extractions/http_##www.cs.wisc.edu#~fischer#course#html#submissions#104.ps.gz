@@ -1,0 +1,23 @@
+URL: http://www.cs.wisc.edu/~fischer/course/html/submissions/104.ps.gz
+Refering-URL: http://www.cs.wisc.edu/~fischer/course/html/submissions/
+Root-URL: http://www.cs.wisc.edu
+Title: An Abstract Prolog Instruction Set. Warren's Abstract Machine: a Tutorial Reconstruction. MIT High-Performance Logic Programming
+Author: D. H. D. Warren. [] H. Ait-Kaci. Press, . [] P. Van Roy and A. M. Despain. C. S. Mellish. [] M. Bruynooghe. [] D. H. D. Warren. D. H. D. Warren. 
+Address: 1983.  
+Affiliation: International,  
+Note: References [1]  IEEE Computer, Vol. 25, No. 1, 1992, pp. 54-68. [4] E. Tick and G. Succi. Implementations of Logic Programming Systems. Kluwer Academic Publishers, 1994. [5]  MIT Press, 1991, pp. xiii-xiv. [8] A. Krall and U. Neumerkel. The Vienna Abstract Machine. In PLILP'90, LNCS. Springer, 1990. [9]  DAI 44, University of Edinburgh, 1977. 10  
+Pubnum: Technical Note 209, SIR  Report:  
+Abstract: compile-time optimizations we will be able to run large applications as quickly as the WAM systems in general while exhibits better performance to those tasks involving large, complex data structures. We believe that the LAM provides another possible approach for developing high performance Prolog systems. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> D. H. D. Warren. </author> <title> An Abstract Prolog Instruction Set. </title> <note> Technical Note 209, SIR International, </note> <year> 1983. </year>
+Reference: [2] <author> H. Ait-Kaci. </author> <title> Warren's Abstract Machine: a Tutorial Reconstruction. </title> <publisher> MIT Press, </publisher> <year> 1991. </year>
+Reference: [3] <author> P. Van Roy and A. M. Despain. </author> <title> High-Performance Logic Programming with the Aquarius Prolog Compiler. </title> <journal> IEEE Computer, </journal> <volume> Vol. 25, No. 1, </volume> <year> 1992, </year> <pages> pp. 54-68. </pages>
+Reference: [4] <author> E. Tick and G. Succi. </author> <title> Implementations of Logic Programming Systems. </title> <publisher> Kluwer Academic Publishers, </publisher> <year> 1994. </year>
+Reference: [5] <author> C. S. Mellish. </author> <title> An Alternative to Structure Sharing in the Implementation of a Prolog Interpreter. Logic Programming, </title> <publisher> Academic Press, </publisher> <year> 1982. </year>
+Reference: [6] <author> M. Bruynooghe. </author> <title> The Memory Management of Prolog Implementations. Logic Programming, </title> <publisher> Academic Press, </publisher> <year> 1982. </year>
+Reference: [7] <author> D. H. D. Warren. </author> <title> Foreword in Warren's Abstract Machine: a Tutorial Reconstruction. </title> <publisher> MIT Press, </publisher> <year> 1991, </year> <pages> pp. </pages> <month> xiii-xiv. </month>
+Reference: [8] <author> A. Krall and U. Neumerkel. </author> <title> The Vienna Abstract Machine. In PLILP'90, </title> <publisher> LNCS. Springer, </publisher> <year> 1990. </year>
+
+References-found: 8
+

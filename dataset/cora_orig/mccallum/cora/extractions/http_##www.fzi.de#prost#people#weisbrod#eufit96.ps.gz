@@ -1,0 +1,24 @@
+URL: http://www.fzi.de/prost/people/weisbrod/eufit96.ps.gz
+Refering-URL: http://www.fzi.de/prost/people/weisbrod.html
+Root-URL: http://www.fzi.de
+Email: fantana@decrc.abb.de weisbrod@fzi.de  
+Phone: tel: ++49 6221 596358 tel: ++49 721 9654 612  
+Title: Detecting Local Inconsistency and Incompleteness in Fuzzy Rule Bases  
+Author: Nicolaie L. Fantana Joachim Weisbrod 
+Keyword: fuzzy reasoning, possibilistic reasoning (-reasoning), evidential reasoning (oe-reasoning), gradual incompleteness, gradual inconsistency  
+Address: Heidelberg (DECRC) Karlsruhe  
+Affiliation: Asea Brown Boveri AG Forschungszentrum Forschungszentrum Informatik  Deutschland Deutschland  
+Abstract: Fuzzy rule bases are built of linguistic, qualitative knowledge. By using fuzzy rules we are able to specify simple models of complex systems. But, we have to pay a price for this simplification. In general, fuzzy knowledge is gradually incomplete and gradually inconsistent. This paper deals with the detection of such partial gaps of knowledge or local contradictions. In order to do so we introduce the notion of *-completeness and of *-consistency. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> D. Dubois and H. Prade. </author> <title> Possibility theory: an approach to computerized processing of uncertainty. </title> <publisher> Plenum Press, </publisher> <address> New York, </address> <year> 1988. </year>
+Reference: [2] <author> D. Dubois and H. Prade. </author> <title> Fuzzy sets in approximate reasoning, part 1: Inference with possibility distributions. </title> <journal> Fuzzy Sets and Systems, </journal> <volume> 40 </volume> <pages> 143-201, </pages> <year> 1991. </year>
+Reference: [3] <author> I. B. Turksen and Y. Tian. </author> <title> Combination of rules or their consequences in fuzzy expert systems. </title> <journal> Fuzzy Sets and Systems, </journal> <volume> 58 </volume> <pages> 3-40, </pages> <year> 1993. </year>
+Reference-contexts: 1 For a general overview about degrees of freedom in fuzzy reasoning see <ref> [3] </ref>, e.g.
+Reference: [4] <author> J. Weisbrod. </author> <title> Fuzzy control revisited | why is it working? In P. </title> <editor> P. Wang, editor, </editor> <booktitle> Advances in Fuzzy Theory and Technology, </booktitle> <volume> Vol. III, </volume> <pages> pages 219-244. </pages> <address> Bookwrights, Durham (NC), </address> <year> 1995. </year>
+Reference: [5] <editor> J. Weisbrod. Unscharfes Schlieen. Infix-Verlag, </editor> <address> Sankt Augustin, </address> <year> 1996. </year>
+Reference: [6] <author> R.R. Yager and H.L. Larsen. </author> <title> On discovering partial inconsistencies in validating uncertain knowledge bases by reflecting on the input. </title> <journal> IEEE Transactions on Systems, Man & Cybernetics, </journal> <volume> 21(4) </volume> <pages> 790-801, </pages> <year> 1991. </year>
+Reference: [7] <author> Lotfi A. Zadeh. </author> <title> The concept of a linguistic variable and its application to approximate reasoning. </title> <journal> Information Sciences, </journal> <volume> 8,9:199-249, </volume> <pages> 301-357, 43-80, </pages> <year> 1975. </year>
+Reference: [8] <author> Lotfi A. Zadeh. </author> <title> Fuzzy sets as a basis for a theory of possibility. </title> <journal> Fuzzy Sets and Systems, </journal> <volume> 1 </volume> <pages> 3-28, </pages> <year> 1978. </year>
+References-found: 8
+

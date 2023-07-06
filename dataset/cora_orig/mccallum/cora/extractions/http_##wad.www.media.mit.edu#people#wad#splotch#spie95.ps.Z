@@ -1,0 +1,26 @@
+URL: http://wad.www.media.mit.edu/people/wad/splotch/spie95.ps.Z
+Refering-URL: http://wad.www.media.mit.edu/people/wad/
+Root-URL: http://www.media.mit.edu
+Email: vmbg@media.mit.edu  tamitani@dsp.cl.nec.co.jp  
+Title: A hardware architecture for rapid generation of electro-holographic fringe patterns  
+Author: John A. Watlington, Mark Lucente, Carlton J. Sparrell, V. Michael Bove, Jr. fwad, lucente, carltonj, 
+Keyword: computer-generated holography, electro-holography, holovideo, real-time holographic displays, parallel processing, dataflow processing, intelligent framebuffers  
+Address: Ichiro Tamitani  
+Affiliation: MIT Media Laboratory  Information Technology Research Labs, NEC Corporation  
+Abstract: This report describes the hardware architecture and software implementation of a hologram computing system developed at the MIT Media Laboratory. The hologram computing employs specialized stream-processing hardware embedded in the Cheops Image Processing system a compact, block data-flow parallel processor. A superposition stream processor performs weighted summations of arbitrary one-dimensional basis functions. A two-step holographic computation method called Hogel-Vector encoding utilizes the stream processor's computational power. An array of encoded hogel vectors, generated from a three-dimensional scene description, is rapidly decoded using the processor. The resulting 36-megabyte holographic pattern is transferred to frame-buffers and then fed to a real-time electro-holographic display, producing three-dimensional holographic images. System performance is sufficient to generate an image volume approximately 100 mm per side in 3 seconds. The architecture is scalable over a limited range in both display size and computational power. The limitations on system scalability will be identified and solutions proposed. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> P. Hariharan, </author> <title> Optical Holography. </title> <publisher> Cambridge: Cambridge University Press, </publisher> <year> 1984. </year>
+Reference: [2] <author> W. J. </author> <title> Dallas, </title> <booktitle> "Computer Generated Holograms," in The Computer in Optical Research, </booktitle> <editor> B. R. Frieden editor, </editor> <volume> Vol. </volume> <booktitle> 41 of Springer Series Topics in Applied Physics. </booktitle> <address> Berlin: </address> <publisher> Springer Verlag, </publisher> <year> 1980, </year> <pages> pp. 291-366. </pages>
+Reference: [3] <author> P. St.-Hilaire, S. A. Benton, and M. </author> <title> Lucente "Synthetic aperture holography: a novel approach to three dimensional displays," </title> <journal> Journal of the Optical Society of America A, </journal> <volume> vol. 9, no. 11, </volume> <pages> pp. 1969-1977, </pages> <month> Nov. </month> <year> 1992. </year>
+Reference: [4] <author> D. Leseberg and O. Bryngdahl, </author> <title> "Computer-generated rainbow holograms," </title> <journal> Applied Optics, </journal> <volume> vol. 23, no. 14, </volume> <pages> pp. 2441-2447, </pages> <month> 15 July </month> <year> 1984. </year>
+Reference: [5] <author> M. Lucente, </author> <title> "Diffraction-Specific Fringe Computation for Electro-Holography," </title> <type> Ph. D. Thesis, </type> <institution> Dept. of Electrical Engineering and Computer Science, Massachusetts Institute of Technology, </institution> <month> Sept. </month> <year> 1994. </year>
+Reference: [6] <author> P. St.-Hilaire, </author> <title> "Scalable Optical Architectures for Electronic Holography," </title> <type> Ph. D. Thesis, </type> <institution> Program in Media Arts and Sciences, Massachusetts Institute of Technology, </institution> <month> Sept. </month> <year> 1994. </year>
+Reference: [7] <author> M. Lucente, </author> <title> "Interactive computation of holograms using a look-up table," </title> <journal> Journal of Electronic Imaging, </journal> <volume> vol. 2, no. 1, </volume> <pages> pp. 28-34, </pages> <month> Jan </month> <year> 1993. </year>
+Reference: [8] <author> I. Tamitani, </author> <title> "Splotch Stream Processor", MIT Media Lab internal memo, </title> <month> Aug. </month> <year> 1993. </year>
+Reference: [9] <author> V. M. Bove, Jr., J. A. Watlington, "Cheops: </author> <title> A Reconfigurable Data-Flow System for Video Processing," </title> <note> to be published in IEEE Trans. on Circuits and Systems for Video Technology, </note> <year> 1995. </year>
+Reference: [10] <author> D. Arias, </author> <title> "Design of an 18 Channel Frame Buffer for Holographic Video," </title> <type> S.B. Thesis, </type> <institution> Dept. of Electrical Engineering and Computer Science, Massachusetts Institute of Technology, </institution> <month> Feb. </month> <year> 1992. </year>
+Reference: [11] <author> I. J. Shen, </author> <title> "Resource Manager for a Video Processing System," </title> <type> SM thesis, </type> <institution> MIT, </institution> <year> 1992. </year>
+Reference: [12] <institution> Additional information on holovideo research at the MIT Media Laboratory can be found at the following URL address: </institution> <note> http://lucente.www.media.mit.edu/people/lucente/holo/holovideo.html </note>
+References-found: 12
+

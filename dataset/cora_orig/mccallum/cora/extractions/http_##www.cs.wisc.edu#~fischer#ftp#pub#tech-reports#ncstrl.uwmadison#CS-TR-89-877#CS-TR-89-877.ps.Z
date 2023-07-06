@@ -1,0 +1,28 @@
+URL: http://www.cs.wisc.edu/~fischer/ftp/pub/tech-reports/ncstrl.uwmadison/CS-TR-89-877/CS-TR-89-877.ps.Z
+Refering-URL: http://www.cs.wisc.edu/~fischer/ftp/pub/tech-reports/ncstrl.uwmadison/CS-TR-89-877/
+Root-URL: http://www.cs.wisc.edu
+Email: igor@cs.wisc.edu  solomon@cs.wisc.edu  
+Title: Searching Game Trees in Parallel  
+Author: Igor Steinberg and Marvin Solomon 
+Abstract: We present a new parallel game-tree search algorithm. Our approach classifies a processor's available work as either mandatory (necessary for the solution) or speculative (may be necessary for the solution). Due to the nature of parallel game tree search, it is not possible to keep all processors busy with mandatory work. Our algorithm ER allows potential speculative work to be dynamically ordered, thereby reducing starvation without incurring an equivalent increase in speculative loss. Measurements of ER's performance on both random trees and trees from an actual game show that at least 16 processors can be applied profitably to a single search. These results contrast with previously published studies, which report a rapid drop-off of efficiency as the number of processors increases. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <institution> Akl1982. </institution>
+Reference: <author> S. G. Akl, D. T. Barnard, and R. J Doran, </author> <title> Design, analysis, and implementation of a parallel tree search algorithm, </title> <journal> IEEE Transactions on Pattern Analysis and Machine Intelligence 4 pp. </journal> <month> 192-203 </month> <year> (1982). Baudet1978. </year>
+Reference: <author> G. Baudet, </author> <title> The design and analysis of algorithms for asynchronous multiprocessors, </title> <institution> CMU-CS-78-116, Computer Science Department, Carnegie-Mellon University (1978). Baudet1978a. </institution>
+Reference: <author> G. Baudet, </author> <title> On the branching factor of the alpha-beta pruning algorithm, </title> <journal> Artificial Intelligence 10 pp. </journal> <month> 173-199 </month> <year> (1978). </year>
+Reference: <author> Berliner1988. Hans Berliner and Carl Ebeling, </author> <title> Pattern Knowledge and Search: The SUPREM Architecture, </title> <institution> CMU-CS-88-109, Computer Science Department, Carnegie-Mellon University (1988). </institution>
+Reference: <institution> Finkel1982. </institution>
+Reference: <author> R. A. Finkel and J. P. Fishburn, </author> <title> Parallelism in alpha-beta search, </title> <journal> Artificial Intelligence 19 pp. </journal> <month> 89-106 </month> <year> (1982). </year>
+Reference: <institution> Finkel1987. </institution>
+Reference: <author> R. A. Finkel and U. Manber, </author> <title> DIB: A distributed implementation of backtracking., </title> <journal> TOPLAS 9(2) pp. </journal> <month> 235-256 </month> <year> (1987). Fishburn1981. </year>
+Reference: <author> J. P. Fishburn, </author> <title> Analysis of speedup in distributed algorithms, </title> <type> TR #431, </type> <institution> Computer Sciences Department, University of WisconsinMadison (1981). Knuth1975. </institution>
+Reference: <author> D. E. Knuth and R.W. Moore, </author> <title> An analysis of alpha-beta pruning, </title> <journal> Artificial Intelligence 6 pp. </journal> <month> 293-326 </month> <year> (1975). Marsland1983. </year>
+Reference: <author> T. A. Marsland and M. Campbell, </author> <title> Parallel search of strongly ordered game trees, </title> <journal> ACM Computing Surveys 14 pp. </journal> <month> 347-367 </month> <year> (1983). Marsland1985. </year>
+Reference: <author> T. A. Marsland and F. Popowich, </author> <title> Parallel game tree search, </title> <journal> IEEE PAMI 7 pp. </journal> <month> 442-452 </month> <year> (1985). </year> <title> Steinberg and Solomon Searching Game Trees Page 20 Mller-Nielsen1984. </title>
+Reference: <author> P. Mller-Nielsen and J. Staunstrup, Problem-heap: </author> <title> A paradigm for multiprocessor algorithms., </title> <institution> Department of Computer Science, University of Washington (Nov 13, </institution> <year> 1984). </year> <note> Unpublished report Rosenbloom1982. </note>
+Reference: <author> P. S. Rosenbloom, </author> <title> A world-championship-level othello program, </title> <journal> Artificial Intelligence 19 pp. </journal> <month> 279-320 </month> <year> (1982). </year>
+Reference: <institution> Slagle1969. </institution>
+Reference: <author> J. R. Slagle and J. K. Dixon, </author> <title> Experiments with some programs that search game trees., </title> <journal> JACM 16 pp. </journal> <month> 189-207 </month> <year> (1969). </year>
+References-found: 17
+

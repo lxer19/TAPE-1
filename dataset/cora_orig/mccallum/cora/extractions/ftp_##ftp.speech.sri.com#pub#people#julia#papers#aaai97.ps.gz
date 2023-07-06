@@ -1,0 +1,21 @@
+URL: ftp://ftp.speech.sri.com/pub/people/julia/papers/aaai97.ps.gz
+Refering-URL: http://www.speech.sri.com/people/julia/atis.html
+Root-URL: 
+Email: -julia,leo,mehdi-@speech.sri.com  -cheyer,dowding-@ai.sri.com  
+Author: Luc JULIA Leonardo NEUMEYER Mehdi CHARAFEDDINE Adam CHEYER John DOWDING 
+Address: 333 Ravenswood Avenue Menlo Park, California 94025  333 Ravenswood Avenue Menlo Park, California 94025  
+Affiliation: SRI International STAR Laboratory  SRI International Artificial Intelligence Center  
+Web: HTTP://WWW.SPEECH.SRI.COM/DEMOS/ATIS.HTML  
+Abstract: This paper presents a speech-enabled WWW demonstration based on the Air Travel Information System (ATIS) domain. SRIs speech recognition technology and natural language understanding are fully integrated in a Java application using the DECIPHER speech recognition system and the Open Agent Architecture. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Bratt, H.; Dowding, J. and Hunicke-Smith, K. </author> <year> 1995. </year> <title> The SRI Telephone-based ATIS System, </title> <address> 22-25. Austin, Texas: </address> <booktitle> ARPA Workshop on Spoken Language Technology. </booktitle>
+Reference: <author> Cheyer, A. and Julia, L. </author> <year> 1995. </year> <title> Multimodal maps: An agent-based approach, </title> <address> 103-113. Eindhoven, The Netherlands: </address> <booktitle> International Conference on Cooperative Multimodal Communication. </booktitle>
+Reference: <author> Cohen, P.; Cheyer, A.; Wang, M. and Baeg, S. C. </author> <year> 1994. </year> <title> An Open Agent Architecture, </title> <address> 1-8. Stanford, California: </address> <booktitle> AAAI Spring Symposium Series on Software Agents. </booktitle>
+Reference: <author> Dowding, J.; Gawron, J. M. Appelt, D.; Bear, J.; Cherny, L.; Moore, R. and Moran, D. </author> <year> 1993. </year> <title> GEMINI: A natural language system for spoken-language understanding, 54-61. Colombus, Ohio: </title> <booktitle> 31st Annual Meeting of the Association for Computational Linguistics. </booktitle>
+Reference: <author> Jackson, E.; Appelt, D.; Bear, J.; Moore, R. and Podlozny, A. </author> <year> 1991. </year> <title> A Template Matcher for Robust NL Interpretation, </title> <address> 190-194. Pacific Grove, California: </address> <booktitle> 4th DARPA Workshop on Speech and Natural Language. </booktitle>
+Reference: <author> Moran, D.; Cheyer, A.; Julia, L.; Martin, D. and Park, S. </author> <year> 1997. </year> <title> Multimodal User Interfaces in the Open Agent Architecture, to appear. </title> <address> Orlando, Florida: </address> <booktitle> Intelligent User Interfaces'97. </booktitle>
+Reference: <author> Pereira, F. C. N. </author> <year> 1983. </year> <title> Logic for Natural Language Analysis. </title> <type> Ph.D. </type> <institution> diss., University of Edinburgh. </institution>
+Reference: <author> Digalakis, V.; Monaco, P. and Murveit, H. </author> <year> 1996. </year> <title> Genones: Generalized Mixture Tying in Continuous Hidden Markov Model-Based Speech Recognizers, 281. </title> <journal> IEEE Transactions of Speech and Audio Processing, Vol.4, Num. </journal> <volume> 4. </volume>
+References-found: 8
+

@@ -1,0 +1,29 @@
+URL: ftp://ftp.imag.fr/pub/SMS/splinedensc.ps.gz
+Refering-URL: http://www-lmc.imag.fr/SMS/preprints.html
+Root-URL: http://www.imag.fr
+Title: Spline estimation of density and its score function  
+Author: Dinh Tuan PHAM 
+Keyword: Key words Cross validation. Density estimation. Nonparametric. Penalty method. Score function estimation. Smoothing. Spline. Abstract  
+Address: B.P. 53X, 38041 Grenoble cedex, France  
+Affiliation: Laboratory of Modeling and Computation, IMAG C.N.R.S.  
+Abstract: This work introduces a new density estimation method based integrating an estimated score function. The score function is itself estimated by the minimization of a L 2 square distance with an added roughness penalty, resulting in a spline function. A computational algorithm is developed for this purpose. The asymptotic behavior of the estimators is studied under the light of a kernel representation. An approximate cross validation criterion for the choice of the smoothing parameter, is derived. Some simulation results are given illustrating the good performance of the method. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Adams, R. A. </author> <title> (1975) Sobolev Spaces. </title> <publisher> New-York: Academic Press. </publisher>
+Reference: <author> Beran, R. </author> <title> (1976) Adaptive estimate for autoregressive processes. </title> <journal> Ann. Inst. Math. Statist., </journal> <volume> 28, </volume> <pages> 77-90. </pages>
+Reference: <author> Cox, D. D. </author> <title> (1985) A penalty method for nonparametric estimation of the logarithmic derivative of a density function. </title> <journal> Ann. Inst. Math. Statist., </journal> <volume> 37, </volume> <pages> 271-288. </pages>
+Reference-contexts: the functional (2.3) at ' + ffi and ', it is easy to see that ' realizes the minimum of (2.3) if and only if Z b [ffi (s)'(s)dM (s) + ffi 00 (s)' 00 (s)ds] = a for any function ffi for which the above integrals are well defined <ref> (see also Theorem 2 of Cox, 1985) </ref>.
+Reference: <author> Craven, P. and Wahba, </author> <title> G (1979) Smoothing noisy data with spline functions. </title> <booktitle> Nu-merische Mathematik 31, </booktitle> <pages> 377-403. </pages> <note> 37 Good, </note> <author> J. J., Gaskins, R. A. </author> <title> (1971) Nonparametric roughness penalties for probability densities. </title> <journal> Biometrika, </journal> <volume> 58, </volume> <pages> 255-277. </pages> <editor> de Hogg, F. R., Hutchinson, M. F. </editor> <title> (1987) An efficient method for calculating smoothing plines using orthogonal transformations. </title> <journal> Numer. Math., </journal> <volume> 50, </volume> <pages> 311-319. </pages>
+Reference-contexts: The sum P n is in fact the trace of the matrix occurring in spline smoothing problems and have appeared in the generalized cross validation criterion introduced for such problems <ref> (Craven and Wahha, 1979) </ref>. An approximation for it have been proposed in Silver-man (1984b). A simpler approximation can be obtained from Lemmas 2 and 3.
+Reference: <author> Hutchinson, M. F., de Hogg, F. R. </author> <title> (1985) Smoothing noisy data with spline functions. </title> <journal> Numer. Math., </journal> <volume> 47, </volume> <pages> 99-106. </pages>
+Reference: <author> Kooperberg, C., Stone, C. J. </author> <title> (1991) A study of logspline density estimation. </title> <journal> Computational Statistics & and Data Analysis 12, </journal> <pages> 327-347. </pages>
+Reference: <author> Manski, C. </author> <title> (1984) Adaptive estimation of non-linear regression models. </title> <journal> Econometric Rev., </journal> <volume> 3, </volume> <pages> 145-194. </pages>
+Reference: <author> Ng, P. T. </author> <title> (1994) Smoothing spline score estimation. </title> <journal> Siam J. Sci. Comput., </journal> <volume> 15, </volume> <pages> 1003-1025. </pages>
+Reference: <author> Reinsch, C. </author> <title> (1967) Smoothing by spline functions. </title> <journal> Numer. Math., </journal> <volume> 10, </volume> <pages> 177-183. </pages>
+Reference: <author> Reinsch, C. </author> <title> (1971) Smoothing by spline functions II. </title> <journal> Numer. Math., </journal> <volume> 16, </volume> <pages> 451-454. </pages>
+Reference: <author> Silverman, B. W. </author> <title> (1982) On the estimation of a probability density function by the penalized maximum likelihood method. </title> <journal> Ann. Statist., </journal> <volume> 10, </volume> <pages> 795-810 Silverman, </pages> <editor> B. W. </editor> <title> (1984a) Spline smoothing: the equivalent variable kernel method. </title>
+Reference: <editor> Ann. Statist. </editor> <volume> 12, </volume> <pages> 898-916 Silverman, </pages> <editor> B. W. </editor> <title> (1984b) A fast and efficient cross-validation method for smoothing parameter choice in spline regression. </title> <journal> JASA 79, </journal> <volume> 387, </volume> <pages> 584-589 Silverman, </pages> <editor> B. W. </editor> <title> (1986) Density Estimation for Statistics and Data Analysis. </title> <editor> Lon-don: Chapman & Hall Stone, C. </editor> <title> (1975) Adaptive maximum likelihood estimator of a location parameter. </title>
+Reference: <editor> Ann. Statist., </editor> <volume> 3, </volume> <pages> 267-284. </pages>
+Reference: <author> Tapia, R. A., Thompsom, J. R. </author> <title> (1978) Nonparametric probability density estimation. </title> <publisher> Baltimore: Johns Hopkins University Press. </publisher> <pages> 38 </pages>
+References-found: 14
+

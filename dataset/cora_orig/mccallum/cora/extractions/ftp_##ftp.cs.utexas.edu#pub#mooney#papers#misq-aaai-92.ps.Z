@@ -1,0 +1,31 @@
+URL: ftp://ftp.cs.utexas.edu/pub/mooney/papers/misq-aaai-92.ps.Z
+Refering-URL: http://www.cs.utexas.edu/users/ml/abstracts.html
+Root-URL: 
+Email: bradley@cs.utexas.edu  inak@ai.ed.ac.uk  kuipers@cs.utexas.edu  
+Title: Automatic Abduction of Q ualitative M odels  
+Author: Bradley L. Richards Ina K raan B enjam in J. Kuipers 
+Address: Austin, Texas 78712  80 South Bridge Edinburgh EH1 1HN Scotland, UK  Austin, Texas 78712  
+Affiliation: Dept. of Computer Sciences University of Texas  Dept. of Artificial Intelligence University of Edinburgh  Dept. of Computer Sciences University of Texas, Austin  
+Abstract: We describe a method of automatically abducing qualitative models from descriptions of behaviors. We generate, from either quantitative or qualitative data, models in the form of qualitative differential equations suitable for use by QSIM. Constraints are generated and filtered both by comparison with the input behaviors and by dimensional analysis. If the user provides complete information on the input behaviors and the dimensions of the input variables, the resulting model is unique, maximally constrained, and guaranteed to reproduce the input behaviors. If the user provides incomplete information, our method will still generate a model which reproduces the input behaviors, but the model may no longer be unique. Incompleteness can take several forms: missing dimensions, values of variables, or entire variables. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> R. Bhaskar and A. Nigam, </author> <title> "Qualitative Physics Using Dimensional Analysis," </title> <booktitle> Artificial Intelligence , 45 </booktitle> <pages> 73-111, </pages> <year> 1990. </year>
+Reference: <author> E. Coiera, </author> <title> "Generating Qualitative Models from Example Behaviors," </title> <type> Technical Report DCS 8901, </type> <institution> Department of Computer Science, University of New South Wales, </institution> <month> May </month> <year> 1989. </year>
+Reference: <author> J. Crawford, A. Farquhar, and B. Kuipers, "QPC: </author> <title> A Compiler from Physical Models into Qualitative Differential Equations," </title> <booktitle> Proceedings of the Eighth National Conference on Artificial Intelligence (AAAI-90), </booktitle> <pages> pp. 365-372, </pages> <year> 1990. </year>
+Reference: <author> D. DeCoste, </author> <title> "Dynamic Across-Time Measurement Interpretation," </title> <booktitle> Proceedings of the Eighth National Conference on Artificial Intelligence (AAAI-90), </booktitle> <pages> pp. 373-379, </pages> <year> 1990. </year>
+Reference: <author> J. deKleer and J. Brown, </author> <title> "A Qualitative Physics Based on Confluences," </title> <booktitle> Artificial Intelligence , 24 </booktitle> <pages> 7-83, </pages> <year> 1984. </year>
+Reference: <author> B. Falkenhainer and K. Forbus, </author> <title> "Compositional Modeling: Finding the Right Model for the Job," </title> <type> unpublished draft, </type> <year> 1990. </year>
+Reference: <author> K. Forbus, </author> <title> "Qualitative Process Theory," </title> <booktitle> Artificial Intelligence , 24 </booktitle> <pages> 85-168, </pages> <year> 1984. </year>
+Reference: <author> K. Forbus, </author> <title> "The Qualitative Process Engine," </title> <type> Technical Report, </type> <institution> Department of Computer Science, University of Illinois, </institution> <year> 1986. </year>
+Reference: <author> K. Forbus and B. Falkenhainer, </author> <title> "Setting Up Large-Scale Qualitative Models," </title> <booktitle> Proceedings of the Seventh National Conference on Artificial Intelligence (AAAI-88), </booktitle> <pages> pp. 301-306, </pages> <year> 1988. </year>
+Reference: <author> K. Forbus and B. Falkenhainer, </author> <title> "Self-Explanatory Simulations: An integration of qualitative and quantitative knowledge," </title> <booktitle> Proceedings of the Eighth National Conference on Artificial Intelligence (AAAI-90), </booktitle> <pages> pp. 380-387, </pages> <year> 1990. </year>
+Reference: <author> J. Hellerstein, </author> <title> "Obtaining Quantitative Predictions from Monotone Relationships," </title> <booktitle> Proceedings of the Eighth National Conference on Artificial Intelligence (AAAI-90), </booktitle> <pages> pp. 388-394, </pages> <year> 1990. </year>
+Reference: <author> I. C. Kraan, B. L. Richards, and B. Kuipers, </author> <title> "Automatic Abduction of Qualitative Models," </title> <booktitle> Proceedings of the Fifth International Workshop on Qualitative Reasoning about Physical Systems , 295-301, </booktitle> <year> 1991. </year>
+Reference: <author> B. Kuipers, </author> <title> "Qualitative Simulation," </title> <booktitle> Artificial Intelligence , 29 </booktitle> <pages> 289-338, </pages> <year> 1986. </year>
+Reference: <author> B. Kuipers, </author> <title> "Qualitative Reasoning: Modeling and Simulation with Incomplete Knowledge," </title> <type> Automatica , 25 </type> <pages> 571-585, </pages> <year> 1989. </year>
+Reference: <author> B. Kuipers, </author> <title> Qualitative Reasoning: Modeling and Simulation with Incomplete Knowledge , unpublished draft, </title> <year> 1990. </year>
+Reference: <author> B. Kuipers and D. Berleant, </author> <title> "Using Incomplete Quantitative Knowledge in Qualitative Reasoning," </title> <booktitle> Proceeding of the Seventh National Conference on Artificial Intelligence (AAAI-88), </booktitle> <pages> pp. 324-329, </pages> <year> 1988. </year>
+Reference: <author> T. M. Mitchell, </author> <title> "Generalization as Search," </title> <booktitle> Artificial Intelligence , 18 </booktitle> <pages> 203-226, </pages> <year> 1982. </year>
+
+References-found: 17
+

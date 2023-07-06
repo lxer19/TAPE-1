@@ -1,0 +1,24 @@
+URL: ftp://wol.ra.phy.cam.ac.uk/pub/www/mackay/scc.ps.gz
+Refering-URL: http://131.111.48.24/mackay/README.html
+Root-URL: 
+Email: Email: stw11/mackay@mrao.cam.ac.uk  
+Title: Decoding Shortened Cyclic Codes by Belief Propagation  
+Author: Simon T. Wilson and David J.C. MacKay 
+Address: Madingley Road, Cambridge, CB3 0HE. United Kindom.  
+Affiliation: Cavendish Laboratory,  
+Abstract: Gallager's low density parity check codes have been shown to have near-Shannon limit performance when decoded using a probabilistic decoding algorithm. In this paper we report the empirical performance of the same algorithm applied to the decoding of shortened cyclic codes, a problem arising in cryptanalysis. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> W. Meier and O. Staffelbach, </author> <title> "Fast correlation attacks on certain stream ciphers", </title> <journal> J. Cryptology, </journal> <volume> vol. 1, </volume> <pages> pp. 159-176, </pages> <year> 1989. </year>
+Reference: [2] <author> M. J. Mihaljevic and J. D. Golic, </author> <title> "A fast iterative algorithm for a shift register initial state reconstruction given the noisy output sequence", </title> <booktitle> in Advances in Cryptology AUSCRYPT'90, </booktitle> <volume> vol. 453, </volume> <pages> pp. 165-175. </pages> <publisher> Springer, </publisher> <year> 1992. </year>
+Reference: [3] <author> R. J. Anderson, </author> <title> "Searching for the optimum correlation attack", in Fast Software Encryption (Proceedings of 1994 K.U. Leuven Workshop on Cryptographic Algorithms), </title> <editor> B. Preneel, Ed. </editor> <booktitle> 1995, Lecture Notes in Computer Science, </booktitle> <pages> pp. 179-195, </pages> <publisher> Springer. </publisher>
+Reference: [4] <author> D. J. C. MacKay, </author> <title> "A free energy minimization framework for inference problems in modulo 2 arithmetic", in Fast Software Encryption (Proceedings of 1994 K.U. Leuven Workshop on Cryptographic Algorithms), </title> <editor> B. Preneel, Ed. </editor> <booktitle> 1995, number 1008 in Lecture Notes in Computer Science, </booktitle> <pages> pp. 179-195, </pages> <publisher> Springer. </publisher>
+Reference: [5] <author> D. J. C. MacKay, </author> <title> "Free energy minimization algorithm for decoding and cryptanalysis", </title> <journal> Electronics Letters, </journal> <volume> vol. 31, no. 6, </volume> <pages> pp. 446-447, </pages> <year> 1995. </year>
+Reference: [6] <author> R. G. Gallager, </author> <title> "Low density parity check codes", </title> <journal> IRE Trans. Info. Theory, </journal> <volume> vol. IT-8, </volume> <pages> pp. 21-28, </pages> <month> Jan </month> <year> 1962. </year>
+Reference: [7] <author> R. G. Gallager, </author> <title> Low Density Parity Check Codes, Number 21 in Research monograph series. </title> <publisher> MIT Press, </publisher> <address> Cambridge, Mass., </address> <year> 1963. </year>
+Reference: [8] <author> D. J. C. MacKay and R. M. Neal, </author> <title> "Good codes based on very sparse matrices", in Cryptography and Coding. </title> <booktitle> 5th IMA Conference, </booktitle> <editor> Colin Boyd, Ed., </editor> <booktitle> number 1025 in Lecture Notes in Computer Science, </booktitle> <pages> pp. 100-111. </pages> <publisher> Springer, </publisher> <address> Berlin, </address> <year> 1995. </year>
+Reference: [9] <author> D. J. C. MacKay and R. M. Neal, </author> <title> "Near Shannon limit performance of low density parity check codes", </title> <journal> Electronics Letters, </journal> <volume> vol. 32, no. 18, </volume> <pages> pp. 1645-1646, </pages> <month> August </month> <year> 1996. </year>
+Reference: [10] <author> D. J. C. MacKay, </author> <title> "Good error correcting codes based on very sparse matrices", </title> <note> To be submitted to IEEE transactions on Information Theory. Available from http://wol.ra.phy.cam.ac.uk/, 1996. </note>
+Reference: [11] <author> J. Pearl, </author> <title> Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference, </title> <publisher> Morgan Kaufmann, </publisher> <address> San Mateo, </address> <year> 1988. </year> <note> Submitted to ISIT-97 September 24, </note> <year> 1996 </year>
+References-found: 11
+

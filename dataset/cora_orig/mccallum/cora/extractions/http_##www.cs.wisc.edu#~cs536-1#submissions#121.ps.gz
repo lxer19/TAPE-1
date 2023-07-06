@@ -1,0 +1,14 @@
+URL: http://www.cs.wisc.edu/~cs536-1/submissions/121.ps.gz
+Refering-URL: 
+Root-URL: 
+Email: Email: fnami@csl.sony.co.jp  
+Phone: Phone: +81-3-5448-4380  
+Title: Automatic and Efficient Run-Time Code Generation Using Object-Oriented Languages  
+Author: Nobuhisa Fujinami 
+Address: Takanawa Muse Building 3-14-13 Higashi-gotanda, Shinagawa-ku, Tokyo 141, Japan  
+Affiliation: Sony Computer Science Laboratory Inc.  
+Abstract: Run-time code generation enables program optimizations specific to the values that are unknown until run-time and improves the performance. In spite of its long history, it was not practical because it required too much of the programmer's attention. This paper proposes an automatic and efficient run-time code generation system using object-oriented languages. It makes run-time code generation transparent to the programmer to utilize an encapsulation mechanism and data construction/destruction management of object-oriented languages. The paper also describes an implementation of the system as a preprocessor of a C++ compiler. Since the generated run-time code generator has specialized optimization routines, optimized code is efficiently generated at run-time. A prototype of the implementation is evaluated and shows good performance.
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

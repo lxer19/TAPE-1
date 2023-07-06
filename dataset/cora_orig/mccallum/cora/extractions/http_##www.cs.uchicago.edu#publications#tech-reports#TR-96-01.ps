@@ -1,0 +1,16 @@
+URL: http://www.cs.uchicago.edu/publications/tech-reports/TR-96-01.ps
+Refering-URL: http://cs-www.uchicago.edu/publications/tech-reports/
+Root-URL: 
+Title: gridIt 1.0 User Manual  
+Author: Bruce P. Ayati 
+Keyword: grid. Key words and phrases: Linear Interpolation, Two Dimensions.  
+Note: AMS Subject Classifications (1991): 65D05.  
+Abstract: gridIt is a two-dimensional linear interpolation program. It takes randomly distributed data of the form x; y; z and interpolates it onto a regular rectangular
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Brenner, </author> <title> S.C, Scott, L.R. 1994. The Mathematical Theory of Finite Element Methods, </title> <publisher> Springer-Verlag, </publisher> <address> New York. </address>
+Reference-contexts: The difference operators are defined as (@ 2 1 (@ 2 1 Based on the following rationale, gridIt chooses " x and " y . From approximation the ory <ref> [1] </ref>, if g (x; y) is the true solution and u is its linear interpolant, kg uk 2 1 Z (g xx ) 2 + (y) 4 where ffi is the average error in the original data, ~z i . <p> rhs,double x_min,double dx,double y_min, double dy); extern void conjGrad (int N_x, int N_y, double dx, double dy, int corner [], vector& alpha, vector& beta, vector& rhs, vector& v, double eps); main (int argc, char* argv []) - int N_x,N_y,N_xC,N_yC; double x_max,y_max,x_min,y_min,dx,dy,dxC,dyC,delta; double x,y,z; double eps = 0.0; ifstream inputStream (argv <ref> [1] </ref>, ios::in); ofstream inGridStream (".data.clean", ios::out); if (!inputStream) -cerr &lt;< "No such data file." &lt;< endl; exit (0);- if (argc&gt;2)- // read in grid data 6 ifstream gridStream (argv [2], ios::in); if (!gridStream) -cerr &lt;< "No such grid file." &lt;< endl; exit (0);- gridStream &gt;> x_min; gridStream &gt;> x_max; gridStream &gt;>
+Reference: [2] <author> Stoustrup, </author> <title> Bjarne 1991. The C++ Programming Language, </title> <publisher> Addison-Wesley, </publisher> <address> Reading, Massachusetts. </address> <month> 17 </month>
+Reference-contexts: eps); main (int argc, char* argv []) - int N_x,N_y,N_xC,N_yC; double x_max,y_max,x_min,y_min,dx,dy,dxC,dyC,delta; double x,y,z; double eps = 0.0; ifstream inputStream (argv [1], ios::in); ofstream inGridStream (".data.clean", ios::out); if (!inputStream) -cerr &lt;< "No such data file." &lt;< endl; exit (0);- if (argc&gt;2)- // read in grid data 6 ifstream gridStream (argv <ref> [2] </ref>, ios::in); if (!gridStream) -cerr &lt;< "No such grid file." &lt;< endl; exit (0);- gridStream &gt;> x_min; gridStream &gt;> x_max; gridStream &gt;> N_x; gridStream &gt;> y_min; gridStream &gt;> y_max; gridStream &gt;> N_y; gridStream &gt;> delta; gridStream.close (); - else- //read in grid information from keyboard cout &lt;< "Input the grid." &lt;<
+References-found: 2
+

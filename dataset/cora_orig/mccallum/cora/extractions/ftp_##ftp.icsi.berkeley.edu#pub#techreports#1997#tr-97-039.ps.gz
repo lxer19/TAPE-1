@@ -1,0 +1,17 @@
+URL: ftp://ftp.icsi.berkeley.edu/pub/techreports/1997/tr-97-039.ps.gz
+Refering-URL: http://www.icsi.berkeley.edu/techreports/1997.html
+Root-URL: http://www.icsi.berkeley.edu
+Title: Positional Logic Algebra PLA A Fascinating Alternative Approach  a m a n n  
+Phone: (510) 643-9153 FAX (510) 643-7684  
+Author: Christian M. H Lev C h t c h e r b a n s k i 
+Date: September 1997  
+Address: 1947 Center St. Suite 600 Berkeley, California 94704-1198  TFH-Berlin, Germany hamann@tfh-berlin.de Bionik/Evolutions-Strategie, TU-Berlin, Germany lev@tfh-berlin.de  
+Affiliation: INTERNATIONAL COMPUTER SCIENCE INSTITUTE  Informatik/KI-Labor,  
+Abstract:  
+Abstract-found: 1
+Intro-found: 1
+Reference: [Tel-85] <author> Telpiz, M. </author> <title> "Representation of functions with a logical algebra" Cybernetica 4(1985)37-40 (in Russian) </title>
+Reference-contexts: 1 Introduction In solving logic calculations with conventional Boolean Algebra the exponential increase in complexity with the increasing number of variables is a sound problem. The "Positional Logic Algebra" (PLA), first presented by M.Telpiz <ref> [Tel-85] </ref> in 1985, promised to give tools for braking down this problem. Each logic algebra deals with the functional dependencies of the values from the logic variables and the values from the logic function. One can say: A function is a transformation from one set into another set.
+
+References-found: 1
+

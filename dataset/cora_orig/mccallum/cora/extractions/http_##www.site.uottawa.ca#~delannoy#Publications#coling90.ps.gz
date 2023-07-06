@@ -1,0 +1,13 @@
+URL: http://www.site.uottawa.ca/~delannoy/Publications/coling90.ps.gz
+Refering-URL: http://www.site.uottawa.ca/~delannoy/Publications/list.html
+Root-URL: 
+Title: A MESSAGE PROCESSING SYSTEM WITH OBJECT-CENTRED SEMANTICS one ship during the past 24 hours; for
+Author: Jean-Franois DELANNOY 
+Address: 13402 MARSEILLE CEDEX 9- FRANCE  
+Affiliation: Groupe Reprsentation et Traitement des Connaissances Centre National de la Recherche Scientifique 31, chemin Joseph Aiguier  
+Note: Proceedings of COLING 90, Helsinki, pp 333-335  Note: I had to re-scan this file, losing two figures. 1 Introduction A report typically gives information on the activity of  was approximately 40 nautical miles south of Marseilles at 10:00, April 14. This example exhibits discursive information on the  
+Abstract: This paper presents a report processing method with object-centered semantics. The syntactic analysis is performed along classical generative principles. though with a deliberately simple output as a list of index-value doublets, which the semantic module processes using methods in an objectoriented framework. The final representation is made of two types of object-centred structures: 1) case-like. event-level dated structures corresponding to the input clauses: 2) detailed representation of the current state of an agent of the reference world, plus records for the follow-up of a task over time. Uncertainty, imprecision, and previsions are handled using specialized fields. This framework is applied to the processing of daily naval reports In English. The objective of the project is the processing of messages in English reporting the daily evolution of naval situation in the Mediterranean. The information extracted is exploited for situation monitoring. maintenance of a historical database. formulation of previsions, and detection of highlights and anomalies. 
+Abstract-found: 1
+Intro-found: 0
+References-found: 0
+

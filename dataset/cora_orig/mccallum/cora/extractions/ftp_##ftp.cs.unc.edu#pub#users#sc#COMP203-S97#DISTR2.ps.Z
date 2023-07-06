@@ -1,0 +1,12 @@
+URL: ftp://ftp.cs.unc.edu/pub/users/sc/COMP203-S97/DISTR2.ps.Z
+Refering-URL: http://www.cs.unc.edu/~sc/teaching/COMP203-S1997/slides.html
+Root-URL: http://www.cs.unc.edu
+Title: Distributed Algorithms (2) Design paradigms u Filters u Client-server Centralized server Set of centralized servers
+Author: S. Chatterjee S. Chatterjee S. Chatterjee S. Chatterjee S. Chatterjee v EOS and v EOS =&gt; 
+Date: 29 January 1997  1997 2  1997 3  1997 4  1997 5  1997 6  
+Note: S. Chatterjee 1997 1 COMP 203: Parallel and Distributed Computing  u Implication: can be composed into  send v1 on out; receive v1 on in1 v1 EOS and v2 EOS =&gt; send v2 on out; receive v2 on in2 enddo send EOS on out  
+Abstract: u A task that receives data streams on input channels, transforms them, and sends result streams on output channels 
+Abstract-found: 1
+Intro-found: 0
+References-found: 0
+

@@ -1,0 +1,17 @@
+URL: ftp://ftp.icsi.berkeley.edu/pub/techreports/1997/tr-97-046.ps.gz
+Refering-URL: http://www.icsi.berkeley.edu/techreports/1997.html
+Root-URL: http://www.icsi.berkeley.edu
+Title: Parallel Computing on MultiSpert  
+Author: Philipp Farber 
+Address: 1947 Center Street, Berkeley, CA 94704  
+Affiliation: International Computer Science Institute,  
+Date: December 1997  
+Abstract: This report provides an overview of the MultiSpert parallel computer system and its performance characteristics. In order to preserve the existing programming and runtime environments, we have straight forwardly extended the single board system in a master/slave architecture with the SUN host as master controlling up to 16 Spert-II slaves. We describe the underlying hardware and its limitations, as well as the additional communication layers, which provide an efficient remote procedure calling mechanism. Timing measurements on a 5-node prototype confirm MultiSpert scalability to high performance levels. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [AB97] <author> Krste Asanovic and James Beck. </author> <title> T0 Engineering Data, Revision 0.14. </title> <type> Technical Report CSD-97-931, </type> <institution> Computer Science Division, University of California at Berkeley, </institution> <year> 1997. </year>
+Reference-contexts: the Spert device driver (see section 3.1). 1 Due to hardware errors in the expander boxes, we had to revert to only using two boards per slot. 1 2.2 Communication The Spert-II board memory can be read and written from the SUN host via the T0 processor's TSIP byte-serial interface <ref> [AB97] </ref>. This interface reads 20 Bytes of address and data from the TSIP port at the rate of 1 Byte per cycle, before using one cycle of the T0 memory bus to transfer 16 bytes of data to the desired 32-bit address.
+Reference: [WAK + 96] <author> John Wawrzynek, Krste Asanovic, Brian Kingsbury, James Beck, David Johnson, and Nelson Morgan. SPERT-II: </author> <title> A Vector Microprocessor System. </title> <journal> IEEE Computer, </journal> <volume> 29(3) </volume> <pages> 79-86, </pages> <month> March </month> <year> 1996. </year> <month> 8 </month>
+Reference-contexts: 1 Motivation and Overview The Spert-II vector-microprocessor <ref> [WAK + 96] </ref> board was designed as a workstation accelerator to speed up artificial neural network (ANN) training in the context of a hybrid speech recognition system [?].
+References-found: 2
+

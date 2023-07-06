@@ -1,0 +1,17 @@
+URL: ftp://ftp.wins.uva.nl/pub/computer-systems/aut-sys/reports/KroDevBenGro97.ps.gz
+Refering-URL: http://www.fwi.uva.nl/research/neuro/publications/publications.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Email: krose@fwi.uva.nl  
+Title: Vehicle navigation on optic flow  Novel Functions  
+Author: Ben Krose, Anuj Dev, Xaro Benavent, Frans Groen RWCP 
+Address: Amsterdam  
+Affiliation: Department of Computer Science, University of  
+Pubnum: SNN 1 Laboratory  
+Abstract: 1. Abstract 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> A. Dev, B.J.A. Krose and F.C.A. </author> <title> Groen , Confidence measures for image motion estimation. </title> <booktitle> RWCP symposium, </booktitle> <address> Tokyo, </address> <year> 1997. </year>
+Reference-contexts: The video-signal is sent via a radio-link to a receiver, which is connected to the frame-grabber mounted in the PC system. Images can be grabbed and stored in memory continuously. 1 From a sequence of images the motion field is computed with the method reported in <ref> [1] </ref>. 4. Wall following The camera is mounted rigidly on the vehicle, with the camera axis in the driving direction. <p> eliminate the depth T z =P z from the estimated image motion equations (1) and (2) and obtain: r y _r x r x _r y r y ! y = 0 However, we must keep in mind that the optic flow vectors are estimated from an image sequence (see <ref> [1] </ref>), and that we only have noisy measurements _r x and _r y . In a region R of the image where there is sufficient confidence in the flow-vectors ([1]) the flow is used to make a robust estimate of the camera rotation.
+
+References-found: 1
+

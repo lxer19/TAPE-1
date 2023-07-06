@@ -1,0 +1,12 @@
+URL: http://www.cs.unc.edu/~stotts/Daistish/manual.ps.gz
+Refering-URL: http://www.cs.unc.edu/~stotts/Daistish/index.html
+Root-URL: http://www.cs.unc.edu
+Title: Daistish a new and improved DAISTS-like axiom tester 1 Execution file for the class being
+Author: Merlin P. D. Hughes -o Tester.cc -a Alii.d -v Vectors.d -s Signatures.d -i Petrinet.hh -i IdSet.hh 
+Note: 2 Syntax daistish [&lt;options&gt;] &lt;axiom files&gt;, where options are: -o &lt;output file&gt; specifies the name of the C++ test program to be will include the header  Figure 1: Example .daistishrc file.  
+Date: September 25, 1995  
+Abstract: When daistish is applied to a set of axiom specification files, a C++ tester program is produced. When compiled and run, this program will test the adherence of an implementation of a data type against axia describing its characteristics. If the code is executed with a `-verbose' command line option, detailed reports are given for each axiom failure. created. If the filename has a `.c' suffix, the header file will have a `.h' suffix. Similarly will a `.C' file have a `.H' header, and a `.cc' file `.hh'. * -i &lt;include file&gt; | specifies a header file to include. Typically this 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

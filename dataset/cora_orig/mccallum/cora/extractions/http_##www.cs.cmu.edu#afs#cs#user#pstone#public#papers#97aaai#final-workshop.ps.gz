@@ -1,0 +1,27 @@
+URL: http://www.cs.cmu.edu/afs/cs/user/pstone/public/papers/97aaai/final-workshop.ps.gz
+Refering-URL: http://www.cs.cmu.edu/~robosoccer/old-page.html
+Root-URL: 
+Email: fpstone,velosog@cs.cmu.edu  
+Title: Using Decision Tree Confidence Factors for Multiagent Control  
+Author: Peter Stone and Manuela Veloso 
+Keyword: multiagent systems, machine learning, decision trees  
+Web: http://www.cs.cmu.edu/f~pstone,~mmvg  
+Address: Pittsburgh, PA 15213  
+Affiliation: Computer Science Department Carnegie Mellon University  
+Abstract: Although Decision Trees are widely used for classification tasks, they are typically not used for agent control. This paper presents a novel technique for agent control in a complex multiagent domain based on the confidence factors provided by the C4.5 Decision Tree algorithm. Using Robotic Soccer as an example of such a domain, this paper incorporates a previously-trained Decision Tree into a full multiagent behavior that is capable of controlling agents throughout an entire game. Along with using Decision Trees for control, this behavior also makes use of the ability to reason about action-execution time to eliminate options that would not have adequate time to be executed successfully. The newly created behavior is tested empirically in game situations. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> M. Asada, E. Uchibe, S. Noda, S. Tawaratsumida, and K. Hosoda. </author> <title> Coordination of multiple behaviors acquired by vision-based reinforcement learning. </title> <booktitle> In Proc. of IEEE/RSJ/GI International Conference on Intelligent Robots and Systems 1994 (IROS '94), </booktitle> <pages> pages 917-924, </pages> <year> 1994. </year>
+Reference: <author> Mike Bowling, Peter Stone, and Manuela Veloso. </author> <title> Predictive memory for an inaccessible environment. </title> <booktitle> In Proceedings of the IROS-96 Workshop on RoboCup, </booktitle> <month> November </month> <year> 1996. </year> <editor> Jong-Hwan Kim, editor. </editor> <booktitle> Proceedings of the Micro-Robot World Cup Soccer Tournament, </booktitle> <address> Taejon, Korea, </address> <month> November </month> <year> 1996. </year>
+Reference: <author> Hiroaki Kitano, Yasuo Kuniyoshi, Itsuki Noda, Minoru Asada, Hitoshi Matsubara, and Ei-Ichi Osawa. </author> <title> Robocup: A challenge problem for ai. </title> <journal> AI Magazine, </journal> <volume> 18(1) </volume> <pages> 73-85, </pages> <month> Spring </month> <year> 1997. </year>
+Reference: <author> Hitoshi Matsubara, Itsuki Noda, and Kazuo Hiraki. </author> <title> Learning of cooperative actions in multi-agent systems: a case study of pass play in soccer. In Adaptation, Coevolution and Learning in Multiagent Systems: </title> <booktitle> Papers from the 1996 AAAI Spring Symposium, </booktitle> <pages> pages 63-67, </pages> <address> Menlo Park,CA, </address> <month> March </month> <year> 1996. </year> <note> AAAI Press. AAAI Technical Report SS-96-01. </note>
+Reference: <editor> Itsuki Noda and Hitoshi Matsubara. </editor> <booktitle> Soccer server and researches on multi-agent systems. In Proceedings of the IROS-96 Workshop on RoboCup, </booktitle> <month> November </month> <year> 1996. </year>
+Reference: <author> J. Ross Quinlan. C4.5: </author> <title> Programs for Machine Learning. </title> <publisher> Morgan Kaufmann, </publisher> <address> San Mateo, CA, </address> <year> 1993. </year>
+Reference: <author> Michael K. Sahota, Alan K. Mackworth, Rod A. Barman, and Stewart J. Kingdon. </author> <title> Real-time control of soccer-playing robots using off-board vision: the dynamite testbed. </title> <booktitle> In IEEE International Conference on Systems, Man, and Cybernetics, </booktitle> <pages> pages 3690-3663, </pages> <year> 1995. </year>
+Reference: <author> Michael Sahota. </author> <title> Dynasim user guide. </title> <note> Available at http://www.cs.ubc.ca/nest/lci/soccer, January 1996. </note>
+Reference: <author> Randy Sargent, Bill Bailey, Carl Witty, and Anne Wright. </author> <title> Dynamic object capture using fast vision tracking. </title> <journal> AI Magazine, </journal> <volume> 18(1) </volume> <pages> 65-72, </pages> <month> Spring </month> <year> 1997. </year> <note> Yoshikazu Sekine, 1996. Soccer Server client available at http://ci.etl.go.jp/ noda/soccer/client.html. </note>
+Reference: <author> Peter Stone and Manuela Veloso. </author> <title> Beating a defender in robotic soccer: Memory-based learning of a continuous function. </title> <editor> In David S. Touretzky, Michael C. Mozer, and Michael E. Hasselmo, editors, </editor> <booktitle> Advances in Neural Information Processing Systems 8, </booktitle> <pages> pages 896-902, </pages> <address> Cambridge, MA, 1996. </address> <publisher> MIT press. </publisher>
+Reference: <author> Peter Stone and Manuela Veloso. </author> <title> A layered approach to learning client behaviors in the robocup soccer server. </title> <note> To appear in Applied Artificial Intelligence (AAI) Journal, </note> <year> 1997. </year>
+Reference: <author> Peter Stone and Manuela M. Veloso. </author> <title> Towards collaborative and adversarial learning: A case study in robotic soccer. </title> <note> To appear in International Journal of Human-Computer Systems (IJHCS), </note> <year> 1997. </year>
+References-found: 12
+

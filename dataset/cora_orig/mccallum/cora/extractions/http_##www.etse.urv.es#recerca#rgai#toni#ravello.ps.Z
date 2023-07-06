@@ -1,0 +1,33 @@
+URL: http://www.etse.urv.es/recerca/rgai/toni/ravello.ps.Z
+Refering-URL: http://www.etse.urv.es/recerca/rgai/toni/
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Email: amoreno@etse.urv.es  
+Title: Modelling rational inquiry in non-ideal agents  
+Author: Antonio Moreno Escola Tecnica Superior d'Enginyeria 
+Keyword: rational inquiry, doxastic logics, logical omniscience, perfect reasoning, possible worlds, Kripke semantics, dynamic multi-dimensional belief analysis  
+Address: Salou, s/n. 43006-Tarragona  
+Affiliation: Departament d'Enginyeria Informatica Universitat Rovira i Virgili (URV) Carretera de  
+Abstract: The construction of rational agents is one of the goals that has been pursued in Artificial Intelligence (AI). In most of the architectures that have been proposed for this kind of agents, its behaviour is guided by its set of beliefs. In our work, rational agents are those systems that are permanently engaged in the process of rational inquiry; thus, their beliefs keep evolving in time, as a consequence of their internal inference procedures and their interaction with the environment. Both AI researchers and philosophers are interested in having a formal model of this process, and this is the main topic in our work. Beliefs have been formally modelled in the last decades using doxastic logics. The possible worlds model and its associated Kripke semantics provide an intuitive semantics for these logics, but they seem to commit us to model agents that are logically omniscient and perfect reasoners. We avoid these problems by replacing possible worlds by conceivable situations, which are all the situations that the modelled agent is capable of considering. In this document we show how this notion of conceivable situations may be used to model the process of rational inquiry in which a non-ideal rational agent is engaged. We define a wide class of agents, called rational inquirers, which are a general abstraction of any kind of non-ideal agent. We show how the beliefs of this kind of agents evolve in time as a consequence of a multi-dimensional belief analysis, and we use the framework of conceivable situations in order to model this evolution. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [CRW97] <author> Cavedon, L., Rao, A., Wobcke, W. (Eds.), </author> <title> "Intelligent Agent Systems: Theoretical and Practical Issues", </title> <publisher> LNAI 1209, Springer Verlag 1997. </publisher>
+Reference: [FaHa85] <author> Fagin, R., Halpern, J., </author> <title> "Belief, awareness and limited reasoning", Procs. </title> <booktitle> of IJCAI-85, </booktitle> <pages> pp. 491-501, </pages> <year> 1985. </year>
+Reference: [Halp86] <author> Halpern, J., </author> <title> "Reasoning about knowledge: an overview", </title> <booktitle> Proceedings of TARK-86, </booktitle> <editor> Ed. J. </editor> <booktitle> Halpern, </booktitle> <pages> pp. 1-17, </pages> <year> 1986. </year>
+Reference: [HaMo92] <author> Halpern, J., Moses Y., </author> <title> "A guide to completeness and complexity for modal logics of knowledge and belief", </title> <booktitle> Artificial Intelligence 54, </booktitle> <pages> pp. 319-379, </pages> <year> 1992. </year>
+Reference: [Hint62] <author> Hintikka, J., </author> <title> "Knowledge and belief", </title> <publisher> Cornell University Press, </publisher> <address> Ithaca, N.Y., </address> <year> 1962. </year>
+Reference: [Hint75] <author> Hintikka, J., </author> <title> "Impossible possible worlds vindicated", </title> <journal> Journal of Philosophical Logic 4, </journal> <pages> pp. 475-484, </pages> <year> 1975. </year>
+Reference: [Kono86] <author> Konolige, K., </author> <title> "A Deduction Model of Belief", </title> <publisher> Morgan Kaufmann, </publisher> <address> San Mateo, CA, </address> <year> 1986. </year>
+Reference: [Krip63] <author> Kripke, S., </author> <title> "A semantical analysis of modal logic I: normal modal propositional calculi", </title> <journal> Zeitschrift fur Mathematische Logik und Grundlagen Mathematik 9, </journal> <pages> pp. 67-96, </pages> <year> 1963. </year>
+Reference: [McAr88] <author> McArthur, G., </author> <title> "Reasoning about knowledge and belief: a survey", </title> <booktitle> Computational Intelligence 4, </booktitle> <pages> pp. 223-243, </pages> <year> 1988. </year>
+Reference: [More97] <author> Moreno, A., </author> <title> "How to avoid knowing it all", </title> <institution> Research Report DEI-RR-97-013, Computer Science Department, University Rovira i Virgili (URV), </institution> <year> 1997. </year>
+Reference: [MoSa96a] <author> Moreno, A., Sales, T., </author> <title> "Dynamic belief analysis", </title> <booktitle> Workshop on Agent Theories, Architectures and Languages, ATAL-96, at ECAI-96, </booktitle> <address> Budapest, </address> <note> August 1996 (see [MoSa97a]). </note>
+Reference: [MoSa96b] <author> Moreno, A., Sales, T., </author> <title> "Limited logical belief analysis", </title> <booktitle> Workshop on Theoretical and Practical Foundations of Intelligent Agents, at PRICAI-96, Cairns, </booktitle> <address> Australia, </address> <note> 1996 (see [MoSa97b]). </note>
+Reference: [MoSa97a] <author> Moreno, A., Sales, T., </author> <title> "Dynamic belief analysis", </title> <booktitle> in [MWJ97], </booktitle> <pages> pp. 87-102, </pages> <year> 1997. </year>
+Reference: [MoSa97b] <author> Moreno, A., Sales, T., </author> <title> "Limited logical belief analysis", </title> <booktitle> in [CRW97], </booktitle> <pages> pp. 104-118, </pages> <year> 1997. </year>
+Reference: [MWJ97] <editor> Muller, J., Wooldridge, M., Jennings, N. (Eds.), </editor> <title> "Intelligent Agents III: Agent theories, architectures and languages", </title> <publisher> LNAI 1193, Springer Verlag 1997. </publisher>
+Reference: [Perl94] <author> Perlis, D., </author> <title> "Logic for a lifetime", </title> <institution> CS-TR-3278, Computer Sci. Dept., Univ. of Maryland, </institution> <year> 1994. </year>
+Reference: [ReBr79] <author> Rescher, N., Brandom, R., </author> <title> "The Logic of Inconsistency", </title> <editor> Rowman and Littlefield Eds., </editor> <year> 1979. </year>
+Reference: [RuNo95] <author> Russell, S., Norvig, P., </author> <title> "Artificial Intelligence. A Modern Approach.", </title> <booktitle> Prentice Hall Series in Artificial Intelligence, </booktitle> <year> 1995. </year>
+Reference: [Shoh93] <author> Shoham, Y., </author> <title> "Agent-oriented programming", </title> <booktitle> Artificial Intelligence 60, </booktitle> <pages> pp. 51-92, </pages> <year> 1993. </year>
+References-found: 19
+

@@ -1,0 +1,25 @@
+URL: http://www.cs.ucsb.edu/~vigna/pub/icse17.ps.gz
+Refering-URL: http://www.cs.ucsb.edu/~vigna/listpub.html
+Root-URL: http://www.cs.ucsb.edu
+Title: Figure 1: Example of architecture dynamic behavior. The other three statements connect the channel C
+Author: [] Sergio C. Bandinelli, Marco Braga, Alfonso Fug-getta, and Luigi Lavazza. [] Barry Boehm. David Garlan, Mary Shaw, Chris Okasaki, Curtis Scott, and Roy Swonger. Experince [] Paola Inverardi and Alexander L. Wolf. [] Jeff Magee, Jeff Kramer, and Morris Sloman. [] Dewayne E. Perry and Alexander L. Wolf. [] Mary Shaw, Robert DeLine, Daniel Klein, Theo-dore Ross, David Young, and Gregory Zelesnik. 
+Date: May 1994.  February 1994.  May 1994.  February 1994.  June 1989.  17(4):40-52, October 1992.  February 1994.  
+Address: Sorrento (Italy),  Grenoble, France,  Sorrento (Italy),  University,  
+Affiliation: Engineering,  Technology,  Engineering,  University of Colorado,  Computer Science Department, Carnegie Mellon  
+Note: References [1] Robert Allen and David Garlan. Formalizing architectural connection. In Proceedings of the 16th International Conference on Software  The Architecture of the SPADE-1 Process-Centered SEE. In Third Euro-pean Workshop on Software Process  of the 16th International Conference on Software  [4] David Garlan and Mary Shaw. An introduction to software architecture. In V. Ambriola and G. Tortora, editors, Advances in Software Engineering and Knowledge Engineering, volume I. World Scientific Publishing Company, 1993. [5]  Unpublished manuscript,  SIGSOFT Software Engineering Notes,  [9] Mary Shaw.  Abstractions fro Software Architecture and Tools to Support Them. Unpublished manuscript,  
+Pubnum: 6(15),  
+Abstract: We are grateful to Francesco Tisato for clarifying discussions and to Luigi Lavazza for his comments on an earlier version of this paper. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Robert Allen and David Garlan. </author> <title> Formalizing architectural connection. </title> <booktitle> In Proceedings of the 16th International Conference on Software Engineering, </booktitle> <address> Sorrento (Italy), </address> <month> May </month> <year> 1994. </year>
+Reference: [2] <author> Sergio C. Bandinelli, Marco Braga, Alfonso Fug-getta, and Luigi Lavazza. </author> <booktitle> The Architecture of the SPADE-1 Process-Centered SEE. In Third Euro-pean Workshop on Software Process Technology, </booktitle> <address> Grenoble, France, </address> <month> February </month> <year> 1994. </year>
+Reference: [3] <author> Barry Boehm. </author> <title> Software Architectures: Critical Success Factors and Cost Drivers. </title> <booktitle> In Proceedings of the 16th International Conference on Software Engineering, </booktitle> <address> Sorrento (Italy), </address> <month> May </month> <year> 1994. </year>
+Reference: [4] <author> David Garlan and Mary Shaw. </author> <title> An introduction to software architecture. </title> <editor> In V. Ambriola and G. Tortora, editors, </editor> <booktitle> Advances in Software Engineering and Knowledge Engineering, volume I. </booktitle> <publisher> World Scientific Publishing Company, </publisher> <year> 1993. </year>
+Reference: [5] <author> David Garlan, Mary Shaw, Chris Okasaki, Curtis Scott, and Roy Swonger. </author> <title> Experince with a Course on Architectures for Software Systems. </title> <booktitle> In SEI Conference on Software Engineering Education, </booktitle> <month> October </month> <year> 1992. </year>
+Reference: [6] <author> Paola Inverardi and Alexander L. Wolf. </author> <title> Formal specification and analysis of software architectures using the chemical abstract machine model. </title> <type> Unpublished manuscript, </type> <institution> University of Colorado, </institution> <month> February </month> <year> 1994. </year>
+Reference: [7] <author> Jeff Magee, Jeff Kramer, and Morris Sloman. </author> <title> Constructing Distributed System in Conic. </title> <journal> IEEE Transactions on Software Engineering, </journal> <volume> 6(15), </volume> <month> June </month> <year> 1989. </year>
+Reference: [8] <author> Dewayne E. Perry and Alexander L. Wolf. </author> <title> Foundations for the study of software architecture. </title> <booktitle> SIGSOFT Software Engineering Notes, </booktitle> <volume> 17(4) </volume> <pages> 40-52, </pages> <month> October </month> <year> 1992. </year>
+Reference: [9] <author> Mary Shaw. </author> <title> Procedure Calls are the Assembly Language of Software Interconnection: Connectors Deserve First-Class Status. </title> <booktitle> In Workshop on Studies of Software Design (to appear), </booktitle> <year> 1993. </year>
+
+References-found: 9
+

@@ -1,0 +1,12 @@
+URL: http://www.cs.unc.edu/~anderson/teach/comp202/bug1.ps.Z
+Refering-URL: http://www.cs.unc.edu/~anderson/teach/comp202/comp202.html
+Root-URL: http://www.cs.unc.edu
+Title: ERRATA 1.1 for Introduction to Algorithms  
+Author: by Cormen, Leiserson, and Rivest - Charles E. Leiserson Alan Sherman Raymond Johnson Tom Cormen and Charles Leiserson 
+Note: Replacement text, where provided, is surrounded by hh ii. Page xv, line  The text hhRay Hirschfeld, ii should be inserted after ((Bemus, Pages xv, line -1 and page xvi line 1, page xvi, line 22  should be listed with other students, not with colleagues who have used this text in courses. Page xvi, line 21 John Keen The name John Keene)) should be spelled hhJohn Keenii. Page 7, line 20 Michael Ernst The word hh isii should be added to the end of the line. Page 124, Theorem 6.6  The theorem is wrong as stated. The bound should read as follows: hh Then for r &gt;  
+Date: January 15, 1993  
+Abstract: This list describes the known bugs in the first printing of the first edition of Introduction to Algorithms. These bugs were fixed in the second printing. An errata sheet for the second and subsequent printings is available separately. Typically, page and line numbers are given to localize the error. A negative line number indicates numbering from the bottom up. The finder of each bug is credited on the right margin. Actual text from the book is surrounded by A PostScript version of this errata sheet is available via an Internet electronic mail server. To receive instructions on how to use this service, send electronic mail to algorithms@theory.lcs.mit.edu with "Subject: help" in the message header. The instructions also describe how to submit bug reports by email and how to obtain errata for the second printing. We regret that we cannot personally respond to all mail. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

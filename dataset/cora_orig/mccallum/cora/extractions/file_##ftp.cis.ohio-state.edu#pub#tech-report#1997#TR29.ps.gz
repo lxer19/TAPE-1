@@ -1,0 +1,19 @@
+URL: file://ftp.cis.ohio-state.edu/pub/tech-report/1997/TR29.ps.gz
+Refering-URL: ftp://ftp.cis.ohio-state.edu/pub/tech-report/TRList.html
+Root-URL: 
+Title: Once-and-Forall Management Protocol (OFMP)  
+Author: Sandeep S. Kulkarni Anish Arora 
+Keyword: network management, group operations, robust hierarchical control, diffusing computations, fault-tolerance, bounded memory  
+Address: Columbus, OH 43210 USA  
+Affiliation: Department of Computer and Information Science 1 The Ohio State University  
+Abstract:  
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> W. Stallings. SNMP, SNMPv2 and CMIP: </author> <title> The practical guide to network management standards. </title> <publisher> Addison-Wesley Publishing Company, </publisher> <year> 1993. </year>
+Reference: [2] <author> M. G. Gouda. </author> <title> Elements of Network Protocol Design. </title> <note> Springer-Verlag, 1997 (to appear). </note>
+Reference: [3] <author> A. S. Tanenbaum. </author> <title> Computer Networks. </title> <publisher> Prentice Hall, </publisher> <year> 1996. </year>
+Reference: [4] <author> D. E. Comer. </author> <title> Internetworking with TCP/IP Vol 1, chapter 26. </title> <publisher> Prentice Hall, </publisher> <year> 1995. </year>
+Reference: [5] <author> S. S. Kulkarni and A. Arora. </author> <title> Multitolerance in distributed reset. </title> <type> Technical Report OSU-CISRC TR13, </type> <institution> Ohio State University, </institution> <year> 1996. </year> <note> Submitted to Chicago Journal of Theoretical Computer Science, Special Issue on Self-Stabilization. 17 </note>
+Reference-contexts: However, some other node can be chosen in a fault-tolerant manner to initiate future OFMP computations. Such a node may be chosen using a primary-backup protocol, a robust leader election protocol or, as shown in <ref> [5] </ref>, by appropriate choice of the underlying tree service. Once a node is chosen to initiate future OFMP computations, the underlying tree service will reconfigure a tree rooted at at that node and every OFMP computation will satisfy Atmost-Once, Weak-Safety and Progress.
+References-found: 5
+

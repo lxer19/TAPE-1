@@ -1,0 +1,20 @@
+URL: http://www.cs.princeton.edu/~appel/papers/sun.ps
+Refering-URL: http://www.cs.princeton.edu/~appel/papers/
+Root-URL: http://www.cs.princeton.edu
+Title: Generalizations of the Sethi-Ullman algorithm for register allocation  
+Author: Andrew W. Appel Kenneth J. Supowit 
+Keyword: Register allocation, Code generation, Code optimization, Expression trees  
+Date: March 31, 1986 revised Sept 24, 1986  
+Address: Princeton, NJ 08544  
+Affiliation: Department of Computer Science Princeton University  
+Abstract:  
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> A. V. Aho, S. C. Johnson, and J. D. Ullman, </author> <title> ``Code generation for machines with multiregister operations,'' </title> <booktitle> Fourth ACM Symp. on Principles of Programming Languages, </booktitle> <pages> pp. 21-28, </pages> <publisher> ACM, </publisher> <year> 1977. </year>
+Reference-contexts: The addressing mode works with any pair of registers; in particular, they need not be adjacent. This turns out to be important; allocation for multi-register values turns out to be much easier when the multiple-registers may be any subset of the register bank <ref> [1] </ref>. In this way, we extend the model to include trees with more than two children, and nodes requiring more than one register to hold the result. However, the generalization includes simpler cases as well. <p> For machines that operate on multiregister values that must be kept in adjacent registers (like the double-precision floating-point numbers on the VAX), it is not always optimal to generate each subtree contiguously <ref> [1] </ref>.
+Reference: 2. <author> A. V. Aho, M. Ganapathi, and S. W. K. Tjiang, </author> <title> ``Code generation using tree matching and dynamic programming,'' </title> <journal> ACM Trans. Prog. Lang. and Systems, </journal> <note> vol. (to appear), </note> <year> 1989. </year>
+Reference-contexts: The four conditions listed above can be overly restrictive in real compilers. This paper presents a generalized algorithm that is still very simple to implement. - 3 - Two generalizations In writing a code generator using the Twig tree-pattern-matching/dynamic-programming code-generator-generator <ref> [2] </ref>, two generalizations of the model proved to be useful. In this context it is often possible to match (as machine-instructions) much larger tree-patterns than the simple case of an arithmetic operator with two children. The first generalization is to remove the restriction on the degree of the nodes.
+Reference: 3. <author> R. Sethi and J. D. Ullman, </author> <title> ``The generation of optimal code for arithmetic expressions,'' </title> <journal> J. Assoc. Computing Machinery, </journal> <pages> pp. 715-728, </pages> <publisher> ACM, </publisher> <year> 1970. </year>
+Reference-contexts: The Sethi-Ullman algorithm <ref> [3] </ref> determines an order of computation of the nodes of the tree that uses the fewest possible registers, subject to these assumptions: 1. The properties of the arithmetic operators are not considered; that is, no arithmetic identities are used. 2.
+References-found: 3
+

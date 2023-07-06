@@ -1,0 +1,15 @@
+URL: http://playfair.stanford.edu/reports/friedman/dm-stat.ps.Z
+Refering-URL: http://playfair.stanford.edu/reports/friedman/
+Root-URL: 
+Email: jhf@stat.stanford.edu  
+Title: Data Mining and Statistics: What's the Connection?  
+Author: Jerome H. Friedman 
+Address: Stanford, CA 94305  
+Affiliation: Department of Statistics and Stanford Linear Accelerator Center Stanford University  
+Abstract: Data Mining is used to discover patterns and relationships in data, with an emphasis on large observational data bases. It sits at the common frontiers of several telds including Data Base Management, Artitcial Intelligence, Machine Learning, Pattern Recognition, and Data Visualization. From a statistical perspective it can be viewed as computer automated exploratory data analysis of (usually) large complex data sets. In spite of (or perhaps because of) the somewhat exaggerated hype, this teld is having a major impact in business, industry, and science. It also aords enormous research opportunities for new methodological developments. Despite the obvious connections between data mining and statistical data analysis, most of the methodologies used in Data Mining have so far originated in telds other than Statistics. This paper explores some of the reasons for this, and why statisticians should have an interest in Data Mining. It is argued that Statistics can potentially have a major inuence on Data Mining, but in order to do so some of our basic paradigms and operating principles may have to be modited. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Tukey, J. W. </author> <year> (1962). </year> <title> The future of data analysis. </title>
+Reference: <editor> Ann. Statist. </editor> <volume> 33, </volume> <pages> 1-67. 7 </pages>
+References-found: 2
+

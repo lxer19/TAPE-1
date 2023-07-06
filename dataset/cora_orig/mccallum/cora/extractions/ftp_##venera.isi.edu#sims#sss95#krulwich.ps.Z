@@ -1,0 +1,27 @@
+URL: ftp://venera.isi.edu/sims/sss95/krulwich.ps.Z
+Refering-URL: 
+Root-URL: 
+Email: krulwich@andersen.com  
+Title: Learning user interests across heterogeneous document databases  
+Author: Bruce Krulwich 
+Address: 100 South Wacker Drive, Chicago, IL 60606  
+Affiliation: Center for Strategic Technology Research Andersen Consulting LLP  
+Abstract: This paper discusses an intelligent agent that learns to identify documents of interest to particular users, in a distributed and dynamic database environment with databases consisting of mail messages, news articles, technical articles, online discussions, client information, proposals, design documentation, and so on. The agent interacts with the user to categorize each liked or disliked document, uses significant-phrase extraction and inductive learning techniques to determine recognition criteria for each category, and routinely gathers new documents that match the user's interests. We present the models used to describe the databases and the user's interests, and discuss the importance of techniques for acquiring high-quality input for learning algorithms. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Dent, L., Boticario, J., McDermott, J., Mitchell, T., and Zabrowski, D., </author> <year> 1992. </year> <title> A personal learning apprentice. </title> <booktitle> In Proceedings of the 1992 AAAI Conference, </booktitle> <address> San Jose, CA, </address> <pages> pp. 96-103. </pages>
+Reference: <author> Gil, Y., </author> <year> 1994. </year> <title> Trainable software agents. </title> <booktitle> In Working Notes of the 1994 AAAI Spring Symposium on Software Agents, </booktitle> <address> Stanford, CA, </address> <pages> pp. 99-102. </pages>
+Reference: <author> Holte, R., </author> <year> 1993. </year> <title> Very simple classification rules perform well on most commonly used datasets. </title> <journal> Machine Learning Journal 11(1), </journal> <pages> pp. 63-90. </pages>
+Reference: <author> Holte, R. and Drummond, C., </author> <year> 1994. </year> <title> A learning apprentice for browsing. </title> <booktitle> In Working Notes of the 1994 AAAI Spring Symposium on Software Agents, </booktitle> <address> Stanford, CA, </address> <pages> pp. 37-42. </pages>
+Reference: <author> Kautz, H., Selman, B., Coen, M., Ketchpel, S., and Ramming, C., </author> <year> 1994. </year> <title> An experiment in the design of software agents. </title> <booktitle> In Proceedings of the 1994 AAAI Conference, </booktitle> <address> Seattle, WA, </address> <pages> pp. 438-443. </pages>
+Reference: <author> Knoblock, C. and Arens, Y., </author> <year> 1994. </year> <title> An architecture for information retrieval agents. </title> <booktitle> In Working Notes of the 1994 AAAI Spring Symposium on Software Agents, </booktitle> <address> Stanford, CA, </address> <pages> pp. 49-56. </pages>
+Reference: <author> Lashkari, Y., Metral, M., and Maes, P., </author> <year> 1994. </year> <title> Collaborative interface agents. </title> <booktitle> In Proceedings of the 1994 AAAI Conference, </booktitle> <address> Seattle, WA, </address> <pages> pp. 444-449. </pages>
+Reference: <author> Levy, A., Sagiv, Y., and Srivastava, D., </author> <year> 1994. </year> <title> Towards efficient information gathering agents. </title> <booktitle> In Working Notes of the 1994 AAAI Spring Symposium on Software Agents, </booktitle> <address> Stanford, CA, </address> <pages> pp. 64-70. </pages>
+Reference: <author> Lieberman, H., </author> <year> 1994. </year> <title> Demonstrational techniques for instructible user interface agents. </title> <booktitle> In Working Notes of the 1994 AAAI Spring Symposium on Software Agents, </booktitle> <address> Stanford, CA, </address> <pages> pp. 107-109. </pages>
+Reference: <author> Maes, P. and Kozierok, R., </author> <year> 1993. </year> <title> Learning interface agents. </title> <booktitle> In Proceedings of the 1993 AAAI Conference, </booktitle> <address> Washington, DC, </address> <pages> pp. 459-465. </pages>
+Reference: <author> Maes, P., </author> <year> 1994. </year> <title> Social interface agents: Acquiring competence by learning from users and other agents. </title> <booktitle> In Working Notes of the 1994 AAAI Spring Symposium on Software Agents, </booktitle> <address> Stanford, CA, </address> <pages> pp. 71-78. </pages>
+Reference: <author> Rus, D., and Subramanian, D., </author> <year> 1994. </year> <title> Designing structure-based information agents. </title> <booktitle> In Working Notes of the 1994 AAAI Spring Symposium on Software Agents, </booktitle> <address> Stanford, CA, </address> <pages> pp. 79-86. </pages>
+Reference: <author> Sheth, B., </author> <year> 1994. </year> <title> A learning approach to personalized information filtering. M.S. </title> <type> Thesis, </type> <institution> EECS Department, MIT. </institution>
+Reference: <author> Swaminathan, K., </author> <year> 1993. </year> <title> Tau: A domain-independent approach to information extraction from natural language documents. </title> <booktitle> DARPA workshop on document management, </booktitle> <address> Palo Alto. </address>
+References-found: 14
+

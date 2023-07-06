@@ -1,0 +1,16 @@
+URL: ftp://ftp.docs.uu.se/docs/papers/exrt_group/wall.AE-93.ps.Z
+Refering-URL: http://www.csd.uu.se/~stinal/publications.html
+Root-URL: 
+Email: E-mail: goranw@DoCS.UU.SE  
+Phone: Tel: +46 18 18 10 09  
+Title: Performance Expectations on Ada Programs  
+Author: Gran Wall, Lars Asplund, Lars Bjrnfot and Kristina Lundqvist 
+Address: P.O. Box 325, S-751 05 Uppsala, Sweden  
+Affiliation: Department of Computer Systems, Uppsala University  
+Abstract: A method for performance estimation of Ada programs by analyzing their syntactical structure is presented. The use of algorithmic knowledge by means of code annotations to improve the analysis is discussed. Dual loop benchmarks are used to estimate the execution time for basic Ada features from which all other estimations are derived. An example program is analyzed and compared to its actual time showing an initial overestimation of 40%. It is suggested that the method is integrated with the Ada-environment to ensure that estimations are consistent with the current version of the code.
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> H.J. Curnow and B.A. </author> <month> Wichman </month>
+Reference-contexts: 1 Introduction Much work <ref> [1] </ref>, [2], [3], [4], [5] has been done in the fields of performance evaluation or analysis of temporal behavior of Ada-programs. The work follow three different directions, synthetic benchmarks, feature benchmarks and analytical methods. <p> There are two kinds of synthetic benchmarks, programs that represent a particular domain of computation and specific applications. These benchmarks are good for making comparisons between different compilers and architectures. Examples of the first kind of benchmark are <ref> [1] </ref>, which models typical mathematical computations, and [2], which models a typical program with respect to the distribution of different types of statements. Application benchmarks are programs that solve specific problems. They are suitable for comparing programs, written in different languages, solving the same problem.
+References-found: 1
+

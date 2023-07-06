@@ -1,0 +1,22 @@
+URL: ftp://ftp.cs.utexas.edu/pub/psp/unity/notes/33-93.ps.Z
+Refering-URL: http://www.cs.utexas.edu/users/psp/notesunity.html
+Root-URL: 
+Email: mueller@mathematik.uni-marburg.de  
+Title: Proving Convergence of a Hopfield Neural Network Notes on UNITY: 33-93 Hopfield network consists of
+Author: Martin Muller hi; j w i;j w j;i w P N h[]k k N if w k a t &lt; s k 
+Note: A  which is 1 or 1 in the discrete version. The  With the  
+Date: November 11, 1993  
+Address: Germany  
+Affiliation: Philipps Universitat Marburg  end fHopfieldg  
+Abstract: We show how Unity can be applied to prove convergence of a discrete Hopfield neural network. In his article [2] K.M.Chandy applies Unity to reason about continuous systems, in particular about continuous neural networks. We worked out his sketch of a convergence proof of continuous Hopfield neural networks, but applied it on discrete Hopfield neural networks, which can easily be modeled with Unity. 1 We are indebted to H.P.Gumm for encouragement and discussions. j=1 w i;j a j s i , and to 1 otherwise. It is assumed that only one neuron changes at a time and that if one or more neurons is able to change activity value under this rule then one of them will eventually do so. Given any input state a the Hopfield network reaches a stable state ^a, which matches a in some sense the best. We will prove that a Hopfield network always reaches a stable state using the Unity calculus. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> K. Mani Chandy and Jayadev Misra. </author> <title> Parallel Program Design: a Foundation. </title> <publisher> Addison-Wesley, </publisher> <address> Reading, Massachusetts, </address> <year> 1988. </year>
+Reference: [2] <author> K. Mani Chandy. </author> <title> Reasoning about Continuous Systems. </title> <booktitle> Science of Computer Programming 14 (1990) 117-132. </booktitle>
+Reference-contexts: 1 There is a problem with Chandy's definition of unless in the continuous setup. In <ref> [2] </ref> Chandy defines p unless q holds in a system, iff for every possible trajectory of the system: h8t : p (t) :: h8 ^ t : ^ t t :: p ( ^ t)i _ h9d : d t :: q (d) ^ h8 ^ t : t ^ t
+Reference: [3] <author> J. Hopfield and D. Tank. </author> <title> Computing with Neural Circuits: a Model. </title> <note> Science 233 (1986) 625-633. </note>
+Reference-contexts: See <ref> [3] </ref> or any introduction to neural networks, for example [4]. 2 Proof We have to show two things fM (a) = m ^ change (a) = k ^ w i a t s i g a i := 1 f (M (a) = m ^ change (a) = k) _ M
+Reference: [4] <author> Judith E. Dayhoff. </author> <title> Neural Network Architectures: an Introduction. </title> <publisher> Van Nostrand Reinhold, </publisher> <address> New York, </address> <year> 1990. </year>
+Reference-contexts: See [3] or any introduction to neural networks, for example <ref> [4] </ref>. 2 Proof We have to show two things fM (a) = m ^ change (a) = k ^ w i a t s i g a i := 1 f (M (a) = m ^ change (a) = k) _ M (a) &lt; mg and fM (a) = m ^
+References-found: 4
+

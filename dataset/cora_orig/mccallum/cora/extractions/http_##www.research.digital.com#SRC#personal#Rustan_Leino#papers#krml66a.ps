@@ -1,0 +1,21 @@
+URL: http://www.research.digital.com/SRC/personal/Rustan_Leino/papers/krml66a.ps
+Refering-URL: http://www.research.digital.com/SRC/personal/Rustan_Leino/papers.html
+Root-URL: http://www.research.digital.com
+Email: frustan,statag@pa.dec.com  
+Title: KRML 66a -0 Virginity: A contribution to the specification of object-oriented software  
+Author: K. Rustan M. Leino and Raymie Stata 
+Keyword: Program specification, object-oriented programming, program verification, specification languages, formal semantics, static program checking.  
+Address: 130 Lytton Ave., Palo Alto, CA 94301, U.S.A.  
+Affiliation: Digital Equipment Corporation Systems Research Center  
+Date: 26 March 1997  
+Abstract: A common object-oriented programming paradigm is to keep certain object fields injective: an object field f is injective if, for every pair of distinct objects with non- nil f fields, the f fields of these objects are distinct. This papers unveils some specification difficulties surrounding the initialization of injective fields. To overcome these difficulties, the paper presents virginity, a convenient way of specifying that an object is not globally reachable and thus can safely be assigned to an injective field. Unlike the alternative of using reference counts, virginity does not place a heavy burden on specifiers. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <institution> Extended Static Checking home page, Digital Equipment Corporation Systems Research Center. </institution> <note> On the Web at http://www.research.digital.com/SRC/ esc/Esc.html. </note>
+Reference-contexts: Unlike the alternative of using reference counts, virginity does not place a heavy burden on specifiers. Keywords: Program specification, object-oriented programming, program verification, specification languages, formal semantics, static program checking. 0 Introduction The Extended Static Checking project <ref> [1] </ref> is building static checkers that find errors in object-oriented software. Our checkers take as input an annotated program and produce as output the discovery of errors in the program. One way to view our checkers is as lightweight program verifiers.
+Reference: [2] <author> John V. Guttag and James J. Horning. With Stephen J. Garland, Kevin D. Jones, Andres Modet, and Jeannette M. Wing. </author> <title> Larch: Languages and Tools for Formal Specification. </title> <note> Springer-Verlag, Texts and Monographs in Computer Science, 1993. ISBN 0387940065, QA76.6.H66 1993. </note>
+Reference-contexts: The are like program verifiers in being capable of reasoning about specifications and checking assertions in a program. The annotations we have in mind include the declarations of program invariants and procedure specifications. We use a Larch-like notation for procedure specifications <ref> [2] </ref>; a procedure specification like requires pre modifies m ensures post KRML 66a -1 says that, if the procedure is started in a state satisfying precondition pre , the procedure terminates in a state satisfying the postcondition post (if it terminates at all), having modified only the values of the designator
+Reference: [3] <author> Jim Horning, Bill Kalsow, Paul McJones, and Greg Nelson. </author> <title> Some useful Modula-3 interfaces. </title> <type> Research Report 113, </type> <institution> Digital Equipment Corporation Systems Research Center, </institution> <address> 130 Lytton Ave., Palo Alto, CA 94301, U.S.A., </address> <month> December </month> <year> 1993. </year> <note> Available at http://www.research.digital.com/SRC/publications/src-rr.html. </note>
+Reference-contexts: Section 3 describes how we use the concept of virginity to solve these difficulties. The remaining brief sections describe our experience using our checker and offer some concluding remarks. 1 Injectivity To motivate and explain injectivity, we show a program example taken from the Modula-3 library <ref> [3] </ref>. A reader is an input stream that gives access to a source of characters. A file reader is a reader whose source is a file in a file system. The implementation of a file reader contains a pointer to a file object.
+References-found: 3
+

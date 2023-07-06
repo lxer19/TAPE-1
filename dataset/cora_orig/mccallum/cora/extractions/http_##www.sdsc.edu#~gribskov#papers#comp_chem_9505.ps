@@ -1,0 +1,30 @@
+URL: http://www.sdsc.edu/~gribskov/papers/comp_chem_9505.ps
+Refering-URL: http://www.sdsc.edu/~gribskov/gribskov_cv.html
+Root-URL: 
+Phone: (619) 534 8312 FAX: (619) 534 5152  FAX: (619) 452 6653  (619) 452 6550  
+Title: The Use of Receiver Operating Characteristic (ROC) Analysis to Evaluate Sequence Matching  
+Author: Michael Gribskov Nina L. Robinson 
+Address: UPS/FedEx/Courier Address: P.O. Box 85608 10100 Hopkins Dr. San Diego CA 92186-9784 La Jolla 92093-0505  11099 North Torrey Pines Road Suite 160 La Jolla CA 92037-1029  
+Affiliation: San Diego Supercomputer Center  
+Note: 1 Corresponding author:  2 Sequana Therapeutics, Inc.  
+Abstract: In this paper, we borrow the idea of the Receiver Operating Characteristic (ROC) from clinical medicine and demonstrate its application to sequence comparison. The ROC includes elements of both sensitivity and specificity, and is a quantitative measure of the usefulness of a diagnostic. The ROC is used in this work to investigate the effects of scoring table and gap penalties on database searches. Studies on three families of proteins, 4Fe-4S ferredoxins, lysR bacterial regulatory proteins, and bacterial RNA polymerase sigma factors lead to the following conclusions: Sequence families are quite idiosyncratic, but the best PAM distance for database searches using the Smith-Waterman method is somewhat larger than predicted by theoretical methods, about 200 PAM. The length independent gap penalty (gap initiation penalty) is quite important, but shows a broad peak at values of about 20 - 24. The length dependent gap penalty (gap extension penalty) is almost irrelevant suggesting that successful database searches rely only to a limited degree on gapped alignments. Taken together, these observations lead to the conclusion that the optimal conditions for alignments and database searches are not, and should not be expected to be, the same. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Altschul, S.F., Gish, W., Miller, W., Myers, </author> <title> E.W. & Lipman, D.J. </title> <journal> (1990) J.Mol.Biol. </journal> <volume> 215, 403 410. </volume>
+Reference-contexts: Generally about 12 settings of both the gap initiation parameter and the gap extension parameter were investigated for each query sequence. Approximately 7000 database searches were performed in the work reported here. BLAST database searches <ref> (Altschul et al., 1990) </ref> were performed by email using BLAST ver -sion 1.4. Each query sequence was compared to all five scoring systems available to the email service: IDENTITY, PAM40, PAM100, PAM250, and BLOSUM62. <p> The lack of dependence on the gap extension penalty, in particular, suggests that a method that does not consider gaps might be just as efficient in database searches as the Smith-Waterman method. To investigate this possibility, the query sequences used above were also used as queries for BLAST searches <ref> (Altschul et al., 1990) </ref> with the results shown in Table 1.
+Reference: <editor> Altschul, </editor> <address> S.F. </address> <year> (1991) </year> <month> J.Mol.Biol 219, </month> <pages> 555-565. </pages>
+Reference-contexts: The results reported here are unexpected in several ways. Firstly, the optimal PAM distance for these sequence groups appears to be roughly 200 PAM rather than the 100-120 suggested by theoretical considerations <ref> (Altschul, 1991) </ref>. Secondly, while the gap initiation penalty is very important in achieving the best results, the ROC 50 plot for this parameter shows a rather broad peak. Reasonable values for this parameter are approximately 20 to 24.
+Reference: <author> Bairoch, A. & Boeckmann, </author> <title> B. </title> <journal> (1993) Nucleic Acids Res. </journal> <volume> 21, </volume> <pages> 3093-3096. </pages>
+Reference-contexts: Identification of True Positives True positives were identified by a combination of criteria. The initial group of sequences for each family was determined based on sequence annotation and the PROSITE database <ref> (Bairoch & Boeckmann, 1993) </ref>. Five to 15 sequences from this original group were then used as queries in database searches using BLAST and MPSRCH and the results of the searches examined for further distantly related sequences, i.e., sequences with significant or high scores with all of the query sequences.
+Reference: <author> Bamber, D. </author> <year> (1975) </year> <month> J.Math.Psych. </month> <pages> 12, 387-415. </pages>
+Reference: <author> Henikoff, S., Haughn, G.W., Calvo, J.M. & Wallace, J.C. </author> <year> (1988) </year> <month> Proc.Natl.Acad.Sci 85, </month> <pages> 6602 6606. </pages>
+Reference: <author> Henikoff, S. & Henikoff, J. </author> <year> (1992) </year> <month> Proc.Natl.Acad.Sci. </month> <pages> 89, 10915-10919. </pages>
+Reference: <author> Lonetto, M, Gribskov, M., & Gross, </author> <title> C.A. </title> <journal> (1992) J.Bact. </journal> <volume> 174, </volume> <pages> 3843-3849. </pages>
+Reference: <author> Pearson, W.R. </author> <year> (1991) </year> <month> Genomics 11, </month> <pages> 635-50. </pages>
+Reference: <author> Schell, M.A. </author> <year> (1993) </year> <month> Ann.Rev.Microbiol. </month> <pages> 47, 597-626. </pages>
+Reference: <author> Smith, T.F. </author> & <title> Waterman M.S. </title> <journal> (1981) J.Mol.Biol. </journal> <volume> 147, </volume> <pages> 195-197. </pages>
+Reference-contexts: It also takes into account the observation that true positives that occur after roughly a page worth (about 50) of true negatives are essentially not observed. Evaluation of Sequence Similarity Sequence comparisons were performed using a local similarity dynamic programming algorithm <ref> (Smith & Waterman, 1981) </ref>, as implemented in the MPSRCH program (IntelliGenetics, Inc., Mountain View, CA). Results were normalized for systematic dependence on sequence length using the ranking function method implemented in this package.
+Reference: <author> Vingron, M. & Waterman, </author> <title> M.S. </title> <journal> (1994) J.Mol.Biol. </journal> <volume> 235, </volume> <pages> 1-12. </pages>
+
+References-found: 11
+

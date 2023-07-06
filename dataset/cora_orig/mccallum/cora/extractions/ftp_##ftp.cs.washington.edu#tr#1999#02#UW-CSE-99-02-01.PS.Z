@@ -1,0 +1,31 @@
+URL: ftp://ftp.cs.washington.edu/tr/1999/02/UW-CSE-99-02-01.PS.Z
+Refering-URL: http://www.cs.washington.edu/research/tr/tr-by-date.html
+Root-URL: http://www.cs.washington.edu
+Email: karling@cs.washington.edu  
+Title: On the Performance Potential of Dynamic Cache Line Sizes  
+Author: Eric Anderson, Peter Van Vleet, Lindsay Brown, Jean-Loup Baer and Anna R. Karlin feric, pvv, lbrown, baer, 
+Address: Box 352350 Seattle, WA 98195  
+Affiliation: Department of Computer Science and Engineering University of Washington  
+Abstract: Technical Report UW-CSE-99-02-01 February, 1999 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Craig Anderson and Jean-Loup Baer. </author> <title> Two techniques for improving performance on bus-based multiprocessors. </title> <journal> Future Generation Computer Systems, </journal> <volume> 11 </volume> <pages> 537-551, </pages> <year> 1995. </year>
+Reference: [2] <author> Anonymous. </author> <title> Private communication. </title>
+Reference: [3] <author> Lazlo Belady. </author> <title> A study of replacement algorithms for a virtual storage computer. </title> <journal> IBM Systems Journal, </journal> <volume> 5(2) </volume> <pages> 78-101, </pages> <year> 1966. </year>
+Reference: [4] <author> Doug Burger and Todd M. Austin. </author> <title> The simplescalar tool set, version 2.0. </title> <type> Technical Report 1342, </type> <institution> Computer Science Department, University of Wisconsin, Madison, WI., </institution> <year> 1997. </year>
+Reference: [5] <author> Charles Conti. </author> <title> Concepts for buffer storage. </title> <journal> Computer Group News, </journal> <volume> 2 </volume> <pages> 9-13, </pages> <year> 1969. </year>
+Reference: [6] <author> Czarek Dubnicki and Thomas LeBlanc. </author> <title> Adjustable block size coherent caches. </title> <booktitle> In Proc. of 19th Int. Symp. on Computer Architecture, </booktitle> <pages> pages 170-180, </pages> <year> 1992. </year>
+Reference: [7] <author> Antonio Gonzalez, Carlos Aliaga, and Mateo Valero. </author> <title> A data cache with multiple caching strategies tuned to different types of locality. </title> <booktitle> In Proc. 1995 Int. Conf. on Supercomputing, </booktitle> <pages> pages 338-347, </pages> <year> 1995. </year>
+Reference: [8] <author> John Hennessy and David Patterson. </author> <title> Computer architecture : a quantitative approach. </title> <publisher> Morgan Kaufmann, </publisher> <address> 2nd Edition, San Francisco, CA, </address> <year> 1996. </year>
+Reference: [9] <author> Teresa Johnson and Wen mei Hwu. </author> <title> Run-time adaptive cache hierarchy management via reference analysis. </title> <booktitle> In Proc. 24th Int. Symp. on Computer Architecture, </booktitle> <pages> pages 315-326, </pages> <year> 1997. </year>
+Reference: [10] <author> Teresa Johnson, Matthew Merten, and Wen mei Hwu. </author> <title> Run-time spatial locality detection and optimization. </title> <booktitle> In Proc. 30th Int. Symp. on Microarchitecture, </booktitle> <pages> pages 57-64, </pages> <year> 1997. </year>
+Reference: [11] <author> Sanjeev Kumar and Chris Wilkerson. </author> <title> Exploiting spatial locality in data caches using spatial footprints. </title> <booktitle> In Proc. 25th Int. Symp. on Computer Architecture, </booktitle> <pages> pages 357-368, </pages> <year> 1998. </year>
+Reference: [12] <author> Richard Mattson, Jan Gecsei, Donald Slutz, and Irving Traiger. </author> <title> Evaluation techniques for storage hierarchies. </title> <journal> IBM Systems Journal, </journal> <volume> 9(2) </volume> <pages> 78-117, </pages> <year> 1970. </year>
+Reference: [13] <author> Steven Przybylski, Mark Horowitz, and John Hennessy. </author> <title> Performance tradeoffs in cache design. </title> <booktitle> In Proc. 15th Int. Symp. on Computer Architecture, </booktitle> <pages> pages 290-298, </pages> <year> 1988. </year>
+Reference: [14] <author> Jude Rivers, Edward Tam, Gary Tyson, Edward Davidson, and Matthew Farrens. </author> <title> Utilizing reuse information in data cache management. </title> <booktitle> In Proc. 1998 Int. Conf. on Supercomputing, </booktitle> <pages> pages 449-456, </pages> <year> 1998. </year>
+Reference: [15] <author> Ted Romer, Wayne Ohlrich, Anna Karlin, and Brian Bershad. </author> <title> Reducing tlb and memory overhead using online superpage promotion. </title> <booktitle> In Proc. 22nd Int. Symp. on Computer Architecture, </booktitle> <pages> pages 176-187, </pages> <year> 1995. </year>
+Reference: [16] <author> Rabin Sugumar and Santosh Abraham. </author> <title> Efficient simulation of caches under optimal replacement with applications to miss characterization. </title> <booktitle> In Proc. SIGMETRICS Conf., </booktitle> <pages> pages 24-35, </pages> <year> 1993. </year> <month> 21 </month>
+Reference: [17] <author> Madusudhan Talluri and Mark Hill. </author> <title> Surpassing the tlb performance of superpages with less operating system support. </title> <booktitle> In Proc. ASPLOS-VI, </booktitle> <pages> pages 171-182, </pages> <year> 1994. </year>
+Reference: [18] <author> Gary Tyson, Matthew Farrens, John Matthews, and Andrew Pleskun. </author> <title> A modified approach to data cache management. </title> <booktitle> In Proc. 28th Int. Symp. on Microarchitecture, </booktitle> <pages> pages 93-103, </pages> <year> 1995. </year>
+References-found: 18
+

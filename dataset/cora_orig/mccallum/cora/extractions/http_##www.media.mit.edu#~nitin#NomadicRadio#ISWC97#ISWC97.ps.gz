@@ -1,0 +1,18 @@
+URL: http://www.media.mit.edu/~nitin/NomadicRadio/ISWC97/ISWC97.ps.gz
+Refering-URL: http://vismod.www.media.mit.edu/vismod/demos/smartclothes/mitres.html
+Root-URL: http://www.media.mit.edu
+Email: nitin, geek-@media.mit.edu  
+Title: Nomadic Radio: A Spatialized Audio Environment for Wearable Computing  
+Author: Nitin Sawhney and Chris Schmandt 
+Address: 20 Ames Street, Cambridge, MA 02139  
+Affiliation: Speech Interface Group, MIT Media Laboratory  
+Abstract: This paper describes an ongoing research project at the MIT Media Lab, exploring the use of auditory I/O as a primary interaction modality for wearable computing. Nomadic Radio is a framework developed for use on a wearable audio platform. It presents timely information and permits communication within a spatialized audio environment. The contextual state of the user indicated by time of day, physical positioning, scheduled tasks, and message content, is used to model information presented in the users listening space. We are evaluating techniques for the design of spatial audio streams, speech I/O, and auditory cues in the interface. Issues related to asynchronous communication and peripheral awareness are also being considered. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Schmandt, Chris. </author> <title> Multimedia Nomadic Services on Todays Hardware. </title> <journal> IEEE Network, </journal> <note> September/October 1994, pp.12-21. </note>
+Reference-contexts: Frequently accessed information sources such as voice mail, email, appointments, news, weather forecasts, and traffic reports, can be integrated within such an environment. The MIT Media Labs Nomadic Computing Environment <ref> [1] </ref> enables subscribers to manage personal information via fax, pagers, and telephony access using digitized audio and synthesized speech. These services are integrated using Phoneshell [1], a suite of applications which provide remote telephony access to a variety of information sources. <p> The MIT Media Labs Nomadic Computing Environment <ref> [1] </ref> enables subscribers to manage personal information via fax, pagers, and telephony access using digitized audio and synthesized speech. These services are integrated using Phoneshell [1], a suite of applications which provide remote telephony access to a variety of information sources. Simple devices such as pagers provide a convenient form of alerting users to communication and remote information.
+Reference: [2] <author> Stifelman, Lisa J., Arons, B., Schmandt, C., Hulteen, E. A. VoiceNotes: </author> <title> A Speech Interface for Hand Held Voice Notetaker. </title> <booktitle> Proceedings of INTERCHI93 , April 1993. </booktitle>
+Reference: [3] <author> Roy, Deb K. and Chris Schmandt. NewsComm: </author> <title> A HandHeld Interface for Interactive Access to Structured Audio. </title> <booktitle> Proceedings of CHI 96 , April 1996, </booktitle> <pages> pp. 173-180. </pages>
+Reference: [4] <author> Wilcox, Lynn D., Schilit, B. N., Sawhney, N. </author> <month> Dynomite: </month>
+References-found: 4
+

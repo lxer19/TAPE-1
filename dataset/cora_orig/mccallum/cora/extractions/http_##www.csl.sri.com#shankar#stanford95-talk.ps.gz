@@ -1,0 +1,20 @@
+URL: http://www.csl.sri.com/shankar/stanford95-talk.ps.gz
+Refering-URL: http://www.csl.sri.com/shankar/shankar-talks.html
+Root-URL: 
+Email: Srivas)  
+Title: An Integration of Model Checking and Proof Checking (Work in Progress) Proof Checking: Given program
+Author: Natarajan Shankar (With P. Sreeranga Rajan and M. 
+Address: Menlo Park, CA  
+Affiliation: Computer Science Laboratory SRI International  
+Web: URL: http://www.csl.sri.com/sri-csl-fm.html  
+Date: May 1, 1995  Prelude  
+Note: Stanford FM Seminar  
+Abstract-found: 0
+Intro-found: 0
+Reference: [1] <author> J. R. Burch, E. M. Clarke, D. E. Long, K. L. McMillan, and D. L. Dill. </author> <title> Symbolic model checking for sequential circuit verification. </title> <journal> IEEE Transactions on Computer-Aided Design, </journal> <volume> 13(4) </volume> <pages> 401-424, </pages> <month> April </month> <year> 1994. </year>
+Reference: [2] <author> J. R. Burch, E. M. Clarke, K. L. McMillan, D. L. Dill, and L. J. Hwang. </author> <title> Symbolic model checking: 10 20 states and beyond. </title> <journal> Information and Computation, </journal> <volume> 98(2) </volume> <pages> 142-170, </pages> <month> June </month> <year> 1992. </year>
+Reference: [3] <author> Edmund M. Clarke, Orna Grumberg, and David E. </author> <title> Long. Model checking and abstraction. </title> <journal> ACM Transactions on Programming Languages and Systems, </journal> <volume> 16(5) </volume> <pages> 1512-1542, </pages> <month> September </month> <year> 1994. </year>
+Reference: [4] <author> E. Allen Emerson. </author> <title> Temporal and modal logic. </title> <editor> In Jan van Leeuwen, editor, </editor> <booktitle> Handbook of Theoretical Computer Science, volume B: Formal Models and Semantics, chapter 16, </booktitle> <pages> pages 995-1072. </pages> <publisher> Elsevier and MIT press, </publisher> <address> Amsterdam, The Netherlands, and Cambridge, MA, </address> <year> 1990. </year>
+
+References-found: 4
+

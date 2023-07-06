@@ -1,0 +1,16 @@
+URL: ftp://ftp.cs.umd.edu/pub/papers/papers/3441/3441.ps.Z
+Refering-URL: http://www.cs.umd.edu/TRs/TR.html
+Root-URL: 
+Title: On the Perturbation of Schur Complements in Positive Semidefinite Matrices  
+Author: G. W. Stewart 
+Date: March, 1995  
+Affiliation: University of Maryland College Park Institute for Advanced Computer Studies TR-95-38 Department of Computer Science  
+Pubnum: TR-3441  
+Abstract: This note gives perturbation bounds for the Schur complement of a positive definite matrix in a positive semidefinite matrix. fl This report is available by anonymous ftp from thales.cs.umd.edu in the directory pub/reports. y Department of Computer Science and Institute for Advanced Computer Studies, University of Maryland, College Park, MD 20742. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> N.J. Higham. </author> <title> Analysis of the Cholesky decomposition of a semi-definite matrix. </title> <editor> In M.G. Cox and S.J. Hammarling, editors, </editor> <booktitle> Reliable Numerical Computation, </booktitle> <pages> pages 161-185, </pages> <address> Oxford, 1990. </address> <publisher> Clarenden Press. </publisher>
+Reference-contexts: 1 Higham <ref> [1] </ref> gives first order bounds, somewhat less refined than those here. Schur Complements 3 where fi = 1 1 *(A) Let S be the Schur complement of A in P and ~ S be the Schur complement of ~ A in ~ P .
+Reference: [2] <author> G. W. Stewart and J.-G. Sun. </author> <title> Matrix Perturbation Theory. </title> <publisher> Academic Press, </publisher> <address> Boston, </address> <year> 1990. </year>
+References-found: 2
+

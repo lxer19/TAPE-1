@@ -1,0 +1,19 @@
+URL: http://www.cs.washington.edu:80/homes/pardy/research/papers/Thesis/thesis.ps.Z
+Refering-URL: http://www.cs.washington.edu:80/homes/pardy/research/papers/index.html
+Root-URL: http://www.cs.washington.edu
+Title: A.5 Syntax of Emerald|Changes operationDefinition private operationSignature by identifier typeDef inition blockBody end operationName statement
+Author: declarationList singleDeclaration j initialP rocess blockBody 
+Date: 00 listOf Declarations 00  152  
+Abstract-found: 0
+Intro-found: 1
+Reference: [Aspnas 89] <author> M. Aspnas, R.J.R. Back, and R. Kurki-Suonio. </author> <title> Efficient Implementation of Multi-process Handshaking on Broadcast Networks. </title> <institution> Reports on Computer Science A75, Abo Akademi University, Turku, Finland, </institution> <month> March </month> <year> 1989. </year>
+Reference: [Birman 87a] <author> Kenneth P. Birman and Thomas A. Joseph. </author> <title> Exploiting Virtual Synchrony in Distributed Systems. </title> <booktitle> Operating Systems Review 21(5) </booktitle> <pages> 123-138, </pages> <month> November </month> <year> 1987. </year>
+Reference: [Birman 87b] <author> Kenneth P. Birman and Thomas A. Joseph. </author> <title> Reliable Communication in the Presence of Failures. </title> <journal> ACM Transactions on Computer Systems 5(1) </journal> <pages> 47-76, </pages> <month> February </month> <year> 1987. </year>
+Reference: [Birman 91a] <author> Kenneth P. Birman and R. Cooper. </author> <title> The ISIS project: Real Experience with a Fault Tolerant Programming System. Operating Systems Review , April 1991. </title>
+Reference: [Birman 91b] <author> Kenneth P. Birman, Robert Cooper, and Barry Gleeson. </author> <title> Design Alternatives for Process Group Membership and Multicast. </title> <type> Technical Report TR-91-1257, </type> <institution> Dept. of Computer Science, Cornell University, </institution> <month> December </month> <year> 1991. </year>
+Reference: [Birman 91c] <author> Kenneth P. Birman, Andre Schiper, and Pat Stephenson. </author> <title> Lightweight Causal and Atomic Group Multicast. </title> <journal> ACM Transactions on Computer Systems 9(3) </journal> <pages> 272-314, </pages> <month> August </month> <year> 1991. </year>
+Reference: [Black 86] <author> Andrew Black, Norman Hutchinson, Eric Jul, and Henry Levy. </author> <title> Object Structure in the Emerald System. </title> <booktitle> In Proceedings of the 1986 ACM Conference on Object-Oriented Programming Systems, Languages and Applications, </booktitle> <pages> pages 78-86. </pages> <month> October </month> <year> 1986. </year>
+Reference: [Black 87] <author> Andrew Black, Norman Hutchinson, Eric Jul, Henry Levy, and Larry Carter. </author> <title> Distribution and Abstract Types in Emerald. </title> <journal> IEEE Transactions on Software Engineering 13(1) </journal> <pages> 65-76, </pages> <month> January </month> <year> 1987. </year>
+
+References-found: 8
+

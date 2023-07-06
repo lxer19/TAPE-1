@@ -1,0 +1,14 @@
+URL: ftp://ftp.cs.man.ac.uk/pub/amurta/moon.ps.Z
+Refering-URL: http://aig.cs.man.ac.uk/publications/publications.html
+Root-URL: http://www.cs.man.ac.uk
+Email: amurta@cs.man.ac.uk  
+Title: MANAGING COMPLEXITY AND FEATURE PLACEMENT IN PLANETARY TERRAIN SYNTHESIS  
+Author: Alan Murta, James Miller and Simon Embley 
+Keyword: Categories and Subject Descriptors: I.3.3 [Computer Graphics]: Picture/Image Generation; I.3.5 [Computer Graphics]: Object Modeling; I.3.7 [Computer Graphics]: Three-Dimensional Graphics and Realism. Additional Key Words and Phrases: Fractals, natural phenomena, terrain models, sphere tiling.  
+Address: Manchester M13 9PL, UK.  
+Affiliation: Advanced Interfaces Group Department of Computer Science University of Manchester  
+Abstract: This paper presents a case study in the generation of a planetary terrain model. Several novel techniques were developed as part of the work. A new view-dependent surface tiling method for representing spherical bodies is first described. Secondly, a simple method which uses image-driven modulation of fractal functions to support the integration of synthetic surface detail with planned topographical features is presented. Finally a deterministic method for the incorporation of randomly placed discrete structures is outlined. A model of the lunar surface is presented as an illustration of these techniques. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

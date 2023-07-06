@@ -1,0 +1,24 @@
+URL: http://seclab.cs.ucdavis.edu/~devanbu/icse12.ps.Z
+Refering-URL: http://seclab.cs.ucdavis.edu/~devanbu/prem_papers.html
+Root-URL: http://www.cs.ucdavis.edu
+Email: prem@research.att.com  
+Title: genoa A Customizable, Language- and Front-End independent Code Analyzer  
+Author: Premkumar T. Devanbu 
+Address: 600 Mountain Ave, Murray Hill, NJ 07974  
+Affiliation: AT&T Bell Laboratories,  
+Date: May 1992.  September 30, 1994  
+Note: In Proceedings of the Fourteenth International Conference on Software Engineering (ICSE '92), pages 307-319, Melbourne, Australia,  
+Abstract: Programmers working on large software systems spend a great deal of time examining code and trying to understand it. Code Analysis tools (e.g., cross referencing tools such as CIA and Cscope) can be very helpful in this process. In this paper we describe genoa, an application generator that can produce a whole range of useful code analysis tools. genoa is designed to be language- and front-end independent; it can be interfaced to any front-end for any language that produces an attributed parse tree, simply by writing an interface specification. While genoa programs can perform arbitrary analyses on the parse tree, the genoa language has special, compact iteration operators that are tuned for expressing simple, polynomial time analysis programs; in fact, there is a useful sublanguage of genoa that can express precisely all (and only) polynomial time (PTIME) analysis programs on parse-trees. Thus, we argue that genoa is a convenient "little language" to implement simple, fast analysis tools. We describe the system, provide several practical examples, and present complexity and expressivity results for the abovementioned sublanguage of genoa. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Ballance, R., Graham, S., and Van De Vanter, M., </author> <title> The Pan Language-Based Editing System For Integrated Development Environments, </title> <booktitle> Proceedings, 4th SIGSOFT Symposium on Software Development Environments, </booktitle> <address> Irvine, CA. </address> <year> 1990. </year>
+Reference: [2] <author> Borras, P., Clement, D., Despeyroux, Th., Incerpi, J., Kahn, G., Lang, B., Pasual, V., </author> <title> CENTAUR: The System, </title> <booktitle> Proceedings of the SIG-SOFT/SIGPLAN Software Engineering Symposium on Practical Software Development Environments, 1988, </booktitle> <address> Boston, Mass. </address>
+Reference: [3] <author> Cameron, R.D., and Ito, M. R., </author> <title> Grammar-Based definition of Metapro-gramming systems, </title> <journal> ACM TOPLAS, </journal> <volume> Vol. 6, No. 1, </volume> <month> January </month> <year> 1984 </year>
+Reference: [4] <author> Chandra, A. K., </author> <title> Theory of Database Querys, </title> <booktitle> Proceedings of the Seventh ACM Symposium on Principles of Databases, </booktitle> <address> Austin, TX. </address> <year> 1988. </year>
+Reference: [5] <author> Chen, Y. F. and Ramamoorthy, C. V., </author> <title> The C Information Abstractor, </title> <booktitle> Proceedings of the Tenth International Computer Software and Applications Conference (COMPSAC), </booktitle> <month> October </month> <year> 1986, </year> <institution> Chicago, IL. </institution>
+Reference: [6] <author> Cleaveland, J. C., and Kintala, C., </author> <title> Tools for building Applications Generators, </title> <journal> AT&T Technical Journal, </journal> <note> July-Aug 1988. </note> <institution> AT&T Bell Labs, North Andover, </institution> <address> Mass. </address>
+Reference: [7] <editor> METATOOL Specification Driven Tool, </editor> <title> System Overview, </title> <institution> AT&T Bell Laboratories, </institution> <month> June </month> <year> 1990. </year> <title> Document Number: </title> <note> 193010-211 (Available from R. </note> <institution> Tatem, AT&T Bell Labs, North Andover, </institution> <address> Mass.) </address>
+Reference: [8] <author> Consens, M., Mendelzon, A., and Ryman, A. </author> <title> Visualizing and querying software structures, </title> <booktitle> Proceedings, ICSE-14 (This conference.) </booktitle>
+Reference: [9] <author> Devanbu, P., Brachman, R., Selfridge, P., and Ballard, B., </author> <note> LaSSIE: </note>
+References-found: 9
+

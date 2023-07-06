@@ -1,0 +1,24 @@
+URL: http://www.cs.brown.edu/courses/cs227/papers/b0/Eq-and-asst.ps
+Refering-URL: http://www.cs.brown.edu/courses/cs227/readinglist.html
+Root-URL: http://www.cs.brown.edu/
+Email: E-mail: grogono@cs.concordia.ca  E-Mail: santas@inf.ethz.ch  
+Phone: Tel: (514) 848-3000  
+Title: Title: Equality in Object Oriented Languages  
+Author: Authors: Peter Grogono Philip Santas 
+Note: Please address all communications to the first author.  
+Address: 1455 deMaisonneuve Blvd., Montreal, Quebec Canada H3G 1M8  Zurich  
+Affiliation: Department of Computer Science, Concordia University  Institute of Scientific Computation, ETH  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> A. Goldberg and D. Robson. </author> <title> Smalltalk-80: The Language and its Implementation. </title> <publisher> Addison-Wesley, </publisher> <year> 1983. </year>
+Reference-contexts: Eiffel also provides a recursive equality test called deep equal , which is carefully defined ([4, page 306]) to provide correct results for cyclic structures. Smalltalk-80 provides several primitives from which programmers can construct appropriate equality predicates <ref> [1] </ref>. Value comparison is built-in: x = y is true if x and y have the same representation. Reference comparison is also built-in: x == y is true if x and y denote the same object.
+Reference: [2] <author> Peter Grogono. </author> <title> Issues in the design of an object oriented programming language. </title> <journal> Structured Programming, </journal> <volume> 12(1) </volume> <pages> 1-15, </pages> <month> January </month> <year> 1991. </year>
+Reference-contexts: Acknowledgements This paper was motivated partly by a discussion in the internet newsgroup comp.object. Some of the ideas presented here were drawn from an earlier paper <ref> [2] </ref>. Discussions with Richard Fateman, Michael Monagan, and Adam Steele were very helpful.
+Reference: [3] <author> B. Liskov and J. Guttag. </author> <title> Abstraction and Specification in Program Development. </title> <publisher> MIT Press, </publisher> <year> 1986. </year>
+Reference-contexts: Although CLU is not an object oriented language, it comes close, especially with its approach to data abstraction <ref> [3] </ref>. The definition of equality for a user-defined type is the programmer's responsibility, but there are certain conventions. One of the conventions is that, if x = y, it must be impossible to distinguish between x and y.
+Reference: [4] <author> B. Meyer. </author> <title> Eiffel: the Language. </title> <publisher> Prentice Hall International, </publisher> <year> 1992. </year>
+Reference-contexts: The function similar is used to determine whether two distinct objects have similar or equal components. Eiffel provides a number of options for object comparison <ref> [4] </ref>. The predicate equal returns true if its arguments: are both void; both point to the same object; are equal values of a simple type; or are objects with identical components. The name equal is statically bound to a method: calls have the form equal (x; y).
+Reference: [5] <author> G.L. Steele Jr. et al. </author> <title> Common LISP: the Language. </title> <note> Digital Press, second edition, </note> <year> 1990. </year>
+Reference-contexts: The same operator can be overloaded in the definition of a member function, allowing users to define their own equality tests. Equality 8 CLOS, which is based on Common LISP, provides several built-in functions to test equality <ref> [5] </ref>. The expression (eq x y) is true iff x and y are the same object. However, CLOS does not guarantee that strings and numbers have unique representations. Consequently, expressions such as (eq "ho" "ho") and (let ((n 19)) (eq n n)) might be true or false.
+References-found: 5
+

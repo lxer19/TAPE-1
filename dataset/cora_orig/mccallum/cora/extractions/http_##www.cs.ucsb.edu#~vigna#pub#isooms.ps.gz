@@ -1,0 +1,15 @@
+URL: http://www.cs.ucsb.edu/~vigna/pub/isooms.ps.gz
+Refering-URL: http://www.cs.ucsb.edu/~vigna/listpub.html
+Root-URL: http://www.cs.ucsb.edu
+Date: 34(10), October 1991.  
+Note: [7] O. Deux. The O 2 System. Communications of the ACM,  [10] O 2 Technology. The O 2 User Manual. O 2 Technology, 1993. Release 4.3.  
+Abstract: 6] Antonio Carzaniga and Giovanni Vigna. The Design and Implementation of SPADE-1 2.0. Technical report, CEFRIEL, June 1994. [8] O 2 Technology, Inria, CEFRIEL, University of Frankfurt, and University of Grenoble. Architecture and functionalities of the GoodStep repository as implemented in the first prototype. Technical report, O 2 Technology, 1993. Esprit Project 6115 (GOODSTEP) deliverable. [9] Gian Pietro Picco and Giovanni Vigna. The SPADE Way to Inter-Client Communication in O 2 . Technical report, CEFRIEL, 1993. Technical Report N.99401. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> S. Bandinelli, M. Braga, A. Fuggetta, and L. </author> <title> Lavazza. </title> <booktitle> The Architecture of the SPADE-1 Process-Centered SEE. In 3rd European Workshop on Software Process Technology, </booktitle> <address> Grenoble (France), </address> <month> February </month> <year> 1994. </year>
+Reference: [2] <author> Sergio Bandinelli, Luciano Baresi, Alfonso Fuggetta, and Luigi Lavazza. </author> <title> Requirements and Early Experiences in the Implementation of the SPADE Repository using Object-Oriented Technology. </title> <booktitle> In Proceedings of the International Symposium on Object Technologies for Advanced Software, </booktitle> <address> Kana-zawa, Japan, </address> <month> November </month> <year> 1993. </year>
+Reference: [3] <author> Sergio Bandinelli, Alfonso Fuggetta, Carlo Ghezzi, and Sergio Grigolli. </author> <title> Process Enactment in SPADE. </title> <booktitle> In Proceedings of the Second European Workshop on Software Process Technology, </booktitle> <address> Trondheim (Norway), </address> <month> September </month> <year> 1992. </year> <note> Springer-Verlag. </note>
+Reference: [4] <author> Paul Butterworth, Allen Otis, and Jacob Stein. </author> <title> The GemStone Object Database Management System. </title> <journal> Communications of the ACM, </journal> <volume> 34(10), </volume> <month> Oc-tober </month> <year> 1991. </year>
+
+References-found: 4
+

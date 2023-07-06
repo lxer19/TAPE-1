@@ -1,0 +1,24 @@
+URL: ftp://ftp.eecs.umich.edu/groups/gasm/transform.ps.gz
+Refering-URL: http://www.eecs.umich.edu/gasm/papers.html
+Root-URL: http://www.eecs.umich.edu
+Email: diehl@cs.uni-sb.de  
+Title: Transformations of Evolving Algebras  
+Author: Stephan Diehl 
+Note: in Proceedings of the VIII Conference on Logic and Computer Science LIRA'97, Novi Sad, Yugoslavia, September 1-4, 1997, pp. 51-57  
+Address: Postfach 15 11 50 66041 Saarbrucken GERMANY  
+Affiliation: FB 14 Informatik Universitat des Saarlandes  
+Abstract-found: 0
+Intro-found: 1
+Reference: [BR92] <author> Egon Borger and Dean Rosenzweig. </author> <title> The WAM Definition and Compiler Correctness. </title> <type> Technical Report TR-14/92, </type> <institution> Universita Degli Studi Di Pisa, Pisa, Italy, </institution> <year> 1992. </year>
+Reference-contexts: If 0 is both correct and complete wrt. , then 0 and are operational equivalent. The proof method is discussed in more detail in <ref> [BR92] </ref>. 2 Transformations Constant Propagation In evolving algebras functions are classified as internal or external. External functions mimic input to the evolving algebra, i.e. how their interpretation changes at each step of the evolving algebra can not be foreseen.
+Reference: [CCM85] <author> G. Cousineau, P.-L. Curien, and M. Mauny. </author> <title> The Categorial Abstract Machine. </title> <booktitle> In Proceedings of FPCA'85. </booktitle> <publisher> Springer, LNCS 201, </publisher> <year> 1985. </year>
+Reference: [Gur91] <author> Yuri Gurevich. </author> <title> Evolving Algebras: a tutorial introduction. </title> <journal> Bulletin of the European Association for Theoretical Computer Science, </journal> <volume> 43 </volume> <pages> 264-284, </pages> <year> 1991. </year>
+Reference-contexts: 1 Introduction Evolving algebras (EvAs) have been proposed by Gurevich in <ref> [Gur91] </ref> and used by Gurevich and others to give the operational semantics of languages like C, Modula-2,Prolog and Occam. Borger and Rosenzweig's proof of the correctness of the Warren Abstract Machine is based on a slight variation of evolving algebras ([BR92]).
+Reference: [Han91] <author> J. Hannan. </author> <title> Staging Transformations for Abstract Machines. In Partial Evaluation and Semantics-Based Program Manipulation. </title> <journal> SigPlan Notices, </journal> <volume> vol. 26(9), </volume> <year> 1991. </year>
+Reference-contexts: The transformations are very sophisticated, but they are neither formally defined, nor is it likely that they can be automated. In <ref> [Han91] </ref> John Hannan defines a pass separation transformation of a very restricted class of term rewriting systems.
+Reference: [JGS93] <author> N.D. Jones, C.K. Gomard, and P. Sestoft. </author> <title> Partial Evaluation and Automatic Program Generation. </title> <address> Englewood Cliffs, NJ: </address> <publisher> Prentice Hall, </publisher> <year> 1993. </year>
+Reference-contexts: In practice we consider some of the external functions not to be known before run-time. Since other dynamic functions can depend on these functions, we have to classify these dynamic functions as run-time functions, too. In the literature on partial evaluation (e.g. <ref> [JGS93] </ref> ) this process is called binding-time analysis. Classification of Functions: Let R be the initial set of run-time functions and =&lt; oe; S; T; I 0 &gt;. Now we classify the functions in S as follows: 1. Let R 0 = R 2.
+Reference: [JS86] <author> U. Jorring and W.L. Scherlis. </author> <title> Compilers and Staging Transformations. </title> <booktitle> In 13th ACM Symposium on Principles of Programming Languages, </booktitle> <year> 1986. </year> <title> This article was processed using the L a T E X macro package with LLNCS style </title>
+Reference-contexts: Implementation All transformations in this paper can be automated, but testing the mutual exclusion of run-time rules is not even decidable. Nevertheless heuristics can be used to decide, whether the conditions are mutually exclusive. Even checking mutual exclusion at run-time is co-NP complete ([Gur91]). 3 Other Work In <ref> [JS86] </ref> the authors use pass separation to generate a compiler and an abstract machine for a functional language from a specification of an abstract interpreter. The transformations are very sophisticated, but they are neither formally defined, nor is it likely that they can be automated.
+References-found: 6
+

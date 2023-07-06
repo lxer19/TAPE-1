@@ -1,0 +1,19 @@
+URL: ftp://ftp.icsi.berkeley.edu/pub/techreports/1991/tr-91-074.ps.gz
+Refering-URL: http://www.icsi.berkeley.edu/techreports/1991.html
+Root-URL: http://www.icsi.berkeley.edu
+Title: Recent Work in VLSI Elements for Digital Implementations of Artificial Neural Networks  
+Phone: 1-510-642-4274 FAX 1-510-643-7684  
+Author: Brian E. D. Kingsbury Bertrand Irissou Krste Asanovic John Wawrzynek Nelson Morgan 
+Date: December 1991  
+Address: I 1947 Center Street Suite 600 Berkeley, California 94704  Berkeley, Berkeley, CA 94720  
+Affiliation: INTERNATIONAL COMPUTER SCIENCE INSTITUTE  Computer Science Division, EECS Department, University of California at  
+Pubnum: TR-91-074  
+Abstract: A family of high-performance, area-efficient VLSI elements is being developed to simplify the design of artificial neural network processors. The libraries are designed around the MOSIS Scalable CMOS design rules, giving users the option of fabricating designs in 2.0 m or 1.2 m n-well processes, and greatly simplifying migration of the libraries to new MOSIS technologies. To date, libraries and generators have been created for saturating and nonsaturating adders, a two's-complement multiplier, and a triple-ported register file. The SPERT processor currently being designed at ICSI will be based upon these libraries, and is expected to run at 50 MHz when realized in a 1.2 m CMOS technology. fl International Computer Science Institute, 1947 Center Street, Berkeley, CA 94704
+Abstract-found: 1
+Intro-found: 1
+Reference: [ABK + 91] <author> Krste Asanovic, James Beck, Brian E. D. Kingsbury, Philip Kohn, Nelson Mor-gan, and John Wawrzynek. SPERT: </author> <title> A 8 VLIW/SIMD Microprocessor for Artificial Neural Network Computations. </title> <type> Technical Report TR-91-072, </type> <institution> International Computer Science Institute, </institution> <year> 1991. </year>
+Reference-contexts: Special-purpose processors designed to take advantage of these features promise significant improvements in cost/performance over both conventional computers and special-purpose machines built from commercially-available processors. For example, simulations predict that a system centered around the SPERT chip <ref> [ABK + 91] </ref>, a VLIW/SIMD processor currently being developed at ICSI, will sustain over 300 fi 10 6 connections per second during pattern classification and about 100 fi 10 6 connection updates per second during backpropagation training.
+Reference: [AS90] <institution> Morteza Afghahi and Christer Svensson. </institution>
+Reference-contexts: Although this method can be used with any style of logic and can be guaranteed race-free, it is not well-suited to the design of large, high-speed CMOS systems. We have therefore adopted an alternative clocking methodology known as "true single-phase clocking" (TSPC) <ref> [AS90, YS89] </ref> which offers the following advantages over two-phase nonoverlapping clocking: * A system which uses TSPC is simpler to design because skew in only one clock signal needs to be controlled. * TSPC is more area-efficient because only one set of clock wires must be routed through the system and
+References-found: 2
+

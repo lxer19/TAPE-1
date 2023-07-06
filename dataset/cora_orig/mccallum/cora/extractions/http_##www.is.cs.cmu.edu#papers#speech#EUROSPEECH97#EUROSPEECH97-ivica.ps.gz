@@ -1,0 +1,13 @@
+URL: http://www.is.cs.cmu.edu/papers/speech/EUROSPEECH97/EUROSPEECH97-ivica.ps.gz
+Refering-URL: http://www.is.cs.cmu.edu/ISL.speech.publications.html
+Root-URL: 
+Email: E-mail: rogina@ira.uka.de  
+Title: AUTOMATIC ARCHITECTURE DESIGN BY LIKELIHOOD-BASED CONTEXT CLUSTERING WITH CROSSVALIDATION  
+Author: Ivica Rogina 
+Address: Am Fasanengarten 5, 76131 Karlsruhe, Germany  
+Affiliation: Interactive Systems Labs University of Karlsruhe,  
+Abstract: Most state-of-the-art speech recognizers benefit from some kind of context information in their acoustic modeling [1][2][3]. The most common approach to context clustering is a divisive method that is iteratively building decision trees [4][5]. The problem, when to stop the growing of the tree is usually solved by choosing the maximum number of resulting models that can be supported by the available training data and/or computer memory and CPU power. In this paper we propose a new algorithm, that not only offers an optimized stopping criterion, but also uses a likelihood-based distance measure that optimizes the likelihood of unseen training-data at every splitting of a decision tree node. We evaluate our algorithm on the Wall Street Journal task, and show that it outperforms an algorithm using an entropy-based distance measure. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

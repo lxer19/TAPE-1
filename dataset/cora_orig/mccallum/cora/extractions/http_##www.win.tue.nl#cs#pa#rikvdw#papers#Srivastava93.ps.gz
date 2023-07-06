@@ -1,0 +1,12 @@
+URL: http://www.win.tue.nl/cs/pa/rikvdw/papers/Srivastava93.ps.gz
+Refering-URL: http://www.win.tue.nl/cs/pa/rikvdw/bibl.html
+Root-URL: http://www.win.tue.nl
+Abstract-found: 0
+Intro-found: 1
+Reference: <author> DeRLev88 John H. DeRosa and Henry M. Levy, </author> <title> An Evaluation of Branch Architectures in Proc. </title> <booktitle> 15th Int. Symposium on Computer Architecture, </booktitle> <editor> May 1988 DitMcL87 David R. Ditzel and Hubert R McLellan, </editor> <title> Design Tradeoffs to Support the C Programming Language in the CRISP Microprocessor, </title> <booktitle> Proceedings Second Int. Conf. on Architectural Support for Programming Languages and Operating Systems (ASP-LOS II), </booktitle> <month> October 5-8, </month> <year> 1987, </year> <institution> Palo Alto, Cal-ifornia. </institution>
+Reference: <author> LeeSmi84 J.K.F. Lee and A.J. Smith, </author> <title> Branch prediction strategies and branch target buffer design, </title> <journal> IEEE Computer Magazine, </journal> <pages> pp. 6-22, </pages> <editor> Jan 1984 McFHen86 S. McFarling and John L. </editor> <title> Hennessy, Reducing the cost of branches, </title> <booktitle> in 13th Int. Symposium on Computer Arch. Conference Proceeings, </booktitle> <month> June </month> <year> 1986. </year>
+Reference: <author> HwuCC89 Wen-mei W. Hwu, Thomas M. Conte, and Pohua P. Chang, </author> <title> Comparing Software and Hardware Schemes For Reducing the Cost of Branches, </title> <booktitle> The 16th Annual Int. Symposium on Computer Architecture, </booktitle> <month> June </month> <year> 1989. </year>
+Reference: <author> HwuCha92 Wen-mei W. Hwu and Pohua P. Chang, </author> <title> Efficient Instruction Sequencing with Inline Target Insertion, </title> <journal> IEEE Transactions on Computers, </journal> <volume> Vol. 41, No. 12, </volume> <month> December </month> <year> 1992, </year> <pages> pages 1537-1551. </pages>
+Reference: <author> HenPat90 John Hennessy and David A. Patterson, </author> <title> Computer Architecture a Quantitative Approach, </title> <publisher> Morgan Kaufmann Publishers, </publisher> <year> 1990. </year>
+References-found: 5
+

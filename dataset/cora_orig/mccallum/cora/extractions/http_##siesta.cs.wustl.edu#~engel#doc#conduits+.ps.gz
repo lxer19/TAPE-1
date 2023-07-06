@@ -1,0 +1,21 @@
+URL: http://siesta.cs.wustl.edu/~engel/doc/conduits+.ps.gz
+Refering-URL: http://siesta.cs.wustl.edu/~engel/resume.html
+Root-URL: 
+Title: A Framework for Network Protocol Software  
+Author: Hermann Huni Ralph Johnson Robert Engel 
+Keyword: Category: Experience Topic: components and frameworks, patterns  
+Address: Bern Switzerland  1304 W. Springfield Ave. Urbana IL 61801  Bern Switzerland  
+Affiliation: GLUE Software Engineering  Dept. of Computer Science University of Illinois  Ascom Tech AG  
+Email: hueni@glue.ch  johnson@cs.uiuc.edu  engel@tech.ascom.ch  
+Phone: phone: 217-244-0093  
+Date: March 2, 1995  
+Abstract: Writing software to control networks is important and difficult. It must be efficient, reliable, and flexible. Conduits+ is a framework for network software that has been used to implement the signalling system of a multi-protocol ATM 1 access switch. An earlier version was used to implement TCP/IP. It reduces the complexity of network software, makes it easier to extend or modify network protocols, and is sufficiently efficient. Conduits+ shows the power of a componentized object-oriented framework and of common object-oriented design patterns.
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> We would like to thank Toni Bieri, Walter Bischofberger, Erich Gamma, Brian Foote, </author> <note> and Philippe Oechslin for their constructive comments on earlier drafts of this paper. References Abbott, </note> <author> M. B. and Peterson, L. L. </author> <year> (1993). </year> <title> A language-based approach to protocol implementation. </title> <journal> IEEE/ACM Transaction on Networking, </journal> <volume> 1(1). </volume>
+Reference: <author> Beck, K. and Johnson, R. </author> <year> (1994). </year> <title> Patterns generate architectures. </title> <booktitle> In European Conference on ObjectOriented Programming, </booktitle> <pages> pages 139-149, </pages> <address> Bologna, Italy. </address> <publisher> Springer-Verlag. </publisher>
+Reference-contexts: However, we describe the problem they solve and the design that results when they are applied. We have found patterns to be a useful way to describe the design of a framework <ref> (Beck and Johnson, 1994) </ref>. The graphic notation that we use to depict our architecture throughout this paper is similar to Booch's object-diagrams (Booch, 1994). This object-scenario notation was invented by GLUE Software Engineer- ing primarily for teaching object-oriented software engineering (Huni and Metz, 1992) using C ++ .
+Reference: <author> Booch, G. </author> <year> (1994). </year> <title> Object Oriented Analysis and Design with Applications. </title> <publisher> Benjanim/Cummings. </publisher>
+Reference-contexts: We have found patterns to be a useful way to describe the design of a framework (Beck and Johnson, 1994). The graphic notation that we use to depict our architecture throughout this paper is similar to Booch's object-diagrams <ref> (Booch, 1994) </ref>. This object-scenario notation was invented by GLUE Software Engineer- ing primarily for teaching object-oriented software engineering (Huni and Metz, 1992) using C ++ . While developing this framework, it was extensively used to communicate and document design-situations and has shown a lot of expressive power.
+References-found: 3
+

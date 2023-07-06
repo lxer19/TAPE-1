@@ -1,0 +1,27 @@
+URL: ftp://ftp.cs.uu.nl/pub/RUU/CS/techreps/CS-1993/1993-43.ps.gz
+Refering-URL: http://www.cs.ruu.nl/docs/research/publication/TechList1.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: Parallel orientation of polygonal parts. Dynamics of a rigid body in frictional contact with rigid
+Author: [] V. K. Prasanna and A. S. Rao. [] V. T. Rajan, R. Burridge, and J. T. Schwartz. [] A. S. Rao. [] A. S. Rao. A. S. Rao and K. Y. Goldberg. A. S. Rao and K. Y. Goldberg. [] A. A. Schaeffer and C. J. Van Wyk. [] R. H. Taylor, M. T. Mason, and K. Y. Goldberg. [] J. C. Trinkle and R. P. Paul. [] J. D. Wolter, R. A. Volz, and A. C. Woo. 
+Address: Engineering-Systems,  
+Affiliation: University of Southern California, Department of Electrical  
+Date: August 1992.  December 1992.  August 1987.  June 1990.  
+Note: IEEE Transactions on Robotics and Automation, 8(5):678-687, October 1992. Preliminary version presented at the Int. Conf. on Parallel Processing,  PhD thesis,  In International Conference on Robotics and Manufacturing, Oxford, England, September 1993. IASTED. A revised version Computing Grasp Functions with K. Y. Goldberg is submitted to Computational Geometry: Theory and Applications. [36]  In International conference on Robotics and Automation (ICRA), Nice, France, May 1992. IEEE. [37]  gripper. International Journal of Robotics Research, 13(1), February 1994. (to appear). [38] F. Reuleaux. The Kinematics of Machinery. Macmilly and Company, 1876. Republished by Dover in  nature. In Fourth International Symposium on Robotics Research,  Journal of Robotics Research,  IEEE Transactions on Systems, Man, and Cybernetics, SMC-15, March/April 1985. [43] I. M. Yaglom and V.G. Boltyanskii. Convex Figures. Holt, Rinehart and Winston, New York, 1951. 35  
+Abstract: 35] A. S. Rao and K. Y. Goldberg. Grasping planar curved parts with a parallel-jaw gripper. Technical Report # 299, University of Southern California, Institute of Robotics and Intelligent Systems (IRIS), Los Angeles, Calif. 90089-0273, September 1991. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> R. V. Benson. </author> <title> Euclidian Geometry and Convexity. </title> <publisher> McGraw-Hill Book Company, </publisher> <year> 1966. </year>
+Reference: [2] <author> R. C. Brost. </author> <title> Automatic grasp planning in the presence of uncertainty. </title> <journal> The International Journal of Robotics Research, </journal> <volume> 8(1), </volume> <month> February </month> <year> 1988. </year>
+Reference: [3] <author> R. C. Brost and M. T. Mason. </author> <title> Graphical analysis of planar rigid-body dynamics with multiple frictional contacts. </title> <booktitle> In 5th International Symposium on Robotics Research, </booktitle> <year> 1989. </year>
+Reference: [4] <author> V. Chandru and R. Venkataraman. </author> <title> Circular hulls and Orbiforms of simple polygons. </title> <booktitle> In Symposium on Discrete Algorithms (SODA). </booktitle> <address> SIAM-ACM, </address> <year> 1991. </year>
+Reference: [5] <author> B. Chazelle. </author> <title> Triangulating a simple polygon in linear time. </title> <journal> Discrete and Computational Geometry, </journal> <volume> 6 </volume> <pages> 485-524, </pages> <year> 1991. </year>
+Reference: [6] <author> Y-B. Chen and D. J. Ierardi. </author> <title> Oblivious plans for orienting and distinguishing polygonal parts. </title> <booktitle> In The 4th Canadian Conference on Computational Geometry, </booktitle> <year> 1992. </year>
+Reference: [7] <author> D. P. Dobkin and D. L. Souvaine. </author> <title> Computational geometry in a curved world. </title> <journal> Algorithmica, </journal> <pages> pages 421-457, </pages> <year> 1990. </year>
+Reference: [8] <author> H. Edelsbrunner. </author> <title> Algorithms in Combinatorial Geometry. </title> <booktitle> EATCS Monographs on Theoretical Computer Science. </booktitle> <publisher> Springer-Verlag, </publisher> <address> Berlin, </address> <year> 1987. </year>
+Reference: [9] <author> D. Eppstein. </author> <title> Reset sequences for monotonic automata. </title> <journal> SIAM Journal of Computing, </journal> <volume> 19(3), </volume> <year> 1990. </year>
+Reference: [10] <author> M. A. Erdmann. </author> <title> On motion planning with uncertainty. </title> <type> Master's thesis, </type> <institution> MIT, </institution> <month> August </month> <year> 1984. </year>
+Reference: [11] <author> M. A. Erdmann, M. T. Mason, and G. Vanecek Jr. </author> <title> Mechanical parts orienting: The case of a polyhedron on a table. </title> <booktitle> In International Conference on Robotics and Automation. IEEE, </booktitle> <month> April </month> <year> 1991. </year>
+Reference: [12] <author> R. S. Fearing. </author> <title> Simplified grasping and manipulation with dextrous robot hands. </title> <journal> IEEE Journal of Robotics and Automation, </journal> <volume> RA-2(4), </volume> <month> December </month> <year> 1986. </year>
+
+References-found: 12
+

@@ -1,0 +1,21 @@
+URL: http://www.aic.nrl.navy.mil/~spears/papers/ppsn90.ps.gz
+Refering-URL: http://www.cs.gmu.edu:80/research/gag/pubs.html
+Root-URL: 
+Email: kdejong@aic.gmu.edu spears@aic.nrl.navy.mil  
+Title: An Analysis of the Interacting Roles of Population Size and Crossover in Genetic Algorithms  
+Author: Kenneth A. De Jong William M. Spears 
+Address: Code 5510  Fairfax, VA 22030, USA Washington, D.C., USA  
+Affiliation: Computer Science Dept. AI Center  George Mason University Naval Research Laboratory  
+Abstract: In this paper we present some theoretical and empirical results on the interacting roles of population size and crossover in genetic algorithms. We summarize recent theoretical results on the disruptive effect of two forms of multi-point crossover: n-point crossover and uniform crossover. We then show empirically that disruption analysis alone is not sufficient for selecting appropriate forms of crossover. However, by taking into account the interacting effects of population size and crossover, a general picture begins to emerge. The implications of these results on implementation issues and performance are discussed, and several directions for further research are suggested. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <editor> Booker, Lashon B. </editor> <year> (1987). </year> <title> Improving Search in Genetic Algorithms, Genetic Algorithms and Simulated Annealing, </title> <publisher> Morgan Kaufmann Publishing. </publisher>
+Reference: <author> De Jong, Kenneth A. </author> <year> (1975). </year> <title> An Analysis of the Behavior of a Class of Genetic Adaptive Systems, </title> <type> Doctoral Thesis, </type> <institution> Department of Computer and Communication Sciences, University of Michigan, </institution> <address> Ann Arbor. </address>
+Reference: <author> Eschelman, L., Caruana, R. & Schaffer, D. </author> <year> (1989). </year> <title> Biases in the Crossover Landscape, </title> <booktitle> Proc. 3rd Int'l Conference on Genetic Algorithms, </booktitle> <publisher> Morgan Kaufman Publishing. </publisher>
+Reference: <author> Goldberg, David E. </author> <year> (1989). </year> <title> Sizing Populations for Serial and Parallel Genetic Algorithms, </title> <booktitle> Proc. 3rd Int'l Conference on Genetic Algorithms, </booktitle> <publisher> Morgan Kaufman Publishing. </publisher>
+Reference: <author> Holland, John H. </author> <year> (1975). </year> <title> Adaptation in Natural and Artificial Systems, </title> <publisher> The University of Michigan Press. </publisher>
+Reference: <author> Spears, William M. </author> <year> (1990). </year> <title> Using Neural Networks and Genetic Algorithms as Heuristics for NP-Complete Problems, </title> <type> Masters Thesis, </type> <institution> Department of Computer Science, George Mason University, Fairfax, Virginia, </institution> <year> 1990. </year>
+Reference: <author> Spears, W. & De Jong, K. A. </author> <year> (1990). </year> <title> An Analysis of Multi-point Crossover, </title> <booktitle> Proceedings of the Foundations of Genetic Algorithms Workshop, </booktitle> <address> Bloomington, Indiana, </address> <year> 1990. </year>
+Reference: <author> Syswerda, Gilbert. </author> <year> (1989). </year> <title> Uniform Crossover in Genetic Algorithms, </title> <booktitle> Proc. 3rd Int'l Conference on Genetic Algorithms, </booktitle> <publisher> Morgan Kaufman Publishing. </publisher>
+References-found: 8
+

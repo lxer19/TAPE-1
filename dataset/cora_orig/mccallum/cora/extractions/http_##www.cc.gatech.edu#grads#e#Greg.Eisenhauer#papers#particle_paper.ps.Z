@@ -1,0 +1,18 @@
+URL: http://www.cc.gatech.edu/grads/e/Greg.Eisenhauer/papers/particle_paper.ps.Z
+Refering-URL: http://www.cs.gatech.edu/fac/Karsten.Schwan/
+Root-URL: 
+Title: MD A Flexible Framework for High-Speed Parallel Molecular Dynamics  
+Author: Greg Eisenhauer and Karsten Schwan 
+Date: April 1994  
+Note: From the Proceedings of High Performance Computing '94 Proceedings of the 1994 SCS Simulation Multiconference,  
+Address: Atlanta, Georgia 30332  
+Affiliation: College of Computing Georgia Institute of Technology  
+Abstract: This paper introduces MD, a complete high- performance parallel molecular dynamics simulation system. MD efficiently manages the control and data flow required for the basic molecular dynamics calculations as well as for global statistics and scientific visualization. We briefly examine the structure of MD, present an analysis of its performance for several physical systems, and examine ways in which it can extended. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Mukherjee, B. </author> <year> 1991. </year> <title> A portable and reconfigurable threads package. </title> <booktitle> In Proceedings of Sun User Group Technical Conference, </booktitle> <pages> pp. 101-112. </pages>
+Reference-contexts: However, additional execution threads may be created within each domain in order to overlap inter-domain communications with computations internal to each domain. Toward this end, MD offers access to the functionality of the underlying Cthreads package <ref> (Mukherjee 1991) </ref>. In this case, programmers would use the cthread fork facility in Cthreads, which creates and schedules a new thread for execution on a designated processor.
+Reference: <author> Xia, T. K., J. Ouyang, M. W. Ribarsky, and U. </author> <month> Land-man </month> <year> 1992. </year> <journal> Interfacial alkane films. Physical Review Letters 69 (13), </journal> <pages> 1967-1970. </pages>
+Reference-contexts: However, the problem of computing and updating the interaction list is still of O (n 2 ) complexity, and the interaction list's memory requirements can be quite large fl . For a sample application to exercise MD we choose a physical simulation used by physicists at Georgia Tech <ref> (Xia et al. 1992) </ref>. The simulation is designed to investigate evolutionary trends of the structure and dynamics of n-hexadecane (C 16 -H 34 ) films on a crystalline substrate modeling Au (001).
+References-found: 2
+

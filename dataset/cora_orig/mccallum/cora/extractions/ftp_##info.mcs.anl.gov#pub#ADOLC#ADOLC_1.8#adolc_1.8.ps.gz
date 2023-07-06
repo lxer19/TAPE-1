@@ -1,0 +1,13 @@
+URL: ftp://info.mcs.anl.gov/pub/ADOLC/ADOLC_1.8/adolc_1.8.ps.gz
+Refering-URL: http://www.mcs.anl.gov/Projects/autodiff/AD_Tools/adolc.anl/adolc.html
+Root-URL: http://www.mcs.anl.gov
+Title: ADOL-C: A Package for the Automatic Differentiation of Algorithms Written in C/C++  
+Author: Andreas Griewank David Juedes Hristo Mitev Jean Utke Olaf Vogel and Andrea Walther 
+Keyword: Computational Differentiation, Automatic Differentiation, Chain Rule, Over loading, Taylor Coefficients, Gradients, Hessians, Forward Mode, Reverse Mode, Implicit Function Differentiation, Inverse Function Differentiation Abbreviated title: Automatic differentiation  
+Date: 1.8, December 1998  
+Note: Version  by overloading in C++  
+Abstract: The C++ package ADOL-C described here facilitates the evaluation of first and higher derivatives of vector functions that are defined by computer programs written in C or C++. The resulting derivative evaluation routines may be called from C/C++, Fortran, or any other language that can be linked with C. The numerical values of derivative vectors are obtained free of truncation errors at a small multiple of the run time and randomly accessed memory of the given function evaluation program. Derivative matrices are obtained by columns or rows. For solution curves defined by ordinary differential equations, special routines are provided that evaluate the Taylor coefficient vectors and their Jacobians with respect to the current state vector. For explicitly or implicitly defined functions derivative tensors are obtained with a complexity that grows only quadratically in their degree. The derivative calculations involve a possibly substantial but always predictable amount of data that are accessed strictly sequentially and are therefore automatically paged out to external files. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

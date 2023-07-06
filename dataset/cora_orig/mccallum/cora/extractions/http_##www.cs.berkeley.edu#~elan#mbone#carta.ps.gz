@@ -1,0 +1,23 @@
+URL: http://www.cs.berkeley.edu/~elan/mbone/carta.ps.gz
+Refering-URL: http://www.cs.berkeley.edu/~elan/mbone/map.html
+Root-URL: 
+Email: elan@CS.Berkeley.EDU  
+Title: Carta: A Network Topology Presentation Tool  
+Author: Elan Amir 
+Date: May 26, 1993  
+Address: Berkeley, CA 94720  
+Affiliation: Computer Science Division University of California  
+Pubnum: CS268 Term Project  
+Abstract: In this report I describe carta, a tool for viewing and presenting high quality network network topology maps. Carta allows the user complete control over the map layout, a process called embedding, while providing a powerful algorithm that is a good ad hoc solution to the sparse graph instance of the very hard general problem of graph embedding. I describe the embedding algorithm, the approaches toward map complexity management, and the user interface. Included also are examples that illustrate the tool at work and the ease with which maps can be created. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> M. R. Garey and D. S. Johnson, </author> <title> "Crossing number is NP-Complete," </title> <booktitle> SIAM J. Algebraic and Discrete Methods 4 (1983), </booktitle> <pages> 312-316 </pages>
+Reference-contexts: The following sections detail the implementa tion of these guidelines in carta. 1 2 The Embedding Algo- rithm The problem of embedding a network is essentially a problem of graph embedding. In general, an optimal embedding, usually defined as minimizing edge crossings, is NP-complete <ref> [1] </ref>, but for sparse graphs, which is the case in network topologies, there are heuristic algorithms which perform reasonably well. Carta uses a modification of a particularly interesting algorithm [2]. The algorithm implements a force directed placement model, which works remarkably well on sparse graphs.
+Reference: [2] <author> T. Fruchtermann and E. Rheingold, </author> <title> "Graph Drawing by Force-Directed Placement," </title> <type> Report No. </type> <institution> UIUCDCS-R-90-1609, Department of Computer Science, University of Illinois at Urbana-Champagne, </institution> <month> June </month> <year> 1990 </year>
+Reference-contexts: In general, an optimal embedding, usually defined as minimizing edge crossings, is NP-complete [1], but for sparse graphs, which is the case in network topologies, there are heuristic algorithms which perform reasonably well. Carta uses a modification of a particularly interesting algorithm <ref> [2] </ref>. The algorithm implements a force directed placement model, which works remarkably well on sparse graphs. Edges are modeled as springs which cause adjacent nodes, i.e., those sharing an edge, to exert attractive forces on each other.
+Reference: [3] <author> B. Stroustrup, </author> <title> "The C++ Programming Language," </title> <publisher> Addison-Wesley Publishing Company, </publisher> <year> 1987 </year> <month> 7 </month>
+Reference-contexts: is a map from the University of Washington which contains 84 nodes and 151 edges whereas Figure 3 is a map of the San Francisco Bay Area Regional Network (BARR-NET) which contains 388 nodes and 944 edges. 4 The User Interface Carta is implemented in approximately 6500 lines of C++ <ref> [3] </ref> using the InterViews [4] object oriented graphical package. Figure 4 shows the user interface. The interface contains two main sections: the editor and the control panel. All visual presentation work is done in the "editor". The editor's viewing area is adjustable, both by panning and zooming.
+Reference: [4] <author> M. A. Linton, P. R. Calder, J. A. Interrante, S. Tang, and J. M. Vlissides, </author> <note> "InterViews Reference Manual Version 3.1," </note> <institution> Leland Stanford Junior University, </institution> <year> 1992. </year> <month> 8 </month>
+Reference-contexts: the University of Washington which contains 84 nodes and 151 edges whereas Figure 3 is a map of the San Francisco Bay Area Regional Network (BARR-NET) which contains 388 nodes and 944 edges. 4 The User Interface Carta is implemented in approximately 6500 lines of C++ [3] using the InterViews <ref> [4] </ref> object oriented graphical package. Figure 4 shows the user interface. The interface contains two main sections: the editor and the control panel. All visual presentation work is done in the "editor". The editor's viewing area is adjustable, both by panning and zooming.
+References-found: 4
+

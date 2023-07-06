@@ -1,0 +1,16 @@
+URL: ftp://hpsl.cs.umd.edu/pub/papers/hilbert-tr.ps.Z
+Refering-URL: http://www.cs.umd.edu/projects/hpsl/papers.brandnew/LocalResources/tech-10-23.htm
+Root-URL: 
+Title: Analysis of the Clustering Properties of Hilbert Space-filling Curve  
+Author: Bongki Moon yfl H.V. Jagadish Christos Faloutsos Joel H. Saltz yfl 
+Keyword: Index Terms: locality-preserving linear mapping, range queries, multi-attribute access methods, data clustering, Hilbert curve, space-filling curves, fractals.  
+Address: Murray Hill, NJ  jag@research.att.com College Park, MD 20742  
+Affiliation: Institute for Advanced Computer Studies and AT&T Bell Laboratories Department of Computer Science  University of Maryland  
+Note: Submitted to IEEE Transactions on Knowledge and Data Engineering, March 1996. If accepted, copyright will transfer to IEEE. CS-TR-3611 and UMIACS-TR-96-20. Available at  
+Email: fbkmoon,christos,saltzg@cs.umd.edu  
+Web: URL http://www.cs.umd.edu/TR/UMCP-CSD:CS-TR-3611  
+Abstract: Several schemes for linear mapping of multidimensional space have been proposed for many applications such as access methods for spatio-temporal databases, image compression and so on. In all these applications, one of the most desired properties from such linear mappings is clustering, which means the locality between objects in the multidimensional space is preserved in the linear space. It is widely believed that Hilbert space-filling curve achieves the best clustering [1, 12]. In this paper we provide closed-form formulas of the number of clusters required by a given query region of an arbitrary shape (e.g., polygons and polyhedra) for Hilbert space-filling curve. Both the asymptotic solution for a general case and the exact solution for a special case generalize the previous work [12], and they agree with the empirical results that the number of clusters depends on the hyper-surface area of the query region and not on its hyper-volume. We have also shown that Hilbert curve achieves better clustering than z-curve [20]. From the practical point of view, the formulas given in this paper provide a simple measure which can be used to predict the required disk access behaviors and hence the total access time. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

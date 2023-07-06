@@ -1,0 +1,22 @@
+URL: http://www.cs.man.ac.uk/~banach/some.pubs/Fib.Sem.ETGRS.FULL.ps.gz
+Refering-URL: http://www.cs.man.ac.uk/~banach/Recent.publications.html
+Root-URL: http://www.cs.man.ac.uk
+Title: DACTL REWRITING IS CATEGORICAL  
+Author: R. Banach 
+Address: Manchester, M13 9PL, U.K.  
+Affiliation: Computer Science Department, Manchester University,  
+Abstract: The graph-manipulating core of the general term graph rewriting language DACTL, namely contraction building and redirection, is reexamined from a categorical viewpoint. The essentials of this rather complex two-phase operational semantics is recast as a Grothendieck opfibration of a category of graph rewrites over a base of rewrite rules. This generalises previous attempts to categorise contractum building and redirection as pushouts and is able to describe more DACTL rewrites than pushout models. The full operational core model conforms to a more restricted version of this construction and is able to successfully cope with examples such as the infamous circular I example a : I[ a ]. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Banach R. </author> <year> (1991), </year> <title> Term Graph Rewriting and Garbage Collection la Grothendieck. </title> <note> Submitted to TCS. </note>
+Reference: <author> Barendregt H.P., van Eekelen M.C.J.D., Glauert J.R.W., Kennaway J.R., Plasmeijer M.J., Sleep M.R. </author> <year> (1987), </year> <title> Term Graph Rewriting, </title> <booktitle> in Proc. </booktitle> <editor> PARLE-87, de Bakker J.W., Nijman A.J., Treleaven P.C. eds., Springer, </editor> <booktitle> Lecture Notes in Computer Science 259 141-158. </booktitle>
+Reference: <author> Barr M., Wells C. </author> <year> (1990), </year> <title> Category Theory for Computing Science. </title> <publisher> Prentice-Hall. </publisher>
+Reference: <author> Glauert J.R.W., Kennaway J.R., Sleep M.R. </author> <year> (1988a), </year> <title> Final Specification of DACTL. </title> <type> Report SYS-C88-11, </type> <institution> School of Information Systems, University of East Anglia, Norwich, U.K. </institution>
+Reference: <author> Glauert J.R.W., Hammond K., Kennaway J.R., Papadopoulos G.A., Sleep M.R. </author> <year> (1988b), </year> <title> DACTL: Some Introductory Papers. </title> <type> Report SYS-C88-08, </type> <institution> School of Information Systems, University of East An-glia, Norwich, U.K. </institution>
+Reference: <author> Glauert J.R.W., Kennaway J.R., Sleep M.R. </author> <year> (1991), </year> <title> DACTL: An Experimental Graph Rewriting Language., in Graph Grammars and their Application to Computer Science, </title> <editor> Ehrig H., Kreowski H. Ro-zenberg G. eds., </editor> <booktitle> Lecture Notes in Computer Science 532 378 - 395 Habel A., </booktitle> <editor> Kreowski H., Plump D. </editor> <year> (1988), </year> <title> Jungle Evaluation, </title> <booktitle> in Proc. Fifth Workshop on Specification of Abstract Data Types, </booktitle> <editor> Sannella D., T arlecki A. eds., Springer, </editor> <booktitle> Lecture Notes in Computer Science 332. </booktitle>
+Reference: <author> Hoffmann B., Plump D. </author> <year> (1988), </year> <title> Jungle Evalulation for Efficient Term Rewriting, </title> <booktitle> in Proc. International Workshop on Algebraic and Logic Programming, Mathematical Research 49, </booktitle> <publisher> Akademie-Verlag, </publisher> <address> Berlin. </address>
+Reference: <author> Kennaway J.R. </author> <year> (1987), </year> <title> On On Graph Rewritings. </title> <journal> Theor. Comput. Sci. </journal> <pages> 52 37-58. </pages>
+Reference: <author> Kennaway J.R. </author> <year> (1990), </year> <title> Implementing Term Rewrite Languages in DACTL. </title> <journal> Theor. Comput. Sci. </journal> <pages> 72 225-250. </pages>
+Reference: <author> Kennaway J.R. </author> <year> (1991), </year> <title> Graph Rewriting in Some Categories of Partial Morphisms, in Graph Grammars and their Application to Computer Science, </title> <editor> Ehrig H., Kreowski H. Rozenberg G. eds., </editor> <booktitle> Lecture Notes in Computer Science 532 490 - 504 </booktitle>
+References-found: 10
+

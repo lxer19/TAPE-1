@@ -1,0 +1,34 @@
+URL: ftp://ftp.cnl.salk.edu/pub/magnus/inc95.ps.Z
+Refering-URL: http://www.cnl.salk.edu/cgi-bin/pub-search/
+Root-URL: 
+Email: fmagnus,terryg@salk.edu  
+Title: Using Temporal-Difference Reinforcement Learning to Improve Decision-Theoretic Utilities for Diagnosis  
+Author: Magnus Stensmo Terrence J. Sejnowski 
+Date: June 15, 1995.  
+Address: Technology,  10010 North Torrey Pines Road La Jolla, CA 92037, U.S.A.  
+Affiliation: Computation, University of California, San Diego and California Institute of  Institute for Neural Computation, University of California, San Diego, U.S.A.  Computational Neurobiology Laboratory The Salk Institute for Biological Studies  
+Note: In: Proc. 2nd Joint Symposium on Neural  
+Abstract: Probability theory represents and manipulates uncertainties, but cannot tell us how to behave. For that we need utility theory which assigns values to the usefulness of different states, and decision theory which concerns optimal rational decisions. There are many methods for probability modeling, but few for learning utility and decision models. We use reinforcement learning to find the optimal sequence of questions in a diagnosis situation while maintaining a high accuracy. Automated diagnosis on a heart-disease domain is used to demonstrate that temporal-difference learning can improve diagnosis. On the Cleveland heart-disease database our results are better than those reported from all previous methods. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Dayan, P. </author> <year> (1992). </year> <title> The convergence of TD() for general . Machine Learning, </title> <booktitle> 8, </booktitle> <pages> 341-362. </pages>
+Reference: <author> Dempster, A. P., Laird, N. M. & Rubin, D. B. </author> <year> (1977). </year> <title> Maximum likelihood from incomplete data via the EM algorithm. </title> <journal> Journal of the Royal Statistical Society, Series, B., </journal> <volume> 39, </volume> <pages> 1-38. </pages>
+Reference: <author> Feigenbaum, E. A. & Feldman, J., </author> <title> editors (1963). Computers and thought: a collection of articles. </title> <publisher> McGraw-Hill, </publisher> <address> New York, NY. </address>
+Reference: <author> Ghahramani, Z. & Jordan, M. I. </author> <year> (1994). </year> <title> Supervised learning from incomplete data via an EM approach. </title> <booktitle> In Advances in Neural Information Processing Systems, </booktitle> <volume> vol. 6, </volume> <pages> pp 120-127. </pages> <publisher> Morgan Kaufmann, </publisher> <address> San Mateo, CA. </address>
+Reference: <author> Gorry, G. A. & Barnett, G. O. </author> <year> (1967). </year> <title> Experience with a model of sequential diagnosis. </title> <journal> Computers and Biomedical Research, </journal> <volume> 1, </volume> <pages> 490-507. </pages>
+Reference: <author> Grimmett, G. R. & Stirzaker, D. R. </author> <year> (1992). </year> <title> Probability and Random Processes. </title> <publisher> Oxford Science Publications, Oxford, </publisher> <address> UK, </address> <note> second edition. </note>
+Reference: <author> Heckerman, D. E., Horvitz, E. J. & Nathwani, B. N. </author> <year> (1992). </year> <title> Toward normative expert systems: Part I. The Pathfinder project. </title> <booktitle> Methods of Information in Medicine, </booktitle> <volume> 31, </volume> <pages> 90-105. </pages>
+Reference: <author> Howard, R. </author> <year> (1980). </year> <title> On making life and death decisions. </title> <editor> In Schwing, R. C. & Albers, Jr., W. A., editors, </editor> <title> Societal risk assessment: How safe is safe enough? Plenum Press, </title> <address> New York. </address>
+Reference: <author> Ledley, R. S. & Lusted, L. B. </author> <year> (1959). </year> <title> Reasoning foundations of medical diagnosis. </title> <journal> Science, </journal> <volume> 130(3366), </volume> <pages> 9-21. </pages>
+Reference: <author> McLachlan, G. J. & Basford, K. E. </author> <year> (1988). </year> <title> Mixture Models: Inference and Applications to Clustering. </title> <publisher> Marcel Dekker, Inc., </publisher> <address> New York, NY. </address>
+Reference: <author> Russell, S. J. & Norvig, P. </author> <year> (1995). </year> <title> Artificial Intelligence: A Modern Approach. </title> <publisher> Prentice Hall, </publisher> <address> Englewood Cliffs, New Jersey. </address>
+Reference: <author> Samuel, A. L. </author> <year> (1959). </year> <title> Some studies in machine learning using the game of checkers. </title> <journal> IBM Journal on Research and Development, </journal> <volume> 3, </volume> <pages> 210-229. </pages> <note> Reprinted in [Feigenbaum & Feld-man, </note> <year> 1963]. </year>
+Reference: <author> Stensmo, M. & Sejnowski, T. J. </author> <year> (1994). </year> <title> A mixture model diagnosis system. </title> <type> Tech. Rep. </type> <institution> INC-9401, Institute for Neural Computation, University of California, </institution> <address> San Diego. URL: ftp://salk.edu/pub/magnus/INC-9401.ps.Z </address> . 
+Reference: <author> Stensmo, M. & Sejnowski, T. J. </author> <year> (1995). </year> <title> A mixture model system for medical and machine diagnosis. </title> <booktitle> In Advances in Neural Information Processing Systems, </booktitle> <volume> vol. 7. </volume> <publisher> MIT Press, </publisher> <address> Cambridge, MA. URL: ftp://salk.edu/pub/magnus/nips94.ps.Z. </address>
+Reference: <author> Sutton, R. S. </author> <year> (1988). </year> <title> Learning to predict by the method of temporal differences. </title> <journal> Machine Learning, </journal> <volume> 3, </volume> <pages> 9-44. </pages>
+Reference: <author> Sutton, R. S. & Singh, S. P. </author> <year> (1994). </year> <title> On step-size and bias in temporal-difference learning. </title> <booktitle> In Eight Yale Workshop on Adaptive and Learning Systems, </booktitle> <pages> pp 91-96. </pages> <institution> Center for Systems Science, Yale University. </institution>
+Reference: <author> Tesauro, G. </author> <year> (1992). </year> <title> Practical issues in temporal difference learning. </title> <journal> Machine Learning, </journal> <volume> 8, </volume> <pages> 257-277. </pages>
+Reference: <author> Tesauro, G. </author> <year> (1993). </year> <title> TD-Gammon, a self-teaching backgammon program, achieves master-level play. </title> <journal> Neural Computation, </journal> <volume> 6, </volume> <pages> 215-219. </pages> <editor> von Neuman, J. & Morgenstern, O. </editor> <year> (1947). </year> <title> Theory of Games and Economic Behavior. </title> <publisher> Princeton University Press, </publisher> <address> Princeton, NJ. </address>
+Reference: <author> Watkins, C. J. C. H. </author> <year> (1989). </year> <title> Learning from Delayed Rewards. </title> <type> PhD thesis, </type> <institution> King's College, </institution> <address> Cambridge, England. </address>
+References-found: 19
+

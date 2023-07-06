@@ -1,0 +1,23 @@
+URL: http://www.cs.umn.edu/Users/mirrors00/ftp.funet.fi/pub/languages/perl/CPAN/doc/misc/ancient/Data_in_perl.ps
+Refering-URL: http://www.cs.umn.edu/Users/mirrors00/ftp.funet.fi/pub/languages/perl/CPAN/doc/misc/ancient/
+Root-URL: http://www.cs.umn.edu
+Title: Data manipulation in perl  
+Author: Douglas M. Bates 
+Keyword: sed; awk; shell scripts; database query; Current Index  
+Note: a Unix is a registered trademark of Unix System Laboratories  
+Address: Wisconsin Madison  
+Affiliation: Department of Statistics University of  
+Abstract: We are fortunate to have many different tools statistical packages, spreadsheets, or database systems for analysis and presentation of data. But often the first step in an analysis is manipulating or massaging the original data into a form that can be read by the package. Experienced Unix a users may use sed, awk, or shell scripts for this. Recently a more powerful language, perl, has been made freely available. It provides a superset of the capabilities of sed, awk, and sh as a scripting language. We describe its use for simple data manipulation and for querying a membership directory. Finally we outline a more complicated query program in perl for the Current Index to Statistics. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Aho, Alfred V., Brian W. Kernighan, and Peter J. </author> <title> Weinberger (1988). The AWK Programming Language. </title> <publisher> Addison-Wesley. </publisher>
+Reference-contexts: It then becomes worthwhile to create a special purpose program or script to perform the manipulation. On Unix systems this will often be done with shell scripts that use the stream editor, sed, or the awk programming language <ref> (Aho et al., 1988) </ref>. Recently Larry Wall of Jet Propulsion Laboratories created a language called perl the Practical Extraction and Report Language. This powerful language for creating scripts provides the facilities of sed, awk, and the standard shells.
+Reference: <author> Becker, Richard A., John M. Chambers, and Allan R. </author> <title> Wilks (1988). The New S Language. </title> <publisher> Wadsworth, </publisher> <address> Pacific Grove, Califor-nia. </address>
+Reference-contexts: Only in those cases will the other operand of || be evaluated and that causes the program to halt with an error message. (The behaviour is similar to the stop () function in S <ref> (Becker et al., 1988) </ref>.) It is common to read this as change directory or die!. This script can be used in two ways; the desired name or names can be listed on the command line or the script will go into a prompting loop.
+Reference: <author> Chambers, John M. and Trevor J. Hastie, eds. </author> <title> Statistical Models in S. </title> <publisher> Wadsworth, </publisher> <address> Pacific Grove, California. </address>
+Reference: <author> Kernighan, Brian W. and Dennis M. </author> <month> Richie </month> <year> (1988). </year> <title> The C Programming Language (Second edition). </title> <publisher> Addison-Wesley. </publisher>
+Reference-contexts: Using this subroutine, the script becomes #!/usr/bin/perl -i.bak require 'getopts.pl'; &Getopts ('i:o:c:'); $in = $opt_i ? $opt_i : ' '; while (&lt;&gt;) - if ($opt_c && /$opt_c/) -print; next;- chop; print join ($out, split (/$in/)),""n"; - As in the C programming language <ref> (Kernighan and Richie, 1988) </ref>, the line $in = $opt_i ? $opt_i : ' '; is equivalent to if ($opt_i) -$in = $opt_i;- else -$in = ' ';- In checking for the comment pattern we first check to see if $opt_c is defined.
+Reference: <author> Wall, Larry and Randall L. </author> <title> Schwartz (1990). Programming perl. </title> <publisher> O'Reilly & Associates, </publisher> <address> Sebastopol, California. </address>
+Reference-contexts: The source file contains the source for an extensive manual entry (about 90 pages long) that describes the syntax and use of the language. A fl This research supported by the National Science Foundation under research grant DMS-9005904. more complete reference is the book Programming perl <ref> (Wall and Schwartz, 1990) </ref>. The simplest uses of perl involve reading one or more text files a line at a time, changing the line in some fashion, and sending the result to an output file.
+References-found: 5
+

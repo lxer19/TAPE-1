@@ -1,0 +1,15 @@
+URL: http://http.icsi.berkeley.edu/ftp/global/pub/ai/lzero/bailey_inference_imagery.ps.Z
+Refering-URL: http://http.icsi.berkeley.edu/ftp/global/pub/ai/lzero/
+Root-URL: http://http.icsi.berkeley.edu
+Title: Inference through Imagery: understanding simple sentence sequences in L 0  MAKING UP INCOMPLETE  
+Author: David Bailey 
+Note: FROM  
+Date: December 18, 1992  FALL 1991  
+Pubnum: CS 288 Project  
+Abstract: Until recently, the L 0 project has focused upon training connectionist nets to recognize, i.e. categorize, spatial relationships among pseudo-visual representations of geometric objects. This project is an initial effort in the reverse direction|that is, given the objects and prepositions describing their relationships, to conjure up a sort of "mental image" of a prototypical scene satisfying the relationships. This system works for multiple relationships, and thus serves as the beginnings of a system which can "understand" simple sequences of linguistic spatial relations, drawing inferences, creating defaults, etc. In this sense we have a simple "story understander." 
+Abstract-found: 1
+Intro-found: 1
+Reference: [Feldman 90] <author> Feldman, J., Lakoff, G., Stolcke A. and Weber, S. </author> <title> "Miniature Language Acquisition:: </title>
+Reference-contexts: 1 Introduction The stated goal of the L 0 project at ICSI is to build a learning system which can be trained, for any language, to accept or reject sentence-picture pairs on the basis of whether they agree <ref> [Feldman 90] </ref>. Towards this end, Terry Regier has build a system which is capable of categorizing idealized visual scenes consisting of geometric objects in terms of which spatial terms of the language (mostly prepositions) apply to the scene, given a labelling of the trajector and landmark of interest [Regier 92].
+References-found: 1
+

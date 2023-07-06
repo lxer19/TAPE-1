@@ -1,0 +1,24 @@
+URL: ftp://info.mcs.anl.gov/pub/tech_reports/reports/P579.ps.Z
+Refering-URL: http://www.mcs.anl.gov/publications/abstracts/abstracts96.htm
+Root-URL: http://www.mcs.anl.gov
+Email: tom@eecs.uic.edu  ffoster, papka, stevensg@mcs.anl.gov  kuhfuss@anl.gov  
+Title: Overview of the I-WAY: Wide Area Visual Supercomputing  
+Author: Thomas A. DeFanti Ian Foster, Michael E. Papka, and Rick Stevens Tim Kuhfuss 
+Address: Chicago, IL 60639 USA  Argonne, IL 60439 USA  Argonne, IL 60439 USA  
+Affiliation: Electronic Visualization Laboratory University of Illinois at Chicago  Mathematics and Computer Science Division Argonne National Laboratory  Electronics and Computing Technologies, Argonne National Laboratory  
+Abstract-found: 0
+Intro-found: 0
+Reference: [1] <author> Comer, D. E. </author> <year> 1995. </year> <title> Internetworking with TCP/IP, 3rd. </title> <editor> ed. </editor> <publisher> Englewood Hall, Prentice Hall. </publisher>
+Reference: [2] <author> Cruz-Neira, C., Sandin, D. J., and DeFanti, T. A. </author> <year> 1993. </year> <title> Surround-screen projection-based virtual reality: </title> <booktitle> The design and implementation of the CAVE. In Computer graphics (Proceedings of SIGGRAPH '93), ACM SIGGRAPH, </booktitle> <pages> pp. 135-142. </pages>
+Reference: [3] <author> DeFanti, T., and Stevens, R. </author> <year> 1995. </year> <note> Notes from I-WAY workshop April 18-20, at Argonne National Laboratory. URL http://www.iway.org/. </note>
+Reference: [4] <author> Disz, T. L., Papka, M. E., and Pellegrino, M. </author> <year> 1995a. </year> <note> CAVEcomm programmers manual. </note>
+Reference: [5] <author> Disz, T. L., Papka, M. E., Pellegrino, M., and Stevens, R. </author> <year> 1995b. </year> <title> Sharing visualization experiences among remote virtual environments. </title> <booktitle> In International workshop on high performance computing for computer graphics and visualization. </booktitle> <address> Berlin, </address> <publisher> Springer-Verlag, </publisher> <pages> pp. 217-237. </pages>
+Reference: [6] <author> Foster, I., Kesselman, C., and Tuecke, S. </author> <year> 1994. </year> <title> The Nexus task-parallel runtime system. </title> <booktitle> In Proc. 1st Intl Workshop on Parallel Processing, </booktitle> <pages> pages 457-462. </pages> <publisher> Tata McGraw Hill. </publisher>
+Reference: [7] <author> Foster, I., Geisler, J., Kesselman, C., and Tuecke, S. </author> <year> 1996a. </year> <title> Multimethod communication for high-performance networked computing systems. </title> <type> Preprint, </type> <institution> Mathematics and Computer Science Division, Argonne National Laboratory, Argonne, Ill. </institution>
+Reference: [8] <author> Foster, I., Geisler, J., Nickless, W., Smith, W., and Tuecke, S. </author> <year> 1996b. </year> <title> Software infrastructure for high-performance distributed computing. </title> <type> Preprint, </type> <institution> Mathematics and Computer Science Division, Argonne National Laboratory, Argonne, Ill. </institution>
+Reference: [9] <author> Gropp, W., Lusk, E., Doss, N., and Skjellum, A. </author> <year> 1996. </year> <title> A high-performance, portable implementation of the MPI Message Passing Interface standard. </title> <type> Preprint MCS-P567-0296, </type> <institution> Mathematics and Computer Science Division, Argonne National Laboratory, Argonne, Ill. </institution>
+Reference: [10] <author> Korab, H., and Brown, M. D. </author> <year> 1995. </year> <title> Introduction. </title> <booktitle> In Virtual environments and distributed computing at SC'95, </booktitle> <address> New York and Los Alamitos, </address> <publisher> ACM/IEEE, </publisher> <pages> pp. 1-6. </pages>
+Reference: [11] <author> Partridge, C. </author> <year> 1994. </year> <title> Gigabit networking. </title> <address> Reading, Mass., </address> <publisher> Addison-Wesley. </publisher>
+Reference: [12] <author> Vetter, R. J. </author> <year> 1995. </year> <title> ATM concepts, architectures, and protocols. </title> <booktitle> Communciations of the ACM 38(2) </booktitle> <pages> 30-38. </pages>
+References-found: 12
+

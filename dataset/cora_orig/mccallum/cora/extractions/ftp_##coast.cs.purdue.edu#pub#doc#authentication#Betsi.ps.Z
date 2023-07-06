@@ -1,0 +1,26 @@
+URL: ftp://coast.cs.purdue.edu/pub/doc/authentication/Betsi.ps.Z
+Refering-URL: http://www.cs.purdue.edu/coast/archive/data/categ9.html
+Root-URL: http://www.cs.purdue.edu
+Email: rubin@bellcore.com  
+Title: Trusted Distribution of Software Over the Internet of a program and to secure its integrity.
+Author: Aviel D. Rubin 
+Note: The solution offered here utilizes a trusted third party that signs certificates to identify the author  is presented.  
+Address: 445 South St. Morristown, NJ 07962  
+Affiliation: Bellcore  
+Abstract: This paper offers a solution to a problem of software distribution on the Internet. The problem is that malicious software can be posted to the public with no accountability. When this software is run, it inherits the privileges of the user who runs it. Unfortunately, it is very common for users to execute software obtained on the Internet with no assurance that it is genuine. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Steven M. Bellovin. </author> <title> Packets found on an internet. </title> <journal> Computer Communications Review, </journal> <volume> 23(3), </volume> <month> July </month> <year> 1993. </year>
+Reference-contexts: In fact, it is not impossible for a cracker to cause a tampered version of a "trusted" program to be downloaded even without breaking into an ftp site by attacking the Domain Name Server (DNS) or hijacking the ftp connection <ref> [1] </ref>. Currently, there is no way for a user to verify that the program he possesses is the original.
+Reference: [2] <author> Peter H. Lewis. </author> <title> Computer snoopers imperil Pentagon files. </title> <address> New York Times, </address> <month> July 21, </month> <year> 1994. </year>
+Reference-contexts: 1 Introduction The Internet is a dangerous place to live. Consider that there are thousands of people with unprecedented computational resources and unbounded time and patience making every effort to attack the estimated 2.2 million hosts on the Internet <ref> [2] </ref>. The susceptibility to attack is a major drawback to the wealth of services the Internet affords. However, most users seem willing to take their chances.
+Reference: [3] <author> Merriam-Webster. </author> <title> Webster's third new international dictionary of the English language, </title> <publisher> unabridged. Merriam-Webster Inc., </publisher> <year> 1993. </year>
+Reference-contexts: According to Webster, trust is "assured reliance on the character, ability, strength, or truth of someone or something <ref> [3] </ref>." Unfortunately, the words assured reliance are just as vague as trust. Trust is at the heart of the problem described above. If a user cannot trust a program to execute on his behalf, then he should not run it. The problem is how to obtain trust in a program.
+Reference: [4] <author> R. Rivest. </author> <title> The md5 message digest algorithm. </title> <type> RFC 1321, </type> <month> April </month> <year> 1992. </year>
+Reference-contexts: A system that is not used and is not widespread is of little value. There are several requirements to that end. * Use as much existing infrastructure as possible. The public key system that is most ubiquitous is PGP [6]. MD-5 <ref> [4] </ref> is the most readily available hash algorithm. <p> As trusted distribution of software is the goal and a requirement, there is a Catch-22. MD-5 and PGP were chosen for hash computation and public key cryptography respectively because of their wide availability. The code for MD-5 appears in an rfc by Ronald Rivest <ref> [4] </ref>, as well as in 5 Schneier's Applied Cryptography [5]. PGP is avail-able from various sites, and it is signed (albeit with PGP) by its author, Philip Zimmerman, whose key is widely available.
+Reference: [5] <author> Bruce Schneier. </author> <title> Applied Cryptography - Protocols, Algorithms, and Source Code in C. </title> <publisher> John Wiley & Sons, Inc., </publisher> <year> 1994. </year>
+Reference-contexts: MD-5 and PGP were chosen for hash computation and public key cryptography respectively because of their wide availability. The code for MD-5 appears in an rfc by Ronald Rivest [4], as well as in 5 Schneier's Applied Cryptography <ref> [5] </ref>. PGP is avail-able from various sites, and it is signed (albeit with PGP) by its author, Philip Zimmerman, whose key is widely available.
+Reference: [6] <author> P. Zimmerman. </author> <title> Pgp user's guide. </title> <month> December 4, </month> <year> 1992. </year>
+Reference-contexts: A system that is not used and is not widespread is of little value. There are several requirements to that end. * Use as much existing infrastructure as possible. The public key system that is most ubiquitous is PGP <ref> [6] </ref>. MD-5 [4] is the most readily available hash algorithm.
+References-found: 6
+

@@ -1,0 +1,27 @@
+URL: http://www.cs.berkeley.edu/~alanm/CP/chiola.paracomp.96.ps
+Refering-URL: http://www.cs.berkeley.edu/~alanm/CP/bib.html
+Root-URL: 
+Email: fchiola,ciacciog@disi.unige.it  
+Title: Implementing a Low Cost, Low Latency Parallel Platform  
+Author: G. Chiola, G. Ciaccio 
+Address: Genova, 16146 Genoa, Italy  
+Affiliation: DISI, Universita di  
+Abstract: The cost of high-performance parallel platforms prevents parallel processing techniques from spreading in present applications. Networks of Workstations (NOW) exploiting off-the-shelf communication hardware, high-end PCs and standard communication software provide much cheaper but poorly performing parallel platforms. In our NOW prototype called GAMMA (Genoa Active Message MAchine) every node is a PC running a Linux operating system kernel enhanced with efficient communication mechanisms based on the Active Message paradigm. Active Messages supply virtualization of the network interface close enough to the raw hardware to guarantee good performance. The preliminary performance measures obtained by GAMMA show how competitive such a cheap NOW is. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <institution> Connection Machine CM-5 Technical Summary. </institution> <type> Technical report, </type> <institution> Thinking Machines Corporation, Cambridge, Massachusetts, </institution> <year> 1992. </year>
+Reference: [2] <author> G. Burns, R. Daoud, and J. Vaigl. LAM: </author> <title> An Open Cluster Environment for MPI. </title> <type> Technical report, </type> <institution> Ohio Supercomputer Center, Columbus, Ohio, </institution> <year> 1994. </year>
+Reference: [3] <author> G. Chiola and G. Ciaccio. </author> <title> GAMMA: Architecture, Programming Interface and Preliminary Benchmarking. </title> <type> Technical Report DISI-TR-96-??, </type> <institution> DISI, Universita di Genova, </institution> <month> November </month> <year> 1996. </year>
+Reference: [4] <author> G. Chiola and A. Ferscha. </author> <title> Performance Comparable Design of Efficient Synchronization Protocols for Distributed Simulation. </title> <booktitle> In Proc. </booktitle> <institution> MASCOTS'95, Durham, North Carolina, </institution> <month> January </month> <year> 1995. </year> <note> IEEE-CS Press. </note>
+Reference-contexts: No other message passing machine is currently able to deliver lower message latency than GAMMA even if we compare GAMMA with very expensive parallel platforms. A good example of application for GAMMA is distributed discrete event simulation, in which low message latency is very crucial to obtaining good speed-up <ref> [4] </ref>. Of course, our current NOW prototype lacks one of the main requirements that a massively parallel architecture must consider, namely scalability with respect to the number of processing nodes. If we increase the number of processing nodes in GAMMA sooner or later we will saturate the LAN bandwidth.
+Reference: [5] <author> W. Gropp and E. Lusk. </author> <title> User's Guide for mpich, a Portable Implementation of MPI. </title> <type> Technical Report MCS-TM-ANL-96/6, </type> <institution> Argonne National Lab., University of Chicago, </institution> <year> 1996. </year>
+Reference: [6] <author> R.W. Hockney. </author> <title> The Communication Challenge for MPP: Intel Paragon and Meiko CS-2. </title> <journal> Parallel Computing, </journal> <volume> 20(3) </volume> <pages> 389-398, </pages> <month> March </month> <year> 1994. </year>
+Reference: [7] <author> L.T. Liu and D.E. Culler. </author> <title> Measurement of Active Message Performance on the CM-5. </title> <type> Technical Report CSD-94-807, </type> <institution> Computer Science Dept., University of California at Berkeley, </institution> <month> May </month> <year> 1994. </year>
+Reference: [8] <author> S. Pakin, M. Lauria, and A. Chien. </author> <title> High Performance Messaging on Workstations: Illinois Fast Messages (FM) for Myrinet Computation. </title> <booktitle> In Proc. Supercomputing '95, </booktitle> <address> San Diego, California, 1995. </address> <publisher> ACM Press. </publisher>
+Reference: [9] <author> T. Sterling, D.J. Becker, D. Savarese, J.E. Dorband, U.A. Ranawake, and C.V. Packer. BEOWULF: </author> <title> A Parallel Workstation for Scientific Computation. </title> <booktitle> In Proc. 24th Int. Conf. on Parallel Processing, </booktitle> <address> Oconomowoc, Wisconsin, </address> <month> August </month> <year> 1995. </year>
+Reference: [10] <author> The Computer Engineering Group. </author> <title> P ARM A 2 Project: Parma PARallel MAchine. </title> <type> Technical report, </type> <institution> Dip. Ingegneria dell'Informazione, University of Parma, </institution> <month> October </month> <year> 1995. </year>
+Reference-contexts: Using results provided by our collegues working on the PARMA 2 Project <ref> [10, Table 2.1] </ref> we can compare our latency and bandwidth estimates to similar measurements carried out on other platforms. Table 3 reports some of these results in which the GAMMA and the U-Net [13] results are integrated.
+Reference: [11] <author> The Message Passing Interface Forum. </author> <title> MPI: A Message Passing Interface Standard. </title> <type> Technical report, </type> <institution> University of Tennessee, Knoxville, Tennessee, </institution> <year> 1995. </year>
+Reference: [12] <author> T. von Eicken, D.E. Culler, S.C. Goldstein, and K.E. Schauser. </author> <title> Active Messages: </title>
+References-found: 12
+

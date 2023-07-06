@@ -1,0 +1,20 @@
+URL: ftp://ftp.imag.fr/pub/TRILAN/Publi/CoLing96.ps.gz
+Refering-URL: http://clips.imag.fr/trilan/biblio.html
+Root-URL: http://www.imag.fr
+Email: Damien.GenthialJacques.CourtinJacques.Menezo-@imag.fr  
+Title: Distributing and Porting General Linguistic Tools  
+Author: Damien Genthial, Jacques Courtin and Jacques Menzo 
+Address: IMAG-Campus, BP 53 F-38040 GRENOBLE Cedex, FRANCE  
+Affiliation: TRILAN-CLIPS,  
+Note: CoLing96, Helsinki, Finland 1053  
+Abstract: Our main motivation is to build general and adaptable linguistic tools and we have faced the problem of their portability. We first make a quick description of the linguistic tools we have at hand and we explain why linguistic tools, unlike other software tools, present particular portability problems. We then discuss code portability and also data portability and we describe the method we have used for a French lexicon, showing that portability leads to a more "natural" computational lexicon. We then propose the use of a command language to interface the tools with more complex applications and we show that this technique facilitates integration of tools from various sources, entails a better exploitation of linguistic resources and makes easier the distribution of tools on several machines. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> E.L. </author> <month> Antworth </month> <year> (1990). </year> <title> PC-KIMMO : A Two-level Processor for Morphological Analysis, </title> <booktitle> Summer Institute of Linguistics, </booktitle> <address> Dallas, Texas. </address>
+Reference-contexts: Our manager take the form of a textual command language which is used to drive the module <ref> (Antworth, 1990) </ref> has used such a command language interface in PC-KIMMO.
+Reference: <author> Christian Boitet (1982). </author> <title> Le point sur ARIANE-78. </title> <type> Rapport ADI 81/423, </type> <institution> GETA-Champollion et CAP SOGETI France, Grenoble. </institution>
+Reference: <author> Christian Boitet and Marc Seligman (1994). </author> <title> The "white-board" architecture: a way to integrate heterogeneous components of NLP systems. </title> <journal> CoLing'94, Kyoto, Japan, </journal> <volume> August 94, Vol. 1, </volume> <pages> pp 426-430. </pages>
+Reference: <author> Damien Genthial and Jacques Courtin (1994). </author> <title> Towards a More User-Friendly Correction. </title> <address> CoLing'94, Kyoto, Japan, </address> <month> August 94, </month> <title> p p 1083-1088. </title>
+Reference: <author> C.M. Sperberg-McQueen and L. </author> <month> Burnard </month> <year> (1994). </year> <title> Guidelines for Electronic Text Encoding and Interchange. </title> <publisher> in press, Chicago and Oxford. </publisher>
+References-found: 5
+

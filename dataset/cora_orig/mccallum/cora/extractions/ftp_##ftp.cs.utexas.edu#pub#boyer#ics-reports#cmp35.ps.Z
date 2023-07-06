@@ -1,0 +1,15 @@
+URL: ftp://ftp.cs.utexas.edu/pub/boyer/ics-reports/cmp35.ps.Z
+Refering-URL: ftp://ftp.cs.utexas.edu/pub/boyer/ics-reports/index.html
+Root-URL: http://www.cs.utexas.edu
+Phone: (512) 471-1901  
+Title: Proof-Checking, Theorem-Proving, and Program Verification  
+Author: Robert S. Boyer and J Strother Moore 
+Address: 2100 Main Building  Austin, Texas 78712  
+Affiliation: Institute for Computing Science  The University of Texas at Austin  
+Abstract: Technical Report #35 January 1983 
+Abstract-found: 1
+Intro-found: 1
+Reference: [Ansi X3.9-1978 78] <author> American National Standards Institute, Inc. </author> <title> American National Standard Programming Language FORTRAN. </title> <type> Technical Report ANSI X3.9-1978, </type> <institution> American National Standards Institute, Inc., </institution> <address> 1430 Broadway, N.Y. 10018, </address> <month> April, </month> <year> 1978. </year> <title> [Backus 78] J. Backus. Can Programming Be Liberated from the von Neumann Style? A Functional Style and Its Algebra of Programs. </title> <journal> Comm. ACM 21 </journal> <pages> 616-641, </pages> <month> August, </month> <year> 1978. </year> <title> [Bledsoe 77] W. W. Bledsoe. Non-resolution Theorem Proving. </title> <booktitle> Artificial Intelligence 9:1-36, 1977. [Boyer & Moore 79] </booktitle> R. S. Boyer and J S. Moore. 
+Reference-contexts: We make the following claim about our verifier: If a FORTRAN subprogram is accepted and proved by our system and the program can be loaded onto a FORTRAN processor that meets the ANSI specification of FORTRAN <ref> [USAS X3.9-1966 66, Ansi X3.9-1978 78] </ref> and certain parameterized constraints on the accuracy of arithmetic, then any invocation of the program in an environment satisfying the input condition of the program will terminate without run-time errors and will produce an environment satisfying the output condition of the program.
+References-found: 1
+

@@ -1,0 +1,19 @@
+URL: http://http.cs.berkeley.edu/~gribble/osprelims/F95/papers/plan9_new.ps.gz
+Refering-URL: http://http.cs.berkeley.edu/~gribble/osprelims/F95/
+Root-URL: http://www.cs.berkeley.edu
+Title: Plan 9, A Distributed System  
+Author: Dave Presotto Rob Pike Ken Thompson Howard Trickey 
+Address: Murray Hill, New Jersey 07974  
+Affiliation: AT&T Bell Laboratories  
+Abstract:  
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Fra80. A. G. Fraser, </author> <title> ``Datakit-A Modular Network for Synchronous and Asynchronous Traffic,'' </title> <booktitle> in Proc. Int. Conf. on Commun., </booktitle> <address> Boston, MA (June 1980). </address>
+Reference: <author> Kal. C. R. Kalmanek, ``INCON: </author> <title> Network Maintenance and Privacy,'' </title> <type> Internal Memorandum 220106-0450, </type> <institution> AT&T Bell Laboratories. </institution>
+Reference: <author> Met80. R. Metcalfe, D. Boggs, C. Crane, E. Taft, J. Shoch, and J. Hupp, </author> <title> ``The Ethernet Local Network: Three Reports,'' </title> <journal> CSL-80-2, </journal> <note> XEROX Palo Alto Research Centers (February, 1980). </note> <author> Pik91. Pike, R., ``8.5, </author> <title> The Plan 9 Window System,'' </title> <booktitle> 1991 USENIX Summer Conference Proceedings (1991). - 7 - Pik87. Rob Pike, ``The Text Editor sam,'' Software - Practice and Experience 17(11), </booktitle> <pages> pp. </pages> <month> 813-845 (November </month> <year> 1987). </year>
+Reference: <author> Pik90. R. Pike, D. Presotto, K. Thompson, and H. Trickey, </author> <title> ``Plan 9 from Bell Labs,'' </title> <booktitle> in UKUUG Proceedings of the Summer 1990 Conference, </booktitle> <address> London, England (July, </address> <year> 1990). </year>
+Reference: <author> Pre88. D. Presotto, </author> <title> ``Plan 9 from Bell Labs - The Network,'' </title> <booktitle> in EUUG Proceedings of the Spring 1988 Conference, </booktitle> <address> London, England (April, </address> <year> 1988). </year>
+Reference: <author> Qui. S. Quinlan, </author> <title> ``A Cached WORM File System,'' </title> <journal> Software Practice and Experience, </journal> <note> p. To appear. </note>
+Reference: <author> Res. R. C. Restrick, </author> <title> ``INCON Wire Interface Integrated Circuit Design,'' Internal Memorandum 52413-860314-01TM, </title> <institution> AT&T Bell Laboratories. </institution>
+References-found: 7
+

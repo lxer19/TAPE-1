@@ -1,0 +1,13 @@
+URL: http://www.cs.dartmouth.edu/~prosser/decay.ps.gz
+Refering-URL: http://www.cs.dartmouth.edu/~prosser/
+Root-URL: http://www.cs.dartmouth.edu
+Title: Decay of the Relative Error in the Formation of Acoustic Bullets  
+Author: Harry E. Moses and Reese T. Prosser 
+Keyword: E(r; t) 1=r p  
+Abstract: In a previous paper the authors have shown how to construct certain solutions of the acoustic and electromagnetic wave equations in three dimensions which are constrained asymptotically to outgoing spherical shells supported in narrow cones, i.e., which behave like "bullets". In this report they show that in the acoustic case the magnitude of the relative error between the true solution and its asymptotic form decays in time according to an inverse square root law. In [1] we have shown how to construct certain solutions of the acoustic and elecromag-netic wave equations in three dimensions which are constrained asymptotically to outgoing shells supported in narrow cones, i.e., which behave like "bullets". In this report we show that in the acoustic case the magnitude of the relative error between the true solution and its asymptotic form satisfies the decay law 
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> H. E. Moses and R.T.Prosser, </author> <title> Acoustic and Electromagnetic Bullets, </title> <journal> SIAM J. Appl. Math. 50 (1990), pp. </journal> <volume> 1325-1340. 6 7 8 9 10 11 </volume>
+Reference-contexts: 1. Decay of the Relative Error We use the notation conventions of reference <ref> [1] </ref> throughout.
+References-found: 1
+

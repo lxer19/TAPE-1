@@ -1,0 +1,14 @@
+URL: ftp://ftp.cs.utexas.edu/pub/boyer/ics-reports/cmp24.ps.Z
+Refering-URL: ftp://ftp.cs.utexas.edu/pub/boyer/ics-reports/index.html
+Root-URL: 
+Title: INTEGRATED METHODS FOR PROTOCOL SPECIFICATION AND VERIFICATION  
+Author: Benedetto L. DiVito 
+Address: Austin, Texas 78712  
+Affiliation: Institute for Computing Science The University of Texas at Austin  
+Date: 24 March 1982  
+Pubnum: Technical Report  
+Abstract-found: 0
+Intro-found: 1
+Reference: <institution> i Table of Contents 1 Introduction 2 2 Process Model 2 3 Specification Language Concepts 5 4 Protocol Specifications 7 4.1 Sequential process definitions 8 4.2 Event handlers 9 4.3 Example of event processing 12 5 Service Specifications 12 6 Verification Methods 13 6.1 Verifying concurrent processes 14 6.2 Verifying sequential processes 15 6.3 Invariants for the example protocol 16 7 Mechanical Proof 18 8 Conclusion 20 I. </institution> <note> Collected Specifications for Example 21 II. </note> <author> Process definitions 22 III. </author> <title> External invariants 25 IV. Internal invariants 26 V. Summary of Predefined Functions 27 ii </title>
+References-found: 1
+

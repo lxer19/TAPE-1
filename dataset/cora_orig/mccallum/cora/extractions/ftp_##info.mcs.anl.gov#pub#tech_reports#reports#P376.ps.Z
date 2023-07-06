@@ -1,0 +1,32 @@
+URL: ftp://info.mcs.anl.gov/pub/tech_reports/reports/P376.ps.Z
+Refering-URL: http://www.mcs.anl.gov/publications/preprints.htm
+Root-URL: http://www.mcs.anl.gov
+Title: Automated Reasoning about Cubic Curves  
+Author: R. Padmanabhan W. McCune 
+Date: July 1993.  
+Note: Preprint MCS-P376-0793,  AMS Subject Classification (1991). Primary: 68T15, 08B05. Secondary:14H52, 20N05.  
+Address: Winnipeg, Manitoba R3T 2N2 Canada  Argonne, Illinois 60439-4844 U.S.A.  Argonne, Ill.,  
+Affiliation: Department of Mathematics University of Manitoba  Mathematics and Computer Science Division Argonne National Laboratory  Mathematics and Computer Science Division, Argonne National Laboratory,  
+Abstract: It is well known that the n-ary morphisms defined on projective algebraic curves satisfy some strong local-to-global equational rules of derivation not satisfied in general by universal algebras. For example, every rationally defined group law on a cubic curve must be commutative. Here we extract from the geometry of curves a first-order property (gL) satisfied by all morphisms defined on these curves such that the equational consequences known for projective curves can be derived automatically from a set of six rules (stated within the first-order logic with equality). First, the rule (gL) is implemented in the theorem-proving program Otter. Then we use Otter to automatically prove some incidence theorems on projective curves without any further reference to the underlying geometry or topology of the curves. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> I. M. S. Etherington. </author> <title> Quasigroups and cubic curves. </title> <journal> Proc. Edinburgh Math. Soc., </journal> <volume> 14 </volume> <pages> 273-291, </pages> <year> 1965. </year>
+Reference: [2] <author> H. Lakser and R. Padmanabhan. </author> <type> Preprint, </type> <year> 1993. </year>
+Reference-contexts: In fact, even the set of all implications valid in these two classes of algebra are the same. This was proved by Harry Lakser and R. Padmanabhan in <ref> [2] </ref>. 4 Concluding Remarks The rule " =(gL)) " viewed as an inference rule to derive stronger equations from relatively weaker ones is, in a sense, custom-made for the equational theory of Abelian varieties.
+Reference: [3] <author> W. McCune. </author> <title> Otter 2.0 Users Guide. </title> <type> Tech. Report ANL-90/9, </type> <institution> Argonne National Laboratory, Argonne, Ill., </institution> <month> March </month> <year> 1990. </year>
+Reference-contexts: introduction, satisfies (the rigidity lemma and consequently) the rule (gL) for all morphisms. 3 3 Otter and Implementation of the Rule (gL) Otter <ref> [3, 4] </ref> is a computer program that attempts to prove theorems stated in first-order logic with equality. Here we restrict our attention to its capabilities in equational logic.
+Reference: [4] <author> W. McCune. </author> <title> What's New in Otter 2.2. </title> <type> Tech. </type> <institution> Memo ANL/MCS-TM-153, Mathematics and Computer Science Division, Argonne National Laboratory, Argonne, Ill,, </institution> <month> July </month> <year> 1991. </year>
+Reference-contexts: introduction, satisfies (the rigidity lemma and consequently) the rule (gL) for all morphisms. 3 3 Otter and Implementation of the Rule (gL) Otter <ref> [3, 4] </ref> is a computer program that attempts to prove theorems stated in first-order logic with equality. Here we restrict our attention to its capabilities in equational logic.
+Reference: [5] <author> W. McCune. </author> <title> Single axioms for groups and Abelian groups with various operations. </title> <journal> Journal of Automated Reasoning, </journal> <volume> 10(1) </volume> <pages> 1-13, </pages> <year> 1993. </year>
+Reference-contexts: Corollary 4. The equational theory of the algebra h; i contains all the identities satisfied by the double inversion operation x 1 y 1 true in every Abelian group. W. McCune has shown (in <ref> [5] </ref>) that the single 3-variable identity on the right side characterizes the binary operation of double inversion x y = x 1 y 1 in Abelian groups 6 with the element e as the group identity.
+Reference: [6] <author> N. S. Mendelsohn, R. Padmanabhan, and B. Wolk. </author> <title> Straight edge constructions on cubic curves. </title> <editor> C. R. </editor> <title> Math. </title> <type> Rep. </type> <institution> Acad. Sci. Canada, </institution> <month> 10 </month> <pages> 77-82, </pages> <year> 1988. </year>
+Reference: [7] <author> J. S. Milne. </author> <title> Abelian varieties. </title> <booktitle> In Arithmetic Geometry, </booktitle> <pages> pages 103-150. </pages> <publisher> Springer-Verlag, </publisher> <address> New York, </address> <year> 1986. </year>
+Reference-contexts: So xy +e = (x)(y). Replacing x by a and y by b, we get a+b+e = ab. Thus any two group laws must differ only by a constant. In the literature this is often stated as follows (see, e.g., J.S. Milne, "Abelian Varieties" <ref> [7, Remark 2.3 on p. 105] </ref>): "A group structure on is uniquely determined by the choice of the zero element". In fact, in the above calculation, if e = 0, then a + b = ab itself. Theorem 3. Let e be an inflexion point on .
+Reference: [8] <author> R. Padmanabhan. </author> <title> Logic of equality in geometry. </title> <journal> Discrete Mathematics, </journal> <volume> 15 </volume> <pages> 319-331, </pages> <year> 1982. </year>
+Reference: [9] <author> R. W. Quackenbush. </author> <title> Quasi-affine algebras. </title> <journal> Algebra Universalis, </journal> <volume> 20 </volume> <pages> 318-327, </pages> <year> 1985. </year>
+Reference-contexts: Theorem 7 is new, and Otter's proof as given above is the first equational proof. The last result about the majority polynomial is really folklore among universal algebraists, albeit via the term condition (see references in <ref> [9] </ref>). Here we include them just to demonstrate the ease with which Otter handles such equational proofs.
+Reference: [10] <author> I. R. Shafarevich. </author> <title> Basic Algebraic Geometry. </title> <publisher> Springer-Verlag, </publisher> <address> New York, </address> <year> 1977. </year>
+Reference: [11] <author> T. A. Springer. </author> <title> Linear Algebraic Groups. </title> <publisher> Birkhauser, </publisher> <address> Boston, </address> <year> 1980. </year>
+
+References-found: 11
+

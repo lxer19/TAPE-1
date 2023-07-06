@@ -1,0 +1,18 @@
+URL: ftp://info.mcs.anl.gov/pub/petsc/amg_petsc4.ps.gz
+Refering-URL: http://www.mcs.anl.gov/petsc/petsc-page.html
+Root-URL: http://www.mcs.anl.gov
+Title: Abstract P arallel Multigrid Soft w in PETSc dev A R G O N N
+Author: . Barry Smith etsc/p etsc.h tml v/home/bsmith elop ed Satish Bala Lois Curfman Mcinnes, Bill Gropp,and Barry Smith. vironmen w CK, ARSP AK, c kSolv e, ject orien ted els High-lev el solv ers. Lo el BLAS-t yp 
+Keyword: ANSI  
+Address: that serv es  elop  erations.  
+Affiliation: t  dev  mathematics  computational  op  
+Note: h  C (also compiles with C++ compilers). parallel comm unication is done  in  
+Pubnum: PETSc  
+Degree: in ortran, C C++ PETSc  
+Web: ttp://www.mcs.anl.go  
+Date: 2.0  Both  ers  2.0:  ESSL)  hniques  4  
+Abstract: End Result * ded Abstraction 
+Abstract-found: 1
+Intro-found: 0
+References-found: 0
+

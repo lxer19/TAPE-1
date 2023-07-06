@@ -1,0 +1,18 @@
+URL: ftp://ftp.cs.indiana.edu/pub/scheme-repository/doc/pubs/sos.ps.gz
+Refering-URL: http://www.cs.indiana.edu/scheme-repository/doc.publications.html
+Root-URL: http://www.cs.indiana.edu
+Title: The case of lambda expressions (Rule 17) shows how memory allocation is handled. E[[(lambda (i
+Author: F[[e E [[e fl fl F. Acknowledgement: Joshua Guttman, Leonard Monk, and Vipin Swarup [] Bruce F. Duba, Robert Harper, and David Mac-Queen. Steven S. Muchnik and Uwe Pleban. . [] David A. Schmidt. Wm. C. Brown, Dubuque, IO, . [] Joseph E. Stoy. 
+Address: [[e]](single F[[e h*i))  New York, NY, 1991.  
+Note: can be replaced by F[[e]]hi in the  which has been derived from the definition of  The justification for Rule 4 is also derived from the  Eighteenth Annual ACM Symposium on Principles of Programming Languages, pages 163-173, New York, NY, 1991. ACM Press. [2] IEEE Std 1178-1990. IEEE Standard for the Scheme Programming Language. Institute of Electrical and Electronic Engineers, Inc.,  [3] Giles Kahn. Natural semantics. In F. J. Banden-burg, G. Vidal-Naquet, and M. Wirsing, editors, Fourth Annual Symposium on Theoretical Aspects of Computer Science, volume 247 of Lecture Notes in Computer Science, pages 22-39, Berlin, 1987. Springer-Verlag. [4]  MIT Press, Cambridge, MA, 1977. Page 5  
+Affiliation: C[[e e ]](E[[e 0 E[[e]](* C[[e ]](E[[e 0  Occurrences of E [[e]]  F [[e e E  
+Abstract-found: 0
+Intro-found: 0
+Reference: [1] <author> Bruce F. Duba, Robert Harper, and David Mac-Queen. </author> <title> Typing first-class continuations in ML. </title> <booktitle> In Eighteenth Annual ACM Symposium on Principles of Programming Languages, </booktitle> <pages> pages 163-173, </pages> <address> New York, NY, 1991. </address> <publisher> ACM Press. </publisher>
+Reference: [2] <editor> IEEE Std 1178-1990. </editor> <title> IEEE Standard for the Scheme Programming Language. </title> <publisher> Institute of Electrical and Electronic Engineers, Inc., </publisher> <address> New York, NY, </address> <year> 1991. </year>
+Reference: [3] <author> Giles Kahn. </author> <title> Natural semantics. </title> <editor> In F. J. Banden-burg, G. Vidal-Naquet, and M. Wirsing, editors, </editor> <booktitle> Fourth Annual Symposium on Theoretical Aspects of Computer Science, volume 247 of Lecture Notes in Computer Science, </booktitle> <pages> pages 22-39, </pages> <address> Berlin, 1987. </address> <publisher> Springer-Verlag. </publisher>
+Reference: [4] <author> Steven S. Muchnik and Uwe Pleban. </author> <title> A semantic comparison of Lisp and Scheme. </title> <booktitle> In Conference Record of the 1980 Lisp Conference, </booktitle> <pages> pages 54-64, </pages> <year> 1980. </year>
+Reference: [5] <author> David A. Schmidt. </author> <title> Denotational Semantics: A Methodology for Language Development. Wm. </title> <editor> C. Brown, Dubuque, IO, </editor> <year> 1986. </year>
+
+References-found: 5
+

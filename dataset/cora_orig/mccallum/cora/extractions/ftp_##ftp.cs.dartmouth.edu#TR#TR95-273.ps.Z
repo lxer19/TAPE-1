@@ -1,0 +1,26 @@
+URL: ftp://ftp.cs.dartmouth.edu/TR/TR95-273.ps.Z
+Refering-URL: http://www.cs.dartmouth.edu/reports/abstracts/TR95-273/
+Root-URL: http://www.cs.dartmouth.edu
+Title: A Performance Comparison of TCP/IP and MPI on FDDI, Fast Ethernet, and Ethernet  
+Author: Saurab Nog and David Kotz 
+Keyword: Network Performance, FDDI, FastEthernet, Ethernet, MPI.  
+Address: Hanover, NH 03755-3510  
+Affiliation: Department of Computer Science Dartmouth College  
+Note: Available at  
+Pubnum: Dartmouth Technical Report PCS-TR95-273  
+Email: saurab@cs.dartmouth.edu, dfk@cs.dartmouth.edu  
+Date: November 22, 1995 Revised January 8, 1996  
+Web: URL ftp://ftp.cs.dartmouth.edu/TR/TR95-273.ps.Z  
+Abstract: Communication is a very important factor affecting distributed applications. Getting a close handle on network performance (both bandwidth and latency) is thus crucial to understanding overall application performance. We benchmarked some of the metrics of network performance using two sets of experiments, namely roundtrip and datahose. The tests were designed to measure a combination of network latency, bandwidth, and contention. We repeated the tests for two protocols (TCP/IP and MPI) and three networks (100 Mbit FDDI (Fiber Distributed Data Interface), 100 Mbit Fast Ethernet, and 10 Mbit Ethernet). The performance results provided interesting insights into the behaviour of these networks under different load conditions and the software overheads associated with an MPI implementation (MPICH). This document presents details about the experiments, their results, and our analysis of the performance. Revised - January 8, 1996 to emphasize our use of a particular MPI implementation, MPICH. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Christos Papadopoulos and Gurudatta M. Parulkar, </author> <title> "Experimental Evaluation of SUNOS IPC and TCP/IP Protocol Implementation", </title> <journal> IEEE/ACM Transactions on Networking, </journal> <volume> Vol. 1, No. 2, </volume> <month> April </month> <year> 1993, </year> <pages> Pages 199-216. </pages>
+Reference-contexts: We used TCP NODELAY to overcome this behaviour and eliminate the wait period. We also set both the sending and receiving side kernel buffers at 64K bytes (maximum allowed on the RS6000s, FreeBSD Pentiums allow up to 128K). The increased buffers were prompted by the observation <ref> [1] </ref> that kernel buffers are the bottlenecks for most network operations. For MPI, we used the default configuration in all cases. 2.3 Performance Measures In these tests we were interested in the following measures of network performance: * Total Bandwidth: the sum of the individual bandwidths of concurrent processes.
+Reference: [2] <author> Ralph Butler and Ewing Lusk, </author> <title> "User's Guide to the p4 Parallel Programming System", </title> <type> Version 1.3, </type> <institution> Argonne National Laboratory, ANL-92/17, </institution> <month> August </month> <year> 1993. </year>
+Reference-contexts: We chose these protocols (TCP/IP and MPI) because * TCP/IP: Greater flexibility and user control Higher performance Wide usage and support * MPI: Programming ease A widely accepted standard for distributed computing applications. Since our MPI implementation, MPICH, runs on top of P4 <ref> [2] </ref> which in turn uses TCP/IP, a performance comparison of TCP/IP and MPI gives a good estimate of the overheads and advantages associated with using the higher level abstraction of MPI as opposed to TCP/IP sockets.
+Reference: [3] <author> D. W. Walker, </author> <title> "The design of a standard message passing interface for distributed memory concurrent computers", </title> <journal> ParComp Vol. </journal> <volume> 20, No. 4, </volume> <year> 1994. </year> <pages> Pages 657-673. </pages>
+Reference-contexts: 1 Introduction This document presents benchmarking tests that measured and compared performance of TCP/IP and MPI (Message Passing Interface) <ref> [3] </ref> implementations on different networks and their results. We chose these protocols (TCP/IP and MPI) because * TCP/IP: Greater flexibility and user control Higher performance Wide usage and support * MPI: Programming ease A widely accepted standard for distributed computing applications.
+Reference: [4] <author> Andrew S. Tanenbaum, </author> <title> "Computer Networks", 2nd Edition, </title> <publisher> Prentice Hall, </publisher> <year> 1988. </year>
+Reference-contexts: One possible reason is that Ethernet (Fast or otherwise), based on CSMA/CD <ref> [4] </ref>, does not wait for permission for each message. Thus a transmitting process, after sensing for absence of a carrier, wrote to the network hoping that a collision would not occur. For light-load conditions, collisions do not occur or were rare. Thus the high throughput.
+References-found: 4
+

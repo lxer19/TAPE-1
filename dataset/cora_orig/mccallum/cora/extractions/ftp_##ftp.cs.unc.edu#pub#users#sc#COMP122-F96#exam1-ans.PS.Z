@@ -1,0 +1,14 @@
+URL: ftp://ftp.cs.unc.edu/pub/users/sc/COMP122-F96/exam1-ans.PS.Z
+Refering-URL: http://www.cs.unc.edu/~sc/teaching/COMP122-F1996/exams.html
+Root-URL: http://www.cs.unc.edu
+Phone: 2 4n 1 4n 2 4n 2 1n 2  
+Title: COMP 122: Algorithms and Analysis Solutions to In-Class Exam 2. Consider the following algorithm to
+Author: Siddhartha Chatterjee n). 
+Note: 0 (2n 1) 2 4n 2 4n 1 cn 2 8n n  4n  T(n) T(n 2) fi(n) T(0) 1  
+Date: Fall 1996  0  2 begin  9 end  
+Pubnum: 6 A[p] A[i] 8 New-Sort(A, p+1, q-1)  
+Abstract: 1. (2 pts) Prove that (2n + 1) 2 = O(n 2 ) by deriving the constants c and n 0 in the definition of O-notation. Solution: We need to find positive real numbers c and n 0 such that Since squares are nonnegative, the first inequality is satisfied trivially. For the second inequality, pick c = 9 and n 0 = 1. Observing that 1 n n 2 for n 1, we have (a) (3 pts) Write down a recurrence for the worst-case running time of this algorithm, and solve it. Solution: The following recurrence describes the worst-case running time of New-Sort. In fact, for this algorithm, there is no difference between worst and average cases. Solving this by repeated substitution (or by drawing a recursion tree) gives T(n) = fi(n 2 ). (b) (1 pt) Is New-Sort stable? Justify your answer. Solution: New-Sort is not stable, for the same reason that selection sort is not stable: nonadjacent keys are swapped. This has nothing to do with how the maximum and minimum values are found. The problem remains even if you find the lowest-indexed minimum value and the highest-indexed maximum value. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

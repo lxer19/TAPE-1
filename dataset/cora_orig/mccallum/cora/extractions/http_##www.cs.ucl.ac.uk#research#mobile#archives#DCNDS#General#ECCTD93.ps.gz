@@ -1,0 +1,21 @@
+URL: http://www.cs.ucl.ac.uk/research/mobile/archives/DCNDS/General/ECCTD93.ps.gz
+Refering-URL: http://www.cs.ucl.ac.uk/research/mobile/archives/DCNDS/General/
+Root-URL: http://www.cs.ucl.ac.uk
+Title: Introduction to wireless communications  
+Author: Pierre A. Humblet 
+Date: August 1993.  
+Note: Paper presented at ECCTD'93, Davos, Switzerland,  
+Address: 2229 route des Cretes, B.P. 193 06904 Sophia-Antipolis, France  
+Affiliation: Institut Eurecom  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> George Calhoun. </author> <title> Digital Cellular Radio. </title> <publisher> Artech House, </publisher> <address> Norwood, MA, </address> <year> 1988. </year>
+Reference-contexts: A third method is to send a signal with a complex envelope x (t) that has a sharp autocorrelation function. One way to construct such an x (t) is to have x (t) = k=1 where p (t) is 1 on <ref> [0; 1] </ref> and 0 elsewhere, and the s k are from a binary maximal length shift register sequence, with the 0 and 1's mapped into +1 and -1.
+Reference: [2] <author> William C. Y. Lee. </author> <title> Mobile Communications Engineering. </title> <publisher> McGraw-Hill, </publisher> <address> New York, </address> <year> 1982. </year>
+Reference-contexts: Thus the magnitude square of a i (t) has a centered chi-square distribution with two degrees of freedom, and its phase is uniformly distributed on <ref> [0; 2] </ref>. The distribution of the magnitude is Rayleigh, and the name of the model is "Rayleigh fading channel". <p> For a pure carrier at frequency f c , the complex signal envelope is then x (t) = Ae j2f c v Reflections of the signal occur near the receiver, and the angle of arrival can be considered as uniformly distributed on <ref> [0; 2] </ref>. The correlation of the received signal is R x (t 1 ; t 2 ) = EjAj 2 e j2f c v c (t 1 t 2 ) cos (ff) where J 0 is a Bessel function and f d = f c v=c = v=.
+Reference: [3] <author> Michel Mouly and Marie-Bernadette Pautet. </author> <title> The GSM System for Mobile Communications. Published by the authors, </title> <address> Paris, </address> <year> 1992. </year>
+Reference: [4] <author> D. Parsons. </author> <title> The Mobile Propagation Channel. </title> <publisher> Pentech Press, </publisher> <address> London, </address> <year> 1992. </year>
+Reference: [5] <author> J. G. Proakis. </author> <title> Digital Communications. </title> <publisher> McGraw-Hill, </publisher> <address> New York, </address> <year> 1989. </year>
+Reference: [6] <editor> Raymond Steele, editor. </editor> <booktitle> Mobile Radio Communications. </booktitle> <publisher> Pentech Press, </publisher> <address> London, </address> <year> 1992. </year>
+References-found: 6
+

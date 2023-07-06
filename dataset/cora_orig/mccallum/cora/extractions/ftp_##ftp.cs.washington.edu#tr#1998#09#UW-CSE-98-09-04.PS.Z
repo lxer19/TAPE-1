@@ -1,0 +1,21 @@
+URL: ftp://ftp.cs.washington.edu/tr/1998/09/UW-CSE-98-09-04.PS.Z
+Refering-URL: http://www.cs.washington.edu/research/tr/tr-by-date.html
+Root-URL: http://www.cs.washington.edu
+Email: email: tanimoto@cs.washington.edu  
+Title: Towards an Ontology for Alternative Assessment in Education  
+Author: Steven L. Tanimoto Box Steven L. Tanimoto Steve Tanimoto, 
+Note: (C) Copyright 1998,  First presented at the June 1998 meeting of the IEEE Learning Technology Standards Committee held in Pittsburgh, PA. Please send comments and corrections to  
+Date: September 25, 1998  
+Address: Seattle, WA 98195  Seattle, WA 98195;  
+Affiliation: Dept. of Computer Science and Engineering University of Washington,  Dept of Computer Science and Engineering, Box 352350, University of Washington,  
+Abstract: A set of guiding principles is stated for the development of standards for representing student educational assessment information. Unlike traditional academic transcripts, the items in portfolios, subjective written evaluations, self-assessments, and computer-based records of activity are complex representations of student achievement, involvement, or inclinations. Even more so than traditional grades, they depend upon a great deal of contextual information in order to be intepreted in useful and reliable ways. This paper also identifies the essential informational components of alternative assessment records and suggests a standard form for their representation. The consideration of evidence, judgment, context, and justification, as described in this paper, is relevant to the improvement of conventional (e.g., multiple-choice test) assessment methodologies, as well. 
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> Broadfoot, Patricia (ed). </author> <year> 1986. </year> <title> Profiles and Records of Achievement. </title> <publisher> Lon-don: Holt, Rinehart and Winston. </publisher>
+Reference: 2. <author> EDUCOM. </author> <year> 1998. </year> <title> Instructional Management System home page. </title> <address> http://www.imsproject.org/. </address>
+Reference: 3. <author> Hoffman, Banesh. </author> <year> 1962. </year> <title> The Tyranny of Testing. </title> <address> NY: Crowell-Collier. </address>
+Reference: 4. <editor> Linn, R. L. (ed). </editor> <booktitle> 1989. Educational Measurement, Third Edition. </booktitle> <address> London: </address> <publisher> Collier Macmillan Publishers. </publisher>
+Reference: 5. <author> Murphy, M., and McTear, M. </author> <year> 1997. </year> <title> Learner modelling for intelligent CALL. In Jameson, A; Paris, </title> <editor> C.; and Tasso, C. (Eds.) </editor> <booktitle> User Modeling: Proceedings of the Sixth International Conference, </booktitle> <address> UM97. Vienna, New York: </address> <publisher> Springer Wien New York. </publisher> <pages> pp. 301-312. </pages>
+Reference: 6. <author> Tanimoto, S. L. </author> <year> 1992. </year> <title> Beyond the naivety of grades: Educational record keeping for the twenty-first century. </title> <type> Technical Report 92-07-09, </type> <institution> Dept. of Computer Science and Engineering, Univ. of Washington, </institution> <address> Seattle WA, USA, </address> <month> July. 9 </month>
+References-found: 6
+

@@ -1,0 +1,26 @@
+URL: http://www.cs.unm.edu/~bap/papers/ml-abbadingo-one.ps.gz
+Refering-URL: http://www.cs.unm.edu/stats/
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Email: kevin@research.nj.nec.com  bap@cs.unm.edu  rod@emtex.com  
+Title: New Evidence Driven State Merging Algorithm  
+Author: Kevin J. Lang Barak A. Pearlmutter Rodney A. Price 
+Date: May 8, 1998  
+Address: 4 Independence Way Princeton, NJ 08540  Albuquerque, NM 87131  Milton Keynes, England  
+Affiliation: NEC Research Institute  Comp Sci Dept, FEC 313 Univ of New Mexico  Emtex  
+Note: a  Juille, will be described in a separate paper. Part I Abbadingo  
+Abstract: Results of the Abbadingo One DFA Learning Competition Abstract This paper first describes the structure and results of the Abbadingo One DFA Learning Competition. The competition was designed to encourage work on algorithms that scale wellboth to larger DFAs and to sparser training data. We then describe and discuss the winning algorithm of Rodney Price, which orders state merges according to the amount of evidence in their favor. A second winning algorithm, of Hugues and
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> D. Angluin. </author> <title> (1978) On the Complexity of Minimum Inference of Regular Sets. </title> <journal> Information and Control, </journal> <volume> Vol. 39, </volume> <pages> pp. 337-350. </pages>
+Reference: <author> L. Veelenturf. </author> <title> (1978) Inference of Sequential Machines from Sample Computations. </title> <journal> IEEE Transactions on Computers, </journal> <volume> Vol. 27, </volume> <pages> pp. 167-170. </pages>
+Reference: <author> M. Kearns and L. Valiant. </author> <title> (1989) Cryptographic Limitations on Learning Boolean Formulae and Finite Automata. </title> <publisher> STOC-89. </publisher>
+Reference: <author> L. Pitt and M. Warmuth. </author> <title> (1989) The Minimum DFA Consistency Problem Cannot be Approximated Within any Polynomial. </title> <publisher> STOC-89. </publisher>
+Reference: <author> Kevin J. Lang. </author> <title> Random DFA's can be Approximately Learned from Sparse Uniform Examples. </title> <booktitle> In Proceed ings of the Fifth Annual ACM Workshop on Computational Learning Theory, </booktitle> <pages> pp 45-52, </pages> <month> July </month> <year> 1992. </year>
+Reference: <author> J. Oncina and P. Garcia. </author> <title> Inferring Regular Languages in Polynomial Updated Time. </title> <booktitle> In Pattern Recognition and Image Analysis. </booktitle> <pages> pp. 49-61, </pages> <publisher> World Scientific, </publisher> <year> 1992. </year>
+Reference: <author> Yoav Freund, Michael Kearns, Dana Ron, Ronitt Rubinfeld, Robert Schapire, and Linda Sellie. </author> <title> Efficient Learning of Typical Finite Automata from Random Walks, </title> <booktitle> STOC-93, </booktitle> <pages> pp. 315-324. </pages>
+Reference: <author> P. Dupont, L. Miclet, and E. Vidal. </author> <title> What is the search space of the regular inference? In Proceedings of the International Colloquium on Grammatical Inference ICGA-94, </title> <booktitle> Lecture Notes in Artificial Intelligence 862, </booktitle> <pages> pp. 25-37, </pages> <publisher> Springer-Verlag, </publisher> <year> 1994. </year>
+Reference: <author> C. de la Higuera, J. Oncina, and E. Vidal. </author> <title> Identification of DFA: Data-Dependent Versus Data-Independent Algorithms. </title> <booktitle> In Proceedings of the International Colloquium on Grammatical Inference ICGA-96 Lecture Notes in Artificial Intelligence 1147, </booktitle> <pages> pp. 313-325, </pages> <publisher> Springer-Verlag, </publisher> <year> 1996. </year>
+Reference: <author> Joe Kilian and Kevin J. Lang. </author> <title> (1997) A Scheme for Secure Pass-Fail Tests. </title> <note> NECI Technical Note 97-016N. </note>
+Reference: <author> Hugues Juille and Jordan B. Pollack. </author> <title> (1998) SAGE: a Sampling-based Heuristic for Tree Search. </title> <note> Submitted to Machine Learning. 12 </note>
+References-found: 11
+

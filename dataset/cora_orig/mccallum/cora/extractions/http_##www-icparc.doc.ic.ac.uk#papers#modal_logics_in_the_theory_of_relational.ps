@@ -1,0 +1,25 @@
+URL: http://www-icparc.doc.ic.ac.uk/papers/modal_logics_in_the_theory_of_relational.ps
+Refering-URL: http://www-icparc.doc.ic.ac.uk/papers.html
+Root-URL: 
+Title: Modal logics in the theory of relational databases  
+Author: S. K. Das 
+Keyword: relational database, formalism, modal logic.  
+Address: London SW7 2AZ  
+Affiliation: IC-Parc William Penney Laboratory Imperial College  
+Abstract: Logical formalisms for representing and reasoning about relational databases have been very popular. However, fragments of the standard first-order logic used in most of these formalisms are quite inadequate for reasoning about properties represented by a set of tuples from a relation. In this short note, we propose a formalism for reasoning about these properties by means of two operators with respect to a set of attributes. The first operator, when applied on a given set of tuples, extracts those tuples that definitely satisfy a property represented by the given set, and the second operator extracts those tuples that possibly satisfy this property. We associate these kinds of property with the language of some well-known systems of modal logics so that reasoning about these properties can be carried out in the domain of modal logics. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> E. F. Codd. </author> <title> A relational model for large shared data banks. </title> <journal> Communications of the ACM, </journal> <volume> 13 </volume> <pages> 377-387, </pages> <year> 1970. </year>
+Reference-contexts: The language of modal logics for representing properties is developed in section 5 where the necessity and possibility modal operators correspond to the two operators of the following section. 2 Definability of tuples by attributes A relational database <ref> [1] </ref> consists of a collection of relations or tables. Rows of tables are referred to as tuples and columns are referred to as attributes. Each attribute has an associated domain of values. An example of an employee table is shown in table 1.
+Reference: [2] <author> S. K. Das. </author> <title> Deductive Databases and Logic Programming. </title> <publisher> Addison-Wesley, </publisher> <year> 1992. </year>
+Reference-contexts: We have shown that the reasoning about the properties of tuples can be carried out in terms of some well-known systems of modal logics. We believe that the results can be easily extended to a database system based on standard first-order formalization <ref> [2] </ref>.
+Reference: [3] <author> E. J. Lemmon. </author> <title> An Introduction to Modal Logic. </title> <publisher> Basil Blackwell, </publisher> <year> 1977. </year>
+Reference-contexts: Symbolically, we have A T u fi T u where (X) is the power set of X. From the point of view of the traditional model structure of modal logics <ref> [3] </ref>, T u can be thought of as a set of possible worlds and A as an associated accessibility relation. A formula in such a model can be uniquely characterized by a set of worlds in which it is true.
+Reference: [4] <author> W. Lipski. </author> <title> On semantic issues connected with incomplete information databases. </title> <journal> ACM Transactions on Database Systems, </journal> <volume> 4 </volume> <pages> 262-296, </pages> <year> 1979. </year>
+Reference-contexts: Instead, a set of possible values of an attribute is known <ref> [4] </ref>. In such a situation the information about an attribute is incomplete. To deal with such situations, we modify the notational definition of a table as follows.
+Reference: [5] <author> E. Orlowska. </author> <title> Modal logics in the theory of information systems. </title> <journal> Zeitschr. f. math. Logik und Grundlagen d. Math., </journal> <volume> 30 </volume> <pages> 213-222, </pages> <year> 1984. </year>
+Reference-contexts: We now define the following two subsets of T u <ref> [5] </ref>: Def A (X) = ft 2 T u: for all t 0 2 T u if t A t 0 then t 0 2 Xg P os A (X) = ft 2 T u: there is a t 0 2 T u such that t A t 0 and t <p> The results of our investigation are essentially interpretations as well as extensions of results in <ref> [5] </ref> but in the domain of relational databases. The formalism proposed in this paper is based on the two operators with respect to a set of attributes.
+Reference: [6] <author> Z. </author> <title> Pawlak. </title> <journal> Information systems theoretical foundations. Information Systems, </journal> <volume> 6 </volume> <pages> 205-218, </pages> <year> 1981. </year>
+Reference-contexts: The domain of attributes EmpId, Grade and Salary are fE1, E2, ...g, fGA, GB, GCg and positive integers, respectively. Notationally, a table T is a structure of the form <ref> [6] </ref> T = hT u; At; fD a g a2At ; fv at g a2At;t2T u i where T u is a set of tuples, At is a set of attributes, D a is the domain of attribute a and v at is the value of tuple t at the attribute
+References-found: 6
+

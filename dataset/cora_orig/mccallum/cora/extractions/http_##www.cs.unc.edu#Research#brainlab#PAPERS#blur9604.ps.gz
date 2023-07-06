@@ -1,0 +1,35 @@
+URL: http://www.cs.unc.edu/Research/brainlab/PAPERS/blur9604.ps.gz
+Refering-URL: http://www.cs.unc.edu/Research/brainlab/
+Root-URL: http://www.cs.unc.edu
+Email: marshall@cs.unc.edu)  
+Phone: 919-962-1887, fax 919-962-1799,  
+Title: bdJournal of the Optical Society of America A, 13:681-688, April 1996ce Occlusion edge blur: A
+Author: Jonathan A. Marshall, Christina A. Burbeck, Dan Ariely, Jannick P. Rolland, and Kevin E. Martin 
+Note: (Correspondence to: Dr. Jonathan A. Marshall  
+Address: Chapel Hill, NC 27599, U.S.A.  
+Affiliation: Departments of Computer Science, CB 3175, and Psychology, CB 3270, University of North Carolina,  
+Abstract: We studied whether the blur/sharpness of an occlusion boundary between a sharply focused surface and a blurred surface is used as a relative depth cue. Observers judged relative depth in pairs of images that differed only in the blurriness of the common boundary between two adjoining texture regions, one blurred and one sharply focused. Two experiments were conducted; in both, observers consistently used the blur of the boundary as a cue to relative depth. However, the strength of the cue, relative to other cues, varied across observers. The occlusion edge blur cue can resolve the near/far ambiguity inherent in depth-from-focus computations. 
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> V. Bruce and P.R. Green, </author> <title> Visual Perception: Physiology, Psychology, and Ecology, </title> <publisher> 2nd edition (Lawrence Erlbaum Associates, </publisher> <address> Hillsdale, NJ, </address> <year> 1990). </year>
+Reference: 2. <author> L.R. Wanger, J.A. Ferwerda, </author> <title> and D.P. Greenberg, "Perceiving spatial relationships in computer-generated images," </title> <journal> IEEE Computer Graphics & Applications, </journal> <volume> 11, </volume> <month> 44-58 (May </month> <year> 1992). </year>
+Reference: 3. <author> A.P. Pentland, </author> <title> "The focal gradient: </title> <journal> Optics ecologically salient," Investigative Ophthalmology and Visual Science 26, </journal> <volume> Supplement, </volume> <month> 243 </month> <year> (1985). </year>
+Reference: 4. <author> P. Grossman, </author> <title> "Depth from focus," </title> <journal> Pattern Recognition Letters 5, </journal> <month> 63-69 </month> <year> (1987). </year>
+Reference: 5. <author> K. Nakayama, S. Shimojo, and G.H. Silverman, </author> <title> "Stereoscopic depth: Its relation to image segmentation, grouping, and the recognition of occluded objects," </title> <booktitle> Perception 18, </booktitle> <month> 55-68 </month> <year> (1989). </year>
+Reference: 6. <author> M.S. Landy, L.T. Maloney, E.B. Johnston, and M. Young, </author> <title> "Measurement and modeling of depth cue combination: In defense of weak fusion," </title> <booktitle> Vision Research 35, </booktitle> <month> 389-412 </month> <year> (1995). </year>
+Reference: 7. <author> V. Klymenko and N. Weisstein, </author> <title> "Spatial frequency differences can determine figure-ground organization," Journal of Experimental Psychology: </title> <booktitle> Human Perception and Performance 12, </booktitle> <month> 324-330 </month> <year> (1986). </year>
+Reference: 8. <author> N. Weisstein and E. Wong, </author> <title> "Figure-ground organization and the spatial and temporal responses of the visual system," in Pattern Recognition by Humans and Machines: Visual Perception 2, E.C. </title> <editor> Schwab and H.C. Nusbaum, eds. </editor> <publisher> (Academic Press, </publisher> <address> Orlando, FL, </address> <year> 1986), </year> <pages> pp. 31-64. </pages>
+Reference: 9. <author> E. Wong and N. Weisstein, </author> <title> "Sharp targets are detected better against a figure and blurred targets are detected better against a ground," Journal of Experimental Psychology: </title> <booktitle> Human Perception and Performance 9, </booktitle> <month> 194-202 </month> <year> (1983). </year>
+Reference: 10. <author> E. Wong and N. Weisstein, </author> <title> "The effects of perceived figure and ground on the orientation discrimination of sharp and blurred targets," </title> <booktitle> Perception 13 (1984). </booktitle>
+Reference: 11. <author> E. Rubin, </author> <title> "Figure and ground," </title> <note> reprinted in Readings in perception, D.C. </note> <editor> Beardslee and M. Wertheimer, eds. </editor> <publisher> (Van Nostrand, </publisher> <address> Princeton, NJ, </address> <year> 1958), </year> <pages> pp. </pages> <month> 194-203 </month> <year> (1921). </year>
+Reference: 12. <author> T. Darrell and K. Wohn, </author> <title> "Pyramid based depth from focus," </title> <booktitle> IEEE International Conference on Computer Vision and Pattern Recognition (Ann Arbor, </booktitle> <address> MI, </address> <year> 1988), </year> <pages> pp. 504-509. </pages>
+Reference: 13. <author> J. Ens and P. Lawrence, </author> <title> "An investigation of methods for determining depth from focus," </title> <journal> IEEE Transactions on Pattern Analysis and Machine Intelligence, </journal> <volume> PAMI-15, </volume> <month> 97-108 </month> <year> (1993). </year>
+Reference: 14. <author> B.K.P. Horn, </author> <note> "Focusing," Artificial Intelligence Memo 160, </note> <institution> Massachusetts Institute of Technology. </institution>
+Reference: 15. <author> R.A. Jarvis, </author> <title> "A perspective on range finding techniques for computer vision," </title> <journal> IEEE Transactions on Pattern Analysis and Machine Intelligence, </journal> <volume> PAMI-5, </volume> <month> 122-139 </month> <year> (1983). </year>
+Reference: 16. <author> S.-H. Lai, C.W. Fu, and S. Chang, </author> <title> "A generalized depth estimation algorithm with a single image," </title> <journal> IEEE Transactions on Pattern Analysis and Machine Intelligence, </journal> <volume> PAMI-14, </volume> <month> 405-411 </month> <year> (1992). </year>
+Reference: 17. <author> A.P. Pentland, </author> <title> "A new sense for depth of field," </title> <journal> IEEE Transactions on Pattern Analysis and Machine Intelligence, </journal> <volume> PAMI-9, </volume> <month> 523-531 </month> <year> (1987). </year>
+Reference: 18. <author> M. Subbarao, </author> <title> "Parallel depth recovery by changing camera parameters," </title> <booktitle> Proceedings of the IEEE 2nd International Conference on Computer Vision (IEEE Computer Society Press, </booktitle> <address> Washington, DC, </address> <year> 1988), </year> <pages> pp. 149-155. </pages>
+Reference: 19. <author> M. Subbarao and N. Gurumoorthy, </author> <title> "Depth recovery from blurred edges," </title> <booktitle> IEEE International Conference on Computer Vision and Pattern Recognition (Ann Arbor, </booktitle> <address> MI, </address> <year> 1988), </year> <pages> pp. 498-503. </pages>
+Reference: 20. <author> J.A. Marshall, K.E. Martin, D. Ariely, C.A. Burbeck, and J.P. Rolland, </author> <title> "Blur attachment as a visual depth cue." </title> <journal> Investigative Ophthalmology & Visual Science, </journal> <volume> 33/4, </volume> <month> 1369 </month> <year> (1992). </year>
+References-found: 20
+

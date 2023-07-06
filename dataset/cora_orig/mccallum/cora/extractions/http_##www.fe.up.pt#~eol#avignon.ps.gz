@@ -1,0 +1,16 @@
+URL: http://www.fe.up.pt/~eol/avignon.ps.gz
+Refering-URL: http://www.fe.up.pt/~eol/
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Email: arocha-@fe.up.pt  
+Title: COOPERATION IN A MULTI-AGENT COMMUNITY  
+Author: Eugnio Oliveira, Fernando Mouta, Ana Paula Rocha -eco, mouta, 
+Keyword: Key words Distributed Artificial Intelligence, Multi-Agent Systems, Cooperating Expert Systems Category: Techniques Methods  
+Address: Rua dos Bragas, 4099 Porto Codex Portugal  
+Affiliation: Departamento de Engenharia Electrotcnica e de Computadores Faculdade de Engenharia da Universidade do Porto  
+Abstract: This paper describes a framework for cooperation suitable for being exploited in a society of cooperative distributed agents. We briefly present a tool UPShell - University of Porto Shell, which may be used to generate specific Intelligent Systems, although its main purpose is to build up a community of coarse-grain, semi-autonomous agents out either of those generated Intelligent Systems or of already preexistent Knowledge Based Systems. After selecting the agents and the machines where each agent is going to run, UPShell sets up an architecture enabling agents to communicate and cooperate. Inside each agent, a blackboard-based architecture supports a flexible control and natural integration of different modules responsible for internal activity (problem solving) as well as external activity (cooperation and communication). 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] - <author> Eugnio Oliveira, </author> <title> Rui Camacho "A Tool For Cooperating Expert Systems" Proceedings of the 1st Expert Systems World Congress Pergamon Press, </title> <booktitle> 1991 [2] - ARCHON: Architecture for Cooperative Multi-Agent Systems Editor: Thies Witig Ellis Horwood 1992 [3] - Readings in Distributed Artificial Intelligence Edited by Alan H. </booktitle> <publisher> Bond and Les Gasser Morgan Kaufmann Publishers, </publisher> <editor> 1988 [4] - N. Jennings & A. </editor> <title> Mamdani "Using Joint Responsibility to Coordinate Collaborative Problem Solving in Dynamic Environments" AAAI, </title> <address> San Jose, </address> <year> 1992 </year>
+Reference-contexts: This project aims to construct a general purpose multi-agent system architecture for industrial applications. The UPShell <ref> [1] </ref> may be used either in generation mode, by domain experts, to generate specific Intelligent Systems (IS) or, in consultation mode, to run a community of cooperative agents, enabling to deal with complex applications.
+References-found: 1
+

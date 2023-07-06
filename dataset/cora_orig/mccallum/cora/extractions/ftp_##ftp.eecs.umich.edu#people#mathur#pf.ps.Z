@@ -1,0 +1,17 @@
+URL: ftp://ftp.eecs.umich.edu/people/mathur/pf.ps.Z
+Refering-URL: http://www.eecs.umich.edu/~mathur/
+Root-URL: http://www.eecs.umich.edu
+Title: Group Communication for Large-Scale Distributed Systems over IP Multicast Networks  
+Author: Amit G. Mathur 
+Keyword: Group Communication, High Availability, Multicast, Reliability  
+Address: Ann Arbor, MI 48109-2122  
+Affiliation: Dept. of Electrical Engineering Computer Science The University of Michigan  
+Abstract: We consider the problem of providing reliable group communication support for large-scale distributed systems over IP Multicast-based networks. We observe that the semantics of a group multicast protocol are intimately related to the semantics of the shared object state that the multicast is modifying. We present a novel object-centric formulation of the group multicast problem which we refer to as the Group State Synchronization Problem (GSSP). The GSSP formulation is done at the object level and allows different objects in the mul-ticast group to have different and more appropriate reliability semantics. We present protocols for solving GSSP and for achieving the various reliability semantics. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> V. Hadzilacos and S. Toueg. </author> <title> A Modular Approach to Fault-Tolerant Broadcasts and Related Problems. </title> <type> Technical Report TR94-1425, </type> <institution> Computer Science Dept., Cornell University, </institution> <year> 1994. </year>
+Reference-contexts: This involves ensuring that the processes agree on the set of operations to be applied, and ensuring that the the operations get applied in a meaningful order. In other words, ensuring consistency of the shared state involves reliable delivery of updates and ordering of updates <ref> [1, 2, 3] </ref>. In this paper we focus on the reliability problem, results from our earlier work on ordering [3] can be easily integrated with this work.
+Reference: [2] <author> R. W. Hall, A. G. Mathur, F. Jahanian, A. Prakash, and C. Rasmussen. </author> <month> Corona: </month>
+Reference-contexts: This involves ensuring that the processes agree on the set of operations to be applied, and ensuring that the the operations get applied in a meaningful order. In other words, ensuring consistency of the shared state involves reliable delivery of updates and ordering of updates <ref> [1, 2, 3] </ref>. In this paper we focus on the reliability problem, results from our earlier work on ordering [3] can be easily integrated with this work. <p> For example, in a group editor application, the shared document requires strong reliability semantics, while shared state associated with the interface, such as scroll-bars, tele-pointer's etc., require weaker forms of reliability <ref> [2] </ref>. We present a novel object-centric formulation of the group communication problem, which we refer to as the Group State Synchronization Problem (GSSP). The GSSP formulation is done at the object level and allows different objects in the multicast group to have different and more appropriate reliability semantics.
+References-found: 2
+

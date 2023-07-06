@@ -1,0 +1,16 @@
+URL: http://www.cs.umn.edu/Users/pub/NetBSD/misc/lite2-docs/smm/11.timedop.ps.gz
+Refering-URL: http://www.cs.umn.edu/Users/pub/NetBSD/misc/lite2-docs/smm/
+Root-URL: http://www.cs.umn.edu
+Title: Timed Installation and Operation Guide  
+Author: Riccardo Gusella, Stefano Zatti, James M. Bloom Kirk Smith 
+Address: Berkeley, CA 94720  West Lafayette, IN 47906  
+Affiliation: Computer Systems Research Group Computer Science Division Department of Electrical Engineering and Computer Science University of California, Berkeley  Engineering Computer Network Department of Electrical Engineering Purdue University  
+Abstract-found: 0
+Intro-found: 1
+Reference: 1. <author> R. Gusella and S. Zatti, TEMPO: </author> <title> A Network Time Controller for Distributed Berkeley UNIX System, </title> <booktitle> USENIX Summer Conference Proceedings, </booktitle> <address> Salt Lake City, </address> <month> June </month> <year> 1984. </year>
+Reference: 2. <author> R. Gusella and S. Zatti, </author> <title> Clock Synchronization in a Local Area Network, </title> <institution> University of California, Berkeley, </institution> <type> Technical Report, </type> <note> to appear. </note>
+Reference: 3. <author> R. Gusella and S. Zatti, </author> <title> An Election Algorithm for a Distributed Clock Synchronization Program, </title> <institution> University of California, Berkeley, </institution> <type> CS Technical Report #275, </type> <month> Dec. </month> <year> 1985. </year>
+Reference: 4. <author> R. Gusella and S. Zatti, </author> <title> The Berkeley UNIX 4.3BSD Time Synchronization Protocol, UNIX Programmer's Manual, 4.3 Berkeley Software Distribution, Volume 2c. </title>
+Reference-contexts: The algorithms implemented by the service is based on a master-slave scheme. The time daemons communicate with each other using the Time Synchronization Protocol (TSP) which is built on the DARPA UDP protocol and described in detail in <ref> [4] </ref>. A time daemon has a twofold function. First, it supports the synchronization of the clocks of the various hosts in a local area network. Second, it starts (or takes part in) the election that occurs among slave time daemons when, for any reason, the master disappears.
+References-found: 4
+

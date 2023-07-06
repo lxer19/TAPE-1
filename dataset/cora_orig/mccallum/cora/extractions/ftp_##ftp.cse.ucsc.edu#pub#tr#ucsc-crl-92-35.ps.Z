@@ -1,0 +1,29 @@
+URL: ftp://ftp.cse.ucsc.edu/pub/tr/ucsc-crl-92-35.ps.Z
+Refering-URL: ftp://ftp.cse.ucsc.edu/pub/tr/README.html
+Root-URL: http://www.cse.ucsc.edu
+Title: 46 Generalized delaunay triangulation for planar graphs. The all nearest neighbor problem for convex polygons.
+Author: [LL] D. T. Lee and A. K. Lin. D. T. Lee and F. P. Preparata. D. T. Lee and B. J. Schachter. [PS] F. P. Preparata and M. I. Shamos. C. C. Young and D. T. Lee. Jianming Zhou, Keran Shao, Keding Zhou, and Qionghua Zhan. 
+Date: October 1975.  245, August 1978.  April 1979.  26(2), march 1990.  
+Address: 9(3):219-242, 1980.  
+Affiliation: of Computer and Information Sciences,  
+Note: Discrete Computational Geometry, (1):201-217, 1986. [LP78]  pages 189-192, June 1978. [LS80]  International Journal  Computational Geometry. Springer-Verlag, New York, 1985. [SH75] M. I. Shamos and D. Hoey. Closest point problems. In Proceedings of the 16th IEEE Symposium on Foundations of the Computer Science, pages 151-162,  [Sib78] R. Sibson. Locally equiangular triangulations. The Computer Journal, 21(3):243  [YL79]  [ZSZZ90]  Transactions on Magnetics,  
+Pubnum: 8:193-194,  
+Abstract-found: 0
+Intro-found: 1
+Reference: [BEG90] <author> Marshall Bern, David Eppstein, and John Gilbert. </author> <title> Provably good mesh generation. </title> <booktitle> In Proc. 31st IEEE Symposium Foundations of Computer Science, </booktitle> <pages> pages 231-241, </pages> <year> 1990. </year>
+Reference: [Che89] <author> L. Paul Chew. </author> <title> Constrained delaunay triangulations. </title> <journal> Algorithmica, </journal> (4):97-108, 1989. 
+Reference: [CT76] <author> D. Cheriton and R. E. Tarjan. </author> <title> Finding minimum spanning trees. </title> <journal> SIAM J. Comput., </journal> <pages> pages 724-742, </pages> <month> December </month> <year> 1976. </year>
+Reference: [DD82] <author> Pierre A. Devijver and Michel Dekesel. </author> <title> Insert and delete algorithms for maintaining dynamic delaunay triangulations. </title> <journal> Pattern Recognition Letters, </journal> <volume> 1(2) </volume> <pages> 73-77, </pages> <month> December </month> <year> 1982. </year>
+Reference: [Dwy87] <author> Rex A. Dwyer. </author> <title> A fast divide-and-conquer algorithm for constructing delaunay triangulations. </title> <journal> Algorithmica, </journal> (2):137-151, 1987. 
+Reference: [FB74] <author> R. A. Finkel and J. L. Bentley. </author> <title> Quad trees a data structure for retrieval on composite keys. </title> <journal> Acta Informatica, </journal> <volume> 4 </volume> <pages> 1-9, </pages> <year> 1974. </year>
+Reference: [FFP85] <author> L. De Floriani, B. Falcidieno, and C. Pienovi. </author> <title> Delaunay-based representation of surfaces defined over arbitrarily shaped domains. COMPUTER VISION, GRAPHICS, </title> <booktitle> AND IMAGE PROCESSING, </booktitle> <pages> pages 127-140, </pages> <year> 1985. </year>
+Reference: [FP88] <author> Leila De Floriani and Enrico Puppo. </author> <title> Constrained delaunay triangulation for mul-tiresolution surface description. </title> <booktitle> In International Conference on Pattern Recognition, </booktitle> <pages> pages 566-569, </pages> <month> November </month> <year> 1988. </year>
+Reference: [Fri72] <author> I. Fried. </author> <title> Condition of finite element metrics generated from nonuniform meshes. </title> <journal> AIAA Journal, </journal> <volume> 10 </volume> <pages> 219-221, </pages> <year> 1972. </year>
+Reference: [GKS90] <author> L. J. Guibas, D. E. Knuth, and M. Sharir. </author> <title> Randomized incremental construction of delaunay and voronoi diagrams. </title> <booktitle> In Proceedings of 17th International Colloq. - Automata, Languages, and Programming, </booktitle> <volume> number 443, </volume> <pages> pages 414-431. </pages> <publisher> Springer-Verlag LNCS, </publisher> <year> 1990. </year>
+Reference: [GS78] <author> P. J. Green and R. Sibson. </author> <title> Computing dirichlet tessellations in the plane. </title> <journal> The Computer Journal, </journal> <volume> 21(2) </volume> <pages> 168-173, </pages> <month> May </month> <year> 1978. </year>
+Reference: [GS85] <author> Leonidas Guibas and Jorge Stolfi. </author> <title> Primitives for the manipulation of general subdivisions and the computation of voronoi diagrams. </title> <journal> ACM Transactions on Graphics, </journal> <volume> 4(2) </volume> <pages> 74-123, </pages> <month> April </month> <year> 1985. </year>
+Reference: [KG89] <author> J. Mark Keil and Carl A. Gutwin. </author> <title> The delaunay triangulation closely approximates the complete euclidean graph. </title> <booktitle> Springer-Verlag Lecture Notes on Computer Science, </booktitle> <volume> 382 </volume> <pages> 47-56, </pages> <year> 1989. </year>
+Reference: [Law77] <author> C. L. Lawson. </author> <title> Software for c 1 surface interpolation. </title> <booktitle> Mathematical Software III, </booktitle> <year> 1977. </year>
+
+References-found: 14
+

@@ -1,0 +1,22 @@
+URL: ftp://info.mcs.anl.gov/pub/tech_reports/reports/TM137.ps.Z
+Refering-URL: http://www.mcs.anl.gov/publications/abstracts/abstracts91.htm
+Root-URL: http://www.mcs.anl.gov
+Title: A Portable Run-Time System for PCN  
+Author: by Ian Foster and Steve Tuecke 
+Note: This work was supported by the Applied Mathematical Sciences subprogram of the Office of Energy Research, U.S. Department of Energy, under Contract W-31-109-Eng-38.  
+Date: 1  December 1991  
+Address: 9700 South Cass Avenue Argonne, IL 60439  
+Affiliation: ARGONNE NATIONAL LABORATORY  Mathematics and Computer Science Division  
+Pubnum: ANL/MCS-TM-137, Revision  Technical Memorandum No. 137, Revision 1  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> Chandy, M., and Taylor, S. </author> <title> The composition of parallel programs, </title> <booktitle> Proc. Supercomputing 89, </booktitle> <address> Reno, </address> <year> 1989. </year>
+Reference-contexts: 1 Introduction This report describes a run-time system to support Program Composition Notation (PCN), a high-level concurrent programming notation <ref> [1] </ref>. The run-time system is described in terms of an abstract machine. An abstract machine for a programming notation implements its computational model.
+Reference: [2] <author> Cohen, J. </author> <title> Garbage collection of linked data structures, </title> <journal> Computing Surveys, </journal> <volume> 13(3), </volume> <pages> 341-367, </pages> <year> 1981. </year>
+Reference-contexts: The garbage collector employed in the PCM has a global and a local component. The global component supports asynchronous garbage collection: that is, it permits individual processors to reclaim inaccessible storage independently [3]. The local component employs a stop and copy algorithm <ref> [2] </ref>. 1.3 Instruction Set The PCM instruction set is summarized in Appendix A. <p> The global algorithm is based on that described in [3]. Many PCN processes iterate over lists. The iterative aspect of program behavior may result in a high proportion of useless verses useful data. It is thus beneficial to base the local algorithm on a stop-and-copy method <ref> [2] </ref>. Hence, the heap at each processor is organized as two semi-spaces: oldspace and newspace.
+Reference: [3] <author> Foster, I. </author> <title> A multicomputer garbage collector for a single-assignment language, </title> <journal> International Journal of Parallel Programming, </journal> <volume> 19(6), </volume> <year> 1989. </year>
+Reference-contexts: However, a garbage collector is required in the general case. The garbage collector employed in the PCM has a global and a local component. The global component supports asynchronous garbage collection: that is, it permits individual processors to reclaim inaccessible storage independently <ref> [3] </ref>. The local component employs a stop and copy algorithm [2]. 1.3 Instruction Set The PCM instruction set is summarized in Appendix A. <p> The global component permits individual processors to reclaim inaccessible storage independently. In many situations, this can reduce both garbage collection overhead and real-time delays resulting from garbage collection. The global algorithm is based on that described in <ref> [3] </ref>. Many PCN processes iterate over lists. The iterative aspect of program behavior may result in a high proportion of useless verses useful data. It is thus beneficial to base the local algorithm on a stop-and-copy method [2].
+Reference: [4] <author> Weng, K., </author> <title> An abstract implementation for a generalized data flow language. </title> <institution> MIT Laboratory for Computer Science TR-228, </institution> <year> 1980. </year> <month> 35 </month>
+Reference-contexts: Garbage collection causes accessible structures in the oldspace to be copied to the newspace; the two semi-spaces then exchange roles. 27 RREF X' ORT - w2 5.1 Global Collection The global component of the garbage collector uses an extended reference counting algorithm (first described in <ref> [4] </ref>) to determine when memory cells accessed by remote references can be reclaimed. This algorithm can maintain reference counts in a multicomputer with substantially less communication than conventional reference counting. It associates weights with both interprocessor references and referenced objects.
+References-found: 4
+

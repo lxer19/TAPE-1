@@ -1,0 +1,22 @@
+URL: ftp://ftp.cs.dartmouth.edu/TR/TR98-341.ps.Z
+Refering-URL: http://www.cs.dartmouth.edu/reports/abstracts/TR98-341/
+Root-URL: http://www.cs.dartmouth.edu
+Email: matthew.p.carter.98@alum.dartmouth.org, jaa@cs.dartmouth.edu  
+Title: Boosting a Simple Weak Learner For Classifying Handwritten Digits a strong PAC learner can be
+Author: Matthew P. Carter 
+Degree: Senior Honors Thesis (Advisor: Javed A. Aslam)  
+Note: Schapire has constructively proved that  
+Date: June 5, 1998  
+Address: Hanover, NH 03755  
+Affiliation: Department of Computer Science Dartmouth College  
+Pubnum: Computer Science Technical Report PCS-TR98-341  
+Abstract: A weak PAC learner is one which takes labeled training examples and produces a classifier which can label test examples more accurately than random guessing. A strong learner (also known as a PAC learner), on the other hand, is one which takes labeled training examples and produces a classifier which can label test examples arbitrarily accurately. Our research attempts to solve the problem of learning a multi-valued function and then boosting the performance of this learner. We implemented the AdaBoost.M2 boosting algorithm. We developed a problem-general weak learning algorithm, capable of running under AdaBoost.M2, for learning a multi-valued function of uniform length bit sequences. We applied our learning algorithms to the problem of classifying handwritten digits. For training and testing data, we used the MNIST dataset. Our experiments demonstrate the underlying weak learner's ability to achieve a fairly low error rate on the testing data, as well as the boosting algorithm's ability to reduce the error rate of the weak learner.
+Abstract-found: 1
+Intro-found: 1
+Reference: [Asl95] <author> Javed A. Aslam. </author> <title> Noise Tolerant Algorithms for Learning and Searching. </title> <type> PhD thesis, </type> <institution> Department of Electrical Engineering and Computer Science, Massachusetts Institute of Technology, </institution> <month> February </month> <year> 1995. </year>
+Reference-contexts: i and not j. 1.3.2 Pseudocode nb = number of bits in an example nl = number of possible labels 1 Aslam showed that a PAC learning algorithm can be boosted in the presence of noise if it can learn via querying an oracle for statistics about the training data <ref> [Asl95] </ref>.
+Reference: [FS97] <author> Yoav Freund and Robert E. Schapire. </author> <title> A decision-theoretic generalization of on-line learning and an application to boosting. </title> <journal> Journal of Computer Science and System Sciences, </journal> <volume> 55(1) </volume> <pages> 119-139, </pages> <year> 1997. </year>
+Reference: [Sch90] <author> Robert E. Schapire. </author> <title> The strength of weak learnability. </title> <journal> Machine Learning, </journal> <volume> 5(2) </volume> <pages> 197-227, </pages> <month> June </month> <year> 1990. </year> <month> 7 </month>
+Reference-contexts: A learning algorithm conforming to the PAC specification (i.e., a strong learner) seems difficult to come by. Nevertheless, Schapire demonstrated that a boosting algorithm can generate a PAC learner from a weak learner, the specification for which has less demanding requirements <ref> [Sch90] </ref>. A weak learner is just like a normal PAC learner, except that the error rate of the hypothesis it generates need only be slightly better than that of random guessing. A boosting algorithm takes a weak learner and returns a strong learner.
+References-found: 3
+

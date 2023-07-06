@@ -1,0 +1,15 @@
+URL: ftp://ftp.cs.unm.edu/pub/pad++/spie96_html.ps.gz
+Refering-URL: http://www.cs.unm.edu/~jasons/
+Root-URL: http://www.cs.unm.edu
+Email: dvick-@cs.unm.edu  
+Title: A Zooming Web Browser  
+Author: Benjamin B. Bederson, James D. Hollan, Jason Stewart, David Rogers, Allison Druin, David Vick 
+Keyword: world-wide web, browser, information navigation, zooming, information visualization, multiscale information, animated user interface, Pad++.  
+Web: http://www.cs.unm.edu/pad++  
+Address: New Mexico Albuquerque, NM 87131 -bederson, hollan, jasons, drogers, allisond,  
+Affiliation: Computer Science Department University of  
+Abstract: The World Wide Web (WWW) is becoming increasingly important for business, education, and entertainment. Popular web browsers make access to Internet information resources relatively easy for novice users. Simply by clicking on a link, a new page of information replaces the current one on the screen. Unfortunately however, after following a number of links, people can have difficulty remembering where theyve been and navigating links they have followed. As ones collection of web pages grows and as more information of interest populates the web, effective navigation becomes an issue of fundamental importance. We are developing a prototype zooming browser to explore alternative mechanisms for navigating the WWW. Instead of having a single page visible at a time, multiple pages and the links between them are depicted on a large zoomable information surface. Pages are scaled so that the page in focus is clearly readable with connected pages shown at smaller scales to provide context. As a link is followed the new page becomes the focus and existing pages are dynamically repositioned and scaled. Layout changes are animated so that the focus page moves smoothly to the center of the display surface while contextual information provided by linked pages scales down. While our browser supports multiscale representations of existing HTML pages, we have also extended HTML to support multi-scale layout within a page. This extension, Multi-Scale Markup Language (MSML), is at an early stage of development. It currently supports inclusion within a page of variable-sized dynamic objects, graphics, and other interface mechanisms from our underlying Pad++ substrate. This provides sophisticated client-side interactions, permits annotations to be added to pages, and allows page constituents to be used as independent graphical objects. In this paper, we describe our prototype web browser and authoring facilities. We show how simple extensions to HTML can support sophisticated client-side interactions. Finally, we discuss the results of preliminary user-interface testing and evaluation. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

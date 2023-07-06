@@ -1,0 +1,15 @@
+URL: http://www.cs.jhu.edu/salzberg/glimmer-nar.ps.gz
+Refering-URL: http://www.cs.jhu.edu/salzberg/home.html
+Root-URL: 
+Phone: 2  3  4  
+Title: Microbial gene identification using interpolated Markov models  
+Author: Steven L. Salzberg ,, Arthur L. Delcher Simon Kasif and Owen White 
+Date: Received September 10, 1997; Revised and Accepted November 11, 1997  
+Address: Drive, Rockville, MD 20850, USA,  Baltimore, MD 21218, USA,  College in Maryland, Baltimore, MD 21210, USA and  Chicago, Chicago, IL 60607, USA  
+Affiliation: 1 The Institute for Genomic Research, 9712 Medical Center  Department of Computer Science, Johns Hopkins University,  Department of Computer Science, Loyola  Department of Electrical Engineering and Computer Science, University of Illinois at  
+Note: 1998 Oxford University Press544-548 Nucleic Acids Research, 1998, Vol. 26, No. 2  
+Abstract: This paper describes a new system, GLIMMER, for finding genes in microbial genomes. In a series of tests on Haemophilus influenzae, Helicobacter pylori and other complete microbial genomes, this system has proven to be very accurate at locating virtually all the genes in these sequences, outperforming previous methods. A conservative estimate based on experiments on H.pylori and H.influenzae is that the system finds &gt;97% of all genes. GLIMMER uses interpolated Markov models (IMMs) as a framework for capturing dependencies between nearby nucleotides in a DNA sequence. An IMM-based method makes predictions based on a variable context; i.e., a variable-length oligomer in a DNA sequence. The context used by GLIMMER changes depending on the local composition of the sequence. As a result, GLIMMER is more flexible and more powerful than fixed-order Markov methods, which have previously been the primary content-based technique for finding genes in microbial DNA. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

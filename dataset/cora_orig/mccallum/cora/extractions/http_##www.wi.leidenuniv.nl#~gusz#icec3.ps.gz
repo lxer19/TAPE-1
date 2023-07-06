@@ -1,0 +1,30 @@
+URL: http://www.wi.leidenuniv.nl/~gusz/icec3.ps.gz
+Refering-URL: http://www.wi.leidenuniv.nl/~gusz/
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Email: gusz@wi.leidenuniv.nl  zsofi@cs.vu.nl  
+Title: Self-adaptivity for Constraint Satisfaction: Learning Penalty Functions  
+Author: A.E. Eiben Zs. Ruttkay 
+Address: Leiden, The Netherlands  Amsterdam, The Netherlands  
+Affiliation: Department of Computer Science Leiden University  Department of Computer Science Free University  
+Abstract: Treating constrained problems with EAs is a big challange to the field. Whether one considers constrained optmization problems or constraint satisfaction problems, the presence of a fitness function (penalty function) reflecting consraint violation is essential. The definition of such a penalty function has a great impact on the GA performance, and it is therefore very important to chose it properly. In this paper we show that ad hoc setting of penalties for constraint violations can be circumvented by using self-adaptivity. We illustrate the matter on a discrete CSP, the Zebra problem, and show that the penalties learned by the GA are to a big extent independent from the applied genetic operators as well as from the initial constraint weights. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Arabas J, </author> <title> Michalewicz Z and Mulawka J 1994 GAVaPS a Genetic Algorithm with Varying Population Size Proceedings of the 1st IEEE World Conference on Evolutionary Computation (IEEE Service Center) pp 306-311 </title>
+Reference: [2] <institution> Back T 1992 Self-Adaptation in Genetic Algorithms Proceedings of the 1st ECAL eds. Varela F J and Bourgine P (MIT Press) pp 263-271 </institution>
+Reference: [3] <editor> Bowen J and Dozier G 1995 Solving Constraint Satis--faction Problems Using a Genetic/Systematic Search Hybrid That Realizes When to Quit Proceedings of the 6th ICGA ed. </editor> <publisher> Eshelman L J (Morgan Kaufmann) pp 122-129 </publisher>
+Reference: [4] <author> Corcoran A L and Wainwright R L LibGA: </author> <title> A User Friendly Workbench for Order-Based Genetic Algorithm Research 1993 Proceedings of Applied Computing: </title> <note> Sates of the Art and Practice-1993 (ACM Press) pp 111-117 </note>
+Reference: [5] <institution> Davis L 1989 Adapting Operator Probabilities in Genetic Algorithms Proceedings of the 3rd ICGA ed. </institution> <note> Schaffer J D (Morgan Kaufmann) pp 61-69 </note>
+Reference: [6] <institution> Dechter R 1990 Enhancement schemes for constraint processing: Backjumping, </institution> <note> learning, and cutset decomposition Artificial Intelligence 41 273-312 </note>
+Reference: [7] <author> Dozier G, </author> <title> Bowen J and Bahler D 1994 Solving Small and Large Constraint Satisfaction Problems Using a Heuristic-Based Microgenetic Algorithms Proceedings of the 1st IEEE World Conference on Evolutionary Computation (IEEE Service Center) pp 306-311 </title>
+Reference: [8] <editor> Eiben A E, </editor> <booktitle> Raue P-E and Ruttkay Zs 1994 Solving Constraint Satisfaction Problems Using Genetic Algorithms Proceedings of the 1st IEEE World Conference on Evolutionary Computation (IEEE Service Center) pp 542-547 </booktitle>
+Reference: [9] <author> Eiben A E, </author> <title> Raue P-E and Ruttkay Zs 1995 Constrained Problems, Practical Handbook of Genetic Algorithms ed. </title> <editor> L. </editor> <publisher> Chambers (CRC Press) pp 307-365 </publisher>
+Reference: [10] <institution> Hao J K and Dorne R 1994 An Empirical Comparison of Two Evolutionary Methods for Satisfiability Problems Proceedings of the 1st IEEE World Conference on Evolutionary Computation (IEEE Service Center) pp 450-455 </institution>
+Reference: [11] <institution> Julstrom B A 1995 What Have You Done for Me Lately? Adapting Operator Probabilities in a Steady-State Genetic Algorithm Proceedings of the 6th ICGA ed. </institution> <note> Eshelman L J (Morgan Kaufmann) pp 81-87 </note>
+Reference: [12] <institution> Michalewicz Z 1994 Genetic Algorithms + Data Structures = Evolutionary Computation (Springer-Verlag) </institution>
+Reference: [13] <institution> Michalewicz Z 1995 Genetic Algorithms, </institution> <note> Numerical Optimization and Constraints Proceedings of the 6th ICGA ed. Eshelman L J (Morgan Kaufmann) pp 98-108 </note>
+Reference: [14] <editor> Michalewicz Z and Michalewicz M 1995 Pro-Life versus Pro-Choice Strategies in Evolutionary Computation Techniques Computational Intelligence: </editor> <title> A Dynamic System Perspective eds. </title> <institution> Palaniswami M At-tikiouzel Y Marks R J Fogel D and Fukuda T (IEEE Press) pp 137-151 </institution>
+Reference: [15] <editor> Paredis J 1994 Co-evolutionary Constraint Satisfaction Proceedings of the 3rd PPSN ed. Davidor Y, Schwefel H.-P. </editor> <booktitle> and Manner R (Sprigner-Verlag, </booktitle> <pages> LNCS 966) pp 46-55 </pages>
+Reference: [16] <institution> Richardson J T Palmer M R Liepins G and Hilliard M 1989 Some Guidelines for Genetic Algorithms with Penalty Functions Proceedings of the 3rd ICGA ed. </institution> <note> Schaffer J D (Morgan Kaufmann) pp 191-197 </note>
+Reference: [17] <institution> White T and Oppacher F 1994 Adaptive Crossover Using Automata Proceedings of the 3rd PPSN ed. Davi-dor Y, Schwefel H.-P. and Manner R (Sprigner-Verlag, </institution> <note> LNCS 966) pp 229-238 </note>
+References-found: 17
+

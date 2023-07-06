@@ -1,0 +1,26 @@
+URL: http://www.cs.uoregon.edu/~chundhau/research/lensusab.ps.Z
+Refering-URL: http://www.cs.uoregon.edu/~chundhau/research/writings.html
+Root-URL: http://www.cs.uoregon.edu
+Title: Exploring the Potential for Conversational Analysis in the Evaluation of Interactive Algorithm Visualization Systems  
+Author: Christopher Hundhausen 
+Date: June, 1993  
+Address: Eugene, OR 97403  
+Affiliation: Department of Computer Information Science University of Oregon  
+Abstract-found: 0
+Intro-found: 1
+Reference: <author> Baecker, R.M, & Sherman, R.M. </author> <year> (1981). </year> <title> Sorting out sorting. 16mm color sound film shown at SIGGRAPH 81 (Dallas, </title> <address> TX). </address>
+Reference: <author> Douglas, S.A. </author> <year> (1993). </year> <title> Using Conversational Analysis to Discover Breakdown in the Design of User Interfaces. </title> <booktitle> Proc. CSCW Workshop on Ethnographic Methods and Design. </booktitle>
+Reference: <author> Goodwin, C. </author> <year> (1981). </year> <title> Conversational organization: Interaction between speakers and hearers. </title> <address> New York: </address> <publisher> Academic Press. </publisher>
+Reference: <author> Hundhausen, C.D. </author> <year> (1993). </year> <title> Subverting the comparative research paradigm: The potential for ethnometh-odology in evaluating the effects of algorithm visualization on learning. </title> <type> Unpublished seminar paper, </type> <institution> Department of Computer and Information Science, University of Oregon. </institution>
+Reference: <author> Miyake, N. </author> <year> (1986). </year> <title> Constructive interaction and the iterative process of understanding. </title> <booktitle> Cognitive Science 10 , 151177. </booktitle>
+Reference: <author> Mukherjea, S., & Stasko, J.T. </author> <year> (1993). </year> <title> Applying algorithm animation techniques for program tracing, debugging, </title> <booktitle> and understanding. Proc. 15th IEEE International Conference on Software Engineering (Baltimore, </booktitle> <address> MD), </address> <month> 456465. </month>
+Reference: <author> Naps, </author> <title> T.L, </title> & <address> Hundhausen, C.D. </address> <year> (1991). </year> <title> The evolution of an algorithm visualization system. </title> <booktitle> Proc. 24th Annual Small college Computing Symposium (Morris, MN), </booktitle> <pages> 259-263. </pages>
+Reference: <author> Roschelle, J. </author> <year> (1990). </year> <title> Designing for conversations. </title> <booktitle> In Proceedings of the AAAI Symposium on Knowledge-Based Environments for Learning and Teaching (Stanford, </booktitle> <address> CA). </address>
+Reference: <author> Stasko, J., Badre, A., & Lewis, C. </author> <year> (1993). </year> <title> Do algorithm animations assist learning? An empirical study and analysis. </title> <booktitle> Proceedings of the INTERCHI 93 Conference on Human Factors in Computing Systems (Amsterdam, The Netherlands), </booktitle> <pages> 6166. </pages>
+Reference: <author> Stasko, J.T. </author> <year> (1990). </year> <title> Tango: a framework and system for algorithm animation. </title> <journal> IEEE Computer (September), </journal> <pages> 27-39. </pages>
+Reference: <author> Strauss, A. </author> <year> (1987). </year> <title> Qualitative analysis for social scientists. </title> <publisher> Cambridge: Cambridge University Press. </publisher>
+Reference: <author> Suchman, L. </author> <year> (1987). </year> <title> Plans and situated actions: The problem of humanmachine communication . Cambridge, </title> <address> MA: </address> <publisher> Cambridge University Press. </publisher>
+Reference-contexts: Second, as advocated by Douglas (1993), we wanted to use CA as a tool for identifying and remedying problems with the Lens user interface, especially with respect to the two serious forms of Suchmanian <ref> (Suchman 1987) </ref> breakdown: the false alarm , and the garden path ; in doing so, we hoped to provide the Lens designers at Georgia Tech (Sougata Mukherjea and John Stasko) with a constructive review of their system, which could then be considered in the design of a new, improved version.
+
+References-found: 12
+

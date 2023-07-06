@@ -1,0 +1,13 @@
+URL: http://www.cs.unc.edu/~wynn/pubs/Dagstuhl97/dagstuhl_pic.ps.gz
+Refering-URL: http://www.cs.unc.edu/~wynn/pubs/
+Root-URL: http://www.cs.unc.edu
+Title: Frame rates, number of rendered polygons, and error for the San Fran-cisco Bay data set.
+Date: 1 13,654 10.45  
+Note: Table 3.1.  1000 ft  
+Pubnum: 10 934 25.8  
+Abstract: 3.3 Results 23 The statistics and images we provide in this section are based on our implementation executed on a 250 Mhz SGI Indigo 2 IMPACT workstation with 128 megabytes of RAM. The images were generated at a resolution of 640 fi 640 pixels. Table 3.1 provides the results of adaptive rendering performed on a digital elevation model of the San Francisco Bay. This data set is comprised of 1.44 million zones (1200 fi 1200). The table lists the number of zones that were extracted from the hierarchy and rendered (using Gouraud shading) at various frame rates. In the pseudo-color rendered images a scale from blue to green to red is used to indicate function values. The scale for the San Francisco Bay images is shown in Fig. 3.9. The relative error measure that we use in this table is the maximum deviation between the rendered polygons representing a hierarchical zone and the actual data. Figures 3.11 through 3.14 show the images produced at the given frame rates and the corresponding surrogate meshes. Figure 3.15 shows an image of a magnified portion of the data rendered at one frame per second. The number of zones chosen from the hierarchy is 7,956 and the associated error is 2.05%. 
+Abstract-found: 1
+Intro-found: 0
+Reference: <author> 3.1 G. P. Bonneau, S. Hahmann, and G. M. Nielson. BLaC-wavelets: </author> <title> A multireso-lution analysis with non-nested spaces. </title> <editor> In R. Yagel and G.M. Nielson, editors, </editor> <booktitle> Visualization '96, </booktitle> <pages> pages 43-48. </pages> <publisher> IEEE Computer Society Press, </publisher> <year> 1996. </year> <editor> 3.2 A. Certain, J. Popovic, T. Derose, T. Duchamp, D. Salesin, and W. Stuet-zle. </editor> <title> Interactive multiresolution surface viewing. </title> <booktitle> In SIGGRAPH 96 Conference Proceedings, </booktitle> <pages> pages 91-97. </pages> <note> ACM SIGGRAPH, 1996. </note> <author> 3.3 P. Cignoni, L. De Floriani, C. Montani, E. Puppo, and R. Scopigno. </author> <title> Multireso-lution modeling and visualization of volume data based on simplicial complexes. </title>
+References-found: 1
+

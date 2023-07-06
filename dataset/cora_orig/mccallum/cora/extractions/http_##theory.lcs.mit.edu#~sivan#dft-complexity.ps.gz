@@ -1,0 +1,17 @@
+URL: http://theory.lcs.mit.edu/~sivan/dft-complexity.ps.gz
+Refering-URL: http://theory.lcs.mit.edu/~sivan/papers.html
+Root-URL: 
+Email: Email: sivan@theory.lcs.mit.edu  
+Phone: Phone: (617) 253-4103 FAX: (617) 253-0415  
+Title: On the Communication Complexity of the Discrete Fourier Transform  
+Author: Sivan Toledo 
+Note: SPL EDICS Classification: SPL.SP.2.2 This research was supported in part by ARPA under Grant N00014-94-1-0985.  
+Address: 545 Technology Square Cambridge, Massachusetts 02139  
+Affiliation: Laboratory for Computer Science Massachusetts Institute of Technology  
+Abstract: The communication complexity of a linear transformation is the number of scalars which must be transferred between two processors, each of which holds half the input vector in order to perform the transformation such that each processor holds half the output vector. This note shows that the communication complexity of the the discrete Fourier transform of size n is at most n=2. That is, given a suitable partition of the input and output vectors, only n=4 complex numbers must be sent in each direction. In contrast, FFT algorithms transfer at least n=2 complex numbers in each direction. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Charles Van Loan, </author> <title> Computational Frameworks for the Fast Fourier Transform, </title> <publisher> SIAM, </publisher> <address> Philadelphia, </address> <year> 1992. </year>
+Reference: [2] <author> G.H. Golub and C.F. Van Loan, </author> <title> Matrix Computations, 2nd Edition, </title> <publisher> Johns Hopkins University Press, </publisher> <address> Baltimore, </address> <year> 1989. </year>
+References-found: 2
+

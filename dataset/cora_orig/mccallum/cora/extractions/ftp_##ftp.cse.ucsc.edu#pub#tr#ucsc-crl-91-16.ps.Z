@@ -1,0 +1,18 @@
+URL: ftp://ftp.cse.ucsc.edu/pub/tr/ucsc-crl-91-16.ps.Z
+Refering-URL: ftp://ftp.cse.ucsc.edu/pub/tr/README.html
+Root-URL: http://www.cse.ucsc.edu
+Title: [9] Tracy Larrabee. Efficient generation of test patterns using Boolean Difference. In Proceedings of International
+Author: [] Kuen-Jong Lee and Melvin [] W. Maly, P.K. Nag, and P. Nigh. [] W. Maly and P. Nigh. [] W. Mao, R.K. Gulati, D.K. Goel, and M.D. Ciletti. QUIETEST: A.K. Pramanick and S.M. Reddy. [] J.P. Shen, W. Maly, and F.J. Ferguson. [] J.M. Soden, R.K. Treece, M.R. Taylor, and C.F. Hawkins. H. Walker and S.W. Director. VLASIC: 
+Note: Proceedings of International Conference on Computer-Aided Design, pages 344-347. IEEE,  In Proceedings of International Conference on Computer-Aided Design, pages 280-283. IEEE, 1990. [14] E.J. McCluskey and F. Buelow. IC quality and test transparancy. In Proceedings of Interna tional Test Conference, pages 295-301. IEEE, 1988. [15]  In Proceedings of International Test Conference, pages 423 430. IEEE, 1989.  Bell System Technical Journal, 57(5):1449-1474, May-June 1978. [19]  of International Conference on Computer-Aided Design, November 1985. 15  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> John M. Acken. </author> <title> Deriving Accurate Fault Models. </title> <type> PhD thesis, </type> <institution> Stanford University, Department of Electrical Engineering, </institution> <month> September </month> <year> 1988. </year>
+Reference: [2] <author> F. Brglez and H. Fujiwara. </author> <title> A neutral netlist of 10 combinational benchmark circuits and a target translator in fortran. </title> <booktitle> In Proceedings of the IEEE International Symposium on Circuits and Systems, </booktitle> <year> 1985. </year>
+Reference: [3] <author> E. Eichelberger and T. Williams. </author> <title> A logic design structure for LSI testability. </title> <booktitle> In Proceedings of the 14th Design Automation Conference. IEEE, </booktitle> <year> 1977. </year>
+Reference: [4] <author> F. Joel Ferguson and John P. Shen. </author> <title> A CMOS fault extractor for inductive fault analysis. </title> <journal> IEEE Transactions on Computer-Aided Design, </journal> <volume> 7(11) </volume> <pages> 1181-1194, </pages> <month> November </month> <year> 1988. </year>
+Reference: [5] <author> C.F. Hawkins and J.M. Soden. </author> <title> Reliability and electrical properties of gate oxide shorts in CMOS ICs. </title> <booktitle> In Proceedings of International Test Conference, </booktitle> <pages> pages 443-451. </pages> <publisher> IEEE, </publisher> <year> 1986. </year>
+Reference: [6] <author> Charles F Hawkins, Jerry M Soden, Ron R Fritzemeier, and Luther K Horning. </author> <title> Quiescent power supply current measurement for CMOS IC defect detection. </title> <journal> IEEE Transactions On Industrial Electronics, </journal> <month> May </month> <year> 1989. </year>
+Reference: [7] <author> Dennis V. Heinbuch. </author> <title> CMOS3 Cell Library. </title> <publisher> Addison-Wesley Publishing Company, </publisher> <year> 1988. </year>
+
+References-found: 7
+

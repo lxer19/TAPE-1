@@ -1,0 +1,25 @@
+URL: http://http.icsi.berkeley.edu/ftp/global/pub/ai/jurafsky/acl95-fst.ps.Z
+Refering-URL: http://http.icsi.berkeley.edu/ftp/global/pub/ai/jurafsky/
+Root-URL: http://http.icsi.berkeley.edu
+Email: fgildea,jurafskyg@icsi.berkeley.edu  
+Title: Automatic Induction of Finite State Transducers for Simple Phonological Rules  
+Author: Daniel Gildea and Daniel Jurafsky 
+Address: Berkeley  
+Affiliation: International Computer Science Institute and University of California at  
+Note: To appear in ACL-95  
+Abstract: This paper presents a method for learning phonological rules from sample pairs of underlying and surface forms, without negative evidence. The learned rules are represented as finite state transducers that accept underlying forms as input and generate surface forms as output. The algorithm for learning them is an extension of the OSTIA algorithm for learning general subsequential finite state transducers. Although OSTIA is capable of learning arbitrary s.f.s.t's in the limit, large dictionaries of actual English pronunciations did not give enough samples to correctly induce phonological rules. We then augmented OSTIA with two kinds of knowledge specific to natural language phonology, biases from universal grammar. One bias is that underlying phones are often realized as phonetically similar or identical surface phones. The other biases phonological rules to apply across natural phonological classes. The additions helped in learning more compact, accurate, and general transducers than the unmodified OSTIA algorithm. An implementation of the algorithm successfully learns a number of English postlexical rules. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> JOHNSON, C. DOUGLAS. </author> <year> 1972. </year> <title> Formal Aspects of Phonological Description. The Hague: </title> <publisher> Mouton. </publisher>
+Reference: <author> JOHNSON, MARK. </author> <year> 1984. </year> <title> A discovery procedure for certain phonological rules. </title> <booktitle> In Proceedings of the Tenth International Conference on Computational Linguistics, </booktitle> <pages> 344-347, </pages> <publisher> Stanford. </publisher>
+Reference: <author> KARTTUNEN, LAURI. </author> <year> 1993. </year> <title> Finite-state constraints. In The Last Phonological Rule, </title> <editor> ed. by John Goldsmith. </editor> <publisher> University of Chicago Press. </publisher>
+Reference-contexts: This means that finite state transducers can be used to represent phonological rules, greatly simplifying the problem of parsing the output of phonological rules in order to obtain the underlying, lexical forms <ref> (Karttunen 1993) </ref>. In this paper we explore another consequence of FST models of phonological rules: their weaker generative capacity also makes them easier to learn. We describe our preliminary algorithm for learning rules from sample pairs of input and output strings, and the results we obtained.
+Reference: <author> MITCHELL, TOM M. </author> <year> 1981. </year> <title> Generalization as search. </title> <booktitle> In Readings in Artificial Intelligence, </booktitle> <editor> ed. by Bon-nie Lynn Webber & Nils J. Nilsson, </editor> <address> 517-542. Los Altos: </address> <publisher> Morgan Kaufmann. </publisher>
+Reference: <author> ONCINA, JOS E, PEDRO GARC IA, & ENRIQUE VIDAL. </author> <year> 1993. </year> <title> Learning subsequential transducers for pattern recognition tasks. </title> <journal> IEEE Transactions on Pattern Analysis and Machine Intelligence 15.448-458. </journal>
+Reference: <author> RILEY, MICHAEL D. </author> <year> 1991. </year> <title> A statistical model for generating pronunciation networks. </title> <booktitle> In IEEE ICASSP-91, </booktitle> <pages> 737-740. </pages>
+Reference: <author> STOLCKE, ANDREAS, & STEPHEN OMOHUNDRO. </author> <year> 1994. </year> <title> Best-first model merging for hidden Markov model induction. </title> <type> Technical Report TR-94-003, </type> <institution> International Computer Science Institute, Berkeley, </institution> <address> CA. </address>
+Reference: <author> TOURETZKY, DAVID S., GILLETTE ELVGREN III, & DEIRDRE W. WHEELER. </author> <year> 1990. </year> <title> Phonological rule induction: An architectural solution. </title> <booktitle> In Proceedings of the 12th Annual Conference of the Cognitive Science Society (COGSCI-90), </booktitle> <pages> 348-355. </pages>
+Reference: <author> WAGNER, R. A., & M. J. FISCHER. </author> <year> 1974. </year> <title> The string-to-string correction problem. </title> <journal> Journal of the Association for Computation Machinery 21.168-173. </journal>
+Reference: <author> WITHGOTT, M. M., & F. R. CHEN. </author> <year> 1993. </year> <title> Computation Models of American Speech. Center for the Study of Language and Information. </title> <type> 7 </type>
+References-found: 10
+

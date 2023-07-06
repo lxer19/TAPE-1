@@ -1,0 +1,14 @@
+URL: ftp://ftp.cs.unc.edu/pub/users/dewan/papers/tour.ps.Z
+Refering-URL: http://www.cs.unc.edu/~dewan/res.html
+Root-URL: http://www.cs.unc.edu
+Title: A Tour of the Suite User Interface Software  
+Author: PRASUN DEWAN 
+Keyword: General Terms: Design, Human Factors, Languages Additional Key Words and Phrases: groupware, inheritance, distributed objects, persistence, structure editors, user interface management systems  
+Note: 3333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333  
+Address: 3333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333  
+Affiliation: Purdue University  
+Abstract: Suite offers high-level abstractions for developing both single-user and multi-user interfaces. An interactive application in Suite displays data structures to one or more users and asynchronously responds to user modifications to these data structures. Between each application and user is a dialogue manager, which offers the user an interface for manipulating displayed data. Dialogue managers and applications execute in separate address spaces, residing possibly on different computers, such as local workstations and remote hosts. Users and applications can customize several aspects of the user interface including how data are displayed, the kind of feedback given in response to user input, and how changes made by multiple users to a data structure are synchronized. An inheritance model offering both structural and type inheritance is provided for easing the task of customizing user interfaces. Typing is considered orthogonal to persistence, communication, and input/output, that is, a value of any type can be made persistent, communicated among applications, and input from and output to users. In this paper, we take the reader on a tour of the software, highlighting its distinguishing features. Categories and Subject Descriptors: C.2.4 [Computer-Communication Networks]: Distributed Systemsdistributed applications, distributed databases; D.2.2 [Software Engineering]: Tools and Techniquesuser interfaces; D.2.6 [Software Engineering]: Programming Environments interactive; D.3.3 [Programming Languages]: Language Constructsinput/output; D.4.7 [Operating Systems]: Organization and Designdistributed systems; H.1.2 [Models and Principles]: User/Machine Systemshuman factors; H.4.1 [Information Systems Applications]: Office Automation; I.7.2 [Text Processing]: Text Editing 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

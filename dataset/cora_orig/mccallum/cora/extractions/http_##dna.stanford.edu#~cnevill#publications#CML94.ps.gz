@@ -1,0 +1,25 @@
+URL: http://dna.stanford.edu/~cnevill/publications/CML94.ps.gz
+Refering-URL: http://dna.stanford.edu/~cnevill/resume.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Email: Email: bmcqueen@waikato.ac.nz  
+Title: The WEKA machine learning workbench: Its application to a real world agricultural database  
+Author: Robert J. McQueen, Donna L. Neal, Rhys DeWar, Stephen R. Garner and Craig G. Nevill-Manning 
+Address: Hamilton, New Zealand.  
+Affiliation: Department of Computer Science, University of Waikato,  
+Abstract-found: 0
+Intro-found: 1
+Reference: <author> Cheeseman, P., Kelly, J., Self, M., Stutz, J., Taylor, W., & Freeman, D. </author> <year> (1988). </year> <title> AUTOCLASS: A Bayesian classification system. </title> <booktitle> Proceedings of the Fifth International Conference on Machine Learning (pp. </booktitle> <pages> 54-64). </pages> <address> Ann Arbor, MI: </address> <publisher> Morgan Kaufmann. </publisher>
+Reference: <author> Murthy, S.K., Kasif, S., Salzberg, S., & Beigel, R. </author> <year> (1993). </year> <title> OC1: Randomized Induction of Decision Trees. </title> <booktitle> Proceedings of the Eleventh National Conference on Artificial Intelligence (pp. </booktitle> <pages> 322-327). </pages>
+Reference: <institution> Washington, </institution> <address> D.C. </address>
+Reference: <author> Fisher, D. </author> <year> (1987). </year> <title> Knowledge Acquisition Via Incremental Conceptual Clustering. </title> <journal> Machine Learning, </journal> <volume> 2, </volume> <pages> (pp. 139-172). </pages>
+Reference: <author> Quinlan, J.R. C4.5: </author> <title> Programs for Machine Learning, </title> <publisher> Morgan Kaufmann 1992. </publisher>
+Reference-contexts: This reduced the number of schemes which were effective when used on this data set. Next to C4.5, the next most useful scheme was FOIL <ref> (Quinlan 1992) </ref>, which produces rules in the form of Horn clauses. The rules produced by FOIL were very similar to those produced by C4.5, including the removal of old or low-producing animals, and retention of high producers and young animals (Figure 4).
+Reference: <author> Cendrowska, J. </author> <title> (1987) An algorithm for inducing modular rules. </title> <journal> Int. J of Man-Machine Studies, </journal> <volume> Vol. 27, No 4, </volume> <pages> (pp. 349-370) Gaines, </pages> <booktitle> B.R. (1991) The tradeoff between knowledge and data in knowledge acquisition in knowledge discovery in databases, </booktitle> <pages> (pp. 491-505), </pages> <publisher> AAAI Press Mooney, </publisher> <editor> R.J. </editor> <title> (1992) Encouraging Experimental Results on Learning CNF, </title> <type> Technical Report, </type> <institution> University of Texas. </institution>
+Reference: <author> Ousterhout, J. K., </author> <title> Tcl and Tk toolkit, </title> <publisher> Addison-Wesley, </publisher> <year> 1994. </year>
+Reference-contexts: Mooney (1992) Prism DNF rule generator Cendrowska (1987) Induct Improved Prism Gaines (1991) FOIL First-order inductive learner Quinlan (1990), Quinlan (1991), Quinlan et al. (1993), Cameron -Jones et al. (1993) Table 1: Machine Learning schemes currently included in the WEKA workbench The WEKA user interface was implemented using T K/TCL <ref> (Ousterhout 1994) </ref>, providing portability and rapid prototyping. The main panel of the workbench is shown in Figure 1. On the left is the file name and other information about the current data set.
+Reference: <author> Quinlan, J.R. </author> <year> (1990), </year> <title> Learning Logical Definitions from Relations, </title> <booktitle> Machine Learning 5, </booktitle> <pages> 239-266. </pages>
+Reference: <author> Quinlan, J.R. </author> <year> (1991), </year> <title> Determinate Literals in Inductive Logic Programming, </title> <booktitle> Proceedings 12th International Joint Conference on Artificial Intelligence, </booktitle> <pages> 746-750, </pages> <publisher> Morgan Kaufmann. </publisher>
+Reference: <author> Quinlan, J.R. and Cameron-Jones, R.M. </author> <year> (1993), </year> <title> FOIL: a midterm report, 3-20, </title> <booktitle> Proceedings European Conference on Machine Learning, </booktitle> <publisher> Springer Verlag. </publisher>
+Reference: <author> Cameron-Jones, R.M. and Quinlan, J.R. </author> <year> (1993), </year> <title> Avoiding Pitfalls When Learning Recursive Theories, </title> <booktitle> Proceedings IJCAI 93, </booktitle> <pages> 1050-1055, </pages> <publisher> Morgan Kaufmann. </publisher>
+References-found: 11
+

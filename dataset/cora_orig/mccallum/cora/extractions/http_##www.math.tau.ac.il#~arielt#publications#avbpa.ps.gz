@@ -1,0 +1,27 @@
+URL: http://www.math.tau.ac.il/~arielt/publications/avbpa.ps.gz
+Refering-URL: http://www.math.tau.ac.il/~nin/research.html
+Root-URL: 
+Email: farielt,hezy,ning@math.tau.ac.il  
+Title: Face Detection by Direct Convexity Estimation  
+Author: Ariel Tankus, Hezy Yeshurun and Nathan Intrator 
+Address: Ramat-Aviv 69978, Israel  
+Affiliation: Department of Computer Science Tel-Aviv University  
+Abstract: We suggest a novel attentional mechanism for detection of smooth convex and concave objects based on direct processing of intensity values. The operator detects the regions of the eyes and hair in a facial image, and thus allows us to infer the face location and scale. Our operator is robust to variations in illumination, scale, and face orientation. Invariance to a large family of functions, serving for lighting improvement in images, is proved. An extensive comparison with edge based methods is delineated.
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> M.C. Burl, T.K. Leung, P. Perona. </author> <title> Face Localization via Shape Statistics, </title> <booktitle> Proc. of the Intl. Workshop on Auto. Face- and Gesture-Recognition, </booktitle> <address> Zurich, </address> <year> 1995. </year>
+Reference-contexts: is defined by: arctan (y; x) = 8 &gt; &gt; &gt; : arctan ( y arctan ( y arctan ( y x ) ; if x &lt; 0 ; y &lt; 0 and the one dimensional arctan (t) denotes the inverse function of tan (t) so that: arctan (t) : <ref> [1; 1] </ref> 7! fi 2 ; fl . The attentional mechanism is simply the derivative of the argument map with respect to the y-direction: @ @y (x; y) [G (x) D (y)] fl (x; y).
+Reference: 2. <author> Y. Dai, Y. Nakano. </author> <title> Extraction of Facial Images from Complex Background Using Color Information and SGLD Matrices, </title> <booktitle> Proc. of the Intl. Workshop on Auto. </booktitle> <address> Face-and Gesture-Recognition, Zurich, </address> <year> 1995. </year>
+Reference: 3. <author> H.P. Graf, T. Chen, E. Petajan, E. Cosatto. </author> <title> Locating Faces and Facial Parts, </title> <booktitle> Proc. of the Intl. Workshop on Auto. Face- and Gesture-Recognition, </booktitle> <address> Zurich, </address> <year> 1995. </year>
+Reference-contexts: These variations lead to strong edges, which distract edge-based methods from the subject. Y-Phase does not react strongly to sharp changes, but rather, to gradual changes of intensity of the kind exhibited by the eyes and hair. (see also <ref> [3] </ref>). 3. Robustness to Lighting: In Fig. 5 (c), the background is better lit than the subject. Y-Phase detects the subject, while edge methods, the background. The improvement of the image by the logarithm (Fig. 5 (d)) makes edge based methods too detect the subject.
+Reference: 4. <author> A. Jacquin, A. Eleftheriadis. </author> <title> Automatic Location Tracking of Faces and Facial Features in Video Sequences, </title> <booktitle> Proc. of the Intl. Workshop on Auto. Face- and Gesture-Recognition, </booktitle> <address> Zurich, </address> <year> 1995. </year>
+Reference-contexts: 1 Introduction Edge detection was, so far, the core of most state of the art techniques for attentional mechanisms as well as face detection (see <ref> [4] </ref>, [6]). This excludes some recent works which utilize neural networks ([9],[7]), color histograms ([2],[8]), or shape statistics ([1],[5]) for face detection.
+Reference: 5. <author> B. Moghaddam, A. Pentland. </author> <title> Maximum Likelihood Detection of Face and Hands, </title> <booktitle> Proc. of the Intl. Workshop on Auto. Face- and Gesture-Recognition, </booktitle> <address> Zurich, </address> <year> 1995. </year>
+Reference: 6. <author> D. Reisfeld, H. Wolfson, Y. Yeshurun. </author> <title> Context Free Operators: The Generalized Symmetry Transform, </title> <journal> Intl. Journal of Computer Vision, </journal> <volume> Vol. 14, </volume> <year> 1995. </year>
+Reference-contexts: 1 Introduction Edge detection was, so far, the core of most state of the art techniques for attentional mechanisms as well as face detection (see [4], <ref> [6] </ref>). This excludes some recent works which utilize neural networks ([9],[7]), color histograms ([2],[8]), or shape statistics ([1],[5]) for face detection.
+Reference: 7. <author> H.A. Rowley, S. Baluja, T. Kanade. </author> <title> Human Face Detection in Visual Scenes, will appear in: </title> <booktitle> Advances in Neural Information Processing Systems 8. </booktitle>
+Reference: 8. <author> B. Schiele, A. Waibel. </author> <title> Gaze Tracking Based on Face-Color, </title> <booktitle> Proc. of the Intl. Workshop on Auto. Face- and Gesture-Recognition, </booktitle> <address> Zurich, </address> <year> 1995. </year>
+Reference: 9. <author> K-K. Sung, T. Poggio. </author> <title> Example-Based Learning for View-Based Human Face Detection, </title> <booktitle> in Proc. from Image Understanding Workshop, </booktitle> <address> Monterey, CA, </address> <month> Nov. </month> <year> 1994. </year>
+
+References-found: 9
+

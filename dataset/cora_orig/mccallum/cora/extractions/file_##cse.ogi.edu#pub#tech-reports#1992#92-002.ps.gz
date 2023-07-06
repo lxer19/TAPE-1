@@ -1,0 +1,38 @@
+URL: file://cse.ogi.edu/pub/tech-reports/1992/92-002.ps.gz
+Refering-URL: http://www.cse.ogi.edu/DISC/projects/ereq/papers/maier-papers.html
+Root-URL: http://www.cse.ogi.edu
+Title: Design and implementation of et++, a seamless object-oriented application framework. Structured Programming, 2:1-25, 1989.  
+Author: A. Weinand, E. Gamma, and R. Marty. [ZM] S. B. Zdonik and D. Maier, 
+Date: 25  
+Address: San Mateo, CA, 1990.  
+Affiliation: Kauffman,  
+Note: [WGM89]  editors. Readings in Object-oriented Database Systems. Morgan  
+Abstract-found: 0
+Intro-found: 0
+Reference: [Bel83] <author> J. L. Bell. </author> <title> Data Structures for Scientific Simulation Programs. </title> <type> PhD thesis, </type> <institution> University of Colorado, Boulder, CO, </institution> <year> 1983. </year>
+Reference: [Bel88] <author> J. L. Bell. </author> <title> A specialized data management system for parallel execution of particle physics codes. </title> <booktitle> In Proceedings ACM SIGMOD, </booktitle> <volume> volume 18, </volume> <pages> pages 277-285. </pages> <publisher> ACM, ACM Press, </publisher> <month> June </month> <year> 1988. </year>
+Reference: [Boa90] <author> Computer Science and Technology Board. </author> <title> Computing and Molecular Biology: Mapping and Interpreting Biological Information, </title> <booktitle> a CSTB Workshop. </booktitle> <address> NRC, Washington, DC, </address> <year> 1990. </year>
+Reference: [BP87] <author> J. L. Bell and G. S. Patterson, Jr. </author> <title> Data organization in large numerical computations. </title> <journal> The Journal of Supercomputing, </journal> <volume> 1 </volume> <pages> 105-136, </pages> <year> 1987. </year>
+Reference: [Bur89] <author> C. Burks. Genbank: </author> <title> Current status and future directions. </title> <type> Technical Report LA-UR-89-1154, </type> <institution> Los Alamos National Laboratory, </institution> <address> Los Alamos, NM, </address> <month> April </month> <year> 1989. </year>
+Reference: [BW90] <author> A. J. Bleasby and J. C. Wootton. </author> <title> Construction of validated, non-redundant composite protein sequence databases. </title> <journal> Protein Engineering, </journal> <volume> 3(3) </volume> <pages> 153-159, </pages> <year> 1990. </year>
+Reference: [Che90] <author> R. M. Chervin. </author> <title> High performance computing and the grand challenge of climate modeling. </title> <booktitle> Computers in Physics, </booktitle> <pages> pages 234-238, </pages> <month> May/June </month> <year> 1990. </year>
+Reference: [Cus91] <author> Judith Bayard Cushing. </author> <title> Database support for computational chemistry. </title> <type> Technical report, </type> <institution> The Oregon Graduate Institute, Beaverton, </institution> <address> OR, </address> <year> 1991. </year>
+Reference: [DF86] <author> E. R. Davidson and D. Feller. </author> <title> Basis set selection for molecular calculations. </title> <journal> Chemical Review, </journal> <volume> 86 </volume> <pages> 681-696, </pages> <year> 1986. </year>
+Reference: [Doz90] <author> J. Dozier. </author> <title> Looking ahead to EOS: The earth observing system. </title> <booktitle> Computers in Physics, </booktitle> <pages> pages 248-259, </pages> <month> May/June </month> <year> 1990. </year>
+Reference: [FB90] <author> J. W. Fickett and C. Burks. </author> <title> Development of a database for nucleotide sequences. </title> <editor> In M. S. Waterman, editor, </editor> <booktitle> Mathematical Methods for DNA Sequences, </booktitle> <pages> pages 1-35. </pages> <publisher> CRC Press, </publisher> <year> 1990. </year>
+Reference: [FBD87] <author> D. Feller, C. M. Boyle, and E. R. Davidson. </author> <title> One-electron properties of several small molecules using near Hartree-Fock limit basis sets. </title> <journal> Journal of Chemical Physics, </journal> <volume> 86(6):3424, </volume> <year> 1987. </year>
+Reference: [FD90] <author> D. Feller and E. R. Davidson. </author> <title> Basis sets for ab initio molecular orbital calculations and intermolecular interactions. </title> <editor> In K. B. Lipkowitz and D. B. Boyd, editors, </editor> <booktitle> Reviews in Computational Chemistry, </booktitle> <pages> pages 1-43. </pages> <publisher> VCH, </publisher> <address> New York, </address> <year> 1990. </year>
+Reference: [Fel91] <author> D. Feller. </author> <title> MELDFX User's Guide. </title> <institution> Molecular Science Research Center, Battelle Pacific Northwest Laboratories, Richland, WA, </institution> <month> April </month> <year> 1991. </year>
+Reference: [Gar89] <author> J. M. Thornton and S. P. Gardner. </author> <title> Protein motifs and database searching. </title> <journal> TIBS, </journal> <volume> 14 </volume> <pages> 300-304, </pages> <month> July </month> <year> 1989. </year>
+Reference: [GPKF90] <author> P. M. D. Gray, N. W. Paton, G. J. L. Kemp, and J. E. Fothergill. </author> <title> An object-oriented database for protein structure analysis. </title> <journal> Protein Engineering, </journal> <volume> 3(4) </volume> <pages> 235-243, </pages> <year> 1990. </year>
+Reference: [HS86] <author> W. D. Hillis and G. Steele, Jr. </author> <title> Data parallel algorithms. </title> <journal> CACM, </journal> <volume> 29(12) </volume> <pages> 1170-1183, </pages> <month> December </month> <year> 1986. </year>
+Reference: [LPS90] <author> S. Letovsky, R. Pecherer, and A. Shoshani. </author> <title> Scientific data management for human genome applications. In Z. Meral Ozsoyoglu, editor, </title> <journal> Data Engineering (Special Issue on SSDBMS), </journal> <volume> volume 13, </volume> <pages> page 51, </pages> <address> Wash-ington, DC, </address> <month> September </month> <year> 1990. </year> <journal> IEEE Computer Society. </journal>
+Reference: [LWS87] <author> R. H. Lathrop, T. A. Webster, and T. F. Smith. ARIADNE: </author> <title> Pattern-directed inference and hierarchical abstraction in protein structure recognition. </title> <journal> CACM, </journal> <volume> Vol 30, No 11 </volume> <pages> 909-921, </pages> <month> November </month> <year> 1987. </year>
+Reference: [Obj] <institution> Object Design, Burlington, MA. ObjectStore. </institution>
+Reference: [Olk86a] <author> F. Olken. </author> <title> Physical database support for scientific and statistical database management. </title> <type> Technical Report LBL-19940 (rev2), </type> <institution> Lawrence Berkeley Laboratories, Berkeley, </institution> <address> CA, </address> <month> May </month> <year> 1986. </year>
+Reference: [Olk86b] <author> F. Olken. </author> <title> Scientific and statistical data management research at LBL. </title> <type> Technical Report LBL-21623, </type> <institution> Lawrence Berkeley Laboratories, Berkeley, </institution> <address> CA, </address> <month> June </month> <year> 1986. </year>
+Reference: [PL88] <author> W. R. Pearson and D. J. Lipman. </author> <title> Improved tools for biological sequence comparison. </title> <booktitle> Proc. </booktitle> <institution> Natl. Acad. Sci. (U.S.), </institution> <month> 85 </month> <pages> 2444-2448, </pages> <month> April </month> <year> 1988. </year>
+Reference: [SOW84] <author> A. Shoshani, F. Olken, and H. K. T. Wong. </author> <title> Characteristics of scientific databases. </title> <booktitle> Proceedings of the Tenth International Conference on VLDB, </booktitle> <pages> pages 147-159, </pages> <month> August </month> <year> 1984. </year>
+
+References-found: 24
+

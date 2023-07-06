@@ -1,0 +1,24 @@
+URL: ftp://softlib.rice.edu/pub/CRPC-TRs/reports/CRPC-TR94495-S.ps.gz
+Refering-URL: http://www.crpc.rice.edu/CRPC/softlib/TRs_online.html
+Root-URL: 
+Title: Experiences on Data-Parallel Programming  
+Author: Terry W. Clark Reinhard von Hanxleden Ken Kennedy 
+Address: P.O. Box 1892 Houston, TX 77251-1892  
+Affiliation: Rice University  
+Note: Center for Research on Parallel Computation  
+Date: December 1994  
+Pubnum: CRPC-TR94495-S  
+Abstract-found: 0
+Intro-found: 0
+Reference: [1] <author> D. Callahan and K. Kennedy. </author> <title> Compiling programs for distributed-memory multiprocessors. </title> <journal> Journal of Supercomputing, </journal> <volume> 2 </volume> <pages> 151-169, </pages> <month> October </month> <year> 1988. </year>
+Reference: [2] <author> T. W. Clark, R. v. Hanxleden, J. A. McCammon, and L. R. Scott. </author> <title> Parallelization using spatial decomposition for molecular dynamics. </title> <booktitle> In Scalable High Performance Computing Conference, </booktitle> <address> Knoxville, TN, </address> <month> May </month> <year> 1994. </year> <note> Available via anonymous ftp from softlib.rice.edu as pub/CRPC-TRs/reports/CRPC-TR93356-S. </note>
+Reference: [3] <author> E. W. Dijkstra. </author> <title> Go to statement considered harmful. </title> <journal> Communications of the ACM, </journal> <volume> 11(3) </volume> <pages> 147-148, </pages> <month> March </month> <year> 1968. </year>
+Reference: [4] <author> G. C. Fox, S. Hiranandani, K. Kennedy, C. Koelbel, U. Kremer, C. Tseng, and M. Wu. </author> <title> Fortran D language specification. </title> <type> Technical Report TR90-141, </type> <institution> Dept. of Computer Science, Rice University, </institution> <month> December </month> <year> 1990. </year> <note> Revised April, </note> <year> 1991. </year>
+Reference: [5] <author> W. F. van Gunsteren and H. J. C. Berendsen. GROMOS: </author> <title> GROningen MOlecular Simulation software. </title> <type> Technical report, </type> <institution> Laboratory of Physical Chemistry, University of Groningen, </institution> <address> Nijenborgh, The Netherlands, </address> <year> 1988. </year>
+Reference: [6] <author> R. v. Hanxleden. </author> <title> Compiler Support for Machine-Independent Parallelization of Irregular Problems. </title> <type> PhD thesis, </type> <institution> Rice University, </institution> <month> December </month> <year> 1994. </year> <note> Available via anonymous ftp from softlib.rice.edu as pub/CRPC-TRs/reports/CRPC-TR94494-S. </note>
+Reference: [7] <author> C. Koelbel, D. Loveman, R. Schreiber, G. Steele, Jr., and M. Zosel. </author> <title> The High Performance Fortran Handbook. </title> <publisher> The MIT Press, </publisher> <address> Cambridge, MA, </address> <year> 1994. </year>
+Reference: [8] <author> L.M. Liebrock and K. Kennedy. </author> <title> Parallelization of linearized application in Fortran D. </title> <booktitle> In Proceedings of the 8th International Parallel Processing Symposium, </booktitle> <address> New York, NY, </address> <month> April </month> <year> 1994. </year>
+Reference: [9] <author> J. A. McCammon. </author> <title> Computer-aided molecular design. </title> <journal> Science, </journal> <volume> 238 </volume> <pages> 486-491, </pages> <month> October </month> <year> 1987. </year>
+Reference: [10] <author> C. Tseng. </author> <title> An Optimizing Fortran D Compiler for MIMD Distributed-Memory Machines. </title> <type> PhD thesis, </type> <institution> Rice University, </institution> <month> January </month> <year> 1993. </year> <title> an atom-based version and a charge-group-based one; However, both versions use linearized pair-list representations. </title> <type> 6 </type>
+References-found: 10
+

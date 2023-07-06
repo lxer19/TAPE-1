@@ -1,0 +1,11 @@
+URL: file://ftp.cs.utexas.edu/pub/qsim/papers/Chiu+Kuipers-raqp-92.ps.Z
+Refering-URL: http://www.cs.utexas.edu/users/qr/whats-new.html
+Root-URL: 
+Title: Comparative Analysis and Qualitative Integral Representations  
+Author: Charles Chiu Benjamin Kuipers 
+Date: December, 1991  
+Abstract: Comparative analysis is applied to a qualitative behavior of an incompletely known mechanism, to determine the effect of a given perturbation on the behavior as a whole. This class of inference is useful in diagnosis, design, planning, and generally for understanding the relations among a set of alternate qualitative behaviors. Comparative analysis depends on information which is implicit, and relatively difficult to extract, from qualitative differential equations. By introducing the definite integral as a descriptive term linking qualitative variables and their landmarks, we show that the qualitative integral representation (QIR) makes the required information easily accessible. Inspired by observations of expert physicists, we have adopted an approach to inference that allows global algebraic manipulation of the QIR. Within this approach, comparative analysis can be decomposed into a search and algebraic manipulation problems. Several detailed examples are presented to clarify our method. fl This work has taken place in the Qualitative Reasoning Group at the Artificial Intelligence Laboratory, The University of Texas at Austin. Research of the Qualitative Reasoning Group is supported in part by NSF grants IRI-8602665, IRI-8905494, and IRI-8904454, by NASA grants NAG 2-507 and NAG 9-200, and by the Texas Advanced Research Program under grant no. 003658175. An earlier version of this paper was presented at the Third Qualitative Physics Workshop, Stanford, California, August 1989. A slightly shorter version was published in Boi Faltings and Peter Struss (Eds.), Recent Advances in Qualitative Physics, MIT Press, 1992. y Physics Department and AI Laboratory, University of Texas, Austin, TX 78712. z Computer Sciences Department, University of Texas, Austin TX 78712. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

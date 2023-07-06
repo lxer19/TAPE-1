@@ -1,0 +1,25 @@
+URL: http://www.cl.cam.ac.uk:80/ftp/papers/reports/TR347-ksj-reflections-on-trec.ps.gz
+Refering-URL: http://www.cl.cam.ac.uk:80/ftp/papers/reports/
+Root-URL: 
+Email: sparckjones@cl.cam.ak.uk  
+Title: Reflections on TREC  
+Author: Karen Sparck Jones 
+Date: July 1994  
+Address: New Museums Site, Pembroke Street Cambridge CB2 3QG, England  
+Affiliation: Computer Laboratory, University of Cambridge  
+Abstract: This paper discusses the Text REtrieval Conferences (TREC) programme as a major enterprise in information retrieval research. It reviews its structure as an evaluation exercise, characterises the methods of indexing and retrieval being tested within it in terms of the approaches to system performance factors these represent; analyses the test results for solid, overall conclusions that can be drawn from them; and, in the light of the particular features of the test data, assesses TREC both for generally-applicable findings that emerge from it and for directions it offers for future research. This paper will appear in Information Processing and Management. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Bates, M. (Ed.) </author> <year> (1993). </year> <booktitle> Human language technology (Proceedings of the ARPA Workshop, 1993). </booktitle> <address> San Mateo CA: </address> <publisher> Morgan Kaufmann. </publisher>
+Reference: <author> Blair, D.C. and Maron, M.E. </author> <year> (1985). </year> <title> An evaluation of retrieval effectiveness for a full-text document-retrieval system. </title> <journal> Communications of the ACM, </journal> <volume> 28, </volume> <pages> 285-299. </pages>
+Reference: <author> Buckley, C. </author> <year> (1993). </year> <title> The importance of proper weighting methods. In Human language technology, </title> <editor> Ed. M. Bates. </editor> <address> San Mateo CA: </address> <publisher> Morgan Kaufmann. </publisher>
+Reference-contexts: This is well illustrated, for instance, by Buckley's discussion of weighting <ref> (Buckley 1993) </ref>. Moreover the classes of performance factor listed earlier are themselves informal, though familiar and to some extent hallowed by tradition.
+Reference: <author> Gallant, S.I. </author> <year> (1991). </year> <title> A practical approach for representing context and form performing word sense disambiguation using neural networks. </title> <journal> Neural Computation, </journal> <volume> 3, </volume> <pages> 293-309. </pages>
+Reference: <author> Galliers, J.R. and Sparck Jones, K. </author> <year> (1993). </year> <title> Evaluating natural language processing systems. </title> <type> Technical Report 291, </type> <institution> Computer Laboratory, University 31 of Cambridge. </institution> <note> (Gzipped copy is available from the anonymous FTP server ftp.cl.cam.ac.uk, as the file TR291-ksj-jrg-evaluating-nl-systems.ps.gz in the directory reports; the file is compressed so must be transfered in binary.) Harman, D.K. (Ed.) (1993). The First Text REtrieval Conference (TREC-1). NIST Special Publication 500-207, </note> <institution> National Institute of Standards and Technology, Gaithersburg MD. </institution>
+Reference-contexts: In terms of the analysis of system evaluation given in <ref> (Galliers and Sparck Jones 1993) </ref>, the TREC tests have a remit determining the test goal, and a design specifying gauges, data, and procedures, with remit and design together contituting the evaluation scenario.
+Reference: <author> Harman, D.K. (Ed.) </author> <year> (1994a). </year> <note> The Second Tect REtrieval Conference (TREC-2). NIST Special Publication 500-215, </note> <institution> National Institute of Standards and Technology, Gaithersburg MD. </institution>
+Reference-contexts: Also, unless specific citations are made to other publications, the references for teams' work are to their contributions to the TREC-2 Proceedings <ref> (Harman 1994a) </ref>. 3.1 Performance factors As noted, the TREC (-2) participants have pursued a whole range of approaches to indexing and retrieval. <p> The general implications of these answers, given the unusual character of the TREC requests to which they refer, are considered later. Search strategy answers Both individual teams, and different teams, obtained quite different performance per request (cf Harman in <ref> (Harman 1994a) </ref>). Y1: However uniform strategies applied across request sets gave aggregated re sults that were 'good enough'. Scoring criteria answers A few teams explored combination scoring or differential criteria applied at search time, under the headings of multiple queries or data fusion (e.g. Rutgers, HNC, VT).
+Reference: <author> Harman, D.K. </author> <year> (1994b). </year> <journal> Review of TREC, Information Processing and Management, </journal> <note> this issue. </note>
+Reference: <author> Lewis, D.D. and Sparck Jones, K. </author> <year> (1993). </year> <title> Natural language processing for information retrieval. </title> <type> Technical Report 307, </type> <institution> Computer Laboratory, University of Cambridge. </institution> <note> (To appear in Communications of the ACM.) 32 </note>
+References-found: 8
+

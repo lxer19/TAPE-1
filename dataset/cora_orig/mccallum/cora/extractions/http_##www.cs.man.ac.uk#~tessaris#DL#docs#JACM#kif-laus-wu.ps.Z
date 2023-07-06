@@ -1,0 +1,16 @@
+URL: http://www.cs.man.ac.uk/~tessaris/DL/docs/JACM/kif-laus-wu.ps.Z
+Refering-URL: http://www.cs.man.ac.uk/~tessaris/DL/papers.html
+Root-URL: http://www.cs.man.ac.uk
+Title: Logical Foundations of Object-Oriented and Frame-Based Languages  
+Author: Michael Kifer Georg Lausen James Wu 
+Keyword: Categories and Subject Descriptors: H.2.1 [Database Management]: Languages|query languages; I.2.3 [Artificial Intelligence]: Deduction and theorem proving|deduction, logic programming, non-monotonic reasoning; F.4.1 [Mathematical Logic and Formal Languages]: Mathematical logic| logic programming, mechanical theorem proving General Terms: Languages, Theory Additional Key Words and Phrases: Object-oriented programming, frame-based languages, deductive databases, logic programming, semantics, proof theory, typing, nonmonotonic inheritance  
+Address: NY 11794, U.S.A.  Freiburg, Rheinstrasse 10-12, 79104 Freiburg, Germany.  San Antonio Rd., Los Altos, CA 94022, U.S.A.  
+Affiliation: Department of Computer Science, SUNY at Stony Brook, Stony Brook,  Institut fur Informatik, Universitat  
+Note: Journal of the Association for Computing Machinery,  Work supported in part by NSF grants DCR-8603676, IRI-8903507, and CCR-9102159.  Renaissance Software, 175 S.  Work supported in part by NSF grant IRI-8903507.  
+Email: Email: kifer@cs.sunysb.edu.  Email: lausen@informatik.uni-freiburg.de  Email: wu@rs.com.  
+Date: May 1995  
+Abstract: We propose a novel formalism, called Frame Logic (abbr., F-logic), that accounts in a clean and declarative fashion for most of the structural aspects of object-oriented and frame-based languages. These features include object identity, complex objects, inheritance, polymorphic types, query methods, encapsulation, and others. In a sense, F-logic stands in the same relationship to the object-oriented paradigm as classical predicate calculus stands to relational programming. F-logic has a model-theoretic semantics and a sound and complete resolution-based proof theory. A small number of fundamental concepts that come from object-oriented programming have direct representation in F-logic; other, secondary aspects of this paradigm are easily modeled as well. The paper also discusses semantic issues pertaining to programming with a deductive object-oriented language based on a subset of F-logic. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

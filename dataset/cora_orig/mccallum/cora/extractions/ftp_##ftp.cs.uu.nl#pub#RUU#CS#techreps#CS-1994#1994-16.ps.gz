@@ -1,0 +1,26 @@
+URL: ftp://ftp.cs.uu.nl/pub/RUU/CS/techreps/CS-1994/1994-16.ps.gz
+Refering-URL: http://www.cs.ruu.nl/docs/research/publication/TechList1.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Email: strat.l+s  
+Phone: 0.001 10 100 1000 10000 strat.l 3 3 3 3 3 3 3 3 3 3 3 3 3  strat.l-r+s 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2  3 3  
+Keyword: fi fi fi fi fi fi fi fi fi fi fi fi fi fi time (ms) mean log error  time (ms) mean log error  
+Note: 3  14  
+Web: 1e-05  likelihood fi  strat.l-r+s+m  
+Abstract: Figure 9: Results for various optimizations. Figure 10: Results with and without markov boundary scoring. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> R.M. Chavez and G.F. Cooper. </author> <title> Hypermedia and randomized algorithms for medical expert systems. </title> <booktitle> Computer Methods and Programs in Biomedicine, </booktitle> <volume> 32 </volume> <pages> 5-16, </pages> <year> 1990. </year>
+Reference: [2] <author> G.F. Cooper. </author> <title> The computational complexity of probabilistic inference using Bayesian belief networks. </title> <journal> Artificial Intelligence, </journal> <volume> 42 </volume> <pages> 393-405, </pages> <year> 1990. </year>
+Reference: [3] <author> S.B. Cousins, W. Chen, and N.E. Frisse. Caben: </author> <title> A collection of algorithms for belief networks. </title> <type> Technical Report WUCS-91-25, </type> <institution> Medical Informatics Laboratory, Washington University, </institution> <address> St Louis, MO, </address> <year> 1991. </year>
+Reference: [4] <author> P. Dagum and E. Horvitz. </author> <title> A Bayesian analysis of simulation algorithms for inference in belief networks. </title> <journal> Networks, </journal> <volume> 23 </volume> <pages> 499-516, </pages> <year> 1993. </year>
+Reference: [5] <author> P. Dagum and M. Luby. </author> <title> Approximating probabilistic inference in Bayesian belief networks is NP-hard. </title> <journal> Artificial Intelligence, </journal> <volume> 60 </volume> <pages> 141-153, </pages> <year> 1993. </year>
+Reference: [6] <author> R. Fung and K. Chang. </author> <title> Weighting and intergrating evidence for stochastic simulation in Bayesian networks. </title> <booktitle> In Proceedings Uncertainty in Artificial Intelligence, </booktitle> <volume> volume 5, </volume> <pages> pages 209-219, </pages> <year> 1990. </year>
+Reference: [7] <author> L. van der Gaag. </author> <title> Evidence absorption for belief networks. </title> <type> Technical Report RUU-CS-93-35, </type> <institution> Utrecht University, Department of Computer Science, </institution> <year> 1993. </year>
+Reference: [8] <author> M. Henrion. </author> <title> Propagating uncertainty in Bayesian networks by probabilistic logic sampling. </title> <booktitle> In Proceedings Uncertainty in Artificial Intelligence, </booktitle> <pages> pages 149-163, </pages> <year> 1988. </year>
+Reference: [9] <author> S.L. Lauritzen and D.J. Spiegelhalter. </author> <title> Local computations with probabilities on graphical structures and their applications to expert systems (with discussion). </title> <journal> Journal of the Royal Statistical Society (Series B), </journal> <volume> 50 </volume> <pages> 157-224, </pages> <year> 1988. </year>
+Reference: [10] <author> J. Pearl. </author> <title> Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference. </title> <publisher> Morgan Kaufman, inc., </publisher> <address> San Mateo, CA, </address> <year> 1988. </year>
+Reference: [11] <author> J. Pearl. </author> <title> Evidential reasoning using stochastic simulation of causal models. </title> <journal> Artificial Intelligence, </journal> <volume> 32 </volume> <pages> 241-288, </pages> <year> 1992. </year>
+Reference: [12] <author> R. Shachter and M. Peot. </author> <title> Simulation approaches to general probabilistic inference on belief networks. </title> <booktitle> In Proceedings Uncertainty in Artificial Intelligence, </booktitle> <volume> volume 5, </volume> <pages> pages 221-231, </pages> <year> 1990. </year>
+
+References-found: 12
+

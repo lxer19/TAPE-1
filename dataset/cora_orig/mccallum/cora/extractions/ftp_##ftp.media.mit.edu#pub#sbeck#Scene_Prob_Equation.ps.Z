@@ -1,0 +1,18 @@
+URL: ftp://ftp.media.mit.edu/pub/sbeck/Scene_Prob_Equation.ps.Z
+Refering-URL: http://sbeck.www.media.mit.edu/people/sbeck/publications.html
+Root-URL: http://www.media.mit.edu
+Title: Formulating a scene probability equation to differentiate the effects of shape and albedo on image brightness.  
+Author: Shawn Becker 
+Address: E15-354, 20 Ames Street Cambridge, Massachusetts 02139  
+Affiliation: MIT Media Laboratory  
+Abstract-found: 0
+Intro-found: 1
+Reference: <author> Alvin W. Drake, </author> <title> Fundamentals of applied probability theory, </title> <publisher> McGraw-Hill, </publisher> <year> 1967. </year>
+Reference: <author> Arthur Gelb ed., </author> <title> Applied Optimal Estimation, </title> <publisher> The MIT Press, </publisher> <year> 1989. </year>
+Reference: <author> Richard A. Johnson et. al., </author> <title> Applied Multivariate Statistical Analysis: Second Edition, </title> <publisher> Prentice Hall, </publisher> <year> 1988. </year> <title> Berthold Klaus Paul Horn, Robot Vision, </title> <publisher> The MIT Press, </publisher> <year> 1987. </year>
+Reference: <author> James D. Foley et. al., </author> <title> Computer Graphics Principals and Practice: Second Edition, </title> <publisher> Addison-Wesley, </publisher> <year> 1992. </year>
+Reference: <author> P. Fua and Y. Leclerc, </author> <title> Object-Centered Surface Reconstruction: Combining Multi-Image Stereo and Shading, </title> <booktitle> DARPA, Image Understanding Workshop, </booktitle> <address> Washington D.C. </address> <month> April 18-21, </month> <year> 1993. </year>
+Reference: <author> Carol L. Novak and Steven A. Shafer, </author> <title> Estimating Scene Properties from Color Histograms, </title> <booktitle> DARPA, Image Understanding Workshop, </booktitle> <address> Washington D.C. </address> <month> April 18-21, </month> <note> 1993. </note> <author> Pawan Sinha & Edward Adelson, </author> <title> Recovering Reectance and Illumination in a world of painted polyhedra, MIT Media Lab, Vision and Modeling Group, </title> <type> Technical Report #199. </type>
+Reference: <author> William T. Freeman, </author> <title> Exploiting the Generic View Assumption to Estimate Scene Parameters, MIT Media Laboratory, Vision and Modeling Technical Report #196. </title>
+References-found: 7
+

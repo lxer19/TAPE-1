@@ -1,0 +1,16 @@
+URL: http://www.cs.caltech.edu/~ps/papers/deboor/polintconte.ps.Z
+Refering-URL: http://www.cs.caltech.edu/~ps/papers/deboor/
+Root-URL: http://www.cs.caltech.edu
+Title: Polynomial interpolation in several variables  
+Author: C. de Boor Carl de Boor, 
+Affiliation: University of Wisconsin-Madison  
+Abstract-found: 0
+Intro-found: 1
+Reference: <author> Chung, K. C., and T. H. </author> <title> Yao (1977), "On lattices admitting unique Lagrange interpolations", </title> <journal> SIAM J. Numer. Anal. </journal> <volume> 14, </volume> <pages> 735-741. </pages>
+Reference: <author> Dahmen, W., and C. A. </author> <title> Micchelli (1981), "On limits of multivariate B-splines", </title> <journal> J. Analyse Math. </journal> <volume> 39, </volume> <pages> 256-278. </pages>
+Reference: <author> Gasca, M., and J. I. </author> <title> Maeztu (1982), "On Lagrange and Hermite interpolation in IR k ", Numer. </title> <journal> Math. </journal> <volume> 39, </volume> <pages> 1-14. </pages>
+Reference: <author> Kergin, P. </author> <title> Interpolation of C k Functions, </title> <type> Ph.D. </type> <institution> diss., Univ. of Toronto, </institution> <month> Canada, </month> <title> (1978); published as: "A natural interpolation of C k functions." </title> <journal> J. Approx. Theory 29, </journal> <month> 278-293 </month> <year> (1980). </year>
+Reference: <author> Micchelli, C. A., and P. </author> <title> Milman (1980), "A formula for Kergin interpolation in IR k ", J. </title> <journal> Approx. Theory 29, </journal> <pages> 294-296. </pages>
+Reference: <author> Micchelli, C. A. </author> <year> (1980), </year> <title> "A constructive approach to Kergin interpolation in IR k : multivariate B-splines and Lagrange interpolation", </title> <journal> Rocky Mountain J. Math. </journal> <volume> 10, </volume> <pages> 485-497. </pages> <editor> de Boor, C., and A. </editor> <title> Ron (1990), "On multivariate polynomial interpolation", </title> <journal> Constr. Approx. </journal> <volume> 6, </volume> <pages> 287-302. </pages> <editor> de Boor, C., and A. </editor> <title> Ron (1992), "The least solution for the polynomial interpolation problem", </title> <journal> Math. Z. </journal> <volume> 210, </volume> <pages> 347-378. </pages> <editor> de Boor, C., and A. </editor> <title> Ron (1992), "Computational aspects of polynomial interpolation in several variables", </title> <journal> Math. Comp. </journal> <volume> 58, </volume> <pages> 705-727. 24 </pages>
+References-found: 6
+

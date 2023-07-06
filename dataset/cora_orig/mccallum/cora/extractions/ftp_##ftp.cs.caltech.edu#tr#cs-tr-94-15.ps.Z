@@ -1,0 +1,20 @@
+URL: ftp://ftp.cs.caltech.edu/tr/cs-tr-94-15.ps.Z
+Refering-URL: ftp://ftp.cs.caltech.edu/tr/INDEX.html
+Root-URL: http://www.cs.caltech.edu
+Title: Bibliography  Mach: A New Kernel Foundation for UNIX Development  C Threads  
+Author: [] Accetta, M., Baron, R., Bolosky, W., Golub, D., Rashid, R., Tevanian, A., Young, M. Cooper, E.C., and Draves, R.P. Silberschatz, A., Peterson, J., and Galvin, P. 
+Address: University.  
+Affiliation: School of Computer Science, Carnegie Mellon  
+Date: July, 1986.  February 1988.  
+Note: In Proceedings of Summer Usenix.  [2] Bach, M.J. The Design of the UNIX Operating System. Prentice-Hall, 1986. [3]  [4] Kernighan, B.W., and Ritchie, D.M. The C Programming Language. Prentice-Hall, 1988. [5] NeXT Computer Inc. NeXTSTEP Operating System Software. Addison-Wesley, 1992. [6]  Operating System Concepts. Addison-Wesley, 1991. 45  
+Pubnum: Technical Report CMU-CS-88-154,  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> Accetta, M., Baron, R., Bolosky, W., Golub, D., Rashid, R., Tevanian, A., Young, M. </author> <title> Mach: A New Kernel Foundation for UNIX Development In Proceedings of Summer Usenix. </title> <month> July, </month> <year> 1986. </year>
+Reference: [2] <author> Bach, M.J. </author> <title> The Design of the UNIX Operating System. </title> <publisher> Prentice-Hall, </publisher> <year> 1986. </year>
+Reference: [3] <author> Cooper, </author> <title> E.C., and Draves, </title> <type> R.P. C Threads Technical Report CMU-CS-88-154, </type> <institution> School of Computer Science, Carnegie Mellon University. </institution> <month> February </month> <year> 1988. </year>
+Reference: [4] <author> Kernighan, B.W., and Ritchie, </author> <title> D.M. The C Programming Language. </title> <publisher> Prentice-Hall, </publisher> <year> 1988. </year>
+Reference: [5] <author> NeXT Computer Inc. </author> <title> NeXTSTEP Operating System Software. </title> <publisher> Addison-Wesley, </publisher> <year> 1992. </year>
+
+References-found: 5
+

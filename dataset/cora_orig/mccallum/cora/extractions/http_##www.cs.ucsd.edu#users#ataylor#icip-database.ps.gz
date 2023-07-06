@@ -1,0 +1,21 @@
+URL: http://www.cs.ucsd.edu/users/ataylor/icip-database.ps.gz
+Refering-URL: http://www.cs.ucsd.edu/users/ataylor/icip-database.html
+Root-URL: http://www.cs.ucsd.edu
+Email: jaing@vision.ucsd.edu fmgoldbaum, sburgessg@ucsd.edu  
+Title: CONTENT-BASED RETRIEVAL OF OPHTHALMOLOGICAL IMAGES  
+Author: A. Gupta, S. Moezzi, A. Taylor, S. Chatterjee, R. Jain, M. Goldbaum, S. Burgess famarnath, moezzi, ataylor, shankar, 
+Address: La Jolla CA 92093-0407 USA  
+Affiliation: University of California, San Diego  
+Abstract: This paper describes steps towards an information system for the storage and content-based retrieval of ocular fundus images. Based on the Virage Incorporated framework for defining similarity metrics, we have developed a number of primitives for the representation of ocular fundus images. A prototype Query By Pictorial Example (QBPE) system yields similarity rankings in approximate agreement with those of a human expert. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> M. H. Goldbaum, N. P. Katz, S. Chaudhuri, M. Nel-son, and P. Kube. </author> <title> Digital image processing for ocular fundus images. </title> <journal> Ophthalmological Clinics of North America, </journal> <volume> 3 </volume> <pages> 447-466, </pages> <year> 1990. </year>
+Reference-contexts: In this paper, we describe a system which will eventually enable the content-based management of ophthalmological images of the human retina. This work is proceeding as part of the STARE (STructured Analysis of the REtina) Project at the University of California, San Diego <ref> [1] </ref>. The envisioned system will assist the user in a number of ways, allowing her to: 1. Store a large number of fundus images along with patient records, history and clinical findings in a single database. 2.
+Reference: [2] <author> Amarnath Gupta. </author> <title> Visual information retrieval technology, a Virage perspective. </title> <note> Available at http://www.virage.com/wpaper/, 1995. </note>
+Reference-contexts: Virage Incorporated has developed a framework for defining such `similarity metrics,' and our system employs this framework <ref> [2] </ref>. What we desire is a function, m, from the set of all images, I, to the nonnegative real numbers, &lt; + . This defines the distance between two images, where images separated by a small distance are relatively `similar', and images separated by a large distance are relatively dissimilar.
+Reference: [3] <author> M. H. Goldbaum, S. Moezzi, A. Taylor, S. Chatter-jee, E. Hunter, and R. Jain. </author> <title> Automated diagnosis and image understanding with object extraction, object classification, and inferencing in retinal images. </title> <booktitle> In IEEE International Conference on Image Processing, </booktitle> <month> November </month> <year> 1996. </year>
+Reference-contexts: We have implemented a means for comparing primitive values calculated from images, but we have only partially implemented the segment of the system that actually calculates these primitives from image data <ref> [3] </ref>. This portion of the system is based on segmentation and classification algorithms developed in earlier phases of the STARE Project, and we expect to be able to incorporate some amount of `automatic annotation' very soon.
+Reference: [4] <author> P. Bosc and O. Pivert. SQLf: </author> <title> A relational database language for fuzzy querying. </title> <journal> IEEE Transactions on Fuzzy Systems, </journal> <volume> 3(1) </volume> <pages> 1-17, </pages> <month> February </month> <year> 1995. </year>
+Reference-contexts: as more specific queries, such as "Retrieve all images showing both a large amount of non-circinate retinal exudate in the superior temporal medial quadrant as well as stellate maculopathy." We plan to support this type of query with some form of a fuzzy relational calculus, perhaps along the lines of <ref> [4] </ref>.
+References-found: 4
+

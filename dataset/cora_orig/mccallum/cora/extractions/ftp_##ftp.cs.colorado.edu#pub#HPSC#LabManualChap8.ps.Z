@@ -1,0 +1,13 @@
+URL: ftp://ftp.cs.colorado.edu/pub/HPSC/LabManualChap8.ps.Z
+Refering-URL: http://www.cs.colorado.edu/current/courses/materials.hpsc.html
+Root-URL: http://www.cs.colorado.edu
+Title: Lab 8 Molecular Dynamics: Chain of Atoms 8.1 Introduction  
+Note: 209  
+Abstract: The dynamic behavior of molecules is important in the study of chemical reactions, for the understanding of the scattering and absorption of electromagnetic radiation by molecules in the atmosphere, and a number of other problems. In this chapter we study some problems in this domain of computational science. We compute the motion of chains of interacting particles, or atoms, using the Hooke's Law (HL) model discussed in the tutorial book chapter "Molecular Dynamics" (also available as [Fosdick 95]): in this lab, we refer to it simply as "the tutorial". We use Euler's method to solve the equations of motion. Euler's method is discussed in the book chapter "A Review of Selected Topics from Numerical Analysis" (also available as [Fosdick & Jessup 95]), and in the tutorial. In systems involving the interactions of a number of particles, visualization of the motion provides important clues to the properties of these systems. The exercises here give you some practice in producing visualizations of the motion from the numerical solutions. We use MATLAB for producing graphs and AVS for producing animations of the motion. This chapter begins with a discussion of the notation that is used. Some of this is a review of material from the tutorial. Next we go through a set of 
+Abstract-found: 1
+Intro-found: 0
+Reference: [Fosdick & Jessup 95] <author> FOSDICK, LLOYD D. AND ELIZABETH R. JESSUP. </author> <year> [1995]. </year> <title> A review of selected topics from numerical analysis. </title> <booktitle> HPSC Course Notes. </booktitle>
+Reference-contexts: We use Euler's method to solve the equations of motion. Euler's method is discussed in the book chapter "A Review of Selected Topics from Numerical Analysis" (also available as <ref> [Fosdick & Jessup 95] </ref>), and in the tutorial. In systems involving the interactions of a number of particles, visualization of the motion provides important clues to the properties of these systems. The exercises here give you some practice in producing visualizations of the motion from the numerical solutions.
+
+References-found: 1
+

@@ -1,0 +1,26 @@
+URL: http://www.math.rutgers.edu/~sontag/FTP_DIR/sycon88-02.ps.gz
+Refering-URL: http://www.math.rutgers.edu/~sontag/papers.html
+Root-URL: 
+Email: sontag@fermat.rutgers.edu  
+Phone: (201)932-3072  
+Title: SOME REMARKS ON THE BACKPROPOGATION ALGORITHM FOR NEURAL NET LEARNING  
+Author: Eduardo D. Sontag 
+Note: Rutgers Center for Systems and Control, 1988  
+Address: New Brunswick, NJ 08903  
+Affiliation: Department of Mathematics Rutgers University  
+Abstract: Report SYCON-88-02 ABSTRACT This report contains some remarks about the backpropagation method for neural net learning. We concentrate in particular in the study of local minima of error functions and the growth of weights during learning. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [Ar87] <author> Arbib, M.A., </author> <title> Brains, Machines, and Mathematics, Second Edition, </title> <publisher> Springer, </publisher> <year> 1987. </year>
+Reference: [Hi87] <author> Hinton, G.E., </author> <title> "Connectionist learning procedures," </title> <type> Technical Report CMU-CS-87-115, </type> <institution> Comp.Sci. Dept., Carnegie-Mellon University, </institution> <month> June </month> <year> 1987. </year>
+Reference-contexts: 1 Introduction Backpropagation is probably the most popular method currently being used for neural net learning. It was introduced in the neural literature by Rumelhart and Hinton in the seminal work [PDP]. See for instance <ref> [Hi87] </ref> for an introduction and references to current work. It can be understood as an iterative gradient technique for nonlinear least squares fitting, the cost function corresponding to a clustering problem to be solved. Its study gives rise to many open mathematical problems.
+Reference: [KGV83] <author> Kirkpatrick,S., C.D.Gelatt, and M.P.Vecchi, </author> <title> "Optimization by simulated annealing," </title> <booktitle> Science 220(1983): </booktitle> <pages> 671-680. </pages>
+Reference-contexts: Conversely, if local minima do tend to appear, as our general mathematical analysis suggests, then this will have to be taken into account in learning algorithms. For instance, it is then reasonable to include stochastic relaxation techniques such as simulated annealing (see e.g. <ref> [KGV83] </ref>, [SS85]).. To understand the problem, we shall look here at the simplest possible version of backprop, that of networks with no hidden neurons and just one output neuron, with m input neurons. This is the classical perceptron, for which the full power of backprop is not really needed.
+Reference: [KH88] <author> Kung, S.Y. and J.N.Hwang, </author> <title> "An algebraic projection analysis for optimal hidden units size and learning rates in backpropagation learning," </title> <booktitle> in Proceedings of the IEEE Int'l Conf.on Neural Networks, </booktitle> <address> San Diego, </address> <year> 1988. </year>
+Reference-contexts: It may be reasonably be expected that those difficulties that arise here will of course also show up in more complicated networks. Further, it seems to be the case experimentally that in the general case, quoting <ref> [KH88] </ref>, section 2.2: 1 "When the weight values are close to the desired values, the lower layer weights are changing very slowly and can be assumed to be almost fixed..." That is, the problem then becomes one of learning with no hidden units just as considered here. 2 The minimization problem
+Reference: [PDP] <author> Rumelhart, D.E., and J.L. McClelland, </author> <title> Parallel Distributed Processing: Explorations in the Microstructure of Cognition, </title> <publisher> MIT Press, </publisher> <year> 1986, </year> <note> volume 1. </note>
+Reference-contexts: 1 Introduction Backpropagation is probably the most popular method currently being used for neural net learning. It was introduced in the neural literature by Rumelhart and Hinton in the seminal work <ref> [PDP] </ref>. See for instance [Hi87] for an introduction and references to current work. It can be understood as an iterative gradient technique for nonlinear least squares fitting, the cost function corresponding to a clustering problem to be solved. Its study gives rise to many open mathematical problems.
+Reference: [SS85] <author> Sontag, E.D., and H.J. Sussmann, </author> <title> "Image restoration and the annealing algorithm", </title> <booktitle> Proc. IEEE Conf. </booktitle> <month> Dec. </month> <note> and Control, 1985, pp.768-773. 8 </note>
+Reference-contexts: Conversely, if local minima do tend to appear, as our general mathematical analysis suggests, then this will have to be taken into account in learning algorithms. For instance, it is then reasonable to include stochastic relaxation techniques such as simulated annealing (see e.g. [KGV83], <ref> [SS85] </ref>).. To understand the problem, we shall look here at the simplest possible version of backprop, that of networks with no hidden neurons and just one output neuron, with m input neurons. This is the classical perceptron, for which the full power of backprop is not really needed.
+References-found: 6
+

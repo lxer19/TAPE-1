@@ -1,0 +1,26 @@
+URL: http://www.cs.dartmouth.edu/~jasonliu/courses/sim188/biblio/nl96.ps.gz
+Refering-URL: http://www.cs.dartmouth.edu/~jasonliu/courses/sim188/notes-15.html
+Root-URL: http://www.cs.dartmouth.edu
+Title: References [1] E.A.Brewer, C.N.Dellarocas, A.Colbrook, W.E.Weihl, PROTEUS: A High-Performance Parallel Architecture Simulator. K.Steiglitz, FAST: A
+Author: M. Haines, P. Mehotra, D. Cronk, S. Reinhardt, M. Hill, J. Larus, A. Lebeck, J. Lewis, and D. Wood. 
+Date: June 1993.  94-25, April 94.  22(1):181-190, May 1994.  May 1993.  
+Note: [3] M.D.Dikaiakos, A.Rogers, and  pages 142-146, Durham, North Carolina, 1994. IEEE Computer Society Press.  Cambridge, MA, MIT Press, 1994. [6]  Proceedings of ACM sigmetrics Conference on Measurement Modeling of Computer System,  (PADS95)), IEEE Computer Society Press, pp. 60-67. [9] H. Schwetman. CSIM A C-based, process oriented simulation language. In Proceedings of the 1986 Winter Simulation Conference, pages 387-396, 1986. [10]  In Proceedings of the 1993 ACM SIGMETRICS Conference, pages 48-60,  [11] Sun Microsystem, Inc. SunOS 5.3 Guide to Multithread Programming. 1993. 14  
+Address: Septem-ber 1991.  Princeton University,  Santa Clara, CA.,  
+Affiliation: Massachusetts Institute of Technology,  Computer and Telecommunication Systems,  Department of Computer Science,  
+Pubnum: Technical Report MIT/LCS/TR-516,  Technical Report TR-429-93,  Report  
+Abstract: 2] P.M.Dickens, P.Heidelberger, and D.M.Nicol, A Distributed Memory LAPSE: Parallel Simulation of Message-Passing Programs, In Proceedings of the 8th Workshop on Parallel and Distributed Simulation (PADS), pages 32-38, Edinburgh, Scotland 1994, Society for Computer Simulation. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> E.A.Brewer, C.N.Dellarocas, A.Colbrook, W.E.Weihl, PROTEUS: </author> <title> A High-Performance Parallel Architecture Simulator. </title> <type> Technical Report MIT/LCS/TR-516, </type> <institution> Massachusetts Institute of Technology, </institution> <month> Septem-ber </month> <year> 1991. </year>
+Reference: [2] <author> P.M.Dickens, P.Heidelberger, and D.M.Nicol, </author> <title> A Distributed Memory LAPSE: Parallel Simulation of Message-Passing Programs, </title> <booktitle> In Proceedings of the 8th Workshop on Parallel and Distributed Simulation (PADS), </booktitle> <pages> pages 32-38, </pages> <address> Edinburgh, Scotland 1994, </address> <publisher> Society for Computer Simulation. </publisher>
+Reference: [3] <author> M.D.Dikaiakos, A.Rogers, and K.Steiglitz, </author> <title> FAST: A Functional Algorithm Simulation Testbed. </title> <booktitle> In MASCOTS'94, Proceedings of the Second International Workshop on Modeling, Analysis, and Simulation of Computer and Telecommunication Systems, </booktitle> <pages> pages 142-146, </pages> <address> Durham, North Carolina, 1994. </address> <publisher> IEEE Computer Society Press. </publisher>
+Reference: [4] <author> M.D.Dikaiakos, A.Rogers, and K.Steiglitz, </author> <title> Functional Algorithm Simulation: Implementation and Experiments. </title> <type> Technical Report TR-429-93, </type> <institution> Department of Computer Science, Princeton University, </institution> <month> June </month> <year> 1993. </year>
+Reference: [5] <author> W.Gropp, E.Lusk, and A.Skjellum, </author> <title> Using MPI: Portable Parallel Programming with the Message Passing Interface. </title> <address> Cambridge, MA, </address> <publisher> MIT Press, </publisher> <year> 1994. </year>
+Reference: [6] <author> M. Haines, P. Mehotra, D. Cronk, </author> <title> On the Design of Chant: A talking threads package. </title> <type> ICASE Tech. Report 94-25, </type> <month> April 94. </month>
+Reference: [7] <author> P.Mehra, C.H.Schulbach, and J.C.Yan, </author> <title> A Comparison of Two Model-Based Performance-Prediction Techniques for Message-Passing Parallel Programs. </title> <booktitle> Proceedings of ACM sigmetrics Conference on Measurement & Modeling of Computer System, </booktitle> <volume> 22(1) </volume> <pages> 181-190, </pages> <month> May </month> <year> 1994. </year>
+Reference: [8] <author> D.M.Nicol and P.Heidelberger, </author> <title> On Extending Parallelism to Serial Simulators. </title> <booktitle> Proceedings of the 9th Workshop on Parallel and Distributed Simulation (PADS95)), </booktitle> <publisher> IEEE Computer Society Press, </publisher> <pages> pp. 60-67. </pages>
+Reference: [9] <author> H. Schwetman. CSIM : A C-based, </author> <title> process oriented simulation language. </title> <booktitle> In Proceedings of the 1986 Winter Simulation Conference, </booktitle> <pages> pages 387-396, </pages> <year> 1986. </year>
+Reference: [10] <author> S. Reinhardt, M. Hill, J. Larus, A. Lebeck, J. Lewis, and D. Wood. </author> <title> The Wisconsin Wind Tunnel: Virtual prototyping of parallel computers. </title> <booktitle> In Proceedings of the 1993 ACM SIGMETRICS Conference, </booktitle> <pages> pages 48-60, </pages> <address> Santa Clara, CA., </address> <month> May </month> <year> 1993. </year>
+
+References-found: 10
+

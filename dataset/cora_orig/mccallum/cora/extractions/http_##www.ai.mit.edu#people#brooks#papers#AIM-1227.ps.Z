@@ -1,0 +1,16 @@
+URL: http://www.ai.mit.edu/people/brooks/papers/AIM-1227.ps.Z
+Refering-URL: http://www.ai.mit.edu/people/brooks/paperlist.html
+Root-URL: 
+Title: The Behavior Language; User's Guide  
+Author: A. I. Rodney A. Brooks 
+Note: Support for this research was provided in part by the University Research Initative under Office of Naval Research contract N00014-86-K-0685, in part by the Advanced Research Projects Agency under Office of Naval Research contract N00014-85-K-0124 and in part by a gift from Siemens.  
+Date: 1227 April, 1990  
+Affiliation: MASSACHUSETTS INSTITUTE OF TECHNOLOGY ARTIFICIAL INTELLIGENCE LABORATORY  
+Pubnum: Memo  
+Abstract:  
+Abstract-found: 1
+Intro-found: 1
+Reference: [Brooks 86] <editor> "A Robust Layered Control System for a Mobile Robot", Rodney A. </editor> <title> Brooks, </title> <journal> IEEE Journal of Robotics and Automation, </journal> <volume> RA-2, </volume> <month> April, 14-23. </month> <title> [Brooks 89] "A Robot that Walks: Emergent Behavior from a Carefully Evolved Network", </title> <editor> Rodney A. Brooks, </editor> <title> Neural Computation 1:2, Summer. [Connell 89] "A Colony Architecture for an Artificial Creature", </title> <editor> Jonathan H. </editor> <title> Con-nell, </title> <type> MIT Ph.D. </type> <institution> Thesis in Electrical Engineering and Computer Science, </institution> <month> June. </month> <title> [Maes 89] "The Dynamics of Action Selection", </title> <editor> Pattie Maes, </editor> <booktitle> AAAI Spring Symposium on AI Limited Rationality, IJCAI, </booktitle> <address> Detroit, MI, </address> <month> 991|997. </month>
+Reference-contexts: 1 Introduction The subsumption architecture was described initially in <ref> [Brooks 86] </ref> and later modified in [Brooks 89] and [Connell 89]. The subsumption compiler compiles augmented finite state machine (AFSM) descriptions into a special purpose scheduler to simulate parallelism and a set of finite state machine simulation routines.
+References-found: 1
+

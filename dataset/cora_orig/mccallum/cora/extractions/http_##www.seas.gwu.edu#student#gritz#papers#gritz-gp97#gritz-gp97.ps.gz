@@ -1,0 +1,28 @@
+URL: http://www.seas.gwu.edu/student/gritz/papers/gritz-gp97/gritz-gp97.ps.gz
+Refering-URL: http://www.cs.bham.ac.uk/~wbl/biblio/gp-bibliography.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: Genetic Programming Evolution of Controllers for 3-D Character Animation animator to specify the values for
+Author: Larry Gritz James K. Hahn 
+Keyword: character animation  
+Address: 1001 W. Cutting Blvd. Richmond, CA 94804  801 22nd St. NW Washington, DC 20054  
+Affiliation: Pixar Animation Studios  The George Washington University  
+Note: Appeared in: Koza, J.R., et al. (editors), Genetic Programming 1997: Proceedings of the 2 nd Annual Conference pp. 139-146, July 13-16 1997, Stanford University. San Francisco: Morgan Kaufmann.  requires an  (specifically Genetic Programming) as a  
+Email: lg@pixar.com  hahn@seas.gwu.edu  
+Date: (1997)  
+Abstract: We use evolutionary tech niques resulting in physically plausible motion. We discuss the development of objective functions used to guide the controller
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Armstrong, William W. and Mark W. Green. </author> <year> 1985. </year> <title> The dynamics of articulated rigid bodies for purposes of animation. Visual Computer. </title> <publisher> Springer-Verlag, </publisher> <year> 1985, </year> <pages> pp. 231-240. </pages>
+Reference: <author> Gritz, Larry and James K. Hahn. </author> <year> 1995. </year> <title> Genetic Programming for Articulated Figure Motion. </title> <journal> Journal of Visualization and Computer Animation. </journal> <volume> 6(3): </volume> <pages> 129-142. </pages>
+Reference: <author> Hahn, James K. </author> <year> 1988. </year> <title> Realistic animation of rigid bodies. </title> <booktitle> Computer Graphics, 22(4) (Proceedings of SIGGRAPH 87), </booktitle> <pages> pp. 299-308. </pages>
+Reference: <author> Koza, John R. </author> <year> 1992. </year> <title> Genetic Programming: On the Programming of Computers by Means of Natural Selection . Cambridge, </title> <address> MA: </address> <publisher> MIT Press. </publisher>
+Reference: <author> Lasseter, John. </author> <year> 1987. </year> <title> Principles of traditional animation applied to 3D computer animation. </title> <booktitle> Computer Graphics, 21 (Proceedings of Siggraph 87), </booktitle> <pages> pp. 35-44. </pages>
+Reference: <author> Ngo, J. Thomas and Joe Marks. </author> <year> 1993. </year> <title> Spacetime Constraints Revisited. </title> <booktitle> Computer Graphics Proceedings, Annual Conference Series 1993 (Proceedings of SIGGRAPH 93), </booktitle> <pages> pp. 343-350. </pages> <address> Pixar. </address> <year> 1986. </year> <editor> Luxo, Jr. </editor> <booktitle> (computer animated film), </booktitle> <year> 1986. </year>
+Reference: <author> Sims, Karl. </author> <year> 1991. </year> <title> Artificial evolution for computer graphics. </title> <booktitle> Computer Graphics , 25(4) (Proceedings of SIGGRAPH 91), </booktitle> <pages> pp. 319-328. </pages>
+Reference: <author> Sims, Karl. </author> <year> 1994. </year> <title> Evolving Virtual Creatures, </title> <booktitle> Computer Graphics Proceedings, Annual Conference Series 1994 (Proceedings of SIGGRAPH 94), </booktitle> <pages> pp. 15-22. </pages>
+Reference: <author> Steele, G. </author> <year> 1984. </year> <title> Common Lisp, The Language. </title> <publisher> Digital Press. </publisher>
+Reference: <author> Thomas and Johnston. </author> <year> 1984. </year> <title> Disney Animation: The Illusion of Life, </title> <address> New York: </address> <publisher> Abbeville Press. </publisher> <editor> van de Panne, Michiel and Eugene Fiume. </editor> <booktitle> 1993. Sensor-actuator networks, Computer Graphics Proceedings, Annual Conference Series 1993 (Proceedings of SIGGRAPH 93), </booktitle> <pages> pp. 335-342. </pages>
+Reference: <author> Wilhelms, Jane. </author> <year> 1990. </year> <title> Dynamics for Computer Graphics: a Tutorial, </title> <booktitle> ACM SIGGRAPH 90 Course notes #8 (Human Figure Animation: Approaches and Applications), </booktitle> <pages> pp. 85-115. </pages>
+Reference: <author> Witkin, Andrew and Michael Kass. </author> <year> 1988. </year> <title> Spacetime Constraints, </title> <booktitle> Computer Graphics , 22(4) (Proceedings of SIGGRAPH 88), </booktitle> <pages> pp. 159-168. </pages>
+References-found: 12
+

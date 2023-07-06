@@ -1,0 +1,13 @@
+URL: http://www-lsi.upc.es/~talavera/papers/mcewen-thesis.ps.gz
+Refering-URL: http://www-lsi.upc.es/~talavera/papers.html
+Root-URL: 
+Title: ML experiments with an accuracy-efficiency trade off in unsupervised attribute prediction  
+Author: Michael McEwen 
+Note: 1996  
+Address: Kings's College Aberdeen AB24 3UE  
+Affiliation: Department of Computing Science University of Aberdeen  
+Abstract: There is a lot of attention paid to parameter setting in supervised machine learning fields. Despite ML unsupervised systems also having many parameters to set, there has not as yet been much attention focused on the subject. In this report we summarise the major types of unsupervised systems and discuss the different concept quality measures used in unsupervised systems. An automatic parameter selecting version is built using an existing unsupervised machine learning algorithm and the wrapper method of parameter selection. This system is used to explore an accuracy-efficiency trade off in unsupervised learning. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

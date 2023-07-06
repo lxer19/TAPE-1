@@ -1,0 +1,19 @@
+URL: ftp://ftp.ifad.dk/pub/papers/tphols96.ps.gz
+Refering-URL: http://www.ifad.dk/publications/publications.html
+Root-URL: 
+Email: E-mail: sten@ifad.dk  
+Title: Translating Specifications in VDM-SL to PVS  
+Author: Sten Agerholm 
+Address: Denmark,  
+Affiliation: The Institute of Applied Computer Science (IFAD), Forskerparken 10, DK-5230 Odense M,  
+Abstract: This paper presents a method for translating a subset of VDM-SL to higher order logic, more specifically the PVS specification language. This method has been used in an experiment where we have taken three existing, relatively large specifications written in VDM-SL, hand-translated these to PVS and then tried to type check the results. This is not as simple as it may sound since the specifications make extensive use of subtypes, via type invariants and pre- and postconditions, and therefore type checking necessarily involves some theorem proving. In trying to prove some of these type checking conditions, a worrying number of errors were identified in the specifications.
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> S. Agerholm. </author> <title> A HOL Basis for Reasoning about Functional Programs. </title> <type> PhD thesis, BRICS, </type> <institution> Department of Computer Science, University of Aarhus, </institution> <month> December </month> <year> 1994. </year> <note> Available as Technical Report RS-94-44. </note>
+Reference-contexts: PVS does not support identifiers enclosed in &lt; and &gt;. 2.5 Function Definitions Functions are translated directly to PVS functions. As mentioned above, we do not consider partial functions, though PVS supports partial functions via sub-types and other ways could be formalized (see e.g. <ref> [2, 1] </ref>). Polymorphic functions are not considered at the moment. Standard explicit function definitions, which are function definitions that do not have postconditions, can be translated directly to PVS, if they are not recursive. A precondition will be translated to a subtype predicate.
+Reference: 2. <author> S. Agerholm. </author> <title> LCF examples in HOL. </title> <journal> The Computer Journal, </journal> <volume> 38(2), </volume> <year> 1995. </year>
+Reference-contexts: For example, the VDM-SL map modification m ++ f 1 |-&gt; 2, 2 |-&gt; 3 g, where a map m from numbers to numbers is modified to send 1 to 2 and 2 to 3, translates to m with <ref> [ 1 |-&gt; 2, 2 |-&gt; 3 ] </ref>. 2.4 Union Types In VDM-SL, the union of two or more types corresponds to the set union of the types. <p> PVS does not support identifiers enclosed in &lt; and &gt;. 2.5 Function Definitions Functions are translated directly to PVS functions. As mentioned above, we do not consider partial functions, though PVS supports partial functions via sub-types and other ways could be formalized (see e.g. <ref> [2, 1] </ref>). Polymorphic functions are not considered at the moment. Standard explicit function definitions, which are function definitions that do not have postconditions, can be translated directly to PVS, if they are not recursive. A precondition will be translated to a subtype predicate.
+Reference: 3. <author> J. Bicarregui, J. Fitzgerald, P. Lindsay, R. Moore, and B. Ritchie. </author> <title> Proof in VDM: </title>
+Reference-contexts: For example, the VDM-SL map modification m ++ f 1 |-&gt; 2, 2 |-&gt; 3 g, where a map m from numbers to numbers is modified to send 1 to 2 and 2 to 3, translates to m with <ref> [ 1 |-&gt; 2, 2 |-&gt; 3 ] </ref>. 2.4 Union Types In VDM-SL, the union of two or more types corresponds to the set union of the types. <p> The outcome of our experiments has been that we have dropped using both HOL and PVS as the main theorem proving component of our proof support tool. Instead we intend to use Isabelle [12] to formalize the proof theory for VDM-SL <ref> [3, 11] </ref>, and perhaps support access to the facilities of HOL and PVS via Isabelle oracles.
+References-found: 3
+

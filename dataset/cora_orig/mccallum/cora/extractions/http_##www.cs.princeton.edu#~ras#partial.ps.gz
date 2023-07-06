@@ -1,0 +1,15 @@
+URL: http://www.cs.princeton.edu/~ras/partial.ps.gz
+Refering-URL: http://www.cs.princeton.edu/~ras/
+Root-URL: http://www.cs.princeton.edu
+Title: Elimination of Partial Redundancies  
+Author: Written by Preston Briggs Rewritten and extended by Rob Shillingsburg 
+Note: 0 This work has been supported by ARPA, through ONR grant N00014-91-J-1989.  
+Date: October 12, 1993  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> Karl-Heinz Drechsler and Manfred P. Stadel. </author> <title> A solution to a problem with Morel and Renvoise's "Global optimization by suppression of partial redundancies". </title> <journal> ACM Transactions on Programming Languages and Systems, </journal> <volume> 10(4) </volume> <pages> 635-640, </pages> <month> October </month> <year> 1988. </year>
+Reference-contexts: Introduction This is partial, an optimizer pass for the Massively Scalar Compiler. It consumes and produces ILOC, performing partial redundancy elimination to remove redundant and partially redundant computations. Partial redundancy elimination is described in [2] and <ref> [1] </ref>. Partially redundant computations are computations which are redundant along some execution paths and not redundant along other paths. <p> of the operation. */ Unsigned_Int numArgs; /* Total number of args for this operation. */ hCreate a new operation newOp of the proper size 36bi hCopy the fields of the operation structure 37ai newInst-&gt;next_inst = insertBefore; newInst-&gt;prev_inst = insertBefore-&gt;prev_inst; newInst-&gt;prev_inst-&gt;next_inst = newInst; insertBefore-&gt;prev_inst = newInst; newInst-&gt;operations [0] = newOp; newInst-&gt;operations <ref> [1] </ref> = NULL; -3 Macro defined by scraps 36a, 41bc, 42. Macro referenced in scrap 8a. To create the new operation, we first count the number of arguments to the operation. We know that the operation-&gt;defined is the total number of constant, referenced and defined arguments.
+Reference: [2] <author> Etienne Morel and Claude Renvoise. </author> <title> Global optimization by suppression of partial redundancies. </title> <journal> Communications of the ACM, </journal> <volume> 22(2) </volume> <pages> 96-103, </pages> <month> February </month> <year> 1979. </year> <month> 50 </month>
+Reference-contexts: Introduction This is partial, an optimizer pass for the Massively Scalar Compiler. It consumes and produces ILOC, performing partial redundancy elimination to remove redundant and partially redundant computations. Partial redundancy elimination is described in <ref> [2] </ref> and [1]. Partially redundant computations are computations which are redundant along some execution paths and not redundant along other paths. <p> The collection of local information was longer in the routines with many registers, while the updating of the code took longer in the routines with many basic blocks. 3 The insertOut data-flow set corresponds to the insert set introduced in <ref> [2] </ref>.
+References-found: 2
+

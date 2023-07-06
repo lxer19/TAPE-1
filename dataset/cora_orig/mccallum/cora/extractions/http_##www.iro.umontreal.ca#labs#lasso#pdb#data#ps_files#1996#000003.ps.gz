@@ -1,0 +1,15 @@
+URL: http://www.iro.umontreal.ca/labs/lasso/pdb/data/ps_files/1996/000003.ps.gz
+Refering-URL: http://www.iro.umontreal.ca/people/zhouz/research/project_papers.html
+Root-URL: http://www.iro.umontreal.ca
+Email: corella@hprpcd.rose.ibm.com  fzhouz,song,cernyg@iro.umontreal.ca  langevin@borneo.gmd.de  
+Title: MDG Algorithms  
+Author: F. Corella Z. Zhou X. Song M. Langevin E. Cerny Dept. d'I. R. O., 
+Address: USA,  Montreal, Canada,  GMD-SET, Germany,  
+Affiliation: Hewlett-Packard Company,  Univ. de  
+Abstract: This document provides detailed description of basic algorithms for MDG (Multi-way Decision Graph) operators, including disjunction, relational product and pruning-by-subsumption. There is no difficulty in verifying the soundness of the algorithms, except perhaps for the pruning algorithm, for which a proof of soundness is given in Section 5. The document is not self-containd. For basic concepts and informal descriptions of the algorithms, please refer to [1]. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> F. Corella, Z. Zhou, X. Song, M. Langevin, and E. Cerny. </author> <title> Multiway decision graphs for automated hardware verification. </title> <note> To appear in the journal Formal Methods in System Design. Available as IBM technical report RC19676. 18 </note>
+Reference-contexts: The top symbol of Q 1 comes after the top symbol of oe in custom order. Then recursively compute S tail = PD (oe; T ): (20) If S tail = ;, return S = ;. Otherwise return S = f <ref> [Q 1 ; 1 ] </ref>g S tail : (21) 2. The top symbol of Q 1 comes before the top symbol of oe.
+References-found: 1
+

@@ -1,0 +1,25 @@
+URL: ftp://ftp.cs.uu.nl/pub/RUU/CS/techreps/CS-1992/1992-03.ps.gz
+Refering-URL: http://www.cs.ruu.nl/docs/research/publication/TechList1.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: References On embedding graphs in the plane, Testing for the consecutive ones property, interval graphs
+Author: [] Auslander, L., and S.V. Parter, Booth, K.S., and G.S. Lueker, Chiba, N., T. Nishizeki, S. Abe and T. Ozawa, Chiba, T., I. Nishicka and I. Shirakawa, [] Di Battista, G., and R. Tamassia, [] Garey, M.R., and D.S. Johnson, [] Hopcroft, J., and R.E. Tarjan, Jayakumar, R., K. Thulasiraman and M.N.S. Swamy, Jayakumar, R., K. Thulasiraman and M.N.S. Swamy, Lempel, A., S. Even and I. Cederbaum, Ozawa, T., and H. Takahashi, 
+Address: Co., San Francisco, 1979.  
+Date: 335-379.  
+Note: J. Math. Mech. 11 (1961), pp. 517-523. [2]  J. of Computer and System Sciences 13 (1976), pp.  [4]  J. of Computer and System Sciences, Vol. 30 (1985), pp. 54-76. [5]  Proc. 1979 IEEE Intern. Symp. on Circuits and Systems, 1979, pp.  Proc. 30th Annual IEEE Symp. on Found. on Comp. Science, North Carolina, 1989, pp.  Freeman  J. ACM 21 (1974), pp. 549-568. [9]  O(n 2 algorithms for graph planarization, IEEE Trans. on Computer-aided Design, Vol. 8 (1989), pp. 257-267. [10]  Sciences, Vol. CAS-23 (1986), pp. 843-844. [11]  Int. Symp. Rome (1966), pp. 215-232. [12]  Springer-Verlag Lecture Notes in Computer Science 108 (1981), pp. 95-107. 22  
+Abstract: 3] Cai, J., X. Han and R.E. Tarjan, New solutions to four planar graph problems, Technical Report, Dept. of Computer Science, New York University/Courant Institute, 1989. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Auslander, L., and S.V. Parter, </author> <title> On embedding graphs in the plane, </title> <journal> J. Math. Mech. </journal> <volume> 11 (1961), </volume> <pages> pp. 517-523. </pages>
+Reference: [2] <author> Booth, K.S., and G.S. Lueker, </author> <title> Testing for the consecutive ones property, interval graphs and graph planarity testing using PQ-tree algorithms, </title> <editor> J. </editor> <booktitle> of Computer and System Sciences 13 (1976), </booktitle> <pages> pp. 335-379. </pages>
+Reference: [3] <author> Cai, J., X. Han and R.E. Tarjan, </author> <title> New solutions to four planar graph problems, </title> <type> Technical Report, </type> <institution> Dept. of Computer Science, New York University/Courant Institute, </institution> <year> 1989. </year>
+Reference: [4] <author> Chiba, N., T. Nishizeki, S. Abe and T. Ozawa, </author> <title> A linear algorithm for embedding planar graphs using PQ-trees, </title> <journal> J. of Computer and System Sciences, </journal> <volume> Vol. 30 (1985), </volume> <pages> pp. 54-76. </pages>
+Reference: [5] <author> Chiba, T., I. Nishicka and I. Shirakawa, </author> <title> An algorithm of maximal planarization of graphs, </title> <booktitle> Proc. 1979 IEEE Intern. Symp. on Circuits and Systems, </booktitle> <year> 1979, </year> <pages> pp. 649-652. </pages>
+Reference: [6] <author> Di Battista, G., and R. Tamassia, </author> <title> Incremental planarity testing, </title> <booktitle> Proc. 30th Annual IEEE Symp. on Found. on Comp. </booktitle> <institution> Science, North Carolina, </institution> <year> 1989, </year> <pages> pp. 436-441. </pages>
+Reference: [7] <author> Garey, </author> <title> M.R., and D.S. Johnson, Computers and Intractability: A Guide to the Theory of NP-completeness, </title> <publisher> Freeman & Co., </publisher> <address> San Francisco, </address> <year> 1979. </year>
+Reference: [8] <author> Hopcroft, J., and R.E. Tarjan, </author> <title> Efficient planarity testing, </title> <editor> J. </editor> <booktitle> ACM 21 (1974), </booktitle> <pages> pp. 549-568. </pages>
+Reference: [9] <author> Jayakumar, R., K. Thulasiraman and M.N.S. Swamy, </author> <title> O(n 2 ) algorithms for graph planarization, </title> <journal> IEEE Trans. on Computer-aided Design, </journal> <volume> Vol. 8 (1989), </volume> <pages> pp. 257-267. </pages>
+Reference: [10] <author> Jayakumar, R., K. Thulasiraman and M.N.S. Swamy, </author> <title> On Maximal Planariza-tion of non-planar graphs, </title> <journal> IEEE Trans. on Circuits and System Sciences, </journal> <volume> Vol. </volume> <month> CAS-23 </month> <year> (1986), </year> <pages> pp. 843-844. </pages>
+Reference: [11] <author> Lempel, A., S. Even and I. Cederbaum, </author> <title> An algorithm for planarity testing of graphs, Theory of Graphs, </title> <booktitle> Int. Symp. Rome (1966), </booktitle> <pages> pp. 215-232. </pages>
+
+References-found: 11
+

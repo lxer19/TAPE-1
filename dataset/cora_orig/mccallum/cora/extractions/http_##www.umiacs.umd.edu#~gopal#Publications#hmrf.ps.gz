@@ -1,0 +1,12 @@
+URL: http://www.umiacs.umd.edu/~gopal/Publications/hmrf.ps.gz
+Refering-URL: http://www.umiacs.umd.edu/users/gopal/professional.html
+Root-URL: 
+Title: Hierarchical Markov Random Field Models for Image Analysis  
+Degree: Santhana Krishnamachari, Doctor of Philosophy, 1995 Dissertation directed by: Professor Rama Chellappa  
+Affiliation: Department of Electrical Engineering  
+Note: Abstract Title of Dissertation:  
+Abstract: The focus of this dissertation is to present hierarchical Markov random field (MRF) models for image analysis. Images can be processed in a progressive manner in three different hierarchical fashions: multiple spatial resolution hierarchy, multiple frequency channel hierarchy, and multiple task analysis hierarchy. Three hierarchical models based on MRFs are presented that cover these three classes of hierarchical processing. An image at its fine resolution is modeled by a Gauss Markov random field (GMRF). A multiresolution representation for this image is obtained by progressively subsampling the image. Although GMRFs lose their Markov property under such resolution transformation, coarse resolution random fields can be effectively approximated by Markov fields. Two techniques to estimate the GMRF parameters at coarser resolutions from the fine resolution parameters, one by minimizing the Kullback-Leibler distance and another based on local conditional distribution invariance are presented. A multichannel model for GMRFs is also presented. In this model, images that are modeled by GMRFs are decomposed in a fashion similar to the wavelet decomposition, by a special family of filters that retain the Markov property on filtering. These filters along with the above multiresolution model are used 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

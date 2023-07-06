@@ -1,0 +1,39 @@
+URL: ftp://ftp.cs.purdue.edu/pub/jorg/92quad.ps.Z
+Refering-URL: http://www.cs.purdue.edu/homes/jorg/jorgs_papers.html
+Root-URL: http://www.cs.purdue.edu
+Email: jorg@cs.purdue.edu  
+Title: Smooth free-form surfaces over irregular meshes generalizing quadratic splines  
+Author: by Jorg Peters 
+Keyword: Key words: C 1 surface, vertex enclosure, reparametrization, edge cutting, box splines, NURBS, blending Running title: Smooth free-form surfaces over irregular meshes  
+Date: February 4, 1993  
+Note: Version: Feb 03 93 Date printed:  Submitted to: Proceedings of the Oberwolfach conference June 1992, J. Hoschek (ed.)  
+Abstract: An algorithm for refining a combinatorially unrestricted mesh of points into a bivariate C 1 surface is given. The algorithm generalizes the construction of quadratic splines from a mesh of control points. When the mesh is regular then a quadratic spline surface is generated. In general, an explicit parametrization of the surface with quadratic and cubic pieces is given. Irregular input meshes with non quadrilateral mesh cells and more or fewer than four cells meeting at a point are allowed. Consequently, the algorithm can model bivariate open or closed surfaces of general topological structure. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> W. </author> <title> Boehm (1983), Generating the Bezier points of triangular splines, R.E. Barnhill, </title> <publisher> W. </publisher>
+Reference: <editor> Boehm (eds.), </editor> <publisher> North Holland, </publisher> <pages> 77-91. </pages>
+Reference: <author> Boehm, W., G. Farin, J. </author> <month> Kahmann </month> <year> (1984), </year> <title> A survey of curve and surface methods in CAGD, </title> <address> CAGD 1, p. </address> <month> 43. </month>
+Reference: <author> C. W. de Boor, K. Hollig, S. </author> <title> Riemenschneider (1992), Box splines, </title> <publisher> Springer Verlag, </publisher> <address> NY, </address> <note> to appear. </note>
+Reference: <author> E. Catmull, J. </author> <title> Clark (1978), Recursively generated B-spline surfaces on arbitrary topological meshes, </title> <booktitle> Computer Aided Design 10, </booktitle> <volume> No 6: </volume> <pages> 350-355. </pages>
+Reference: <author> W. Dahmen, </author> <title> C.A. Micchelli, H.P. Seidel (199x), Blossoming begets B-splines bases built better by B-patches, </title> <journal> Math. of Computation, </journal> <note> to appear. </note>
+Reference: <author> D. </author> <month> Doo </month> <year> (1978), </year> <title> A subdivision algorithm for smoothing down irregularly shaped polyhedrons, </title> <booktitle> Proceedings on interactive techniques in computer aided design, Bologna: </booktitle> <pages> 157-165. </pages>
+Reference: <author> N. Dyn, D. Levin, D. </author> <title> Liu (1992), Interpolatory convexity preserving subdivision schemes for curves and surfaces, </title> <type> preprint. </type>
+Reference: <author> G. </author> <month> Farin </month> <year> (1990), </year> <title> Curves and surfaces for computer aided geometric design, </title> <publisher> Academic Press. </publisher>
+Reference: <author> T.N.T. </author> <title> Goodman (1988), Closed surfaces defined from biquadratic splines, </title> <note> Report AA 886 University of Dundee. </note>
+Reference: <author> J.A. </author> <title> Gregory (1974), Smooth Interpolation without Twist Constraints, </title> <booktitle> Computer Aided Geometric Design, </booktitle> <pages> 71-88, </pages> <editor> R.E. Barnhill, R.F. Riesenfeld, eds. </editor> , <publisher> Academic Press. </publisher>
+Reference: <author> J.A. </author> <title> Gregory (1990), Smooth parametric surfaces and n-sided patches, Computation of curves and Surfaces, </title> <editor> W. Dahmen, M. Gasca and C.A. Micchelli, eds., </editor> <publisher> Kluwer Academic Publishers, </publisher> <address> Dordrecht, </address> <year> 1990: </year> <pages> 457-498. </pages>
+Reference: <author> J. M. </author> <title> Hahn (1989), Filling polygonal holes with rectangular patches, Theory and Practice of geometric modeling, </title> <editor> W. Straer and H.-P. Seidel eds., </editor> <publisher> Springer 1989, </publisher> <pages> 81-91. </pages>
+Reference: <author> K. Hollig, H. </author> <month> Mogerle </month> <year> (1989), </year> <title> G-splines, </title> <booktitle> Computer Aided Geometric Design 7: </booktitle> <pages> 197-207. </pages>
+Reference: <author> C. </author> <title> Loop (1987) Smooth subdivision surfaces based on triangles, </title> <type> Master's thesis, </type> <institution> University of Utah. </institution>
+Reference: <author> C. Loop, T. </author> <title> DeRose (1990), Generalized B-spline surfaces of arbitrary topology, </title> <booktitle> Computer Graphics 24(4): </booktitle> <pages> 347-356. </pages>
+Reference: <author> C. </author> <title> Loop (1990) A G 1 triangular spline surface of arbitrary topology, </title> <type> manuscript, </type> <institution> Dept. of CS and Eng., University of Washington, </institution> <month> April </month> <year> 1990. </year>
+Reference: <author> C. T. </author> <title> Loop (1992), </title> <type> private communication, </type> <month> September 17 </month> <year> 1992. </year>
+Reference: <author> Peters J. </author> <year> (1991), </year> <title> Smooth Interpolation of a Mesh of Curves, Constructive Approximation, 7 (1991), 221-247. J Peters Smooth free-form surfaces over irregular meshes Feb 03 93 J. Peters (1992), Constructing C 1 surfaces of arbitrary topology using biquadratic and bicubic splines, </title> <month> May </month> <year> 1992, </year> <title> to appear in Designing fair curves and surfaces, </title> <editor> N. </editor> <publisher> Sapidis (ed.). </publisher>
+Reference: <author> M.J.D. </author> <title> Powell (1974), Piecewise quadratic surface fitting for contour plotting, in Software for Numerical Mathematics, D.J. </title> <editor> Evans (ed.), </editor> <publisher> Academic Press, London, </publisher> <pages> 253-271. </pages>
+Reference: <author> M. </author> <title> Sabin (1976), The use of piecewise forms for the numerical representation of shape, </title> <type> PhD thesis, </type> <institution> Hungarian Academy of Sciences, </institution> <address> Budapest, Hungary. </address>
+Reference: <author> M. </author> <title> Sabin (1983), Non-rectangular surface patches suitable for inclusion in a B-spline surface, </title> <editor> in P. ten Hagen (ed.), </editor> <booktitle> Proceedings of Eurographics '83, </booktitle> <publisher> North Holland, </publisher> <pages> 57-69. </pages>
+Reference: <author> R.F. </author> <month> Sarraga </month> <year> (1987), </year> <title> G 1 Interpolation of Generally Unrestricted Cubic Bezier curves, CAGD 4(1-2):23-40,1987 H.-P. Seidel (1991), Symmetric recursive algorithms for surfaces: B-patches and the de Boor algorithm for polynomials over triangles, </title> <journal> Constr. Approx. </journal> <volume> 7: </volume> <pages> 257-279. </pages>
+Reference: <author> J.J. van Wijk (1984), </author> <title> Bicubic patches for approximating non-rectangular control-point meshes, </title> <booktitle> Computer Aided Geometric Design 3, </booktitle> <volume> No 1: </volume> <pages> 1-13. </pages>
+Reference: <author> P.B. </author> <month> Zwart </month> <year> (1973), </year> <title> Multivariate splines with non-degenerate partitions, </title> <journal> SIAM J. Numer. Anal. </journal> <volume> 10, </volume> <pages> 665-673. 17 </pages>
+References-found: 25
+

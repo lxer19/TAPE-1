@@ -1,0 +1,42 @@
+URL: http://www.cs.columbia.edu/~shaw/papers/colingacl98.ps.gz
+Refering-URL: http://www.cs.columbia.edu/~shaw/papers/index.html
+Root-URL: http://www.cs.columbia.edu
+Email: shaw@cs.columbia.edu  
+Title: Segregatory Coordination and Ellipsis in Text Generation  
+Author: James Shaw 
+Address: New York, NY 10027, USA  
+Affiliation: Dept. of Computer Science Columbia University  
+Note: Published in Proc. of COLING-ACL, 1998.  
+Abstract: In this paper, we provide an account of how to generate sentences with coordination constructions from clause-sized semantic representations. An algorithm is developed and various examples from linguistic literature will be used to demonstrate that the algorithm does its job well. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Charles B. Callaway and James C. Lester. </author> <year> 1997. </year> <title> Dynamically improving explanations: A revision-based approach to explanation generation. </title> <booktitle> In Proc. of the 15th IJCAI, </booktitle> <pages> pages 952-958, </pages> <address> Nagoya, Japan. </address>
+Reference: <author> Bob Carpenter. </author> <year> 1998. </year> <title> Distribution, collection and quantification: A type-logical account. </title> <note> To appear in Linguistics and Philosophy. </note>
+Reference: <author> Robert Dale. </author> <year> 1992. </year> <title> Generating Referring Expressions: Constructing Descriptions in a Domain of Objects and Processes. </title> <publisher> MIT Press, </publisher> <address> Cambridge, MA. </address>
+Reference: <author> Hercules Dalianis and Eduard Hovy. </author> <year> 1993. </year> <title> Aggregation in natural language generation. </title> <booktitle> In Proc. of the 4th European Workshop on Natural Language Generation, </booktitle> <address> Pisa, Italy. </address>
+Reference: <author> Michael Elhadad. </author> <year> 1993. </year> <title> Using argumentation to control lexical choice: A functional unification-based approach. </title> <type> Ph.D. thesis, </type> <institution> Columbia University. </institution>
+Reference: <author> Lila R. Gleitman. </author> <year> 1965. </year> <title> Coordinating conjunctions in English. </title> <booktitle> Language, </booktitle> <volume> 41 </volume> <pages> 260-293. </pages>
+Reference: <author> Michael A. K. Halliday. </author> <year> 1994. </year> <title> An Introduction to Functional Grammar. </title> <publisher> Edward Arnold, </publisher> <address> London, 2nd edition. </address>
+Reference: <author> Xiaoron Huang and Armin Fiedler. </author> <year> 1996. </year> <title> Paraphrasing and aggregating argumentative text using text structure. </title> <booktitle> In Proc. of the 8th International Natural Language Generation Workshop, </booktitle> <pages> pages 21-3, </pages> <address> Sussex, UK. </address>
+Reference: <author> Ray Jackendoff. </author> <year> 1990. </year> <title> Semantic Structures. </title> <publisher> MIT Press, </publisher> <address> Cambridge, MA. </address>
+Reference: <author> Ronald M. Kaplan and Joan Bresnan. </author> <year> 1982. </year> <title> Lexical-functional grammar: A formal system for grammatical representation. In Joan Bresnan, editor, The Mental Representation of Grammatical Relations, chapter 4. </title> <publisher> MIT Press. </publisher>
+Reference: <author> Martin Kay. </author> <year> 1984. </year> <title> Functional Unification Grammar: A formalism for machine translation. </title> <booktitle> In Proc. of the 10th COLING and 22nd ACL, </booktitle> <pages> pages 75-78. </pages>
+Reference: <author> James D. McCawley. </author> <year> 1981. </year> <title> Everything that linguists have always wanted to know about logic (but were ashamed to ask). </title> <publisher> University of Chicago Press. </publisher>
+Reference: <author> Kathleen McKeown, Karen Kukich, and James Shaw. </author> <year> 1994. </year> <title> Practical issues in automatic documentation generation. </title> <booktitle> In Proc. of the 4th ACL Conference on Applied Natural Language Processing, </booktitle> <pages> pages 7-14, </pages> <address> Stuttgart. </address>
+Reference: <author> Kathleen McKeown, Shimei Pan, James Shaw, Desmond Jordan, and Barry Allen. </author> <year> 1997. </year> <title> Language generation for multimedia healthcare briefings. </title> <booktitle> In Proc. of the Fifth ACL Conf. on ANLP, </booktitle> <pages> pages 277-282. </pages>
+Reference: <author> Anneke H. Neijt. </author> <year> 1979. </year> <title> Gapping: a constribution to Sentence Grammar. </title> <publisher> Dordrecht: Foris Publications. </publisher>
+Reference: <author> Carl Pollard and Ivan Sag. </author> <year> 1994. </year> <title> Head-Driven Phrase Structure Grammar. </title> <publisher> University of Chicago Press, Chicago. </publisher>
+Reference: <author> Randolph Quirk, Sidney Greebaum, Geoffrey Leech, and Jan Svartvik. </author> <year> 1985. </year> <title> A Comprehensive Grammar of the English Language. </title> <publisher> Longman Publishers, London. </publisher>
+Reference: <author> Jacques Robin. </author> <year> 1995. </year> <title> Revision-Based Generation of Natural Language Summaries Providing Historical Background. </title> <type> Ph.D. thesis, </type> <institution> Columbia University. </institution>
+Reference: <author> John Robert Ross. </author> <year> 1967. </year> <title> Constraints on variables in syntax. </title> <type> Ph.D. thesis, </type> <institution> MIT. </institution>
+Reference: <author> Ivan A. Sag. </author> <year> 1976. </year> <title> Deletion and Logical Form. </title> <type> Ph.D. thesis, </type> <institution> MIT. </institution>
+Reference: <author> Donia R. Scott and Clarisse S. de Souza. </author> <year> 1990. </year> <title> Getting the message across in RST-based text generation. </title> <editor> In Robert Dale, Chris Mellish, and Michael Zock, editors, </editor> <booktitle> Current Research in Natural Language Generation, </booktitle> <pages> pages 47-73. </pages> <publisher> Academic Press, </publisher> <address> New York. </address>
+Reference: <author> James Shaw. </author> <year> 1995. </year> <title> Conciseness through aggregation in text generation. </title> <booktitle> In Proc. of the 33rd ACL (Student Session), </booktitle> <pages> pages 329-331. </pages>
+Reference: <author> James Shaw. </author> <year> 1998. </year> <title> Clause aggregation using linguistic knowledge. </title> <booktitle> In Proc. of the 9th International Workshop on Natural Language Generation. </booktitle>
+Reference: <author> Mark Steedman. </author> <year> 1990. </year> <title> Gapping as constituent coordination. </title> <journal> Linguistics and Philosophy, </journal> <volume> 13 </volume> <pages> 207-264. </pages>
+Reference: <author> J. H.-Y. Tai. </author> <year> 1969. </year> <title> Coordination Reduction. </title> <type> Ph.D. thesis, </type> <institution> Indiana University. </institution>
+Reference-contexts: When MOD-TIME elements are realized at the end of the clause, the same elements in MOD-TIME delete backward (i.e. the antecedent occurrence of the identical constituent disappears): "Al re-stocked coffee [on Monday,] and [Al] removed rotten milk on Monday." Our deletion algorithm is an extension to the Di-rectionality Constraint in <ref> (Tai, 1969) </ref>, which is based on syntactic structure. Instead, our algorithm uses the sequential order of the recurring element for making deletion decisions. In general, if a slot is realized at the front or medial of a clause, the recurring elements in that slot delete forward.
+Reference: <author> Robert van Oirsouw. </author> <year> 1987. </year> <title> The Syntax of Coordination. </title> <publisher> Croom Helm, Beckenham. </publisher>
+Reference: <author> Leo Wanner and Eduard Hovy. </author> <year> 1996. </year> <title> The Health-Doc sentence planner. </title> <booktitle> In Proc. of the 8th International Natural Language Generation Workshop, </booktitle> <pages> pages 1-10, </pages> <address> Sussex, UK. </address>
+References-found: 27
+

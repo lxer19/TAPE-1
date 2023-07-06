@@ -1,0 +1,16 @@
+URL: ftp://ftp-pubs.lcs.mit.edu/pub/lcs-pubs/tr.outbox/MIT-LCS-TR-703.ps.gz
+Refering-URL: ftp://ftp-pubs.lcs.mit.edu/pub/lcs-pubs/listings/tr700.html
+Root-URL: 
+Title: Public-Key Cryptosystems from Lattice Reduction Problems  
+Author: Oded Goldreich Shafi Goldwasser Shai Halevi 
+Keyword: Public-Key Cryptosystems, Lattice Reduction Problems, Collision Free Hashing.  
+Address: Israel.  Square, Cambridge, MA 02139, USA.  
+Note: oded@theory.lcs.mit.edu. On sabatical leave from the  Contact author at MIT LCS, NE43-342, 545 Tech.  
+Affiliation: MIT Laboratory for Computer Science  Weizmann Institute of Science,  
+Email: shafi@theory.lcs.mit.edu.  E-mail: shaih@theory.lcs.mit.edu  
+Date: November 12, 1996  
+Abstract: We present a new proposal for a trapdoor one-way function, from which we derive public-key encryption and digital signatures. The security of the new construction is based on the conjectured computational difficulty of lattice-reduction problems, providing a possible alternative to existing public-key encryption algorithms and digital signatures such as RSA and DSS. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

@@ -1,0 +1,29 @@
+URL: http://www-robotics.usc.edu/~maja/publications/eml95.ps.gz
+Refering-URL: http://www-robotics.usc.edu/~maja/publications.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Email: kristian@sics.se.  maja@cs.brandeis.edu.  
+Title: Learning to Cooperate using two Six-Legged Mobile Robots  
+Author: Kristian T. Simsariany Maja J Mataricz yRW CP 
+Keyword: Key Words. reinforcement learning, robotics, autonomous agents, multi-agent systems, real-time issues, walking robots.  
+Address: S-164 28 KISTA, Stockholm, Sweden,  Waltham, MA 02254,  
+Affiliation: SICS Laboratory, Swedish Institute of Computer Science,  zVolen Center for Complex Systems, Computer Science Department, Bran-deis University,  
+Note: 1 Novel Functions  
+Abstract: This paper describes an approach for learning to cooperate with two six-legged autonomous mobile robots performing a complex task. The robots are capable of communicating with each other via a radio link. The robot task consists of efficiently moving an object to a goal location, and requires cooperation of the two robots. We use this task to demonstrate an approach to concurrent learning in a real-world with complex dynamics of interaction between the robots themselves, and the robots and the object. In one set of experiments we demonstrate the performance of the proposed learning approach on the problem of concurrently learning "what to do" and "what to communicate". In another set of experiments we compare two different reinforcement strategies and show their effectiveness on the problem of learning "what to communicate." 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Brooks, R. A. </author> <year> (1990), </year> <title> The Behavior Language; User's Guide, </title> <type> Technical Report AIM-1127, </type> <institution> MIT Artificial Intelligence Lab. </institution>
+Reference-contexts: The robots are programmed in the Behavior Language, a parallel distributed robot programming language based on the Subsumption Architecture <ref> (Brooks 1990, Brooks 1986) </ref>. In addition to their sensor suite, the robots were also equipped with a radio communication system that runs in parallel and completely asynchronously with the Genghis main processor.
+Reference: <author> Kaelbling, L. P. </author> <year> (1990), </year> <title> Learning in Embedded Systems, </title> <type> PhD thesis, </type> <institution> Stanford University. </institution>
+Reference: <author> Maes, P. & Brooks, R. A. </author> <year> (1990), </year> <title> Learning to Coordinate Behaviors, </title> <booktitle> in `Proceedings, AAAI-91', </booktitle> <address> Boston, MA, </address> <pages> pp. 796-802. </pages>
+Reference: <author> Mahadevan, S. & Connell, J. </author> <year> (1991a), </year> <title> Automatic Programming of Behavior-based Robots using Reinforcement Learning, </title> <booktitle> in `Proceedings, AAAI-91', </booktitle> <address> Pittsburgh, PA, </address> <pages> pp. 8-14. </pages>
+Reference: <author> Mahadevan, S. & Connell, J. </author> <year> (1991b), </year> <title> Scaling Reinforcement Learning to Robotics by Exploiting the Subsumption Architecture, </title> <booktitle> in `Eight International Workshop on Machine Learning', </booktitle> <publisher> Morgan Kaufmann, </publisher> <pages> pp. 328-337. </pages>
+Reference: <author> Mataric, M. J. </author> <year> (1994), </year> <title> Reward Functions for Accelerated Learning, </title> <editor> in W. W. Cohen & H. Hirsh, eds, </editor> <booktitle> `Proceedings of the Eleventh International Conference on Machine Learning (ML-94)', </booktitle> <publisher> Morgan Kauff-man Publishers, Inc., </publisher> <address> New Brunswick, New Jersey, </address> <pages> pp. 181-189. </pages>
+Reference-contexts: While a single robot can push the box to the goal using an intricate and careful strategy, such a strategy would be slow as it would require the robot to incre-mentally move to each side of the box <ref> (Mataric, Nilsson & Simsarian 1994) </ref>. 4.
+Reference: <author> Mataric, M. J., Nilsson, M. & Simsarian, K. T. </author> <year> (1994), </year> <note> Cooperative Multi-Robot Box-Pushing, in `to be submitted to IROS-95', </note> <institution> Pittsburgh, </institution> <address> PA. </address>
+Reference-contexts: While a single robot can push the box to the goal using an intricate and careful strategy, such a strategy would be slow as it would require the robot to incre-mentally move to each side of the box <ref> (Mataric, Nilsson & Simsarian 1994) </ref>. 4.
+Reference: <author> Millan, J. D. R. </author> <year> (1994), </year> <title> Learning Reactive Sequences from Basic Reflexes, </title> <booktitle> in `Proceedings, Simulation of Adaptive Behavior SAB-94', </booktitle> <publisher> The MIT Press, </publisher> <address> Brighton, </address> <publisher> Eng-land, </publisher> <pages> pp. 266-274. </pages>
+Reference: <author> Parker, L. E. </author> <year> (1994), </year> <title> Heterogeneous Multi-Robot Cooperation, </title> <type> PhD thesis, </type> <institution> MIT. </institution>
+Reference: <author> Pomerleau, D. A. </author> <year> (1992), </year> <title> Neural Network Perception for Mobile Robotic Guidance, </title> <type> PhD thesis, </type> <institution> Carnegie Mellon University, School of Computer Science. </institution>
+Reference: <author> Thrun, S. B. & Mitchell, T. M. </author> <year> (1993), </year> <title> Integrating Indictive Neural Network Learning and Explanation-Based Learning, </title> <booktitle> in `Proceedings, IJCAI-93', </booktitle> <address> Chambery, France. </address>
+References-found: 11
+

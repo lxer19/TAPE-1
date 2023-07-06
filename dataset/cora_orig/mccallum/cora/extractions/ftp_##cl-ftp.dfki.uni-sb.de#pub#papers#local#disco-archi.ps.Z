@@ -1,0 +1,15 @@
+URL: ftp://cl-ftp.dfki.uni-sb.de/pub/papers/local/disco-archi.ps.Z
+Refering-URL: http://cl-www.dfki.uni-sb.de/cl/papers/cl-abstracts.html
+Root-URL: 
+Email: neumann@dfki.uni-sb.de  
+Title: DESIGN PRINCIPLES OF THE DISCO SYSTEM  
+Author: Gunter Neumann 
+Date: 1993.  
+Note: To appear in: Proceedings of the TWLT 5, Twente, Netherlands,  with respect to new applications. The development of the cosma system will serve as an example of this claim.  
+Address: Stuhlsatzenhausweg 3 D-6600 Saarbrucken 11, Germany  
+Affiliation: Deutsches Forschungszentrum fur Kunstliche Intelligenz  
+Abstract: In this paper we introduce the basic design principles of the disco system, a Natural Language analysis and generation system. In particular we describe the disco development shell, the basic tool for the integration of natural language components in the disco system, and its application in the cosma (COoperative Schedule MAnagement Agent) system. Following an object oriented architectural model we introduce a two-step approach, where in the first phase the architecture is developed independently of specific components to be used and of a particular flow of control. In the second phase the "frame system" is instantiated by the integration of existing components as well as by defining the particular flow of control between these components. Because of the object-oriented paradigm it is easy to augment the frame system, which increases the flexibility of the whole system fl The research underlying this paper was supported by a research grant, FKZ ITW 9002 0, from the German Bundesministerium fur Forschung und Technologie to the DFKI project disco. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

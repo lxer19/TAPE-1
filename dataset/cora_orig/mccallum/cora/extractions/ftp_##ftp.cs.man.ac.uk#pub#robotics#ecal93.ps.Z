@@ -1,0 +1,22 @@
+URL: ftp://ftp.cs.man.ac.uk/pub/robotics/ecal93.ps.Z
+Refering-URL: http://www.cs.man.ac.uk/robotics/lopapers.html
+Root-URL: 
+Email: ulrich@castle.ed.ac.uk, B.O.McGonigle@festival.ed.ac.uk  
+Title: Robot Navigation by Light  
+Author: Ulrich Nehmzow and Brendan McGonigle 
+Address: Edinburgh EH8 9LE  
+Affiliation: Robotics Laboratory Laboratory for Cognitive Neuroscience, Psychology Department Edinburgh University Appleton Tower  
+Abstract: The ability to return to a base location is crucial for moving animals; so it is for mobile robots. Insects like bees and ants achieve this task by a combination of different mechanisms: coarsegrained dead-reckoning, using a global reference frame such as the sun, takes them back close to their nest. Once near the desired location, either a search behaviour (ants) or a navigation by local landmarks (bees) is initiated and takes the animal home. We present a navigation system for a mobile robot that shows similarities to this solution. Using a distant light source (the sun, for example), the robot is able to return back to base within about 10% of the total distance travelled. The robot then switches to a finegrained local navigation, exploiting the structure of its environment and returns to its base by means of local landmarks. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [Gallistel 90] <author> C.R. Gallistel, </author> <year> 1990. </year> <title> The Organisation of Learning. </title> <publisher> MIT Press, </publisher> <address> Cambridge Mass. and London, England. </address>
+Reference: [Gould & Gould 88] <author> James L. Gould and Carol Grant Gould, </author> <year> 1988. </year> <title> The Honey Bee. </title> <publisher> Scientific American Library 1988, </publisher> <address> New York. </address>
+Reference: [McGonigle 91] <author> Brendan McGonigle, </author> <year> 1991. </year> <title> Incrementing Intelligent Systems by Design. </title> <editor> In: Jean-Arcady Meyer and Stewart Wilson (eds.),1991. </editor> <booktitle> From Animals to Animats, Proc. 1st Intern. Conf. on Simulation of Adaptive Behaviour. </booktitle> <publisher> MIT Press, </publisher> <address> Cambridge Mass. and London, England. </address>
+Reference: [Nehmzow 92] <author> Ulrich Nehmzow, </author> <year> 1992. </year> <title> Experiments in Competence Acquisition for Autonomous Mobile Robots. </title> <type> Ph.D. Thesis, </type> <institution> Edinburgh University, </institution> <year> 1992. </year>
+Reference: [Waterman 89] <author> Talbot H. Waterman, </author> <year> 1989. </year> <title> Animal Navigation. </title> <publisher> Scientific American Library, </publisher> <address> New York. </address>
+Reference: [Wehner & Srinivasan 81] <author> R. Wehner and M.V. Srinivasan, </author> <year> 1981. </year> <title> Searching behaviour of desert ants, genus cataglyphis (formicidae, hymenoptera).Journal of Comparative Physiology 1981, </title> <type> 142, 315-338, after [Gallistel 90]. </type>
+Reference-contexts: A reliable navigational competence therefore requires the use of both local landmarks and reference landmarks. This, in fact, can be perceived in desert ants, who use dead reckoning until they are near the nest, and then use local navigation to find the actual entrance ([Gallistel 90, p.61], <ref> [Wehner & Srinivasan 81] </ref>).
+Reference: [Wehner & Raber 79] <author> R. Wehner and F. Raber, </author> <year> 1979. </year> <title> Visual spatial memory in desert ants Cataglyphis bicolor. </title> <note> Experientia 35 (1979) </note>
+Reference-contexts: Under daylight conditions many species use some aspects of sunlight as the basis for such orientation. Honey bees apis melliferaa and desert ants cataglyphis bicolor, for example, can navigate as long as there is some polarised light available ([Gould & Gould 88, Waterman 89] and <ref> [Wehner & Raber 79] </ref>). Other species can use the position of the sun (for example starlings). Even rodents, well adapted for subterranean route learning, can use distal visual clues as a basis for determining their general orientation in space.
+References-found: 7
+

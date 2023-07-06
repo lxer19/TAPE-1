@@ -1,0 +1,25 @@
+URL: ftp://cns-ftp.bu.edu/pub/diana/GroMinPac97.ps.gz
+Refering-URL: http://www.inns.org/Misc-info/Online-pubs.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: A Neural Model of Motion Processing and Visual Navigation by Cortical Area MST  
+Author: Dr. David C. Van Essen Stephen Grossberg, Ennio Mingolla, and Christopher Pack Stephen Grossberg 
+Address: 677 Beacon St. Boston, MA 02215  Boston University, 677 Beacon St., Boston, MA 02215  
+Affiliation: Department of Cognitive and Neural Systems and Center for Adaptive Systems Boston University  Department of Cognitive and Neural Systems  
+Note: Behavioral/Systems Neuroscience,  Correspondence should be addressed to: Professor  49 Pages; 20 Figures; 0 Tables Abstract: 250 words; Introduction: 500 words;  
+Pubnum: Technical Report CAS/CNS-TR-97-015  
+Email: steve@cns.bu.edu  
+Phone: (617) 353-7857, FAX: (617) 353-7755,  
+Date: January, 1998  
+Abstract-found: 0
+Intro-found: 0
+Reference: <institution> Hoyle F (1957) The Black Cloud. </institution> <address> London: </address> <month> Heineman. </month> <title> Hubel DB, Wiesel TN (1968) Receptive fields and functional architecture of monkey striate cortex. J Physiol 195 215-243. Johnston A, Wright M (1983) Visual motion and cortical velocity. Nature </title> 304:179-185. Kaiser M, Mowafy L (1993) Optical specification of time-to-passage: Observers sensitivity to global tau. J Exp Psychol Hum Percept Perform 19:1028-1040. Kaiser M, Hecht H (1995) Time-to-passage judgments in nonconstant optical ow fields. Percept Psychophys 57:817-825. Koenderink JJ, van Doorn AJ (1981) Exterospecific component of the motion parallax field. J Opt Soc Am 71:953-957. 
+Reference-contexts: The situation where the observer is moving and calculating TTC with a stationary object is called global tau (t G ) because it involves motion of all points in the visual field. Global tau can be approximated <ref> (Hoyle, 1957) </ref> by Simulated Retinal Heading (deg) Percei v ed Retinal Heading (de g) Log polar direction (deg) Simulated heading (deg) (a) 35 m -50 -30 -10 10 30 50 35 m model. The dotted line indicates depth visible up to 7m beyond fixation.
+
+
+
+Reference: <author> Van den Berg AV (1996) Judgments of heading. </author> <title> Vision Res 36 2337-2350. Van den Berg AV, Beintema J (1997) Motion templates with eye velocity gain fields for transformation of retinal to head centric ow. </title> <booktitle> Neuroreport </booktitle> 8:835-840. Van den Berg AV, Brenner E (1994a) Humans combine the optic ow with static depth cues for robust perception of heading. Vision Res 34:2153-2167. 
+
+Reference: <author> Wright M., </author> <title> Johnston A (1985a) Visual motion and cortical magnification. In: Models of the Visual Cortex (Rose D, </title> <booktitle> Dobson V eds), </booktitle> <pages> pp 233-242. </pages> <address> London: </address> <publisher> John Wiley & Sons. </publisher> <editor> Wright M, </editor> <title> Johnston A (1985b) The relationship of displacement thresholds for oscillating gratings to cortical magnification, spatiotemporal frequency, and contrast. Vision Res 25 187-193. Zemel RS, Sejnowski TJ (1998) A model for encoding multiple object motions and self-motion in area MST of primate visual cortex. </title> <journal> J Neurosci 18: </journal> <pages> 531-547. </pages>
+Reference-contexts: To a first approximation, it is inversely proportional to retinal eccentricity, so that the foveal region has an extensive projection to visual cortex, while the periphery is relatively underrepresented. It has been suggested <ref> (Wright and Johnston, 1985a) </ref> that this cortical topography, rather than the retinal one, organizes the input to motion-detecting neurons. Psychophysical results support the relationship between cortical magnification and motion perception.
+References-found: 3
+

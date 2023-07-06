@@ -1,0 +1,12 @@
+URL: http://www.cs.berkeley.edu/~rcdavis/classes/cs262/nb_hash_table.ps
+Refering-URL: http://www.cs.berkeley.edu/~rcdavis/classes/
+Root-URL: http://www.cs.berkeley.edu
+Title: A Scalable Non-Blocking Concurrent Hash Table Implementation with Incremental Rehashing  
+Author: David R. Martin Richard C. Davis 
+Date: December 15, 1997  
+Abstract: Highly concurrent systems often require high-throughput shared data structures to achieve high performance. Traditional lock-based implementations suffer from the problems of convoying, priority inversion, and deadlock. Furthermore, locks introduce overhead in the common case. Non-blocking concurrent data structures have been proposed to solve all of these problems, as they allow concurrent atomic updates without using locks. There exist general methods to transform any lock-based data structure into a lock-free, non-blocking version. However, these methods invariably yeild low performance implementations. Common practice is to design a custom lock-free version of the data structure. We present a fully non-blocking concurrent hash table implementation with incremental rehashing. Our fault model allows a thread to suspend or die at any point in our code without compromising the consistency of the table. Furthermore, our design is portable and is shown to achieve high throughput on workloads with high contention. Two implementation notes are of interest. First, we use open addressing rather than the traditional bucket-and-chain data structure. This design choice was critical in enabling a relatively simple design and proving it correct. Second, our strong fault model requires garbage collection. Even a weaker fault model would benefit greatly from garbage collection, as it greatly simplifies analysis.
+Abstract-found: 1
+Intro-found: 1
+Reference: <institution> 22 </institution>
+References-found: 1
+

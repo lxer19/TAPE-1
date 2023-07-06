@@ -1,0 +1,19 @@
+URL: ftp://ftp.ai.mit.edu/pub/users/cmaley/tierra/completeness.ps.Z
+Refering-URL: http://www.ai.mit.edu/people/cmaley/alife.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Email: cmaley@ai.mit.edu  
+Title: The Computational Completeness of Ray's Tierran Assembly Language 1  
+Author: Carlo C. Maley 
+Address: 545 Technology Sq. Cambridge MA, 02139 USA  
+Affiliation: MIT Artificial Intelligence Lab  
+Abstract-found: 0
+Intro-found: 1
+Reference: <author> Aho, A.V., Hopcroft, J.E., and Ullman, J.D. </author> <title> (1974) The Design and Analysis of Computer Algorithms. </title> <publisher> Addison-Wesley: </publisher> <address> Reading, MA. </address>
+Reference: <author> Dewdney, </author> <title> A.K. (1984) Computer Recreations: In the Game Called Core Wars Hostile Programs Engage in a Battle of Bits. </title> <publisher> Scientific American 250, </publisher> <month> May: </month> <pages> 15-19. </pages>
+Reference: <author> Dewdney, </author> <title> A.K. (1985) Computer Recreations: A Core War Bestiary of Viruses, Worms and Other Threats to Computer Memories. </title> <publisher> Scientific American 252, </publisher> <month> March: </month> <pages> 14-19. </pages>
+Reference: <author> Dewdney, </author> <title> A.K. (1987) Computer Recreations: A Program Called MICE Nibbles Its Way to Victory at the First Core War Tournament. </title> <publisher> Scientific American 256, </publisher> <month> January: </month> <pages> 8-11. </pages>
+Reference: <author> Dewdney, </author> <title> A.K. (1989) Computer Recreations: Of Worms, Viruses, and Core War. </title> <publisher> Scientific American 260, </publisher> <month> March: </month> <pages> 90-93. </pages>
+Reference: <author> Hopcroft, J.E., and Ullman, J.D. </author> <title> (1979) Introduction to Automata Theory, Languages, and Computation. </title> <publisher> Addison-Wesley: </publisher> <address> Reading MA. </address>
+Reference: <author> Ray, </author> <title> T.S. (1991) An Approach to the Synthesis of Life in Artificial Life II. </title> <publisher> Addison-Wesley: </publisher> <address> Reading MA. </address> <pages> pp. 371-408. </pages>
+References-found: 7
+

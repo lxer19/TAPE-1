@@ -1,0 +1,20 @@
+URL: ftp://utstat.toronto.edu/pub/tibs/mammo.ps.Z
+Refering-URL: http://utstat.toronto.edu:80/tibs/research.html
+Root-URL: 
+Title: Computer-aided diagnosis of mammographic masses  
+Author: Trevor Hastie Debra Ikeda Robert Tibshirani 
+Keyword: breast cancer, classification, mammography, diagnosis  
+Address: Toronto  
+Note: c flStanford  
+Date: May 29, 1996  
+Affiliation: Department of Statistics and Division of Biostatistics  Dept. of Radiology Stanford University and  Departments of Preventive Medicine Biostatistics, and Statistics University of Toronto  University and University of  
+Abstract: We propose a statistical method for finding masses on mammograms. The technique is based on fitting broken line regressions to local intensity plots of the images. The method is illustrated on a small database of mammograms that have been read by a radiologist and confirmed by operative data. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Baker, L. </author> <year> (1982), </year> <title> `Breast cancer demonstration project: </title> <booktitle> five year summary report', </booktitle> <pages> Cancer pp. 194-225. </pages>
+Reference: <author> Breiman, L., Friedman, J., Olshen, R. & Stone, C. </author> <year> (1984), </year> <title> Classification and Regression Trees, </title> <publisher> Wadsworth. </publisher>
+Reference: <author> Chambers, J. & Hastie, T. </author> <year> (1991), </year> <title> Statistical Models in S, </title> <publisher> Wadsworth/Brooks Cole, </publisher> <address> Pacific Grove. </address> <note> 12 Giger, </note> <author> M. </author> <year> (1992), </year> <title> `Future of breast imaging. computer-aided diagnosis', In Syllabus: Categor-ical course in Physics. Technical aspects of breast imaging, edited by A. </title> <editor> Haus and M.J. Yaffe. RSNA, </editor> <address> Oak Brook , Ill. </address> <pages> pp. 257-270. </pages>
+Reference: <author> Giger, M., Nishikawa, R. & Doi, K. </author> <year> (1992), </year> <title> `Development of a "smart" workstation for use in mammography', </title> <booktitle> Proc. </booktitle> <pages> SPIE pp. 101-103. </pages>
+Reference: <author> Ikeda, D., Anderson, I., Wattsgard, C. & Linell, F. </author> <year> (1992), </year> <title> `Intervals cancer in the malmo mammographic screening trial: radiographic appearance and prognoostic considera-tions.', </title> <journal> American Journal of Radiology pp. </journal> <pages> 287-294. 13 </pages>
+References-found: 5
+

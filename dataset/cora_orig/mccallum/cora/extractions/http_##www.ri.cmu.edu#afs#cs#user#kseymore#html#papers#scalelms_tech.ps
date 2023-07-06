@@ -1,0 +1,20 @@
+URL: http://www.ri.cmu.edu/afs/cs/user/kseymore/html/papers/scalelms_tech.ps
+Refering-URL: http://www.ri.cmu.edu/afs/cs/user/kseymore/html/papers.html
+Root-URL: 
+Title: Scalable Trigram Backoff Language Models  
+Author: Kristie Seymore Ronald Rosenfeld 
+Note: This material is based upon work supported under a National Science Foundation Graduate Research Fellowship and the Department of the Navy, Naval Research Laboratory under Grant No. N00014-93-1-2005. The views and conclusions contained in this document are those of the authors and should not be interpreted as representing the official policies, either expressed or implied, of the U.S. Government or the National Science Foundation.  
+Address: Pittsburgh, PA 15213  
+Affiliation: School of Computer Science Carnegie Mellon University  
+Date: May 1996  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> F. Jelinek, </author> <title> Self Organized Language Modeling for Speech Recognition, in Readings in Speech Recognition, </title> <editor> Alex Waibel and Kai-Fu Lee (Eds.), </editor> <publisher> Morgan Kaufmann, </publisher> <year> 1989. </year>
+Reference: [2] <author> S.M. Katz, </author> <title> Estimation of Probabilities from Sparse Data for the Language Model Component of a Speech Recognizer, </title> <journal> in IEEE Transactions on Acoustics, Speech and Signal Processing, </journal> <volume> volume ASSP-35, </volume> <pages> pages 400-401, </pages> <month> March </month> <year> 1987. </year>
+Reference-contexts: of creating a language model from a large training text can be carried over to scaled down versions of the same model, for use on systems whose memory capacities do not meet the large model's requirements. 1 2 The Backoff Language Model The backoff language model was developed by Katz <ref> [2] </ref> to address the problems associated with sparse training data. Small amounts of training data are more likely to misrepresent the true distribution of word frequencies from a particular language source due to a lack of sufficient samples. <p> The backoff model handles this type of sampling error by reducing the probability of unreliable estimates made from observed frequencies and distributing this freed probability mass among those words from a given vocabulary that did not occur in the training text <ref> [2] </ref>. Generally, an estimate is deemed unreliable if it occurred few times in the training text. Word sequences, or n-grams, with low counts have their maximum-likelihood estimates replaced by Turing's estimates.
+Reference: [3] <author> R. Rosenfeld, </author> <title> Optimizing Lexical and N-gram Coverage Via Judicious Use of Linguistic Data, </title> <booktitle> Eurospeech 95, </booktitle> <pages> pp. </pages> <note> 17631766. See file://localhost/afs/cs.cmu.edu/user/roni/WWW/vocov-eurospeech95-proc.ps. </note>
+Reference-contexts: In this way, newer vocabulary and more current topics of interest could be reflected in the model, as they will be more likely to occur during the model's use. However, similar attempts to factor data time shift into vocabulary selection failed to show a significant effect <ref> [3] </ref>. 16
+Reference: [4] <author> R. Rosenfeld, </author> <title> The CMU Statistical Language Modeling Toolkit, and its use in the 1994 ARPA CSR Evaluation, </title> <booktitle> in Proc. ARPA Spoken Language Technology Workshop, </booktitle> <address> Austin, TX, </address> <month> January </month> <year> 1995. </year> <note> See http://www.speech.cs.cmu.edu/speech/SLM info.html. 17 </note>
+Reference-contexts: In order to investigate the effects of raising bigram and trigram cutoffs, several models were created using the Carnegie Mellon Statistical Language Modeling Toolkit <ref> [4] </ref>. The perplexities of the scaled down models were computed using the official ARPA 1994 Language Model Development Set, and the word error 4 - 1994 Data. rate was computed using CMU's Sphinx II system and the ARPA 1994 Hub 1 Acoustic Development Set (7387 words).
+References-found: 4
+

@@ -1,0 +1,13 @@
+URL: ftp://ftp.cs.unc.edu/pub/users/sc/COMP122-F96/topics.PS.Z
+Refering-URL: http://www.cs.unc.edu/~sc/teaching/COMP122-F1996/root.html
+Root-URL: http://www.cs.unc.edu
+Phone: 3, 5, 11, 12)  
+Title: COMP 122: Algorithms and Analysis List of allocated to each topic, and the reference to
+Note: This document is a roadmap for this class. It lists the topics to be covered, the number of lectures  mastered the material of that topic. 1. Prerequisites (0 lectures) (CLR Ch.  2. Introduction (1 lecture) (CLR Ch. 1) 3. Sorting and selection (6 lectures) (CLR Ch. 2, 7-10)  4. Balanced trees (3 lectures) (CLR Ch.  
+Date: Fall 1996  13, 14, 19)  
+Pubnum: Topics  
+Abstract: I assume that you are fluent in the material of these chapters. We may do a quick review of these concepts to refresh your memory, but don't count on anything more than that. Goals: What's the difference between a problem, an algorithm, and a program? How do you write specifications for a problem? What are we measuring? What's the computation model? Distinguish between upper and lower bounds for an algorithm, and bounds for a problem. How do you write an acceptable proof? Know our language for writing algorithms. You should be able to take a nontrivial program (like polynomial evaluation by Horner's rule), prove its correctness, and establish its computational complexity. Goals: Why is sorting important? How does the performance of the sorting algorithms listed above depend on the characteristics of the input data? When would you use each of these algorithms? What are the practical issues in coding a sorting algorithm? What useful things can you do with a binary heap? Why is the linear-time median finding algorithm important? What information do asymptotics convey, and what information do they lose? What is the calculus of asymptotics? Why do we study lower bounds? What information does the lower bound on a problem give us? 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

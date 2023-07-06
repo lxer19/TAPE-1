@@ -1,0 +1,16 @@
+URL: ftp://iridia.ulb.ac.be/pub/dorigo/journals/IJ.01-EUROMICRO92.ps.gz
+Refering-URL: http://iridia.ulb.ac.be/dorigo/pub_x_subj.html
+Root-URL: 
+Title: USING TRANSPUTERS TO INCREASE SPEED AND FLEXIBILITY OF GENETICS-BASED MACHINE LEARNING SYSTEMS  
+Author: Marco Dorigo 
+Keyword: Parallel genetic algorithms Implementation on transputers Genetics-based machine learning  
+Address: Piazza Leonardo da Vinci 32 20133 Milano Italy  
+Affiliation: Politecnico di Milano Dipartimento di Elettronica e Informazione  
+Note: Appeared in Microprocessing and Microprogramming, 34, 147152, North Holland, 1992.  
+Email: Email: dorigo@elet.polimi.it  
+Phone: Tel. +39-2-2399-3622  
+Abstract: We implemented a distributed environment for machine learning experimentation on a transputer network. The system can be used by a researcher to build modular and efficient learning systems. The algorithms composing the basic structure of the implementation are the genetic algorithm, the bucket brigade algorithm and the inferential engine. We present a parallel version of these algorithms and call it low-level parallelism. Compared to the standard sequential version of the same algorithms, low-level parallelism gives us an increase in performance. To provide the learning system designer with a higher level of flexibility than currently available with standard systems, we also implemented high-level parallelism: subsets of the transputer network can be allocated to different learning systems. In this way a complex learning problem can be decomposed in many simpler problems, each one mapped on a single (possibly low-level parallel) learning system. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

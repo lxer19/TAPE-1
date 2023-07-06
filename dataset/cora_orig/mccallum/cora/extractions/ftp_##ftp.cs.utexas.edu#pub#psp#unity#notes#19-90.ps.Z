@@ -1,0 +1,22 @@
+URL: ftp://ftp.cs.utexas.edu/pub/psp/unity/notes/19-90.ps.Z
+Refering-URL: http://www.cs.utexas.edu/users/psp/notesunity.html
+Root-URL: http://www.cs.utexas.edu
+Email: misra@cs.utexas.edu  
+Phone: (512) 471-9547  
+Title: More on Strengthening the Guard Notes on UNITY: 19-90  
+Author: Jayadev Misra 
+Date: July 17, 1990  
+Address: Austin, Texas 78712  
+Affiliation: Department of Computer Sciences The University of Texas at Austin  
+Abstract-found: 0
+Intro-found: 1
+Reference: 1. <author> G. M. Brown, M. G. Gouda, C.-L. Wu, </author> <title> "Token Systems that Self-Stabilize," </title> <journal> IEEE Trans. on Computers 38:6, </journal> <pages> 845-852, </pages> <year> 1989. </year>
+Reference-contexts: We note one special case of this theorem. Let r true. Then s ) r trivially holds. The other conditions simplify to true 7! s in F and s stable in F [] G. These are known as conditions for "self-stabilization" to s; see <ref> [1] </ref>. Corollary: Suppose true 7! s in F and, s stable in F [] G Then every unless and leads-to property of F [] G is a property of F [] (G if s). 2
+Reference: 2. <author> J. Misra, </author> <title> "Soundness of the Substitution Axiom," </title> <booktitle> Notes on UNITY: </booktitle> <pages> 14-90, </pages> <address> Austin, Texas, </address> <month> March </month> <year> 1990. </year>
+Reference-contexts: As shown in <ref> [2] </ref>, the proof can be redone if substitution axiom is taken into account.
+Reference: 3. <author> J. Misra, </author> <title> "A Specialization of detects," </title> <booktitle> Notes on UNITY: </booktitle> <pages> 18-90, </pages> <address> Austin, Texas, </address> <month> July </month> <year> 1990. </year>
+Reference-contexts: It is not hard to see that ensures properties are preserved only under very stringent restrictions. Therefore, we will only consider unless and leads-to properties. The trails relation, introduced in <ref> [3] </ref>, is of central importance. Theorem: Suppose s trails r in F , i.e., s ) r in F; r 7! s in F; s unless :r in F . <p> unless (p ^ :q ^ :r) _ q in F , rewriting the rhs p ^ s unless q in F , p ^ :q ^ :r false from (5.1) 5.4 p ^ :q 7! s in F [] fi We use a slightly general form of the results in <ref> [3] </ref> to prove this result: T ) G:F P ; fG:F P is the fixedpoint predicate of Gg T unless r in H b 7! b 0 in H This general result can be proven in the same manner as the proof in [3]. <p> slightly general form of the results in <ref> [3] </ref> to prove this result: T ) G:F P ; fG:F P is the fixedpoint predicate of Gg T unless r in H b 7! b 0 in H This general result can be proven in the same manner as the proof in [3].
+Reference: 4. <author> Ambuj Singh, </author> <title> "On Strengthening the Guard," </title> <booktitle> Notes on UNITY: </booktitle> <pages> 07-89, </pages> <address> Austin, Texas, </address> <month> June 20, </month> <year> 1989. </year> <month> 4 </month>
+Reference-contexts: This question was first considered by Ambuj Singh <ref> [4] </ref>; the condition proposed here is simpler than the ones he proposed. This result is useful during program refinements. Suppose we have a program F [] ff where ff is a statement of the form, A if r.
+References-found: 4
+

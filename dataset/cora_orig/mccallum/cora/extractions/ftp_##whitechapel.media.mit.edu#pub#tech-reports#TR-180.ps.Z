@@ -1,0 +1,24 @@
+URL: ftp://whitechapel.media.mit.edu/pub/tech-reports/TR-180.ps.Z
+Refering-URL: http://www-white.media.mit.edu/cgi-bin/tr_pagemaker/
+Root-URL: http://www.media.mit.edu
+Title: Visually Controlled Graphics  
+Author: A. Azarbayejani, T. Starner, B. Horowitz, A. Pentland 
+Keyword: Egomotion, head tracking, Kalman filter, structure from motion, teleconferencing, virtual holography.  
+Date: 15 (6), June 1993  
+Note: Appears in IEEE PAMI  
+Abstract: MIT Media Laboratory, Perceptual Computing Technical Report #180 Abstract| This correspondence discusses interactive graphics systems driven by visual input. The paper describes the underlying computer vision techniques and presents a theoretical formulation which addresses issues of accuracy, computational efficiency, and compensation for display latency. Experimental results quantitatively compare the accuracy of the visual technique with traditional sensing. An extension to the basic technique to include structure recovery is discussed. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Ali J. Azarbayejani. </author> <title> Model-based vision navigation for a free-flying robot. </title> <type> Master's thesis, </type> <institution> Department of Aeronautics and Astronautics and Department of Electrical Engineering and Computer Science, Massachusetts Institute of Technology, </institution> <month> September </month> <year> 1991. </year>
+Reference: [2] <author> Ali J. Azarbayejani, Bradley Horowitz, and Alex Pentland. </author> <title> Recursive estimation of structure and motion using relative orientation constraints. </title> <booktitle> In 1993 IEEE Conference on Computer Vision and Pattern Recognition, </booktitle> <address> New York, </address> <year> 1993. </year> <journal> IEEE Computer Society. </journal> <note> (to appear). </note>
+Reference: [3] <author> Ted J. Broida and Rama Chellappa. </author> <title> Estimation of object motion parameters from noisy images. </title> <journal> IEEE Trans. Pattern Analysis and Machine Intelligence, </journal> <volume> 8(1) </volume> <pages> 90-99, </pages> <month> January </month> <year> 1986. </year>
+Reference: [4] <author> Ted J. Broida and Rama Chellappa. </author> <title> Estimating the kinematics and structure of a rigid object from a sequence of monocular images. </title> <journal> IEEE Trans. Pattern Analysis and Machine Intelligence, </journal> <volume> 13(6) </volume> <pages> 497-513, </pages> <month> June </month> <year> 1991. </year>
+Reference: [5] <author> Robert Grover Brown. </author> <title> Introduction to Random Signal Analysis and Kalman Filtering. </title> <publisher> John Wiley & Sons, </publisher> <address> New York, </address> <year> 1983. </year>
+Reference: [6] <author> Ernst Dieter Dickmanns and Volker Graefe. </author> <title> Dynamic monocular machine vision. </title> <journal> Machine Vision and Applications, </journal> <volume> 1 </volume> <pages> 223-240, </pages> <year> 1988. </year>
+Reference: [7] <author> Olivier Faugeras and Nicholas Ayache. </author> <title> Maintaining representations of the environment of a mobile robot. </title> <journal> International Journal of Robotics Research, </journal> <year> 1989. </year>
+Reference: [8] <author> Martin Friedmann, Thad Starner, and Alex Pentland. </author> <title> Device synchronization using an optimal linear filter. </title> <editor> In R. A. Earn-shaw, M. A. Gigante, and H. Jones, editors, </editor> <title> Virtual Reality Systems, chapter 9. </title> <publisher> Academic Press, </publisher> <address> London, </address> <year> 1993. </year>
+Reference: [9] <author> Berthold K. P. Horn. </author> <title> Closed-form solution of absolute oreinta-tion using unit quaternions. </title> <journal> Journal of the Optical Society of America, </journal> <volume> 4:629, </volume> <year> 1987. </year>
+Reference: [10] <author> B. D. Lucas and Takeo Kanade. </author> <title> An iterative image registration technique with an application to stereo vision. </title> <booktitle> In Proc. 7th Intern. Joint Conf. Artif. Intell., </booktitle> <year> 1981. </year> <month> (Vancouver.). </month>
+Reference: [11] <author> Alex Pentland and J. R. Williams. </author> <title> Good vibrations : Modal dynamics for graphics and animation. </title> <booktitle> ACM SIGGRAPH Conference Proceedings, </booktitle> <volume> 23(4) </volume> <pages> 215-222, </pages> <year> 1989. </year> <month> 4 </month>
+References-found: 11
+

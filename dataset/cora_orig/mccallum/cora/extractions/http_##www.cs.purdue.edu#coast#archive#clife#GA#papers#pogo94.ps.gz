@@ -1,0 +1,15 @@
+URL: http://www.cs.purdue.edu/coast/archive/clife/GA/papers/pogo94.ps.gz
+Refering-URL: http://www.cs.purdue.edu/coast/archive/clife/GA/papers/
+Root-URL: http://www.cs.purdue.edu
+Email: email: paulf@dcs.qmw.ac.uk  
+Title: Walsh and Partition Functions Made Easy  
+Author: Paul Field 
+Address: Mile End Road London E1 4NS  
+Affiliation: Department of Computer Science Queen Mary and Westfield College  
+Abstract: This paper introduces Walsh and partition functions, coefficients and transforms in a genetic algorithm context. This has been done before, but this paper takes a light and basically non-mathematical approach to the subject. As well as describing the functions themselves, the paper deals with the idea of basis and what a change of basis means. The mathematics for all these concepts is presented, but the preceding nontechnical description should make its introduction relatively painless. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Bridges, C.L. and Goldberg, D.E. </author> <year> (1991), </year> <title> The Nonuniform Walsh-Schema Transform in Rawlins G. </title> <editor> (Ed), </editor> <booktitle> Foundations of Genetic Algorithms, </booktitle> <publisher> Morgan Kaufmann Field, </publisher> <address> P. </address> <year> (1994), </year> <title> Nonbinary Transforms for Genetic Algorithm Problems. </title> <booktitle> Presented at the AISB 1994 Workshop on Evolutionary Computing, Univeristy Of Leeds, </booktitle> <address> England. </address> <note> Proceedings to be published by Springer-Verlag. </note>
+
+References-found: 1
+

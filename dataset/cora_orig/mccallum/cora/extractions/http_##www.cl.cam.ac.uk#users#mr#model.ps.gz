@@ -1,0 +1,26 @@
+URL: http://www.cl.cam.ac.uk/users/mr/model.ps.gz
+Refering-URL: http://www.cl.cam.ac.uk/users/mr/
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: Demonstration Programs for CTL and -Calculus Symbolic Model Checking  
+Author: by Martin Richards 
+Keyword: Symbolic model checking, Computational Tree Logic, -calculus, finite state machines, boolean functions, bit patterns, MCPL.  
+Address: Cambridge  
+Affiliation: Computer Laboratory University of  
+Email: mr@uk.ac.cam.cl  
+Web: http://www.cl.cam.ac.uk/users/mr/  
+Date: October 1, 1997  
+Abstract: This paper presents very simple implementations of Symbolic Model Checkers for both Computational Tree Logic (CTL) and -calculus. They are intended to be educational rather than practical. The first program discovers, for a given non-deterministic finite state machine (NFSM), the states for which a given CTL formula holds. The second program does the same job for -calculus formulae. For simplicity the number of states in the NFSM has been limited to 32 and a bit pattern representation is used to represent the boolean functions involved. It would be easy to extend both programs to use ordered binary decision diagrams more normally used in symbolic model checking. The programs include lexical and syntax analysers for the formulae, the model checking algorithms and drivers to exercise them with respect to various simple machines. The programs is implemented in MCPL. A brief summary of MCPL is given at the end. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [CE81] <author> E.M. Clarke and E.A. Emerson. </author> <title> Design and Synthesis of Synchronization Skeletons using Branching Time Temporal Logic. </title> <editor> In D. Kozen, editor, </editor> <booktitle> Proceedings of the Workshop on Logics of Programs, volume 131 of Lecture Notes in Computer Science, </booktitle> <pages> pages 52-71, </pages> <address> Yorktown Heights, New York, May 1981. </address> <publisher> Springer-Verlag. </publisher>
+Reference-contexts: But more interesting properties depend also on the transitions of the NFSM; for example: is there a path from the given state to one in which v 1 ^ v 2 is true? Many such properties can be described using CTL <ref> [CE81] </ref> described in the next section. A Symbolic model checker is a program to determine for which states a given formula holds with respect to a given NFSM. Often we wish to check that the formula holds for all states.
+Reference: [McM93] <author> K.L McMillan. </author> <title> Symbolic Model Checking. </title> <publisher> Kluwer Academic Press, </publisher> <year> 1993. </year>
+Reference-contexts: In this implementation, the size of the NFSMs are thus limited to 32 states, but this is sufficient to illustrate the capabilities of these two logics. The first program presented is essentially an implementation, in MCPL [Ric97], of the algorithm described in Symbolic Model Checking by McMillan <ref> [McM93] </ref>, and the second is based on a paper by Berezin, Clarke, Jha and Marrero [SBM96].
+Reference: [Ric97] <author> M. Richards. </author> <title> MCPL Programming Manual. </title> <type> Technical Report No 431, </type> <institution> Cambridge University Computer Laboratory, </institution> <month> July </month> <year> 1997. </year>
+Reference-contexts: In this implementation, the size of the NFSMs are thus limited to 32 states, but this is sufficient to illustrate the capabilities of these two logics. The first program presented is essentially an implementation, in MCPL <ref> [Ric97] </ref>, of the algorithm described in Symbolic Model Checking by McMillan [McM93], and the second is based on a paper by Berezin, Clarke, Jha and Marrero [SBM96].
+Reference: [SBM96] <author> S. Jha S. Berezin, E. Clarke and W. Marrero. </author> <title> Model checking algorithms for the -calculus. </title> <type> Technical report, </type> <institution> Carnegie Mellon University, </institution> <month> September </month> <year> 1996. </year> <month> CMU-CS-96-180. </month>
+Reference-contexts: The first program presented is essentially an implementation, in MCPL [Ric97], of the algorithm described in Symbolic Model Checking by McMillan [McM93], and the second is based on a paper by Berezin, Clarke, Jha and Marrero <ref> [SBM96] </ref>.
+Reference: [SV97] <author> D.J. Stewart and M. VanInwegen. </author> <type> Private communication. </type> <institution> Cambridge University Computer Laboratory, </institution> <year> 1997. </year>
+Reference-contexts: Y 00101 Y 00110 Y 00111 10000 Y 10001 Y 10010 Y 10011 10100 Y 10101 10110 10111 EX ~(a|b|c|d|e) 01000 Y 01001 01010 01011 01100 01101 01110 01111 11000 11001 11010 11011 11100 11101 11110 11111 Y The second example and its solution was suggested by Stewart and VanInwegen <ref> [SV97] </ref>. It is based on a game concerned with four empty glasses at the corners of a square tray. Initially some of the glasses may be upside-down.
+References-found: 5
+

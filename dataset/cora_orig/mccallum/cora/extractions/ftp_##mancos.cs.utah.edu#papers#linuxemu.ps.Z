@@ -1,0 +1,16 @@
+URL: ftp://mancos.cs.utah.edu/papers/linuxemu.ps.Z
+Refering-URL: http://www.cs.utah.edu/projects/flux/mach4-i386/html/mach4-UK22-linuxdev.html
+Root-URL: 
+Title: Linux Device Driver Emulation in Mach  
+Author: Shantanu Goel and Dan Duchamp 
+Affiliation: Computer Science Department Columbia University  
+Abstract: We describe the design and performance of code added to the Mach microkernel (Mach 4.0, version UK02p21) that permits one to build a Mach kernel that includes unmodified Linux device drivers. We have written emulation code to support all Linux 1.3.35 network and SCSI drivers for the ISA and PCI I/O buses. Emulation increases latency, but very little. The degree depends on both device and operation, and varies from 2 microseconds for receiving small (60 byte) network packets up to 197 microseconds for writing 16KB to an ISA SCSI device. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> S. Dhawan. </author> <title> Networking Device Drivers. </title> <publisher> Van Nostrand Reinhold, </publisher> <address> New York, </address> <year> 1995. </year>
+Reference-contexts: Nevertheless, a reasonable starting point might be to emulate network drivers because they are so simple and because so many conform to the NDIS specification <ref> [1] </ref>. 6 Acknowledgements This work was supported in part by the Advanced Research Projects Agency, ARPA order number B094, under contract N00014-94-1-0719, monitored by the Office of Naval Research; and in part by the Center for Telecommunications Research, an NSF Engineering Research Center supported by grant number ECD-88-11111.
+Reference: [2] <author> G. Malan, R. Rashid, D. Golub, and R. Baron. </author> <title> DOS as a Mach 3.0 Application. </title> <booktitle> In Proc. USENIX Mach Symp., USENIX, </booktitle> <pages> pp. 27-40, </pages> <month> November </month> <year> 1991. </year>
+Reference-contexts: Of course within the last few years there has been a good deal of work in the UNIX community on emulating the system calls of the far more popular DOS and Windows interfaces; examples include Mach's DOS server <ref> [2] </ref>, Linux "DOSemu" and "Wine" projects, and a number of commercial efforts such as "DOSMerge" and "WABI." The difference between those efforts and ours is that we include another system's source code into our kernel, so we are emulating intra-kernel variables and interfaces rather than the more standardized and carefully considered
+
+References-found: 2
+

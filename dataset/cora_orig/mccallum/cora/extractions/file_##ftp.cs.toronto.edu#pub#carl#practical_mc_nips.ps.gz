@@ -1,0 +1,26 @@
+URL: file://ftp.cs.toronto.edu/pub/carl/practical_mc_nips.ps.gz
+Refering-URL: http://www.cs.cmu.edu/Web/Groups/NIPS/NIPS95/Papers.html
+Root-URL: 
+Email: carl@cs.toronto.edu  
+Title: A Practical Monte Carlo Implementation of Bayesian Learning  
+Author: Carl Edward Rasmussen 
+Keyword: limited tasks from real world domains.  
+Address: Toronto, Ontario, M5S 1A4, Canada  
+Affiliation: Department of Computer Science University of Toronto  
+Abstract:  
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> S. Duane, A. D. Kennedy, B. J. Pendleton & D. </author> <title> Roweth (1987) "Hybrid Monte Carlo", </title> <journal> Physics Letters B, </journal> <volume> vol. 195, </volume> <pages> pp. 216-222. </pages>
+Reference-contexts: The network weights are updated using the hybrid Monte Carlo method <ref> (Duane et al. 1987) </ref>. This method combines the Metropolis algorithm with dynamical simulation. This helps to avoid the random walk behavior of simple forms of Metropolis, which is essential if we wish to explore weight space efficiently.
+Reference: <author> J. H. </author> <title> Friedman (1991) "Multivariate adaptive regression splines" (with discussion), </title> <journal> Annals of Statistics, </journal> <volume> 19, </volume> <month> 1-141 (March). </month> <note> Source: http://lib.stat.cmu.edu/general/mars3.5. </note>
+Reference-contexts: The predictions are made from an ensemble of 10 nets with this architecture, trained on the full training set. This algorithm took several hours of cpu time for the largest training sets. The Multivariate Adaptive Regression Splines (MARS) method <ref> (Friedman 1991) </ref> was included as a non-neural network approach. It is possible to vary the maximum number of variables allowed to interact in the additive components of the model. It is common to allow either pairwise or full interactions.
+Reference: <author> D. J. C. </author> <title> MacKay (1992) "A practical Bayesian framework for backpropagation networks", </title> <journal> Neural Computation, </journal> <volume> vol. 4, </volume> <pages> pp. 448-472. </pages>
+Reference-contexts: All simulations were done on a 200 MHz MIPS R4400 processor. The Gaussian Process method is described in a companion paper (Williams & Rasmussen 1996). The Evidence method <ref> (MacKay 1992) </ref> was used for a network with separate hyper-parameters for the direct connections, the weights from individual inputs (ARD), hidden biases, and output biases. Nets were trained using a conjugate gradient method, allowing 10000 gradient evaluations (batch) before each of 6 updates of the hyperparameters.
+Reference: <author> R. M. </author> <title> Neal (1995) Bayesian Learning for Neural Networks, </title> <type> PhD thesis, </type> <institution> Dept. of Computer Science, University of Toronto, </institution> <note> ftp: pub/radford/thesis.ps.Z from ftp.cs.toronto.edu. </note>
+Reference-contexts: However, the Gaussian approximation is poor because of multiple modes in the posterior. Even locally around a mode the accuracy of the Gaussian approximation is questionable, especially when the model is large compared to the amount of training data. Here I present and test a Monte Carlo method <ref> (Neal, 1995) </ref> which avoids the Gaussian approximation. The implementation is complicated, but the user is not required to have extensive knowledge about the algorithm.
+Reference: <author> J. R. </author> <title> Quinlan (1993) "Combining instance-based and model-based learning", </title> <booktitle> Proc. </booktitle> <editor> ML'93 (ed P.E. Utgoff), </editor> <address> San Mateo: </address> <publisher> Morgan Kaufmann. </publisher>
+Reference-contexts: Thus no parameters need to be set by the user. 3 TESTS The performance of the algorithm was evaluated by comparing it to other state-of-the-art methods on 5 real-world regression tasks. All 5 data sets have previously been studied using a 10-way cross-validation scheme <ref> (Quinlan 1993) </ref>. The tasks in these domains is to predict price or performance of an object from various discrete and real-valued attributes. For each domain the data is split into two sets of roughly equal size, one for training and one for testing.
+Reference: <author> C. K. I. Williams & C. E. </author> <title> Rasmussen (1996). "Regression with Gaussian processes", NIPS 8, </title> <editor> editors D. Touretzky, M. Mozer and M. Hesselmo. </editor> <booktitle> (this volume). </booktitle>
+Reference-contexts: The Monte Carlo method was run for 1 hour on each of the small training sets, and 2, 4 and 8 hours respectively on the larger training sets. All simulations were done on a 200 MHz MIPS R4400 processor. The Gaussian Process method is described in a companion paper <ref> (Williams & Rasmussen 1996) </ref>. The Evidence method (MacKay 1992) was used for a network with separate hyper-parameters for the direct connections, the weights from individual inputs (ARD), hidden biases, and output biases.
+References-found: 6
+

@@ -1,0 +1,28 @@
+URL: http://www.cs.ucla.edu/~pazos/pub/MMNS97.ps
+Refering-URL: http://www.cs.ucla.edu/~pazos/publications.html
+Root-URL: http://www.cs.ucla.edu
+Email: fpazos,gerlag@cs.ucla.edu  
+Phone: Phone: (310) 206-8589, Fax: (310) 825-7578,  
+Title: ATM Virtual Private Networks for the Internet Data Traffic  
+Author: Carlos M. D. Pazos and Mario Gerla 
+Keyword: Multimedia networks, bandwidth management, Internet over ATM.  
+Address: 405 Hilgard Ave., Los Angeles CA 90024, USA,  
+Affiliation: UCLA Computer Science Department  
+Abstract: The efficient utilization and management of bandwidth in broadband networks is of paramount importance since bandwidth costs are likely to dominate network operational costs, especially in the wide area scenario. However, relatively little attention has been given to this issue in developing the current schemes for the transport of Internet data traffic over ATM. In this paper we describe a bandwidth allocation and management approach for the transport of Internet traffic over ATM that uses Virtual Private Networks, exploits the ABR service and implements bandwidth guarantees. We also address the efficient sharing of bandwidth between Internet data traffic and other media traffic using ATM. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <institution> ATM Forum (1996) Traffic Management Specifications, </institution> <note> Version 4.0. ATM Forum Standard. </note>
+Reference-contexts: The ABR traffic, on the other hand, has the ability to fill in the unused bandwidth. Hence, at any point in time the ACR fluctuates between the MCR and the peak cell rate (PCR) or the explicit rate (ER), whichever is smaller <ref> (ATM Forum 1996) </ref>. If the ACR remains continuously over the MCR for a long time, the Internet traffic may need more bandwidth than what is currently allocated. The LM can then take action and request an increase of MCR.
+Reference: <author> Bonomi, F. and Fendick, K. W. </author> <title> (1995) The Rate-Based Flow Control Framework for the Available Bit Rate ATM service. </title> <journal> IEEE Network, </journal> <volume> 9(2), </volume> <pages> 615-626. </pages>
+Reference: <author> Borden, M. and Crawley, E. and Davie, B. and Batsell, S. </author> <title> (1992) Integration of Real-time Services in an IP-ATM Network Architecture. Request for Comments 1821. </title>
+Reference: <author> Braden, R. and Zhang, L. and Berson, S. and Herzog, S. and Jamin, S. </author> <title> (1996) Resource ReSerVation Protocol (RSVP) Version 1 Functional Specification. Internet Draft. </title>
+Reference: <author> Crocetti, P. and Fotedar, S. and Fratta, L. and Gallassi, G. and Gerla, M. </author> <title> (1995) ATM Virtual Private Networks Design Alternatives. </title> <journal> Computer Communications, </journal> <volume> 18(1), </volume> <pages> 24-31. </pages>
+Reference-contexts: network of IP routers (which in principle could be IP or Tag switches) interconnected by VPCs under ABR flow control. 3 THE AVPN CONCEPT The approach to the transport of data traffic over ATM we describe in this paper is based on the concept of ATM Virtual Private Networks (AVPN) <ref> (Crocetti et al. 1995) </ref>. The basic idea on AVPN is that a large corporate user, with sites spread over a large geographical area, would request a mesh of CBR VPCs to be configured over the ATM network to interconnect the user sites. <p> In a sense, a virtual private network is a backbone network in which the AVPN manager is added to improve the bandwidth utilization of the AVPN resources. Figure 1 illustrates the AVPN approach. The use of AVPN has a number of advantages as discussed in <ref> (Crocetti et al. 1995) </ref>. 4 THE INTERNET AVPN If the user sites are actually routers, what differentiates an Internet backbone from an Internet AVPN is the private manager in the latter. However, what we call Internet AVPN henceforth is a modified version of the AVPN concept described above.
+Reference: <author> Floyd, S. and Jacobsen, V. </author> <title> (1995) Link-sharing and Resource Management Models for Packet Networks. </title> <journal> IEEE/ACM Transactions on Networking, </journal> <volume> 3(4). </volume>
+Reference: <author> Katz, D. and Piscitello, D. and Cole, B. and Luciani, J. </author> <title> (1996) NBMA Next Hop Resolution Protocol (NHRP). Internet Draft. </title>
+Reference-contexts: However, before an end-to-end VCC can be set up, an IP to ATM address mapping is required, which is carried out by an address resolution protocol (ARP) implemented on ARP servers <ref> (Katz et al. 1996) </ref>. With the ATM address, a VCC is then set up with the desired bandwidth and Quality of Service (QoS).
+Reference: <author> Newman, P. and Lyon, T. and Minshall, G. </author> <title> (1996) Flow Labeled IP: A Con-nectionless Approach to ATM. </title> <booktitle> Proc. INFOCOM `96. </booktitle>
+Reference-contexts: This idea was first suggested in the context of Connectionless Servers, ITU-T Recommendation I.364, which would operate on a cut-through mode. The contemporary counterparts of this idea are the IP <ref> (Newman et al. 1996) </ref> and Tag (Rekhter et al. 1996) switches. While these sophisticated IP switching strategies improve the forwarding performance in the backbone, they do not include network management mechanisms to make the most efficient utilization of the allocated ATM bandwidth.
+
+References-found: 8
+

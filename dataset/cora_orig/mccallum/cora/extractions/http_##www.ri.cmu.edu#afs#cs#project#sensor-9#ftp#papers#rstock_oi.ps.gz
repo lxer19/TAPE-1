@@ -1,0 +1,27 @@
+URL: http://www.ri.cmu.edu/afs/cs/project/sensor-9/ftp/papers/rstock_oi.ps.gz
+Refering-URL: http://www.ri.cmu.edu/afs/cs/project/sensor-9/ftp/papers/
+Root-URL: 
+Title: Orientation Invariant Light Source Parameters  
+Author: R. D. Stock and M. W. 
+Keyword: light source characterization, rotational invariants, data compression, interpolation  
+Address: 5000 Forbes Avenue Pittsburgh, PA 15213  
+Affiliation: Carnegie Mellon University Measurement and Control Laboratory  
+Note: Siegel  
+Email: e-mail: rstock+@sensor.ri.cmu.edu e-mail: mws+@isl1.ri.cmu.edu  
+Phone: phone: (412) 268-8802 fax: (412) 621-5477  
+Abstract-found: 0
+Intro-found: 0
+Reference: 1. <author> C. Verbeck and D. Greenberg, </author> <title> ``A Comprehensive Light-Source Description for Computer Graphics'', </title> <journal> IEEE Computer Graphics and Applications, </journal> <volume> Vol. 4, </volume> <month> July </month> <year> 1984, </year> <pages> pp. 66-75. </pages>
+Reference: 2. <author> D. A. Varshalovich et al., </author> <title> Quantum Theory of Angular Momentum, </title> <publisher> World Scientific Publishing Co Pte Ltd, </publisher> <address> Singapore, </address> <year> 1988. </year>
+Reference: 3. <author> P. R. Bevington, </author> <title> Data Reduction and Error Analysis for the Physical Sciences, </title> <publisher> McGraw-Hill, </publisher> <address> New York, </address> <year> 1969. </year>
+Reference: 4. <author> M. E. Rose, </author> <title> Elementary Theory of Angular Momentum, </title> <publisher> Wiley, </publisher> <address> New York, </address> <year> 1957. </year>
+Reference: 5. <author> J. D. Armstrong, </author> <title> ``A New Measure of Uniformity for Lighting Installations'', </title> <journal> Journal of the Illuminating Engineering Society, </journal> <volume> Vol. 19, No. 2, </volume> <year> 1990, </year> <pages> pp. 84-89. </pages>
+Reference: 6. <author> J.-P. Mathieu, </author> <title> ``Statistical Uniformity, A New Method Of Evaluation'', </title> <journal> Journal of the Illuminating Engineering Society, </journal> <volume> Vol. 18, No. 2, </volume> <year> 1989, </year> <pages> pp. 76-79. </pages>
+Reference: 7. <author> I. Lewin, R. Laird, and B. Carruthers, </author> <title> ``Development of New Photometer Concepts for Quality Control Applications'', </title> <journal> Journal of the Illuminating Engineering Society, </journal> <volume> Vol. 19, No. 2, </volume> <year> 1990, </year> <pages> pp. 90-97. </pages>
+Reference: 8. <author> R. W. </author> <title> Hamming, Numerical Methods for Scientists and Engineers, </title> <publisher> McGraw-Hill, </publisher> <address> New York, </address> <year> 1973. </year>
+Reference: 9. <author> G. E. </author> <title> Forsythe, Computer Methods for Mathematical Computations, </title> <publisher> Prentice-Hall, </publisher> <address> Englewood Cliffs, NJ, </address> <year> 1977. </year>
+Reference: 10. <author> W. H. Press et al., </author> <title> Numerical Recipes in C, </title> <publisher> Cambridge University Press, </publisher> <address> Cambridge, </address> <year> 1988. </year>
+Reference: 11. <author> G. H. Golub and C. Reinsch, </author> <title> ``Singular Value Decompsition and Least Squares Solutions'', </title> <journal> Numerische Mathematik, </journal> <volume> Vol. 14, </volume> <year> 1970, </year> <pages> pp. 403-420. </pages>
+Reference: 12. <author> J. D. Jackson, </author> <title> Classical Electrodynamics, </title> <publisher> John Wiley & Sons, </publisher> <address> New York, </address> <year> 1975. </year> <title> 13 October 1995 i Table of Contents 1 Abstract 1 2 Data Collection and Analysis 1 3 Orientation Independent Source Characterization 3 4 Simulated Demonstration and Finite Sampling 5 5 Application to Real Sources 6 6 Acknowledgements 11 I. Proof of Rotational Invariance 13 II. Data Fitting Details 15 III. An Abstract Space 21 IV. Bulb Types 24 13 October 1995 ii </title>
+References-found: 12
+

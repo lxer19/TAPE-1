@@ -1,0 +1,38 @@
+URL: http://www.stat.washington.edu:80/tech.reports/tr332.ps
+Refering-URL: http://www.stat.washington.edu:80/tech.reports/
+Root-URL: 
+Title: On Computing the Largest Fraction of Missing Information for the EM Algorithm and the Worst
+Author: Chris Fraley 
+Keyword: EM algorithm, data augmentation, iterative simulation, MCMC, missing data  
+Date: May 1, 1998  
+Address: 1700 Westlake Avenue North, Suite 500 P. O. Box 354322 Seattle, WA 98109 USA Seattle, WA 98195 USA  
+Affiliation: MathSoft, Inc. Department of Statistics Data Analysis Products Division University of Washington  
+Pubnum: Technical Report Technical Report No. 332  
+Abstract: We address the problem of computing the largest fraction of missing information for the EM algorithm and the worst linear function for data augmentation. These are the largest eigenvalue and its associated eigenvector for the Jacobian of the EM operator at a maximum likelihood estimate, which are important for assessing convergence in iterative simulation. An estimate of the largest fraction of missing information is available from the EM iterates; this is often adequate since only a few figures of accuracy are needed. In some instances the EM iteration also gives an estimate of the worst linear function. We show that the power method for eigencomputation can be used to compute efficient and accurate estimates of both quantities. Unlike eigenvalue decomposition, the power method computes only the largest eigenvalue and eigenvector of a matrix, it can take advantage of a good eigenvector estimate as an initial value and it can be terminated after only a few figures of accuracy are obtained. Moreover, the matrix products needed in the power method can be computed by extrapolation, obviating the need to form the Jacobian of the EM operator. We give results of simultation studies on multivariate normal data showing this approach becomes more efficient as the data dimension increases than methods that use a finite-difference approximation to the Jacobian, which is the only general-purpose alternative available. fl Funded by National Institutes of Health Small Business Innovation Reseach Grant 5R44CA65147-03, and by Office of Naval Research contracts N00014-96-1-0192 and N00014-96-1-0330. We are indebted to Tim Hesterberg, Jim Schimert, Doug Clarkson, Anne Greenbaum, and Adrian Raftery for comments and discussion that helped advance this research and improve this paper. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> E. Anderson, Z. Bai, C. Bischoff, J. Demmel, J. Dongarra, J. Du Croz, A. Greenbaum, S. Hammarling, J. McKenney, S. Ostrouchov, and D. Sorensen. </author> <note> LAPACK User's Guide. SIAM, 2nd edition, </note> <year> 1994. </year>
+Reference: [2] <author> R. A. Boyles. </author> <title> On the convergence of the EM algorithm. </title> <journal> Journal of the Royal Statistical Society, Series B, </journal> <volume> 45 </volume> <pages> 47-50, </pages> <year> 1983. </year> <month> 11 </month>
+Reference: [3] <author> A. P. Dempster, N. M. Laird, and D. B. Rubin. </author> <title> Maximum likelihood from incomplete data via the EM algorithm. </title> <journal> Journal of the Royal Statistical Society, Series B, </journal> <volume> 39 </volume> <pages> 341-353, </pages> <year> 1977. </year>
+Reference: [4] <author> W. R. Gilks, S. Richardson, and D. J. Spiegelhalter, </author> <title> editors. Markov Chain Monte Carlo in Practice. </title> <publisher> Chapman & Hall, </publisher> <year> 1996. </year>
+Reference: [5] <author> G. H. Golub and C. F. Van Loan. </author> <title> Matrix Computations. </title> <publisher> Johns Hopkins, 3rd edition, </publisher> <year> 1996. </year>
+Reference: [6] <author> A. Griewank and G. F. Corliss, </author> <title> editors. Automatic Differentiation of Algorithms. </title> <publisher> SIAM, </publisher> <year> 1991. </year>
+Reference: [7] <author> R. Grossman, </author> <title> editor. Symbolic Computation: Applications to Scientific Computing. </title> <publisher> SIAM, </publisher> <year> 1989. </year>
+Reference: [8] <author> T. C. Hesterberg. </author> <title> private communication. </title>
+Reference: [9] <author> P. Hovland, C. Bischof, D. Spiegelman, and M. Casella. </author> <title> Efficient derivative codes through automatic differentiation and interface contraction: An application in biostatistics. </title> <journal> SIAM Journal on Scientific Computing, </journal> <volume> 18(4) </volume> <pages> 1056-1066, </pages> <year> 1997. </year>
+Reference: [10] <author> K. H. Li. </author> <title> Imputations using Markov chains. </title> <journal> Journal of Statistical Computation and Simulation, </journal> <volume> 30 </volume> <pages> 57-79, </pages> <year> 1988. </year>
+Reference: [11] <author> R. J. A. Little and D. B. Rubin. </author> <title> Statistical Analysis with Missing Data. </title> <publisher> Wiley, </publisher> <year> 1987. </year>
+Reference: [12] <author> G. J. McLachlan and T. Krishnan. </author> <title> The EM Algorithm and Extensions. </title> <publisher> Wiley, </publisher> <year> 1997. </year>
+Reference: [13] <author> X. L. Meng and D. B. Rubin. </author> <title> Using EM to obtain asymptotic variance-covariance matrices: the SEM algorithm. </title> <journal> Journal of the American Statistical Association, </journal> <volume> 86 </volume> <pages> 899-909, </pages> <year> 1991. </year>
+Reference: [14] <author> X. L. Meng and D. B. Rubin. </author> <title> On global and componentwise rates of convergence of the EM algorithm. </title> <journal> Linear Algebra and its Applications, </journal> <volume> 199 </volume> <pages> 413-425, </pages> <year> 1994. </year>
+Reference: [15] <author> J. M. Ortega and W. C. Rheinboldt. </author> <title> Iterative Solution of Nonlinear Equations in Several Variables. </title> <publisher> Academic Press, </publisher> <year> 1970. </year>
+Reference: [16] <author> A. Ralston. </author> <title> A First Course in Numerical Analysis. </title> <publisher> McGraw-Hill, </publisher> <year> 1965. </year>
+Reference: [17] <author> D. B. Rubin. </author> <title> Multiple Imputation for Nonresponse in Surveys. </title> <publisher> Wiley, </publisher> <year> 1987. </year>
+Reference: [18] <author> D. B. Rubin. </author> <title> Multiple imputation after 18 years. </title> <journal> Journal of the American Statistical Association, </journal> <volume> 91 </volume> <pages> 473-489, </pages> <year> 1996. </year>
+Reference: [19] <author> J. L. Schafer. </author> <title> Analysis of Incomplete Multivariate Data by Simulation. </title> <publisher> Chapman and Hall, </publisher> <year> 1997. </year>
+Reference: [20] <author> M. A. Tanner. </author> <title> Tools for Statistical Inference, Methods for the Exploration of Posterior Distributions and Likelihood Functions. </title> <publisher> Springer-Verlag, </publisher> <address> 2nd edition, </address> <year> 1993. </year> <month> 12 </month>
+Reference: [21] <author> M. A. Tanner and W. H. Wong. </author> <title> The calculation of posterior distributions by data aug-mentation (with discussion). </title> <journal> Journal of the American Statistical Association, </journal> <volume> 82 </volume> <pages> 528-550, </pages> <year> 1987. </year>
+Reference: [22] <author> J. H. Wilkinson. </author> <title> The Algebraic Eigenvalue Problem. </title> <publisher> Clarendon, </publisher> <year> 1965. </year>
+Reference: [23] <author> C. F. J. Wu. </author> <title> On convergence properties of the EM algorithm for Gaussian mixtures. </title> <journal> Annals of Statistics, </journal> <volume> 11 </volume> <pages> 95-103, </pages> <year> 1983. </year> <month> 13 </month>
+References-found: 23
+

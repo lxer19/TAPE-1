@@ -1,0 +1,16 @@
+URL: ftp://ftp.eecs.umich.edu/people/fessler/ps/93,mscs.ps.Z
+Refering-URL: http://www.eecs.umich.edu/~fessler/papers/conf.html
+Root-URL: http://www.cs.umich.edu
+Title: Cramer-Rao Lower Bounds for Biased Image Reconstruction  
+Author: Jeffrey A. Fessler and Alfred O. Hero 
+Address: Ann Arbor, Michigan 48109-0552  
+Affiliation: University of Michigan  
+Abstract: Since image reconstruction and restoration are ill-posed problems, unbiased estimators often have unacceptably high variance. To reduce the variance, one introduces constraints and smoothness penalties, which yields biased estimators. This bias precludes the use of the classical Cramer-Rao (CR) lower bound for the variance of an unbiased estimator. This paper presents a uniform bound for minimum variance subject to a bias gradient constraint. Since the bound is independent of any estimator, one can explore the fundamental tradeoff between bias and variance in ill-posed problems. We apply the bound to a linear Gaussian model, and demonstrate the optimality of a simple penalized least-squares estimator. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> J. D. Gorman and A. O. Hero. </author> <title> Lower bounds on parametric estimators with constraints. </title> <journal> IEEE Transactions on Information Theory, </journal> <volume> 36(6) </volume> <pages> 1285-1301, </pages> <month> November </month> <year> 1990. </year>
+Reference: [2] <author> A. O. Hero. </author> <title> A Cramer-Rao type lower bound for essentially unbiased parameter estimation. </title> <type> Technical Report 890, </type> <institution> Lincoln Laboratory, MIT, </institution> <month> January </month> <year> 1992. </year>
+Reference-contexts: If F is singular, it may be that the uniform bound is unachievable. Note that the results in <ref> [2] </ref> on achievability are only for the case where F is nonsingular. We conjecture that tighter bounds may exist for the case where F is singular. penalized weighted least squares to uniform bound for a deconvolution problem. III.
+Reference: [3] <author> E. L. Lehmann. </author> <title> Theory of Point Estimation. </title> <publisher> Wiley, </publisher> <address> New York, </address> <year> 1983. </year> <title> VI. ACKNOWLEDGEMENT The authors thank M. Usman for helpful discussions. Comments or questions to fessler@umich.edu would be welcomed. </title>
+References-found: 3
+

@@ -1,0 +1,11 @@
+URL: ftp://info.mcs.anl.gov/pub/tech_reports/reports/P741.ps.Z
+Refering-URL: http://www.mcs.anl.gov/publications/abstracts/abstracts97.htm
+Root-URL: http://www.mcs.anl.gov
+Email: http://www.globus.org/  
+Title: Managing Security in High-Performance Distributed Computations  
+Author: Ian Foster Nicholas T. Karonis Carl Kesselman Steven Tuecke 
+Abstract: We describe a software infrastructure designed to support the development of applications that use high-speed networks to connect geographically distributed supercomputers, databases, and scientific instruments. Such applications may need to operate over open networks and access valuable resources, and hence can require mechanisms for ensuring integrity and confidentiality of communications and for authenticating both users and resources. Yet security solutions developed for traditional client-server applications do not provide direct support for the distinctive program structures, programming tools, and performance requirements encountered in these applications. To address these requirements, we are developing a security-enhanced version of a communication library called Nexus, which is then used to provide secure versions of various parallel libraries and languages, including the popular Message Passing Interface. These tools support the wide range of process creation mechanisms and communication structures used in high-performance computing. They also provide a fine degree of control over what, where, and when security mechanisms are applied. In particular, a single application can mix secure and nonsecure communication, allowing the programmer to make fine-grained security/performance tradeoffs. We present performance results that enable us to quantify the performance of our infrastructure. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

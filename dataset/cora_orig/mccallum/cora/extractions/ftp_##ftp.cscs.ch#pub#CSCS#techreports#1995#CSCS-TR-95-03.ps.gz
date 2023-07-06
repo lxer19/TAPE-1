@@ -1,0 +1,15 @@
+URL: ftp://ftp.cscs.ch/pub/CSCS/techreports/1995/CSCS-TR-95-03.ps.gz
+Refering-URL: 
+Root-URL: 
+Title: Tool-Supported Development of Parallel Application Kernels  
+Author: Cl emencon K. M. Decker A. Endo V. R. Deshpande J. Fritscher N. Masuda A. M uller R. R uhl W. Sawyer B. J. N. Wylie F. Zimmermann 
+Address: Via Cantonale, CH-6928 Manno, Switzerland  
+Affiliation: Section of Research and Development (SeRD) Swiss Scientific Computing Center (CSCS) Swiss Federal Institute of Technology Zurich  NEC European Supercomputer Systems, Swiss Branch  
+Note: C.  
+Date: April 1995  
+Pubnum: CSCS TR-95-03  Technical Report  
+Abstract: Our overall goal is to ease the parallelization of applications on distributed-memory parallel processors. Part of our team is implementing parallel kernels common to industrially significant applications using High Performance Fortran (HPF) and the Message Passing Interface (MPI). They are assisted in this activity by a second group developing an integrated tool environment consisting of a parallelization support tool, a parallel debugging tool, and a performance monitor and analyzer. From close interaction the design of the tools is inherently application-driven: application developers define requirements and evaluate prototypes of the tool environment. This paper describes goals, achievements and perspectives of the project, illustrating with three application kernels how the tool environment assists in the parallelization process: development effort and resulting performance are discussed. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

@@ -1,0 +1,10 @@
+URL: http://infopad.eecs.berkeley.edu:80/infopad-ftp/theses/Analog.CDMA.Receiver.Ckts.MS/AtoDdesign.ps.gz
+Refering-URL: http://infopad.eecs.berkeley.edu:80/infopad-ftp/theses/Analog.CDMA.Receiver.Ckts.MS/index.html
+Root-URL: http://www.cs.berkeley.edu
+Title: Analog Circuits for an All CMOS Integrated CDMA Receiver 51 CHAPTER 5 A to D
+Note: f Original  
+Abstract: One of the inherent properties of a spread spectrum system is the trade-off between bandwidth and accuracy. More specifically, a direct sequence spread spectrum (DS-SS) system such as the InfoPad radio trades off extremely high speed for reduced resolution. In other words, by dividing each transmit pulse into 64 smaller pulses (called chips) the radio hardware must now run 64 times faster than might previously have been required if this spreading had not been performed. However, by using a correlator (essentially a matched filter) on the received signal to de-spread it, the noise power introduced by quantizing the analog signal into a digital code is reduced by a factor of 64 (or more accurately, the signal to noise power ratio (SNR) is increased by a factor of 64). This factor is called the spreading gain of the DS-SS system, and effectively adds 3 bits of resolution to the analog to digital conversion function. In other words, if the systems signal to noise 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

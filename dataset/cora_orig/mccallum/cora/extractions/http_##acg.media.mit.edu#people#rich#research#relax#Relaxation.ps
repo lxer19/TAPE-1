@@ -1,0 +1,16 @@
+URL: http://acg.media.mit.edu/people/rich/research/relax/Relaxation.ps
+Refering-URL: http://acg.media.mit.edu/people/rich/research/relax/index.html
+Root-URL: http://www.media.mit.edu
+Title: Accelerating (Not!) the Iterative Convergence Method  
+Author: Richard W. DeVaul 
+Date: December 17, 1997  
+Affiliation: Computation Group The Media Laboratory Massachusetts Institute of Technology  
+Note: Masters Student, Aesthetics and  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> William F. Ames. </author> <title> Numerical Methods for Partial Differential Equations. </title> <address> Barnes & Nobel, New York, 1st edition, </address> <year> 1969. </year>
+Reference-contexts: Written in terms of a matrix problem (there are no source terms) A u = 0; (2) where the m fi m matrix A (which itself is composed of matrices) is dense. Relaxation techniques are generally O (n 2 ) when not accelerated <ref> [1] </ref>, with the actual convergence rate being determined by the eigenvalues of the iteration matrix.
+Reference: [2] <author> David Baraff. </author> <title> Linear-time dynamics using lagrange multipliers. </title> <booktitle> In Computer Graphics Proceedings, Annual Conference Series, </booktitle> <year> 1996, </year> <pages> pages 137-146, </pages> <address> New York, </address> <month> August </month> <year> 1996. </year> <note> ACM SIGGRAPH. 4 </note>
+Reference-contexts: Since A is not guaranteed to be invertible or sparse, solving for requires dense matrix methods (such as calculating the pseudo-inverse of A) which are generally O (n 3 ) Baraff <ref> [2] </ref> has developed a method for solving acyclic systems of constraints in linear time. The Iterative Convergence method 1 exploits this property to allow cyclic problems to be iteratively solved in linear time.
+References-found: 2
+

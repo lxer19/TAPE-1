@@ -1,0 +1,14 @@
+URL: http://www.cs.unm.edu/~steveah/publications/nspw.ps.gz
+Refering-URL: http://www.cs.unm.edu/~steveah/
+Root-URL: http://www.cs.unm.edu
+Email: fsoma, steveah, forrestg@cs.unm.edu  
+Title: Principles of a Computer Immune System  
+Author: Anil Somayaji, Steven Hofmeyr, Stephanie Forrest 
+Date: April 10, 1997  
+Address: Albuquerque, NM 87131  
+Affiliation: Department of Computer Science University of New Mexico  
+Abstract: Vertebrate immune systems provide a rich source of inspiration for computer security in the age of the Internet. Immune systems have many features that are desirable for the imperfect, uncontrolled, and open environments in which most computers currently exist. These include distributability, diversity, disposability, automated response and self repair, dynamic coverage, anomaly detection, multiple layers, identity via behavior, no trusted components, and imperfect detection. These principles suggest a wide variety of architectures for a computer immune system. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

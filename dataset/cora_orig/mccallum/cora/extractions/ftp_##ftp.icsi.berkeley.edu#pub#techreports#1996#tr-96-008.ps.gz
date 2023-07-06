@@ -1,0 +1,27 @@
+URL: ftp://ftp.icsi.berkeley.edu/pub/techreports/1996/tr-96-008.ps.gz
+Refering-URL: http://www.icsi.berkeley.edu/techreports/1996.html
+Root-URL: http://www.icsi.berkeley.edu
+Title: A Geometric Proof of a Formula for the Number of Young Tableaux of a Given Shape  
+Author: Michael Luby 
+Note: research supported in part by National Science Foundation operating grant CCR-9304722.  
+Address: TR-96-008  
+Affiliation: International Computer Science Institute, Berkeley, CA and University of California at Berkeley  
+Abstract: This paper contains a short proof of a formula by Frame, Robinson, and Thrall [1] which counts the number of Young tableaux of a given shape. The proof is based on a simple but novel geometric way of expressing the area of a Ferrers diagram. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> J.S. Frame, G. De B. Robinson, and R. M. Thrall, </author> <title> "The hook graphs of the symmetric group", </title> <journal> Canadian J. Math., </journal> <volume> Vol. 6, </volume> <year> 1954, </year> <pages> pp. 316-324. </pages>
+Reference-contexts: Define the hook length h i;j to be the number of cells in H i;j . (See Figure 1.) Theorem 1 (Frame-Robinson-Thrall <ref> [1] </ref>). If is a partition of n, then f () = Q ; where the product is over all cells in the Ferrers diagram of .
+Reference: [2] <author> G. </author> <title> Frobenius, " Uber die Charaktere der Symmetrischen Gruppe", Preuss. </title> <publisher> Akad. </publisher> <address> Wiss. Sitz, </address> <year> 1900, </year> <pages> pp. 516-534. </pages>
+Reference: [3] <author> C. Greene, A. Nijenhuis, and H. Wilf, </author> <title> "A Probabilistic Proof of a Formula for the Number of Young Tableaux of a Given Shape", </title> <booktitle> Advances in Mathematics, </booktitle> <volume> Vol. 31, </volume> <year> 1979, </year> <pages> pp. 104-109. </pages>
+Reference-contexts: If is a partition of n, then f () = Q ; where the product is over all cells in the Ferrers diagram of . The first steps are the same as those found in [7] and <ref> [3] </ref> (see [5].) Define a function F () = h i;j 0 otherwise. (1) In any standard tableau, the integer n must appear at a "corner", i.e., a cell which is at the end of some row and, simultaneously, at the end of a column. <p> Thus, Theorem 2 directly proves equation (4), and in turn this proves the formula. 3 A Probabilistic Viewpoint We can use the results in the previous section to justify the "parachuting" algorithm of Greene-Nijenhuis-Wilf <ref> [3] </ref> for choosing a random Young tableau of a given shape. We explain the process with respect to a staircase of shape (ff; fi) with area a (ff; fi), and retain the notation of the previous section.
+Reference: [4] <author> A. P. Hillmann, and R. M. Grassl, </author> <title> "Reverse plane partitions and tableau hook numbers", </title> <journal> J. Combinatorial Theory Ser. A, </journal> <volume> Vol. 21, </volume> <year> 1976, </year> <pages> pp. 216-221. </pages>
+Reference: [5] <author> D. E. Knuth, </author> <booktitle> The Art of Computer Programming, </booktitle> <volume> Vol. </volume> <month> 3, </month> <title> "Sorting and Searching", </title> <publisher> Addison-Wesley, </publisher> <address> Reading Mass., </address> <year> 1973. </year>
+Reference-contexts: If is a partition of n, then f () = Q ; where the product is over all cells in the Ferrers diagram of . The first steps are the same as those found in [7] and [3] (see <ref> [5] </ref>.) Define a function F () = h i;j 0 otherwise. (1) In any standard tableau, the integer n must appear at a "corner", i.e., a cell which is at the end of some row and, simultaneously, at the end of a column.
+Reference: [6] <author> M. Luby, </author> <title> "Tableau Problem", M.I.T. Combinatorics Class 18.315 Research Paper, </title> <month> December 16, </month> <year> 1974. </year>
+Reference-contexts: coefficient of i in the polynomial p ( ) is G i (ff; fi) it follows that this random process ends in rectangle R i;qi+1 with probability G i (ff; fi)=a (ff; fi). 6 4 Historical Notes The geometric proof of the formula described in Section 2 is based on <ref> [6] </ref>, an unpublished manuscript written over 20 years ago by the author while still an undergraduate at M.I.T. as a research paper for a graduate level Combinatorics course taught by Richard Stanley.
+Reference: [7] <author> P. A. MacMahon, </author> <title> Combinatory Analysis, </title> <publisher> Cambridge Univ. Press, </publisher> <address> London/New York, </address> <publisher> 1916; reprinted by Chelsea, </publisher> <address> New York, </address> <year> 1960. </year>
+Reference-contexts: If is a partition of n, then f () = Q ; where the product is over all cells in the Ferrers diagram of . The first steps are the same as those found in <ref> [7] </ref> and [3] (see [5].) Define a function F () = h i;j 0 otherwise. (1) In any standard tableau, the integer n must appear at a "corner", i.e., a cell which is at the end of some row and, simultaneously, at the end of a column.
+Reference: [8] <author> A. Nijenhuis, and H. S. Wilf, </author> <title> Combinatorial Algorithms, 2nd ed., </title> <publisher> Academic Press, </publisher> <address> New York, </address> <year> 1978. </year>
+Reference: [9] <author> A. Young, </author> <title> "Quantitative substitutional analysis II", </title> <journal> Proc. London Math. Soc., Ser. </journal> <volume> 1, Vol. 35, </volume> <year> 1902, </year> <pages> pp. 361-397. 7 </pages>
+References-found: 9
+

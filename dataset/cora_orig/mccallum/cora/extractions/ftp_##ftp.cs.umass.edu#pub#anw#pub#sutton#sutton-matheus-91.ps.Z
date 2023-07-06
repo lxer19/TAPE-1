@@ -1,0 +1,24 @@
+URL: ftp://ftp.cs.umass.edu/pub/anw/pub/sutton/sutton-matheus-91.ps.Z
+Refering-URL: http://www-anw.cs.umass.edu/~rich/publications.html
+Root-URL: 
+Email: sutton@gte.com  matheus@gte.com  
+Title: Learning Polynomial Functions by Feature Construction  
+Author: Richard S. Sutton Christopher J. Matheus 
+Address: 40 Sylvan Rd., Waltham MA 02254  40 Sylvan Rd., Waltham MA 02254  
+Affiliation: GTE Laboratories Incorporated  GTE Laboratories Incorporated  
+Date: June 27-29 1991  
+Note: Proceedings of the Eighth International Workshop on Machine Learning Chicago, Illinois,  
+Abstract: We present a method for learning higher-order polynomial functions from examples using linear regression and feature construction. Regression is used on a set of training instances to produce a weight vector for a linear function over the feature set. If this hypothesis is imperfect, a new feature is constructed by forming the product of the two features that most effectively predict the squared error of the current hypothesis. The algorithm is then repeated. In an extension to this method, the specific pair of features to combine is selected by measuring their joint ability to predict the hypothesis' error.
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> L. Breiman, J. H. Friedman, R. A. Olshen, and C. </author> <note> J. </note>
+Reference: <author> Stone. </author> <title> (1984) Classification and Regression Trees. </title> <publisher> Wadsworth & Brooks, </publisher> <address> Belmont, California. </address>
+Reference: <author> S. E. Fahlman and C. Lebiere. </author> <title> (1990) The cascade-correlation learning architecture. </title> <editor> In D. S. Touretzky, (ed.), </editor> <booktitle> Advances in Neural Information Processing Systems 2, </booktitle> <pages> pages 524-532. </pages> <publisher> Morgan Kaufmann. </publisher>
+Reference-contexts: The product of the two features with the highest potentials becomes the definition of a new feature. This feature 1 Note that this differs from "cascade correlation" <ref> ( Fahlman and Lebiere, 1990 ) </ref> in that we correlate with the square of the error, rather that with the error itself. 2 If the two features with the highest potentials have already been used to define a feature then the next best pair is used. step 0: initialize variables I
+Reference: <author> J. H. Friedman. </author> <title> (1988) Multivariate adaptive regression splines. </title> <type> Technical Report TR No. 102, </type> <institution> Laboratory for Computational Statistics, Stanford University, Stanford, </institution> <address> CA. </address>
+Reference: <author> A. G. Ivakhnenko. </author> <title> (1971) Polynomial theory of complex systems. </title> <journal> IEEE Trans. Systems, Man, and Cybernetics, SMC-1(4):364-378. </journal>
+Reference-contexts: The example run in Figure 3 shows the results of using this method on the training set from the first example (using n = m = 9). This time the algorithm constructs the minimum number of new features required to learn 3 As in, e.g., <ref> ( Ivakhnenko, 1971 ) </ref> .
+Reference: <author> T. D. Sanger. </author> <title> (1991) A tree-structured algorithm for reducing computation in networks with separable basis functions. </title> <journal> Neural Computation, </journal> <volume> 3(1) </volume> <pages> 67-78. </pages>
+Reference-contexts: Instead, we selectively construct new features one at a time by rating all features individually and then forming the product of the pair of features with the highest ratings. In our method, features are rated according to their ability to predict the squared error of the hypothesis <ref> (cf., Sanger, 1991) </ref>. The rational behind this way of rating features can be explained by viewing the model in terms of a single unit network. After the network is trained on a set of examples it will accurately predict y for some training instances but not for others.
+References-found: 6
+

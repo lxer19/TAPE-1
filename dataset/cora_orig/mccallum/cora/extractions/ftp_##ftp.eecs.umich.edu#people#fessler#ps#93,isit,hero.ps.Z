@@ -1,0 +1,20 @@
+URL: ftp://ftp.eecs.umich.edu/people/fessler/ps/93,isit,hero.ps.Z
+Refering-URL: http://www.eecs.umich.edu/~fessler/papers/conf.html
+Root-URL: http://www.cs.umich.edu
+Title: Recursive CR-Type Bounds and the EM Algorithm: Applications to ECT Image Reconstruction 1 bound. The
+Author: A.O. Hero and J.A. Fessler flfl 
+Keyword: Summary  
+Note: Y provide the CR  
+Address: Ann Arbor, MI 48109-2122  
+Affiliation: Dept. of Electrical Engineering and Computer Science and Division of Nuclear Medicine The University of Michigan,  
+Abstract: We give a class of iterative algorithms to monotonically approximate submatrices of the CR matrix bound on the covariance of any estimator of a vector parameter . A natural implementation of the iterative algorithm employs a "complete data incomplete data" formulation similar to that underlying the EM parameter estimation algorithm. Our results make it feasible to compute CR-type bounds for previously intractible problems involving a large number of "nuisance parameters," such as arise in image reconstruction. The Cramer-Rao (CR) bound on estimator covari-ance is an important tool for predicting fundamental limits on best achievable parameter estimation performance [5], predicting the impact of side information and constraints on estimation performance [3], and obtaining optimal experimental designs [1]. For a vector parameter 2 fi IR n the upper left p fi p matrix of the inverse of the n fi n Fisher information matrix provides the CR lower bound on the minimum achievable covariance of any unbiased estimator of 1 ; : : : ; p , p n. Equivalently, the first p rows of F 1 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> V. Federov, </author> <title> Theory of Optimal Experiments, </title> <address> Wi-ley, New York, </address> <year> 1972. </year>
+Reference: [2] <author> G. H. Golub and C. F. Van Loan, </author> <title> Matrix Computations (2nd Edition), </title> <publisher> The Johns Hopkins University Press, </publisher> <address> Baltimore, </address> <year> 1989. </year>
+Reference-contexts: These algorithms fall into the class of "splitting matrix iterations" <ref> [2] </ref>. The inverse of this splitting matrix should be sparse and simply determined. The splitting matrix is chosen based on purely algebraic or purely statistical considerations to ensure that a valid lower bound results at each iteration of the algorithm.
+Reference: [3] <author> J. Gorman and A. O. Hero, </author> <title> "Lower bounds for parametric estimation with constraints," </title> <journal> IEEE Trans. on Inform. Theory, </journal> <volume> vol. IT-36, </volume> <pages> pp. 1285-1301, </pages> <month> Nov. </month> <year> 1990. </year>
+Reference: [4] <author> A. R. Kuruc, </author> <title> "Lower bounds on multiple-source direction finding in the presence of direction-dependent antenna-array-calibration errors," </title> <type> Technical Report 799, </type> <institution> M.I.T. Lincoln Laboratory, </institution> <month> Oct., </month> <year> 1989. </year>
+Reference: [5] <author> C. R. Rao, </author> <title> Linear Statistical Inference and Its Applications, </title> <publisher> Wiley, </publisher> <address> New York, </address> <year> 1973. </year> <pages> Page 2 </pages>
+References-found: 5
+

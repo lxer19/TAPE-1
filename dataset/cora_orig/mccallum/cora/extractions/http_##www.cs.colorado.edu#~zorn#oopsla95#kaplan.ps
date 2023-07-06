@@ -1,0 +1,25 @@
+URL: http://www.cs.colorado.edu/~zorn/oopsla95/kaplan.ps
+Refering-URL: http://www.cs.colorado.edu/~zorn/oopsla95/papers.html
+Root-URL: http://www.cs.colorado.edu
+Email: fkaplan,wiledeng@cs.umass.edu  
+Title: Performance and Optimization Issues in Polylingual Object-Oriented Databases Position Paper  
+Author: Alan Kaplan, Jack C. Wileden 
+Date: September 29, 1995  
+Address: Amherst, Massachusetts 01003 USA  
+Affiliation: Department of Computer Science University of Massachusetts  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> M. Carey, D. DeWitt, G. Graefe, D. Haight, J. Richardson, D. Schuh, E. Shekita, and S. Vandenberg. </author> <title> The EXODUS extensible DBMS project: An overview. </title> <editor> In S. B. Zdonik and D. Maier, editors, </editor> <booktitle> Readings in Object-Oriented Database Systems. </booktitle> <year> 1990. </year>
+Reference-contexts: Thus, clustering strategies must be developed permitting objects with different language implementations to be co-located in the same area. Since Open OODB is currently based on the Exodus storage manager <ref> [1] </ref>, our PolySPIN-based prototype uses the default Exodus storage organization (although Exodus does permit more sophisticated policies to be defined). * OQL optimizations: Almost all OODBs provide an OQL allowing users to either construct arbitrary queries or embed queries in application code.
+Reference: [2] <author> M. Carey, D. DeWitt, and J. Naughton. </author> <title> The OO7 benchmark. </title> <booktitle> In ACM SIGMOD International Conference on Management of Data, </booktitle> <pages> pages 12-21, </pages> <year> 1993. </year>
+Reference-contexts: Doing so will involve various OODB performance measurements and experiments, which would be facilitated by appropriate benchmark-ing methodologies. Unfortunately, current research activities in OODB performance research have largely ignored polylingual concerns. For example, the popular 007 benchmark <ref> [2] </ref> makes the tacit assumption that all objects are implemented using a single language. In the remainder of this section, we outline several performance and optimization issues that arise in polylingual OODBs. * Isolating the cost of crossing language boundaries: There are a number mechanisms that permit interoperation between languages.
+Reference: [3] <author> A. Kaplan and J. Wileden. PolySPIN: </author> <title> Enabling interoperability in object-oriented databases. </title> <note> In preparation. </note>
+Reference-contexts: Existing interoperability approaches provide little or no support for polylingual access, so new approaches must evolve to provide such support. We are currently focusing on developing such approaches. Our results so far include the definition of an object-oriented framework we call PolySPIN <ref> [3] </ref>, which provides improved support for persistence, interoperability and naming in object-oriented databases, and a realization of this framework as extensions to the TI/Arpa Open Object-Oriented Database (Open OODB) [6].
+Reference: [4] <author> A. Kaplan and J. Wileden. PolySPINner 1.0: </author> <title> Automating support for interoperability in polylingual software systems. </title> <note> Submitted. </note>
+Reference-contexts: In addition, we have also developed a prototype toolset (called PolySPINner <ref> [4] </ref>) providing automated support for interoperability between C++ and CLOS in the Open OODB.
+Reference: [5] <institution> Texas Instruments, Inc., Dallas, </institution> <month> TX. </month> <title> Open OODB Query Language User Manual, release 0.2 (alpha) edition, </title> <year> 1993. </year>
+Reference-contexts: They would also like to be able to employ either navigational access or associative access in processing the personnel information from the various colleges. An example of an OQL-style query (based on <ref> [5] </ref>) that might be part of one of their applications, in this case seeking candidates for early retirement incentives, is shown in Figure 2.
+Reference: [6] <author> D. L. Wells, J. A. Blakely, and C. W. Thompson. </author> <title> Architecture of an open object-oriented database management system. </title> <journal> Computer, </journal> <volume> 25(10) </volume> <pages> 74-82, </pages> <month> Oct. </month> <year> 1992. </year> <month> 6 </month>
+Reference-contexts: Our results so far include the definition of an object-oriented framework we call PolySPIN [3], which provides improved support for persistence, interoperability and naming in object-oriented databases, and a realization of this framework as extensions to the TI/Arpa Open Object-Oriented Database (Open OODB) <ref> [6] </ref>. In addition, we have also developed a prototype toolset (called PolySPINner [4]) providing automated support for interoperability between C++ and CLOS in the Open OODB.
+References-found: 6
+

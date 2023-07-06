@@ -1,0 +1,24 @@
+URL: ftp://dimacs.rutgers.edu/pub/dimacs/TechnicalReports/TechReports/1998/98-35.ps.gz
+Refering-URL: http://dimacs.rutgers.edu/TechnicalReports/1998.html
+Root-URL: http://www.cs.rutgers.edu
+Email: email: sabbasi@paul.rutgers.edu  
+Title: answers help in posing questions? 1  
+Author: by Sarmad Abbasi 
+Address: Piscataway, New Jersey 08855  
+Affiliation: Dept. of Computer Science Rutgers University  
+Note: Do  DIMACS is a partnership of Rutgers University, Princeton University, AT&T Labs-Research, Bell Labs, Bellcore and NEC Research Institute. DIMACS is an NSF Science and Technology Center, funded under contract STC-91-19999; and also receives support from the New Jersey Commission on Science and Technology.  
+Abstract: DIMACS Technical Report 98-35 September 1998 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> S. P. Chaudhuri, </author> <year> 1997. </year> <type> personal communication. </type>
+Reference-contexts: Now if Carole follows the strategy described in Lemma 4.3 in every round she wins G 0 (T n ; k 1 ; : : : ; k r ). 5 Another Interesting Game The game G (n; k; r) is inspired by another game of Shiva Chaudhuri <ref> [1] </ref>. We describe briefly describe this game. Chaudhuri's game C (n; k; r) is played on mesh which is cut into half diagonally (See Figure 3). Hence, there are n levels. Each level i consists of i nodes labeled (i; 1); : : : ; (i; i).
+Reference: [2] <author> A. Fraenkel. </author> <title> Combinatorial games. </title> <journal> Electronic Journal of Combinatorics., </journal> <note> Dynamic Surveys:1-45, </note> <year> 1996. </year>
+Reference-contexts: 1 Introduction Combinatorial games have been extensively studied <ref> [2] </ref>. The topic of this paper is the investigation of a game G (n; k; r) between two players. Let T n denote a complete binary tree with n levels. Level 0 of T n consists of a single node labeled by, , the empty string.
+Reference: [3] <author> A. Plec. </author> <title> Ulam's problem on searching with a lie. </title> <journal> J. Combin. Thoery. Ser. A., </journal> <volume> 44 </volume> <pages> 129-140, </pages> <year> 1987. </year>
+Reference-contexts: One can easily show that Paul wins U (n; k; r) if and only if 2 kr n: Ulam's game becomes much more interesting if Carole is allowed to lie at times. Very interesting results are obtained for Ulam's searching game with fixed number of lies <ref> [3, 4] </ref>.
+Reference: [4] <author> J. Spencer. </author> <title> Ulam's searching game with fixed number of lies. </title> <journal> Theoretical Computer Science, </journal> <volume> 95 </volume> <pages> 307-321, </pages> <year> 1992. </year>
+Reference-contexts: After r rounds, Paul wins if there is a unique paths consistent with Carole's answers. Remark The names Paul and Carole have been suggested by Joel Spencer <ref> [4] </ref> for these type of searching games. Paul after the great Questioner-Paul Erdos. Carole maybe and thought of her acronym -Oracle. It is interesting to contrast G (n; r; k) with the k round version of Ulam's searching game - 2 - [5]. <p> One can easily show that Paul wins U (n; k; r) if and only if 2 kr n: Ulam's game becomes much more interesting if Carole is allowed to lie at times. Very interesting results are obtained for Ulam's searching game with fixed number of lies <ref> [3, 4] </ref>. <p> Very interesting results are obtained for Ulam's searching game with fixed number of lies [3, 4]. Ulam's game is often compared <ref> [4] </ref> with the classical "Twenty Questions." However, few would be willing to play Twenty Questions, if they were required to ask all of the twenty questions at once! What makes Twenty Questions interesting is that "answers do help in posing questions." The game G (n; k; r) turns out to be
+Reference: [5] <author> S. Ulam. </author> <title> Adventures of a Mathematician. </title> <address> Sribners, New York, </address> <year> 1977. </year>
+Reference-contexts: Paul after the great Questioner-Paul Erdos. Carole maybe and thought of her acronym -Oracle. It is interesting to contrast G (n; r; k) with the k round version of Ulam's searching game - 2 - <ref> [5] </ref>. In Ulam's game, U (n; k; r), Carole thinks of an x from the set S = f1; : : : ; ng.
+References-found: 5
+

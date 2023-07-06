@@ -1,0 +1,17 @@
+URL: ftp://ftp.mad-scientist.com/pub/genetic-programming/papers/WCCI94_CPC.ps.Z
+Refering-URL: http://www.cs.bham.ac.uk/~wbl/biblio/gp-bibliography.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Email: pdhaes@lsil.com pdhaes@cs.stanford.edu  
+Title: Context Preserving Crossover in Genetic Programming.  
+Author: Patrik D'haeseleer 
+Address: 197 Ravenswood Ave. Atherton, CA, 94027  
+Affiliation: LSI Logic  
+Abstract: This paper introduces two new crossover operators for Genetic Programming (GP). Contrary to the regular GP crossover, the operators presented attempt to preserve the context in which subtrees appeared in the parent trees. A simple coordinate scheme for nodes in an S-expression tree is proposed, and crossovers are only allowed between nodes with exactly or partially matching coordinates. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Altenberg, L. </author> <year> (1994). </year> <title> The Evolution of Evolvability in Genetic Programming. </title> <editor> In K. E. Kinnear, editor, </editor> <booktitle> Advances in Genetic Programming, Chapter 3, </booktitle> <address> Cambridge, MA. </address> <publisher> MIT. Press. </publisher>
+Reference: <author> Koza, J. </author> <year> (1992). </year> <title> Genetic Programming: On the Programming of Computers by Means of Natural Selection. </title> <address> Cam-bridge, MA. </address> <publisher> MIT Press. </publisher>
+Reference: <author> Koza, J. </author> <year> (1994). </year> <title> Genetic Programming II: Automatic Discovery of Reusable Subprograms. </title> <address> Cambridge, MA. </address> <publisher> MIT Press. To appear. </publisher>
+Reference: <author> Singleton, A. </author> <year> (1993). </year> <note> Greediness. Posting of 8-21-1993 on genetic-programming@cs.stanford.edu mailing list. </note>
+References-found: 4
+

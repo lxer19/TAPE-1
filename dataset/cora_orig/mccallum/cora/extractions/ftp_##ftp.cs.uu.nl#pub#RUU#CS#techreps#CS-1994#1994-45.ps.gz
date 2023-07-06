@@ -1,0 +1,20 @@
+URL: ftp://ftp.cs.uu.nl/pub/RUU/CS/techreps/CS-1994/1994-45.ps.gz
+Refering-URL: http://www.cs.ruu.nl/docs/research/publication/TechList1.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: A Proof System for Asynchronously Communicating Deterministic Processes  
+Author: F.S. de Boer and M. van Hulst 
+Address: P.O. Box 80089 3508 TB Utrecht, The Netherlands  
+Affiliation: Utrecht University Dept. of Comp. Sc.  
+Abstract: We introduce in this paper new communication and synchronization constructs which allow deterministic processes, communicating asynchronously via unbounded FIFO buffers, to cope with an indeterminate environment. We develop for the resulting parallel programming language, which subsumes deterministic dataflow, a simple compositional proof system. Reasoning about communication and synchronization is formalized in terms of input/output variables which record for each buffer the sequence of values sent and received. These input/output variables provide an abstraction of the usual notion of history variables which denote sequences of communication events. History variables are in general necessary for compositional reasoning about the correctness of distributed systems composed of non-deterministic processes.
+Abstract-found: 1
+Intro-found: 1
+Reference: [AFdR80] <author> K.R. Apt, N. Francez, and W.P. de Roever. </author> <title> A proof system for communicating sequential processes. </title> <journal> ACM-TOPLAS, </journal> <volume> 2(3) </volume> <pages> 359-385, </pages> <year> 1980. </year>
+Reference: [Fra92] <author> N. Francez. </author> <title> Program Verification. </title> <publisher> Addison Wesley, </publisher> <year> 1992. </year>
+Reference: [HdR86] <author> J. Hooman and W.P. de Roever. </author> <title> The quest goes on: a survey of proof systems for partial correctness of CSP. </title> <booktitle> In Current trends in concurrency, volume 24 of Lecture Notes in Computer Science, </booktitle> <pages> pages 343-395. </pages> <publisher> Springer-Verlag, </publisher> <year> 1986. </year> <month> 18 </month>
+Reference: [OG76] <author> S. Owicki and D. Gries. </author> <title> An axiomatic proof technique for parallel programs I. </title> <journal> Acta Informatica, </journal> <volume> 6 </volume> <pages> 319-340, </pages> <year> 1976. </year>
+Reference: [Pan88] <author> P.K. Pandya. </author> <title> Compositional Verification of Distributed Programs. </title> <type> PhD thesis, </type> <institution> Tata Institute of Fundamental Research, </institution> <address> Homi Bhabha Road, Bombay 400 005, INDIA, </address> <year> 1988. </year>
+Reference: [TZ88] <author> J.V. Tucker and J.I. Zucker. </author> <title> Program Correctness over Abstract Data Types, with Error-State Semantics. CWI Monographs 6. </title> <publisher> North-Holland, </publisher> <year> 1988. </year>
+Reference: [ZdRvEB85] <author> J. Zwiers, W.P. de Roever, and P. van Emde Boas. </author> <title> Compositionality and concurrent networks: Soundness and completeness of a proofsystem. </title> <booktitle> In Proc. ICALP'85, volume 194 of Lecture Notes in Computer Science. </booktitle> <publisher> Springer-Verlag, </publisher> <year> 1985. </year>
+Reference: [Zwi88] <author> J. Zwiers. </author> <title> Compositionality, Concurrency and Partial Correctness. </title> <type> PhD thesis, </type> <institution> Technical University Eindhoven, </institution> <year> 1988. </year> <month> 19 </month>
+References-found: 8
+

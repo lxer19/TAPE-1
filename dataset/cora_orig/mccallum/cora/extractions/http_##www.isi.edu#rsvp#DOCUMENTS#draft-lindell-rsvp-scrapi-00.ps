@@ -1,0 +1,22 @@
+URL: http://www.isi.edu/rsvp/DOCUMENTS/draft-lindell-rsvp-scrapi-00.ps
+Refering-URL: http://www.isi.edu/div7/rsvp/pub.html
+Root-URL: http://www.isi.edu
+Title: File: draft-lindell-rsvp-scrapi-00.txt SCRAPI A Simple ``Bare Bones'' API for RSVP Version  
+Author: INTERNET-DRAFT Bob Lindell 
+Address: East Coast), or  West Coast).  
+Web: ftp.is.co.za (Africa), ftp.nordu.net  ftp.isi.edu  
+Note: Status of this Memo This document is an Internet-Draft. Internet-Drafts are working documents of the Internet Engineering Task Force (IETF), its areas, and its working groups. Note that other groups may also distribute working documents as Internet-Drafts. To view the entire list of current Internet-Drafts, please check the ``1id-abstracts.txt'' listing contained in the Internet-Drafts Shadow Directories on  (Northern Europe), ftp.nis.garr.it (Southern Europe), munnari.oz.au (Pacific Rim), ftp.ietf.org (US  (US  This document describes SCRAPI, a simple ``bare bones'' API for RSVP. The goal of this API is to produce an interface which simplifies the augmen tation of applications with RSVP support. Lindell Expiration: February 1999 [Page 1]  
+Date: Expiration: February 1999 ISI  August 10, 1998  
+Pubnum: 1  
+Abstract: Internet-Drafts are draft documents valid for a maximum of six months and may be updated, replaced, or obsoleted by other documents at any time. It is inappropriate to use Internet-Drafts as reference material or to cite them other than as ``work in progress.'' Abstract 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <editor> Braden, R., Ed., et. al., </editor> <title> Resource Reservation Protocol (RSVP) - Version 1 Func tional Specification, </title> <type> RFC 2205, </type> <month> September </month> <year> 1997. </year>
+Reference-contexts: 1. Introduction This document describes SCRAPI, a simple ``Bare Bones'' API for RSVP <ref> [1] </ref>. The goal of this API is produce an interface which simplifies the augmentation of applications with RSVP support. The main features of SCRAPI are: Allow the addition of RSVP support to applications by adding a few lines of code.
+Reference: [2] <author> Braden, R., Hoffman, D., </author> <title> RAPI -- An RSVP Application Programming Interface Version 5, </title> <booktitle> Work In Progress, </booktitle> <month> November </month> <year> 1997. </year>
+Reference-contexts: Provide a portable interface which can be used with any vendor's RAPI implementation. Avoid the introduction of RSVP specific data types and definitions. Support IPv4 and IPv6 in a transparent manner. SCRAPI is layered on top of RAPI <ref> [2] </ref>, an existing RSVP API, to provide portability across vendor implementations. Currently, SCRAPI has been tested only with the ISI implementation of RAPI.
+Reference: [3] <author> Shenker, S., Partridge, C., Guerin, R., </author> <title> Specification of Guaranteed Quality of Ser vice, </title> <type> RFC 2212, </type> <month> September </month> <year> 1997. </year>
+Reference-contexts: Lindell Expiration: February 1999 [Page 2] INTERNET-DRAFT SCRAPI v.1 July 1998 2. Functional Description Applications which use SCRAPI get a simplied service model. The average bandwidth specified by the sender is currently translated into the integrated services controlled load [4] or guaranteed service <ref> [3] </ref> with the given average bandwidth. The peak bandwidth and token bucket depth are set to twice the average bandwidth. Minimum policed unit and maximum packet size are set to 64 bytes and the largest MTU of all IP interfaces on the host.
+
+References-found: 3
+

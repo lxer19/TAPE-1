@@ -1,0 +1,14 @@
+URL: ftp://info.mcs.anl.gov/pub/tech_reports/reports/P639.ps.Z
+Refering-URL: http://www.mcs.anl.gov/publications/abstracts/abstracts97.htm
+Root-URL: http://www.mcs.anl.gov
+Email: e-mail: fbischof,pwug@mcs.anl.gov  
+Title: Time-Parallel Computation of Pseudo-Adjoints for a Leapfrog Scheme  
+Author: Christian H. Bischof and Po-Ting Wu 
+Note: Argonne Preprint ANL/MCS-P639-0197  
+Address: Argonne, IL 60439-4844  
+Affiliation: Mathematics and Computer Science Division Argonne National Laboratory  
+Abstract: The leapfrog scheme is a commonly used second-order difference scheme for solving differential equations. If Z(t) denotes the state of the system at time t, the leapfrog scheme computes the state at the next time step as Z(t + 1) = H(Z(t); Z(t 1); W ), where H is the nonlinear timestepping operator and W are parameters that are not time dependent. In this article, we show how the associativity of the chain rule of differential calculus can be used to compute a so-called adjoint x T (dZ(t)=d[Z(0); W ]) efficiently in a parallel fashion. To this end, we (1) employ the reverse mode of automatic differentiation at the outermost level, (2) use a sparsity-exploiting incarnation of the forward mode of automatic differentiation to compute derivatives of H at every time step, and (3) exploit chain rule associativity to compute derivatives at individual time steps in parallel. We report on experimental results with a 2-D shallow-water equation model problem on an IBM SP parallel computer and a network of Sun SPARCstations. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

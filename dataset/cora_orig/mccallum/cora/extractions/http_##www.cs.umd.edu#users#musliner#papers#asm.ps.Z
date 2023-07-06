@@ -1,0 +1,19 @@
+URL: http://www.cs.umd.edu/users/musliner/papers/asm.ps.Z
+Refering-URL: http://www.cs.umd.edu/users/musliner/
+Root-URL: 
+Email: fkrebsbac,muslinerg@htc.honeywell.com  
+Title: A Refinery Immobot for Abnormal Situation Management  
+Author: Kurt D. Krebsbach and David J. Musliner 
+Address: 3660 Technology Drive Minneapolis, MN 55418  
+Affiliation: Automated Reasoning Group Honeywell Technology Center  
+Abstract: Oil refineries literally provide the lifeblood for global economic health, and disruptions to their operations have major worldwide impact. We are developing a large-scale semi-autonomous refinery immobot to assist human operators in controlling refineries during abnormal situations. Based primarily on reactive and procedural approaches to intelligent behavior, the aegis system will interact with multiple users and thousands of refinery components to diagnose and compensate for unanticipated plant disruptions. Through intelligent autonomous behavior and improved human situation awareness, the aegis project is expected to have a multi-billion dollar annual impact on refinery productivity. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Georgeff, M., and Lansky, A. </author> <year> 1986. </year> <title> Procedural knowledge. </title> <booktitle> IEEE Special Issue on Knowledge Representation 74 </booktitle> <pages> 1383-1398. </pages>
+Reference: <author> Ingrand, F.; Georgeff, M.; and Rao, A. </author> <year> 1992. </year> <title> An architecture for real-time reasoning and system control. </title> <journal> IEEE Expert 7:6:34-44. </journal>
+Reference: <author> Ingrand, F. F. </author> <year> 1994. </year> <title> C-PRS Development Environment (Version 1.4.0). </title> <address> Labege Cedex, France: </address> <publisher> ACS Technologies. </publisher>
+Reference-contexts: A Procedural Approach We have chosen to build the core reasoning engine of aegis in C-PRS <ref> (Ingrand 1994) </ref>, a C-based version of the Procedural Reasoning System (Ingrand, Georgeff, & Rao 1992; Georgeff & Lansky 1986). As shown in resent procedural knowledge about how to accomplish goals in various situations. Goals represent persistent desires that trigger KAs until they are satisfied or removed.
+Reference: <author> Williams, B. C., and Nayak, P. P. </author> <year> 1997. </year> <title> Immobile robots: AI in the new millennium. </title> <journal> AI Magazine 17(3). </journal>
+Reference-contexts: The inability of automated control systems and plant operations personnel to control abnormal situations has an economic impact of at least $20 billion annually in the petrochemical industry alone. Systems for controlling oil refineries provide an excellent example of what Williams and Nayak have called immobots <ref> (Williams & Nayak 1997) </ref>. Immobots are appealing because they provide the richness inherent in interacting with real, physical environments (as with robots), while maintaining the ready accessibility of a networked software environment (as with softbots).
+References-found: 4
+

@@ -1,0 +1,19 @@
+URL: http://www.das.harvard.edu/users/students/Stanley_Chen/papers/techrev.ps.gz
+Refering-URL: http://www.das.harvard.edu/users/students/Stanley_Chen/Stanley_Chen.html
+Root-URL: 
+Email: Internet: sfc@calliope.harvard.edu  
+Title: ALIGNING SENTENCES IN BILINGUAL CORPORA USING LEXICAL INFORMATION  
+Author: Stanley F. Chen 
+Address: Cambridge, MA 02138  
+Affiliation: Aiken Computation Laboratory Division of Applied Sciences Harvard University  
+Abstract: In this paper, we describe a fast algorithm for aligning sentences with their translations in a bilingual corpus. Existing efficient algorithms ignore word identities and only consider sentence length (Brown et al., 1991b; Gale and Church, 1991). Our algorithm constructs a simple statistical word-to-word translation model on the fly during alignment. We find the alignment that maximizes the probability of generating the corpus with this translation model. We have achieved an error rate of approximately 0.4% on Canadian Hansard data, which is a significant improvement over previous results. The algorithm is language independent. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> (Bellman, 1957) Richard Bellman. </author> <title> Dynamic Programming. </title> <publisher> Princeton University Press, </publisher> <address> Princeton N.J., </address> <note> 1957. </note> <author> (Brown et al., 1990) Peter F. Brown, John Cocke, Stephen A. DellaPietra, Vincent J. DellaPi-etra, Frederick Jelinek, John D. Lafferty, Robert L. Mercer, and Paul S. Roossin. </author> <title> A statistical approach to machine translation. </title> <journal> Computational Linguistics, </journal> <volume> 16(2) </volume> <pages> 79-85, </pages> <month> June </month> <year> 1990. </year> <editor> (Brown et al., 1991a) Peter F. Brown, </editor> <publisher> Stephen A. </publisher>
+Reference: <author> DellaPietra, Vincent J. DellaPietra, and Robert L. Mercer. </author> <title> Word sense disambiguation using statistical methods. </title> <booktitle> In Proceedings 29th Annual Meeting of the ACL, </booktitle> <pages> pages 265-270, </pages> <address> Berkeley, CA, </address> <month> June </month> <year> 1991. </year> <editor> (Brown et al., 1991b) Peter F. Brown, </editor> <address> Jennifer C. </address>
+Reference: <author> Lai, and Robert L. Mercer. </author> <title> Aligning sentences in parallel corpora. </title> <booktitle> In Proceedings 29th Annual Meeting of the ACL, </booktitle> <pages> pages 169-176, </pages> <address> Berkeley, CA, </address> <month> June </month> <year> 1991. </year> <editor> (Brown et al., 1993) Peter F. Brown, </editor> <publisher> Stephen A. </publisher>
+
+Reference: <author> Laird, and D.B. Rubin. </author> <title> Maximum likelihood from incomplete data via the EM algorithm. </title> <journal> Journal of the Royal Statistical Society, </journal> <note> 39(B):1-38, 1977. </note> <author> (Gale and Church, 1991) William A. Gale and Kenneth W. Church. </author> <title> A program for aligning sentences in bilingual corpora. </title> <booktitle> In Proceedings of the 29th Annual Meeting of the ACL, </booktitle> <address> Berkeley, California, </address> <month> June </month> <year> 1991. </year> <editor> (Gale et al., 1992) William A. Gale, </editor> <publisher> Kenneth W. </publisher>
+
+References-found: 4
+

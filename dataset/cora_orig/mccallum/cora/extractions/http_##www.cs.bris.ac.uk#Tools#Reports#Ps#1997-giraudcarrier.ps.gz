@@ -1,0 +1,18 @@
+URL: http://www.cs.bris.ac.uk/Tools/Reports/Ps/1997-giraudcarrier.ps.gz
+Refering-URL: http://www.cs.bris.ac.uk/Tools/Reports/Abstracts/1997-giraudcarrier.html
+Root-URL: 
+Email: cgc@cs.bris.ac.uk  mward@srd.bt.co.uk  
+Phone: 2  
+Title: Learning Customer Profiles to Generate Cash over the Internet  
+Author: Christophe Giraud-Carrier and Mike Ward 
+Address: Bristol, BS8 1UB, England  Martlesham Heath Ipswich, IP5 7RE, England  
+Affiliation: 1 Department of Computer Science, University of Bristol  BT Laboratories,  
+Abstract: This paper describes a customer handling system that combines the World-Wide Web and Machine Learning techniques to generate cash over the Internet. The use of the World-Wide Web increases flexibility in human-system interaction, while the use of machine learning improves targeting and customer satisfaction, thereby enhancing sales potential. Off-line testing based on a number of realistic scenarios demonstrates promise and on-line trials are now under consideration.
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> C.G. Giraud-Carrier and T.R. Martinez, </author> <title> "An Integrated Framework for Learning and Reasoning," </title> <journal> Journal of Artificial Intelligence Research, </journal> <volume> vol. 3, </volume> <pages> pp. 147-185, </pages> <year> 1995. </year>
+Reference-contexts: In addition, profiles need not remain static. ML techniques offer enough flexibility to adapt to changes in circumstances, behaviour and attitudes in the customer base. Hence, ML greatly increases the reliability, robustness and consistency of the current, ad hoc practises. FLARE <ref> [1, 2] </ref> is used here for learning. A complete description of FLARE is beyond the scope of this paper. Only its main features are highlighted here. FLARE integrates inductive learning using prior knowledge together with reasoning in a non-recursive, propositional setting. <p> The inductive mechanisms are then used to refine, update or modify that expertise over time. Similarly, if no expertise is available (e.g., new products), FLARE can still cope through induction only. A full account of FLARE is in <ref> [1] </ref>. Here, FLARE's learning task is described as follows. A customer's circumstances are encoded as a set of attribute-value pairs.
+Reference: [2] <author> C. Giraud-Carrier, "FLARE: </author> <title> Induction with Prior Knowledge," </title> <booktitle> Research and Development in Expert Systems XIII (Proceedings of Expert Systems'96), </booktitle> <pages> pp. 11-24, </pages> <year> 1996. </year>
+Reference-contexts: In addition, profiles need not remain static. ML techniques offer enough flexibility to adapt to changes in circumstances, behaviour and attitudes in the customer base. Hence, ML greatly increases the reliability, robustness and consistency of the current, ad hoc practises. FLARE <ref> [1, 2] </ref> is used here for learning. A complete description of FLARE is beyond the scope of this paper. Only its main features are highlighted here. FLARE integrates inductive learning using prior knowledge together with reasoning in a non-recursive, propositional setting. <p> Note that FLARE is a supervised learner and thus can only learn when feedback is provided. FLARE uses the customer's feedback to update its knowledge base. Such updates include creating new profiles, generalising existing profiles and removing obsolete or redundant profiles (details in <ref> [2] </ref>). 3 Front-End HTML Interface The explosion of the Internet offers tremendous opportunities for telecommunications companies, both to deliver new technology and to improve existing services. In particular, * The Internet is a global, distributed resource.
+References-found: 2
+

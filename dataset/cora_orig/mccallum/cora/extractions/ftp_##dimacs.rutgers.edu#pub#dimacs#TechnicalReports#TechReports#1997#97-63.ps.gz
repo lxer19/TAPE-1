@@ -1,0 +1,41 @@
+URL: ftp://dimacs.rutgers.edu/pub/dimacs/TechnicalReports/TechReports/1997/97-63.ps.gz
+Refering-URL: http://dimacs.rutgers.edu/TechnicalReports/1997.html
+Root-URL: http://www.cs.rutgers.edu
+Email: durandd@dimacs.rutgers.edu,  farach@cs.rutgers.edu,  ravi@cmu.edu  mona@cs.princeton.edu  
+Title: by  
+Author: D. Durand M. Farach R. Ravi M. Singh 
+Address: Princeton University  
+Web: http://www.cs.princeton.edu/~durand  http://www.cs.rutgers.edu/~farach  
+Affiliation: Computational Biology Group, University of Pennsylvania DIMACS, Rutgers University  Department of Computer Science Rutgers University  Graduate School of Industrial Administration Carnegie Mellon University  Department of Computer Science  
+Note: A Short Course in Computational Molecular Biology 1  BIR-94-12594, an Alfred P. Sloan Research Fellowship and NATO Grant 96-0215. 4 Permanent Member, Supported by NSF Grant BIR-94-12594 and NSF CAREER grant 96-25297. 5 Permanent Member, Supported by NSF Grant BIR-94-12594. DIMACS is a partnership of Rutgers University, Princeton University, AT&T Research, Bellcore, and Bell Laboratories. DIMACS is an NSF Science and Technology Center, funded under contract STC-91-19999; and also receives support from the New Jersey Commission on Science and Technology.  
+Abstract: DIMACS Technical Report 97-63 October 1997 1 Presented at the First International University of Buenos Aires/Dimacs Tutorial in Bioinformatics 2 Permanent Member, Supported by NSF Grants BIR-94-13215 A01 and BIR-94-12594. 3 Permanent Member, Supported by NSF Career Development Award CCR-95-01942, NSF Grant 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Bruce Alberts et al. </author> <title> Molecular Biology of the Cell Garland, </title> <year> 1994 </year>
+Reference: [2] <author> Larry Gonick and Mark Wheelis. </author> <title> The Cartoon Guide to Genetics HarperPerennial, </title> <year> 1991 </year>
+Reference: [3] <author> James L. Gould and William T. Keeton Biological Science W. W. Norton and Co., </author> <year> 1996 </year>
+Reference: [4] <author> A. J. F. Griffiths, J. H. Miller, D. T. Suzuki, R. C. Lewontin and W. M. </author> <title> Gelbart An Introduction to Genetic Analysis Freeman, </title> <year> 1996 </year>
+Reference: [5] <editor> R. C. King and W. D. </editor> <publisher> Stansfield A Dictionary of Genetics Oxford University Press, </publisher> <year> 1990 </year>
+Reference: [6] <institution> Benjamin Lewin Genes VI Oxford University Press, </institution> <year> 1997 </year>
+
+
+Reference: [1] <author> S.C. Chan, A.K.C. Wong and D.K.Y. Chiu. </author> <title> "A Survey of Multiple Sequence Comparison Methods" Bulletin of Mathematical Biology (1992) 54 </title> <type> 563-598 </type>
+Reference: [2] <author> Adam Godzik. </author> <title> "The structural alignment between two proteins: Is there a unique answer?" Protein Science (1996) 5 </title> <type> 1325-1338 </type>
+
+
+Reference: [1] <author> C. Brandon and J. Tooze. </author> <title> Introduction to Protein Structure. </title> <publisher> Garland Publishing, Inc., </publisher> <year> 1991. </year>
+Reference: [2] <author> F. Eisenhaber, B. Persson and P. Argos. </author> <title> "Protein structure prediction: recognition of primary, secondary and tertiary structural features from amino acid sequence." Critical Reviews in Biochemistry and Molecular Biology (1995) 30(1) </title> <type> 1-94. </type>
+Reference: [3] <author> T. Defay and F. Cohen. </author> <title> "Evaluation of Current Techniques for Ab Initio Protein Structure Prediction." PROTEINS: Structure, </title> <booktitle> Function and Genetics (1995) 23 </booktitle> <pages> 431-445. </pages>
+Reference: [4] <author> C. Lemer, M. Rooman, and S. Wodak. </author> <title> "Protein structure prediction by threading methods: evaluation of current techniques." PROTEINS: Structure, </title> <booktitle> Function and Genetics (1995) 23 </booktitle> <pages> 337-355. </pages>
+Reference: [5] <author> T. Akutsu and S. Miyano. </author> <title> On the approximation of protein threading." </title> <booktitle> In 1st Annual Conference on Computational Molecular Biology, </booktitle> <month> January </month> <year> 1997. </year>
+Reference: [6] <author> R. Lathrop. </author> <title> "Protein threading problem with sequence amino-acid action preferences is NP-complete." </title> <booktitle> Protein Engineering (1994) 7 </booktitle> <pages> 1059-1068. </pages>
+Reference: [7] <author> B. Berger. </author> <title> "Algorithms for protein structural motif recognition." </title> <journal> Journal of Computational Biology (1995) 2 </journal> <pages> 125-138. </pages>
+Reference: [8] <author> B. Berger, D. B. Wilson, E. Wolf, T. Tonchev, M. Milla and P. S. Kim. </author> <title> "Predicting coiled coils using pairwise residue correlations." </title> <booktitle> Proceedings of the National Academy of Sciences (1995) 92 </booktitle> <pages> 8259-8263. </pages>
+Reference: [9] <author> B. Berger and M. Singh. </author> <title> "An iterative method for improved protein structural motif recognition." </title> <booktitle> In 1st Annual Conference on Computational Molecular Biology, </booktitle> <month> January </month> <year> 1997. </year> <note> Journal of Computational Biology, in press. </note>
+Reference: [10] <author> L. R. Rabiner and B. H. Juang. </author> <title> "An introduction to Hidden Markov models." </title> <journal> IEEE ASSP Magazine (1986) 3(1) </journal> <pages> 4-16. - 14 </pages> - 
+Reference: [11] <author> A. Krogh, M. Brown, S. Mian, K. Sjolander and D. Haussler. </author> <title> "Hidden Markov models in computational biology: Applications to protein modeling." </title> <journal> Journal of Molecular Biology (1994) 235 </journal> <pages> 1501-1531. </pages>
+Reference: [12] <author> H. S. Chan and K. Dill. </author> <title> "The protein folding problem." </title> <journal> Physics Today, </journal> <month> February </month> <year> 1993. </year>
+Reference: [13] <author> H. Li, R. Helling, C. Tang and N. Wingreen. </author> <title> "Emergence of preferred structures in a simple model of protein folding." </title> <booktitle> Science (1996) 273 </booktitle> <pages> 666-669. </pages>
+
+References-found: 21
+

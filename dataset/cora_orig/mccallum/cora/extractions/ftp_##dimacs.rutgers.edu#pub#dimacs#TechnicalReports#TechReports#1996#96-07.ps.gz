@@ -1,0 +1,26 @@
+URL: ftp://dimacs.rutgers.edu/pub/dimacs/TechnicalReports/TechReports/1996/96-07.ps.gz
+Refering-URL: http://dimacs.rutgers.edu/TechnicalReports/1996.html
+Root-URL: http://www.cs.rutgers.edu
+Title: algorithm for finding many disjoint monochromatic edges in a complete 2-colored geometric graph  
+Author: by Gyula Karolyi ; Gabor Tardos Geza Toth 
+Address: Janos Pach 3 City College, CUNY  
+Affiliation: Institute for Advanced Study  University of Toronto  Courant Institute, NYU  
+Note: An  2 Supported by NSF grant DMS-9304580 and by the Alfred Sloan Foundation. 3 Supported by NSF grant CCR-94-24398, PSC-CUNY Research Award 663472, and OTKA-4269. 4 Supported by NSF grant CCR-95-03254 and OTKA-F014919. 5 Supported by OTKA-4269 and OTKA-14220. DIMACS is a cooperative project of Rutgers University, Princeton University, AT&T Bell Laboratories and Bellcore. DIMACS is an NSF Science and Technology Center, funded under contract STC-91-19999; and also receives support from the New Jersey Commission on Science and Technology.  
+Abstract: DIMACS Technical Report 96-07 March 1996 
+Abstract-found: 1
+Intro-found: 1
+Reference: [BD94] <author> A. Bialostocki and P. Dierker, </author> <type> Personal communication. </type>
+Reference-contexts: Some of these results can be extended to geometric graphs to yield the existence of certain non-crossing subgraphs and subgraphs satisfying some other geometric conditions. In [KPT96], we settled a problem of Bialostocki and Dierker <ref> [BD94] </ref> by proving the following theorem. For any 2-coloring of the edges of a complete geometric graph with 3n 1 vertices, there exist n pairwise disjoint edges of the same color.
+Reference: [GG67] <author> L. Gerencser and A. Gyarfas, </author> <title> On Ramsey-type problems, </title> <journal> Annales Universitatis Scientarium Budapestinensis Roland Eotvos, </journal> <note> Sectio Mathematica X (1967), 167-170. </note>
+Reference-contexts: Here we present an O (n log log n+2 )-time algorithm for finding these edges, based on a different proof. The analogous theorem for abstract graphs (that is, when the geometric constraints are ignored) was found by Gerencser and Gyarfas <ref> [GG67] </ref>. It is easy to see that the above results are false for graphs with fewer than 3n 1 vertices.
+Reference: [GRS90] <author> R.L. Graham, B.L. Rothschild, and J.H. Spencer, </author> <title> Ramsey Theory, 2nd ed., </title> <publisher> John Wiley, </publisher> <address> New York, </address> <year> 1990. </year>
+Reference-contexts: In fact, in this case classical Ramsey-theory works to our advantage by ensuring that either G or G contains a large clique and many other large subgraphs <ref> [GRS90] </ref>. Some of these results can be extended to geometric graphs to yield the existence of certain non-crossing subgraphs and subgraphs satisfying some other geometric conditions. In [KPT96], we settled a problem of Bialostocki and Dierker [BD94] by proving the following theorem.
+Reference: [JW93] <author> K. Jansen, and G. J. Woeginger, </author> <title> The complexity of detecting crossingfree configurations in the plane, </title> <journal> BIT 33 (1993), </journal> <volume> no. 4, </volume> <pages> 580-595. </pages>
+Reference: [KPT96] <author> Gy. Karolyi, J. Pach, and G. Toth, </author> <title> Ramsey-type theorems for geometric graphs. I, </title> <note> Discrete and Computational Geometry, to appear. </note>
+Reference-contexts: Some of these results can be extended to geometric graphs to yield the existence of certain non-crossing subgraphs and subgraphs satisfying some other geometric conditions. In <ref> [KPT96] </ref>, we settled a problem of Bialostocki and Dierker [BD94] by proving the following theorem. For any 2-coloring of the edges of a complete geometric graph with 3n 1 vertices, there exist n pairwise disjoint edges of the same color.
+Reference: [KLN91] <author> J. Kratochvil, A. Lubiw, and J. Nesetril, </author> <title> Noncrossing subgraphs in topological layouts, </title> <note> SIAM J. Discrete Mathematics 4 (1991), 223-244. </note>
+Reference: [KN90] <author> J. Kratochvil and J. Nesetril, </author> <title> Independent set and clique problems in intersection-defined classes of graphs, </title> <type> Comment. </type> <institution> Math. Univ. </institution> <month> Carolinae 31 </month> <year> (1990), </year> <pages> 85-93. </pages>
+Reference: [PA95] <author> J. Pach and P.K. Agarwal, </author> <title> Combinatorial Geometry, </title> <publisher> John Wiley, </publisher> <address> New York, </address> <year> 1995. </year>
+Reference-contexts: The n segments determined by n points in the plane, no three of which are collinear, form a complete geometric graph with n vertices (see <ref> [PA95] </ref>). Does a given geometric graph contain a non-crossing subgraph of a certain type? It is conjectured that essentially all such problems are NP-hard, regardless of the complexity of their non-geometric analogues. This conjecture is supported by several striking examples.
+References-found: 8
+

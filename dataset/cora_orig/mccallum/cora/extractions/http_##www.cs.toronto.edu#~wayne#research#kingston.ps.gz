@@ -1,0 +1,21 @@
+URL: http://www.cs.toronto.edu/~wayne/research/kingston.ps.gz
+Refering-URL: http://www.cs.toronto.edu/~wayne/research/papers.html
+Root-URL: http://www.cs.toronto.edu
+Title: Global Error Measures for Large N-Body Simulations  "Prediction can be difficult, particularly about the future."  
+Author: David A. Clarke Michael J. West (eds.) Wayne B. Hayes Kenneth R. Jackson Mark Twain. 
+Affiliation: Department of Computer Science, University of Toronto, Toronto,  
+Date: 123, 1997  
+Note: 12th `Kingston meeting': Computational Astrophysics ASP Conference Series Vol.  ON M5S 3G4, Canada  
+Abstract-found: 0
+Intro-found: 1
+Reference: <author> Hayes, W. </author> <year> 1995, </year> <institution> M. Sc. Thesis (Department of Computer Science, University of Toronto). </institution>
+Reference-contexts: To this end, we first spent several months speeding up Quinlan and Tremaine's shadowing algorithm by about a factor of 100 <ref> (Hayes, 1995) </ref>. We then considered M particles moving amongst N M fixed ones. N = 100 particles. We use the standardized units of Heggie & Mathieu (1986).
+Reference: <author> Heggie, D. C. </author> <year> 1988, </year> <title> in Long-Term Dynamical Behaviour of Natural and Artificial N-Body Systems, </title> <editor> ed. A. E. Roy, </editor> <address> (Dordrecht: Klewer), </address> <month> 329. </month>
+Reference-contexts: Animated movies of large N-body simulations, like spiral galaxies or cosmological systems, are very exciting to watch and often look quite reasonable, but it is little more than an "article of faith" that the results are qualitatively correct <ref> (Heggie, 1988) </ref>.
+Reference: <author> Heggie, D. C., & Mathieu, R. D. </author> <year> 1986, </year> <title> in The Use of Supercomputers in Stellar Dynamics, </title> <editor> eds. P. Hut & S. L. W. McMillan, </editor> <publisher> (Berlin: Springer-Verlag), </publisher> <pages> 233. </pages>
+Reference: <author> Quinlan, G., & Tremaine, S. </author> <year> 1992, </year> <journal> MNRAS, </journal> <volume> 259, </volume> <pages> 505. </pages>
+Reference-contexts: The relevant measures of error are the proximity of the shadow to the numerical solution, and the length of time before a glitch occurs. In gravitational N-body systems, glitches seem to occur most often at close encounters between particles <ref> (Quinlan & Tremaine, 1992) </ref>. Glitches do not necessarily imply no shadow exists, only that our algorithm failed to find one.
+Reference: <author> Sanz-Serna, J. M. </author> <year> 1992, </year> <note> in Acta Numerica, </note> <editor> ed. A. Iserles, </editor> <publisher> (Cambridge: Cambridge University Press), </publisher> <pages> 243. </pages>
+Reference: <author> Van Vleck, E. </author> <year> 1995, </year> <journal> SIAM J. Sci. Comp., </journal> <volume> 16, </volume> <pages> 1172. </pages>
+References-found: 6
+

@@ -1,0 +1,16 @@
+URL: http://www.cs.virginia.edu/~french/papers/ncstrl.ps.Z
+Refering-URL: http://www.cs.virginia.edu/~french/papers/dlpapers.html
+Root-URL: http://www.cs.virginia.edu
+Title: NCSTRL notes: Some Performance Issues  
+Author: James C. French 
+Date: January 23, 1996  
+Address: Charlottesville, VA 22903  
+Affiliation: Department of Computer Science University of Virginia  
+Abstract:  
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Gray, J., </author> <title> "Reliable Distributed Systems," get the rest of this citation. </title>
+Reference: [2] <author> Viles, C. L. and J. C. </author> <title> French, "Availability and Latency of World Wide Web Information Servers," </title> <journal> Computing Systems, </journal> <volume> vol. 8, no. 1 (1995), </volume> <pages> pp. 61-91. 4 </pages>
+Reference-contexts: Recall that we are assuming that the probability that a site is available, p, is constant and site failures are independent. So the probability that at least one site failure occurs is given by 1 p s . We <ref> [2] </ref> have measured p and found it to be approximately .95. This means that by the time NCSTRL gets to s = 90 sites, the probability of a site failure during a search is essentially one.
+References-found: 2
+

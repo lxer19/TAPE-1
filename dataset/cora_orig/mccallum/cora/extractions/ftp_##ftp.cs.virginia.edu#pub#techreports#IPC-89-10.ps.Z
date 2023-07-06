@@ -1,0 +1,25 @@
+URL: ftp://ftp.cs.virginia.edu/pub/techreports/IPC-89-10.ps.Z
+Refering-URL: ftp://ftp.cs.virginia.edu/pub/techreports/README.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: Implementation of the ADAMS Database System  
+Author: John L. Pfaltz, James C French Andrew Grimshaw, Sang H. Son Paul Baron, Stanley Janet Yi lin, Lindsay Loyd, Rod McElrath 
+Note: This research was supported in part by JPL under contract #957721 and DOE Grant #DE-FG05-88ER25063.  
+Address: Charlottesville, VA 22903  
+Affiliation: Institute for Parallel Computation School of Engineering and Applied Science University of Virginia  
+Date: December 4, 1989  
+Pubnum: IPC-TR-89-010  
+Abstract-found: 0
+Intro-found: 0
+Reference: [AgG89] <author> R. Agrawal and N. H. Gehani, </author> <title> ODE (Object Database and Environment): The Language and the Data Model, </title> <booktitle> Proc. 1989 ACM SIGMOD Conf. </booktitle> <volume> 18, </volume> <month> 2 (June </month> <year> 1989), </year> <pages> 36-45. </pages>
+Reference-contexts: Approaches to accomplish this kind of data management have been proposed in Persistent Algol [BuA86] and ODE <ref> [AgG89] </ref>.
+Reference: [Bar89] <author> P. Baron, </author> <title> The ADAMS Preprocessor, </title> <institution> IPC TR-89-009, Institute for Parallel Computation, Univ. of Virginia, </institution> <month> Dec. </month> <year> 1989. </year>
+Reference-contexts: Finally, you must create a user dictionary, by executing the command create &lt;unix_id&gt; If you do not know your &lt;unix_id&gt;, grep the /etc/passwd file using your login id. 8 3. Preprocessing, Translating ADAMS Statements Here we include just a summary overview. More complete details can be found in <ref> [Bar89] </ref>. Assume that you have created a source program consisting of mixed C code and ADAMS statements in a file &lt;prog_name&gt;.src. The .src suffix is required, since the ADAMS preprocessor will look for it.
+Reference: [BuA86] <author> P. Buneman and M. Atkinson, </author> <title> Inheritance and Persistence in Database Programming Languages, </title> <booktitle> Proc. ACM SIGMOD Conf. </booktitle> <volume> 15, </volume> <month> 2 (May </month> <year> 1986), </year> <pages> 4-15. </pages>
+Reference-contexts: Approaches to accomplish this kind of data management have been proposed in Persistent Algol <ref> [BuA86] </ref> and ODE [AgG89].
+Reference: [Jan89] <author> S. A. Janet Jr., </author> <title> The ADAMS Storage Management System, </title> <institution> IPC TR-89-008, Institute for Parallel Computation, Univ. of Virginia, </institution> <month> Aug. </month> <year> 1989. </year>
+Reference-contexts: The ADAMS Storage Management System is based on this model. Clients are provided with an interface that allows only high-level operations which we describe in this section, while the server performs all low-level I/O in response to client requests. (Details of server implementation can be found in <ref> [Jan89] </ref>.) This approach provides client processes with a small set of functions that support an abstract data type called a bag, a persistent collection of variable-length or fixed-size objects. Individual bags are not bound to any storage device. <p> There are six functions provided to clients to operate on bags and items. The declarations and semantics of the functions are listed below. All functions return negative values on error. Error conditions are listed in Appendix A of <ref> [Jan89] </ref>.
+Reference: [Orl89] <author> R. Orlandic, </author> <title> Design, Analysis and Applications of Compact 0-Complete Trees, </title> <type> PhD Thesis, </type> <institution> Univ. of Virginia, </institution> <year> 1989. </year>
+Reference-contexts: This section describes the way that these indexes are managed. The actual structure of an index is irrelevant. One may, for example, use B-trees to implement key directed lookup in the table. ADAMS employs a variant of B-trees known as O-trees <ref> [Orl89] </ref>. 7.1. Basic Structures All indexes used to implement attributes, maps, and sets inherit their structure from the basic class _A_index, which maps keys to uniqueids. The keys are defined by the class _A_key, which provides constructors for automatic conversion of strings and uniqueids to keys.
+
+References-found: 5
+

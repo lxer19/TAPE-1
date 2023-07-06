@@ -1,0 +1,21 @@
+URL: ftp://ftp.ira.uka.de/pub/papers/techreports/1993/1993-16.ps.gz
+Refering-URL: 
+Root-URL: 
+Title: Comparison of MasPar MP-1 and MP-2 Communication Operations  
+Author: Lutz Prechelt 
+Address: D-7500 Karlsruhe, Germany  
+Affiliation: Institut fur Programmstrukturen und Datenorganisation Fakultat fur Informatik Universitat Karlsruhe, Postfach 6980  
+Pubnum: Technical Report  
+Email: (prechelt@ira.uka.de)  
+Phone: ++49/721/608-4068, Fax: ++49/721/694092  
+Date: April 23, 1993  16/93  
+Abstract: Report 01/93 [Pre93] describes the findings of a series of communication measurements performed on a MasPar MP-1 series MP-1216A machine. The current report covers the same measurements performed on a MP-2 series MP-2216 machine. It compares the results and outlines and discusses the main differences. In these measurements, raw router communication was sometimes faster, sometimes slower on the MP-2 than on the MP-1, depending on the parameters of the communication requested. The relative performance of the MP-2 varied between 93% and 120%. Xnet communication was faster in all cases (performance 100% to 175%). Complex functions from the communication library were also always faster (performance 100% to 180%). Some of these results contradict technical specifications for the MP-1 and MP-2 published by MasPar. 
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <institution> Router fetch is slightly cheap er than send on the MP-1. </institution> <note> This difference is noticeably bigger on the MP-2. </note>
+Reference: 2. <editor> Router send is slower on the MP-2 than on the MP-1 for small packets (98% relative performance for 4-byte packets), </editor> <title> but faster for large packets (115% relative performance for 32-byte packets). Even for 32-byte packets, relative performance mysteriously drops below 100% when indirect addressing (via a plural pointer) is used. </title>
+Reference: 3. <institution> Xnet communication was not slower on the MP-2 than on the MP-1 for any of the measurements used in this report, </institution> <note> despite the fact that the technical specifications published by MasPar announced reduced bandwith of the xnet on the MP-2. </note>
+Reference: 4. <institution> The constant cost of an xfetch or xsend operation is significantly lower on an MP-2. </institution> <note> This can result in a performance above 150% for small distances. </note>
+Reference: 5. <editor> All complex communication functions from the MPL library are faster on the MP-2 than on the MP-1. </editor> <title> For some cases this advantage is only in the per mille range (e.g. scan with very many segments), for others it is almost factor 2 (e.g. reduceAddd: 180%). R e fe r e n c e s [Pre93] Lutz Prechelt. Measurements of MasPar MP-1216A communication operations. </title> <type> Technical Rep ort 1/93, </type> <institution> Institut fur Programmstrukturen und Datenorganisation, Universitat Karlsruhe, D-7500 Karlsruhe, Germany, </institution> <month> January </month> <year> 1993. </year>
+References-found: 5
+

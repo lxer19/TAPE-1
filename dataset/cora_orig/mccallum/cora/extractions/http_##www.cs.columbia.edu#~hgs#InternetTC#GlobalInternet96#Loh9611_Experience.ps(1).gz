@@ -1,0 +1,30 @@
+URL: http://www.cs.columbia.edu/~hgs/InternetTC/GlobalInternet96/Loh9611:Experience.ps.gz
+Refering-URL: http://gaia.cs.umass.edu:80/tccc/internet96/schedule.html
+Root-URL: 
+Title: Experience with Implementation of Multi-Party Video-Conferencing Application over Packet Networks  
+Author: KJ Loh, KC Chua 
+Address: Singapore  
+Affiliation: Department of Electrical Engineering National University of  
+Abstract: Increased speed of workstations and networks has made interactive multimedia communications between workstations across packet-switched networks possible. Transmission of real-time multimedia data over such networks has its limitations and problems. The basic problem pertaining to transmission of audio is synchronization whereas video coding is the main problem for video transmission. ALF and RTP provide a well defined framework for real-time multimedia communication over packet-switched networks. We develop a multi-party video-conferencing application, called VidZ, based on the "composable tools" approach which is extendable and provides for re-usability of the tools. In this paper, we provide an overview of the issues involved in transmission of real-time audio and video over packet-switched networks, and relate our experience in the implementation of such an application. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> David D. Clark, Scott Shenker, Lixia Zhang. </author> <title> Supporting Real-Time Applications in an Integrated Services Packet Network: Architecture and Mechanism. </title> <booktitle> Proc. ACM SIGCOMM 1992, </booktitle> <address> Baltimore, MD, pp.14-26, </address> <month> August </month> <year> 1992. </year>
+Reference: [2] <author> Lixia Zhang, Steve Deering, Deborah Estrin, Scott Shenkar, Daniel Zappala. RSVP: </author> <title> A New Resourse ReSerVation Protocol. </title> <journal> IEEE Network, </journal> <year> 1993. </year> <month> ftp://parcftp.xerox.com/pub/net-research/rsvp.ps.Z </month>
+Reference: [3] <author> L. Delgrossi, L. Berger. </author> <title> Internet Stream Protocol Version 2 (ST2) Protocol Specification Version ST2+. </title> <type> RFC 1819. </type>
+Reference: [4] <author> David D. Clark, David L. Tennenhouse. </author> <title> Architectural Considerations for a New Generation of Protocols. </title> <booktitle> Proc. ACM SIGCOMM, </booktitle> <pages> pp. 200-208, </pages> <month> September </month> <year> 1990. </year>
+Reference: [5] <author> H. Schulzrinne, S. Casner, R. Federick, V. Jacobson. RTP: </author> <title> A Transport Protocol for Real-Time Applications. </title> <type> RFC 1889. </type>
+Reference: [6] <author> Michael F. Speer, Don Hoffman. </author> <title> RTP Payload Format of CellB Video Encoding. </title> <type> IETF Draft. </type> <institution> draft-ietf-avt-cellb-06.txt. </institution>
+Reference: [7] <author> H. Schulzrinne. </author> <title> Dynamic Configuration of Conferencing Applications using Pattern-Matching Multicast. </title> <publisher> ftp://gaia.cs.umass.edu/pub/Schu9504:Dynamic.ps.gz </publisher>
+Reference: [8] <author> Steven McCanne, Van Jacobson. </author> <title> vic: A Flexible Framework for Packet Video. </title> <booktitle> ACM Multimedia 95. </booktitle> <address> ftp://ftp.ee.lbl.gov/papers/vic.ps </address>
+Reference: [9] <author> Eve M. Schooler. </author> <title> A Distributed Architecture for Multimedia Conference Control. </title> <note> ISI Research Report ISI/RR-91-289, </note> <month> November </month> <year> 1991. </year> <month> ftp://ftp.isi.edu/pub/hpcc-papers/mmc/mmcc.ps </month>
+Reference: [10] <author> Mark Handley, Ian Wakerman. CCCP: </author> <title> Conference Control Channel Protocol. A Scalable Base for Building Conference Control Applications. </title> <publisher> ftp://cs.ucl.ac.uk/mice/publications/cccp us.ps.gz </publisher>
+Reference: [11] <author> Van Jacobson. </author> <title> Multimedia Conferencing on the Internet. </title> <booktitle> SIG-COMM 94 Tutorial, </booktitle> <month> 30 August </month> <year> 1994. </year>
+Reference: [12] <author> Ron Frederick. </author> <title> Experiences with Real-Time Software Video Compression. </title> <booktitle> Sixth International Workshop on Packet Video. </booktitle> <address> ftp://parcftp.xerox.com/pub/net-research/nv-papers.ps </address>
+Reference: [13] <author> SunSoft. </author> <title> XIL programmer's Guide. SunSoft, </title> <month> August </month> <year> 1994 </year>
+Reference: [14] <author> Sun Microsystems. SunVideo 1.0 Users Guide. Sun Microsystem, </author> <year> 1994 </year>
+Reference: [15] <author> R. Ramjee, J. Kurose, D. Towsley, H. Schulzrinne. </author> <title> Adaptive Play-out Mechanisms for Packetized Audio Applications in Wide-Area. </title> <publisher> ftp://gaia.cs.umass.edu/pub/Ramj94:Adaptive.ps </publisher>
+Reference: [16] <author> Warren A. Montgomery. </author> <title> Techniques for Packet Voice Synchronization. </title> <journal> IEEE Journal on Selected Areas in Communications, </journal> <volume> vol. sac-1, no. 6, </volume> <month> December </month> <year> 1983. </year>
+Reference: [17] <author> H. Schulzrinne. </author> <title> Issues in Designing a Transport Protocol for Audio and Video Conferences and other Multiparticipant Real-Time Applications. </title> <address> ftp://gaia.cs.umass.edu/pub/hgschulz/rtp/draft-ietf-avt-issues-02.ps 2 </address>
+Reference: [18] <author> H. Schulzrinne. </author> <note> Guide to NeVoT 3.32. http://www.fokus.gmd.de/step/hgs/nevot 2 This file has since been removed. </note>
+References-found: 18
+

@@ -1,0 +1,18 @@
+URL: ftp://ftp.cs.utah.edu/techreports/1993/UUCS-93-012.ps.Z
+Refering-URL: ftp://mancos.cs.utah.edu/papers/UUCS-93-012.abst.html
+Root-URL: 
+Title: Notes on Thread Models in Mach 3.0  
+Author: Bryan Ford Mike Hibler Jay Lepreau 
+Date: April, 1993  
+Address: Salt Lake City, UT 84112, USA  
+Affiliation: Department of Computer Science University of Utah  
+Pubnum: UUCS-93-012  
+Abstract: During the Mach In-Kernel Servers work, we explored two alternate thread models that could be used to support traps to in-kernel servers. In the "migrating threads" model we used, the client's thread temporarily moves into the server's task for the duration of the call. In the "thread switching" model, an actual server thread is dispatched to handle client traps. Based on our experience, we find that the migrating threads model is quite complex and difficult to implement in the context of the current design of Mach and the Unix single server. The thread switching model would fit more naturally and would probably be much simpler and more robust than migrating threads, making it a valuable approach to explore in the near future. However, we believe migrating threads inherently to be faster than thread switching, and ultimately to be the best long term direction. 1 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Brian N. Bershad, Thomas E. Anderson, Edward D. Lazowska, and Henry M. Levy. </author> <title> Lightweight remote procedure call. </title> <journal> ACM Transactions on Computer Systems, </journal> <volume> 8(1) </volume> <pages> 37-55, </pages> <month> February </month> <year> 1990. </year>
+Reference-contexts: In the long term, however, we believe that thread-switching is only a temporary way to work around a problem deeply woven into Mach. If a general-purpose migrating threads model such as that exploited in LRPC <ref> [1] </ref> were to be introduced in the future, this approach to in-kernel server traps would become both faster and cleaner than thread switching. Our INKS work suggests such a model may be feasible, and we expect to explore it. 6
+Reference: [2] <author> Jay Lepreau, Mike Hibler, Bryan Ford, and Jeff Law. </author> <title> In-kernel servers on Mach 3.0: Implementation and performance. </title> <booktitle> In Proc. of the Third Usenix Mach Symposium, </booktitle> <address> Santa Fe, NM, </address> <month> April </month> <year> 1993. </year> <month> 7 </month>
+Reference-contexts: Introduction In our Mach In-Kernel Servers (INKS) work <ref> [2] </ref>, one important implementation issue we had to confront is the thread semantics employed during traps to in-kernel servers.
+References-found: 2
+

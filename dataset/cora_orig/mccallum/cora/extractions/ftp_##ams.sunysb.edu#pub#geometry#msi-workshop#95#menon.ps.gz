@@ -1,0 +1,18 @@
+URL: ftp://ams.sunysb.edu/pub/geometry/msi-workshop/95/menon.ps.gz
+Refering-URL: http://ams.sunysb.edu/~held/proc_usb_comp_geo-95.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Email: menon@watson.ibm.com  guo@dgp.toronto.edu  
+Title: A Mathematical Framework for Sculptured Solids in Exact CSG Representation induced directly from patches in
+Author: Jai Menon Baining Guo 
+Keyword: Quadratic and cubic halfspaces  
+Note: are  
+Address: Yorktown Heights, NY 10598  Toronto, ON, M5S 1A4  
+Affiliation: IBM Research T.J. Watson Research Center  University of Toronto Department of Computer Science  
+Abstract: A draft of this paper should be available from Menon by December 1995.) Abstract Over the past few years of research on exact representations of sculptured solids in dual [Brep, CSG] representation schemes [1, 2, 3] we have discovered some intricate relationships among the mathematical conditions that govern Brep and CSG solids built with low degree algebraic surfaces. This paper provides a mathematical framework that, for the first time, weaves in a coherent fashion what we perceive to be some of the key issues in this area. A Brep is constructed by an Interpolating Polyhedral Smoothing (IPS) technique that interpolates the vertices and vertex normals of an input polyhedron P . Given P , we build a polyhedral hull as a triangulated polytope of face and edge tetrahedra. Algebraic patches are defined in the Bernstein-Bezier form (BB-form) within each tetrahedron. The control net for the surface consists of interpolative control points (vertices of P ) and non-interpolative control points (apexes of tetrahedra). The mathematical framework consists of two main parts: (a) initial solid construction, and (b) shape control operations. Broadly speaking, the set of constraints related to the initial solid construction have to guarantee: (a) polyhedral hull validity (both local and global), (b) self-separating trunctets, and (c) quasi-disjoint subshells. Constraints related to shape control essentially deal with incremental techniques to update and validate above properties. In particular, we introduce: (a) the concept of finite-extent decompositions for Brep-to-CSG conversion, that have practical significance in dual [Brep, CSG] architectures, and (b) an analogy between shape control operations on algebraic and parametric patches. 
+Abstract-found: 1
+Intro-found: 0
+Reference: [1] <author> J.P. Menon. </author> <title> Constructive Shell Representations for Free-form Surfaces and Solids. </title> <journal> IEEE Computer Graphics & Applications, </journal> <volume> 14(2) </volume> <pages> 24-36, </pages> <month> March </month> <year> 1994. </year>
+Reference: [2] <author> J.P. Menon and B. Guo. </author> <title> Free-form Modeling with Low Degree Algebraic Patches in Bilateral Brep and CSG Schemes. </title> <institution> IBM Research Report RC 20050, </institution> <year> 1995. </year>
+Reference: [3] <author> B. Guo and J.P. Menon. </author> <title> Local Shape Control for Free-Form Solids in Exact CSG Representation. Computer Aided Design, </title> <note> to appear, </note> <year> 1995. </year>
+References-found: 3
+

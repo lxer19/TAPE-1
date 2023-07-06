@@ -1,0 +1,17 @@
+URL: ftp://speech.cse.ogi.edu/pub/docs/esca_wkshop95.ps.Z
+Refering-URL: http://www.cse.ogi.edu/CSLU/publications/publications.html
+Root-URL: http://www.cse.ogi.edu
+Email: fanty@cse.ogi.edu  
+Title: Automated Appointment Scheduling  for Spoken Language Understanding  
+Author: Mark Fanty, Stephen Sutton, David G. Novick, Ronald Cole 
+Address: PO Box 91000 Portland Oregon, 97291  
+Affiliation: Center  Oregon Graduate Institute of Science and Technology  
+Abstract: We describe a spoken language system that schedules appointments over the telephone. The system has a calendar of available times for some service that callers want to obtain. The system and the caller engage in a cooperative dialogue until a mutually satisfactory appointment time can be found and scheduled. The system has three parts: a speech recog-nizer based on neural network phoneme classification and word bigrams, a robust phrase-spotting parser, and a dialogue module. The dialogue module has a calendar of available system and user times, a partial history of system goals, and a preference stack to keep track of the focus of the conversation. The dialogue module uses rules to interpret the user's input, make an appropriate response, and provide a prediction (grammar) of the user's next response for the speech recognizer. Rules also determine when the system grabs the initiative from the user. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> W. Ward, </author> <title> `Understanding Spontaneous Speech: </title> <booktitle> the Phoenix System', Proceedings of International Conference on Acoustics, Speech, and Signal Processing, </booktitle> <month> May </month> <year> 1991, </year> <pages> pp. 365-367. </pages>
+Reference-contexts: The word sequence which best matches the phonetic scores is found using a fast two-pass search which uses bigram probabilities. 4. SEMANTIC PARSER A robust semantic parser developed at CMU <ref> [1] </ref> is used to map the word string into semantic frames. We developed a grammer for this parser that contains expressions in the scheduling domain.
+Reference: [2] <author> R.A Cole, D. G. Novick, M. Fanty, P. Vermeulen, S. Sut-ton, D. Burnett and J. Schalkwyk, </author> <title> `A Prototype Voice-Response Questionnaire for the U.S. Census,' </title> <booktitle> Proceedings of the 1994 International Conference on Spoken Language Processing, </booktitle> <address> Yokohama, Japan, </address> <month> Sept., </month> <year> 1994, </year> <pages> pp. 683-686. </pages>
+Reference-contexts: 1. INTRODUCTION Our goal is to develop a cooperative spoken language system (cf. <ref> [2] </ref>) for appointment scheduling that preserves the natural flow of the dialogue and attempts to provide the caller with as much freedom to lead the dialogue as possible. In particular, we aim to support mixed-initiative interaction of a relatively unstructured nature.
+References-found: 2
+

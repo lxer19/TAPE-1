@@ -1,0 +1,21 @@
+URL: http://www.icsi.berkeley.edu/ftp/global/pub/techreports/1994/tr-94-017.ps.gz
+Refering-URL: http://www.icsi.berkeley.edu/ftp/global/pub/techreports/1994/
+Root-URL: http://www.icsi.berkeley.edu
+Email: e-mail: schnorr@informatik.uni-frankfurt.de  e-mail: vaudenay@dmi.ens.fr  
+Title: Black Box Cryptanalysis of Hash Networks based on Multipermutations  
+Author: C.P. Schnorr S. Vaudenay 
+Date: April 1994  
+Address: Postfach 111932 60054 Frankfurt a.M.  45 Rue d'Ulm 75230-05 Paris  
+Affiliation: Fachbereich Mathematik/Informatik Universitat Frankfurt  Dep. Math. Inf. ENS Paris  
+Pubnum: TR-94-017  
+Abstract: Black box cryptanalysis applies to hash algorithms consisting of many small boxes, connected by a known graph structure, so that the boxes can be evaluated forward and backwards by given oracles. We study attacks that work for any choice of the black boxes, i.e. we scrutinize the given graph structure. For example we analyze the graph of the fast Fourier transform (FFT). We present optimal black box inversions of FFT-compression functions and black box constructions of collisions. This determines the minimal depth of FFT- compression networks for collision-resistant hashing. We propose the concept of multipermutation, which is a pair of orthogonal latin squares, as a new cryptographic primitive that generalizes the boxes of the FFT. Our examples of multipermutations are based on the operations circular rotation, bitwise xor, addition and multiplication. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Hall, M. and Paige, L.J.: </author> <title> Complete mappings of finite groups. Pac. </title> <journal> J. Math., </journal> <volume> 5 (1955), </volume> <pages> pp. 541-549. </pages>
+Reference: <author> Johnson, D.M., Dulmage, A.L., and Mendelsohn, N.S.: </author> <title> Orthomorphisms of groups and orthogonal latin squares. I. Can. </title> <journal> J. Math. </journal> <volume> 13, </volume> <year> (1961), </year> <pages> pp. 356-372. </pages>
+Reference: <author> Lai, X. and Massey, J.L.: </author> <title> A proposal of a new block encryption standard. </title> <booktitle> Advances in Cryptology. Proceedings of EUROCRYPT'90. </booktitle> <publisher> Springer LNCS 473, </publisher> <year> (1991), </year> <pages> pp. 389-404. </pages>
+Reference: <author> Schnorr, </author> <title> C.P.: FFT-Hash II, efficient cryptographic hashing. </title> <booktitle> Proceedings of EURO-CRYPT'92. </booktitle> <publisher> Springer LNCS 658 (1992), </publisher> <pages> pp. 45-54. </pages>
+Reference: <author> Schnorr, C.P. and Vaudenay, S.: </author> <title> Parallel FFT-Hashing. </title> <booktitle> Proceedings of Cambridge Security Workshop, </booktitle> <address> Cambridge, </address> <month> December 9-11, </month> <year> 1993. </year> <note> to appear in Springer LNCS, </note> <editor> Ed.: R. </editor> <publisher> Anderson. </publisher>
+Reference: <author> Vaudenay, S.: </author> <title> FFT-Hash II is not yet Collision-Free. </title> <booktitle> Advances in Cryptology. Proceedings of CRYPTO'93, </booktitle> <publisher> Springer LNCS 740 (1993), </publisher> <pages> pp. 587-593. 10 </pages>
+References-found: 6
+

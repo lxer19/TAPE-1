@@ -1,0 +1,29 @@
+URL: http://www.cs.berkeley.edu/~manku/papers/bbssp.ps.gz
+Refering-URL: http://www.cs.berkeley.edu/~manku/papers-abstracts.html
+Root-URL: 
+Title: A Linear Time Algorithm for the Bottleneck Biconnected Spanning Subgraph Problem  
+Author: Gurmeet Singh Manku 
+Keyword: Algorithms Combinatorial Problems Biconnec-tivity  
+Address: New Delhi 110016, India  
+Affiliation: Computer Science Department Indian Institute of Technology, Delhi  
+Abstract:  
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> A Aho, J E Hopcroft and J D Ullman, </author> <title> The Design and Analysis of Computer Algorithms (Addison-Wesley, </title> <address> Reading, MS, </address> <year> 1974). </year>
+Reference-contexts: Step (D) computes fl, the median of weights of dotted edges and constructs E dl E d , containing all edges weighing less than fl. Median can be computed in O (d) time <ref> [1] </ref>, where jE d j = d. Step (E) computes the mbcc's of L, which can be done in O (d) time, as shown in Section 2.4. Step (F) shrinks L, which again takes O (d) time.
+Reference: [2] <author> P M Camerini, </author> <title> The minimax spanning tree problem and some extensions, </title> <journal> Inform. Process. Lett. </journal> <month> 7 </month> <year> (1978) </year> <month> 10-14. </month>
+Reference-contexts: Let F T be the family of spanning trees of G. Then, ff = min T 0 2F T max e2T 0 w (e) and 8e 2 T; w (e) ff. T can be computed in O (m) time <ref> [2] </ref>. It is easily seen that w B (G) ff. Step (B) modifies the weights of some edges in E. Any non-tree edge with weight at most ff is increased in weight to ff. All tree-edges are assigned a weight of 1.
+Reference: [3] <author> M S Chang, C Y Tang and R C T Lee, </author> <title> Solving the Euclidean bottleneck biconnected edge subgraph problem by 2-relative neighborhood graphs, </title> <journal> Discrete Appl. Math. </journal> <month> 39 </month> <year> (1992) </year> <month> 1-12. </month>
+Reference-contexts: BBSS finds applications in solving the bottleneck traveling salesman problem [4][8], in communication networks [7] and in approximation algorithms of some `hard' bottleneck problems [5][9]. BBSS with vertices in the Euclidean plane has been studied by Chang, Tang and Lee <ref> [3] </ref>, who propose an O (n 2 ) algorithm. For general graphs, Punnen and Nair [10] present an O (m + n log n) algorithm.
+Reference: [4] <author> R S Garfinkel and K C Gilbert, </author> <title> The bottleneck traveling salesman problem: Algorithms and probabilistic analysis, </title> <journal> J. </journal> <note> ACM 25 (1978) 435-448. </note>
+Reference: [5] <author> D S Hochbaum and D B Shmoys, </author> <title> A unified approach to approximation algorithms for bottleneck problems, </title> <journal> J. </journal> <note> ACM 33 (1986) 533-550. </note>
+Reference: [6] <author> D T Lee, </author> <title> On k-nearest neighbor Voronoi diagram in the plane, </title> <journal> IEEE Trans. Comput. </journal> <month> 31 </month> <year> (1982) </year> <month> 478-487. </month>
+Reference: [7] <institution> Minimum weight two-connected spanning networks, Bell Communications Research, </institution> <year> 1985. </year>
+Reference-contexts: BBSS finds applications in solving the bottleneck traveling salesman problem [4][8], in communication networks <ref> [7] </ref> and in approximation algorithms of some `hard' bottleneck problems [5][9]. BBSS with vertices in the Euclidean plane has been studied by Chang, Tang and Lee [3], who propose an O (n 2 ) algorithm.
+Reference: [8] <author> R G Parker and R L Rardin, </author> <title> Guaranteed performance heuristics for the bottleneck traveling salesman problem, </title> <journal> Oper. Res. Lett. </journal> <month> 2 </month> <year> (1984) </year> <month> 269-272. </month>
+Reference: [9] <author> A P Punnen, </author> <title> Traveling salesman problem under categorization, </title> <journal> Oper. Res. Lett. </journal> <month> 12 </month> <year> (1992) </year> <month> 89-95. </month>
+Reference: [10] <author> A P Punnen and K P K Nair, </author> <title> A fast and simple algorithm for the bottleneck biconnected spanning subgraph problem, </title> <journal> Inform. Process. Lett. </journal> <month> 50 </month> <year> (1994) </year> <month> 283-286. </month>
+Reference-contexts: BBSS with vertices in the Euclidean plane has been studied by Chang, Tang and Lee [3], who propose an O (n 2 ) algorithm. For general graphs, Punnen and Nair <ref> [10] </ref> present an O (m + n log n) algorithm. This paper presents a linear time algorithm for the general case, which first maps the problem onto a special kind of graph which we call B Graphs.
+Reference: [11] <author> R E Tarjan, </author> <title> Depth-first search and linear graph algorithms, </title> <journal> SIAM J. Comput. </journal> <volume> 1 (1972) 146-170. </volume> <pages> 6 </pages>
+References-found: 11
+

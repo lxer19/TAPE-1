@@ -1,0 +1,17 @@
+URL: ftp://info.mcs.anl.gov/pub/tech_reports/reports/P233.ps.Z
+Refering-URL: http://www.mcs.anl.gov/publications/abstracts/abstracts91.htm
+Root-URL: http://www.mcs.anl.gov
+Title: Generalizing Incremental Condition Estimation  
+Author: Christian H. Bischof Ping Tak Peter Tang 
+Keyword: Key words. Condition number, singular values, incremental condition estimation.  
+Note: Argonne Preprint MCS-P233-0491 Published in J. of Numerical Linear Algebra with Applications  AMS(MOS) subject classifications.  
+Address: Argonne, IL 60439-4801  
+Affiliation: Mathematics and Computer Science Division Argonne National Laboratory  
+Email: bischof@mcs.anl.gov  tang@mcs.anl.gov  
+Date: 1(2):149-163, 1992.  
+Web: 65F35, 65F05  
+Abstract: This paper presents a generalization of incremental condition estimation, a technique for tracking the extremal singular values of a triangular matrix. While the original approach allowed for the estimation of the largest or smallest singular value, the generalized scheme allows for the estimation of any number of extremal singular values. For example, we can derive estimates for the three smallest singular values and the corresponding singular vectors at the same time. When estimating k singular values at the same time, the cost of one step of our generalized scheme on an n fi n matrix is O(nk 2 ). Experimental results show that the resulting estimator does a good job of estimating the extremal singular values of triangular matrices and that, in particular, it leads to an inexpensive, yet very accurate and robust condition estimator. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

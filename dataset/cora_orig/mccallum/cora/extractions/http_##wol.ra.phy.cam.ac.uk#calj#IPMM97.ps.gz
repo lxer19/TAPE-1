@@ -1,0 +1,26 @@
+URL: http://wol.ra.phy.cam.ac.uk/calj/IPMM97.ps.gz
+Refering-URL: http://www.cs.toronto.edu/~carl/gp.html
+Root-URL: 
+Title: PREDICTION OF DEFORMED AND ANNEALED MICROSTRUCTURES USING BAYESIAN NEURAL NETWORKS AND GAUSSIAN PROCESSES To optimize
+Author: C.A.L. Bailer-Jones ;flfl T.J. Sabin D.J.C. MacKay flfl P.J. Withers 
+Note: To be published in the proceedings of the Australasia-Pacific Forum on  THE METALLURGICAL PROBLEM  
+Address: Cambridge, Pembroke Street, Cambridge, CB2 3QZ, U.K.  Cambridge, Madingley Road, Cambridge, CB3 OHE, U.K.  1997.  
+Affiliation: Department of Materials Science and Metallurgy, University of  flfl Cavendish Laboratory, University of  Intelligent Processing and Manufacturing of Materials,  
+Abstract: In this paper we investigate the utility of non-linear interpolation models, in particular Gaussian processes, to model the development of microstructure during thermomechanical processing of metals. We adopt a Bayesian approach which allows: (1) automatic control of the complexity of the non-linear model; (2) calculation of error bars describing the reliability of the model predictions; (3) automatic determination of the relevance of the various input variables. Although this method is not intelligent in that it does not attempt to provide a fundamental understanding of the underlying micromechanical deformation processes, it can lead to empirical relations that predict microstructure as a function of deformation and heat treatments. These can easily be incorporated into existing Finite Element forging design tools. Future work will examine the use of these models in reverse to guide the definition of deformation processes aimed at delivering the required microstructures. In order to thoroughly train and test a Gaussian process or neural network model, a large amount of representative experimental data is required. Initial experimental work has focused on an Al-1%Mg alloy deformed in non-uniform cold compression followed by different annealing treatments to build up a set of microstructural data brought about by a range of processing conditions. The DEFORM Finite Element modelling package has been used to calculate the local effective strain as a function of position across the samples. This is correlated with measurements of grain areas to construct the data set with which to develop the model. 
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> D. Lambert, INCO Alloys Ltd, Hereford, </author> <title> U.K. Private communications with T.J. </title> <type> Sabin, </type> <year> 1996. </year>
+Reference: 2. <author> G.I. Rosen, D. Juul Jensen, D.A. Hughes, N. Hansen, </author> <note> Acta Metall., 43(7), 1996, p. 2563. </note>
+Reference: 3. <author> T. Furu, H.R. Shercliff, </author> <title> C.M. </title> <journal> Sellars, M.F. Ashby, Mat. Sci. Forum, </journal> <pages> 217-222, </pages> <year> 1996, </year> <note> p. 453. </note>
+Reference: 4. <author> J. Kusiak, M. Pietrzyk, J.-L. Chenot, </author> <note> ISIJ Int., 34(9), 1994, p. 755. </note>
+Reference: 5. <author> P.L. Orsetti Rossi, </author> <title> C.M. </title> <journal> Sellars, Mat. Sci. Forum, </journal> <pages> 217-222, </pages> <year> 1996, </year> <note> p. 379. </note>
+Reference: 6. <author> M. Avrami, J. </author> <title> Chem. </title> <journal> Phys., </journal> <volume> 7, </volume> <year> 1939, </year> <pages> p. 1103-1112. </pages>
+Reference: 7. <author> F.J. Humphreys, </author> <type> Mater. </type> <institution> Sci. Technol., </institution> <note> 8, 1992, p. 135. </note>
+Reference: 8. <author> D.J.C. MacKay, </author> <title> Network: </title> <booktitle> Computation in Neural Systems, </booktitle> <volume> 6, </volume> <year> 1995, </year> <note> p. 469. </note>
+Reference: 9. <author> D.J.C. MacKay, </author> <title> Neural Computation, </title> <type> 4, </type> <year> 1992, </year> <note> p. 415. </note>
+Reference: 10. <author> N. Cressie, </author> <title> Statistics for Spatial Data, </title> <publisher> Wiley, </publisher> <address> Chichester, </address> <year> 1992. </year>
+Reference: 11. <editor> C.K.I. Williams, C.E. Rasmussen, </editor> <booktitle> in Advances in Neural Information Processing Systems 8 (D.S. </booktitle> <editor> Touretzky, M.C. Mozer, M.E. Hasselmo, eds.), </editor> <publisher> MIT Press, </publisher> <address> Boston, </address> <year> 1996. </year>
+Reference: 12. <author> M.N. Gibbs, D.J.C. MacKay, </author> <note> in preparation (see http://wol.ra.phy.cam.ac.uk/mng10/GP/), 1997. </note>
+Reference: 13. <author> T.J. Sabin, C.A.L. Bailer-Jones, S.M. Roberts, D.J.C. MacKay, P.J. Withers, </author> <note> to be presented at THERMEC 97 (International Conference on Thermomechanical Processing), </note> <month> July </month> <year> 1997. </year> <month> 7 </month>
+References-found: 13
+

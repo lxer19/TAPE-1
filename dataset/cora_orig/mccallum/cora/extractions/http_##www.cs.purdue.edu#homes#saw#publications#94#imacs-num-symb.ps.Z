@@ -1,0 +1,19 @@
+URL: http://www.cs.purdue.edu/homes/saw/publications/94/imacs-num-symb.ps.Z
+Refering-URL: http://www.cs.purdue.edu/homes/saw/publications/
+Root-URL: http://www.cs.purdue.edu
+Email: E-mail: -saw,enh,jrr-@cs.purdue.edu  
+Phone: Tel: +1 317 494 9992, Fax: +1 317 494 0739,  
+Title: A SOFTWARE PLATFORM FOR INTEGRATING SYMBOLIC COMPUTATION WITH A PDE SOLVING ENVIRONMENT  
+Author: Sanjiva Weerawarana, Elias N. Houstis and John R. Rice 
+Address: West Lafayette, IN 47907-1398, USA.  
+Affiliation: Department of Computer Sciences Purdue University  
+Abstract-found: 0
+Intro-found: 1
+Reference: 1. <author> Sanjiva Weerawarana, Elias N. Houstis, John R. Rice, Ann Christine Catlin, Cheryl L. Crabill, Chi Ching Chui and Shah-ani Markus, PDELab: </author> <title> An Object--Oriented Framework for Building Problem Solving Environments for PDE Based Applications, </title> <booktitle> Proceedings of the Second Annual Object-Oriented Numerics Conference, Rogue-Wave Software, </booktitle> <address> Corval lis, Oregon, </address> <year> 1994, </year> <pages> pp. 79-92. </pages>
+Reference-contexts: In this report, we describe our experience with developing a software environment that supports the convenient and ubiquitous interaction of these two (and other) computing methodologies. The next section provides a broad overview of the PDELab project <ref> [1] </ref>, the larger context to which this work belongs. Section 3 highlights the integrated use of symbolic computation in PDELab and the following section describes the software environment that facilitates this. 2.
+Reference: 2. <author> James M. Purtilo, </author> <title> The Polylith Software Bus, </title> <journal> ACM Transactions on Programming Languages and Systems, </journal> <volume> 16(1), </volume> <year> 1994, </year> <pages> pp. 151-174. </pages>
+Reference-contexts: This layer is responsible for the integration of various software components to form integrated workbenches and facilitate the development of these components as well. The communication fabric that supports component integration is based on the software bus model <ref> [2] </ref>. The software bus concept is an attempt to emulate the hardware bus mechanism that provides a standard hardware interface to attach additional capabilities to a machine.
+Reference: 3. <author> Sanjiva Weerawarana and Paul S. Wang, </author> <title> A Portable Code Generator for Cray FORTRAN, </title> <journal> ACM Transactions on Math ematical Software, </journal> <volume> 18(3), </volume> <year> 1992, </year> <pages> pp. </pages> <month> 241-255. </month> <title> FIGURE 2. The architecture of the symbolic tool. PDELab Symbolic Tool GENCRAY Softwar e Bus MACSYMA PDELab Functionality </title>
+Reference-contexts: Symbolic transformations on PDESpec objects (for example, linearizing a nonlinear equation or discretizing a PDE operator) are also supported. When a PDESpec program is to be executed, a translator in MACSYMA symbolically analyzes the program and generates the target code using the GENCRAY code generation system <ref> [3] </ref>. Execution time discretizations (for example, discretizing continuous boundary conditions to generate discrete values at boundary points) are done using MACSYMA as an evaluation server.
+References-found: 3
+

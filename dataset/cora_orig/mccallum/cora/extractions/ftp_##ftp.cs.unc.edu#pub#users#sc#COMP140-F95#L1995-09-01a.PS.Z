@@ -1,0 +1,12 @@
+URL: ftp://ftp.cs.unc.edu/pub/users/sc/COMP140-F95/L1995-09-01a.PS.Z
+Refering-URL: http://www.cs.unc.edu/~sc/teaching/COMP140-F1995/lectures.html
+Root-URL: http://www.cs.unc.edu
+Title: COMP 140: Introduction to Translator Systems Addendum to Lecture 3 (Symbol Tables) 1 Lexical scoping
+Author: Siddhartha Chatterjee 
+Note: version of the example from the lecture and work through it. Here is the code. line 1 int line 2 f(int int a) line 3 int b; line 4 +a*b; line 5 if &lt; 5) line 6 int a 1; line 7 +a*b; line 8 line 9 else line 10 int a 2; line 11 +a*b; line 12 line 13 line 14 2;  
+Date: 1 September 1995  
+Abstract: Figure 1 shows the nesting structure of scopes in the program. Let's call this the scope tree. At any point in the program, there is a unique innermost scope s, and the set of scopes visible at that point are precisely the ones on the path from s to the root of the scope tree. Note: This is how scopes nest. I haven't said anything about symbol tables at this time. The symbol records for the identifiers need to stay around for the entire compilation or interpretation process. The symbol table, on the other hand, is only required until we complete parsing and build the abstract syntax tree (AST). Once we have the AST, the leaves of the AST representing symbols have a field pointing directly to the symbol record, as shown in Figure 2. Of course, there are three instances of this particular statement in the program, and the pointers to the symbol records are different for the three instances. The point I'm trying to make is that once the parser completes building the AST, the lookup mechanism of the symbol table is no longer needed, because we have direct access to the correct records. Now let's look at what this means for symbol tables. We have two choices: build a single symbol table for the whole program, and use tags to distinguish the scopes; or to have a separate symbol table for each scope. Let's examine how each scheme would work, and what the costs are. In all cases, I'll assume that we're implementing symbol tables using a hash table. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

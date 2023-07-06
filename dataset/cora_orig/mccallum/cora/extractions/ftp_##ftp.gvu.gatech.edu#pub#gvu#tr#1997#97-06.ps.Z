@@ -1,0 +1,15 @@
+URL: ftp://ftp.gvu.gatech.edu/pub/gvu/tr/1997/97-06.ps.Z
+Refering-URL: http://www.cs.gatech.edu/fce/publications.html
+Root-URL: 
+Email: anind, lara, abowd, potts-@cc.gatech.edu  
+Phone: +1-404-894-7512  
+Title: Developing Voice-only Applications in the Absence of Speech Recognition Technology  
+Author: Anind K. Dey, Lara D. Catledge, Gregory D. Abowd and Colin Potts 
+Keyword: Voice-only interaction, speech recognition, Wizard of Oz  
+Address: Atlanta GA 30332-0280 USA  
+Affiliation: Graphics, Visualization, and Usability Center Georgia Institute of Technology  
+Abstract: In this paper, we describe an information access system with a voice-only interface. We outline a design process for generating guidelines for voice-only interaction in the absence of adequate speech recognition technology. Our usability studies make use of a Wizard of Oz scheme to replace the missing core technology. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

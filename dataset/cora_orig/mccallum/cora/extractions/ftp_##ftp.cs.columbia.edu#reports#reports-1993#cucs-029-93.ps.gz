@@ -1,0 +1,15 @@
+URL: ftp://ftp.cs.columbia.edu/reports/reports-1993/cucs-029-93.ps.gz
+Refering-URL: http://www.cs.columbia.edu/~library/1993.html
+Root-URL: http://www.cs.columbia.edu
+Title: Optimization of the Binding Mechanism of the Characteristic Function in Marvel  
+Abstract: Toni A. Bunter Technical Report CUCS-029-93 COLUMBIA UNIVERSITY 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> George T. Heineman, Gail E. Kaiser, Naser S. Barghouti, and Israel Z. Ben-Shaul. </author> <title> Rule chaining in marvel: Dynamic binding of parameters. </title> <journal> IEEE Expert, </journal> <volume> 7 </volume> <pages> 26-32, </pages> <year> 1992. </year>
+Reference-contexts: The objectbase keeps track of the process and production data. Marvel rules are the atomic elements which build the development process. Their activation can be triggered off by a user or by forward/backward chaining of another rule <ref> [1] </ref>. 1.1 Marvel Rules A rule consists of five sections: the parameter list, the characteristic function, the property list, the activity and the assertions. The parameter list and the characteristic function shape the query section of a rule. The property section checks for possible backward chaining.
+Reference: [2] <author> Gail E. Kaiser, Peter H. Feiler, and Steven S. Popovich. </author> <title> Intelligent assistance for software development and maintenance. </title> <journal> IEEE Software, </journal> <pages> pages 40-49, </pages> <month> May </month> <year> 1988. </year>
+Reference-contexts: 1 Introduction Marvel is a rule-based development environment <ref> [2] </ref>. An objectbase and rules can be tailored with the Marvel Strategic Language (MSL). The objectbase keeps track of the process and production data. Marvel rules are the atomic elements which build the development process.
+Reference: [3] <author> Niklaus Wirth. </author> <title> Algorithmen und Datenstrukturen. </title> <publisher> Teubner, </publisher> <year> 1983. </year> <note> 14 Figures 15 </note>
+Reference-contexts: Therefore, we designed a structure, called stacktree, which combines an AVL tree with a stack. The stack keeps track of an actual position in the tree for a sequential read process of the tree elements. The algorithms for the AVL trees are taken from <ref> [3] </ref>. 4.3 First Results First results on very small objectbases (less than 50 objects) were of random nature. No significant improvement could be shown.
+References-found: 3
+

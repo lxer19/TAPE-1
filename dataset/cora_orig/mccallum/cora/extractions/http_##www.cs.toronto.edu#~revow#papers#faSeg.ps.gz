@@ -1,0 +1,19 @@
+URL: http://www.cs.toronto.edu/~revow/papers/faSeg.ps.gz
+Refering-URL: http://www.cs.toronto.edu/~revow/
+Root-URL: 
+Email: hinton@cs.toronto.edu, revow@cs.toronto.edu  
+Title: Using Mixtures of Factor Analyzers for Segmentation and Pose Estimation  Category: Visual Processing Preference: Oral  
+Author: Geoffrey E. Hinton and Michael Revow 
+Note: NIPS*97 Submission  
+Address: Toronto, Ontario, M5S 1A4, Canada  
+Affiliation: Department of Computer Science University of Toronto  
+Abstract: To read a hand-written digit string, it is helpful to segment the image into separate digits. Bottom-up segmentation heuristics often fail when neighboring digits overlap substantially. We describe a system that has a stochastic generative model of each digit class and we show that this is the only knowledge required for segmentation. The system uses Gibbs sampling to construct a perceptual interpretation of a digit string and segmentation arises naturally from the "explaining away" effects that occur during Bayesian inference. By using conditional mixtures of factor analyzers, it is possible to extract an explicit, compact representation of the instantiation parameters that describe the pose of each digit. These instantiation parameters can then be used as the inputs to a higher level system that models the relationships between digits. The same technique could be used to model individual digits as redundancies between the instantiation parameters of their parts.
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> C. M. Bishop, M. Svensen, and C. K. I. Williams. GTM: </author> <title> The generative topographic mapping. </title> <booktitle> Neural computation, </booktitle> <year> 1997. </year>
+Reference: [2] <author> G. E. Hinton, P. Dayan, and M. Revow. </author> <title> Modeling the manifolds of images of handwritten digits. </title> <journal> IEEE Transactions Neural Networks, </journal> (8):65-74, 1997. 
+Reference: [3] <author> M. Revow, C. K. I. Williams, and G. E. Hinton. </author> <title> Using generative models for handwritten digit recognition. </title> <journal> IEEE Transactions Pattern Analysis and Machine Intellegince, </journal> <volume> 18(6) </volume> <pages> 592-606, </pages> <year> 1996. </year>
+Reference: [4] <author> P. Simard, Y. Le Cun, and J. Denker. </author> <title> Efficient pattern recognition using a new transformation distance. </title> <editor> In J. D. Cowan S. J. Hanson and C. L. Giles, editors, </editor> <booktitle> Advances in Neural Information Processing Systems 5, </booktitle> <pages> pages 50-58. </pages> <publisher> Morgan Kaufmann, </publisher> <year> 1993. </year>
+Reference: [5] <author> R. S. Zemel and G. E. Hinton. </author> <title> Learning population codes by minimizing description length. </title> <journal> Neural computation, </journal> <volume> 7(3) </volume> <pages> 549-564, </pages> <year> 1995. </year>
+References-found: 5
+

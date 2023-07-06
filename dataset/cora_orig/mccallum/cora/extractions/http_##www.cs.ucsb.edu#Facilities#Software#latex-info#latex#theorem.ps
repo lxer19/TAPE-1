@@ -1,0 +1,17 @@
+URL: http://www.cs.ucsb.edu/Facilities/Software/latex-info/latex/theorem.ps
+Refering-URL: http://www.cs.ucsb.edu/Facilities/Software/latex.html
+Root-URL: http://www.cs.ucsb.edu
+Title: An Extension of the L A T E X theorem environment For L A T
+Author: Frank Mittelbach 
+Note: Preface to version 2.2  since this is now included in L A T E X. Preface to version 2.1 This version is identical to 2.0g described in TUGboat 10#3 except  This was done to  is in force. For further details see section 3 and [1].  
+Date: April 26, 1996  
+Address: Eisenstrae 56 D-65424 Russelsheim Federal Republic of Germany  
+Affiliation: Electronic Data Systems (Deutschland) GmbH  
+Abstract: The macros described in this paper yield an extension of the L A T E X theorem mechanism. It is designed is to satisfy the different requirements of various journals. Thus, the layout of the "theorems" can be manipulated by determining a "style". This article describes not only the use, but also the definition, of the necessary macros.
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> M. Goossens, F. Mittelbach and A. Samarin. </author> <title> The L A T E X Companion. </title> <publisher> Addison-Wesley, </publisher> <address> Reading, Massachusetts, </address> <year> 1994. </year>
+Reference: [2] <author> Lamport, Leslie. latex.tex, </author> <note> version 2.09, date Feb. 1990. 15 </note>
+Reference-contexts: This mechanism 7 is adopted unchanged from <ref> [2] </ref>; the essential point here is that, for example, in the second case, the arguments Lem, Lemma and section are passed over to the macro "@xnthm. <p> Such a definition will fail whenever a list environment follows immediately. With the above construction, the "mbox-- causes the switch @inlabel (cf. definition of "list and "trivlist in <ref> [2] </ref>) to be set to false and so the following list will insert additional vertical space ("topskip). This is quite annoying. Therefore, we create the line break within the "item.
+References-found: 2
+

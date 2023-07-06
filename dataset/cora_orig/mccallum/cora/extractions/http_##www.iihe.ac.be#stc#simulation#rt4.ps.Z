@@ -1,0 +1,24 @@
+URL: http://www.iihe.ac.be/stc/simulation/rt4.ps.Z
+Refering-URL: http://www.iihe.ac.be/stc/simulation/
+Root-URL: http://www.iihe.ac.be
+Title: OSISIM Project Characterization of CSMA Protocols  
+Author: Atika COHEN Jean Franois HELLINGS Radouane MRABET 
+Keyword: 2.CSMA SPECIFICATION  
+Note: from SAIT System  
+Date: March 24, 1992  
+Pubnum: 1.INTRODUCTION  
+Abstract: The aim of this paper is to characterize the local area networks which use the CSMA protocols (Carrier Sense Multiple Access). The characterization will help us understand their behavior and model them. The paper is subdivided in three parts; the first one briefly presents the specification of CSMA protocols, the second one presents an exhaustive list of parameters which characterize these protocols and the last part gives some analytical results and a queueing model. CSMA/CD and CSMA protocols (Carrier Sense Multiple Access with or without collision detection) use a broadcast mechanism (e.g. coaxial cable for Ethernet) and a distributed access procedure to allow for sharing of the channel. Nodes on CSMA can sense ongoing transmissions and defer theirs until the channel is idle. They also have the ability to monitor the channel while transmitting to determine whether other stations are also attempting to transmit. Once an idle channel is sensed, a station may transmit. Because of the propagation delay on the wire, several stations may sense an idle channel and attempt to transmit simultaneously. This results in a collision. In order that all stations (including the one transmitting the packet) can hear the collision, it is required that all packets be greater than a certain minimum size. That size is 
+Abstract-found: 1
+Intro-found: 1
+Reference: [Bog, 88] <author> D.R. Boggs, J.C. Mogul and C.A. Kent. </author> <title> Measured Capacity of an Ethernet : Myths and Reality. </title> <journal> Computer Communication Review, </journal> <volume> vol 18, n 4, </volume> <month> August </month> <year> 1988. </year>
+Reference: [Bux 81] <author> W.Bux. </author> <title> Local-Area Subnetworks : A Performance Comparison. </title> <journal> IEEE Trans. on Communic., </journal> <volume> vol COM-29, n 10, </volume> <month> October </month> <year> 1981. </year> <title> Characterization of CSMA Protocols 16 </title>
+Reference: [Bux 84] <author> W.Bux. </author> <title> Performance issues in local-area networks. </title> <journal> IBM Systems Journal, </journal> <volume> vol 23, n 4, </volume> <year> 1984. </year>
+Reference: [Cob, 92] <author> R. Cobb, E.R. Mansfield and J.M. Mellichamp. </author> <title> Development of design guidelines for local area CSMA/CD networks. </title> <journal> Simulation, </journal> <volume> vol 58, n 4, </volume> <month> April </month> <year> 1992. </year>
+Reference: [Gon 85] <author> T. Gonsalves. </author> <title> Performance Characteristics of 2 Ethernets : An Experimental Study. </title> <booktitle> Proc. of the 1985 SIGMETRICS Conference. </booktitle>
+Reference: [Gon, 88] <author> T.A. Gonsalves and F.A. Tobagi. </author> <title> On the Performance Effects of Station Locations and Access Protocol Parameters in Ethernet Networks. </title> <journal> IEEE Transactions on Communications, </journal> <volume> vol 36, n 4, </volume> <month> April </month> <year> 1988. </year>
+Reference: [Hug, 82] <author> H.D. Hughes and L. Li. </author> <title> Simulation model of an Ethernet. </title> <journal> Computer performance, </journal> <volume> vol 3, n 4, </volume> <month> December </month> <year> 1982. </year>
+Reference: [Kat 87] <author> I. Katz. </author> <title> Modeling and simulation of medium-access-protocols in local area networks. </title> <journal> Simuletter, </journal> <volume> vol 18, n 1, </volume> <month> March </month> <year> 1987. </year>
+Reference: [Kle, 76] <author> L. Kleinrock. </author> <title> Queueing Systems. </title> <booktitle> Volume 2 : Computer Applications. </booktitle> <publisher> New York : John Wiley, </publisher> <year> 1976. </year>
+Reference: [Lam, 80] <author> S.S. </author> <note> Lam. </note>
+References-found: 10
+

@@ -1,0 +1,19 @@
+URL: ftp://ftp.icsi.berkeley.edu/pub/techreports/1997/tr-97-047.ps.gz
+Refering-URL: http://www.icsi.berkeley.edu/techreports/1997.html
+Root-URL: http://www.icsi.berkeley.edu
+Title: Quicknet on MultiSpert: Fast Parallel Neural Network Training  
+Author: Philipp Farber 
+Address: 1947 Center Street, Berkeley, CA 94704  
+Affiliation: International Computer Science Institute,  
+Date: December 1997  
+Abstract: The MultiSpert parallel system is a straight-forward extension of the Spert workstation accelerator, which is predominantly used in speech recognition research at ICSI. In order to deliver high performance for Artificial Neural Network training without requiring changes to the user interfaces, the exisiting Quicknet ANN library was modified to run on MultiSpert. In this report, we present the algorithms used in the parallelization of the Quicknet code and analyse their communication and computation requirements. The resulting performance model yields a better understanding of system speed-ups and potential bottlenecks. Experimental results from actual training runs validate the model and demonstrate the achieved performance levels. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [AG94] <author> David Anguita and Benedict A. Gomes. </author> <title> Mbp on t0: mixing floating- and fix-point formats in bp learning. </title> <type> Technical Report TR-94-038, </type> <institution> International Computer Science Institute, </institution> <month> August </month> <year> 1994. </year>
+Reference-contexts: For a constant bunch size, however, the communication to computation ratio still increases due to the decrease in computation time. Furthermore, the large number of network weights which have to be read from and written to every slave requires a substantial bunch size, which in turn compromises convergence <ref> [AG94] </ref>. The potential speed-up may thus be offset by an increased number of training epochs (see section 3.5). 2.3 Pipelining In order to maximize the utilization of all slaves, the master should call the next slave routine immediately after the previous routine has finished.
+Reference: [Far97] <author> Philipp Farber. </author> <title> Parallel Computing on MultiSpert. </title> <type> Technical Report TR-97-046, </type> <institution> International Computer Science Institute, </institution> <month> December </month> <year> 1997. </year>
+Reference-contexts: By combining several Spert-II boards to form the MultiSpert parallel computer (described in <ref> [Far97] </ref> ), we were able to further reduce training time so that very large speech databases can be processed in the course of a few days, rather than weeks. <p> The new MLP classes make use of the SPC library to transfer call arguments to, synchronize execution with, and read resulting data from the Spert-II slaves (see <ref> [Far97] </ref> and the SPC man-page for details on these mechanisms). Figure 2 illustrates the execution of the inner loop of the NP algorithm for one, two and three slaves.
+Reference: [WAK + 96] <author> John Wawrzynek, Krste Asanovic, Brian Kingsbury, James Beck, David Johnson, and Nelson Morgan. SPERT-II: </author> <title> A Vector Microprocessor System. </title> <journal> IEEE Computer, </journal> <volume> 29(3) </volume> <pages> 79-86, </pages> <month> March </month> <year> 1996. </year> <month> 10 </month>
+Reference-contexts: 1 Overview Although the Spert-II workstation accelerator <ref> [WAK + 96] </ref> surpasses the performance of today's workstations by factors of 3-10, the computational demands of training artificial neural networks (ANNs) for phoneme classification requires still higher levels of performance.
+References-found: 3
+

@@ -1,0 +1,17 @@
+URL: http://www.std.sri.com/public/ftp/ACE/Papers/SCOOT94.ps.Z
+Refering-URL: http://www.std.sri.com/public/ftp/ACE/Papers/
+Root-URL: 
+Title: SCOOT: An ObjectOriented Toolkit for Multimedia Collaboration  
+Author: Earl Craighill, Martin Fong, Keith Skinner, Ruth Lang, Kathryn Gruenefeldt 
+Note: 1 INTRODUCTION  
+Affiliation: SRI International  
+Abstract: This paper describes a Synchronous Collaborative ObjectOriented Toolkit (SCOOT) used to build collaboration-aware applications within a preexisting general-purpose, real-time synchronous collaboration environment, Collaborative Environment for Concurrent Engineering Design 1 (CECED) [CRAI93]. This toolkit extends and Earl Craighill, (415)859-4572, craighill@sri.com; Martin Fong, (415)859-4251, mwfong@std.sri.com; Keith Skinner, (415)859-3612, skinner@std.sri.com; Ruth Lang, (415)859-5608, rlang@std.sri.com; SRI International, 333 Ravenswood Avenue, Menlo Park, CA 94025. Kathryn Gruenefeldt, (503)221-2671, gruen@informix.com; Informix Software, Inc., 921 SW Washington Street, Suite 670, Portland, OR 97205. * This paper was approved for public release with unlimited distribution by ARPA Directorate for Security Review, OASD (PA) on May 19, 1994. The views and conclusions contained in this document are those of the authors and should not be interpreted as representing the official policies, either expressed or implied, of the Advanced Research Projects Agency of the U. S. Government. SRI is pursuing registration of SCOOT as a trademark. 1 This work was supported by ARPA, Defense Science 
+Abstract-found: 1
+Intro-found: 1
+Reference: [ADAM88] <author> Adams, Sam S., </author> <title> MetaMethods The MVC Paradigm, </title> <booktitle> HOOPLA!, </booktitle> <pages> pp. 5-21, </pages> <month> July </month> <year> 1988. </year>
+Reference: [APPL91] <author> Apple Computer, Inc., </author> <title> Inside M a c i n t o s h , V o l u m e V I , Addison-Wesley Publishing Company, </title> <publisher> Inc., </publisher> <address> Reading, MA, </address> <month> June </month> <year> 1991. </year>
+Reference-contexts: Although SCOOT also handles binary large objects, by definition, it cannot automatically accommodate the application and architecture 4 This is similar to how wellstructured Apple Event-aware Macintosh applications are designed <ref> [APPL91] </ref>. specific translation of these objects in a heterogeneous environment. 5. Comparison With Other Collaboration Toolkits Existing collaboration toolkits may be separated into one of three categories, based on their design approach: domainspecific toolkits, user-interface-based toolkits, and general-purpose toolkits.
+Reference: [BONF91] <author> Bonfiglio, A., Malatesta, G., and Tisato, F., </author> <title> "Conference Toolkit: </title>
+Reference-contexts: The most equitable comparison for SCOOT is with general-purpose collaborative toolkits, which include Conference Toolkit <ref> [BONF91] </ref>, GroupKit V2 [ROSE92], Rendezvous [HILL93], and LIZA [GIBB91]. The primary difference between SCOOT and these toolkits is that SCOOT is designed to support a replicated application model, while the others presuppose a centralized application model.
+References-found: 3
+

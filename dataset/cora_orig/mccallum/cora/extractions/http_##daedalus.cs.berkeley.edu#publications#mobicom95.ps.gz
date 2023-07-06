@@ -1,0 +1,20 @@
+URL: http://daedalus.cs.berkeley.edu/publications/mobicom95.ps.gz
+Refering-URL: http://daedalus.cs.berkeley.edu/
+Root-URL: http://www.cs.berkeley.edu
+Title: Throughput Performance of Transport-Layer Protocols over Wireless LANs. In TCP Extensions for Long Delay Paths.
+Author: A. DeSimone, M. C. Chuah, and O. C. Yue. V. Jacobson and R. T. Braden. [JBB] V. Jacobson, R. T. Braden, and D. A. Bor-man. [Kat] R. H. Katz. sonal Communications, (), . [KP] P. Karn and C. Partridge. S. J. Lefer, M. K. McKusick, M. J. Karels, and J. S. Quarterman. S. McCanne and V. Jacobson. ary . ] S. Paul, E. Ayanoglu, T. F. LaPorta, K. H. Chen, K. K. Sabnani, and R. D. Gitlin. J. B. Postel. RFC, 
+Affiliation: SRI International,  
+Address: San Francisco, CA,  San Diego, CA, Janu  Menlo Park, CA,  
+Date: 93, December 1993.  December 1991.  88, August 1988.  August 1987.  Sep 1993.  December 1994.  
+Note: [DCY93]  Proc. Globecom  [Dee91] S. E. Deering. Multicast Routing in a Data-gram Internetwork. PhD thesis, Stanford University,  [Jac88] V. Jacobson. Congestion avoidance and control. In SIGCOMM  [JB88]  [KP93] J. Kay and J. Pasquale. The Importance of Non-Data Touching Processing Overheads in TCP/IP. In Proc. SIGCOMM 93 Conf.,  [LMKQ89]  The Design and Implementation of the 4.3 BSD UNIX Operating System. Addison-Wesley, Reading, MA, Nov 1989. [MJ93]  In Proc. Winter 93 USENIX Conference,  Communications. In Proc. Info Comm 95, 1995. [Pos81]  September 1981. RFC-793. [Ste94] W. R. Stevens. TCP/IP Illustrated, Volume 1. Addison-Wesley, Reading, MA, Nov 1994. [YB94] R. Yavatkar and N. Bhagwat. Improving  Applications,  
+Pubnum: 1988. RFC-1072.  SIGCOMM 87,  
+Abstract-found: 0
+Intro-found: 1
+Reference: [ABSK95] <author> E. Amir, H. Balakrishnan, S. Seshan, and R. H. Katz. </author> <title> Efficient TCP over Networks with Wireless Links. </title> <booktitle> In Proc. </booktitle> <address> HotOS-V, </address> <month> May </month> <year> 1995. </year>
+Reference: [BB94] <author> A. Bakre and B. R. Badrinath. I-TCP: </author> <title> Indirect TCP for Mobile Hosts. </title> <type> Technical Report DCS-TR-314, </type> <institution> Rutgers University, </institution> <month> October </month> <year> 1994. </year>
+Reference: [BB95] <author> A. Bakre and B. R. Badrinath. </author> <title> Handoff and System Support for Indirect TCP/IP. </title> <booktitle> In Proc. Second Usenix Symp. on Mobile and Location-Independent Computing, </booktitle> <month> April </month> <year> 1995. </year>
+Reference: [Bra89] <author> R. T. Braden. </author> <title> Requirements for Internet Hosts Communication Layers, </title> <month> October </month> <year> 1989. </year> <month> RFC-1323. </month>
+Reference: [CI94] <author> R. Caceres and L. Iftode. </author> <title> Improving the Performance of Reliable Transport Protocols in Mobile Computing Environments. </title> <journal> IEEE JSAC, </journal> <volume> 13(5), </volume> <month> June </month> <year> 1994. </year>
+
+References-found: 5
+

@@ -1,0 +1,12 @@
+URL: ftp://ftp.cs.unc.edu/pub/users/sc/COMP122-F96/L1996-11-07.PS.Z
+Refering-URL: http://www.cs.unc.edu/~sc/teaching/COMP122-F1996/lectures.html
+Root-URL: http://www.cs.unc.edu
+Title: COMP 122: Algorithms and Analysis Testing Graph Planarity (Part 2 of 2) property of segments
+Author: Siddhartha Chatterjee C. 
+Note: The first  
+Date: 7 November 1996 1 Segments  
+Abstract: We observed earlier that the path decomposition of G 0 produces a cycle C = p 0 and a sequence of simple paths p 1 through p m , with m = jEj - jVj. From the Jordan Curve Theorem, we know that C divides the plane into an "inside" and an "outside" region, and that each of the simple paths p i ; 1 i must be embedded completely on the inside or completely on the outside for the graph to be planar. However, we can make a stronger observation, that certain groups of paths must, in fact, be embedded on the same side of the cycle C. We call such groups of paths segments. We will in fact define segments in a completely different (structural) manner, and then prove that the property just stated is true of segments. Definition 3 (Segments) A segment S of G 0 with respect to cycle C is either a single back edge (v i ; w) not on C but where v i ; w 2 C, or a subgraph consisting of a tree edge (v i ; w), v i 2 C, w 62 C, the subtree rooted at w, and all back edges from this subtree. The vertex v i at which a segment originates is called the base vertex of the segment. 2 Note that each segment is a connected subgraph of G 0 - C, but not every connected component of G 0 Cis a segment. Two or more segments may have a common base vertex, as you will see in the homework problem. Our running example graph G and its segments are shown in Figure 1. Proof: This follows from the Jordan Curve Theorem. A segment is a connected subgraph, and the only vertices of the segment shared with the cycle are the base vertex and the destination vertices of the back edges. If the remaining vertices of the segment are embedded on both sides of the cycle C, there must be some edge that crosses the boundary between the sides. This edge would intersect with the curve at some point, violating the planarity of the embedding. 2 We observed in the proof above that a segment is attached to the cycle C by one arc (v i ; w) leading from C and by one or more back edges leading to C. If the segment consists of a single back edge (v i ; w), then both v i and w belong to C. We will need to keep track of the side of C where we embed the segment. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

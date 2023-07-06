@@ -1,0 +1,14 @@
+URL: http://www.cs.wustl.edu/cs/techreports/1997/wucs-97-45.ps.Z
+Refering-URL: http://www.cs.wustl.edu/cs/cs/publications.html
+Root-URL: 
+Title: Compositional Programming Abstractions for Mobile Computing  
+Author: Peter J. McCann, Gruia-Catalin Roman 
+Keyword: Formal methods, mobile computing, Mobile UNITY, weak consistency, shared variables, synchronization, transient interactions.  
+Date: 1998 1  
+Note: IEEE TRANSACTIONS ON SOFTWARE ENGINEERING, VOL. XX, NO. X, MONTH  
+Abstract: Recent advances in wireless networking technology and the increasing demand for ubiquitous, mobile connectivity demonstrate the importance of providing reliable systems for managing reconfiguration and disconnection of components. Design of such systems requires tools and techniques appropriate to the task. Many formal models of computation, including UNITY, are not adequate for expressing reconfiguration and disconnection and are therefore inappropriate vehicles for investigating the impact of mobility on the construction of modular and composable systems. Algebraic formalisms such as the -calculus have been proposed for modeling mobility. This paper addresses the question of whether UNITY, a state-based formalism with a foundation in temporal logic, can be extended to address concurrent, mobile systems. In the process, we examine some new abstractions for communication among mobile components that express reconfiguration and disconnection and which can be composed in a modular fashion. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> K. Mani Chandy and Jayadev Misra, </author> <title> Parallel Program Design: </title>
+References-found: 1
+

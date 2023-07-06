@@ -1,0 +1,20 @@
+URL: ftp://ftp.cs.utoronto.ca/pub/radford/emk.ps.Z
+Refering-URL: http://www.cs.toronto.edu/~radford/res-latent.html
+Root-URL: 
+Title: A VIEW OF THE EM ALGORITHM THAT JUSTIFIES INCREMENTAL, SPARSE, AND OTHER VARIANTS  
+Author: RADFORD M. NEAL GEOFFREY E. HINTON 
+Web: http://www.cs.toronto.edu/~radford/  http://www.cs.toronto.edu/~hinton/  
+Address: Toronto, Toronto, Ontario, Canada  Toronto, Toronto, Ontario, Canada  
+Affiliation: Dept. of Statistics and Dept. of Computer Science University of  Department of Computer Science University of  
+Abstract: The EM algorithm performs maximum likelihood estimation for data in which some variables are unobserved. We present a function that resembles negative free energy and show that the M step maximizes this function with respect to the model parameters and the E step maximizes it with respect to the distribution over the unobserved variables. From this perspective, it is easy to justify an incremental variant of the EM algorithm in which the distribution for only one of the unobserved variables is recalculated in each E step. This variant is shown empirically to give faster convergence in a mixture estimation problem. A variant of the algorithm that exploits sparse conditional distributions is also described, and a wide range of other variant algorithms are also seen to be possible. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Csiszar I. and Tusnady, G. </author> <title> (1984) "Information geometry and alternating minimization procedures", </title> <editor> in E. J. Dudewicz, </editor> <title> et al (editors) Recent Results in Estimation Theory and Related Topics (Statistics and Decisions, </title> <journal> Supplement Issue No. </journal> <volume> 1, </volume> <year> 1984). </year>
+Reference: <author> Dempster, A. P., Laird, N. M., and Rubin, D. B. </author> <title> (1977) "Maximum likelihood from incomplete data via the EM algorithm" (with discussion), </title> <journal> Journal of the Royal Statistical Society B, </journal> <volume> vol. 39, </volume> <pages> pp. 1-38. </pages>
+Reference: <author> Hathaway, R. J. </author> <title> (1986) "Another interpretation of the EM algorithm for mixture distributions", </title> <journal> Statistics and Probability Letters, </journal> <volume> vol. 4, </volume> <pages> pp. 53-56. </pages>
+Reference: <author> McLachlan, G. J. and Krishnan, T. </author> <title> (1997) The EM Algorithm and Extensions, </title> <address> New York: </address> <publisher> Wiley. </publisher>
+Reference: <author> Meng, X. L. and Rubin, D. B. </author> <title> (1992) "Recent extensions of the EM algorithm (with discussion)", </title> <editor> in J. M. Bernardo, J. O. Berger, A. P. Dawid, and A. F. M. Smith (editors), </editor> <booktitle> Bayesian Statistics 4, </booktitle> <publisher> Oxford: Clarendon Press. </publisher>
+Reference: <author> Meng, X. L. and van Dyk, D. </author> <title> (1997) "The EM algorithm | an old folksong sung to a fast new tune" (with discussion), </title> <journal> Journal of the Royal Statistical Society B, </journal> <volume> vol. 59, </volume> <pages> pp. 511-567. </pages>
+Reference: <author> Nowlan, S. J. </author> <title> (1991) Soft Competitive Adaptation: Neural Network Learning Algorithms based on Fitting Statistical Mixtures, </title> <type> Ph. D. thesis, </type> <institution> School of Computer Science, Carnegie Mellon University, Pittsburgh. </institution>
+References-found: 7
+

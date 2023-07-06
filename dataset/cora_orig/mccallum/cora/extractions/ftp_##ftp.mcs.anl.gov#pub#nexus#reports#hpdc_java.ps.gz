@@ -1,0 +1,14 @@
+URL: ftp://ftp.mcs.anl.gov/pub/nexus/reports/hpdc_java.ps.gz
+Refering-URL: http://www.mcs.anl.gov/nexus/nexusjava.html
+Root-URL: http://www.mcs.anl.gov
+Email: ffoster,tueckeg@mcs.anl.gov  
+Title: Enabling Technologies for Web-Based Ubiquitous Supercomputing  
+Author: Ian Foster and Steven Tuecke 
+Web: http://www.mcs.anl.gov/globus/  
+Address: Argonne, IL 60439, U.S.A.  
+Affiliation: Mathematics and Computer Science Division Argonne National Laboratory  
+Abstract: We use the term ubiquitous supercomputing to refer to systems that integrate low- and mid-range computing systems, advanced networks, and remote high-end computers with the goal of enhancing the computational power accessible from local environments. Such systems promise to enable new applications in areas as diverse as smart instruments and collaborative environments. However, they also demand tools for transporting code between computers and for establishing flexible, dynamic communication structures. In this paper, we propose that these requirements be satisfied by enhancing the Java programming language with global pointer and remote service request mechanisms from a communication library called Nexus. Java supports transportable code; Nexus provides communication support. We explain how this NexusJava library is implemented and illustrate its use with examples. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

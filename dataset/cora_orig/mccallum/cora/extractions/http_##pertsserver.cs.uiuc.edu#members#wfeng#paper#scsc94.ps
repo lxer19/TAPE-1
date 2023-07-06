@@ -1,0 +1,24 @@
+URL: http://pertsserver.cs.uiuc.edu/members/wfeng/paper/scsc94.ps
+Refering-URL: http://pertsserver.cs.uiuc.edu/members/wfeng/paper/paper.html
+Root-URL: http://www.cs.uiuc.edu
+Email: E-mail: feng@cs.uiuc.edu  
+Title: PARALLEL SPINODAL DECOMPOSITION  
+Author: Wu-chun Feng 
+Address: 1304 W. Springfield Avenue Urbana, IL 61801  
+Affiliation: Department of Computer Science University of Illinois at Urbana-Champaign  
+Date: 717-722, July 1994.  
+Note: Appeared in Proc. of the 26th Summer Computer Simulation Conf., San Diego, CA, pp.  
+Abstract: Spinodal decomposition encompasses the ordering dynamics of thermodynamically unstable phases. An example of spinodal decomposition is the separation of the metals in a binary alloy. Because physicists have been unable to develop a fully coherent, consistent, and calculable theory on spinodal decomposition, computational studies have served as valuable sources of information. However, since these computational studies require large systems of cells to adequately characterize spinodal decomposition, sequential implementations of this phenomenon can require weeks to execute. To address this problem, we have developed an approach for parallelizing the time-series simulation of spinodal decomposition. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Chakrabarti, A.; R. Toral; and J. D. Gunton. </author> <year> 1989. </year> <journal> Physical Review B 39: </journal> <pages> 4386-4391. </pages>
+Reference-contexts: Twenty samples of 10,000 time steps and two samples of 20,000 time steps over a 192 3 -cell lattice were run. The computation required 260 hours of Cray-2 time, which is approximately 10 times faster than <ref> (Chakrabarti et al. 1989) </ref>, and the main memory usage was roughly 56 MB.
+Reference: <author> Hillis, D. </author> <year> 1985. </year> <title> The Connection Machine. </title> <publisher> MIT Press, </publisher> <address> Cambridge, MA. </address>
+Reference-contexts: Next, we concurrently initialize every cell of the lattice with either random floating-point numbers in the range (0:1; 0:1) or with values stored in a DataVault parallel file <ref> (Hillis 85) </ref>. The entire iterative relaxation stage can be paral-lelized on a per-cell basis. At each time step t, each cell computes its new value for the order parameter field in parallel with all the other cells.
+Reference: <author> Puri, S. </author> <year> 1988. </year> <title> Some Problems in the Dynamics of Spatially Extended Systems. </title> <type> Ph.D Thesis. </type> <institution> Department of Physics. University of Illinois at Urbana-Champaign, Urbana, IL. </institution>
+Reference: <author> Shinozaki, A. and Y. Oono. </author> <year> 1991. </year> <title> "Asymptotic Form Factor for Spinodal Decomposition in 3-Space." </title> <journal> Physical Review Letters 66, </journal> <volume> no. 2 (Feb.): </volume> <pages> 173-176. </pages>
+Reference: <author> Shinozaki, A. and Y. Oono. </author> <year> 1993. </year> <title> "Dispersion Relation Around the Kink Solution of the Cahn-Hilliard Equation." </title> <journal> Physical Review E 47, </journal> <volume> no. 2 (Feb.): </volume> <pages> 804-811. </pages>
+Reference: <author> Waltz, D. </author> <year> 1987. </year> <title> "Applications of the Connection Machine." </title> <journal> IEEE Computer 20, </journal> <volume> no. 1 (Jan.): </volume> <pages> 85-97. 6 </pages>
+Reference-contexts: The SIMD architecture of the CM-2 proves to be beneficial for many reasons. First, as <ref> (Waltz 1987) </ref> notes, applications with inherent data-parallelism are easy to program on the Connection Machine.
+References-found: 6
+

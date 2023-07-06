@@ -1,0 +1,14 @@
+URL: http://www.cs.ucl.ac.uk/external/Z.Wang/papers/mmd.ps.Z
+Refering-URL: http://www.cs.ucl.ac.uk/external/Z.Wang/pub.html
+Root-URL: http://www.cs.ucl.ac.uk
+Title: MMD: Multicast Mail Delivery  
+Author: Atanu Ghosh, Zheng Wang and Jon Crowcroft 
+Date: June 4, 1996  
+Address: Gower Street, London WC1E 6BT, United Kingdom  
+Affiliation: Department of Computer Science, University College London  
+Abstract: As mailing lists grow large, current centrailized distribution becomes increasingly unmanageable. In this paper we present an alternative mailing list delivery system called MMD. MMD delivers message to list members by multicast and achieves reliability with a lightweight retransmission scheme based on expanding ring local reparing. MMD can co-exist with conventional mailing list delivery and requires minimum changes to the systems. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <institution> 6 </institution>
+References-found: 1
+

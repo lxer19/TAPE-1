@@ -1,0 +1,28 @@
+URL: ftp://info.mcs.anl.gov/pub/automated.reasoning/news35.ps.Z
+Refering-URL: http://www.mcs.anl.gov/publications/newsletters.htm
+Root-URL: http://www.mcs.anl.gov
+Email: (mccune@mcs.anl.gov)  
+Title: ASSOCIATION FOR AUTOMATED REASONING NEWSLETTER of you or your colleagues have open questions to take
+Author: William McCune 
+Note: From the AAR President, Larry Wos... Since the Robbins problem has now been settled, do any  The Robbins problem|are all Robbins algebras Boolean?|has been solved: Every Robbins algebra is Boolean. This theorem was proved automatically by EQP, a theorem-proving program developed at Argonne National Laboratory. The Problem In 1933, E. V. Huntington presented [1,2] the following  was later studied by Tarski and his students [6], but no proof was found.  
+Date: 35 December 1996  
+Pubnum: No.  
+Abstract: This issue of the AAR Newsletter was completed in 1996 but, because Argonne closes for two weeks in December, did not get printed until January. So, it's a grand way to end the old year| with McCune's solution to the long-standing Robbins problem. And it's a grand way to start the new year|with a new challenge competition for automated reasoning programs and with several new books for eager reviewers. 
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> E. V. Huntington, </author> <title> "New sets of independent postulates for the algebra of logic", </title> <journal> Trans. </journal> <volume> AMS 35, </volume> <month> 274-304 </month> <year> (1933). </year>
+Reference: 2. <author> E. V. Huntington, </author> <title> "Boolean algebra: A correction", </title> <journal> Trans. </journal> <volume> AMS 35, </volume> <month> 557-558 </month> <year> (1933). </year>
+Reference: 3. <author> S. Winker, </author> <title> "Robbins algebra: Conditions that make a near-Boolean algebra Boolean", </title> <journal> J. </journal> <note> Automated Reasoning 6(4), </note> <month> 465-489 </month> <year> (1990). </year>
+Reference: 4. <author> S. Winker, </author> <title> "Absorption and idempotency criteria for a problem in near-Boolean algebras", </title> <journal> J. </journal> <note> Algebra 153(2), </note> <month> 414-423 </month> <year> (1992). </year>
+Reference: 5. <author> H. Robbins, </author> <title> Telephone conversation, </title> <month> October 15, </month> <year> 1996. </year>
+Reference: 6. <author> L. Henkin, J. D. Monk, and A. Tarski, </author> <title> Cylindric Algebras, Part I, </title> <publisher> North-Holland, </publisher> <year> 1971. </year>
+
+Reference: 1. <editor> Automated Deduction in Equational Logic and Cubic Curves, by W. McCune and R. Pad-manabhan, </editor> <publisher> Springer-Verlag, </publisher> <year> 1996 </year>
+Reference: 2. <editor> An Experimenter's Notebook with OTTER Tutorial, by Larry Wos, </editor> <publisher> Academic Press, </publisher> <year> 1996 </year>
+Reference: 3. <institution> Extensions of First Order Logic, by Maria Manzano, Cambridge University Press, </institution> <year> 1996 </year>
+Reference: 4. <author> For the Sake of the Argument: </author> <title> Ramsey Test Conditionals, Inductive Inference, and Non-monotonic Reasoning, by Isaac Levi, </title> <publisher> Cambridge University Press, </publisher> <year> 1996 </year>
+
+Reference: 1. <institution> All occurrences of continuous-from-to should be changed to continuous-from-onto. </institution>
+Reference: 2. <editor> All occurrences of open-from-to should be replaced with open-from-onto. </editor> <title> These corrections do not change any of the reasoning. They do, however, make the knowledge base make more sense to people. </title> <type> 8 </type>
+References-found: 12
+

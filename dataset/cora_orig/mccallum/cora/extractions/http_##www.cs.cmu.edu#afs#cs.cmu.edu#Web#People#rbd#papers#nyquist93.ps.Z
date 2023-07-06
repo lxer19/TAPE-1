@@ -1,0 +1,20 @@
+URL: http://www.cs.cmu.edu/afs/cs.cmu.edu/Web/People/rbd/papers/nyquist93.ps.Z
+Refering-URL: http://www.cs.cmu.edu/afs/cs.cmu.edu/Web/People/rbd/bib-arctic.html
+Root-URL: http://www.cs.cmu.edu
+Email: dannenberg@cs.cmu.edu  
+Title: The Implementation of Nyquist, A Sound Synthesis Language of a sharable linked list of sample
+Author: Roger B. Dannenberg 
+Note: consisting  practical  Nyquist has no need to preprocess an orchestra or ``patch''. This allows Lisp-based This is similar to the  be assigned to  
+Address: Pittsburgh, PA 15213 USA  
+Affiliation: Carnegie Mellon University  
+Abstract: Nyquist is a functional language for sound synthesis with an efficient implementation. for the entire result, then signals were added one-at-a-implementation techniques. Declarative programs Also, Nyquist sounds are first-class values that may Due to space limitations, this paper will focus on the describe only enough of Nyquist to motivate the Figure 1 illustrates an expression and the resulting representation issues. To get a more complete computation structure consisting of a graph of picture, consult previous articles on the language synthesis objects. This graph is, in effect, a design [Dannenberg 91, Dannenberg 92a] and ``suspended computation,'' that is, a structure that performance issues [Dannenberg 92b]. The story is represents a computation waiting to happen. This still not complete. An interesting part of the Nyquist graph is an efficient way to represent the sound. implementation is a compiler that translates inner When actual samples are needed, the s-add time. This was workable for small sounds, but are automatically transformed into an efficient
+Abstract-found: 1
+Intro-found: 1
+Reference: [Dannenberg 91] <author> Dannenberg, R. B., C. L. Fraley, and P. Velikonja. Fugue: </author> <title> A Functional Language for Sound 3 The LST can be changed by a transformation, indicated by an Synthesis. </title> <booktitle> Computer 24(7) </booktitle> <pages> 36-42, </pages> <month> July, </month> <year> 1991. </year> <title> LST field in each reader. If specified, this overrides the flag in the list node. </title> <type> 4 </type>
+Reference: [Dannenberg 92a] <author> Dannenberg, R. B., C. L. Fraley, and P. Velikonja. </author> <title> A Functional Language for Sound Synthesis with Behavioral Abstraction and Lazy Evaluation. Readings in Computer-Generated Music. In Denis Baggi, </title> <publisher> IEEE Computer Society Press, Los Alamitos, </publisher> <address> CA, </address> <year> 1992. </year>
+Reference: [Dannenberg 92b] <author> Dannenberg, R. B. </author> <title> Real-Time Software Synthesis on Superscalar Architectures. </title> <booktitle> In Proceedings of the 1992 ICMC, </booktitle> <pages> pages 174-177. </pages> <booktitle> International Computer Music Association, </booktitle> <address> San Francisco, </address> <year> 1992. </year>
+Reference: [Pope 93] <author> Pope, S. T. </author> <title> Machine Tongues XV: Three Packages for Software Sound Synthesis. </title> <journal> Computer Music Journal 17(2) </journal> <pages> 23-54, </pages> <month> Summer, </month> <year> 1993. </year>
+Reference: [Puckette 91] <author> Puckette, M. </author> <title> Combining Event and Signal Processing in the MAX Graphical Programming Environment. </title> <journal> Computer Music Journal 15(3) </journal> <pages> 68-77, </pages> <month> Fall, </month> <year> 1991. </year>
+Reference-contexts: Since the order is determined at the time of evaluation, the computation graph may change dynamically. In particular, when a new ``note'' is played, the graph is expanded accordingly. This is in contrast to the static graphs used by Max on the ISPW <ref> [Puckette 91] </ref>, where all resources must be pre-allocated. 3. Shared Values In Nyquist, sounds are values that can be assigned to variables and reused any number of times. It would be conceivable (and semantically correct) to simply 4.
+References-found: 5
+

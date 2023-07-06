@@ -1,0 +1,27 @@
+URL: ftp://ftp.cs.wisc.edu/computer-vision/iuw97-dyer.ps.gz
+Refering-URL: http://www.cs.wisc.edu/computer-vision/pubs.html
+Root-URL: 
+Email: e-mail: dyer@cs.wisc.edu  
+Title: Image-Based Scene Rendering and Manipulation  
+Author: Charles R. Dyer 
+Web: homepage: http://www.cs.wisc.edu/ dyer  
+Address: Madison, WI 53706  
+Affiliation: at the University of Wisconsin  Department of Computer Science University of Wisconsin  
+Pubnum: Research  
+Abstract: This report summarizes the research effort at the University of Wisconsin in support of the VSAM Program. Our primary goal is to develop technologies so a user can interactively visualize and virtually modify a 3D environment from a set of images. Current approaches are described for image-based scene rendering, scene manipulation, and appearance modeling. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [ Seitz and Dyer, 1995 ] <author> S. M. Seitz and C. R. Dyer. </author> <title> Physically-valid view synthesis by image interpolation. </title> <booktitle> In Proc. IEEE Workshop on Representations of Visual Scenes, </booktitle> <pages> pages 18-25, </pages> <year> 1995. </year>
+Reference-contexts: The method synthesizes images corresponding to new viewpoints by performing simple image warping operations. This work extends to perspective projection our earlier results <ref> [ Seitz and Dyer, 1995 ] </ref> .
+Reference: [ Seitz and Dyer, 1996a ] <author> S. M. Seitz and C. R. Dyer. </author> <title> Toward image-based scene representation using view morphing. </title> <booktitle> In Proc. 13th Int. Conf. on Pattern Recognition, </booktitle> <volume> Vol. I, </volume> <pages> pages 84-89, </pages> <year> 1996. </year>
+Reference: [ Seitz and Dyer, 1996b ] <author> S. M. Seitz and C. R. Dyer. </author> <title> View morphing. </title> <booktitle> In Proc. SIGGRAPH 96, </booktitle> <pages> pages 21-30, </pages> <year> 1996. </year>
+Reference: [ Seitz and Dyer, 1997a ] <author> S. M. Seitz and C. R. Dyer. </author> <title> Photorealistic scene reconstruction by voxel coloring. </title> <booktitle> In Proc. Computer Vision and Pattern Recognition Conf., </booktitle> <year> 1997. </year> <note> To appear. </note>
+Reference-contexts: A third requirement is scalability| the capability for combining an arbitrary number of basis views, with corresponding improvements in the quality of the synthesized views. With these requirements in mind, we are developing a new approach, called voxel coloring <ref> [ Seitz and Dyer, 1997a, Seitz and Dyer, 1997b ] </ref> , that reconstructs the "color" (radiance) at points in an unknown scene.
+Reference: [ Seitz and Dyer, 1997b ] <author> S. M. Seitz and C. R. Dyer. </author> <title> Photorealistic scene reconstruction by voxel coloring. </title> <booktitle> In these Proceedings. </booktitle>
+Reference-contexts: A third requirement is scalability| the capability for combining an arbitrary number of basis views, with corresponding improvements in the quality of the synthesized views. With these requirements in mind, we are developing a new approach, called voxel coloring <ref> [ Seitz and Dyer, 1997a, Seitz and Dyer, 1997b ] </ref> , that reconstructs the "color" (radiance) at points in an unknown scene.
+Reference: [ Seitz and Dyer, 1997c ] <author> S. M. Seitz and C. R. Dyer. </author> <title> View Morphing: Uniquely predicting scene appearance from basis images. </title> <booktitle> In these Proceedings. </booktitle>
+Reference: [ Seitz and Kutulakos, 1997 ] <author> S. M. Seitz and K. N. Kutulakos. </author> <title> Plenoptic image editing. </title> <type> Technical Report 647, </type> <institution> Computer Science Department, University of Rochester, Rochester, </institution> <address> NY, </address> <month> January </month> <year> 1997. </year>
+Reference-contexts: We call this plenoptic image editing <ref> [ Seitz and Kutulakos, 1997 ] </ref> because the user can edit any one image and those changes are propagated automatically, in a physically-consistent way, to all other images as if the 3D environment had itself been modified.
+Reference: [ Seitz, 1997 ] <author> S. M. Seitz. </author> <title> Bringing photographs to life with view morphing. </title> <booktitle> In Proc. </booktitle> <volume> Imagina 97, </volume> <pages> pages 153-158, </pages> <year> 1997. </year>
+References-found: 8
+

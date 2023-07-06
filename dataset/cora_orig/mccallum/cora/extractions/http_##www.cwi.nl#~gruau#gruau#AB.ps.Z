@@ -1,0 +1,42 @@
+URL: http://www.cwi.nl/~gruau/gruau/AB.ps.Z
+Refering-URL: http://www.cs.cmu.edu/~rll/talks/
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Email: gruau@cs.colostate.edu  
+Title: Automatic Definition of Modular Neural Networks  
+Author: Frederic Gruau Mailing adress: Other affiliations: Matiere Condensee, du Parallelisme, Allee d'Italie Fort Collins 
+Date: January 11, 1995  
+Address: CA 94305-2130 USA  Martyrs, 38041 Grenoble 69364 Lyon Cedex 07, France CO 80523 USA  
+Affiliation: Stanford University Psychology Department  Centre d'Etude Nucleaire de Grenoble Ecole Normale Superieure de Lyon Colorado State University Departement de Recherche Fondamentale Laboratoire de l'Informatique Computer Science Department  17 rue des  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <institution> International Conference on Graph Grammars. </institution> <note> Lecture note in computer Science 532, </note> <year> 1990. </year>
+Reference: [2] <author> D. Ackley and M. Littman. </author> <title> The interaction between learning and evolution. </title> <booktitle> In Artificial life II, </booktitle> <year> 1991. </year>
+Reference: [3] <author> Randall Beer. </author> <title> Intelligence as adaptive behavior. </title> <publisher> Academic Press, </publisher> <year> 1990. </year>
+Reference: [4] <author> Randall Beer and John Gallagher. </author> <title> Evolving dynamical neural networks for adaptive behavior. </title> <booktitle> Adaptive Behavior, </booktitle> <volume> 1 </volume> <pages> 92-122, </pages> <year> 1992. </year>
+Reference: [5] <author> R. Belew. </author> <title> Interposing an ontogenic model between genetic algorithms and neural networks. </title> <booktitle> In Neural Information Processing System 5th, </booktitle> <year> 1993. </year>
+Reference: [6] <author> E.J.W. Boers and H. Kuiper. </author> <title> Biological Metaphor and the design of modular artificial neural networks. </title> <type> Master Thesis, </type> <institution> Leiden University, </institution> <address> the Netherlands, </address> <year> 1992. </year>
+Reference: [7] <author> Rodney Brooks. </author> <title> Intelligence without representation. </title> <journal> Artificial Intelligence, </journal> <volume> 47 </volume> <pages> 139-159, </pages> <year> 1991. </year>
+Reference: [8] <author> Dave Cliff, Inmahn Harvey, and Phil Hubands. </author> <booktitle> Explorations in evolutionary robotics. Adaptive Behavior, </booktitle> <volume> 2 </volume> <pages> 73-110, </pages> <year> 1993. </year>
+Reference: [9] <author> R. Collins and D. Jefferson. </author> <title> Selection in massively parallel genetic algorithm. </title> <booktitle> In Proc. of 4th International Conf. on Genetic Algorithms, </booktitle> <year> 1991. </year>
+Reference: [10] <author> F. Dellaert and D. Beer. </author> <title> Co-evolving body and brain in autonomous agent using a developmental model. </title> <institution> Ces94-16, Case Western University, </institution> <year> 1994. </year>
+Reference: [11] <author> F. Gruau. </author> <title> Genetic synthesis of boolean neural networks with a cell rewriting developmental process. In Combination of Genetic Algorithms and Neural Networks, </title> <year> 1992. </year>
+Reference: [12] <author> F. Gruau. </author> <title> The mixed parallel genetic algorithm. </title> <booktitle> In Parallel Computing 93, </booktitle> <year> 1993. </year>
+Reference: [13] <author> F. Gruau. </author> <title> Neural Network Synthesis using Cellular Encoding and the Genetic Algorithm. </title> <type> PhD Thesis, </type> <institution> Ecole Normale Superieure de Lyon, </institution> <year> 1994. </year> <note> anonymous ftp: lip.ens-lyon.fr (140.77.1.11) directory pub/Rapports/PhD file PhD94-01-E.ps.Z (english) PhD94-01-F.ps.Z (french). 43 </note>
+Reference: [14] <author> F. Gruau, J. Ratajszczak, and G. Wiber. </author> <title> A neural compiler. </title> <booktitle> Theoretical Computer Science, </booktitle> <year> 1994. </year> <note> to appear. </note>
+Reference: [15] <author> F. Gruau and D. Whitley. </author> <title> Adding learning to the the cellular developmental process: a comparative study. </title> <booktitle> Evolutionary Computation V1N3, </booktitle> <year> 1993. </year>
+Reference: [16] <author> U. Muller-Wilm H. Cruse and J. Dean. </author> <title> Artificial neural nets for controlling a 6-legged walking system. </title> <booktitle> In Second International Conference on Simulation of Adaptive Behavior, </booktitle> <year> 1993. </year>
+Reference: [17] <author> G.E. Hinton and S.J. Nowlan. </author> <title> How learning can guide evolution. </title> <journal> Complex Systems, </journal> <volume> 4 </volume> <pages> 495-502, </pages> <year> 1987. </year>
+Reference: [18] <author> D. Hubel and T. Wiesel. </author> <title> Brain mechanisms of vision. </title> <publisher> Scientific American, </publisher> <year> 1979. </year>
+Reference: [19] <author> J.Kodjabachian and J. Meyer. </author> <title> Development, learning and evolution in animates. In PerAc'94. </title> <publisher> IEEE computer society press, </publisher> <year> 1994. </year> <note> anonymous ftp at ftp.ens.fr, pub/reports/biologie/PerAc94.ps.Z. </note>
+Reference: [20] <author> H. Kitano. </author> <title> Designing neural network using genetic algorithm with graph generation system. </title> <journal> Complex Systems, </journal> <volume> 4 </volume> <pages> 461-476, </pages> <year> 1992. </year>
+Reference: [21] <author> John R. Koza. </author> <title> Genetic programming: A paradigm for genetically breeding computer population of computer programs to solve problems. </title> <publisher> MIT press, </publisher> <year> 1992. </year>
+Reference: [22] <author> John R. Koza. </author> <title> Genetic programming II: Automatic Discovery of reusable programs. </title> <publisher> MIT press, </publisher> <year> 1994. </year>
+Reference: [23] <author> J.A. Meyer and A. Guillot. </author> <title> Simulation of adaptive behavior in animats: Review and prospects. </title> <booktitle> In Proc. of the 1st inter. cont. on Simulation of Adaptive Behavior., </booktitle> <year> 1991. </year>
+Reference: [24] <author> Eric Mjolness, David Sharp, and Bradley Alpert. </author> <title> Scaling, machine learning and genetic neural nets. </title> <institution> La-ur-88-142, Los Alamos National Laboratory, </institution> <year> 1988. </year>
+Reference: [25] <author> H. Muehlenbein, M. Schomish, and J.Born. </author> <title> The parallel genetic algorithm as function optimizer. </title> <journal> Parallel Computing, </journal> <volume> 17 </volume> <pages> 619-632, </pages> <year> 1991. </year>
+Reference: [26] <author> Parisi and Nolfi. </author> <title> Morphogenesis of neural networks. </title> <type> Technical report, </type> <institution> University of Rome, </institution> <year> 1992. </year>
+Reference: [27] <author> P. Prusinkiewicz and A. Lindenmmayer. </author> <title> The algorithm beauty of plants. </title> <booktitle> 1992. </booktitle> <pages> 44 </pages>
+Reference: [28] <author> Karl Sims. </author> <title> Evolving 3d morphology and behavior by competition. </title> <editor> In R. Brook and P. Maes, editors, </editor> <booktitle> 4th Intern. Conf. on Artificial Life, </booktitle> <publisher> MIT Ress, </publisher> <year> 1994. </year>
+Reference: [29] <author> J. Vaario. </author> <title> An emergent modeling method for artificial neural networks. </title> <type> PhD Thesis, </type> <institution> University of Tokyo, </institution> <year> 1993. </year>
+References-found: 29
+

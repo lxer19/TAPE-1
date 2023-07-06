@@ -1,0 +1,25 @@
+URL: ftp://ftp.imag.fr/pub/CALCUL_FORMEL/RAPPORT/1996/RR960M.ps.gz
+Refering-URL: http://www-lmc.imag.fr/CF/publi.html
+Root-URL: http://www.imag.fr
+Email: Luc.Rebillard@imag.fr  
+Title: Series de Chebyshev formelles.  
+Author: L. Rebillard 
+Address: 46 av. Felix Viallet, F-38001 Grenoble Cedex  
+Affiliation: LMC-IMAG,  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> A. Barkatou et A. Duval. </author> <title> Sur les series formelles solutions d'equations aux differences polynomiales. </title> <journal> Annales de l'Institut Fourier, </journal> <volume> vol. 44, no2, </volume> <year> 1994, </year> <pages> pp. 495-524. </pages>
+Reference: [2] <author> C. </author> <title> Clenshaw. Numerical solution of linear differential equations in chebyshev series. </title> <booktitle> Proc. </booktitle> <address> Cambridge Phi. </address> <publisher> Soc., </publisher> <address> 134-149:53, </address> <year> 1957. </year>
+Reference-contexts: Introduction Les series de Chebyshev sont un outil fondamental pour l'approximation des fonctions (voir notamment dans Rivlin [7] le lien entre series de Chebyshev partielles et meilleure approximation polynomiale uniforme). C'est pourquoi differents auteurs, notamment Clen-shaw <ref> [2] </ref> et Fox [3], ont developpe des methodes pour trouver les solutions d'EDO lineaires a coefficients polynomiaux, sous forme de series de Chebyshev. La methode de Fox a d'ailleurs ete programmee en MACSYMA par Geddes [4].
+Reference: [3] <author> L. Fox and I.B. Parker. </author> <title> Chebyshev polynomials in numerical analysis. </title> <publisher> Oxford University Press, </publisher> <address> London, </address> <year> 1968. </year>
+Reference-contexts: Introduction Les series de Chebyshev sont un outil fondamental pour l'approximation des fonctions (voir notamment dans Rivlin [7] le lien entre series de Chebyshev partielles et meilleure approximation polynomiale uniforme). C'est pourquoi differents auteurs, notamment Clen-shaw [2] et Fox <ref> [3] </ref>, ont developpe des methodes pour trouver les solutions d'EDO lineaires a coefficients polynomiaux, sous forme de series de Chebyshev. La methode de Fox a d'ailleurs ete programmee en MACSYMA par Geddes [4].
+Reference: [4] <author> K. Geddes. </author> <booktitle> In MACSYMA user's conference, </booktitle> <year> 1977. </year>
+Reference-contexts: C'est pourquoi differents auteurs, notamment Clen-shaw [2] et Fox [3], ont developpe des methodes pour trouver les solutions d'EDO lineaires a coefficients polynomiaux, sous forme de series de Chebyshev. La methode de Fox a d'ailleurs ete programmee en MACSYMA par Geddes <ref> [4] </ref>. Ces methodes reposent sur l'etablissement d'une equation aux differences verifiee par les coefficients de Chebyshev des solutions de l'EDO. Or toutes les solutions de cette equation aux differences ne sont pas les coefficients d'une serie de Chebyshev convergente solution de l'EDO.
+Reference: [5] <author> J.P. Ramis. Devissage gevrey. Asteristique S.M.F., </author> <year> 1978, </year> <pages> pp. 173-204. </pages>
+Reference-contexts: Voyons donc comment utiliser ce resultat, en commencant par introduire la notion de polygone de Newton. 4.2 Polygone de Newton d'un operateur differentiel (On peut trouver les definitions qui suivent dans <ref> [5] </ref>). Considerons un operateur differentiel L 2 = C [x; x 1 ; @ x ]. Cet operateur peut donc s'ecrire L = P q :@ q X p i;j x j les p i;j non nuls etant en nombre fini.
+Reference: [6] <author> J.P. Ramis. </author> <title> Theoremes d'indices gevrey pour les equations differentielles ordinaires. </title> <journal> Memoirs of the A.M.S, </journal> <volume> no296, </volume> <year> 1984. </year>
+Reference-contexts: Cette equation aux differences permettra, par l'utilisation indirecte d'un theoreme d^u a Ramis <ref> [6] </ref>, de conclure sur le caractere Gevrey des solutions formelles de Chebyshev.
+Reference: [7] <author> T. Rivlin. </author> <title> Chebyshev Polynomials. </title> <publisher> John Wiley and Sons, </publisher> <address> New york, </address> <year> 1974. </year> <month> 23 </month>
+Reference-contexts: Introduction Les series de Chebyshev sont un outil fondamental pour l'approximation des fonctions (voir notamment dans Rivlin <ref> [7] </ref> le lien entre series de Chebyshev partielles et meilleure approximation polynomiale uniforme). C'est pourquoi differents auteurs, notamment Clen-shaw [2] et Fox [3], ont developpe des methodes pour trouver les solutions d'EDO lineaires a coefficients polynomiaux, sous forme de series de Chebyshev.
+References-found: 7
+

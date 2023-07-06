@@ -1,0 +1,35 @@
+URL: ftp://markov.utstat.toronto.edu/jeff/fill.ps.Z
+Refering-URL: http://www.stats.bris.ac.uk/MCMC/pages/list.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: An extension of Fill's exact sampling algorithm to non-monotone chains*  
+Author: by Duncan J. Murdoch** and Jeffrey S. Rosenthal*** 
+Date: (June 25, 1998; last revised August 4, 1998.)  
+Affiliation: University of Western Ontario and University of Toronto  
+Abstract: We provide an extension of Fill's (1998) exact sampler algorithm. Our algorithm is similar to Fill's, however it makes no assumptions regarding stochastic monotonicity, discreteness of the state space, the existence of densities, etc. We illustrate our algorithm on a simple example. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Brooks, S.P. and Roberts, </author> <title> G.O. (1997). Assessing Convergence of Markov Chain Monte Carlo Algorithms. </title> <type> Preprint, </type> <institution> University of Bristol. </institution>
+Reference: <author> Corcoran, J. and Tweedie, R.L. </author> <year> (1998). </year> <title> Perfect simulation of Harris recurrent Markov chains. </title> <type> Preprint, </type> <institution> Colorado State University. </institution>
+Reference: <editor> Cowles, M.K. and Carlin, B.P. </editor> <month> (May, </month> <year> 1995). </year> <title> Markov Chain Monte Carlo Convergence Diagnostics: A Comparative Review. </title> <type> Preprint, </type> <institution> University of Iowa. </institution>
+Reference: <author> Fill, J.A. </author> <year> (1995). </year> <note> Unpublished. 8 Fill, J.A. </note> <year> (1998). </year> <title> An interruptible algorithm for perfect sampling via Markov chains. </title> <journal> Annals of Applied Probability, </journal> <volume> 8 </volume> <pages> 131-162. </pages>
+Reference: <author> Foss, S.G. and Tweedie, R.L. </author> <year> (1997). </year> <title> Perfect simulation and backward coupling. Stochastic Models, </title> <note> to appear. </note>
+Reference: <author> Gelfand, A.E. and Smith, A.F.M. </author> <year> (1990). </year> <title> Sampling-based approaches to calculating marginal densities. </title> <journal> Journal of the American Statistical Association, </journal> <volume> 85 </volume> <pages> 398-409. </pages>
+Reference: <author> Gilks, W.R., Richardson, S., and Spiegelhalter, </author> <title> D.J., editors (1996). Markov Chain Monte Carlo in Practice. </title> <publisher> Chapman and Hall. </publisher>
+Reference: <author> Green, P.J. and Murdoch, D.J. </author> <year> (1998). </year> <title> Exact sampling for Bayesian inference: towards general purpose algorithms. </title> <type> Preprint. </type>
+Reference: <author> Kendall, W. </author> <year> (1997). </year> <title> Perfect simulation for the area-interaction point process. </title> <editor> In Heyde, C.C. and Accardi, L., editors, </editor> <title> Probability Perspective. World Scientific Press. </title> <note> To appear. </note>
+Reference: <author> Kendall, W. and Thonnes, E. </author> <year> (1998). </year> <title> Perfect simulation in stochastic geometry. </title> <type> Preprint, </type> <institution> University of Warwick. </institution>
+Reference: <author> Meyn, S.P. and Tweedie, R.L. </author> <year> (1994). </year> <title> Computable bounds for convergence rates of markov chains. </title> <journal> Annals of Applied Probability, </journal> <volume> 4 </volume> <pages> 981-1011. </pages>
+Reference: <author> Mtller, J. </author> <year> (1997). </year> <title> Perfect simulation of conditionally specified models. </title> <journal> Journal of the Royal Statistical Society, Series B, </journal> <note> to appear. </note>
+Reference: <author> Mtller, J. and Schladitz, K. </author> <year> (1998). </year> <title> Extensions of Fill's algorithm for perfect simulation. </title> <type> Preprint. </type>
+Reference: <author> Murdoch, D.J. and Green, P.J. </author> <year> (1997). </year> <title> Exact sampling from a continuous state space. </title> <journal> Scandinavian Journal of Statistics, </journal> <note> to appear. </note>
+Reference: <author> Murdoch, D.J. and Rosenthal, J.S. </author> <year> (1998). </year> <title> Efficient use of exact samples. </title> <type> Preprint. </type>
+Reference-contexts: First, the conditional sampling of N x;t given the initial path may be quite difficult to carry out. Second, it is sometimes possible with CFTP algorithms to extract more information from the CFTP runs and obtain correspondingly better estimators at little additional computational cost <ref> (Murdoch and Rosenthal, 1998) </ref>. However, this does not seem possible with Fill's algorithm, because the intermediate values are generally not drawn from ().
+Reference: <author> Propp, J.G. and Wilson, D.B. </author> <year> (1996). </year> <title> Exact sampling with coupled Markov chains and applications to statistical mechanics. Random Structures and Algorithms, </title> <booktitle> 9 </booktitle> <pages> 223-252. </pages>
+Reference: <author> Propp, J.G. and Wilson, D.B. </author> <year> (1998). </year> <title> How to get a perfectly random sample from a generic Markov chain and generate a random spanning tree of a directed graph. </title> <journal> Journal of Algorithms, </journal> <volume> 27 </volume> <pages> 170-217. </pages>
+Reference: <author> Rosenthal, J.S. </author> <year> (1995). </year> <title> Minorization conditions and convergence rates for Markov chain Monte Carlo. </title> <journal> Journal of the American Statistical Association, </journal> <volume> 90 </volume> <pages> 558-566. </pages>
+Reference: <author> Smith, A.F.M. and Roberts, </author> <title> G.O. (1993). Bayesian computation via the gibbs sampler and related markov chain monte carlo methods (with discussion). </title> <journal> Journal of the Royal 9 Statistical Society, Series B, </journal> <volume> 55 </volume> <pages> 3-24. </pages>
+Reference: <author> Thonnes, E. </author> <year> (1997). </year> <title> Perfect Simulation of some Point Processes for the Impatient User. </title> <type> Preprint, </type> <institution> University of Warwick. </institution>
+Reference: <author> Tierney, L. </author> <year> (1994). </year> <title> Markov chains for exploring posterior distributions (with discussion). </title> <journal> Annals of Statistics, </journal> <volume> 22 </volume> <pages> 1701-1762. 10 </pages>
+Reference-contexts: Gelfand and Smith, 1990; Smith and Roberts, 1993; Tierney, 1994; Gilks et al., 1996). MCMC algorithms produce a Markov chain P (x; ) which has () as its stationary distribution; if the chain is run long enough, then under reasonably weak conditions <ref> (cf. Tierney, 1994) </ref> it will converge in distribution to (), facilitating approximate sampling. One difficulty with these methods is that it is difficult to assess their convergence to stationarity.
+References-found: 21
+

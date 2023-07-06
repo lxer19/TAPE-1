@@ -1,0 +1,19 @@
+URL: http://http.cs.berkeley.edu/~asah/papers/other/printed/wan-sysadmin-techns.ps.gz
+Refering-URL: http://http.cs.berkeley.edu/~asah/papers/other/printed/
+Root-URL: http://www.cs.berkeley.edu
+Phone: (303) 492-7514  
+Title: Techniques for Supporting Wide Area Distributed Applications  
+Author: Michael F. Schwartz Panagiotis G. Tsirigotis 
+Note: electronic mail contact: schwartz@cs.colorado.edu  
+Address: Boulder, Colorado 80309-0430  
+Affiliation: Department of Computer Science University of Colorado  
+Date: February 1991; Revised August 1991  
+Pubnum: CU-CS-519-91  
+Abstract: In this paper we present a number of techniques for supporting distributed applications that span many nodes across administrative boundaries in wide area internetworks. The techniques derive from experiences with research prototypes we have built in a variety of application areas. Several of the prototypes have achieved exceptionally far reaching distribution, operating in conjunction with machines in thousands of sites around the world. The techniques are applicable to a broad range of distributed applications. They concern problems with fault tolerance, administrative decentralization, scalability of operational semantics, organizing decentralized information, controlling the spread of distributed operations, and user interfaces. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [Allman 1985] <author> E. Allman. </author> <title> Sendmail An Internetwork Mail Router. UNIX Programmer's Manual, 4.2BSD, </title> <type> 2C, </type> <institution> Comput. Sci. Division, EECS, Univ. of California, Berkeley, </institution> <note> June 1985. </note> <author> [Bershad et al. 1987] B. N. Bershad, D. T. Ching, E. D. Lazowska, J. Sanislo and M. Schwartz. </author> <title> A Remote Procedure Call Facility for Interconnecting Heterogeneous Computer Systems. </title> <journal> IEEE Trans. Software Eng., </journal> <volume> SE-13(8), </volume> <pages> pp. 880-894, </pages> <month> Aug. </month> <year> 1987. </year>
+Reference-contexts: For example, this technique could help extend the reach of global electronic mail systems. Mail agents capable of handline heterogeneous mail addressing syntax already exist <ref> [Allman 1985] </ref>, as do gateways that can transfer mail between different subsystems [Kille 1986].
+
+References-found: 1
+

@@ -1,0 +1,17 @@
+URL: ftp://ftp.cs.caltech.edu/tr/cs-tr-93-40.ps.Z
+Refering-URL: ftp://ftp.cs.caltech.edu/tr/INDEX.html
+Root-URL: http://www.cs.caltech.edu
+Phone: innerproduct 0.0;  
+Title: innerproduct 0.0; for (int j L.row()[i]; j &lt; i; j++) for (int j i 1;
+Author: innerproduct L[i][j]*[j]; [i] b[i] innerproduct; void backward_substitute(const matrix&lt;sync float&gt; &U, const vector&lt;sync float&gt; vector&lt;sync float&gt; vector&lt;sync float&gt; matrix&lt;sync float&gt; LU(A.size(), A.row(), A.column()); vector&lt;sync float&gt; (A.size()); 
+Address: i U.size() 1; i &gt;= 0; i--) float innerproduct;  
+Affiliation: parfor (int  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> G. R. Andrews. </author> <title> Concurrent Programming: </title> <booktitle> Principles and Practice. </booktitle> <address> Benjamin/Cummings, Redwood City, California, </address> <year> 1991. </year>
+Reference: [2] <editor> T. Ito and R. H. Halstead, Jr., editors. </editor> <booktitle> Parallel Lisp: Languages and Systems. </booktitle> <publisher> Springer-Verlag, </publisher> <address> Berlin, Germany, </address> <year> 1990. </year> <booktitle> Proceedings of US/Japan Workshop on Parallel Lisp. </booktitle>
+Reference: [3] <editor> B. K. Szymanski, editor. </editor> <booktitle> Parallel Functional Languages and Compilers. </booktitle> <publisher> ACM Press, </publisher> <address> New York, New York, </address> <year> 1991. </year>
+Reference: [4] <author> D. Cann. </author> <title> Retire Fortran? A debate rekindled. </title> <journal> Communications of the ACM, </journal> <volume> 35(8) </volume> <pages> 81-89, </pages> <month> August </month> <year> 1992. </year>
+
+References-found: 4
+

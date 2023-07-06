@@ -1,0 +1,21 @@
+URL: http://www.graphics.cornell.edu/pubs/1998/PT98.ps.gz
+Refering-URL: http://www.graphics.cornell.edu/pubs/1998/PT98.html
+Root-URL: http://www.cs.cornell.edu
+Title: Light Measurement using the Photometrics-PXL1300L CCD Camera  
+Author: Sumanta N. Pattanaik and Kenneth E. Torrance 
+Affiliation: of Computer Graphics, Cornell University. 2 Professor, Sibley School of Mechanical and Aerospace Engineering, Cornell Uni versity.  
+Note: 1 Research Associate, Program  
+Date: May 29, 1998  
+Abstract-found: 0
+Intro-found: 1
+Reference: [PCG-96-1] <author> Steve S-F. Chen, Jerry Wei-Chieh Li, Kenneth E. Torrance, Sumanta N. Pattanaik, </author> <title> Preliminary Calibration of the Photometrics PXL1300L CCD Camera, </title> <type> Technical report, </type> <institution> no. PCG-96-1, Program of Computer Graphics, Cornell University, </institution> <year> 1996. </year>
+Reference-contexts: Some of the calibration results used in this report are based on a previous technical report from our laboratory <ref> [PCG-96-1] </ref>. The organization of this report is as follows. Chapters 2 and 3 describe the functionality and the mathematical modeling of a CCD camera. Chapter 4 describes linearity verification over ranges of F-Stops, object distances and shutter speeds.
+Reference: [Tsai86] <author> Roger Y. Tsai, </author> <title> An efficient and accurate camera calibration technique for 3D machine vision., </title> <booktitle> Proceedings of IEEE Conference on Computer Vision and Pattern Recognition, </booktitle> <year> 1986, </year> <pages> pp. 364-374. </pages>
+Reference-contexts: The image on the right of Figure 7.8 shows a synthetic image computed using The Particle Tracing Method [Walter97] using an accurate numerical definition of the same scene. The CCD camera pose for Figure 7.8 was extracted by using a pose computation technique developed by Tsai <ref> [Tsai86] </ref>. This technique has been used successfully in the LML for synthetic camera view specification as required by the rendering method. 25 Chapter 8 Future Work The spectral reconstruction technique needs further verification.
+Reference: [Steve] <author> Steve Marschner and Steve Westin. </author> <type> Personal communication. </type>
+Reference-contexts: The uniformity is greater than 98%. The exact procedure used for the flat field calibration will 20 be discussed in another report <ref> [Steve] </ref>. The spectral power output of the light source is shown on the right in Figure 7.4. This calibrated spectrum is used to compute the camera constant for quantitative work. Seven measurements of the Cornell Box scene were done with the CCD camera and filter combinations.
+Reference: [Vora97] <author> Vora, P. L., Harville, M. L., Farrell, J. E., Tietz, J. D., and Brainard, D. H. </author> <year> (1997). </year> <title> Image capture: synthesis of sensor responses from multispec-tral images. </title> <booktitle> Proceedings of the 1997 IS&T/SPIE Conference on Electronic Imaging, </booktitle> <address> (San Jose, CA, </address> <month> February 10-14, </month> <year> 1997), </year> <pages> 3018, 2-11. </pages>
+Reference-contexts: This technique has been used successfully in the LML for synthetic camera view specification as required by the rendering method. 25 Chapter 8 Future Work The spectral reconstruction technique needs further verification. We have recently come across the work of researchers <ref> [Vora97] </ref> using 31 narrow band measurements for spectral reconstruction using a similar CCD camera and 31 interference filters. Though we have not come across any report of difficulty in reconstructing from a smaller number of filters, good reconstruction from seven filter measurements may be too optimistic.
+
+References-found: 4
+

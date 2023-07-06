@@ -1,0 +1,24 @@
+URL: http://www.cs.utexas.edu/users/ring/ML91.ps.Z
+Refering-URL: http://www.cs.utexas.edu/users/ring/
+Root-URL: http://www.cs.utexas.edu
+Title: References elements that can solve difficult learning control problems. on Simulation of Adaptive Behavior, pages
+Author: Barto, A., Sutton, R., and Anderson., C. (). Neuron-like Schmidhuber, J. (a). Wilson, S. (). M., Oren, T., and Zeigler, B., 
+Address: fu In-formatik.  New York.  
+Affiliation: Technische Universitat Munchen, Institut  
+Date: (revised),  
+Note: IEEE Transactions on Systems, Man, and Cybernetics, 13:835-846. Holland, J. (1975). Adaptation in Natural and Artificial Systems. Ann Arbor, Michigan: The University of Michigan Press. Roitblat, H. (1991). Cognitive action theory as a control architecture. In From Animals to Animats: Proceedings of the First International Conference  Widrow, B. and Hoff, M. (1960). Adaptive switching circuits. In IRE WESCON Convention Record, pages 96-104. IRE.  editors, Modeling and Simulation Methodology. Elsevier Science Publishers B.V. 6  
+Pubnum: Technical Report FKI-125-90  
+Abstract: Miller, G. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. The Psychological Review, 63(2):81-97. Schmidhuber, J. (1990b). Towards compositional learning with dynamic neural networks. Technical Report FKI-129-90, Technische Universitat Munchen, Institut fu Informatik. Servan-Schreiber, D., Cleermans, A., and McClelland, J. (1988). Encoding sequential structure in simple recurrent networks. Technical Report CMU-CS-88-183, Carnegie Mellon University, Computer Science Department. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Barto, A., Sutton, R., and Anderson., C. </author> <year> (1983). </year> <title> Neuron-like elements that can solve difficult learning control problems. </title> <journal> IEEE Transactions on Systems, Man, and Cybernetics, </journal> <volume> 13 </volume> <pages> 835-846. </pages>
+Reference: <author> Holland, J. </author> <year> (1975). </year> <title> Adaptation in Natural and Artificial Systems. </title> <institution> Ann Arbor, Michigan: The University of Michigan Press. </institution>
+Reference: <author> Miller, G. </author> <year> (1956). </year> <title> The magical number seven, plus or minus two: Some limits on our capacity for processing information. </title> <journal> The Psychological Review, </journal> <volume> 63(2) </volume> <pages> 81-97. </pages>
+Reference: <editor> Roitblat, H. </editor> <year> (1991). </year> <title> Cognitive action theory as a control architecture. </title> <booktitle> In From Animals to Animats: Proceedings of the First International Conference on Simulation of Adaptive Behavior, </booktitle> <pages> pages 444-450. </pages> <publisher> MIT Press. </publisher>
+Reference: <author> Schmidhuber, J. </author> <year> (1990a). </year> <title> Networks adjusting networks. </title> <type> Technical Report FKI-125-90 (revised), </type> <institution> Technische Universitat Munchen, Institut fu In-formatik. </institution>
+Reference: <author> Schmidhuber, J. </author> <year> (1990b). </year> <title> Towards compositional learning with dynamic neural networks. </title> <type> Technical Report FKI-129-90, </type> <institution> Technische Universitat Munchen, Institut fu Informatik. </institution>
+Reference: <author> Servan-Schreiber, D., Cleermans, A., and McClelland, J. </author> <year> (1988). </year> <title> Encoding sequential structure in simple recurrent networks. </title> <type> Technical Report CMU-CS-88-183, </type> <institution> Carnegie Mellon University, Computer Science Department. </institution>
+Reference: <author> Widrow, B. and Hoff, M. </author> <year> (1960). </year> <title> Adaptive switching circuits. </title> <booktitle> In IRE WESCON Convention Record, </booktitle> <pages> pages 96-104. </pages> <address> IRE. New York. </address>
+
+References-found: 8
+

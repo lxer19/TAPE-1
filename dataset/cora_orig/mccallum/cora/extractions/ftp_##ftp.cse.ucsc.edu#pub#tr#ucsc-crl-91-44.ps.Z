@@ -1,0 +1,25 @@
+URL: ftp://ftp.cse.ucsc.edu/pub/tr/ucsc-crl-91-44.ps.Z
+Refering-URL: ftp://ftp.cse.ucsc.edu/pub/tr/README.html
+Root-URL: http://www.cse.ucsc.edu
+Title: On the density of families of sets. Journal of Combinatorial Theory (Series A), Learning from
+Author: N. Sauer. H. Sompolinsky, N. Tishby, and H. Seung. [] M. Talagrand. Donsker , . [] N. Tishby, E. Levin, and S. Solla. V. N. Vapnik. Theorie der Zeichenerkennung. Akademie-Verlag, . [] V. N. Vapnik. [] V. N. Vapnik and A. Y. Chervonenkis. 
+Date: 1972.  
+Address: Holland, Amsterdam, 1970.  
+Affiliation: North  
+Note: [25] A. Renyi. Probability Theory.  [27]  [29]  In IJCNN International Joint Conference on Neural Networks, volume II, pages 403-409. IEEE, 1989. [32] L. G. Valiant. A theory of the learnable. Communications of the ACM, 27(11):1134 42, 1984. [33]  16(2):264-80, 1971. [36] V. Vovk. Aggregating strategies. In Proceedings of the Third Annual Workshop on Computational Learning Theory, pages 371-383. Morgan Kaufmann, 1990. 29  
+Pubnum: 13:145-147,  
+Abstract: 26] W. Sarrett and M. Pazzani. Average case analysis of empirical and explanation-based learning algorithms. Technical Report 89-35, UC Irvine, 1989. To appear in Machine Learning. [28] J. Shawe-Taylor, M. Anthony, and N. Biggs. Bounding sample size with the Vapnik-Chervonenkis dimension. Technical Report CSD-TR-618, University of London, Sur rey, England, 1989. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> P. Assouad. </author> <title> Densite et dimension. </title> <journal> Annales de l'Institut Fourier, </journal> <volume> 33(3) </volume> <pages> 233-282, </pages> <year> 1983. </year>
+Reference: [2] <author> J. M. Barzdin and R. V. Freivald. </author> <title> On the prediction of general recursive functions. </title> <journal> Soviet Mathematics-Doklady, </journal> <volume> 13 </volume> <pages> 1224-1228, </pages> <year> 1972. </year>
+Reference: [3] <author> E. Baum and D. Haussler. </author> <title> What size net gives valid generalization? Neural Computation, </title> <booktitle> 1(1) </booktitle> <pages> 151-160, </pages> <year> 1989. </year>
+Reference: [4] <author> A. Blumer, A. Ehrenfeucht, D. Haussler, and M. K. Warmuth. </author> <title> Learnability and the Vapnik-Chervonenkis dimension. </title> <journal> Journal of the Association for Computing Machinery, </journal> <volume> 36(4) </volume> <pages> 929-965, </pages> <year> 1989. </year>
+Reference: [5] <author> W. Buntine. </author> <title> A Theory of Learning Classification Rules. </title> <type> PhD thesis, </type> <institution> University of Technology, </institution> <address> Sydney, </address> <year> 1990. </year>
+Reference: [6] <author> W. Buntine and A. Weigend. </author> <title> Bayesian back propagation. </title> <type> Unpublished manuscript, </type> <year> 1991. </year>
+Reference: [7] <author> B. Clarke and A. Barron. </author> <title> Entropy, risk and the Bayesian central limit theorem. </title> <type> manuscript. </type>
+Reference: [8] <author> B. Clarke and A. Barron. </author> <title> Information-theoretic asymptotics of Bayes methods. </title> <journal> IEEE Transactions on Information Theory, </journal> <volume> 36(3) </volume> <pages> 453-471, </pages> <year> 1990. </year>
+Reference: [9] <author> T. Cover and J. Thomas. </author> <title> Elements of Information Theory. </title> <publisher> Wiley, </publisher> <year> 1991. </year>
+
+References-found: 9
+

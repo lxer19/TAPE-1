@@ -1,0 +1,23 @@
+URL: http://www.ri.cmu.edu/afs/cs/usr/deadslug/ftp/traj.smc95.ps.Z
+Refering-URL: http://www.ri.cmu.edu/afs/cs/usr/deadslug/ftp/publications.html
+Root-URL: 
+Title: Multi-Agent Gesture Interpretation for Robotic Cable Harnessing  
+Author: Richard M. Voyles, Jr. Pradeep K. Khosla 
+Date: 1113  
+Address: Pittsburgh, PA 15213  
+Affiliation: Robotics Ph.D. Program Dept. of Electrical and Computer Engineering Carnegie Mellon University  
+Abstract: Gesture-Based Programming is our paradigm to ease the burden of programming robots. It is an extension of the human demonstration approach that includes encapsulated expertise to guide subtask segmentation and robust real-time execution. A variety of human gestures must be recognized to provide a useful and intuitive interface for the human demonstrator. While the full gesture-based programming environment has not yet been realized, this paper describes a multi-modal gesture recognition system that embodies many of the necessary elements to achieve true gesture-based programming. It begins with recognition of the gestures of a human demonstrating a trajectory. The execution agents then try to repeat the trajectory while observing corrective gestures from the teacher. Similar multi-agent networks are used for both training and execution. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Brooks, R.A., </author> <title> A Robust Layered Control System for a Mobile Robot, </title> <journal> IEEE Journal of Robotics and Automation, v.RA-2, </journal> <volume> n.1, </volume> <month> March </month> <year> 1986, </year> <pages> pp. 14-23. </pages>
+Reference: [2] <author> Connell, J.H., </author> <title> A Colony Architecture for an Artificial Crea ture, </title> <type> MIT AI Technical Report no. 1151, </type> <year> 1989. </year>
+Reference: [3] <author> Gertz, M.W, </author> <type> Ph.D. Thesis, </type> <institution> Department of Electrical and Computer Engineering, Carnegie Mellon University, </institution> <year> 1994. </year>
+Reference-contexts: For convenience, they also provide point-and-click interaction during run-time. Despite these advances, a fairly high level of expertise is still required to program and interact with robots. For example, Onika allows novice users to easily build simple pick-and-place applications <ref> [3] </ref>. But, it is imperative that the user understands the importance of via points, collision avoidance, grip selection, and the dynamic effects of transport in order to for the application to be successful.
+Reference: [4] <author> Gertz, M.W., D.B. Stewart and P.K. Khosla, </author> <title> A Software Architecture-Based Human-Machine Interface for Reconfigurable Sensor-Based Control Systems, </title> <booktitle> in Proc. of the 8th IEEE Symp. on Intelligent Control, </booktitle> <address> Chicago, IL, </address> <month> August </month> <year> 1993. </year>
+Reference: [5] <author> Hirai, S. and T. Sato, </author> <title> Motion Understanding for World Model Management of Telerobot, </title> <booktitle> in Proc. of the 5th Inter national Symp. on Robotics Research, </booktitle> <year> 1989, </year> <pages> pp. 5-12. </pages>
+Reference: [6] <author> Hoffman, </author> <title> D.D. and W.A. Richards, Parts of Recognition, </title> <journal> Cognition, v. </journal> <volume> 18, </volume> <pages> pp. 65-96, </pages> <year> 1984. </year>
+Reference: [7] <author> Kang, S.B. and K. </author> <title> Ikeuchi, Grasp Recognition and Manipulative Motion Characterization from Human Hand Motion Sequences, </title> <booktitle> in Proc. of the 1994 IEEE International Conf. on Robotics and Automation, v. </booktitle> <volume> 2, </volume> <month> May, </month> <year> 1994, </year> <pages> pp. 1759 1764. </pages>
+Reference: [8] <author> Kuniyoshi, T., M. Inaba, and H. Inoue, </author> <title> Teaching by Showing: Generating Robot Programs by Visual Observation of Human Performance, </title> <booktitle> in Proc. of the 20th International Symp. on Industrial Robots, </booktitle> <year> 1989, </year> <pages> pp. 119-126. </pages>
+
+References-found: 8
+

@@ -1,0 +1,29 @@
+URL: http://www.cs.toronto.edu/~mackay/dynet.ps.gz
+Refering-URL: http://www.cs.toronto.edu/~mackay/README.html
+Root-URL: http://www.cs.toronto.edu
+Title: A Recurrent Neural Network for Modelling Dynamical Systems  
+Author: Coryn A.L. Bailer-Jones David J.C. MacKay Philip J. Withers 
+Date: 1998, 9, 531-547  
+Note: Network: Computation in Neural Systems,  
+Address: Madingley Road, Cambridge, CB3 OHE, England  Pembroke Street, Cambridge, CB2 3QZ, England  
+Affiliation: Cavendish Laboratory, University of Cambridge,  Department of Materials Science and Metallurgy, University of Cambridge,  
+Abstract: We introduce a recurrent network architecture for modelling a general class of dynamical systems. The network is intended for modelling real-world processes in which empirical measurements of the external and state variables are obtained at discrete time points. The model can learn from multiple temporal patterns, which may evolve on different timescales and be sampled at non-uniform time intervals. We demonstrate the application of the model to a synthetic problem in which target data are only provided at the final time step. Despite the sparseness of the training data, the network is able not only to make good predictions at the final time step for temporal processes unseen in training, but also to reproduce the sequence of the state variables at earlier times. Moreover, we show how the network can infer the existence and role of state variables for which no target information is provided. The ability of the model to cope with sparse data is likely to be useful in a number of applications, particularly the modelling of metal forging. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Bailer-Jones C A L, Sabin T J, </author> <title> MacKay D J C and Withers P J 1997 Prediction of deformed and annealed microstructures using Bayesian neural networks and Gaussian processes Proceedings of the Australasia Pacific Forum on Intelligent Processing and Manufacturing of Materials vol 2, </title> <editor> eds T Chandra et al. </editor> <publisher> (Watson Ferguson & Co., </publisher> <pages> Brisbane) pp 913-919 </pages>
+Reference: [2] <author> Bailer-Jones C A L, MacKay D J C, Sabin T J, </author> <title> and Withers P J 1998 Static and dynamic modelling of materials forging Australian Journal on Intelligent Information Processing Systems 5(1) 10-17 </title>
+Reference: [3] <author> Chakraborty K, Mehrotra K, </author> <title> Mohan C K and Ranka S 1992 Forecasting the behaviour of multivariate time series using neural networks Neural Networks 5 961-970 </title>
+Reference: [4] <institution> Elman J L 1990 Finding structure in time Cognitive Science 14 179-211 </institution>
+Reference: [5] <editor> Jordan M I 1986 Attractor dynamics and parallelism in a connectionist sequential machine Proc. </editor> <booktitle> of the Eight Ann. Conf. of the Cognitive Science Society (Erlbaum, </booktitle> <address> Hillsdale NJ) 531-546 </address>
+
+Reference: [7] <author> Nerrand O, </author> <title> Roussel-Ragot P, Urbani D, Personnaz L and Dreyfus G 1994 Training recurrent neural networks: why and how? An illustration in dynamical process modeling IEEE Transactions on Neural Networks 5(2) 178-184 </title>
+Reference: [8] <author> Parlos A G, </author> <title> Chong K T and Atiya A F 1994 Application of the recurrent multilayer perceptron in modelling complex process dynamics IEEE Transactions on Neural Networks 5(2) 255-266 </title>
+Reference: [9] <institution> Pearlmutter B A 1989 Learning state space trajectories in recurrent neural networks Neural Computation 1 263-269 </institution>
+Reference: [10] <institution> Pineda F J 1987 Generalization of back-propagation to recurrent neural networks Physical Review Letters 59(19) 2229-2232 </institution>
+Reference: [11] <institution> Pineda F J 1988 Dynamics and architecture for neural computation Journal of Complexity 4 216-245 </institution>
+Reference: [12] <institution> Robinson A J and Fallside F 1991 A recurrent error propagation network speech recognition system Computer Speech and Language 5 259-274 </institution>
+Reference: [13] <author> Rumelhart D E, </author> <title> Hinton G E and Williams R J 1986 Learning internal representations by error propagation Parallel distributed processing: explorations in the microstructure of cognition eds D E Rumelhart, J L Mc-Clelland and the PDP Research Group (MIT Press, </title> <address> Cambridge MA) pp 318-362 </address>
+Reference: [14] <author> Stornetta W S, </author> <title> Hogg T and Huberman B A 1988 A dynamical approach to temporal pattern processing Neural Information Processing Systems ed D Z Anderson (AIP, </title> <address> New York) pp 750-759 </address>
+
+References-found: 13
+

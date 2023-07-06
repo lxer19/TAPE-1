@@ -1,0 +1,28 @@
+URL: ftp://info.mcs.anl.gov/pub/tech_reports/reports/TM187.ps.Z
+Refering-URL: http://www.mcs.anl.gov/publications/abstracts/abstracts94.htm
+Root-URL: http://www.mcs.anl.gov
+Title: ADIFOR Strategies Related to POINTER Usage in MM5  
+Author: Christian Bischof Peyvand Khademi Timothy Knauff 
+Note: This work was supported by the Office of Scientific Computing, U.S. Department of Energy, under Contract W-31-109-Eng-38, and by the National Aerospace Agency under Purchase Order L25935D.  
+Date: 11  March 1994  
+Address: 9700 South Cass Avenue Argonne, IL 60439  
+Affiliation: ARGONNE NATIONAL LABORATORY  Mathematics and Computer Science Division  
+Pubnum: ANL/MCS-TM-187 ADIFOR Working Note No.  Technical Memorandum No. 187  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <institution> AIX XL FORTRAN Compiler/6000 Language Reference. International Business Machines Corporation, </institution> <year> 1992. </year>
+Reference-contexts: POINTERs in Fortran POINTER is a Cray extension to the Fortran 77 standard which has been standardized in Fortran 90. POINTERs are admissible parts of many Fortran compilers, including the Cray CFT77 [4], RS/6000 xlf <ref> [1] </ref>, and Sun f77 [7] compilers, and to the best of our knowledge have identical syntax and semantics in these compilers.
+Reference: [2] <author> Christian Bischof, Alan Carle, George Corliss, Andreas Griewank and Paul Hov-land. ADIFOR: </author> <title> Generating Derivative Codes from Fortran Programs. </title> <journal> Scientific Programming, </journal> <volume> 1(1), </volume> <pages> pp. 1-29, </pages> <year> 1992 </year>
+Reference-contexts: Introduction In our attempt to generate derivative code for MM5 (the fifth-generation Penn State/NCAR Mesoscale Model) [5], with ADIFOR (Automatic DIfferentiation of FORtran) <ref> [2] </ref>, [3], we encountered the nonstandard Fortran statement POINTER.
+Reference: [3] <author> Christian Bischof, Alan Carle, George Corliss, Andreas Griewank and Paul Hov-land. </author> <title> Getting Started with ADIFOR. </title> <note> Argonne Technical Memorandum MCS-TM-164, </note> <year> 1992. </year>
+Reference-contexts: Introduction In our attempt to generate derivative code for MM5 (the fifth-generation Penn State/NCAR Mesoscale Model) [5], with ADIFOR (Automatic DIfferentiation of FORtran) [2], <ref> [3] </ref>, we encountered the nonstandard Fortran statement POINTER. The purpose of this note is to 1. document our understanding of the role of POINTERs as they are used in MM5, and 2. describe our workaround strategy for "masking" POINTERs for processing of the code with ADIFOR, and then "unmasking" them.
+Reference: [4] <institution> Cray Computer Systems CFT77 Reference Manual. Cray Research, Inc., </institution> <year> 1986. </year>
+Reference-contexts: POINTERs in Fortran POINTER is a Cray extension to the Fortran 77 standard which has been standardized in Fortran 90. POINTERs are admissible parts of many Fortran compilers, including the Cray CFT77 <ref> [4] </ref>, RS/6000 xlf [1], and Sun f77 [7] compilers, and to the best of our knowledge have identical syntax and semantics in these compilers.
+Reference: [5] <author> Georg A. Grell, Jimy Dudhia and David R. Stauffer. </author> <title> A Description of the Fifth-Generation Penn State/NCAR Mesoscale Model (MM5). </title> <institution> National Center for Atmospheric Research, NCAR/TN-398+IA, </institution> <year> 1993. </year>
+Reference-contexts: Introduction In our attempt to generate derivative code for MM5 (the fifth-generation Penn State/NCAR Mesoscale Model) <ref> [5] </ref>, with ADIFOR (Automatic DIfferentiation of FORtran) [2], [3], we encountered the nonstandard Fortran statement POINTER.
+Reference: [6] <author> Phillip L. Haagenson and Jimy Dudhia. </author> <title> The Penn State/NCAR Mesoscale Model (MM5) Source Code Documentation. </title> <institution> National Center for Atmospheric Research, NCAR/TN-392, </institution> <year> 1993. </year>
+Reference-contexts: columns of a matrix by using a POINTER to point to a column at a time. 1 The Cray compiler is less restrictive, stating that a pointer cannot appear in a preceding type statement. 2 Why and How POINTERs Are Used in MM5 In studying the MM5 code and documentation <ref> [6] </ref> we have learned that MM5 uses POINTERs to associate model parameters with values for a given nest.
+Reference: [7] <institution> Sun FORTRAN Reference Guide. Sun Microsystems, Inc. </institution> <year> 1991. </year> <month> 15 </month>
+Reference-contexts: POINTERs in Fortran POINTER is a Cray extension to the Fortran 77 standard which has been standardized in Fortran 90. POINTERs are admissible parts of many Fortran compilers, including the Cray CFT77 [4], RS/6000 xlf [1], and Sun f77 <ref> [7] </ref> compilers, and to the best of our knowledge have identical syntax and semantics in these compilers.
+References-found: 7
+

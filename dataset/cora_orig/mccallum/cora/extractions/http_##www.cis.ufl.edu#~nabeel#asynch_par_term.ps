@@ -1,0 +1,27 @@
+URL: http://www.cis.ufl.edu/~nabeel/asynch_par_term.ps
+Refering-URL: http://www.cis.ufl.edu/~nabeel/current.html
+Root-URL: http://www.cis.ufl.edu
+Title: Testing for Termination of Asynchronous Parallel Computations  
+Author: Nabeel I. Al-Fayoumi, Eric N. Hanson, and Mokhtar Kandil 
+Keyword: Key words: parallel processing, shared-nothing multiprocessors, asynchronous parallel computation  
+Note: contact author: Hanson  
+Address: 301 CSE, P.O. Box 116120  Gainesville, FL 32611-6120  
+Affiliation: Rm.  CISE Department University of Florida  
+Email: nabeel@cise.ufl.edu, hanson@cise.ufl.edu, mkandil@cise.ufl.edu  
+Web: http://www.cis.ufl.edu/~hanson/  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> N. Al-Fayoumi and Eric Hanson. </author> <title> A solution to the parallel trigger termination problem. </title> <type> Technical Report TR96-009, </type> <institution> University of Florida, CISE Dept., </institution> <month> February </month> <year> 1996. </year> <note> http://www.cis.ufl.edu/cis/tech-reports/. </note>
+Reference-contexts: Also, a simple polling scheme may be subject to race conditions, where each processor is idle when polled, but the computation is not really done since messages may be in transit. Then, there is the issue of response time which might be very sensitive for some application <ref> [1] </ref>, and the polling solution doesn't guarantee a fast response time, because it might detect the termination long after it has occurred (a full polling interval).
+Reference: [2] <author> David J. DeWitt, Shahram Ghandeharizadeh, Donovan A. Schneider, Allan Bricker, Hui-I Hsiao, and Rick Rasmussen. </author> <title> The Gamma database machine project. </title> <journal> IEEE Transactions on Knowledge and Data Engineering, </journal> <volume> 2(1) </volume> <pages> 44-62, </pages> <month> March </month> <year> 1990. </year>
+Reference-contexts: Moreover, the availability of this termination detection algorithm may facilitate development of asynchronous parallel algorithms where only synchronous algorithms have been used before (e.g. in parallel database query processors <ref> [6, 2] </ref>). We conjecture that there may be benefits to this, such as an overall improvement in response time for a parallel computation due to fuller utilization of available CPU resources. 8
+Reference: [3] <author> M. G. Norman. </author> <title> Much ado about shared-nothing. </title> <booktitle> In Proceedings of the ACM SIGMOD International Conference on Management of Data, </booktitle> <volume> volume 25, </volume> <pages> pages 16-22, </pages> <month> Sept. </month> <year> 1996. </year>
+Reference-contexts: 1 Introduction In a shared-nothing parallel computer system <ref> [3, 5] </ref>, each processor has its own memory and disks, and different processors in the system communicate via message passing.
+Reference: [4] <author> K. Rokusawa, N. Ichiyoshi, and T. Chikayama. </author> <title> An effecient algorithm for distributed processing systems. </title> <booktitle> In Proceedings of the 1988 Intenrational conference on parallel processing, </booktitle> <year> 1988. </year>
+Reference-contexts: In such a setup, the coordinator will have to schedule the parallel computation, start activity, and finally detect the termination point as soon as it occurs. 2 There may be many solutions to cure this problem <ref> [4] </ref>, but most of them will fail to meet the efficiency, low overhead, and response time requirements.
+Reference: [5] <author> M. Stonebraker. </author> <title> The case for shared nothing. </title> <journal> IEEE Transactions on Knowledge and Data Engineering, </journal> <month> March </month> <year> 1986. </year>
+Reference-contexts: 1 Introduction In a shared-nothing parallel computer system <ref> [3, 5] </ref>, each processor has its own memory and disks, and different processors in the system communicate via message passing.
+Reference: [6] <author> Andrew Witkowski, Felipe Carino, and Pekka Kostamaa. </author> <title> NCR 3700 the next-generation industrial database computer. </title> <booktitle> In Proceedings of the International Conference on Very Large Databases, </booktitle> <pages> pages 230-243, </pages> <year> 1993. </year>
+Reference-contexts: Moreover, the availability of this termination detection algorithm may facilitate development of asynchronous parallel algorithms where only synchronous algorithms have been used before (e.g. in parallel database query processors <ref> [6, 2] </ref>). We conjecture that there may be benefits to this, such as an overall improvement in response time for a parallel computation due to fuller utilization of available CPU resources. 8
+References-found: 6
+

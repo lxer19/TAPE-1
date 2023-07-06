@@ -1,0 +1,10 @@
+URL: http://www.cs.ucl.ac.uk/research/mip/mipue/IUE/IUEROOT/ps/release-notes.ps.gz
+Refering-URL: http://www.cs.ucl.ac.uk/research/mip/mipue/
+Root-URL: http://www.cs.ucl.ac.uk
+Title: images: some example images lib/templates: makefile "templates" include: makefiles and miscellaneous include files applications: example
+Note: IUE Release Notes Amerinex Applied Imaging Version IUE v1.3.1 Copyright c fl1997 by Amerinex Applied Imaging 1 IUE Software Hierarchy lib: non-IUE libraries  
+Abstract: The IUE software consists of a set of header files and libraries that define and implement the IUE hierarchy, documentation, utilities, and algorithm libraries. The hierarchy is currently split into packages according to general functionality. Large packages, such as the spatial-objects and coordsys packages, are further split into several libraries. Table 1 lists the packages and their corresponding libraries. The directory structure containing the IUE release contains header files and libraries compiled for one or more environments, sources for the IUE libraries, makefiles, scripts and other utilities, and documentation. Figure 1 shows the general layout of the IUE software hierarchy. The iue sources directory contains the class specification files (spec), the source code for the IUE libraries (src), and the code generator latex files (tex). The SunOS4 directory is the build tree that contains libraries compiled for SunOS 4.1.3, using GNU's g++ compiler. Similarly, the SunOS5 and Linux1 directories contain the libraries compiled for Solaris 2.5 and Linux 2 (ELF). The SunOS4/lib subdirectory contains the actual libraries and the SunOS4/include subdirectory contains the header files corresponding to the classes in the libraries. These header files are partitioned into subdirectories according to the package they belong to. The other directories in the release tree contain auxiliary information, including: 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

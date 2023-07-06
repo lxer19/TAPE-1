@@ -1,0 +1,16 @@
+URL: http://www.cs.ucsd.edu/users/mihir/papers/mcs.ps.gz
+Refering-URL: http://www.cs.ucsd.edu/users/mihir/papers/complexity-papers.html
+Root-URL: http://www.cs.ucsd.edu
+Title: A. Bar-Noy et al., On Chromatic Sums.. 23 (1996), Scheduling with Conflicts, and Applications to
+Author: [] Irani, S. and Leung, V. [] Kubicka, E., Kubicki, G. and Kountanis, D. Lund, C. and Yannakakis, M. [] Lynch, N. J. Nicoloso, S., Sarrafzadeh, M. and Song, X. [] Nicoloso, S., Sarrafzadeh, M. and Song, X. [] Panconesi, A. and Srinivasan, A. [] Srivastav, A. and Stangier, P. pp. -. [] Steyer, E. and Peterson, G. [] Wang, Q. and Cheng, K.H. 
+Address: 390.  Chapel Hill.  
+Affiliation: Western Michigan University.  Istituto di Analisi dei Sistemi ed Informatica (IASI-CNR), R.  University of North Carolina at  
+Note: in Proceedings of the Seventh ACM-SIAM Symposium on Discrete Algo rithms, pp. 85-94. [21] J aj a, J. (1992), An Introduction to Parallel Algorithms. Addison-Wesley. [22] Kubicka, E. (1989), The Chromatic Sum of a Graph, PhD thesis,  in Proceedings of the First Great Lakes Computer Science Conf., Springer LNCS 507, pp. 15-21. [24] Kubicka, E. and Schwenk, A.J. (1989),  ceedings of the ACM Computer Science Conf., pp. 39-45. [25]  of Computer and System Sciences, 23, pp. 254-278. [27] Naor, M. and Stockmeyer, L. (1993), What Can be Computed Locally?, in Proceedings of the Twenty Fifth Annual Symposium on the Theory of Computing, pp. 184-193. [28]  in Proceedings of the Twenty Fourth Annual Symposium on the Theory of Computing, pp. 581-592. [31] Rhee, I. (1994),  Systems. PhD thesis,  in Proceedings of the Seventh Annual Symposium on Principles of Distributed Computing pp. 105-116, 1988. [34] Vishwanathan, S. (1995), Private  SIAM J. on Computing, 21, pp. 281-294.  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> Arora, S., Lund, C., Motwani, R., Sudan, M., and Szegedy, M. </author> <year> (1992), </year> <title> Proof verification and hardness of approximation problems, </title> <booktitle> in Proceedings of the Thirty Third Annual IEEE Symposium on Foundations of Computer Science, </booktitle> <pages> pp. 14-23. </pages>
+Reference: [2] <author> Awerbuch, B., and Saks, M. </author> <year> (1990), </year> <title> A Dining Philosophers Algorithm with Polynomial Response Time, </title> <booktitle> in Proceedings of the Thirty First IEEE Symp. on Foundation of Computer Science, </booktitle> <pages> pp. 65-74. </pages>
+Reference: [3] <author> Awerbuch, B., Cowen, and Smith (1994), </author> <title> Efficient Asynchronous Distributed Symmetry Breaking, </title> <booktitle> in Proceedings of the Twenty Sixth on the Theory of Computing, </booktitle> <pages> pp. 214-223. </pages>
+
+References-found: 3
+

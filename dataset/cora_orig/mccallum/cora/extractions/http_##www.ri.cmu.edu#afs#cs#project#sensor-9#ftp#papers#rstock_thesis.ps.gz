@@ -1,0 +1,17 @@
+URL: http://www.ri.cmu.edu/afs/cs/project/sensor-9/ftp/papers/rstock_thesis.ps.gz
+Refering-URL: http://www.ri.cmu.edu/afs/cs/project/sensor-9/ftp/papers/
+Root-URL: 
+Title: Fourier Formulation of Illumination Optics and Computer-Automated Reflector Design Keywords: near zone, illumination modelling, luminaire
+Author: by Robert Demetrius Stock advised by M. W. Siegel 
+Degree: Submitted in partial fulfillment of the requirements for the degree of Doctor of Philosophy  
+Note: A PHD THESIS  
+Date: August, 1995  
+Affiliation: Pittsburgh, Pennsylvania  at Carnegie Mellon University  
+Abstract-found: 0
+Intro-found: 1
+Reference: [ACT 90] <author> F. S. Acton. </author> <title> Numerical Methods That Work. </title> <booktitle> Mathematical Association of America, </booktitle> <address> Washington, D.C., </address> <year> 1990. </year>
+Reference-contexts: The number of q coefficients (2m + 1) and f coefficients (2l + 1) can be tuned to approximate the ratio of the number of q data points to the number of f data points. For efficiency in regeneration, following an observation by Acton <ref> [ACT 90] </ref>, the trigonometric functions of multiple angles should not be calculated as function calls, but from the three-term multiple angle recurrence relation. <p> Simulated annealing robustly deals with these problems but can be time consuming. The gradient-based steepest descent method often overshoots the minimum or misses twists in ravines, and convergence is slow near a minimum; furthermore, derivatives are required. The multidimensional binary search <ref> [ACT 90] </ref>, or "star search", is single-minded but inefficient. Ashdown has described the application of genetic algorithms to this problem, using Bezier and B-splines surfaces to model the reflector surface [ASH 94].
+Reference: [ARM 90] <author> J. D. </author> <note> Armstrong. </note>
+Reference-contexts: Because a (4p) is the 00 -1 2 1/2 mean intensity and N (4p) is the mean-square intensity, s=(N-a ) / a is the normalized 00 00 "scatter" of the luminaire, in which there has been some recent interest in the illuminating engineering literature <ref> [ARM 90, MAT 89] </ref>. Therefore s essentially measures the dominance (or lack thereof) of the first term of the expansion with respect to all of the others. 2.3 Simulated Demonstration A simulated (simple, noise-free) source was used to demonstrate the rotational invariance of the d in practice.
+References-found: 2
+

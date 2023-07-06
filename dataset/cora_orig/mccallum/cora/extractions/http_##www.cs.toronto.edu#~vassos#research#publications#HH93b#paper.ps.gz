@@ -1,0 +1,14 @@
+URL: http://www.cs.toronto.edu/~vassos/research/publications/HH93b/paper.ps.gz
+Refering-URL: http://www.cs.toronto.edu/~vassos/research/list-of-publications.html
+Root-URL: 
+Email: e-mail: vassos@csri.toronto.edu  e-mail: halpern@ibm.com  
+Title: THE FAILURE DISCOVERY PROBLEM  
+Author: Vassos Hadzilacos Joseph Y. Halpern 
+Note: November 10, 1992  
+Address: 6 King's College Road Toronto, Ontario M5S 1A1 Canada  K53/802 650 Harry Road San Jose, California 95120-6099 U.S.A  
+Affiliation: Computer Systems Research Institute University of Toronto  IBM Almaden Research Center Department  
+Abstract: We define a simple variant of the Byzantine agreement (BA) problem, called the Failure Discovery (FD) problem that, roughly speaking, amounts to reaching Byzantine Agreement provided that no failures are discovered. We show how a protocol for FD can be extended to one for BA, with no message overhead in the failure-free runs. We also show that, for so-called benign failures, if the FD protocol satisfies an additional property, the message-preserving extension to a BA protocol can be accomplished with minimal time overhead in the failure-free runs. Our results show that FD is a useful building block for BA; indeed, it it has been used in this way in a companion paper (Hadzilacos and Halpern [1991]). 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

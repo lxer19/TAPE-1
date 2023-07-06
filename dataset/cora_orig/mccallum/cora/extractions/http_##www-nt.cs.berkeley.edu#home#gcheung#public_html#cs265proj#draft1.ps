@@ -1,0 +1,19 @@
+URL: http://www-nt.cs.berkeley.edu/home/gcheung/public_html/cs265proj/draft1.ps
+Refering-URL: http://www-nt.cs.berkeley.edu/home/gcheung/public_html/cs265.html
+Root-URL: http://www.cs.berkeley.edu
+Title: Code Generation for IP Address Lookups  
+Author: Gene Cheung 
+Date: 265  
+Pubnum: CS  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> M.Degermark, A.brodnik, S.Carlsson, S.Pink, </author> <title> "Small Forwarding Tables for Fast Routing Lookups," </title> <type> SIGCOMM 97, </type> <institution> pp.3-13, </institution> <year> 1997. </year>
+Reference-contexts: To do lookup efficiently, however, one must utilize the memory hierarchy of the modern processors efficiently, so that the memory access time is minimized. <ref> [1] </ref> provides a heuristic approach of how to create such memory efficient forwarding tables for IP address lookups. The essential idea is to first break the 32 bit address space into 3 levels, then create table lookup algorithms for each level. <p> The second assumption implies that we have a complete prefix tree: every node has either two or no children. Every tree can be transformed into a complete tree via technique shown in <ref> [1] </ref>. Note that this transformation may not yield the optimal algorithm.
+Reference: [2] <author> S.Nilsson and G. Karlsson, </author> <title> "Fast Address Lookup for Internet Routers," </title> <note> to be appeared in International Conference on Broadband Communication", </note> <month> April </month> <year> 1998. </year>
+Reference-contexts: The essential idea is to first break the 32 bit address space into 3 levels, then create table lookup algorithms for each level. However, as memory addresss space moves from 32 bits for IPv4 to 128 bits for IPv6, it is unclear how the suggested algorithm might scale. <ref> [2] </ref> uses a data structure called trie to represent the routing procedures. Level and path compression are performed to reduce the size of the data structure. The algorithm does not ensure that the compressed data structure always fits in the available cache size, however.
+Reference: [3] <author> Garey and Johnson, </author> <title> Computers and Intractability: A Guide to the Theory of NP-Completeness, </title> <address> pp.247, </address> <year> 1979. </year>
+Reference-contexts: We note the similarity of our problem to the famous NP-Co Knapsack problem, which could be solved in pseudo-polynomial time. Our algorithm will bear much resemblence to the Knapsack DP algorithm <ref> [3] </ref>.
+Reference: [4] <author> D.Morrison, </author> <title> "PATRICIA- Practical Algorithm To Retrieve Information Coded in Alphanumeric," </title> <journal> Journal of the ACM, vol.15, No.4, </journal> <volume> pp.514-534, </volume> <month> October </month> <year> 1968. </year> <month> 8 </month>
+Reference-contexts: Using the PATRICIA <ref> [4] </ref> terminology, the generic algorithm first extracts the key (IP address) from the user, then retrieve the target (best prefix-matched entry) and associated record from the library (routing table) using the key. Our goal is to structure the library such that the average retrieval time for a target is minimized.
+References-found: 4
+

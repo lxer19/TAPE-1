@@ -1,0 +1,37 @@
+URL: ftp://ftp.cs.umass.edu/pub/anw/pub/duff/ml95_corrected.ps.Z
+Refering-URL: http://www-anw.cs.umass.edu/People/duff/duff_papers.html
+Root-URL: 
+Email: duff@cs.umass.edu  
+Title: Q-Learning for Bandit Problems  
+Author: Michael O. Duff 
+Address: Amherst, MA 01003  
+Affiliation: Department of Computer Science University of Massachusetts  
+Abstract: Multi-armed bandits may be viewed as decompositionally-structured Markov decision processes (MDP's) with potentially very-large state sets. A particularly elegant methodology for computing optimal policies was developed over twenty ago by Gittins [Gittins & Jones, 1974]. Gittins' approach reduces the problem of finding optimal policies for the original MDP to a sequence of low-dimensional stopping problems whose solutions determine the optimal policy through the so-called "Gittins indices." Katehakis and Veinott [Katehakis & Veinott, 1987] have shown that the Gittins index for a process in state i may be interpreted as a particular component of the maximum-value function associated with the "restart-in-i" process, a simple MDP to which standard solution methods for computing optimal policies, such as successive approximation, apply. This paper explores the problem of learning the Git-tins indices on-line without the aid of a process model; it suggests utilizing process-state-specific Q-learning agents to solve their respective restart-in-state-i subproblems, and includes an example in which the online reinforcement learning approach is applied to a problem of stochastic scheduling|one instance drawn from a wide class of problems that may be formulated as bandit problems.
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> A. Barto, R. Sutton, & C. Watkins. </author> <title> (1990) "Learning and Sequential Decision Making" in M. </title> <editor> Gabriel & J. Moore, eds. </editor> <booktitle> Learning and Computational Neuroscience: Foundations of Adaptive Networks, </booktitle> <publisher> MIT Press, </publisher> <pages> pp. </pages> <editor> 539-602 A. Barto, S. Bradtke, & S. Singh. </editor> <title> (1991) "Real-Time Learning and Control Using Asynchronous Dynamic Programming." </title> <institution> Computer Science Department, University of Massachusetts, Tech. </institution> <month> Rept. </month> <pages> 91-57. </pages>
+Reference: <author> A. Barto & M. Duff. </author> <title> (1994) "Monte-Carlo Matrix Inversion and Reinforcement Learning" in Neural Information Processing Systems | 6, </title> <type> 687-694. </type>
+Reference: <author> R. Bellman. </author> <title> (1956) "A Problem in the Sequential Design of Experiments," </title> <journal> Sankhya, </journal> <volume> 16: </volume> <pages> 221-229. </pages>
+Reference: <author> D. Bertsekas. </author> <title> (1987) Dynamic Programming: Deterministic and Stochastic Models, </title> <publisher> Prenice-Hall. </publisher>
+Reference: <author> R. Crites. </author> <note> (1995) "Multiagent Reinforcement Learning Applied to Elevator Control. In Preparation. </note>
+Reference: <author> J.C. Gittins. </author> <title> (1989) Multi-armed Bandit Allocation Indices, </title> <publisher> Wiley. </publisher>
+Reference: <author> J.C. Gittins & D.M. Jones. </author> <title> (1974) "A Dynamic Allocation Index for the Sequential Design of Experiments," in Progress in Statistics, </title> <editor> J.Gani et al, eds., </editor> <publisher> pp.241-266. </publisher>
+Reference: <author> K.D. Glazebrook. </author> <title> (1980) "On Stochastic Scheduling with Precedence Relations and Switching Costs," </title> <booktitle> J.Appl.Prob 17: </booktitle> <pages> 1016-1024. </pages>
+Reference: <author> K.D. Glazebrook & J.C. Gittins. </author> <title> (1981) "On single-machine scheduling with precedence relations and linear or discounted costs," </title> <journal> Oper. Res. </journal> <volume> 29 </volume> <pages> 289-300. </pages>
+Reference: <author> V. Gullapalli, & A. Barto. </author> <title> (1994) "Convergence of Indirect Adaptive Asynchronous Value Iteration Algorithms," </title> <booktitle> Neural Information Processing Systems -6, </booktitle> <pages> 695-702. </pages>
+Reference: <author> T Ishikida & P. Varaiya. </author> <title> (1994) "Multi-Armed Bandit Problem Revisited," </title> <journal> J. Opt. Thry. & Applic., </journal> <volume> 83: </volume> <pages> 113-154. </pages>
+Reference: <author> T. Jaakkola, M. Jordan, & S. Singh. </author> <year> (1994). </year> <title> "Convergence of Stochastic Iterative Dynamic Programming Algorithms," </title> <booktitle> Neural Information Processing Systems -6, </booktitle> <pages> 703-710. </pages>
+Reference: <author> M.H. Katehakis and A.F. Veinott. </author> <title> (1987) "The Multi-armed Bandit Problem: Decomposition and Computation." </title> <journal> Math. OR. </journal> <volume> 12: </volume> <pages> 262-268. </pages>
+Reference: <author> J. McNamara & A. Houston. </author> <title> (1985) "Optimal Foraging and Learning." </title> <journal> Journal of Theoretical Biology, </journal> <volume> 117: </volume> <pages> 231-249. </pages>
+Reference: <author> H. Robbins. </author> <title> (1952) "Some Aspects of the Sequential Design of Experiments," </title> <journal> Bull. Amer. Math. Soc., </journal> <volume> 58: </volume> <pages> 527-535. </pages>
+Reference: <author> S. Ross. </author> <title> (1983) Introduction to Stochastic Dynamic Programming, </title> <publisher> Academic Press. </publisher>
+Reference: <author> R. Sutton. </author> <title> (1988) "Learning to Predict by the Method of Temporal Differences," </title> <booktitle> Machine Learning 3 </booktitle> <pages> 9-44. </pages>
+Reference: <author> G. Tesauro. </author> <title> (1992) "Practical Issues in Temporal Difference Learning," </title> <booktitle> Machine Learning 8 </booktitle> <pages> 257-277. </pages>
+Reference: <author> J. Tsitsiklis. </author> <title> "Asynchronous Stochastic Approximation and Q-learning," </title> <booktitle> Machine Learning 16 </booktitle> <pages> 185-202. </pages>
+Reference: <author> P. Varaiya, J. Walrand, & C. Buyukkoc. </author> <title> (1985) "Extensions of the Multi-armed Bandit Problem: </title> <booktitle> The Discounted Case" IEEE-TAC 30: </booktitle> <pages> 426-439. </pages>
+Reference: <author> J. Walrand. </author> <title> (1988) An Introduction to Queueing Networks, </title> <publisher> Prentice Hall. </publisher>
+Reference: <author> C. Watkins. </author> <title> (1989) Learning from Delayed Rewards. </title> <type> PhD Thesis Cambridge University. </type>
+Reference: <author> R. Weber. </author> <title> (1992) "On the Gittens Index for Multi-armed Bandits," </title> <journal> Annals of Applied Probability, </journal> <pages> 1024-1033. </pages>
+Reference: <author> P. Whittle. </author> <title> (1982) Optimization over Time: Dynamic programming and Stochastic Control, </title> <journal> Vol. </journal> <volume> 1, </volume> <publisher> Wiley. </publisher>
+References-found: 24
+

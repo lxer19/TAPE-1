@@ -1,0 +1,21 @@
+URL: http://www.cs.brandeis.edu/~brendy/preproc21.ps.gz
+Refering-URL: http://www.cs.brandeis.edu/~brendy/
+Root-URL: http://www.cs.brandeis.edu
+Email: Email: brendy@cs.brandies.edu  
+Title: Real-time Trajectory analysis using stacked invariance estimators  
+Author: Brendan Kitts Sheila R. Cooke and Robert F. Sekuler 
+Note: 1.0 Introduction  
+Web: http://www.cs.brandeis.edu/~brendy  
+Address: Waltham, MA. 02254  
+Affiliation: Department of Computer Science, Department of Neuro science, Department of Psychology, Brandeis University,  
+Date: July 7, 1997 Page: 1  
+Abstract: This paper addresses the problem of analysing real-time trajectories ignoring factors such as rotation, translation, and scale. The problem was tackled using an ensemble of techniques including Fourier analysis, a method from statistics called Canonical analysis, and combination methods such as averaging and stacking. Traditional methods performed poorly when measured against human scores, but combination methods produced significantly higher results. This supports theoretical work (Tumer, 1996) which shows that large ensembles of uncorrelated classifiers boosts estimator performance. This paper addresses the problem of analysing the similarity of real-time trajectories invariant to rotation, translation and scale. The application for this research is open ended, and could be applied to identifying signature aircraft trajectories, handwriting identification, or recognition of sign gestures. The particular application focused on in this paper is testing the ability of humans to imitate visually observed trajectories using a pen and tablet device. Because of the need to find scores of smilarity invariant to rotation, translation and scale, a large part of this paper is an investigation of the methods used to remove these aspects from the signal. It is shown that although a large number of transforms are available, in practice their usefulness varies, and even sound methods have implications for the form of the signal produced. This paper proposes to solve this problem by applying a technique from machine learning called stacking (Briemann, 1992) which averages together a large number of estimators to minimize the bias incurred through using a single invariance 
+Abstract-found: 1
+Intro-found: 0
+Reference: <author> Casasent, D. and Psaltis, D. </author> <year> (1976), </year> <title> Position, Rotation and Scale-invariant Optimacl Correlation, </title> <journal> Applied Optics, </journal> <volume> Vol. 15, </volume> <pages> pp. 1795-1799. </pages>
+Reference: <author> Cowan, K. </author> <year> (1996), </year> <note> Kevin Cowtans Book of Fourier, http://www.yorvic.york.ac.uk/~cowtan/fou-rier/fourier.html) Cox, </note> <author> G. </author> <year> (1995), </year> <title> Template Matching and Measures of Match in Image Processing, </title> <institution> Department of Electrical Engineering, University of Cape Town. </institution>
+Reference: <author> Cox, G. and de Jager, G. </author> <year> (1993), </year> <title> Invariance in Template Matching, </title> <booktitle> Proceedings of the Fourth South Affrican Workshop on Patter Recognition, </booktitle> <pages> pp. 152-6. </pages> <note> http:// www.dip.ee.uct.ac.za/imageproc/pattern/ Masters, </note> <author> T. </author> <year> (1994), </year> <note> Mokhtarian, </note> <author> F. and Mackworth, A. </author> <year> (1986), </year> <title> Scale-based description and recognition of planar curves and two-dimensional shapes, </title> <journal> IEEE Transactions on Pattern Analysis and Machine Intelligence, </journal> <volume> Vol. PAMI-8, No. 1. </volume> <pages> pp. 34-43. </pages>
+Reference: <author> Perantonis, S. and Lisboa, P. </author> <year> (1992), </year> <title> Translation, rotation and scale invariant pattern recognition by high-order neural networks and moment classifiers, </title> <journal> IEEE Transactions on Neural Networks, </journal> <volume> Vol. 3, </volume> <pages> pp. 241-251. </pages>
+Reference: <author> Rothe, I., Voss, K., et. al. </author> <year> (1994), </year> <title> A General Method to Determine Invariants, </title> <institution> Fakultat fur Mathematik and Informatik, </institution> <address> Friedrich-Schiller-Universitat Jena, Germany. http:// www.sicc.co.kr/~yalkongs/archives/ </address>
+References-found: 5
+

@@ -1,0 +1,14 @@
+URL: ftp://ftp.csd.uu.se/pub/papers/reports/0039.ps.gz
+Refering-URL: http://www.csd.uu.se/papers/reports.html
+Root-URL: 
+Phone: +46-18-18 25 00  
+Title: Efficient Interpretation of Prolog Programs  
+Author: Jonas Barklund P. O. 
+Note: The research reported herein was supported by the National Swedish Board for Technical Development (STU).  
+Address: Box 520, S-751 20 UPPSALA, Sweden  
+Affiliation: Uppsala Programming Methodology and Artificial Intelligence Laboratory Computing Science Dept., Uppsala University  
+Abstract: UPMAIL Technical Report No. 39 Abstract The paper focuses on three ideas for solving problems with writing interpreters for the logic programming language Prolog in Prolog and how to combine these ideas to an interpreter for Prolog which is both simple and efficient. The resulting interpreter system can be incorporated into a Prolog based on Warren's Abstract Machine and built mostly from existing parts of it. The interpreter has been implemented and is used in a Prolog system developed at Uppsala University. An earlier version of this paper was presented at the ACM SIGPLAN '87 Symposium on Interpreters and Interpretive Techniques. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

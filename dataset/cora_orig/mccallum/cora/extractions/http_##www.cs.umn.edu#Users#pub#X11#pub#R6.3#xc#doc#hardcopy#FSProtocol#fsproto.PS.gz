@@ -1,0 +1,18 @@
+URL: http://www.cs.umn.edu/Users/pub/X11/pub/R6.3/xc/doc/hardcopy/FSProtocol/fsproto.PS.gz
+Refering-URL: http://www.cs.umn.edu/Users/pub/X11/pub/R6.3/xc/doc/hardcopy/FSProtocol/
+Root-URL: http://www.cs.umn.edu
+Title: The X Font Service Protocol Version 2.0 X Consortium Standard X Version 11, Release 6.3  
+Author: Jim Fulton 
+Date: Revised May 2, 1994  
+Affiliation: Network Computing Devices, Inc.  
+Abstract-found: 0
+Intro-found: 1
+Reference: <institution> All of the following documents are X Consortium standards available from the X Consortium. </institution>
+Reference: [1] <author> Scheier, Robert W. </author> <title> ``X Window System Protocol Version 11'' </title>
+Reference-contexts: For example: DECNET/SRVNOD::FONT$DEFAULT/AVAILABLE decnet/44.70::font$other 4. Protocol The protocol described below uses the request/reply/error model and is specified using the same conventions outlined in Section 2 of the core X Window System protocol <ref> [1] </ref>: 3 X Font Service Protocol X11, Release 6.3 Data type names are spelled in upper case with no word separators, as in: FONTID Alternate values are capitalized with no word separators, as in: MaxWidth Structure element declarations are in lower case with hyphens as word separators, as in: byte-order-msb Note
+Reference: [2] <author> Adobe Systems. </author> <title> ``Bitmap Distribution Format 2.1'' </title>
+Reference-contexts: directed distances in a coordinate system whose origin is aligned with the lower-left edge of the left-most 9 X Font Service Protocol X11, Release 6.3 pixel of the glyph baseline (i.e. the baseline falls between two pixels as shown in Figure 3-1 of the ``Bitmap Distribution Format 2.1'' Consortium standard <ref> [2] </ref>). The LBEARING field specifies the directed distance measured to the right from the origin to the left edge of the left-most inked pixel in the glyph.
+Reference: [3] <author> X Consortium. </author> <title> ``X Logical Font Description Conventions, Version 1.5'' 44 X Font Service Protocol X11, Release 6.3 </title>
+Reference-contexts: ListFonts pattern: STRING8 max-names: CARD32 =&gt;+ replies-following-hint: CARD32 names: LISTofSTRING8 Errors: Alloc This request returns a list of at most MAX-NAMES font names that match the specified PATTERN, according to matching rules of the X Logical Font Description Conventions <ref> [3] </ref>. In the pattern (which is encoded in ISO 8859-1) the `?' character (octal 77) matches any single character; the `*' character (octal 52) matches any series of zero or more characters; and alphabetic characters match either upper- or lowercase.
+References-found: 4
+

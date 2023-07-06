@@ -1,0 +1,29 @@
+URL: ftp://ftp.cs.buffalo.edu/pub/tech-reports/96-01.ps.Z
+Refering-URL: ftp://ftp.cs.buffalo.edu/pub/tech-reports/README.html
+Root-URL: 
+Title: Testing membership in unitriangular matrix groups Preliminary draft  
+Author: Gabor Ivanyos 
+Date: January 2, 1996  
+Abstract: We present an algorithm that, given a subgroup G of the group of the upper triangular matrices with rational entries by a set of generators, computes generators of the lower central series of G. As an application, we show that the constructive membership problem in G can be performed in polynomial time. This draft is intended to be part of a larger project investigating the complexity of computational problems in finitely generated linear groups.
+Abstract-found: 1
+Intro-found: 1
+Reference: [BBCIL] <author> L. Babai, R. Beals, J-y. Cai, G. Ivanyos, E. M. Luks: </author> <title> Multiplicative equations over commuting matrices, </title> <booktitle> Proc. 7th ACM-SIAM SODA (Symp. on Discrete Algorithms), </booktitle> <year> 1996, </year> <note> to appear. </note>
+Reference-contexts: introduction is omitted. The reader is referred to [CLZ] <ref> [BBCIL] </ref>, or [Be] for background and basic concepts. We use very elementary tools form the theory of nilpotent Lie groups and algebras.
+Reference: [BBR] <author> L. Babai, R. Beals, D. Rockmore: </author> <title> Deciding finiteness of matrix groups in deterministic polynomial time, </title> <journal> Israel J. Math., </journal> <note> to appear. </note>
+Reference: [BCRS] <author> G. Baumslag, F. B. Cannonito, D. J. Robinson, D. Segal: </author> <title> The arithmetic theory of polycyclic-by-finite groups, </title> <editor> J. </editor> <booktitle> Algebra 142 (1991), </booktitle> <pages> 118-149. </pages>
+Reference: [Be] <author> R. Beals: </author> <title> Algorithms for matrix groups and the Tits alternative, </title> <booktitle> Proc. 36th IEEE FOCS (1995), </booktitle> <pages> 593-602. </pages>
+Reference-contexts: introduction is omitted. The reader is referred to [CLZ] [BBCIL], or <ref> [Be] </ref> for background and basic concepts. We use very elementary tools form the theory of nilpotent Lie groups and algebras.
+Reference: [CLZ] <author> J-y. Cai, R. J. Lipton, Y. Zalcstein: </author> <title> The complexity of the membership problem for 2-generated commutative semigroups of rational matrices, </title> <booktitle> Proc 35th IEEE FOCS (1994), </booktitle> <pages> 135-142. </pages>
+Reference-contexts: introduction is omitted. The reader is referred to <ref> [CLZ] </ref> [BBCIL], or [Be] for background and basic concepts. We use very elementary tools form the theory of nilpotent Lie groups and algebras.
+Reference: [FV] <author> H. Freudenthal, H. de Vries: </author> <title> Linear Lie groups, </title> <publisher> Academic Press 1969. </publisher>
+Reference-contexts: introduction is omitted. The reader is referred to [CLZ] [BBCIL], or [Be] for background and basic concepts. We use very elementary tools form the theory of nilpotent Lie groups and algebras. We use very elementary tools form the theory of nilpotent Lie groups and algebras (c.f. <ref> [FV] </ref> and [Po]). 2 The algorithm Assume that we are given G U T n (Q) by a generating system S = fs 1 ; : : :; s m g U T n (Q), where U T n stands for group of the upper triangular unipotent matrices.
+Reference: [Ge1] <author> G. Ge: </author> <title> Algorithms related to multiplicative representations of algebraic numbers, </title> <type> PhD thesis, </type> <institution> Math Dept, </institution> <address> U. C. Berkeley, </address> <year> 1993. </year>
+Reference: [Ge2] <author> G. Ge: </author> <title> Testing equalities of multiplicative representations in polynomial time, </title> <booktitle> Proc 34th IEEE FOCS (1993), </booktitle> <pages> 422-426. </pages>
+Reference: [LLL] <author> A. K. Lenstra, H. W. Lenstra, L. Lovasz: </author> <title> Factoring polynomials with rational coefficients, </title> <journal> Math. Ann. </journal> <volume> 261 (1982), </volume> <pages> 515-534. </pages>
+Reference-contexts: To keep the size of the basis elements polynomial, in each round, we take S i such that log S i is a reduced basis (in the sense of <ref> [LLL] </ref>) of the lattice log G i + L i+1 =L i+1 . To prove that it works we have to show that the lattice log G i + L i+1 =L i+1 is of polynomial size (i.e., admits a basis of polynomial size).
+Reference: [Os] <author> G. Ostheimer: </author> <note> Algorithms for polycyclic-by-finite matrix groups DIMACS Technical Report 95-33. </note>
+Reference: [Po] <author> Postnikov: </author> <title> Lie groups and Lie algebras? </title>
+Reference-contexts: introduction is omitted. The reader is referred to [CLZ] [BBCIL], or [Be] for background and basic concepts. We use very elementary tools form the theory of nilpotent Lie groups and algebras. We use very elementary tools form the theory of nilpotent Lie groups and algebras (c.f. [FV] and <ref> [Po] </ref>). 2 The algorithm Assume that we are given G U T n (Q) by a generating system S = fs 1 ; : : :; s m g U T n (Q), where U T n stands for group of the upper triangular unipotent matrices.
+Reference: [Si] <author> C. C. Sims: </author> <title> Computation with finitely presented groups, </title> <publisher> Cambridge University Press 1994. </publisher> <pages> 5 </pages>
+References-found: 12
+

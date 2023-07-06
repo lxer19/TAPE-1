@@ -1,0 +1,30 @@
+URL: http://www.win.tue.nl/cs/fm/Herman.Geuvers/LICS94_CCREWR.ps.gz
+Refering-URL: http://www.win.tue.nl/cs/fm/Herman.Geuvers/
+Root-URL: http://www.win.tue.nl
+Title: A simple modular proof of the strong normalization for the calculus of constructions. J. of
+Author: vol., . [] J.-Y. Girard. [] R. Harper, F. Honsell and G. Plotkin. [] J.-P. Jouannaud and M. Okada. [] J. W. Klop. [] M. H. A. Newman. ():-, . [] T. Nipkow. [] Y. Toyama. . [] B. Werner. Meta-theorie du Calcul des Construc 
+Date: 32:143-182, June 1987.  
+Address: France, 1972.  DC, 1987.  Amsterdam, 1991.  
+Affiliation: Univ. Paris VII,  Washington  Computer Science,  tions Inductives. These Univ. Paris VII, France.  
+Note: [17] H. Geuvers and M.J. Nederhof.  These d'Etat,  Proceedings second symposium on Logic In Computer Science., IEEE,  Proc. 6th IEEE Symp. Logic in  EATCS Bulletin,  Proc. IEEE Symp. on Logic in Comp. Science, Amster dam, 1991.  Proc. ISSAC 89, Portland, Oregon, 1989. [25] M. Rusinowitch. On termination of the direct  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> F. Barbanera. </author> <title> Adding algebraic rewriting to the calculus of constructions: Strong normalization preserved. </title> <booktitle> In Proc. of the 2nd Int. Workshop on Conditional and Typed Rewriting, </booktitle> <year> 1990. </year>
+Reference: [2] <author> F. Barbanera and M. Fernandez. </author> <title> Combining first and higher order rewrite systems with type assignment systems. </title> <booktitle> Proceedings of the international conference on Typed Lambda Calculi and Applications, </booktitle> <address> Utrecht, </address> <publisher> LNCS 664, Springer Verlag, </publisher> <year> 1993. </year>
+Reference: [3] <author> F. Barbanera and M. Fernandez. </author> <title> Modularity of termination and confluence in combinations of rewrite systems with ! . Proceedings of the 20th International Colloquium on Automata, Languages, and Programming, Lund, </title> <editor> A.Lingas, R.Karlsson and S.Carlsson eds., </editor> <publisher> LNCS 700, Springer Verlag, </publisher> <year> 1993. </year>
+Reference: [4] <author> H. Barendregt. </author> <title> Introduction to generalised type systems. </title> <journal> Journal of Functional Programming, </journal> <year> 1991. </year>
+Reference: [5] <author> H. Barendregt, M. Coppo, and M. Dezani-Ciancaglini. </author> <title> A filter -model and the completeness of type assignment. </title> <journal> Journal of Symbolic Logic, </journal> <volume> 48(4) </volume> <pages> 931-940, </pages> <year> 1983. </year>
+Reference: [6] <author> S. Berardi. </author> <title> Type dependence and constructive mathematics. </title> <type> Ph.D. Thesis, </type> <institution> Mathematical Institute, University of Torino, </institution> <year> 1990. </year>
+Reference: [7] <author> V. Breazu-Tannen. </author> <title> Combining algebra and higher-order types. </title> <booktitle> In Proc. 3rd IEEE Symp. Logic in Computer Science, </booktitle> <address> Edinburgh, </address> <month> July </month> <year> 1988. </year>
+Reference: [8] <author> V. Breazu-Tannen and J. Gallier. </author> <title> Polymorphic rewriting conserves algebraic strong normalization. </title> <booktitle> Theoretical Computer Science, </booktitle> <year> 1990. </year>
+Reference: [9] <author> V. Breazu-Tannen and J. Gallier. </author> <title> Polymorphic rewriting conserves algebraic confluence. </title> <note> To appear, </note> <year> 1993. </year>
+Reference: [10] <author> M. Coppo, and M. Dezani-Ciancaglini. </author> <title> An extension of the basic functionality theory for the - calculus. </title> <journal> Notre Dame J. of Formal Logic, </journal> <volume> 21(4), </volume> <year> 1980. </year>
+Reference: [11] <author> Th. Coquand. </author> <title> Pattern matching with dependent types. </title> <booktitle> In Proceedings of the Workshop on Logical Frameworks, </booktitle> <year> 1992. </year>
+Reference: [12] <author> Th. Coquand and G. Huet. </author> <title> The calculus of constructions. </title> <journal> Information and Computation, </journal> <volume> 76 </volume> <pages> 95-120, </pages> <month> February </month> <year> 1988. </year>
+Reference: [13] <author> Th. Coquand and C. Paulin-Mohring. </author> <title> Inductively defined types. </title> <booktitle> In Proceedings of Colog'88, </booktitle> <publisher> LNCS 417, Springer-Verlag, </publisher> <year> 1990. </year>
+Reference: [14] <author> D. J. Dougherty. </author> <title> Adding algebraic rewriting to the untyped lambda calculus. </title> <booktitle> In Proc. 4th Rewriting Techniques and Applications, </booktitle> <address> Como, </address> <publisher> LNCS 488, </publisher> <year> 1991. </year>
+Reference: [15] <author> H. </author> <title> Geuvers. The Church-Rosser property for fij-reduction in typed -calculi. </title> <booktitle> Proceedings seventh symposium on Logic In Computer Science., IEEE, </booktitle> <address> Santa Cruz, </address> <year> 1992. </year>
+
+
+References-found: 15
+

@@ -1,0 +1,29 @@
+URL: ftp://ftp.cs.virginia.edu/pub/techreports/CS-95-12.ps.Z
+Refering-URL: ftp://ftp.cs.virginia.edu/pub/techreports/README.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: A Processor-Efficient Scheme for Supporting Fault-Tolerance in Rate-Monotonic Scheduling  
+Author: Yingfeng Oh and Sang H. Son 
+Address: Charlottesville, VA 22903  
+Affiliation: Department of Computer Science University of Virginia  
+Abstract: We address the issue of supporting fault-tolerance in a real-time system, where the deadlines of periodic tasks are guaranteed by the Rate-Monotonic algorithm. The problem is stated as one to minimize the total number of processors required to execute a set of periodic tasks, each of which, for fault-tolerance purposes, has multiple versions. A simple but effective algorithm is proposed to solve the task allocation problem. The algorithm is shown to have superior worst-case and average-case performance. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Balaji, S., L. Jenkins, L.M. Patnaik, and P.S. Goel. </author> <title> Workload Redistribution for Fault-tolerance in a Hard Real-time Distributed Computing System. </title> <address> FTCS-19, Chicago, Illinois, </address> <month> 366-373 </month> <year> (1989). </year>
+Reference: [2] <author> Bannister, J.A. and K. S. Trivedi. </author> <title> Task Allocation in Fault-tolerant Distributed Systems, </title> <journal> 17 Acta Informatica, </journal> <volume> 20 </volume> <pages> 261-281, </pages> <year> 1983. </year>
+Reference: [3] <author> Burchard, A., J. Liebeherr, Y. Oh, and S.H. Son. </author> <title> Assigning Real-time Tasks to Homogeneous Multiprocessor Systems, </title> <journal> IEEE Transactions on Computers, </journal> <note> to appear. </note>
+Reference: [4] <author> Davari, S. and S.K. Dhall. </author> <title> An On Line Algorithm for Real-time Tasks Allocation, </title> <booktitle> IEEE Real-Time Systems Symposium, </booktitle> <month> 194-200 </month> <year> (1986). </year>
+Reference: [5] <author> Dhall, S.K. and C.L. Liu. </author> <title> On A Real-time Scheduling Problem, </title> <journal> Operations Research, </journal> <volume> 26: </volume> <month> 127-140 </month> <year> (1978). </year>
+Reference: [6] <author> Gafford, J.D. </author> <title> Rate-monotonic Scheduling, </title> <booktitle> IEEE Micro, </booktitle> <month> 34-39 (June </month> <year> 1991). </year>
+Reference: [7] <author> Garey, </author> <title> M.R. and D.S. Johnson. Computers and Intractability: A guide to the theory of NP-completeness. W.H. </title> <publisher> Freeman and Company, </publisher> <address> NY (1978). </address>
+Reference: [8] <author> Joseph, M. and P. Pandya. </author> <title> Finding Response Times in a Real-Time System, </title> <journal> The Computer Journal, </journal> <volume> 29(5): </volume> <month> 390-395 </month> <year> (1986). </year>
+Reference: [9] <author> Krishna, C.M. and K.C. Shin. </author> <title> On Scheduling Tasks with A Quick Recovery from Failure, </title> <journal> IEEE Transactions on Computers, </journal> <volume> 35(5) </volume> <month> 448-454 </month> <year> (1986). </year>
+Reference: [10] <author> Leung, J. Y. T. and J. Whitehead. </author> <title> On the Complexity of Fixed-Priority Scheduling of Periodic, Real-Time Tasks, Performance Evaluation, </title> <type> 2: </type> <month> 237-250 </month> <year> (1982). </year>
+Reference: [11] <author> Lehoczky, J., L. Sha, and Y. Ding. </author> <title> The Rate Monotonic Scheduling Algorithm: Exact Characterization and Average Case Behavior, </title> <booktitle> IEEE Real-Time Systems Symposium, </booktitle> <month> 166-171 </month> <year> (1989). </year>
+Reference: [12] <author> Liu, C.L. and J. Layland. </author> <title> Scheduling Algorithms for Multiprogramming in A Hard Real-time Environment, </title> <journal> Journal of ACM, </journal> <volume> 10(1) </volume> <month> 46-61 </month> <year> (1973). </year>
+Reference: [13] <author> Oh, Y. and S. H. Son. </author> <title> Enhancing Fault-tolerance in Rate-monotonic Scheduling, </title> <journal> Journal of Real-Time Systems, </journal> <volume> 7(3): </volume> <month> 315-329 </month> <year> (1994). </year>
+Reference-contexts: The number of runs for each data point is chosen to be 20, since for our experiments, 20 runs is large enough to counter the effect of randomness. In order to make comparisons, we also run the same data through the on-line algorithm FT-RM-FF <ref> [13] </ref>. When a is small, FT-RM-NF consistently outperforms FT-RM-FF. On the average, FT-RM-NF uses less than 20% extra processors when a 0.5, and less than 10% extra processors when a 0.2. The superiority of this algorithm is quite obvious.
+Reference: [14] <author> Oh, Y. </author> <title> The Design and Analysis of Scheduling Algorithms for Real-time and Fault-tolerant Computer Systems, </title> <type> Ph.D. Dissertation, </type> <institution> Department of Computer Science, University of Virginia (1994). </institution>
+Reference: [15] <author> Sha, L., and J.B. Goodenough. </author> <title> Real-time Scheduling Theory and Ada, </title> <booktitle> Computer, </booktitle> <month> 53-65 (April </month> <year> 1990). </year>
+Reference: [16] <author> Serlin, O. </author> <title> Scheduling of Time Critical Processes, </title> <booktitle> Proceedings of the Spring Joint Computers Conference, </booktitle> <volume> 40 </volume> <month> 925-932 </month> <year> (1972). </year>
+References-found: 16
+

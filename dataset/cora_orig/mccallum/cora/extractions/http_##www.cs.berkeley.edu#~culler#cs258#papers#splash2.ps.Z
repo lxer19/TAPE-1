@@ -1,0 +1,12 @@
+URL: http://www.cs.berkeley.edu/~culler/cs258/papers/splash2.ps.Z
+Refering-URL: http://www.cs.berkeley.edu/~culler/cs258/
+Root-URL: http://www.cs.berkeley.edu
+Title: Methodological Considerations and Characterization of the SPLASH-2 Parallel Application Suite  
+Author: Steven Cameron Woo, Moriyoshi Ohara, Evan Torrie, Jaswinder Pal Singh, and Anoop Gupta 
+Affiliation: Computer Systems Lab Stanford University  
+Note: DRAFT VERSION: PLEASE DO NOT DISTRIBUTE  DRAFT VERSION  
+Abstract: We have recently released the SPLASH-2 suite of parallel applications for the study of centralized and/or distributed shared-address-space multiprocessors. In this regard, this paper has two main goals. One is to quantitatively characterize the SPLASH-2 programs in terms of fundamental properties that are important to understanding these parallel programs, and to describe how these properties vary with problem and machine parameters. The properties we study include the concurrency and load balance behavior, the communication-to-computation ratio, the sizes and scaling of the important working sets, and issues related to spatial locality. The other, perhaps more important, goal is methodological: to assist people who will use the programs for architectural evaluations to prune the design space of machine parameters in an informed and meaningful way. For example, by characterizing the working sets of the applications, we describe which operating regions in terms of cache size and problem size are representative of realistic situations and which are not (as well as which are redundant). Using SPLASH-2 as an example, we also hope to convey the importance of understanding the interplay of problem size, number of processors, and working sets in designing experiments and interpreting their results. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

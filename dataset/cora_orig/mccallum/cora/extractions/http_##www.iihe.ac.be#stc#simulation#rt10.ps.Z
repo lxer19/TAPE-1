@@ -1,0 +1,26 @@
+URL: http://www.iihe.ac.be/stc/simulation/rt10.ps.Z
+Refering-URL: http://www.iihe.ac.be/stc/simulation/
+Root-URL: http://www.iihe.ac.be
+Title: Atelier for Modelisation and Simulation  
+Author: Atika COHEN and Radouane MRABET 
+Date: 4 June, 1995  
+Note: OSISIM Project Implementation of AMS,  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <institution> Atika Cohen and Radouane Mrabet AMS : An Integrated Simulator for Open Systems IEEE GLOBECOM93 Conference, </institution> <type> 656 - 660, </type> <institution> Houston, Texas, </institution> <month> 29 November - 2 December </month> <year> 1993. </year>
+Reference: [2] <author> Atika Cohen and Radouane Mrabet Design of AMS, </author> <title> an Atelier for Modeling and Simulating Open Communication Systems. </title> <booktitle> Third Maghrebian Conference on Software Engineering and Artificial Intelligence, </booktitle> <address> Rabat, Morocco, </address> <month> 11-14 April, </month> <year> 1994. </year>
+Reference: [3] <author> GSS4 Users Manual, Simulog S.A. </author> <year> 1992. </year>
+Reference: [4] <author> QNAP2 Users Manual, Simulog S.A. </author> <year> 1992. </year>
+Reference: [5] <author> QNAP2 Reference Manual, Simulog S.A. </author> <year> 1992. </year>
+Reference: [6] <institution> How to write a DBM using the QNAP2 language Internal Report, </institution> <address> ULB-STC 93-15, </address> <month> Juin </month> <year> 1993. </year>
+Reference: [7] <institution> AMS Users Guide (in progress). </institution>
+Reference: [8] <author> Atika Cohen, </author> <title> Radouane Mrabet and Kris Steenhaut Modular Simulation of a Communication System Based on Satellite Network Internal Report, </title> <address> ULB-STC 93-5, </address> <month> March </month> <year> 1993. </year>
+Reference: [9] <institution> Atika Cohen and Radouane Mrabet Modelization and Simulation of a Communication System Based on a Satellite Backbone Technical Report, OSISIM-ULB/STC RT-9, </institution> <month> January </month> <year> 1994. </year> <title> Implementation of AMS, Atelier for Modeling and Simulating page 16 </title>
+Reference: [10] <institution> Atika Cohen and Radouane Mrabet ADL : Architecture Description Language Technical Report, </institution> <note> OSISIM-ULB/STC RT-11 (In progress) </note>
+Reference-contexts: Introduction of the intermediate layer ADL <ref> [10] </ref> : the main purpose of this feature is to define a clear border between the editing phase and the simulation phase. The advantage of doing this, is to be independent of a specific graphical interface and to be able to run our models on different target machines.
+Reference: [11] <author> MODLINE 1.1.1 Users Guide, Simulog S.A. </author> <year> 1993. </year>
+Reference-contexts: The advantage of doing this, is to be independent of a specific graphical interface and to be able to run our models on different target machines. Usage of MODLINE <ref> [11] </ref> : the objective is to reuse an existing software dedicated to the management of scenarios, visualization of the simulations results and the production of reports.
+Reference: [12] <institution> S-PLUS 3.0 UserGuide, Statistical Sciences, Inc, </institution> <year> 1991. </year>
+
+References-found: 12
+

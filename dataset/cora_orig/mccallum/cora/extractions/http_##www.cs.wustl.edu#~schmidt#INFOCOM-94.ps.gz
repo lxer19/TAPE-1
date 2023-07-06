@@ -1,0 +1,15 @@
+URL: http://www.cs.wustl.edu/~schmidt/INFOCOM-94.ps.gz
+Refering-URL: http://www.cs.wustl.edu/~schmidt/hsn-general.html
+Root-URL: 
+Email: schmidt@cs.wustl.edu suda@ics.uci.edu  
+Phone: 314 935-6160 (714) 856-4105 1  
+Title: Measuring the Performance of Parallel Message-based Process Architectures  
+Author: Douglas C. Schmidt Tatsuya Suda 
+Keyword: Parallelizing Protocols for High-Speed Networks, Testbeds and Measurements  
+Address: St. Louis, MO 63130 Irvine, California, 92717  
+Affiliation: Dept. of Comp. Sci. Info. and Comp. Sci. Dept. Washington University University of California, Irvine  
+Abstract: An earlier version of this paper appeared at the IEEE IN-FOCOM Conference in Boston, MA, April, 1995. Abstract Message-based process architectures are widely regarded as an effective method for structuring parallel protocol processing on shared memory multi-processor platforms. A message-based process architectures is formed by binding one or more processing elements with the data messages and control messages received from applications and network interfaces. In this architecture, parallelism is achieved by simultaneously escorting multiple messages on separate processing elements through a stack of protocol tasks. This paper reports performance results from an empirical comparison of a connection-oriented protocol stack implemented using two different message-based process architectures. These performance experiments measure the throughput, context switching, and synchronization exhibited by the two parallel process architectures on a shared memory multi-processor platform. The experimental results demonstrate the extent to which the selection of a parallel process architecture affects protocol stack performance. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

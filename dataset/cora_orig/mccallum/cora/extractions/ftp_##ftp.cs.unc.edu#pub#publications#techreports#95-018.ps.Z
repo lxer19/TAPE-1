@@ -1,0 +1,18 @@
+URL: ftp://ftp.cs.unc.edu/pub/publications/techreports/95-018.ps.Z
+Refering-URL: ftp://ftp.cs.unc.edu/pub/publications/techreports/FILE.html
+Root-URL: http://www.cs.unc.edu
+Email: mine@cs.unc.edu  
+Title: Virtual Environment Interaction Techniques  
+Author: Mark R. Mine 
+Address: Chapel Hill, NC 27599-3175  
+Affiliation: Department of Computer Science University of North Carolina  
+Abstract-found: 0
+Intro-found: 1
+Reference: <author> Airey, J.M. </author> <year> (1990). </year> <title> Increasing Update Rates in the Building Walkthrough System with Automatic ModelSpace Subdivision and Potentially Visible Set Calculations. </title> <type> Ph.D. Thesis, </type> <institution> University of North Carolina, Chapel Hill, NC. </institution> <type> TR 90-027 Bolt, </type> <institution> R. </institution> <year> (1980). </year> <title> Put-That-There, </title> <booktitle> ACM Computer Graphics: Proceedings of SIGGRAPH 80, </booktitle> <pages> pp. 262-270. </pages>
+Reference: <author> Butterworth, J., A. Davidson, S. Hench, and T. M. </author> <month> Olano </month> <year> (1992). </year> <title> 3DM: A Three Dimensional Modeler Using a Head-Mounted Display. </title> <booktitle> ACM Computer Graphics: Proceedings of 1992 Symposium on Interactive 3D Graphics, </booktitle> <address> Cambridge, MA, 135-138 Chung, J. </address> <year> (1994). </year> <title> Intuitive Navigation in the Targeting of Radiation Therapy Treatment Beams. </title> <type> Ph.D. Thesis, </type> <institution> University of North Carolina, Chapel Hill, NC. </institution>
+Reference: <author> Conner D., S. Snibbe, K. Herndon, D. Robbins, R. Zeleznik, A. </author> <title> van Dam (1992). Three-Dimensional Widgets, </title> <booktitle> ACM Computer Graphics: Proceedings of 1992 Symposium on Interactive 3D Graphics, </booktitle> <address> Cambridge, MA, </address> <pages> 197-208. </pages>
+Reference: <author> Foley, J., A. van Dam, S. Feiner, J. </author> <title> Hughes (1990). </title> <booktitle> Computer Graphics: Principles and Practice (2nd ed.). </booktitle> <publisher> Addison-Wesley Publishing Co., </publisher> <address> Reading MA. </address> <note> 201-226 Jacoby, </note> <author> R., S. Ellis. </author> <year> (1993). </year> <title> Using Virtual menus in a virtual environment. SIGGRAPH course notes: Implementing Virtual Reality, </title> <note> course 43. </note>
+Reference: <author> Liang, J., M. </author> <title> Green (1994). JDCAD: A highly interactive 3D modeling system. Computers & Graphics: </title> <booktitle> Proceedings of the Conference on Computer Aided Design and Computer Graphics, </booktitle> <address> Beijing, China, </address> <note> 499-506 Robinett, </note> <author> W., R. </author> <title> Holloway (1992). Implementation of flying, scaling, </title> <booktitle> and grabbing in virtual worlds, Proc. 1992 Symposium on Interactive 3D Graphics, </booktitle> <address> Cambridge MA, </address> <month> March, </month> <pages> 189-192. </pages>
+Reference: <author> Ward, M., R. Azuma, R. Bennett, S. Gottschalk, H. </author> <title> Fuchs (1992). A Demonstrated Optical Tracker with Scalable Work Area for Head-Mounted Display Systems. </title> <booktitle> ACM Computer Graphics: Proceedings of 1992 Symposium on Interactive 3D Graphics, </booktitle> <address> Cambridge, MA, </address> <note> 43-52 15 Mark R. Mine TR95-018 May 5, </note> <year> 1995 </year>
+References-found: 6
+

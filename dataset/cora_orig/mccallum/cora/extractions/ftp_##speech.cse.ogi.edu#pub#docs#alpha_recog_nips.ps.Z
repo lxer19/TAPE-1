@@ -1,0 +1,22 @@
+URL: ftp://speech.cse.ogi.edu/pub/docs/alpha_recog_nips.ps.Z
+Refering-URL: http://www.cse.ogi.edu/CSLU/publications/publications.html
+Root-URL: http://www.cse.ogi.edu
+Title: top three. 4 DISCUSSION Speaker-independent recognition of spoken English Recognition of words from their spellings:
+Author: R. A. Cole, M. Fanty, Y. Muthusamy, and M. Gopalakrishnan. [DALY ] N. Daly. [FANTY ] M. Fanty and R. A. Cole. R. P. Lipp-man, J. Moody, and D. S. Touretzky, [LAMEL ] L. Lamel, R. Kassel, and S. Seneff. [ROGINSKI ] Krist Roginski. 
+Keyword: Acknowledgements  
+Date: May, 1987.  
+Address: References  San Diego, CA, 1990.  
+Affiliation: WEST Advanced Technologies, APPLE Computer Inc.,  Oregon Advanced Computing Institute.  Massachusetts Institute of Technology,  
+Note: Research supported by US  NSF, ONR, Digital Equipment Corporation and  [COLE 90]  letters. In Proceedings of the International Joint Conference on Neural Networks,  Master's thesis,  editors, Advances in Neural Information Processing Systems 3. San Mateo, CA: Morgan Kaufmann, 1991.  J. Acoust. Soc. Am., 87(4):1738-1752, 1990.  Master's thesis, Oregon Graduate Institute, 1991.  
+Abstract: The recognition system described in this paper classifies letters of the English alphabet produced by any speaker over telephone lines at 89% accuracy for spelled alphabets and retrieves names from a list of 50,000 with 91% first choice accuracy. The system has a number of characteristic features. We represent speech using an auditory model|Perceptual Linear Predictive (PLP) analysis. We perform explicit segmentation of the speech signal into phonetic categories. Explicit segmentation allows us to use segment durations to discriminate letters, and to extract features from specific regions of the signal. Finally, speech knowledge is used to design a set of features that work best for English letters. We are currently analyzing errors made by our system. The great advantage of our approach is that individual errors can be analyzed, and individual features can be added to improve performance. [COLE 91] R. A. Cole, M. Fanty, M. Gopalakrishnan, and R. D. T. Janssen. Speaker-independent name retrieval from spellings using a database of 50,000 names. In Proceedings of the IEEE International Conference on Acoustics, Speech, and Signal Processing, 1991. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [COLE 91] <author> R. A. Cole, M. Fanty, M. Gopalakrishnan, and R. D. T. Janssen. </author> <title> Speaker-independent name retrieval from spellings using a database of 50,000 names. </title> <booktitle> In Proceedings of the IEEE International Conference on Acoustics, Speech, and Signal Processing, </booktitle> <year> 1991. </year>
+Reference: [COLE 90] <author> R. A. Cole, M. Fanty, Y. Muthusamy, and M. Gopalakrishnan. </author> <title> Speaker-independent recognition of spoken English letters. </title> <booktitle> In Proceedings of the International Joint Conference on Neural Networks, </booktitle> <address> San Diego, CA, </address> <year> 1990. </year>
+Reference: [DALY 87] <author> N. Daly. </author> <title> Recognition of words from their spellings: Integration of multiple knowledge sources. </title> <type> Master's thesis, </type> <institution> Massachusetts Institute of Technology, </institution> <month> May, </month> <year> 1987. </year>
+Reference: [FANTY 91] <author> M. Fanty and R. A. Cole. </author> <title> Spoken letter recognition. </title> <editor> In R. P. Lipp-man, J. Moody, and D. S. Touretzky, editors, </editor> <booktitle> Advances in Neural Information Processing Systems 3. </booktitle> <address> San Mateo, CA: </address> <publisher> Morgan Kaufmann, </publisher> <year> 1991. </year>
+Reference: [HERMANSKY 90] <author> H. Hermansky. </author> <title> Perceptual Linear Predictive (PLP) analysis of speech. </title> <journal> J. Acoust. Soc. Am., </journal> <volume> 87(4) </volume> <pages> 1738-1752, </pages> <year> 1990. </year>
+Reference: [LAMEL 86] <author> L. Lamel, R. Kassel, and S. Seneff. </author> <title> Speech database development: Design and analysis of the acoustic-phonetic corpus. </title> <booktitle> In Proceedings of the DARPA Speech Recognition Workshop, </booktitle> <pages> pages 100-110, </pages> <year> 1986. </year>
+
+References-found: 6
+

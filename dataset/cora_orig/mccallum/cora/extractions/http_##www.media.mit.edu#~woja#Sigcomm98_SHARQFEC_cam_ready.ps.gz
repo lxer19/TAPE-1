@@ -1,0 +1,14 @@
+URL: http://www.media.mit.edu/~woja/Sigcomm98_SHARQFEC_cam_ready.ps.gz
+Refering-URL: http://woja.www.media.mit.edu/people/woja/
+Root-URL: http://www.media.mit.edu
+Note: 1. Abstract  
+Abstract-found: 0
+Intro-found: 0
+Reference: [1] <author> Berners-Lee, T.J., Cailiau, R., and Groff, J.F., </author> <title> The World Wide Web, </title> <booktitle> Computer Networks and ISDN Systems, </booktitle> <month> Nov </month> <year> 1992, </year> <month> vol.25, (no4-5), </month> <pages> pp 454-9. </pages>
+Reference-contexts: However, digital convergence in the channel is not so advanced. Thanks in no small part to the explosive popularity of the World Wide Web <ref> [1] </ref>, the Internet Protocol (IP) [2, 13] is assured of being the primary means for delivering information over computer networks for the foreseeable future. The current suite of protocols used to deliver information over IP are primarily used in a point-to-point fashion.
+Reference: [2] <author> Deering, S., and Hinden, R., </author> <title> Internet Protocol, Version 6, Specification, </title> <type> RFC 1883, </type> <institution> Xerox PARC, Ipsilon Networks, </institution> <month> December </month> <year> 1995. </year>
+Reference-contexts: However, digital convergence in the channel is not so advanced. Thanks in no small part to the explosive popularity of the World Wide Web [1], the Internet Protocol (IP) <ref> [2, 13] </ref> is assured of being the primary means for delivering information over computer networks for the foreseeable future. The current suite of protocols used to deliver information over IP are primarily used in a point-to-point fashion.
+Reference: [3] <author> Floyd, S., Jacobson, V., McCanne, S., Liu, C., and Zhang, </author> <title> L., </title>
+Reference-contexts: Some of the methods developed have been quite ingenious. The first class of methods developed can be grouped under the banner of Automatic Repeat reQuest (ARQ). Scalable Reliable Multicast (SRM) by Floyd et al. <ref> [3] </ref> popularized the notion of allowing receivers to effect repairs as well as the sender, and introduced redundant traffic suppression through the use of random delays that are proportional to a receivers distance to the sender. <p> SHARQFEC (ns,ni,so) and SHARQFEC SHARQFEC (ns,ni,so) and SHARQFEC) 7. Future Work SHARQFEC currently uses fixed timers for suppression purposes. As was noted in <ref> [3] </ref> fixed timers are incapable of coping with all network topologies, and therefore inclusion of some mechanism for adjusting the timer constants can lead to enhanced performance. Further work is needed to explore mechanisms for adjusting the timer constants used by SHARQFEC.
+References-found: 3
+

@@ -1,0 +1,54 @@
+URL: http://emr.cs.uiuc.edu/~reingold/calendar.ps
+Refering-URL: http://emr.cs.uiuc.edu/~reingold/calendars.html
+Root-URL: http://www.cs.uiuc.edu
+Title: Calendrical Calculations  
+Author: NACHUM DERSHOWITZ AND EDWARD M. REINGOLD 
+Keyword: KEY WORDS Calendar Holidays Gregorian calendar Hebrew calendar Islamic calendar ISO calendar Julian calendar  
+Address: 1304 W. Springfield Avenue, Urbana, IL 61801-2987, U.S.A.  
+Affiliation: Department of Computer Science, University of Illinois at Urbana-Champaign,  
+Note: SOFTWARE|PRACTICE AND EXPERIENCE, VOL.  |Psalms 90:12  
+Email: SUMMARY  
+Date: 20(9), 899-928 (SEPTEMBER 1990)  
+Abstract: A unified, algorithmic presentation is given for the Gregorian (current civil), ISO, Julian (old civil), Islamic (Moslem), and Hebrew (Jewish) calendars. Easy conversion among these calendars is a byproduct of the approach, as is the determination of secular and religious holidays. Teach us to number our days, that we may attain a wise heart. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <editor> Note: </editor> <title> Only English language references are included in the following list. Some of these are relatively inaccessible. </title>
+Reference: 1. <author> R. M. Stallman, </author> <title> GNU Emacs Manual, 6th ed., Free Software Foundation, </title> <address> Cambridge, MA, </address> <year> 1986. </year>
+Reference: 2. <author> G. L. Steele, Jr., </author> <title> Common Lisp: The Language, </title> <publisher> Digital Press, </publisher> <address> Boston, MA, </address> <year> 1984. </year>
+Reference: 3. <author> F. Parise, </author> <title> The Book of Calendars, Facts on File, </title> <address> New York, </address> <year> 1982. </year>
+Reference: 4. <author> V. V. </author> <month> Tsybulsky, </month> <institution> Calendars of Middle East Countries, Institute of Oriental Studies, USSR Academy of Sciences, Moscow, </institution> <year> 1979. </year>
+Reference: 5. <author> W. S. B. Woolhouse, </author> <title> Measures, Weights, & Moneys of All Nations: And an Analysis of the Christian, Hebrew, </title> <editor> and Mahometan Calendars, 6th ed., Crosby Lockwood, </editor> <address> London, </address> <month> 1881. </month>
+Reference: 6. <author> W. S. B. Woolhouse, </author> <title> `Calendar', The Encyclopdia Britannica, </title> <editor> 11th ed., </editor> <volume> vol. 4, </volume> <pages> pp. 987-1004, </pages> <publisher> The Encyclopdia Britannica Co., </publisher> <address> New York, </address> <year> 1910. </year> <note> The same article also appears in the eighth through tenth editions. </note>
+Reference-contexts: Thus we write (defun last-day-of-hebrew-month (month year) ;; Last day of month in Hebrew year. (if (or (member month <ref> (list 2 4 6 10 13) </ref>) (and (= month 12) (not (hebrew-leap-year year))) (and (= month 8) (not (long-heshvan year))) (and (= month 9) (short-kislev year))) ;; Then return 29 ;; Else return 30)) where the functions long-heshvan and short-kislev will be given later.
+Reference: 7. <editor> J. Hastings, ed., Encyclopdia of Religion and Ethics, </editor> <publisher> Charles Scribner's Sons, </publisher> <address> New York, </address> <year> 1911. </year>
+Reference: 8. <author> L. Lamport, </author> <title> `On the proof of correctness of a calendar program', </title> <journal> Comm. ACM, </journal> <volume> 22, </volume> <month> 554-556 </month> <year> (1979). </year>
+Reference: 9. <institution> Explanatory Supplement to the Astronomical Ephemeris and the American Ephemeris and Nautical Almanac, Her Majesty's Stationery Office, </institution> <address> London, </address> <year> 1961. </year>
+Reference: 10. <author> G. V. Coyne, M. A. Hoskin and O. Pedersen, </author> <title> Gregorian Reform of the Calendar: </title> <booktitle> Proceedings of the Vatican Conference to Commemorate Its 400th Anniversary, </booktitle> <pages> 1582-1982, </pages> <address> Pontifica Academica Scientiarum, Specola Vaticana, Vatican, </address> <year> 1983. </year>
+Reference: 11. <author> J. Dutka, </author> <title> `On the Gregorian revision of the Julian calendar', </title> <journal> Math. Intelligencer, </journal> <volume> 10, </volume> <month> 56-64 </month> <year> (1988). </year>
+Reference: 12. <author> G. Moyer, </author> <title> `The Gregorian calendar', </title> <journal> Sci. Amer., </journal> <volume> 246, (5), </volume> <month> 144-152 (May </month> <year> 1982). </year>
+Reference: 13. <author> V. F. Rickey, </author> <title> `Mathematics of the Gregorian calendar', </title> <journal> Math. Intelligencer, </journal> <volume> 7, </volume> <month> 53-56 </month> <year> (1985). </year>
+Reference: 14. <author> E. M. Reingold, J. Nievergelt and N. Deo, </author> <title> Combinatorial Algorithms: Theory and Practice, </title> <publisher> Prentice-Hall, </publisher> <address> Englewood Cliffs, NJ, </address> <year> 1977. </year>
+Reference: 15. <institution> Data Elements and Interchange Formats|Information Interchange|Representation of Dates, ISO 8601, International Organization for Standardization, </institution> <year> 1988. </year> <title> This standard replaced ISO 2015, the original document describing the ISO calendar. </title>
+Reference: 16. <author> S. B. </author> <title> Burnaby, Elements of the Jewish and Muhammadan Calendars, </title> <publisher> George Bell and Sons, </publisher> <address> London, </address> <year> 1901. </year>
+Reference: 17. <editor> G. S. P. Freeman-Grenville, The Muslim and Christian Calendars, 2nd ed., Rex Collings, </editor> <address> London, </address> <year> 1977. </year>
+Reference: 18. <author> N. Bushwick, </author> <title> Understanding the Jewish Calendar, </title> <publisher> Moznaim Publishing Corp., </publisher> <address> New York, </address> <year> 1989. </year>
+Reference: 19. <author> W. M. Feldman, Rabbinical Mathematics and Astronomy, M. L. Cailingold, </author> <title> London, 1931; 3rd corrected ed., </title> <address> Sepher-Hermon, New York, </address> <year> 1978. </year>
+Reference: 20. <author> M. Friedlander, </author> <title> `Calendar', </title> <booktitle> The Jewish Encyclopedia, Funk and Wagnalls, </booktitle> <address> New York, </address> <year> 1906, </year> <pages> pp. 501-508. </pages>
+Reference: 21. <author> L. Levi, Jewish Chronomony: </author> <title> The Calendar and Times of Day in Jewish Law, </title> <institution> Gur Aryeh Institute for Advanced Jewish Scholarship, Brooklyn, </institution> <address> NY, </address> <year> 1967. </year>
+
+Reference: 23. <author> L. A. Resnikoff, </author> <title> `Jewish calendar calculations', </title> <journal> Scripta Math., </journal> <volume> 9, </volume> <pages> 191-195, </pages> <month> 274-277 </month> <year> (1943). </year>
+Reference: 24. <author> A. Spier, </author> <title> The Comprehensive Hebrew Calendar, </title> <publisher> 3rd ed., Feldheim Publishers, </publisher> <address> New York, </address> <year> 1986. </year>
+Reference: 25. <author> E. J. Wiesenberg, </author> <title> `Calendar', </title> <journal> Encyclopdia Judaica, </journal> <volume> vol. 5, col. </volume> <pages> 43-50, </pages> <publisher> Macmillan, </publisher> <address> New York, </address> <year> 1971. </year>
+Reference: 26. <editor> C. Roth, ed., Encyclopdia Judaica, </editor> <publisher> Macmillan, </publisher> <address> New York, </address> <year> 1971. </year>
+Reference: 27. <author> R. W. Gregory, </author> <title> Special Days, </title> <address> Citadel, Secaucus, NJ, </address> <year> 1975. </year> <note> Previous editions appeared under the title, Anniversaries and Holidays. </note>
+Reference: 28. <author> E. R. Berlekamp, J. H. Conway and R. K. Guy, </author> <title> Winning Ways: Volume 2, Games in Particular, </title> <publisher> Academic Press, </publisher> <address> New York, </address> <year> 1982. </year>
+Reference: 29. <author> D. E. Knuth, </author> <title> `The calculation of Easter', </title> <journal> Comm. ACM, </journal> <volume> 5, </volume> <month> 209-210 </month> <year> (1962). </year>
+Reference: 30. <author> D. E. Knuth, </author> <title> The Art of Computer Programming, Volume I: Fundamental Algorithms, 2nd ed., </title> <publisher> Addison-Wesley, </publisher> <address> Reading, MA, </address> <year> 1973. </year>
+Reference: 31. <author> T. H. O'Beirne, </author> <title> Puzzles and Paradoxes, </title> <publisher> Oxford University Press, </publisher> <address> London, 1965. </address> <publisher> Reprinted by Dover Publications, </publisher> <address> New York, </address> <year> 1984. </year>
+Reference: 32. <author> J. V. Uspensky and M. A. Heaslet, </author> <title> Elementary Number Theory, </title> <publisher> McGraw-Hill, </publisher> <address> New York, </address> <year> 1939. </year>
+Reference: 33. <author> V. B. Ketkar, </author> <title> `Indian and foreign chronology: with theory, practice and tables, b.c. 3102 to 2100 a.d. </title> <journal> and notices of the Vedic, the ancient Indian, the Chinese, the Jewish, the ecclesiastical and the Coptic calendars', J. Royal Asiatic Soc., Bombay Branch, XXVI, (LXXV-A, Extra Number), </journal> <year> 1923. </year>
+Reference: 34. <author> W. E. van Wijk, </author> <title> Decimal Tables for the Reduction of Hindu Dates from the Data of the Surya-Siddhanta, </title> <publisher> Martinus Nijhoff, </publisher> <address> The Hague, </address> <year> 1938. </year>
+Reference: 35. <author> W. E. van Wijk, </author> <title> `On Hindu chronology V: Decimal tables for calculating true local time, according to the Surya-Siddhanta', </title> <publisher> Acta Orientalia, V, </publisher> <month> 1-27 </month> <year> (1926). </year>
+Reference: 36. <author> H. Fritsche, </author> <title> On Chronology and the Construction of the Calendar with Special Regard to the Chinese Computation of Time Compared with the European, </title> <editor> R. Laverentz, </editor> <address> St. Petersburg, </address> <month> 1886. </month>
+References-found: 36
+

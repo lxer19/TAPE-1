@@ -1,0 +1,15 @@
+URL: http://www.isi.edu/expect/inspect/inspect.ps.gz
+Refering-URL: http://www.isi.edu/~valente/inspect/inspect.html
+Root-URL: http://www.isi.edu
+Email: e-mail: fvalente, gil, swartoutg@isi.edu  
+Title: INSPECT: an Intelligent System for Air Campaign Plan Evaluation based on EXPECT  
+Author: Andre Valente, Yolanda Gil and William Swartout 
+Date: September 13, 1996  
+Address: 4676 Admiralty Way, Marina del Rey, CA 90292  
+Affiliation: University of Southern California Information Sciences Institute  
+Abstract-found: 0
+Intro-found: 1
+Reference: [Valente et al., 1996] <author> A. Valente, W. Swartout, and Y. Gil. </author> <title> A representation and library for objectives in air campaign plans. </title> <type> Technical report, </type> <institution> USC | Information Sciences Institute, </institution> <year> 1996. </year>
+Reference-contexts: Also, for several of its checks, INSPECT relies on the availability of structured descriptions of the objectives according to the grammar proposed in another related document and incorporated in an extended objectives editor in the IFD-4 version of ACPT <ref> [Valente et al., 1996] </ref>. If those descriptions are not available, 2 INSPECT's evaluation capability may become severely limited. * The friendly order of battle (FOB). The FOB contains information on the units available for the campaign.
+References-found: 1
+

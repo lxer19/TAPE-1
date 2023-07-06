@@ -1,0 +1,25 @@
+URL: http://www.cs.indiana.edu/~dyb/papers/ddcg.ps.gz
+Refering-URL: http://www.cs.indiana.edu/l/www/classes/p523/index.html
+Root-URL: http://www.cs.indiana.edu
+Title: Destination-Driven Code Generation  
+Abstract: R. Kent Dybvig, Robert Hieb, Tom Butler dyb@cs.indiana.edu Indiana University Computer Science Department Technical Report #302 February 1990 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Aho, A. V., Ganapathi, M., and Tjiang, S. W. K. </author> <title> Code generation using tree matching and dynamic programming. </title> <journal> ACM Transactions on Programming Languages and Systems 11, </journal> <volume> 4 (1989), </volume> <pages> 491-516. </pages>
+Reference: [2] <author> Aho, A. V., and Johnson, S. C. </author> <title> Optimal code generation for expression trees. </title> <journal> Journal of the ACM 23, </journal> <volume> 3 (1976), </volume> <pages> 488-501. </pages>
+Reference: [3] <author> Aho, A. V., Sethi, R., and Ullman, J. D. </author> <booktitle> Compilers: Principles, Techniques, and Tools. </booktitle> <publisher> Addison Wesley, </publisher> <year> 1986. </year>
+Reference: [4] <author> Davidson, J. W., and Fraser, C. W. </author> <title> The design and application of a retargetable peephole optimizer. </title> <journal> ACM Transactions on Programming Languages and Systems 2, </journal> <volume> 2 (1980), </volume> <pages> 191-202. </pages>
+Reference: [5] <institution> Digital Equipment Corporation. VAX Architecture Handbook, </institution> <year> 1986. </year>
+Reference: [6] <author> Ganapathi, M., and Fischer, C. N. </author> <title> Affix grammar driven code generation. </title> <journal> ACM Transactions on Programming Languages and Systems 11, </journal> <volume> 4 (1985), </volume> <pages> 560-599. </pages>
+Reference: [7] <author> Ganapathi, M., Fischer, C. N., and Hennessy, J. L. </author> <title> Retargetable compiler code generation. </title> <journal> ACM Computing Surveys 14, </journal> <volume> 4 (1982), </volume> <pages> 573-592. </pages>
+Reference: [8] <author> Glanville, R. S. </author> <title> A machine independent algorithm for code generation and its use in retargetable compilers. </title> <type> PhD thesis, </type> <institution> University of California, Berkeley, </institution> <year> 1977. </year>
+Reference: [9] <author> Glanville, R. S., and Graham, S. L. </author> <title> A new method for compiler code generation. </title> <booktitle> In Proceedings of the Fifth Annual ACM Symposium on Principles of Programming Languages (1978), </booktitle> <pages> pp. 231-240. </pages>
+Reference: [10] <author> Graham, S. L. </author> <title> Table-driven code generation. </title> <booktitle> IEEE Computer 13, 8 (1980), </booktitle> <pages> 25-34. 16 </pages>
+Reference: [11] <author> Kernighan, B. W., and Ritchie, D. M. </author> <title> The C Programming Language. </title> <publisher> Prentice Hall, </publisher> <year> 1978. </year>
+Reference: [12] <author> Ramanath, M. V. S., and Solomon, M. </author> <title> Jump minimization in linear time. </title> <journal> ACM Transactions on Programming Languages and Systems 6, </journal> <volume> 4 (1984), </volume> <pages> 527-545. </pages>
+Reference: [13] <author> Rees, J., and Clinger, W. E. </author> <title> Revised 3 report on the algorithmic language Scheme. </title> <journal> ACM SIGPLAN Notices 21, </journal> <month> 12 </month> <year> (1986). </year>
+Reference: [14] <author> Reiser, J. F., and Henry, R. R. </author> <title> Berkeley VAX/UNIX assembler reference manual, </title> <year> 1983. </year>
+Reference: [15] <author> Sethi, R., and Ullman, J. </author> <title> The generation of optimal code for arithmetic expressions. </title> <journal> Journal of the ACM 17, </journal> <volume> 4 (1970), </volume> <pages> 715-728. </pages>
+Reference: [16] <author> Steele, G. L. J. Rabbit: </author> <title> A compiler for Scheme (a study in compiler optimization). </title> <type> Master's thesis, </type> <institution> Massachusetts Institute of Technology, </institution> <year> 1977. </year> <month> 17 </month>
+References-found: 16
+

@@ -1,0 +1,33 @@
+URL: http://www.eecs.umich.edu/techreports/systems/control_group/cgr67.ps.Z
+Refering-URL: http://www.eecs.umich.edu/home/techreports/sys91.html
+Root-URL: http://www.cs.umich.edu
+Phone: 2122.  
+Title: DECENTRALIZED CONTROL AND PERIODIC FEEDBACK  
+Author: Pramod P. Khargonekar A. Bulent Ozguler 
+Address: Ann Arbor, Michigan 48109  06533 Ankara, TURKEY  
+Affiliation: Dept. of Electrical Engineering and Computer Science, The University of Michigan,  Electrical and Electronics Eng. Dept. Bilkent University Bilkent  
+Note: Supported in part by National Science Foundation under grants no. ECS-9001371, Airforce Office of Scientific Research under contract no. AFOSR- 90-0053, Army Research Office under grant no. DAAL03-90-G-0008.  
+Date: February 1991  
+Abstract-found: 0
+Intro-found: 1
+Reference: <author> B. D. O. Anderson and J. B. </author> <title> Moore [1981] "Time-varying feedback laws for decentralized control", </title> , <journal> Vol. AC-26, </journal> <volume> No. 5, </volume> <pages> pp. 1133-1139. </pages>
+Reference: <author> J. P. Corfmat and A. S. </author> <title> Morse [1976] "Decentralized control of linear multivariable systems", </title> , <journal> Vol. </journal> <volume> 8, </volume> <pages> pp. 479-485. </pages>
+Reference: <author> J. H. </author> <title> Davis [1972] "Stability conditions derived from spectral theory: Discrete systems with periodic feedback", </title> , <journal> Vol. </journal> <volume> 10, </volume> <pages> pp. 1-13. </pages>
+
+Reference: <editor> C. A. Desoer and N. </editor> <publisher> Gunde~s [1990] , Springer- Verlag, </publisher> <address> Berlin. </address>
+Reference: <author> G. A. </author> <title> Hewer [1975] "Periodicity, detectability and the matrix Riccati equation", </title> , <journal> Vol. </journal> <volume> 13, </volume> <pages> pp. 1235-1251. </pages>
+Reference: <author> Y. Juan and P. T. </author> <title> Kabamba [1989] "Simultaneous pole assignment in linear periodic systems using constrained structure feedback, </title> , <journal> Vol. </journal> <volume> 34, </volume> <pages> pp. 168-173. </pages>
+Reference: <author> E. I. Jury and F. J. </author> <title> Mullin [1959] "The analysis of sampled-data control systems with a periodically time-varying sampling rate", </title> , <journal> Vol. </journal> <volume> 24, </volume> <pages> pp. 15-21. </pages>
+Reference: <author> H. Kano and T. </author> <title> Nishimura [1979] "Periodic solutions of matrix Riccati equation with detectability and stabilizability", </title> , <journal> Vol. </journal> <volume> 29, </volume> <pages> pp. 471-487. </pages>
+Reference: <author> P. P. Khargonekar, K. Poolla, and A. </author> <title> Tannenbaum [1985] "Robust control of linear time-invariant plants using periodic compensation", </title> , <journal> Vol. AC-30, </journal> <volume> No. 11, </volume> <pages> pp. 1088-1096. </pages>
+Reference: <author> S. Lee, S. M. Meerkov, and T. </author> <title> Runolfsson [1987] "Linear periodic feedback: zeros placement capabilities", </title> <journal> Vol. AC-32, </journal> <volume> No. 7, </volume> <pages> pp. 604-611. </pages> <editor> R. A. Meyer and C. S. </editor> <title> Burrus [1975] "A unified analysis of multirate and periodically time-varying digital filters", </title> , <booktitle> Vol. CAS-22, </booktitle> <pages> pp. 162-168. </pages>
+Reference: <author> A. B. </author> <title> Ozguler [1990] "Decentralized control: A stable proper fractional approach", </title> , <journal> Vol. </journal> <volume> 35, No. 10, </volume> <pages> pp. 1109-1117. </pages>
+Reference: <author> M. A. Rotea and P. P. </author> <title> Khargonekar [1988] "Stabilizability of Linear Time- Varying and Uncertain 26 IEEE Transactions on Automatic Control, Harmonic Analysis of Operators on Hilbert Space Proc. </title> <booktitle> IFAC World Congress Proceedings of the 1990 Bilkent International Conference on Communication, Control and Signal Processing Report 82-06, University of Waterloo IEEE Transactions on Automatic Control Automatica Linear System, </booktitle> <volume> Vol. 33, </volume> <pages> pp. 884-887. </pages>
+Reference: <editor> B. Sz.-Nagy and C. </editor> <address> Foias [1970] . New York: </address> <publisher> American Elsevier. </publisher>
+Reference: <author> L. Trave, A. M. Tarras, and A. </author> <title> Titli [1985] "An application of vibrational control to cancel unstable decentralized fixed modes", </title> , <publisher> Pergamon Press, Oxford. </publisher>
+Reference: <author> K. Unyelioglu and A. B. </author> <title> Ozguler [1990] "Decentralized stabilization of multivariable systems using a stable proper fractional approach", </title> , <booktitle> Vol 1, </booktitle> <pages> pp. 843-849. </pages>
+Reference: <author> M. Vidyasagar and N. </author> <title> Viswanadham [1982] "Algebraic characterization of decentralized fixed modes and pole assignment", </title> , <address> Ontario, Canada, N2L 3G1. </address>
+Reference: <author> S. H. Wang and E. J. </author> <booktitle> Davison [1973] "On the stabilization of decentralized control systems", </booktitle> , <volume> Vol. AC-18, </volume> <pages> pp. 473-478. </pages>
+Reference: <author> J. L. </author> <title> Willems [1989] "Time-varying feedback for the stabilization of fixed modes in decentralized control systems", </title> , <journal> Vol. </journal> <volume> 25, No. 1, </volume> <pages> pp. 127-131. 27 </pages>
+References-found: 18
+

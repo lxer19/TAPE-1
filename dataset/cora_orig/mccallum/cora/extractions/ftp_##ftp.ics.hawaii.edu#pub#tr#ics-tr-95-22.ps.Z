@@ -1,0 +1,20 @@
+URL: ftp://ftp.ics.hawaii.edu/pub/tr/ics-tr-95-22.ps.Z
+Refering-URL: ftp://ftp.ics.hawaii.edu/pub/tr/INDEX.html
+Root-URL: 
+Email: cmoore@uhics.ics.hawaii.edu  
+Title: Strong Collaboration in AEN  
+Author: Carleton Moore 
+Keyword: Hypertext, Strong Collaboration, Authoring  
+Address: 2565 The Mall  Honolulu, Hawaii 96822  
+Affiliation: Collaborative Software Development Laboratory, Department of Information and Computer Sciences  University of Hawaii, Manoa  
+Abstract: This paper overviews the Annotated Egret Navigator (AEN), a system designed to support strong collaboration among a group as they cooperatively build, review, revise, improve and learn from a structured hypertext document. AEN addresses how strong collaboration can be supported through computer mediation. It is designed to support collaborative creation of hypertext and to instrument the actions of its users in order to understand how such creation occurs. 
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> Tim Berners-Lee, Robert Cailliau, Ari Luotonen, Hen-nik Nielson, and Arthur Secrit. </author> <title> The world wide web. </title> <journal> Communications of the ACM, </journal> <volume> 37(8), </volume> <month> August </month> <year> 1994. </year>
+Reference-contexts: INTRODUCTION With the rapid expansion of the World Wide Web (WWW) <ref> [1] </ref>, the use of hypertext as a structuring mechanism for richly interdependent information is becoming widespread. Indeed, hypertext is almost certain to be the `lingua franca' of the information superhighway. The WWW allows authors to collaborate by including sections of other authors' documents.
+Reference: 2. <author> Philip M. Johnson. </author> <title> The annotated egret. </title> <type> Technical Report CSDL-TR-94-06, </type> <institution> Department of Information and Computer Sciences, University of Hawaii, </institution> <month> June </month> <year> 1994. </year>
+Reference-contexts: The Partyline tool allows users to chat with each other. Experiences AEN was used during the Fall semester of 1994 in a graduate seminar on collaborative systems in the Department of Information and Computer Sciences at the University of Hawaii. The initial requirements document for AEN <ref> [2] </ref> was developed in June, 1994. Precise and accurate metrics data for only a small portion of the Fall semester was collected by AEN, due to volatility in both AEN and the metrics system.
+Reference: 3. <author> Philip M. Johnson. </author> <title> Experiences with EGRET: An exploratory group work environment. </title> <journal> Collaborative Computing, </journal> <volume> 1(1), </volume> <month> January </month> <year> 1994. </year>
+Reference-contexts: Unfortunately, WWW provides little support for collaborative authoring beyond including someone else's work. AEN In order to explore the issues associated with collaborative hypertext document construction we developed the Annotated Egret Navigator (AEN). AEN is a collaborative authoring tool built upon the Egret <ref> [3] </ref> collaborative system development environment. Specifically, AEN investigates and supports a form of collaboration termed strong collaboration. In strong collaboration, each participant contributes to the construction of the document, and gains new knowledge as a direct result of this construction.
+References-found: 3
+

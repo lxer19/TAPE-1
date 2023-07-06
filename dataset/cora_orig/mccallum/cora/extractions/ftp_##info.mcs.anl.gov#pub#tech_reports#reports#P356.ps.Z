@@ -1,0 +1,21 @@
+URL: ftp://info.mcs.anl.gov/pub/tech_reports/reports/P356.ps.Z
+Refering-URL: http://www.mcs.anl.gov/publications/abstracts/abstracts93.htm
+Root-URL: http://www.mcs.anl.gov
+Title: A R G O N N E N A T I O NA L L
+Author: by William D. Gropp and Barry Smith 
+Date: March 1993  
+Affiliation: Mathematics and Computer Science Division Argonne National Laboratory  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> I. S. Duff, M. Marrone, and G. Radicati, </author> <title> A proposal for user level sparse BLAS, </title> <type> Tech. Rep. </type> <institution> TR/PA/92/85, CERFACS, </institution> <year> 1992. </year> <note> SPARKER Working note # 1. </note>
+Reference-contexts: It has been our experience that the object-oriented design makes this relatively easy to achieve. In Fig. 5 we give the calling sequence for a conjugate gradient algorithm contained in working notes for a proposed sparse BLAS standard <ref> [1] </ref>.
+Reference: [2] <author> S. C. Eisenstat, H. C. Elman, M. H. Schultz, and A. H. Sherman, </author> <title> The (new) Yale Sparse Matrix Package, </title> <type> Tech. Rep. </type> <institution> YALE/DCS/RR-265, Department of Computer Science, Yale University, </institution> <month> Apr. </month> <year> 1983. </year>
+Reference-contexts: All of these array variables must be passed to the routines that operate on the sparse matrices. To explain this more fully, we give a particular example, the well-known Yale Sparse Matrix Package (YSMP) storage scheme <ref> [2] </ref>.
+Reference: [3] <author> W. D. Gropp and B. Smith, </author> <title> Simplified linear equation solvers users manual, </title> <type> Tech. Rep. </type> <institution> ANL-93/8, Mathematics and Computer Science Division, Argonne National Laboratory, </institution> <month> Mar. </month> <year> 1993. </year>
+Reference-contexts: The linear solvers are part of a larger set of tools, PETSc (Portable, Extensible Tools for Scientific computing) that we have been developing. We have written a set of linear solvers built on top of these libraries called the "Simplified Linear Equation Solvers," SLES. Its user guide <ref> [3] </ref> is in the file sles.ps.Z. SLES is intended as a easy to use, serial interface to the much more powerful underlying routines. We have found this approach to be very easy to use, and we use it both with our research codes and with large computational science applications.
+Reference: [4] <author> J. S. Mounts, D. M. Belk, and D. L. Whitfield, </author> <title> Program EAGLE user's manual, volume IV: Multiblock implicit, steady-state Euler code, </title> <type> Tech. Rep. </type> <institution> TR-88-117, Vol. IV, Air Force Armanent Laboratory (AFATL), Eglin Air Force Base, Florida, </institution> <month> Sept. </month> <year> 1988. </year>
+Reference-contexts: We were then able to use all of our iterative routines without change. The same approach was used for the parallel version of this application. Another example is in the EAGLE code <ref> [4] </ref> for external two- and three-dimensional 6 IterativeContext *itp; ITMETHOD itmethod = ITGMRES; Vector *x,*b; int its, n = 50; void amult (), binv (); itp = ITCreate ( itmethod ); /* Choose the method */ DVSetDefaultFunctions ( itp-&gt;vc ); /* set default vector functions */ x = VCREATE ( itp-&gt;vc,
+Reference: [5] <author> Y. Saad, SPARSKIT: </author> <title> A basic toolkit for sparse matrix computations, </title> <type> Tech. Rep. 1029, </type> <institution> Center for Supercomputing Research and Development, University of Illinois at Urbana-Champaign, </institution> <month> Aug. </month> <year> 1990. </year> <note> The submitted manuscript has been authored by a contractor of the U. </note> <author> S. </author> <title> Government under contract No. </title> <editor> W-31-109-ENG-38. Accordingly, the U. S. Government retains a nonexclusive, </editor> <title> royalty-free license to publish or reproduce the published form of this contribution, or to allow others to do so, for U. S. Government purposes. </title> <type> 8 </type>
+Reference-contexts: We also point out that our approach is not intended to duplicate the code in a package such as SPARSKIT <ref> [5] </ref> but rather to provide an interface that is more flexible and extensible.
+References-found: 5
+

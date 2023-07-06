@@ -1,0 +1,27 @@
+URL: ftp://ftp.cs.uu.nl/pub/RUU/CS/techreps/CS-1993/1993-15.ps.gz
+Refering-URL: http://www.cs.ruu.nl/docs/research/publication/TechList1.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: Fat triangles determine linearly many holes, Worst-case optimal hidden surface removal, The complexity of the
+Author: J. Matousek, J. Pach, M. Sharir, S. Sifrony, E. Welzl, [] A. van der Stappen, D. Halperin, M. Overmars, A. van der Stappen, D. Halperin, M. Overmars, E. Welzl, 
+Date: 20 (1985), 167-171.  
+Address: New York, 1985.  
+Note: [16]  SIAM J. Computing 23 (1994), to appear. [17] M. McKenna,  ACM Trans. Graphics 6 (1987), pp. 19-28. [18] J. O'Rourke, Computational geometry column 22, SIGACT news 25,1 (1994), pp. 31-33. [19] F. Preparata, M. Shamos, Computational geometry, an introduction, Springer-Verlag,  Comput. Geom.: Theory and Applications 3 (1993), pp. 353-373. [21]  Proc. IEEE Intern. Conf. on Robotics and Automation, 1993, Vol. I, pp. 297-304. [22] G. Vegter, The  Proc. SWAT'90, Lect. Notes in Comp. Science 447, Springer-Verlag, Berlin, 1990, pp. 97-110. [23]  Inform. Proc. Let.  24  
+Abstract: 15] Y. Ke, J. O'Rourke, An algorithm for moving a ladder in three dimensions, Technical Report JHU-87/17, Department of Computer Science, Johns Hop kins University, 1987. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> S. Bloch, J. Buss, J. Goldsmith, </author> <title> How hard are n 2 -hard problems?, </title> <journal> SIGACT news 25,2 (1994), </journal> <pages> pp. 83-85. </pages>
+Reference: [2] <author> P. Bose, M. van Kreveld, G. Toussaint, </author> <title> Filling polyhedral molds, </title> <booktitle> Proc. 3rd Workshop Algorithms Data Struct., Lecture Notes in Computer Science 709, </booktitle> <publisher> Springer-Verlag, </publisher> <address> New York, </address> <year> 1993, </year> <pages> pp. 210-221. </pages>
+Reference: [3] <author> M. de Berg, </author> <title> Generalized hidden surface removal, </title> <booktitle> Proc. 9th ACM Symp. on Computational Geometry, </booktitle> <year> 1993, </year> <pages> pp. 1-10. </pages>
+Reference: [4] <author> M. de Berg, M. de Groot, M. Overmars, </author> <title> Perfect binary space partition trees, </title> <booktitle> Proc. 5th Canad. Conf. </booktitle> <institution> Comput. Geom., </institution> <year> 1993, </year> <pages> pp. 109-114. </pages>
+Reference: [5] <author> B. Chazelle, </author> <title> Triangulating a simple polygon in linear time, </title> <journal> Discrete Comp. Geom. </journal> <volume> 6 (1991), </volume> <pages> pp. 485-524. </pages>
+Reference: [6] <author> H. Edelsbrunner, </author> <title> Algorithms in Combinatorial Geometry, </title> <publisher> Springer-Verlag, </publisher> <address> New York, </address> <year> 1987. </year>
+Reference: [7] <author> H. Edelsbrunner, L. Guibas, </author> <title> Topologically sweeping an arrangement, </title> <journal> J. Comp. Syst. Sc. </journal> <volume> 38 (1989), </volume> <pages> pp. 165-194. </pages>
+Reference: [8] <author> H. Edelsbrunner, L. Guibas, M. Sharir, </author> <title> The complexity and construction of many faces in arrangements of lines and of segments, </title> <journal> Discrete Comp. Geom. </journal> <volume> 5 (1990), </volume> <pages> pp. 161-196. </pages>
+Reference: [9] <author> H. Edelsbrunner, M. Overmars, D. Wood, </author> <title> Graphics in Flatland: a case study, in: F.P. </title> <editor> Preparata (ed.), </editor> <booktitle> Advances in Computing Research, </booktitle> <volume> Vol 1: </volume> <booktitle> Computational geometry, </booktitle> <publisher> JAI Press, </publisher> <year> 1983, </year> <pages> pp. 35-59. </pages>
+Reference: [10] <author> A. Efrat, M. Sharir, G. </author> <title> Rote On the union of fat wedges and separating a collection of segments by a line, </title> <journal> Comput. Geom. Theory Appl. </journal> <volume> 3 (1994), </volume> <pages> pp. 277-288. </pages>
+Reference: [11] <author> J. Erickson and R. Seidel, </author> <title> Better lower bounds on detecting affine and spherical degeneracies, </title> <booktitle> Proc. 34th Annu. IEEE Sympos. </booktitle> <institution> Found. Comput. Sci. </institution> <note> (FOCS 93), </note> <year> 1993, </year> <pages> pp. 528-536. </pages>
+Reference: [12] <author> R. Freimer, J. Mitchell, C. Piatko, </author> <title> On the complexity of shattering using arrangements, </title> <booktitle> Proc. 2nd Canad. Conf. </booktitle> <institution> Comput. Geom., </institution> <year> 1990, </year> <pages> pp. 218-222. </pages>
+Reference: [13] <author> L. Guibas, M. Overmars, J-M. Robert, </author> <title> The exact fitting problem for points, </title> <booktitle> Proc. Third Canad. Conf. </booktitle> <institution> Comput. Geom., </institution> <year> 1991, </year> <pages> pp. 171-174. </pages>
+
+References-found: 13
+

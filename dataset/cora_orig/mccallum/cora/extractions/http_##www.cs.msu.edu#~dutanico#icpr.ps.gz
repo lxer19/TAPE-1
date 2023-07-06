@@ -1,0 +1,27 @@
+URL: http://www.cs.msu.edu/~dutanico/icpr.ps.gz
+Refering-URL: http://www.cs.msu.edu/~dutanico/
+Root-URL: http://www.cs.msu.edu
+Email: dutanico@cps.msu.edu, jain@cps.msu.edu  
+Title: Learning the human face concept from black and white pictures  
+Author: Nicolae Duta and Anil K. Jain 
+Keyword: Key words: Face detection, Visual learning.  
+Note: Track: Systems and Applications. Abstract  
+Address: East Lansing, MI, 48824-1226 USA  
+Affiliation: Department of Computer Science Michigan State University  
+Abstract: This study presents a learning approach for the face detection problem. Given an arbitrary black and white, still image, find the location and size of every human face it contains. Numerous applications of the automatic face detection have attracted considerable interest [1-7], but no present face detection system is completely satisfactory from the point of view of detection rate, false alarm rate and detection time. We describe an inductive learning detection method that produces a maximally specific hypothesis consistent with the training data. Three different sets of features were considered for defining the concept of a human face. The performance achieved is as follows: 85% detection rate, a false alarm rate of 0:04% of the number of windows analyzed and 1 minute detection time on a 320 fi 240 image on a Sun Ultrasparc 1. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> K. Sung and T. Poggio. </author> <title> Example-based Learning for View-based Human Face Detection. </title> <journal> A.I. </journal> <volume> Memo No. 1521, </volume> <publisher> MIT A.I. Laboratory, </publisher> <year> 1994. </year>
+Reference-contexts: To compute the correlation coefficients c , we considered 40 translations with norms up to 18 pixels (instead of norms of less than 12 pixels which correspond to 9 ffi of solid angle) in order to obtain a better discrimination power. IV. Learning algorithm Sung and Poggio <ref> [1] </ref> proposed the hypothesis according to which the face domain can be approximated by the union of a small number of ellipsoids in the instance space. <p> A hierarchical clustering of the training patterns in each feature set was performed using Ward's method. Ward's clustering algorithm seems to be superior to the K-means algorithm (used by Sung and Poggio <ref> [1] </ref>) which produces clusters that are too dependent on the positions of the initial cluster centers.
+Reference: [2] <author> T. K. Leung, M. C. Burl, and P. Perona. </author> <title> Finding faces in cluttered scenes using random labelled graph matching. </title> <booktitle> In Proceedings of ICCV-'95, </booktitle> <address> Cambridge, MA, </address> <year> 1995. </year>
+Reference: [3] <author> H. Rowley, S. Baluja, and T. Kanade. </author> <title> Human Face Detection in Visual Scenes. </title> <institution> Carnegie Mellon University technical report, CMU-CS-95-158R, </institution> <year> 1995. </year>
+Reference: [4] <author> M. Lew and N. Huijsmans. </author> <title> Information theory and face detection. </title> <booktitle> In Proceedings of ICPR-'96, </booktitle> <pages> pages 601-610, </pages> <address> Vienna, Austria, </address> <year> 1996. </year>
+Reference: [5] <author> A. Colmenarez and T. Huang. </author> <title> Face detection with information-based maximum discrimination. </title> <booktitle> In Proceedings of CVPR '97, </booktitle> <address> San Juan, Puerto Rico, </address> <year> 1997. </year>
+Reference: [6] <author> K. C. Yow and R. Cipolla. </author> <title> Feature-based human face detection. </title> <journal> Image and Vision Computing, </journal> <volume> 15(9) </volume> <pages> 713-735, </pages> <year> 1997. </year>
+Reference: [7] <author> S. H. Lin, S. Y. King, and L. J. Lin. </author> <title> Face recognition/detection by probabilistic decision-based neural network. </title> <journal> IEEE Trans. Neural networks, </journal> <volume> 8(1) </volume> <pages> 114-131, </pages> <year> 1997. </year>
+Reference: [8] <author> A. Gagalowicz. </author> <title> Texture modeling applications. </title> <journal> Visual Computer, </journal> (3):186-200, 1987. 
+Reference-contexts: The cardinality of this instance space is 32 48 , of which a very small fraction 2 actually represent faces. Fig. 2. Instance space of all 5-bit 8 fi 6 images. The second and third set of features came from texture analysis. According to Gagalowicz <ref> [8] </ref>, grey-tone textures are well modeled by the histogram of the image together with a set of second-order spatial averages (c ) for jj 9 ffi of solid angle, where: c = K i=1 (X i mean (X i )) fi (X i+ mean (X i+ )) var (X i )
+Reference: [9] <author> T. Mitchell. </author> <title> Machine Learning. </title> <publisher> McGraw Hill, </publisher> <address> New York, </address> <year> 1997. </year> <month> 7 </month>
+Reference-contexts: Analogously, the distance from a non-face instance to each cluster centroid should be larger than most of the distances from the face points of the cluster to the centroid. This strategy is equivalent in a continuous instance space to the Find-S ( <ref> [9] </ref>) learning algorithm, and produces a maximally specific hypothesis consistent with the (positive) training examples. Like Find-S, it doesn't use any negative examples and its bias is a restricted hypothesis space: only unions of ellipsoids are considered as valid hypotheses.
+References-found: 9
+

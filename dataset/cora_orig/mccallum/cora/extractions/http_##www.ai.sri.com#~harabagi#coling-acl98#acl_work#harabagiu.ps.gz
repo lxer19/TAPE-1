@@ -1,0 +1,19 @@
+URL: http://www.ai.sri.com/~harabagi/coling-acl98/acl_work/harabagiu.ps.gz
+Refering-URL: http://www.ai.sri.com/~harabagi/coling-acl98/acl_work/acl_work.html
+Root-URL: 
+Email: harabagi@ai.sri.com  
+Title: Deriving Metonymic Coercions from WordNet  
+Author: Sanda M. Harabagiu 
+Address: 333 Ravenswood Ave, Menlo Park, CA 94025  
+Affiliation: Artificial Intelligence Center SRI International  
+Abstract: This paper presents a method for deriving metonymic coercions from the knowledge available in WordNet. Two different classes of metonymies are inferred by using (1) lexico-semantic connections between concepts or (2) morphological cues and logical formulae defining lexical concepts. In both cases the derivation of metonymic paths is based on approximations of sortal constraints retrieved from Word-Net. This novel method of inferring coercions validates the related knowledge through coreference links. As a result, metonymic coercions are potentially useful for the recognition of coreferring entities in information extraction systems. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Douglas E. Appelt, Jerry R. Hobbs, John Bear, David Israel, Megumi Kameyama, and Mabry Tyson. </author> <title> The SRI MUC-5 JV-FASTUS Information Extraction System. </title> <booktitle> In Proceedings of the Fifth Message Understanding Conference (MUC-5), </booktitle> <year> 1993. </year>
+Reference: <author> John Bear and Jerry R. Hobbs. </author> <title> Localizing Expressions of Ambiguity. </title> <booktitle> In Proceedings of the Second Conference on Applied Natural Language Processing, Association for Computational Linguistics, </booktitle> <pages> pages 235-242, </pages> <year> 1988. </year>
+Reference: <author> Richard Bobrow, Ron Ingria and David Stallard. </author> <title> The Mapping Unit Approach to Subcategorization. </title> <booktitle> In Proceedings of the Speech and Natural Language Workshop, </booktitle> <year> 1991. </year>
+Reference: <author> Dan Fass. </author> <title> met* : A Method of Discriminating Metonymy and Metaphor by Computer. </title> <booktitle> In Computational Linguistics, </booktitle> <volume> 17(1) </volume> <pages> 49-90, </pages> <year> 1991. </year>
+Reference: <author> Paul J. Grice. </author> <title> Logic and Conversation. </title> <editor> In P. Cole and J. Morgan, editors, </editor> <title> Syntax and Semantics Vol.3: </title> <booktitle> Speech Acts, </booktitle> <pages> pages 41-58. </pages> <publisher> Academic Press, </publisher> <address> New York, </address> <year> 1975. </year>
+Reference: <author> Barbara J. Grosz, Aravind K. </author> <title> Joshi and Scott Weinstein. </title>
+References-found: 6
+

@@ -1,0 +1,20 @@
+URL: http://www.cs.columbia.edu/~shaw/papers/acl95.ps.gz
+Refering-URL: http://www.cs.columbia.edu/~shaw/papers/index.html
+Root-URL: http://www.cs.columbia.edu
+Email: shaw@cs.columbia.edu  
+Title: Conciseness through Aggregation in Text Generation  
+Author: James Shaw 
+Address: New York, NY 10027, USA  
+Affiliation: Dept. of Computer Science Columbia University  
+Note: Published in Proc. of the 33rd ACL (Student Session), pp. 329-331, 1995.  
+Abstract: Aggregating different pieces of similar information is necessary to generate concise and easy to understand reports in technical domains. This paper presents a general algorithm that combines similar messages in order to generate one or more coherent sentences for them. The process is not as trivial as might be expected. Problems en countered are briefly described.
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Dalianis, Hercules, and Hovy, Edward. </author> <year> 1993. </year> <title> Aggregation in Natural Language Generation. </title> <booktitle> In Proceedings of the Fourth European Workshop on Natural Language Generation, </booktitle> <address> Pisa, Italy. </address>
+Reference-contexts: While other systems do generate conjunctions, they deal with restricted cases such as conjunction of subjects and predicates <ref> (Dalianis&Hovy93) </ref>. There are other interesting problems in aggregations. Generating marker words to indicate relationships in conjoined structures, such as "respectively", is another short term goal.
+Reference: <author> Elhadad, Michael. </author> <year> 1991. </year> <title> FUF: The universal unifier user manual, version 5.0. </title> <type> Tech Report CUCS-038-91, </type> <institution> Columbia Univ. </institution>
+Reference: <author> Robin, Jacques. </author> <year> 1994. </year> <title> Revision-Based Generation of Natural Language Summaries Providing Historical Background: Corpus-based analysis, design, implementation and evaluation. </title> <type> Ph.D. thesis, </type> <institution> Computer Science Department, Columbia Univ. </institution>
+Reference: <author> Kukich, K., McKeown, K., Morgan, N., Phillips, J., Robin, J., Shaw, J., and Lim, J. </author> <year> 1993. </year> <title> User-Needs Analysis and Design Methodology for an Automated Documentation Generator. </title> <booktitle> In Proceedings of the Fourth Bellcore/BCC Symposium on User-Centered Design, </booktitle> <address> Piscataway, NJ. </address>
+Reference: <author> McKeown, Kathleen, Kukich, Karen, and Shaw, James. </author> <year> 1994. </year> <title> Practical Issues in Automatic Documentation Generation. </title> <booktitle> In Proceedings of the 4th Conference on Applied Natural Language Processing, </booktitle> <publisher> Stuttgart, </publisher> <editor> p.7-14. van Oirsouw, Robert. </editor> <year> 1987. </year> <title> The Syntax of Coordination Beckenham: </title> <publisher> Croom Helm. </publisher>
+References-found: 5
+

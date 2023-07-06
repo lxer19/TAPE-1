@@ -1,0 +1,15 @@
+URL: http://ext.math.umass.edu/~avrunin/recent_pubs/using_ip.ps.gz
+Refering-URL: http://laser.cs.umass.edu/analysis-collection/
+Root-URL: 
+Email: corbett@hawaii.edu  avrunin@math.umass.edu  Editor:  
+Title: Using Integer Programming to Verify General Safety and Liveness Properties  
+Author: JAMES C. CORBETT GEORGE S. AVRUNIN 
+Keyword: Concurrent systems, automated verification, integer programming, safety, liveness  
+Address: Amherst  
+Affiliation: University of Hawaii at Manoa  University of Massachusetts at  
+Note: 1-27 c Kluwer Academic Publishers, Boston. Manufactured in The Netherlands.  
+Abstract: Analysis of concurrent systems is plagued by the state explosion problem. We describe an analysis technique that uses necessary conditions, in the form of linear inequalities, to verify certain properties of concurrent systems, thus avoiding the enumeration of the potentially explosive number of reachable states of the system. This technique has been shown to be capable of verifying simple safety properties, like freedom from deadlock, that can be expressed in terms of the number of certain events occurring in a finite execution, and has been successfully used to analyze a variety of concurrent software systems. In this paper, we extend the technique to the verification of more complex safety properties that involve the order of events and to the verification of liveness properties, which involve infinite executions. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

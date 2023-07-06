@@ -1,0 +1,16 @@
+URL: http://www.cs.umn.edu/Users/pub/CPAN/doc/misc/IntroToPerl.ps.gz
+Refering-URL: http://www.cs.umn.edu/Users/pub/CPAN/doc/misc/
+Root-URL: http://www.cs.umn.edu
+Email: patrick.m.ryan@gsfc.nasa.gov  
+Title: Introduction to Perl well as access to systems calls and C library routines. It is
+Author: Patrick M. Ryan 
+Note: 1 What is Perl? Perl contains features of the Bourne shell (/bin/sh), awk, sed, and grep as  1 "UNIX" is a trademark of AT&T. No, make that Unix Systems Laboratories. Or maybe Novell, Inc  
+Date: Revised November 16, 1993  
+Affiliation: Hughes STX Corporation  
+Abstract: Perl has become the new language of choice for many system management tasks. Combining elements of C, awk, sed, grep, and the Bourne shell, Perl is an excellent tool for text and file processing. Although Perl is often described as a "system management language", it is useful for many tasks that would otherwise be done with shell scripts. "Perl" is an acronym for Practical Extraction and Report Language. It was developed by (and is still maintained by) Larry Wall of Netlabs. It is freely available software and compiles on nearly all major architectures and operating systems. These include all the major UNIX 1 variants as well as VMS and even DOS. Perl is not a compiled language but it is faster than most interpreted languages. Before executing a Perl script, the perl program reads the entire script into memory and "compiles" it into a fast internal format. In nearly all cases, a Perl script is faster than its Bourne shell analogue. Note that by convention, one refers to the Perl language in upper case and the perl program in lower case. This document is intended to be an overview of the major features of Perl and does not describe every facet of the language. Much more extensive reference materials are available. These references, as well as pointers to example scripts, are detailed at the end of this document. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <editor> 15.1 Manuals and Books There are several very good references to Perl available. </editor> <title> The first and foremost is the Perl manual page. It is about 90 pages long and describes all aspects of Perl, albeit in a terse manner. For me, it is the reference of first resort since I can scan through it in an Emacs buffer. </title>
+
+References-found: 1
+

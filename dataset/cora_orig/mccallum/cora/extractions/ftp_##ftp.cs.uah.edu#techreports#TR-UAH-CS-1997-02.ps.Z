@@ -1,0 +1,26 @@
+URL: ftp://ftp.cs.uah.edu/techreports/TR-UAH-CS-1997-02.ps.Z
+Refering-URL: http://www.cs.uah.edu/~delugach/cs-tech-reports.html
+Root-URL: 
+Email: letzkorn@cs.uah.edu  
+Title: A Statistical Comparison of Various Definitions of the LCOM Metric McCabe's cyclomatic complexity metric 1
+Author: Letha Etzkorn, Carl Davis, and Wei Li 
+Note: Software metrics for the procedural software development paradigm have been extensively studied. Metrics such as  has been subject to  currently in use include: 1) the original definition of the LCOM metric by Chidamber and Kemerer 3 2) the definition of the LCOM metric provided by Li and Henry 4,5 3) the redefinition of the Li and Henry version of the LCOM metric by Hitz and Montazen 6 and 4) the redefinition of their original LCOM metric  
+Date: Abstract  
+Address: in Huntsville  
+Affiliation: The University of Alabama  
+Abstract: Several different definitions of the Lack of Cohesion of Methods (LCOM) metric exist. Various implementations of the LCOM metric, regarding inheritance and use of the constructor and destructor in the calculation are possible. This paper discusses the pros and cons of the possible definitions and implementations of the LCOM metric. An experiment that compared each implementation and definition of LCOM to cohesiveness as determined by seven experts is described. Linear regression analyses comparing cohesiveness to the various LCOM metrics are discussed. 
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> McCabe, T.J. </author> <title> A complexity measure, </title> <journal> IEEE TRANSACTIONS ON SOFTWARE ENGINEERING 2(4): </journal> <pages> 308-320, </pages> <year> 1976. </year>
+Reference: 2. <author> Halstead, M.H. </author> <title> ELEMENTS OF SOFTWARE SCIENCE, </title> <publisher> Elsevier North-Holland, </publisher> <address> New York, </address> <year> 1977. </year>
+Reference: 3. <author> Chidamber, </author> <title> S.R., and C.F. Kemerer. Towards a metrics suite for objectoriented design, </title> <booktitle> PROCEEDINGS: OOPSLA '91, </booktitle> <month> July </month> <year> 1991, </year> <pages> pp. 197-211. </pages>
+Reference: 4. <author> Li, W. and S. Henry. </author> <title> Maintenance metrics for the objectoriented paradigm, </title> <booktitle> PROCEEDINGS OF THE FIRST INTERNATIONAL SOFTWARE METRICS SYMPOSIUM, </booktitle> <month> May 21-22, </month> <year> 1993, </year> <pages> pp. 52-60. </pages>
+Reference: 5. <author> Li, W., S. Henry, D. Kafury, and R. Schulman. </author> <title> Measuring objectoriented design, </title> <journal> JOURNAL OF OBJECTORIENTED PROGRAMMING, </journal> <month> JULY/AUGUST </month> <year> 1995, </year> <pages> pp. 48-55. </pages>
+Reference: 6. <author> Hitz, M. and B. Montazeri. </author> <title> Chidamber and Kemerer's Metrics Suite: a measurement theory perspective, </title> <journal> IEEE TRANSACTIONS ON SOFTWARE ENGINEERING, </journal> <volume> 22(4), </volume> <month> April </month> <year> 1996, </year> <pages> pp. 267-271. </pages>
+Reference: 7. <author> Basili, V., L. Briand, and W.L. Melo, </author> <title> A validation of objectoriented metrics as quality indicators, </title> <journal> IEEE TRANSACTIONS ON SOFTWARE ENGINEERING, </journal> <volume> 22(10), </volume> <month> October </month> <year> 1996, </year> <month> pp.751-761. </month>
+Reference: 8. <author> Chidamber, </author> <title> S.R., and C.F. Kemerer. A metrics suite for objectoriented design, </title> <journal> IEEE TRANSACTIONS ON SOFTWARE ENGINEERING, </journal> <month> 20 (6) June </month> <year> 1994, </year> <pages> pp. 476-493. </pages>
+Reference: 9. <author> Etzkorn, </author> <title> L.H., and C.G. Davis. Automated objectoriented reusable component identification, KNOWLEDGE-BASED SYSTEMS, </title> <publisher> Elsevier Science, Ltd., </publisher> <address> Oxford, </address> <note> without constructor constructor constructor England (accepted). </note>
+Reference: 10. <editor> Etzkorn, L.H., C.G. Davis, L.L. Bowen, D.B. Etzkorn, L.W. Lewis, B.L. Vinz, and J.C. Wolf, </editor> <title> A Knowledge-based approach to objectoriented legacy code reuse, </title> <booktitle> PROCEEDINGS OF THE SECOND IEEE INTERNATIONAL CONFERENCE ON ENGINEERING OF COMPLEX COMPUTER SYSTEMS, </booktitle> <address> Montreal, Canada, </address> <month> Oct. </month> <pages> 21-25, </pages> <year> 1996, </year> <pages> pp. 493-496. </pages>
+Reference: 11. <author> Etzkorn, </author> <title> L.H., A metrics-based approach to the automated identification of objectoriented reusable components: a short overview. </title> <booktitle> OOPSLA '95 Doctoral Symposium, </booktitle> <address> Austin, TX, </address> <month> October 16-19, </month> <year> 1995. </year>
+References-found: 11
+

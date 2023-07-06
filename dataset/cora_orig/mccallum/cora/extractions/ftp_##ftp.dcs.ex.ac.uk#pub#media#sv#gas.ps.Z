@@ -1,0 +1,17 @@
+URL: ftp://ftp.dcs.ex.ac.uk/pub/media/sv/gas.ps.Z
+Refering-URL: http://www.dcs.ex.ac.uk/reports/reports.html
+Root-URL: http://www.dcs.ex.ac.uk
+Email: email: lindsey@dcs.exeter.ac.uk  
+Title: Goofy Animation System  
+Author: Lindsey Ford 
+Note: Contents  
+Date: November 5, 1993  
+Address: Exeter EX4 4PT U.K.  
+Affiliation: Department of Computer Science University of Exeter  
+Pubnum: Technical Report 266  
+Abstract-found: 0
+Intro-found: 1
+Reference: [Stasko92] <author> John T. Stasko. </author> <title> POLKA Animation designer's Package. College of Com 14 puting, Georgia Institute of Technol--ogy, Atlanta, GA 30332-0280 Acknowledgements I am indebted to John Stasko for providing the POLKA framework and its inspirational ideas. Also I should like to thank the first-year students of 1992/93 (Computer Science, Cognitive Science, Combined Honours Computer Science and Mathematics) for their enthusiastic response to a project involving Goofy. </title> <type> 15 </type>
+Reference-contexts: 1 Introduction The ideas of John T. Stasko <ref> [Stasko92] </ref> and his software system, POLKA, have been instrumental in the development of the Goofy system. POLKA is a system that provides smooth 2 1/2-dimensional colour animations on top of the X11 Window System, and similar 3-dimensional effects on workstations.
+References-found: 1
+

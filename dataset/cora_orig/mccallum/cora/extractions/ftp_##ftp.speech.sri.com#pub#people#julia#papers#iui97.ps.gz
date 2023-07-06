@@ -1,0 +1,15 @@
+URL: ftp://ftp.speech.sri.com/pub/people/julia/papers/iui97.ps.gz
+Refering-URL: http://www.speech.sri.com/people/julia/mmap.html
+Root-URL: 
+Email: fmoran,cheyer,julia,marting@ai.sri.com  skpark@com.etri.re.kr  
+Phone: +1 415 859 6486  +82 42 860 5641  
+Title: Multimodal User Interfaces in the Open Agent Architecture  
+Author: Douglas B. Moran Adam J. Cheyer Luc E. Julia David L. Martin Sangkyu Park 
+Address: 333 Ravenswood Avenue Menlo Park CA 94025 USA  161 Kajong-Dong Yusong-Gu, Taejon 305-350 KOREA  
+Affiliation: SRI International  Artificial Intelligence Section Electronics and Telecommunications Research Institute (ETRI)  
+Abstract: The design and development of the Open Agent Architecture (OAA) 1 system has focused on providing access to agent-based applications through an intelligent, cooperative, distributed, and multimodal agent-based user interfaces. The current multimodal interface supports a mix of spoken language, handwriting and gesture, and is adaptable to the user's preferences, resources and environment. Only the primary user interface agents need run on the local computer, thereby simplifying the task of using a range of applications from a variety of platforms, especially low-powered computers such as Personal Digital Assistants (PDAs). An important consideration in the design of the OAA was to facilitate mix-and-match: to facilitate the reuse of agents in new and unanticipated applications, and to support rapid prototyping by facilitating the replacement of agents by better versions. The utility of the agents and tools developed as part of this ongoing research project has been demonstrated by their use as infrastructure in unrelated projects. Keywords: agent architecture, multimodal, speech, gesture, handwriting, natural language 
+Abstract-found: 1
+Intro-found: 1
+Reference: <institution> PhD thesis, U. of Edinburgh, </institution> <year> 1983. </year>
+References-found: 1
+

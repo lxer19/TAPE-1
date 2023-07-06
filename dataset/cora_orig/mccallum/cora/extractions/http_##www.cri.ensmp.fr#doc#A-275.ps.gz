@@ -1,0 +1,24 @@
+URL: http://www.cri.ensmp.fr/doc/A-275.ps.gz
+Refering-URL: http://www.cri.ensmp.fr/rapports.html
+Root-URL: 
+Title: Removing Useless Remappings  
+Author: Fabien Coelho Corinne Ancourt 
+Note: FTP:  
+Address: 35, rue Saint-Honore, 77305 Fontainebleau Cedex, France.  
+Affiliation: Centre de Recherche en Informatique, Ecole des mines de Paris,  
+Pubnum: Report A-275-CRI  
+Email: anonymous@ftp.cri.ensmp.fr  
+Phone: Phone: +33 1 64 69 47 08. Fax: 33 1 64 69 47 09.  
+Date: October 23, 1995  
+Web: URL: http://www.cri.ensmp.fr/pips  
+Abstract: This report describes the optimization implemented in hpfc, our prototype hpf compiler, to remove useless remappings. This optimization is performed on the remapping graph. The construction of this graph from the control flow graph is first presented. Then the optimization is formalized as a may data-flow problem on this graph. Finally the results are discussed. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Ken Kennedy. </author> <title> A survey of data flow analysis techniques. </title> <editor> In S. Muchnick and N. Jones, editors, </editor> <title> Program Flow Analysis: </title> <booktitle> Theory and Applications, </booktitle> <pages> pages 5-54. </pages> <publisher> Prentice-Hall, Inc., </publisher> <address> Engelwood Cliffs, </address> <year> 1979. </year>
+Reference-contexts: This is a forward may data flow problem <ref> [2, 1] </ref> on G R : initialization: Used 1-step reaching mappings 8v; 8A 2 S (v); R A (v) = w2pred (v) A2S (w); Used A (w) L A (w) optimizing function: propagation 8v; 8A 2 S (v); R A (v) = R A (v) [ w2pred (v) A2S (w); not
+Reference: [2] <author> Gary A. Kildall. </author> <title> A unified approach to global program optimization. </title> <booktitle> In Symposium on Principles of Programming Language, </booktitle> <pages> pages 194-206, </pages> <year> 1973. </year>
+Reference-contexts: This is a forward may data flow problem <ref> [2, 1] </ref> on G R : initialization: Used 1-step reaching mappings 8v; 8A 2 S (v); R A (v) = w2pred (v) A2S (w); Used A (w) L A (w) optimizing function: propagation 8v; 8A 2 S (v); R A (v) = R A (v) [ w2pred (v) A2S (w); not
+Reference: [3] <author> Hans Zima, Peter Brezany, Barbara Chapman, Piyush Mehrotra, and Andreas Schwald. </author> <title> Vienna Fortran A Language Specification. </title> <note> ftp cs.rice.edu public/HPFF/papers/vf.tex, </note> <year> 1992. </year> <title> Version 1.1. SUBROUTINE remaps(A) ! distribute A... =&gt; A mapping: 0 local arrays B, C ! template T, align B, C with T, distribute T... =&gt; B and C mappings: 0 use C use B 1 redistribute T =&gt; B and C mappings: 1 DO ... 2 remap A... =&gt; A mapping 1 use A 3 remap A... =&gt; A mapping 2 use A ENDDO use B END 6 </title>
+Reference-contexts: Let us consider example remaps in Figure 1. The loop nest involving two remap-pings is typical of ADI computations. Template T is redistributed at 1, inducing B fl fcoelho,ancourtg@cri.ensmp.fr 1 Even when no templates are used <ref> [3] </ref> array redistributions generate the problem 1 and C remappings, but C is not referenced afterwards. Moreover argument A is never referenced with its initial mapping. In this section, the remapping graph, its construction from the control flow graph and its optimizations are presented.
+References-found: 3
+

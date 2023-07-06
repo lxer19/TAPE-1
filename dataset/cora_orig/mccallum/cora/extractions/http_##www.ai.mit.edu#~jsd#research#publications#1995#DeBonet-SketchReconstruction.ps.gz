@@ -1,0 +1,23 @@
+URL: http://www.ai.mit.edu/~jsd/research/publications/1995/DeBonet-SketchReconstruction.ps.gz
+Refering-URL: http://www.ai.mit.edu/projects/lv/publications/
+Root-URL: 
+Title: Reconstructing Rectangular Polyhedra From  
+Author: Hand-Drawn Wireframe Sketches Jeremy S. De Bonet 
+Date: December, 1995  
+Address: 6.837  
+Affiliation: Computer Graphics  
+Pubnum: Final Project  
+Abstract-found: 0
+Intro-found: 1
+Reference: <author> Ballard, D.H., and C.M. Brown, </author> <title> Computer Vision, </title> <publisher> Prentice-Hall, Inc., </publisher> <address> Englewood Cliffs, New Jersey, </address> <year> 1982. </year>
+Reference-contexts: geometry through the use large dictionaries and extensive searches though the space of possible legal combinations, however: "...the labeling scheme examined here still has problems: syntactically nonsensical scenes [can be] coherently labeled; scenes [and be] given geo metrically impossible labels; and scenes that cannot arise from polyhedra are easily labeled." <ref> (Ballard and Brown, 1982, p. 298) </ref>. Another method, developed by Mackworth (1973), used brightness to determine surface gradients in a fashion similar to the reflectance map computations later used by Horn (1977).
+Reference: <author> Binford, </author> <title> T.O. (1971) "Visual perception by computer," </title> <booktitle> Proceedings of the IEEE Systems Science and Cyberntic Conference, </booktitle> <address> Miami, </address> <month> December. </month>
+Reference-contexts: This mapping rule will result in a consistent grammar which can reconstruct a subset of generalized cylinders <ref> (Binford, 1971) </ref>, in which an arbitrary two-dimensional shape (in this case a shape without lines of the third peak orientation) is swept along the direction in three space which is mapped to the third peak orientation.
+Reference: <author> Clowes, </author> <title> M.B. (1971) "On Seeing Things," </title> <journal> Artificial Intelligence, </journal> <volume> Vol. 2, No. 1, </volume> <pages> pp. 79-116, </pages> <month> Spring. </month>
+Reference: <author> Horn, B.K.P. </author> <title> (1977) "Image Intensity Understanding," </title> <journal> Artificial Intelligence, </journal> <volume> Vol. 8, No. 2, </volume> <pages> pp. 201-231, </pages> <month> April. </month>
+Reference: <author> Horn, B.K.P., </author> <title> Robot Vision, </title> <publisher> MIT Press, </publisher> <address> Cambridge, Massachusetts, </address> <year> 1986. </year>
+Reference-contexts: By assuming a simple grammar which just uses the line orientation to determine the represented three-dimensional displacement, simple polyhedral scenes such as the fireplace mantel shown in Figure 15-2 of Robot Vision <ref> (Horn, 1986) </ref> can be interpreted without determining a consistent labeling of each line. <p> this system is quite robust to spurious and somewhat fractured lines, the clustering operation will fail completely if there are any missing lines. 14 * "The accidental alignment in which we happen to be viewing a vertex from a direction that makes it line up with a more distant edge" <ref> (Horn, 1986) </ref> will cause the recovery of only one line, which will result in failure of the clustering operation.
+Reference: <author> Huffman, D.A. </author> <title> (1971) "Impossible Objects as Nonsense Sentences," </title> <booktitle> in Machince Intelligence 6, </booktitle> <editor> B. Meltzer, and D.M. Michie (eds.), </editor> <publisher> Edinburgh University Press, </publisher> <pages> pp. 295-323. </pages>
+Reference: <author> Mackworth, </author> <title> A.K. (1973) "Interpreting pictures of polyhedral scenes," </title> <journal> Artificial Intelligence, </journal> <volume> Vol. 4, No. 2, </volume> <pages> pp. 121-137, </pages> <month> Summer. 16 </month>
+References-found: 7
+

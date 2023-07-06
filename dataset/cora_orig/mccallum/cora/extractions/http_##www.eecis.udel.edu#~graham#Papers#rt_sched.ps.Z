@@ -1,0 +1,21 @@
+URL: http://www.eecis.udel.edu/~graham/Papers/rt_sched.ps.Z
+Refering-URL: http://www.eecis.udel.edu/~graham/Papers/
+Root-URL: http://www.eecis.udel.edu
+Title: have obtained some knowledge of operating systems in general, and the UNIX operating system in
+Affiliation: Vanderbilt University and at UCLA.  
+Note: USENIX Winter 92 9.0 Correspondence 10.0 Biographies Michael Sebre is a software engineer in the Operating Systems Technology Group at SunSoft. He is rumored to  
+Abstract: Correspondence regarding this paper should be sent to the address below. Sandeep Khanna is a software engineer in the Operating Systems Technology Group at SunSoft. He graduated with an M.S. in Computer Science from the University of Mississippi in 1987. He received his B.E. Electrical and Electronics Engineering from Birla Institute of Technology and Science, Pilani, India in 1984. He is currently involved with the design and implementation of realtime extensions to SunOS 5.0. John Zolnowsky is a software engineer in the Operating Systems Technology Group at SunSoft. He has a Ph.D. in Computer Science from Stanford University, was instruction set architect for the 68000 processor family, and now serves as technical editor for the POSIX 1003.4 Realtime Extensions. 
+Abstract-found: 1
+Intro-found: 0
+Reference: [AT&T 1989] <institution> System V Interface Definition, </institution> <note> 3rd Edition, AT&T 1989. </note>
+Reference: [AT&T 1990] <institution> UNIX System V Release 4 Internals Student Guide, AT&T 1990. </institution>
+Reference: [Lampson 1980] <author> B. W. Lampson and D. D. Redell, </author> <title> Experiences with processes and monitors in Mesa, </title> <journal> Communications of the ACM, </journal> <volume> vol. 23, no. 2, </volume> <pages> pp. 105-117, </pages> <month> February </month> <year> 1980. </year>
+Reference: [Lefer 1989] <author> Samuel J. Lefer, Marshall Kirk McKusick, Michael J. Karels, and John S. Quarterman, </author> <title> The Design and Implementation of the 4.3 BSD UNIX Operating System, </title> <publisher> Addison-Wesley, </publisher> <year> 1989. </year>
+Reference: [Moran 1988] <author> Joseph P. Moran, </author> <title> SunOS Virtual Memory Implementation, </title> <booktitle> Proceedings for the Spring 1988 EUUG Conference, </booktitle> <address> EUUG, London, England, </address> <month> Spring </month> <year> 1988. </year>
+Reference: [Rajkumar 1988] <author> Ragunathan Rajkumar, Lui Sha, and John P. Lehoczky, </author> <title> Real-Time Synchronization Protocols for Multiprocessors, </title> <booktitle> Proceedings of the Real-Time Systems Symposium, </booktitle> <month> December 6-8, </month> <year> 1988, </year> <institution> Huntsville, Alabama. </institution>
+Reference: [Powell 1991] <author> M.L. Powell, S.R. Kleiman, S. Barton, D. Shah, D. Stein, M. Weeks, </author> <title> SunOS Multi-thread Architecture, </title> <booktitle> Proceedings 1991 USENIX Winter Conference. </booktitle>
+Reference: [Sha 1990] <author> Lui Sha, Ragunathan Rajkumar, John P. Lehoczky, </author> <title> Priority Inheritance Protocols: An Approach to Real-Time Synchronization. </title> <journal> IEEE Transactions on Computers, </journal> <volume> Vol. 39, No. 9, </volume> <month> September </month> <year> 1990. </year>
+Reference: [SPARC 1991] <institution> The SPARC Architecture Manual, </institution> <note> Version 8, Prentice-Hall 1991. </note>
+
+References-found: 9
+

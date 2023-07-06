@@ -1,0 +1,18 @@
+URL: ftp://ftp.cs.swarthmore.edu/pub/meeden/sdm.ps.Z
+Refering-URL: http://www.cs.swarthmore.edu/~meeden/
+Root-URL: 
+Title: Learning with a Sparse Distributed Memory  
+Author: Jim Marshall Lisa Meeden 
+Date: 1 May 1989  
+Address: Bloomington, Indiana  
+Affiliation: Computer Science Department Indiana University  
+Abstract: In this paper we describe a software implementation of a sparse distributed memory in the *Lisp language on a Connection Machine. We use several different learning tasks to evaluate the performance of the memory model, including generalization, prediction, and retraining. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [Hillis, 1985] <author> Hillis, W. D. </author> <year> (1985). </year> <title> The Connection Machine. </title> <publisher> ACM Distinguished Dissertation. MIT Press, </publisher> <address> Cambridge, Ma. </address>
+Reference: [Hillis, 1987] <author> Hillis, W. D. </author> <year> (1987). </year> <title> The connection machine. </title> <publisher> Scientific American, </publisher> <pages> pages 108-115. </pages>
+Reference: [Kanerva, 1988] <author> Kanerva, P. </author> <year> (1988). </year> <title> Sparse Distributed Memory. </title> <publisher> MIT Press, </publisher> <address> Cam-bridge, Ma. </address>
+Reference-contexts: 1 Introduction A sparse distributed memory (SDM) is a model of human long-term memory developed by Kanerva that may offer a new approach to problems in machine learning <ref> [Kanerva, 1988] </ref>. The memory supports approximate addressing, which means that an item stored in the memory can be retrieved by addressing the memory with an address sufficiently similar, but not necessarily identical, to the original address with which the item was written. <p> A k-fold memory allows prediction of successive patterns based on the previous k patterns of the sequence. For a more detailed description of the sparse distributed memory model, the reader is referred to <ref> [Kanerva, 1988] </ref>.
+Reference: [StarLisp, 1988] <author> StarLisp (1988). </author> <title> StarLisp Reference Manual. Thinking Machines Corporations, </title> <address> Cambridge, MA, 5.0 edition. </address> <month> 13 </month>
+References-found: 4
+

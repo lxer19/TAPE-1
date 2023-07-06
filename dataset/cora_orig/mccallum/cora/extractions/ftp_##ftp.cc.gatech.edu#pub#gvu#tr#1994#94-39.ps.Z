@@ -1,0 +1,22 @@
+URL: ftp://ftp.cc.gatech.edu/pub/gvu/tr/1994/94-39.ps.Z
+Refering-URL: http://www.cs.gatech.edu/gvu/reports/1994/
+Root-URL: 
+Email: Email -pitkow, mimi-@cc.gatech.edu  
+Title: A Simple Yet Robust Caching Algorithm Based on Dynamic Access Patterns  
+Author: James E. Pitkow Margaret M. Recker 
+Address: Atlanta, GA 30332-0280 U.S.A.  
+Affiliation: Graphics, Visualization, Usability Center College of Computing Georgia Institute of Technology  
+Abstract: The World-Wide Web continues its remarkable and seemingly unregulated growth. This growth has seen a corresponding increase in network loads and user response times. One common approach for improving the retrieval rate of large, distributed documents is via caching. In this paper, we present a caching algorithm that exibly adapt its parameters to the hit rates and access patterns of users requesting documents. The algorithm is derived from an analysis of user accesses in a WWW database. In particular, the analysis is based upon a model from psychological research on human memory, which has long studied retrieval of memory items based on frequency and recency rates of past item occurrences. Results show that the model predicts document access with a high degree of accuracy. Furthermore, the model indicates that a caching algorithm based upon the recency rates of prior document access will reliably handle future document requests. The algorithm presented is simple, robust, and easily implementable. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Anderson, J. and Schooler, L. </author> <year> (1991). </year> <title> Reections of the Environment in Memory. </title> <journal> Psychological Science, </journal> <volume> 2(6) </volume> <pages> 192-210. </pages>
+Reference: <author> Beebee, P. </author> <year> (1994). </year> <note> The SG-Scout Home Page. Available via URL: http://www-swiss.ai.mit.edu/~ptbb/SG-Scout.html Berners-Lee, </note> <author> T., Cailliau, R., Groff, J., and Pollermann, B. </author> <year> (1992). </year> <title> World-Wide Web: The information universe. </title> <journal> Electronic Networking: Research, Applications, and Policy, 1(2):52--58. </journal>
+Reference: <author> Berners-Lee, T., Cailliau, R., Luotonen, A., Nielsen, H., and Secret, A. </author> <year> (1994). </year> <title> The World-Wide Web. </title> <journal> Communications of the ACM, 37(8):76--82. </journal>
+Reference: <author> Ebbinghaus, H. </author> <title> (1885/1964). Memory: A contribution to experimental psychology. </title> <address> Mineola, NY: </address> <publisher> Dover Publications. </publisher>
+Reference: <author> Glassman, D. </author> <year> (1994). </year> <title> A Caching Relay for the World-Wide Web. </title> <booktitle> In Proceedings of the First International World Wide Web Conference. </booktitle> <address> Amsterdam: </address> <publisher> Elsevier. </publisher>
+Reference: <author> Grey, M. </author> <year> (1994). </year> <title> Growth of the World-Wide Web. </title> <note> Available via URL: http://www.mit.edu:8001/afs/sipb/user/ mkgray/ht/comprehensive.html Luotonen, </note> <author> A. and Atlis, K. </author> <year> (1994). </year> <title> World-Wide Web Proxies. </title> <booktitle> In Proceedings of the First International World Wide Web Conference. </booktitle> <address> Amsterdam: </address> <publisher> Elsevier. </publisher> <address> Merit NIC. </address> <year> (1994). </year> <institution> NSFNET Statistics. </institution> <note> Available via: URL: </note> <author> gopher://nic.merit.edu:7043/11/nsfnet/statistics/1994 Smith, N. </author> <year> (1994). </year> <title> What can Archives off the World-Wide Web? In Proceedings of the First International World Wide Web Conference. </title> <publisher> Amsterdam: Elsevier. </publisher>
+Reference: <author> Tanenbaum, </author> <title> A (1992). Modern Operation Systems. </title> <publisher> Prentice-Hall, </publisher> <address> NJ. </address>
+Reference-contexts: In sum, these results do suggest that turning off the cache selection algorithm during weekends improves the caches overall performance, though tradeoffs exist. Caching Algorithm The above results and analysis provide the motivation for simple, least-recently used (LRU) <ref> (Tanenbaum, 1992) </ref>, caching and garbage collection algorithms. Basically, the cache traps all document requests.
+
+References-found: 7
+

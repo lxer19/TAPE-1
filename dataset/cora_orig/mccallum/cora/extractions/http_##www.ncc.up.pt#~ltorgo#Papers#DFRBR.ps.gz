@@ -1,0 +1,17 @@
+URL: http://www.ncc.up.pt/~ltorgo/Papers/DFRBR.ps.gz
+Refering-URL: http://www.ncc.up.pt/~ltorgo/Papers/list_pub.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: DATA FITTING WITH RULE-BASED REGRESSION  
+Author: Luis Torgo LIACC R.Campo Alegre, o. 
+Keyword: systems. Keywords Regression, Data Fitting, Inductive Learning, Propositional Rule Learning.  
+Note: conducted in artificial data sets show that RR 22 compares reasonably to other machine learning  
+Address: PORTUGAL  
+Affiliation: 4150 PORTO  
+Email: email ltorgo@ncc.up.pt  
+Phone: Phone (+351) 2 600 16 72 Ext. 115 Fax (+351) 2 600 3654  
+Web: http ://www.up.pt/~ltorgo  
+Abstract: In the classical regression theory we try to build one functional model to fit a set of data. In noisy and complex domains this methodology can be highly unreliable and/or demand too complex functional models. Piecewise regression models provide means to overcome these difficulties. Some existing approaches to piecewise regression are based on regression trees. However, rules are known to be more powerful descriptive languages than trees. This paper describes the rule learning system RR 22 . This system learns a set of regression rules from a classical machine learning data set. Regression rules are IF-THEN rules that have regression models in the conclusion. The conditional part of these rules determines the domain of applicability of the respective model. We believe that by adopting a rule-based formalism, RR 22 will outperform regression trees. The initial set of experiments that we have 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

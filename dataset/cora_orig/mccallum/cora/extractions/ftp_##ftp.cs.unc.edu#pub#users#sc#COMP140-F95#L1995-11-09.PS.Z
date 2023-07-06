@@ -1,0 +1,12 @@
+URL: ftp://ftp.cs.unc.edu/pub/users/sc/COMP140-F95/L1995-11-09.PS.Z
+Refering-URL: http://www.cs.unc.edu/~sc/teaching/COMP140-F1995/lectures.html
+Root-URL: http://www.cs.unc.edu
+Title: COMP 140: Introduction to Translator Systems Assembly (Lecture 1 of 2) Cc1 defaults: Cc1 arguments
+Author: Siddhartha Chatterjee -quiet -dumpbase -o 
+Note: 1 #include &lt;stdio.h&gt; 2 static int do_fact(int n) 3 4 return n &lt; 2 1 n*do_fact(n-1); 5 6 int fact(int n) 7 8 printf("The factorial of %d is %d"n", n, do_fact(n));  .file 1 "example.c" GNU C 2.5.8 [AL 1.1, MM 40] DECstation running ultrix compiled by GNU C  
+Date: 9 November 1995  9  
+Abstract: Our goal was to take a program written in a high-level programming language and translate it into executable machine code. So far, we have parsed the source language program into an abstarct syntax tree, performed some semantic analysis on this intermediate representation, and finally generated assembly code for the MIPS machine. We are very close to executable machine code, but are not quite there yet. We must first convert the assembly language program to machine instructions; this is the process of assembly, and the program that performs this task is called an assembler. This produces object code, which is still not executable because it may contain unresolved references to symbols that are defined in other code modules. To satisfy these external references, we must link multiple object modules into a load module. This task is done by a program called the linker. Finally, the progam is loaded into memory by a loader and can then be executed. In the remaining lectures of this semester, we will study the processes of assembly, linking, and loading. We start with a simple piece of ANSI C code in file example.c, shown below. When we compile this with gcc and list the assembly code it generates, we get the following output in file example.s. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

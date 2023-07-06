@@ -1,0 +1,19 @@
+URL: ftp://ftp.cse.unsw.edu.au/pub/users/andrewt/publications/1996/111.ps.Z
+Refering-URL: http://www.cse.unsw.edu.au/school/publications/1996/SCSE_publications.html
+Root-URL: 
+Email: marianc@cse.unsw.edu.au, jesse@cse.unsw.edu.au  
+Title: Improving Border Identification in Two-Dimensional Echocardiograms Using Temporal Information  
+Author: Marian M. Choy and Jesse S. Jin 
+Keyword: Border Extraction, Echocardiography, Motion, Temporal Information, Image Segmentation.  
+Address: Sydney 2052, Australia  
+Affiliation: School of Computer Science and Engineering University of New South Wales,  
+Abstract: Border extraction in static two-dimensional echocardiograms (2D echo) using morphological image analysis with second derivative operator performs well. However, with large dropouts and high noise content, this segmentation method will generate false boundary points. By considering temporal information from neighbouring frame, this limitation can be solved. In this paper, we present the improvement of segmentation by adopting dynamic knowledge in our decision process. The results indicate that temporal information greatly reduces the noise sensitivity of the algorithm. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> N. G. Pandian and M. A. Vannan, </author> <title> "Evolving trends and future directions in echocardiography", </title> <journal> International Journal of Cardiac Imaging, </journal> <volume> vol. 9, no. 2, </volume> <pages> pp. 81-92, </pages> <year> 1993. </year>
+Reference: [2] <author> M. Choy and J. Jin, </author> <title> "Morphological image analysis of left-ventricular endocardial borders in 2d echocardiograms", </title> <booktitle> in Medical Imaging 1996. 1996, vol. 2710 of Proceedings of SPIE, SPIE. </booktitle>
+Reference: [3] <author> L. Zhang and E. A. Geiser, </author> <title> "An effective algorithm for extracting serial endocardial borders from 2-dimensional echocardiograms", </title> <journal> IEEE Transactions on Biomedical Engineering, </journal> <volume> vol. 31, no. 6, </volume> <pages> pp. 441-447, </pages> <month> June </month> <year> 1984. </year>
+Reference: [4] <author> I. L. Herlin and G. Giraudon, </author> <title> "Performing segmentation of ultrasound images using temporal information", </title> <booktitle> Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition, </booktitle> <pages> pp. 373-378, </pages> <year> 1993. </year>
+Reference: [5] <author> Y. Gao, </author> <title> "Recursive LoG filtering for edge detection in image processing", </title> <type> Master's thesis, </type> <institution> University of New South Wales, </institution> <year> 1995. </year>
+References-found: 5
+

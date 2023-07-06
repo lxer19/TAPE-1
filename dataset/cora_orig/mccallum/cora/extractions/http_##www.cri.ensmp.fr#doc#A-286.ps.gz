@@ -1,0 +1,12 @@
+URL: http://www.cri.ensmp.fr/doc/A-286.ps.gz
+Refering-URL: http://www.cri.ensmp.fr/rapports.html
+Root-URL: 
+Title: State of the Art in Compiling HPF  
+Author: Fabien Coelho 
+Date: June 1996  
+Affiliation: (CRI, Ecole des mines de Paris) Cecile Germain (LRI, Universite Paris-Sud) Jean-Louis Pazat (IRISA, Rennes)  
+Abstract: Proposing to the user a nice programming model based on the data-parallel paradigm is one thing. Running the resulting applications very fast is the next issue for a language aiming at high performance on massively parallel machines. This paper discusses the issues involved in HPF compilation and presents optimization techniques, targeting the message-passing SPMD programming model of distributed memory MIMD archi tectures.
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

@@ -1,0 +1,20 @@
+URL: ftp://ftp.icsi.berkeley.edu/pub/techreports/1995/tr-95-046.ps.gz
+Refering-URL: http://www.icsi.berkeley.edu/techreports/1995.html
+Root-URL: http://www.icsi.berkeley.edu
+Title: PET Priority Encoding Transmission: A New, Robust and Efficient Video Broadcast Technology  
+Author: Bernd Lamparter Andres Albanese Malik Kalfane Michael Luby 
+Address: Berkeley, CA 94704, USA  
+Affiliation: Computer Science Institute,  
+Note: all International  
+Date: August 1995  
+Pubnum: TR-95-046  
+Abstract: This paper presents a new Forward Error Correction Scheme with several priority levels. It is useful for applications dealing with real-time transport streams like video and audio. Those streams consist of several data parts with different importance. PET allows to protect those parts with appropriate redundancy and thus guarantees, that the more important parts arrive before the less important ones. In the video we show the impacts of losses to an MPEG [2] video stream with and without PET protection. Due to the fragile nature of MPEG the unprotected stream breaks up, the PET protected stream is unaffected by low losses and jerky when high losses are present. Keywords: Video Transmission, Forward Error Correction, MPEG. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> A. Albanese, J. Blomer, J. Edmonds, and M. Luby and M. Sudan: </author> <title> "Priority Encoding Transmission", </title> <booktitle> Proceedings of 35th Annual Symposium on Foundations of Computer Sciences, </booktitle> <address> Santa Fe, New Mexico, </address> <month> Nov. </month> <pages> 20-22, </pages> <year> 1994, </year> <pages> pp. 604-612. </pages>
+Reference: [2] <author> Didier Le Gall: </author> <title> "MPEG: A Video Compression Standard for Multimedia Applications", </title> <journal> Communications of the ACM 1991 </journal>
+Reference: [3] <author> Steven McCanne and Van Jacobson. </author> <title> vic: "A Flexible Framework for Packet Video", </title> <booktitle> Proceedings of ACM Multimedia'95, </booktitle> <month> Nov. </month> <year> 1995 </year>
+Reference-contexts: While PET can take advantage of special purpose encoding/decoding hardware, the implemented examples, e. g. real-time video transmission, have demonstrated effective operation without such hardware, i. e. with software implementations using conventional computers. 4. Implementation PET was implemented within the framework of VIC, a video conferencing tool <ref> [3] </ref> for the MBone, the Multicast Backbone on top of the Internet. It uses a modification of the software only MPEG decompressor developed by Stefan Eckhart and the MPEG Software Simulation Group at the University of Munich, Germany.
+Reference: [4] <institution> The PET project at ICSI: </institution> <note> URL: http://www.icsi.berkeley.edu/PET/ </note>
+References-found: 4
+

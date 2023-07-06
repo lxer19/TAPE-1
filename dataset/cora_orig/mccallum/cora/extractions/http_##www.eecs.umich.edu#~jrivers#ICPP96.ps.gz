@@ -1,0 +1,16 @@
+URL: http://www.eecs.umich.edu/~jrivers/ICPP96.ps.gz
+Refering-URL: http://www.eecs.umich.edu/~jrivers/
+Root-URL: http://www.eecs.umich.edu
+Email: -jrivers, davidson-@eecs.umich.edu  
+Title: REDUCING CONFLICTS IN DIRECT-MAPPED CACHES WITH A TEMPORALITY-BASED DESIGN  
+Author: Jude A. Rivers and Edward S. Davidson 
+Address: Ann Arbor, MI 48109-2122  
+Affiliation: Advanced Computer Architecture Laboratory EECS Dept., The University of Michigan  
+Note: *This work was supported by a gift from IBM and a University of Mich--igan Graduate Fellowship, and used resources of the University of Mich-igan Center for Parallel Computing, which is partially funded by NSF grant CDA-92-14296.  
+Abstract: Direct-mapped caches are often plagued by conict misses because they lack the associativity to store more than one memory block in each set. However, some blocks that have no temporal locality actually cause program execution degradation by displacing blocks that do manifest temporal behavior. In this paper, we present a simple but efficient novel hardware design called the Non-Temporal Streaming (NTS) Cache that supplements the conventional direct-mapped cache with a parallel fully associative buffer. Every cache block loaded into the main cache is monitored for temporal behavior by a hardware detection unit. Cache blocks identified as nontemporal are allocated to the buffer on subsequent requests. Our simulations show that the NTS Cache not only provides a performance improvement over the conventional direct-mapped cache, but can also save on-chip area. For some numerical programs like FFTPDE, APPSP and APPBT from the NAS benchmark suite, an integral NTS Cache of size 9KB (i.e., 8KB direct-mapped cache plus 1KB NT buffer) performs as well as a 16KB conventional direct-mapped cache. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> J.L. Hennessy, and D.A. Peterson, </author> <booktitle> Computer Architecture, </booktitle>
+Reference-contexts: For an on-chip cache to be most beneficial, it must be fast, small and achieve a low miss rate. Direct-mapped caches are a favorite choice for their short cycle time, but suffer from high miss rate. Cache misses can be placed into three categories <ref> [1] </ref>: compulsory, capacity and con-ict. Compulsory misses are associated with the first time access to a data block that is not in the cache, and are eliminated only by prefetching, which is not within the scope of this paper. <p> Multilevel Inclusion Violation: We must point out that holding data in the NTS structure can lead to possible violations of multilevel inclusion (if it is desired to enforce this property) <ref> [1] </ref> as, for example, all of the blocks in the NT buffer and the main cache that map to the same set in the second-level cache may not fit in that set.
+References-found: 1
+

@@ -1,0 +1,25 @@
+URL: ftp://ftp.cs.wpi.edu/pub/techreports/93-3.ps.gz
+Refering-URL: http://cs.wpi.edu/Resources/techreports/index.html
+Root-URL: 
+Title: Music Related Computer Science MQP's  
+Author: by Roy S. Rubinstein 
+Address: 100 Institute Road, Worcester, Massachusetts 01609-2280  
+Affiliation: WORCESTER POLYTECHNIC INSTITUTE Computer Science Department  
+Date: July 1993  
+Pubnum: WPI-CS-TR-93-3  
+Abstract: Computer Science Technical Report Series 
+Abstract-found: 1
+Intro-found: 1
+Reference: [Cab93] <author> Benjamin "Quincy" Cabell. </author> <title> Computer-aided harmony. Independent study re-port, 1993. Not yet written. </title>
+Reference: [CK93] <author> C. Brian Candiloro and Jonathan Kemble. MIDImapper: </author> <title> A multiport MIDI router. </title> <institution> Worcester Polytechnic Institute MQP Report RSR-9204, </institution> <year> 1993. </year>
+Reference: [DMS94] <author> Anthony Defusco, Robert Martino, and Daniel Steffann. </author> <title> A universal patch editor/librarian. </title> <institution> Worcester Polytechnic Institute MQP Report RSR-9305, </institution> <year> 1994. </year> <title> Not yet written. </title>
+Reference: [GSZ93] <author> Carlos Gonzalez, Elizabeth Stewart, and Michael Zarozinski. PRIMA: </author> <title> Translation of MIDI files to sheet music. </title> <institution> Worcester Polytechnic Institute MQP Report RSR-9203, </institution> <year> 1993. </year>
+Reference: [Kin93] <author> Brian King. </author> <title> RAGE MIDI guitar signal processor. </title> <institution> Worcester Polytechnic Institute MQP Report RSR-9301, </institution> <year> 1993. </year>
+Reference: [Mer91] <author> Kathy Johnson Merck. </author> <title> An expert system to generate musical variations in the style of Telemann. </title> <type> Master's thesis, </type> <institution> Rochester Institute of Technology, </institution> <year> 1991. </year>
+Reference-contexts: These programs work completely and properly as specified. An instructor in our department for her Masters thesis wrote an expert system that produces variations in the style of Telemann <ref> [Mer91] </ref>. The output (as well as the input) for this system is a unique system that consists of triples, each representing a chord, a rhythm and a note. Without an enormous amount of practice, this is virtually unreadable.
+Reference: [MID90] <editor> MIDI 1.0 detailed specification. </editor> <booktitle> The International MIDI Association, </booktitle> <year> 1990. </year>
+Reference-contexts: There are many projects in computer music that fulfill many of the above goals very well. Some of these will be described later in this paper. 3 Introduction to MIDI The Musical Instrument Digital Interface (MIDI) standard <ref> [MID90] </ref> is today's standard for communication between digital musical instruments. It includes standards for real- time communication between instruments as well as file formats for storing musical information.
+Reference: [Sei93] <author> Richard Seiffert. </author> <title> A Windows MIDI sequencer. </title> <institution> Worcester Polytechnic Institute MQP Report RSR-9303, </institution> <year> 1993. </year> <title> Not yet written. </title>
+Reference: [Szy93] <author> Paul Szymkiewicz. </author> <title> Sheet music and MIDI file format for an expert system. </title> <institution> Worcester Polytechnic Institute MQP Report RSR-9206, </institution> <year> 1993. </year> <month> 15 </month>
+References-found: 9
+

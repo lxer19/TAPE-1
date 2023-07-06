@@ -1,0 +1,22 @@
+URL: http://www.dcs.ex.ac.uk/~antony/papers/lfm.ps.gz
+Refering-URL: http://www.dcs.ex.ac.uk/~antony/abstracts/lfm.html
+Root-URL: http://www.dcs.ex.ac.uk
+Title: Logic as a Formal Method  
+Author: Antony Galton 
+Date: June 25, 1997  
+Address: Exeter EX4 4PT  
+Affiliation: Department of Computer Science University of Exeter  
+Abstract-found: 0
+Intro-found: 1
+Reference: <author> Roland C. </author> <title> Backhouse (1986), Program Construction and Verification. </title> <address> Englewood Cliffs, NJ: </address> <publisher> Prentice-Hall International. </publisher> <editor> Howard Barringer (1987), </editor> <title> `The Use of Temporal Logic in the Compositional Specification of Concurrent Systems', </title> <booktitle> in Galton (1987). </booktitle>
+Reference: <author> M. Ben-Ari, A. Pnueli, and Z. </author> <title> Manna (1981), `The Temporal Logic of Branching Time', </title> <booktitle> Proceedings of the 8th ACM Symposium on Principles of Programming Languages. </booktitle>
+Reference: <author> Brian F. </author> <title> Chellas (1980), Modal Logic: An Introduction. </title> <publisher> Cambridge: Cambridge University Press. </publisher>
+Reference: <author> Edsger W. </author> <title> Dijkstra (1976), A Discipline of Programming. </title> <address> Englewood Cliffs, NJ: </address> <publisher> Prentice-Hall. </publisher> <editor> Antoni Diller (1990), </editor> <title> Z: An Introduction to Formal Methods. </title> <address> Chichester: </address> <publisher> John Wiley and Sons. </publisher>
+Reference: <author> Michael Dummett (1977), </author> <title> Elements of Intuitionism. </title> <publisher> Oxford: Oxford University Press. </publisher> <editor> David Etherington (1988), </editor> <title> Reasoning with Incomplete Information. </title> <address> Los Altos, CA: </address> <publisher> Morgan Kaufman. </publisher> <editor> Marta Fra nov a (1988), </editor> <title> Fundamentals of a New Methodology for Program Synthesis from Formal Specifications: CM-construction of Atomic Formulae, </title> <type> Ph.D. Thesis, </type> <institution> Universit e de Paris-Sud, Orsay. </institution> <month> Antony Galton </month> <year> (1987), </year> <title> Temporal Logics and their Applications, </title> <publisher> London: Academic Press. </publisher> <editor> Robert Goldblatt (1987), </editor> <title> Logics of Time and Computation, Stanford CA: Center for the Study of Language and Information. </title>
+Reference: <author> David Harel (1984), </author> <title> `Dynamic Logic', </title> <editor> in D. Gabbay and F. Guenthner (eds.), </editor> <booktitle> Handbook of Philosophical Logic, Volume II. </booktitle> <address> Dordrecht: D. </address> <publisher> Reidel. </publisher>
+Reference: <author> C. A. R. </author> <title> Hoare (1969), `An Axiomatic Basis for Computer Programming', </title> <journal> Communications of the ACM, </journal> <volume> Vol. 12, </volume> <pages> pp. 576-583. </pages> <editor> Christopher Hogger (1990), </editor> <booktitle> Essentials of Logic Programming. </booktitle> <publisher> Oxford: Clarendon Press. </publisher>
+Reference: <author> G. E. Hughes and M. J. Cresswell, </author> <title> An Introduction to Modal Logic, </title> <publisher> Methuen. </publisher>
+Reference: <author> G. E. Hughes and M. J. Cresswell, </author> <title> A Companion to Modal Logic, </title> <publisher> Methuen. </publisher>
+Reference: <author> Cliff B. </author> <title> Jones (1986), Systematic Software Development Using VDM. </title> <address> Englewood Cliffs, NJ: </address> <note> Prentice-Hall International. </note> <author> Zohar Manna and Richard Waldinger (1980), </author> <title> `A Deductive Approach to Program Synthesis', </title> <journal> ACM Transactions on Programming Languages and Systems, </journal> <volume> Vol. 2, </volume> <pages> pp. 90-121. </pages> <note> 19 P. Martin-L of (1985), `Constructive Mathematics and Computer Programming', </note> <editor> in C. A. R. Hoare and J. C. Shepherdson (eds.), </editor> <booktitle> Mathematical Logic and Programming Languages, </booktitle> <publisher> Prentice-Hall. </publisher> <editor> Leon Sterling and Ehud Shapiro (1986), </editor> <booktitle> The Art of Prolog: Advanced Programming Techniques. </booktitle> <address> Cambridge, Mass.: </address> <publisher> MIT Press. </publisher> <pages> 20 </pages>
+References-found: 10
+

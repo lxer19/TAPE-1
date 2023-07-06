@@ -1,0 +1,13 @@
+URL: ftp://ftp.cs.unc.edu/pub/users/sc/COMP140-F95/L1995-11-14.PS.Z
+Refering-URL: http://www.cs.unc.edu/~sc/teaching/COMP140-F1995/lectures.html
+Root-URL: http://www.cs.unc.edu
+Title: COMP 140: Introduction to Translator Systems Assembly (Lecture 2 of 2) 1 Bit mangling: the
+Author: Siddhartha Chatterjee 
+Keyword: struct I_type_instr unsigned op:6; unsigned rs:5; unsigned rt:5,  struct J_type_instr unsigned op:6;  struct R_type_instr unsigned op:6; unsigned rs:5; unsigned rt:5; unsigned rd:5; int sa:5; unsigned fn:6;  
+Note: int imm:16; The J-type instruction looks like this.  int target:26; The R-type instruction looks like this.  The various fields are interpreted as follows.  
+Date: 14 November 1995  
+Abstract: Once we have read an assembly language instruction and identified its various fields, we need to encode those fields into the appropriate bit fields of the machine instruction so that the hardware can execute the instruction. The details of the encoding of CPU instructions is a very machine-specific detail. We will study the details for the MIPS architecture. Each CPU instruction of the MIPS consists of a single 32-bit word aligned on a word boundary. (That is, its byte address is a multiple of 4.) There are three instruction formats, called the I-type (immediate), J-type (jump), and R-type (register). We will use C bitfields to represent these three instruction formats. The I-type instruction looks like this. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

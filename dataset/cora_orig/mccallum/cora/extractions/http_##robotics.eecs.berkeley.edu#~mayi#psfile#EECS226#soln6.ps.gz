@@ -1,0 +1,14 @@
+URL: http://robotics.eecs.berkeley.edu/~mayi/psfile/EECS226/soln6.ps.gz
+Refering-URL: http://robotics.eecs.berkeley.edu/~mayi/EECS226.html
+Root-URL: http://www.cs.berkeley.edu
+Title: Homework Six Solutions E[( X A Y X A Y T tr(K X tr(AK Y
+Author: f (A Bffit) tr(A K Y (A T tr(BK Y B T )ffit X(~) sign( h T 
+Note: E[k X A Y k 2 tr  Y since K Y is invertible.  infinitesimal  If B 6= 0, tr(BK Y B T &gt; 0 since K Y is  (a) The maximal-ratio combiner for X is (refer to the corresponding midterm problem  
+Date: Fall 1997  
+Address: 226A UC Berkeley,  
+Affiliation: EECS  
+Abstract: 1. In class, we proved A fl is the global minimum when ~ X and ~ Y are jointly Gaussian, i.e. the estimate ^ X = A fl ~ Y actually minimizes the mean square error. Here you are required to show it is at least a local minimum for the general case. Using tr(Q) to denote the trace of a matrix Q. Then @~a T = I, we have @f(A) = 0 , 2AK Y 2K XY = 0 Y is a candidate for local minimum. We still have to check the ulation results according to these analysis. If you do both analytical and experimental work and get consistent results, you would receive some bonus points. second order derivative. For any matrix B with the same dimensions as A, take the
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

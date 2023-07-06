@@ -1,0 +1,22 @@
+URL: ftp://ftp.cs.rochester.edu/pub/papers/ai/96.tn6.Lymphocyte_pattern_matching_engine.ps.gz
+Refering-URL: http://www.cs.rochester.edu/trs/ai-trs.html
+Root-URL: 
+Email: miller@mcc.com 1  
+Title: The Lymphocyte Pattern Matching Engine  
+Author: Bradford W. Miller 
+Date: 96-6  
+Address: Rochester, NY 14627  
+Affiliation: The University of Rochester Computer Science Department  
+Pubnum: TRAINS Technical Note  
+Abstract:  
+Abstract-found: 1
+Intro-found: 1
+Reference: [Allen et al, 1995] <author> James F. Allen, George Ferguson, Brad Miller, Eric Ringger, </author> <title> Spoken Dialogue and Interactive Planning, </title> <booktitle> ARPA Spoken Language Technology Workshop, </booktitle> <address> Austin TX, </address> <year> 1995 </year>
+Reference: [Allen et al, 1996] <author> James F. Allen, Bradford W. Miller, Eric K. Ringger, Teresa Sikorski, </author> <title> A Robust System for Natural Dialogue, </title> <booktitle> in Proc. 34th Annual Meeting of the Association for Computational Linguistics (ACL-96), </booktitle> <address> Santa Cruz, </address> <month> 24-28 June </month> <year> 1996 </year>
+Reference: [Miller 1997] <author> Bradford W. Miller, </author> <title> The TRAINS-96 Discourse Manager, </title> <note> TRAINS Tech Note, In preparation. </note>
+Reference: [Norvig 1992] <author> Peter Norvig, </author> <title> Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp Morgan Kaufmann, </title> <note> 1992. ISBN 1-55860-191-0 </note>
+Reference-contexts: A matcher. A matcher is that part of the rule that will match the input. It uses typed unification, in a regular expression style grammar. It is similar to the pattern matcher from <ref> [Norvig 1992] </ref> (section 6.2), but is extended to handle types directly on the variable tokens.
+Reference: [Steele 1990] <author> Guy L. Steele Jr., </author> <title> Common Lisp the Language 2/e Digital Press, </title> <note> 1990. ISBN 1-55558-041-6 </note>
+Reference-contexts: Arguments may also be accessed by name; again, these must be regularized if class level access is expected. 11 Note that we currently use Norvigs matcher out of the box; so predicates that violate the design spec of noside-effects will actually work, but are an error (in the terminology of <ref> [Steele 1990] </ref>). Lymphocyte Pattern Matching Engine 8 Optionally, a constant or function to determine the rule cost, which is calculated before the input is matched (i.e. the dynamic environment under which the rule will be matched is fixed, but the rule itself is unknown).
+References-found: 5
+

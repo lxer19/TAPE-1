@@ -1,0 +1,24 @@
+URL: http://www.cacs.usl.edu/Departments/CACS/Publications/Raghavan/RSD94.ps.Z
+Refering-URL: http://www.cacs.usl.edu/~raghavan/raghavan-1.html
+Root-URL: http://www.cacs.usl.edu/~raghavan/raghavan-1.html
+Title: A System Architecture for Database Mining Applications  
+Author: Vijay V. Raghavan , Hayri Sever Jitender S. Deogun and 
+Address: Lafayette, LA 70504, USA  Lincoln, NE 68588, USA  
+Affiliation: The Center for Advanced Computer Studies 1 University of Southwestern Louisiana  The Department Computer Science 2 University of Nebraska  
+Abstract: The problem of enhancing a database management system(DBMS) to support mining applications is twofold. First DBMSs of today have limited functionality for supporting mining applications. Second scaling traditional knowledge discovery techniques for large data sets is not straight forward. Our goal is to propose a system architecture for future DBMSs that incorporate interactive modules for database mining. The novelty of our approach is to study how the concept-based retrieval, relevance feedback, and information dissemination techniques used in intelligent information retrieval systems(IIRSs) relate to each other and to apply the result of this study to the database mining problem. Specifically we emphasize the ways to reuse the knowledge obtained from previous queries. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> R. Agrawal and et al., </author> <title> "An Interval Classifier for Database Mining Applications" in Proc. </title> <booktitle> of the 18th VLDB conf., </booktitle> <address> Vancouver, British Columbia, Canada 1992, </address> <pages> pp. 560-573. </pages>
+Reference: [2] <author> N. J. Belkin and W. B. Croft, </author> <title> "Information Filtering and Information Retrieval: Two Sides of the Same coin?" Comm. </title> <journal> of ACM, </journal> <volume> Vol. 35, No. 12, </volume> <month> December </month> <year> 1992, </year> <pages> pp. 29-39. </pages>
+Reference: [3] <author> S. K. Bhatia, J. S. Deogun and V. V. Raghavan, </author> <title> "Automatic Rule-Base Generation for User-oriented Information Retrieval," </title> <booktitle> in Proc. of the Fifth Int'l. Symposium on Methodologies for Intelligent Systems, </booktitle> <address> Knoxville, TN, </address> <month> Oct. </month> <year> 1990, </year> <pages> pp. 118-125. </pages>
+Reference: [4] <author> J. S. Deogun and V. V. Raghavan, </author> <title> "Description of the UNL/USL System used for MUC-3," </title> <booktitle> in Proc. of DARPA's 3rd Message Understanding Conference (MUC-3), </booktitle> <publisher> Morgan-Kauffmann Pub., </publisher> <address> San Diego, CA, </address> <month> May </month> <year> 1991, </year> <pages> pp. 234-242. </pages>
+Reference: [5] <author> P. Hayes and S. Weinstein, "CONSTRUE/TIS: </author> <title> a system for content-based indexing of a database of news stories," </title> <booktitle> Second Annual Conf. on Innovative Applications of Artificial Intelligence, </booktitle> <year> 1990. </year>
+Reference: [6] <author> R. Krishnamurty and T. Imielinski, </author> <title> "Research Directions in Knowledge Discovery," </title> <booktitle> SIGMOD RECORD, </booktitle> <volume> Vol. 20, No. 3, </volume> <month> September </month> <year> 1991, </year> <pages> pp. 76-78. </pages>
+Reference: [7] <author> B.P. McCune, R. M. Tong, J. S. Dean, and D. G. Shapiro, "RUBRIC: </author> <title> A system for rule-based information retrieval," </title> <journal> IEEE Trans. Software Engineering, </journal> <volume> Vol. SE-11, No. 9, </volume> <year> 1985, </year> <pages> pp. 939-945. </pages>
+Reference: [8] <author> A. Motro and S. </author> <title> Goullioud ,"Database Knowledge Organization to Support Browsing and Discovery," </title> <type> private communication. </type>
+Reference: [9] <editor> G. Piatetsky-Sapiro (Editor), </editor> <title> "Knowledge Discovery in Databases," </title> <publisher> AAAI/MIT Press, </publisher> <year> 1991. </year> <month> 11 </month>
+Reference: [10] <author> G. Salton, </author> <title> "Developments in Automatic Information Retrieval," </title> <journal> Science, </journal> <volume> Vol. 253, </volume> <month> August </month> <year> 1991, </year> <pages> pp. 974-980. </pages>
+Reference: [11] <author> K. L. Wu, P. S. Yu, and C. Pu, </author> <title> "Divergence Control for Epsilon Serializability," </title> <booktitle> in Proc. of Eighth Int'l Conf. Data Engineering, </booktitle> <publisher> CS Press, </publisher> <address> Los Alimitos, California, </address> <year> 1992. </year>
+Reference: [12] <author> Y. Zhang, V. V. Raghavan and J. S. Deogun, </author> <title> "An ObjectOriented Modeling of History of Optimal Retrievals," </title> <booktitle> Proc. of the 14th Int'l. ACM-SIGIR Conf. on Research and Development in Information Retrieval, </booktitle> <address> Chicago, IL, </address> <month> Oct </month> <year> 1991, </year> <pages> pp. 241-250. </pages>
+References-found: 12
+

@@ -1,0 +1,29 @@
+URL: http://www.cs.unc.edu/~stuerzl/papers/pcloud.ps.gz
+Refering-URL: http://www.cs.unc.edu/~stuerzl/publications.html
+Root-URL: http://www.cs.unc.edu
+Email: Internet: stuerzlinger@gup.uni-linz.ac.at  
+Phone: Tel.: +43 732 2468 9228, Fax: +43 732 2468 9496  
+Title: Bounding Volume Construction using Point Clouds  
+Author: Wolfgang Strzlinger 
+Keyword: Key Words: bounding volume, bounding volume hierarchy, convex hull, ray tracing.  
+Address: Altenbergerstrae 69, A-4040 Linz, Austria/Europe  
+Affiliation: GUP, Johannes Kepler University Linz  
+Abstract: Bounding volumes are used to optimize many graphic algorithms. They permit to decide quickly if a more exact test is likely to succeed or not. The exact test is only applied if the bounding volume test succeeds, which saves time in most cases. Two of the most prominent applications are ray tracing and collision detection. This paper presents a new method to calculate tight bounding volumes for primitives under arbitrary transformations and hierarchical scene descriptions. An optimized form of storing a convex hull is presented which allows efficient calculation of the bounding volume type used for later processing. Results are shown for the ray tracing of cyclic CSG-graphs used to render plants and other natural phenomena. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [BDH93] <author> C. Barber, D. Dobkin, H. Huhdanpaa, </author> <title> The Quickhull Algorithm for Convex Hull, </title> <type> Geometry Center Technical Report GCG53, </type> <institution> Univ. of Minnesota, MN, </institution> <year> 1993. </year>
+Reference: [BS93] <author> W. Barth, W. Strzlinger, </author> <title> Efficient Ray Tracing for Bezier and B-Spline Surfaces, </title> <journal> Computers & Graphics, </journal> <volume> vol. 17, no. 4, </volume> <pages> pp. 423-430, </pages> <month> July </month> <year> 1993. </year> <title> Table 2: Statistics for improved ower cyclic CSG-graph setup time (sec) rendering time (sec) max. memory usage (kB) without PC 1 4166 164 with PC 75 940 283 Fig. 4: Example image </title>
+Reference: [Gl89] <author> A. Glassner, </author> <title> An Introduction to Ray Tracing, </title> <publisher> Academic Press, </publisher> <address> San Diego, CA, </address> <year> 1989. </year>
+Reference: [GT96] <author> M. Gervautz, C. Traxler, </author> <title> Representation and Realistic Rendering of Natural Phenomena with Cyclic CSG-Graphs, </title> <note> to appear in Visual Computer. </note>
+Reference: [KK86] <author> T. Kay, J. Kajiya, </author> <title> Ray Tracing complex scenes, </title> <journal> Computer Graphics (SIG-GRAPH 86), </journal> <volume> vol. 20, no. 4, </volume> <pages> pp. 269-278, </pages> <year> 1986. </year>
+Reference: [Or94] <author> J. ORourke, </author> <title> Computational Geometry in C, </title> <publisher> Cambridge University Press, </publisher> <address> Cambridge, UK, </address> <year> 1994. </year>
+Reference: [PS85] <author> F. Preparata, M. Shamos, </author> <title> Computational Geometry: An Introduction, </title> <publisher> Springer Verlag, </publisher> <address> New York, </address> <year> 1985. </year>
+Reference: [Ra94] <author> R. Rabbitz, </author> <title> Fast Collision detection of Moving Convex Polyhedra, in Graphics Gems IV, edited by P. </title> <publisher> Heckbert, Academic Press, </publisher> <pages> pp. 83-109, </pages> <year> 1994. </year>
+Reference-contexts: A threshold used to limit the growth of the PCs can be used to tune relative performance of the PC construction and the CH algorithm. Other possible applications of this new method include the optimization of collision detection algorithms <ref> [Ra94] </ref> and the use in animation systems.
+Reference: [Ri90] <author> J. Ritter, </author> <title> An Efficient Bounding Sphere, in Graphics Gems, edited by A. </title> <publisher> Glassner, Academic Press, </publisher> <pages> pp. 301-303, </pages> <year> 1990. </year>
+Reference: [STS93] <author> W. Strzlinger, R. Tobler, M. Schindler, </author> <title> FLIRT - Faster than Light Ray Tracer, </title> <type> Technical Report, </type> <institution> Institut fr Computergraphik, Technical University of Vienna, </institution> <month> Aug. </month> <year> 1993. </year>
+Reference: [Tr92] <author> B. Trumbore, </author> <title> Rectangular Bounding Volumes for Popular Primitives, in Graphics Gems III, edited by D. Kirk, </title> <publisher> Academic Press, </publisher> <pages> pp. 295-300, </pages> <year> 1992. </year>
+Reference: [TG95] <author> C. Traxler, M. Gervautz, </author> <title> Calculation of Tight Bounding Volumes for Cyclic CSG-Graphs, </title> <booktitle> Proceedings of Spring Conference on Computer Graphics (Bratislava, </booktitle> <publisher> SV), </publisher> <pages> pp. </pages> <address> AP40-49, </address> <year> 1995. </year>
+Reference: [Wu92] <author> X. Wu, </author> <title> A Linear-Time Simple Bounding Volume Algorithm, in Graphics Gems III, edited by D. Kirk, </title> <publisher> Academic Press, </publisher> <pages> pp. 301-306, </pages> <year> 1992. </year>
+References-found: 13
+

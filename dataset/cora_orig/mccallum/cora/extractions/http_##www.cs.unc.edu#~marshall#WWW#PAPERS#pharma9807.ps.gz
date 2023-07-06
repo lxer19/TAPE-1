@@ -1,0 +1,15 @@
+URL: http://www.cs.unc.edu/~marshall/WWW/PAPERS/pharma9807.ps.gz
+Refering-URL: http://www.cs.unc.edu/~marshall/WWW/index.html
+Root-URL: http://www.cs.unc.edu
+Email: e-mail kalarick@cs.unc.edu, marshall@cs.unc.edu  
+Phone: Phone 919-962-1954.  
+Title: Plasticity in cortical neuron properties: Modeling the effects of an NMDA antagonist and a GABA
+Author: George J. Kalarickal Jonathan A. Marshall 
+Date: [July 1998]  
+Address: 3175, Sitterson Hall  Chapel Hill, NC 27599-3175, U.S.A.  
+Affiliation: Department of Computer Science, CB  University of North Carolina,  
+Abstract: Infusion of a GABA agonist (Reiter & Stryker, 1988) and infusion of an NMDA receptor antagonist (Bear et al., 1990), in the primary visual cortex of kittens during monocular deprivation, shifts ocular dominance toward the closed eye, in the cortical region near the infusion site. This reverse ocular dominance shift has been previously modeled by variants of a covariance synaptic plasticity rule (Bear et al., 1990; Clothiaux et al., 1991; Miller et al., 1989; Reiter & Stryker, 1988). Kasamatsu et al. (1997, 1998) showed that infusion of an NMDA receptor antagonist in adult cat primary visual cortex changes ocular dominance distribution, reduces binocularity, and reduces orientation and direction selectivity. This paper presents a novel account of the effects of these pharmacological treatments, based on the EXIN synaptic plasticity rules (Marshall, 1995), which include both an instar afferent excitatory and an outstar lateral inhibitory rule. Functionally, the EXIN plasticity rules enhance the efficiency, discrimination, and context-sensitivity of a neural network's representation of perceptual patterns (Marshall, 1995; Marshall & Gupta, 1998). The EXIN model decreases lateral inhibition from neurons outside the infusion site (control regions) to neurons inside the infusion region, during monocular deprivation. In the model, plasticity in afferent pathways to neurons affected by the pharmacological treatments is assumed to be blocked , as opposed to previous models (Bear et al., 1990; Miller et al., 1989; Reiter & Stryker, 1988), in which afferent pathways from the open eye to neurons in the infusion region are weakened . The proposed model is consistent with results suggesting that long-term plasticity can be blocked by NMDA antagonists or by postsynaptic hyperpolarization (Bear et al., 1990; Dudek & Bear, 1992; Goda & Stevens, 1996; Kirkwood et al., 1993). Since the role of plasticity in lateral inhibitory pathways in producing cortical plasticity has not received much attention, several predictions are made based on the EXIN lateral inhibitory plasticity rule. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

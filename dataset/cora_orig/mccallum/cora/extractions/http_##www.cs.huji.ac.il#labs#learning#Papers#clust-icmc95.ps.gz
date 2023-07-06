@@ -1,0 +1,12 @@
+URL: http://www.cs.huji.ac.il/labs/learning/Papers/clust-icmc95.ps.gz
+Refering-URL: http://www.cs.huji.ac.il/labs/learning/Papers/NNC_list.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: Clustering of Musical Sounds using Polyspectral Distance Measures.  
+Author: Shlomo Dubnov and Naftali Tishby 
+Address: Jerusalem 91904, Israel  
+Affiliation: Institute for Computer Science and Center for Neural Computation Hebrew University,  
+Abstract: This paper describes a hierarchical clustering of musical signals based on information derived from spectral and bispectral acoustic distortion measures. This clustering reveals the ultra metric structure that exists in the set of sounds, with a clear interpretation of the distances between the sounds as the statistical divergence between the sound models. Spectral, bispectral and combined clustering results are presented. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

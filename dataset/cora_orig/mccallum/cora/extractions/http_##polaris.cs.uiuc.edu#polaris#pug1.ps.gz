@@ -1,0 +1,14 @@
+URL: http://polaris.cs.uiuc.edu/polaris/pug1.ps.gz
+Refering-URL: http://polaris.cs.uiuc.edu/polaris/pug.html
+Root-URL: http://www.cs.uiuc.edu
+Title: Dependence Testing in Polaris  
+Author: Naraig Manjikian 
+Date: May 20, 1995  
+Address: Toronto, Ontario, Canada M5S 1A4  
+Affiliation: Department of Electrical and Computer Engineering University of Toronto  
+Abstract-found: 0
+Intro-found: 1
+Reference: [BEF + 93] <author> B. Blume, R. Eigenmann, K. Faigin, J. Grout, J. Hoeflinger, D. Padua, P. Petersen, B. Pottenger, L. Rauchwerger, P. Tu, and S. Weatherford. </author> <title> Polaris: The Next Generation in Parallelizing Compilers. </title> <type> Tech. Rep. </type> <institution> CSRD-1375, Center for Supercomputing Research and Development, University of Illinois at Urbana-Champaign, </institution> <year> 1993. </year> <month> 15 </month>
+Reference-contexts: 1 Introduction The Polaris compiler <ref> [BEF + 93] </ref> includes a modular dependence testing framework. The underlying philosophy of the Polaris dependence testing approach is one of applying filters on possible dependence arcs to determine whether a dependence exists or not.
+References-found: 1
+

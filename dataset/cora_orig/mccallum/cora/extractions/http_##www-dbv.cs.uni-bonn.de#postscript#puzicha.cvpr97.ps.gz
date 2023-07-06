@@ -1,0 +1,13 @@
+URL: http://www-dbv.cs.uni-bonn.de/postscript/puzicha.cvpr97.ps.gz
+Refering-URL: 
+Root-URL: 
+Title: Nonparametric Similarity Measures for Unsupervised Texture Segmentation and Image Retrieval  
+Author: Jan Puzicha Thomas Hofmann Joachim M. Buhmann 
+Web: http://www-dbv.cs.uni-bonn.de  
+Address: Romerstrae 164, D53117 Bonn, Germany  
+Affiliation: Institut fur Informatik III, University of Bonn  
+Abstract: In this paper we propose and examine nonparametric statistical tests to define similarity and homogeneity measures for textures. The statistical tests are applied to the coefficients of images filtered by a multiscale Gabor filter bank. We will demonstrate that these similarity measures are useful for both, texture based image retrieval and for unsupervised texture segmentation, and hence offer an unified approach to these closely related tasks. We present results on Brodatzlike microtextures and a collection of realword images. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

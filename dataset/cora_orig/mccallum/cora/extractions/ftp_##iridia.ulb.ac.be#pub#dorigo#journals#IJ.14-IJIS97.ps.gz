@@ -1,0 +1,16 @@
+URL: ftp://iridia.ulb.ac.be/pub/dorigo/journals/IJ.14-IJIS97.ps.gz
+Refering-URL: http://iridia.ulb.ac.be/dorigo/pub_x_subj.html
+Root-URL: 
+Email: caironi@elet.polimi.it  mdorigo@ulb.ac.be,  
+Title: Caironi and Dorigo Training and Delayed Reinforcements in Q-Learning Agents 1/33 Training and Delayed Reinforcements
+Author: Pierguido V. C. Caironi Marco Dorigo 
+Note: algorithms (AB-LEC and BB-LEC) described in the literature 1 which also make  Accepted for publication in International Journal of Intelligent Systems, 1997. In press.  
+Web: http://iridia.ulb.ac.be/dorigo/dorigo.html  
+Address: Belgium  Milano, Piazza Leonardo da Vinci 32, 20133 Milano, Italy  Bruxelles, Avenue Franklin Roosevelt 50, CP 194/6, 1050 Bruxelles, Belgium  
+Affiliation: Universit Libre de Bruxelles  Progetto di Intelligenza Artificiale e Robotica, Dipartimento di Elettronica e Informazione, Politecnico di  IRIDIA, Universit Libre de  
+Pubnum: TR/IRIDIA/1994-14  
+Abstract: Q-learning can greatly improve its convergence speed if helped by immediate reinforcements provided by a trainer able to judge the usefulness of actions as stage setting with respect to the goal of the agent. This paper experimentally investigates this hypothesis studying the integration of immediate reinforcements (also called training reinforcements) with standard delayed reinforcements (namely, reinforcements assigned only when the agent-environment relationship reaches a peculiar state, such as when the agent reaches a target). The paper proposes two new algorithms (TL and MTL) able to exploit even locally wrong and misleading training reinforcements. The proposed algorithms are tested against Q-learning and other 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

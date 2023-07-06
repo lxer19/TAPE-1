@@ -1,0 +1,17 @@
+URL: http://guava.physics.uiuc.edu/~nigel/courses/464/essay/sankar.ps.gz
+Refering-URL: http://guava.physics.uiuc.edu/~nigel/courses/464/
+Root-URL: http://www.cs.uiuc.edu
+Title: Spin Glasses  
+Author: Prasanth Sankar 
+Date: June 4, 1998  
+Address: Urbana, Illinois 61801  
+Affiliation: Department of Physics, University of Illinois at Urbana-Champaign,  
+Abstract: The understanding of random magnetic systems known as spin glass has been one of the major challenges in condensed matter physics over that past two decades. Study of this state can be thought of as a first step towards understanding more complex and disordered systems.This paper reviews some of the theoretical developmets in this field and tries to answer the question how well are these systems understood.Some of the experi mental properties and a theoretical definition of these system are introduced followed by a review of theoretical models.Emphasis is on meanfield theories and the statistical formulations needed to understand these systems.Some dynamical models and the applications of RG group and simulation methods follow this.The paper ends with the application of SG models to related systems in Physics and other fields especially biological systems. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [2] <institution> A nice review of ergodicity breaking is given in Palmer,R.G(1982) advances in Physics 31,669 </institution>
+Reference-contexts: nonunique.Note that eventhough H eff (n) is invariant under permutations of the indices of the replicas,as long as n is a positive integer,it is not obvious that the symmetry is preserved under the limit n ! 0.This breaking of symmetry is known as replica symmetry breaking. 7 4.1.2 Ergodicity breaking <ref> [2] </ref> For spin glasses ergodicity is broken.Macroscopic irreversibilty evident as hysteresis, remanence and history dependence points to ergodicity breaking.And it should be noted that the different states (macroscopic) or phase space regions are not related by a symmetry of the Hamiltonian.They appear because of the accidental degeneracy arising out of the <p> Here a classical ising hamiltonian is used and mean field theory is used to determine the order parameter defined by q EA (t) = [&lt; S i (t)S i (0) &gt;] avg (16) .They replaced q EA (t)by its long time limit q EA = <ref> [&lt; S i &gt; 2 ] </ref> avg and determined q and other thermodynamic functions using a mean field theory.Eventhough they could predict the cusp in susceptibilty quantitative agreement with experiments were far from being corrct.This was atributed to the inadequacy of the mean field theory that they used rarther than to
+Reference: [3] <institution> Weissman,M.B Rev. Mod. Phys. </institution> <address> (1993)65 829-39 16 </address>
+Reference-contexts: a dynamic critical phenomina and more developements in that field is going to give us a better understanding of SG.The dynamical theories of 15 short ranged models are hoped to reproduce the behaviour of real systems.Another interesting point to mention is the application of 1/f noise measurements done by Weissman <ref> [3] </ref> etc which confirmed the presence of Parisi like scheme of energy levels in spin glass.Present papers on this field concentrates more on the application of RG and simulation methods to Ising and non ising models and some papers are trying to take into consideration the quantum effects.(There is a tendency
+References-found: 2
+

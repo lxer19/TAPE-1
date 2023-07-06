@@ -1,0 +1,22 @@
+URL: ftp://ftp.cs.columbia.edu/reports/reports-1991/cucs-016-91.ps.gz
+Refering-URL: http://www.cs.columbia.edu/~library/1991.html
+Root-URL: http://www.cs.columbia.edu
+Note: Figure 5 29  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> R. Agrawal, A. Borgida, and H. V. Jagadish, </author> <title> "Efficient management of transitive relationships in large data and knowledge bases", </title> <booktitle> Proc. ACM-SIGMOD Int. Conf. on Management of Data, </booktitle> <year> 1989. </year>
+Reference: [2] <author> A. V. Aho, J. E. Hopcroft, and J. D. Ullman, </author> <title> The Design and Analysis of Computer Algorithms, </title> <publisher> Addison-Wesley, </publisher> <address> Reading, MA, </address> <year> 1974. </year>
+Reference: [3] <author> B. Alpern, R. Hoover, B. Rosen, P. Sweeney, and F. K. Zadeck, </author> <title> "Incremental evaluation of computational circuits", </title> <booktitle> Proc. 1st Annual ACM-SIAM Symp. on Discrete Algorithms, </booktitle> <year> 1990, </year> <pages> 32-42. </pages>
+Reference: [4] <author> G. Ausiello, G. F. </author> <title> Italiano, "On-line algorithms for polynomially solvable satisfiability problems", </title> <journal> J. of Logic Programming, </journal> <volume> vol. 10, </volume> <editor> n. </editor> <month> 1 </month> <year> (1991), </year> <pages> 69-90. </pages>
+Reference: [5] <author> G. Ausiello, G. F. Italiano, A. Marchetti Spaccamela, U. Nanni, </author> <title> "Incremental algorithms for minimal length paths", </title> <booktitle> Proc. 1st Annual ACM-SIAM Symp. on Discrete Algorithms, </booktitle> <year> 1990, </year> <pages> 12-21. </pages> <note> A journal version to appear in J. Algorithms. </note>
+Reference: [6] <author> G. Ausiello, A. Marchetti Spaccamela, and U. Nanni, </author> <title> "Dynamic maintenance of paths and path expressions in graphs", </title> <booktitle> Proc. Int. Symp. on Symbolic and Algebraic Computation, Lecture Notes in Computer Science 358, </booktitle> <publisher> Springer-Verlag, </publisher> <address> Berlin, </address> <year> 1989, </year> <pages> 1-12. </pages>
+Reference: [7] <author> B. Awerbuch, and Y. Shiloach, </author> <title> "New connectivity and MSF algorithms for shu*e-exchange networks and PRAM", </title> <journal> IEEE Trans. on Computers, </journal> <volume> C-36 (1987), </volume> <pages> 1258-1263. </pages>
+Reference: [8] <author> A. L. Buchsbaum, P. C. Kanellakis, and J. S. Vitter, </author> <title> "A data structure for arc insertion and regular path finding", </title> <booktitle> Proc. 1st Annual ACM-SIAM Symp. on Discrete Algorithms, </booktitle> <year> 1990, </year> <pages> 22-31. </pages>
+Reference: [9] <author> M. Burke, and B. G. Ryder, </author> <title> "Incremental iterative data flow analysis algorithms", </title> <type> Technical Report LCSR-TR-96, </type> <institution> Department of Computer Science, Rutgers University, </institution> <year> 1987. </year>
+Reference: [10] <author> M. D. Carrol and B. G. Ryder, </author> <title> "Incremental data flow analysis via dominator and attribute updates", </title> <booktitle> Proc. 15th Annual ACM SIGACT-SIGPLAN Symp. on Principles of Programming Languages, </booktitle> <year> 1988, </year> <pages> 274-284. </pages>
+Reference: [11] <author> F. Chin, and D. Houk, </author> <title> "Algorithms for updating minimum spanning trees", </title> <journal> J. Comput. System. Sci. </journal> <volume> 16 (1978), </volume> <pages> 333-344. </pages>
+Reference: [12] <author> R. F. Cohen, and R. Tamassia, </author> <title> "Dynamic expression trees and their applications", </title> <booktitle> Proc. 2nd Annual ACM-SIAM Symp. on Discrete Algorithms, </booktitle> <year> 1991, </year> <pages> 52-61. </pages>
+Reference: [13] <author> G. Di Battista, and R. Tamassia, </author> <title> "Incremental planarity testing", </title> <booktitle> Proc. 30th Annual Symp. on Foundations of Computer Science, </booktitle> <year> 1989, </year> <pages> 436-441. </pages>
+
+References-found: 13
+

@@ -1,0 +1,27 @@
+URL: http://dna.stanford.edu/~cnevill/publications/DCC97.ps.gz
+Refering-URL: http://dna.stanford.edu/~cnevill/resume.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Email: cnevill@stanford.edu  ihw@waikato.ac.nz  
+Phone: (415) 723 5976;  +64 7 8384246;  
+Title: Linear-time, incremental hierarchy inference for compression  
+Author: Craig G. Nevill-Manning Ian H. Witten 
+Address: Stanford, CA 94305-5307  Hamilton, New Zealand  
+Affiliation: Biochemistry, Stanford University,  Computer Science, University of Waikato,  
+Abstract-found: 0
+Intro-found: 1
+Reference: <author> Arnold, R. and Bell, </author> <title> T.C. (1997) A corpus for the evaluation of lossless compression algorithms, </title> <booktitle> Proc. </booktitle>
+Reference: <editor> Data Compression Conference, J.A. Storer and M. Cohn (Eds.), </editor> <publisher> Los Alamitos, </publisher> <address> CA: </address> <publisher> IEEE Press. </publisher>
+Reference: <author> Bell, T.C., Cleary, J.G. and Witten, I.H. </author> <title> (1990) Text Compression. </title> <publisher> Prentice Hall, </publisher> <address> Englewood Cliffs, NJ. </address>
+Reference-contexts: madding crowd, encoding can be performed on average every 14 symbols: the minimum interval is one, which is guaranteed to be the case after the very first symbol has been received, and the maximum interval is 161. 4 Compression in the large The performance of SEQUITUR on the Calgary Corpus <ref> (Bell et al. , 1990) </ref> was measured in 1994 as 2.70 bits/character (Nevill-Manning et al. , 1994), a little better than that of LZFG (Fiala and Green, 1989), the best macro compressor at the time the corpus was created, which rates 2.95 bits/character.
+Reference: <author> Fiala, E.R., Greene, D.H. </author> <title> (1989) Data compression with finite windows, </title> <journal> Communications of the ACM , 32(4), </journal> <volume> 490505. </volume>
+Reference-contexts: the very first symbol has been received, and the maximum interval is 161. 4 Compression in the large The performance of SEQUITUR on the Calgary Corpus (Bell et al. , 1990) was measured in 1994 as 2.70 bits/character (Nevill-Manning et al. , 1994), a little better than that of LZFG <ref> (Fiala and Green, 1989) </ref>, the best macro compressor at the time the corpus was created, which rates 2.95 bits/character. Since then the performance on the corpus of the newer macro compressor gzip has been measured at 2.69 bits/character (see Witten et al., 1994, for a description of gzip).
+Reference: <author> Knuth, D.E. </author> <title> (1973) The art of computer programming 4: searching and sorting. </title> <publisher> Addison-Wesley. </publisher>
+Reference-contexts: Searching the grammar is performed by hash table lookup. Assuming an occupancy less than, say, 80% gives an average lookup time bounded by a constant <ref> (Knuth, 1973) </ref>. This occupancy can be assured if the size of the sequence is known in advance, or by enlarging the table and recreating the entries whenever occupancy exceeds 80%.
+Reference: <author> Moffat, A. </author> <title> (1990) Implementing the P P M data compression scheme. </title> <journal> IEEE Transactions on Communications, </journal> <volume> 38(11): </volume> <pages> 1917-1921. </pages>
+Reference-contexts: Second, we show that a sequence can be compressed incrementally, improving on the non-incremental algorithm that was described by Nevill-Manning et al. (1994), and making online compression feasible. Third, we present an intriguing result that emerged during benchmarking; whereas PPMC <ref> (Moffat, 1990) </ref> outperforms SEQUITUR on most files in the Calgary corpus, S EQUITUR regains the lead when tested on multi-megabyte sequences.
+Reference: <author> Nevill-Manning, C.G., Witten, I.H. & Olsen, D.R. </author> <year> (1996), </year> <title> Compressing semi-structured text using hierarchical phrase identification, </title> <booktitle> Proc. Data Compression Conference , J.A. </booktitle> <editor> Storer and M. Cohn (Eds.), </editor> <publisher> Los Alamitos, </publisher> <address> CA: </address> <publisher> IEEE Press. </publisher>
+Reference: <author> Nevill-Manning, C.G., Witten, I.H. & Maulsby, D.L. </author> <year> (1994), </year> <title> Compression by induction of hierarchical grammars, </title> <booktitle> Proc. Data Compression Conference, </booktitle> <editor> J.A. Storer and M. Cohn (Eds.), </editor> <publisher> Los Alamitos, </publisher> <address> CA: </address> <publisher> IEEE Press. </publisher> <month> 244-253. </month> <title> Nevill-Manning (1996) Inferring Sequential Structure, </title> <type> Doctoral dissertation, </type> <institution> University of Waikato, Hamilton, </institution> <address> New Zealand. </address>
+Reference: <author> Witten, I.H., Moffat, A., and Bell, </author> <title> T.C. (1994) Managing Gigabytes: compressing and indexing documents and images. </title> <address> New York: </address> <publisher> Van Nostrand Reinhold. </publisher>
+Reference-contexts: Since then the performance on the corpus of the newer macro compressor gzip has been measured at 2.69 bits/character <ref> (see Witten et al., 1994, for a description of gzip) </ref>.
+References-found: 9
+

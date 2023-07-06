@@ -1,0 +1,13 @@
+URL: ftp://ftp.cs.unm.edu/pub/forrest/icga95-immune.ps.gz
+Refering-URL: http://www.cs.unm.edu/~forrest/projects.html
+Root-URL: http://www.cs.unm.edu
+Email: high@cs.unm.edu  forrest@cs.unm.edu  asp@receptor.lanl.gov  
+Title: The Evolution of Emergent Organization in Immune System Gene Libraries  
+Author: Ron R. Hightower Stephanie Forrest Alan S. Perelson 
+Address: Albuquerque, NM 87131  Albuquerque, NM 87131  Los Alamos, NM 87545 USA  
+Affiliation: Department of Computer Science University of New Mexico  Department of Computer Science University of New Mexico  Theoretical Division Los Alamos Nat. Lab.  
+Abstract: A binary model of the immune system is used to study the effects of evolution on the genetic encoding for antibody molecules. One feature of this encoding is that, unlike typical genetic algorithm experiments, not all genes found in the genotype are expressed in the phenotype. We report experiments which show that the evolution of immune system genes, simulated by the genetic algorithm, can induce a high degree of genetic organization even though that organization is not explicitly required by the fitness function. We hypothesize about the nature of this organization and introduce a measure called Hamming Separation to observe its change during the evolution of the immune system. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

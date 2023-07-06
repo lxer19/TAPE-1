@@ -1,0 +1,15 @@
+URL: ftp://ftp.daimi.aau.dk/pub/stud/hhl/icec96.ps.Z
+Refering-URL: http://kant.irmkant.rm.cnr.it/public.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Email: Email: hhl@daimi.aau.dk  orazio@caio.irmkant.rm.cnr.it  
+Phone: Tel.: +45 8942 3188 Fax: +45 8942 3255  
+Title: From Simulated to Real Robots.  
+Author: Henrik Hautop Lund* and Orazio Miglino** 
+Note: only.  
+Address: Ny Munkegade, 8000 Aarhus C., Denmark  Rome, Italy  
+Affiliation: *Department of Computer Science, Aarhus University,  **Cognitve Science Group, Department of Psychology, University of Palermo and Institute of Psychology, National Research Council,  
+Abstract: Evolutionary Robotics with the use of genetic algorithms to evolve control systems for real robots is a powerful tool, since it allows an automatic evolution of control systems. Yet, Evolutionary Robotics meets serious limitations because of the time consumption. It is very time consuming to evolve whole populations of real robots for many generations. A simulated/physical approach where main parts of the evolution takes place in a simulator reduces the time consumption dramatically. We describe how the Khepera miniature mobile robot can be used to build its own simulator with a semi-autonomous process, how to evolve neural network control systems for the Khepera robot in the robot's own simulator, and how to transfer the neural network control systems from the simulated to the real environment. By using this kind of simulator an expected gap in performance when transferring a robot control system from the simulator to the real environment is avoided. The autonomous robots approach is an interdisciplinary field that includes knowledge from engineering, computer science, psychology, and biology. Autonomous robots applications can be found in at least three areas: industrial prototypes, ethological and biological models, and educational programs. Industrial prototypes that can explore dangerous or varying environments are constructed and used for minefield exploration, lawn moving, cleaning machines, etc. Ethologists, biologists and psychologists build autonomous robots to replicate in more controllable settings (environments) behaviors observed in natural organisms (e.g., Deneubourg et al., 1992). Finally, teachers and educational psychologists use autonomous robots to facilitate the learning process about concepts regarding natural systems (e.g., Miglino and Lund, 1995; Pagliarini et al., 1995). What connects all these different applications is the work to construct a standard methodology to build control systems for real, autonomous robots. There has been various proposals on how to obtain this unifying goal of a standard methodology. The different proposals have been tested using mainly the Khepera miniature mobile robot (Mondada et al., 1994), or different constructions of LEGO robots. Our research work has included both tests on Khepera and LEGO robots, but here we will limit ourselves to describe some of the experiments with the Khepera robot 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

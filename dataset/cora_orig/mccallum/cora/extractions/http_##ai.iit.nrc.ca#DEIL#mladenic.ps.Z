@@ -1,0 +1,21 @@
+URL: http://ai.iit.nrc.ca/DEIL/mladenic.ps.Z
+Refering-URL: http://ai.iit.nrc.ca/DEIL/abstracts.html
+Root-URL: 
+Title: Classification tree chaining in data analysis  
+Author: Dunja Mladenic Marko Grobelnik Ray J. Paul Ivan Bratko ; J. Stefan 
+Keyword: data analysis, discrete event simulation  
+Address: Jamova 39, 61000 Ljubljana, Slovenia  Sc., Trzaska 25, Ljubljana University  Sc., Uxbridge, England  
+Affiliation: Institute, Artificial Intelligence Lab.,  Faculty of Electr. Eng. and Computer  Brunel University, Dept. of Computer  
+Email: E-mail: Dunja.Mladenic@ijs.si,  
+Phone: Phone: (+38)(61) 1773 272, Fax: (+38)(61) 1258-158 2  3  
+Web: http://www-ai.ijs.si/DunjaMladenic/home.html  
+Abstract: Understanding of discrete event simulation systems is a difficult task. Our approach involves consultation with a domain expert, and the use of discrete event simulation model and machine learning as tools for the intelligent analysis of simulated system. Current methods for the analysis and interpretation of such systems are restricted to statistical techniques that say much about the reliability of an output, but little about the output inter connectivity. The objective of our work is to improve the ability to interpret the model to the level of explanation that might loosely be described as "How the simulated system works". The new interpretation techniques are based on machine learning that includes classification tree chaining. "How the simulated system works" is important for a decision maker's understanding of the system in terms of relationships between the various parameters, the utilisation of resources and the location of (potential) bottlenecks. This sort of understanding is important when managing queuing problems in production systems, or when planning a new system. The output from a discrete event simulator was processed as machine learning problem. In these experiments, the simulation output was interpreted by attribute-based learning system Magnus Assistant. The knowledge gained from the machine learning tools was evaluated by the domain expert, who considered that this knowledge contributed to an understanding of the system, and how it might profitably be modified.
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Cestnik, B., Kononenko, I. and Bratko, I., </author> <year> (1987), </year> <title> ASSISTANT 86: A Knowledge-Elicitation Tool for Sophisticated Users, in Progress in Machine Learning, </title> <editor> ed. by I.Bratko and N.Lavrac, </editor> <publisher> Sigma Press, Wilmslow. </publisher>
+Reference: [2] <author> Mladenic, D. </author> <title> (1990) Machine learning system Magnus Assistant (in Slovene). </title> <type> Unpublished BSc Thesis, </type> <institution> University of Ljubljana, Faculty of Electrical Engineering and Computer Science. </institution>
+Reference: [3] <author> Mladenic, D., Bratko, I., Paul, R.J., Grobelnik, M. </author> <title> (1994) Using machine learning techniques to interpret results from discrete event simulation. </title> <booktitle> Proceedings of the European Conference on Machine Learning ECML94. </booktitle> <publisher> Springer-Verlag 1994, </publisher> <pages> pp. 399-402. </pages>
+Reference: [4] <author> Paul, </author> <title> R.J., Balmer, D.W. (1993) Simulation Modelling, </title> <publisher> Chartwell-Bratt, </publisher> . 
+Reference: [5] <author> Quinlan, J.R. </author> <title> (1986) Induction of Decision Trees, </title> <journal> Machine Learning Journal, </journal> <volume> Vol. 1, </volume> <pages> pp. 81-106. </pages>
+References-found: 5
+

@@ -1,0 +1,17 @@
+URL: ftp://ftp.cs.umd.edu/pub/papers/papers/3575/3575.ps.Z
+Refering-URL: http://www.cs.umd.edu/TRs/TR.html
+Root-URL: 
+Email: jones@umiacs.umd.edu  lunli@umiacs.umd.edu  
+Title: A Study of Two Chinese Translations of "Syntactic Structures"  
+Author: DOUG JONES LUN LI 
+Keyword: English-Chinese Translation  
+Address: College Park, Maryland  
+Affiliation: Institute for Advanced Computer Studies, University of Maryland,  
+Abstract: In this report, we describe our results of carefully studying the first chapter of two published Chinese translations of Noam Chomsky's Syntactic Structures, as translated by Wang and Lu (1966) and Xing et al. (1979). Our first step was to create a word-by-word alignment, in as much as that was possible. We then examined ways we could use the alignment to generate other resources, such as a dictionary and a procedure for automating the translation process. We then retranslated the text, using the rules we developed. We will present this set of rules and the resulting translation in the body of this report. The appendix contains the published Chinese texts that we worked from, the alignments of these texts, and the small dictionary we produced. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Chomsky, Noam. </author> <title> Syntactic Structures. </title> <publisher> Mouton. </publisher> <year> 1957. </year>
+Reference: <author> Haegeman, Liliane. </author> <title> Introduction to Government and Binding Theory. </title> <publisher> Blackwell. </publisher> <year> 1991. </year> <title> Liang et al 1972 A New Practical Chinese-English Dictionary The Far East Book Co., </title> <publisher> Ltd., </publisher> <address> Taipei, Republic of China, </address> <year> 1972. </year>
+Reference: <author> Li, Charles N. and Sandra A. Thompson. </author> <title> Mandarin Chinese A Functional Reference Grammar University Of California Press. </title> <note> 1981 Wang, </note> <author> William S. Y. and Hsiao-tung Lu. </author> <note> Syntactic Structures Hong Kong University Press. 1966 Wu et al 1973 Continental's Concise English-Chinese Dictionary Continental Bookstore, </note> <institution> Taipei, Republic of China, 1973 Xing et al 1979 translation of Syntactic Structures Chinese Academy of Science Publishing House, Beijing, People's Republic of China, </institution> <note> 1979 Notes 1. We assume a generic version of X-bar structure, such as that discussed in Haegeman 1991. </note>
+References-found: 3
+

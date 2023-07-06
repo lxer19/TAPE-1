@@ -1,0 +1,22 @@
+URL: http://polaris.cs.uiuc.edu/reports/975.ps.gz
+Refering-URL: http://polaris.cs.uiuc.edu/tech_reports.html
+Root-URL: http://www.cs.uiuc.edu
+Title: ASM Description with LIDEX  
+Author: Jose Eduardo Moreira Wilson Vicente Ruggiero Departamento de Engenharia de Eletricidade, Escola Politecnica da 
+Note: This work was supported in part by the Interamerican Development Bank/University of S~ao Paulo project, and the U. S. Department of Energy under Grant No. DE-FG02-85ER25001. Jose E. Moreira is with Laboratorio de Sistemas Integraveis, and Wilson V. Ruggiero is with Laboratorio  
+Date: February 1990  975  
+Address: S~ao Paulo, Brasil  USA  
+Affiliation: Universidade de  Center for Supercomputing Research and Development University of Illinois at Urbana-Champaign,  de Sistemas Digitais  
+Pubnum: CSRD Report No.  
+Abstract:  
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Christopher R. Clare. </author> <title> Designing Logic Systems Using State Machines. </title> <publisher> McGraw-Hill Book Company, </publisher> <address> New York, </address> <year> 1973. </year>
+Reference-contexts: The description of sequential circuits, though, may not seem so easy to do. Our intent here is to show how a general finite state machine, an Algorithmic State Machine (ASM) module <ref> [1] </ref>, can be directly described in LIDEX . The Algorithmic State Machine is a well established technique for the design of digital circuits, particularly control units [2].
+Reference: [2] <author> M. D. Edwards and D. Aspinall. </author> <title> The Synthesis of Digital Systems Using ASM Design Techniques. </title> <booktitle> In Proceedings of the IFIP WG 10.2 Sixth International Conference on Computer Hardware Description Languages and their Applications, </booktitle> <pages> pages 55-64, </pages> <address> Amsterdan, May 1983. </address> <publisher> North-Holland. </publisher>
+Reference-contexts: Our intent here is to show how a general finite state machine, an Algorithmic State Machine (ASM) module [1], can be directly described in LIDEX . The Algorithmic State Machine is a well established technique for the design of digital circuits, particularly control units <ref> [2] </ref>.
+Reference: [3] <author> Jose Eduardo Moreira and Wilson Vicente Ruggiero. </author> <title> LIDEX Reference Manual. </title> <type> Technical Report 973, </type> <institution> University of Illinois at Urbana-Champaign, Center for Supercomputing Research and Development, Urbana, IL, </institution> <year> 1990. </year>
+Reference: [4] <author> Jose Eduardo Moreira and Wilson Vicente Ruggiero. </author> <title> LIDEX Tutorial. </title> <type> Technical Report 972, </type> <institution> University of Illinois at Urbana-Champaign, Center for Supercomputing Research and Development, Urbana, IL, </institution> <year> 1990. </year>
+Reference: [5] <author> Jose Eduardo Moreira and Wilson Vicente Ruggiero. </author> <title> The LIDEX Approach. </title> <type> Technical Report 970, </type> <institution> University of Illinois at Urbana-Champaign, Center for Supercomputing Research and Development, Urbana, IL, </institution> <year> 1990. </year> <month> 19 </month>
+References-found: 5
+

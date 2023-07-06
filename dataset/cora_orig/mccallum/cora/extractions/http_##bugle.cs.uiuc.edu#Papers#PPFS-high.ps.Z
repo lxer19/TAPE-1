@@ -1,0 +1,24 @@
+URL: http://bugle.cs.uiuc.edu/Papers/PPFS-high.ps.Z
+Refering-URL: http://bugle.cs.uiuc.edu/Papers/PPFS-high.html
+Root-URL: http://www.cs.uiuc.edu
+Title: Design of a Portable Parallel File System  
+Author: Chris Elford Chris Kuszmaul Jay Huber Tara Madhyastha 
+Date: October 21, 1993  
+Address: Urbana, Illinois 61801  
+Affiliation: Department of Computer Science University of Illinois  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <institution> Paragon XP/S. Intel Corporation (1991). </institution> <month> 21 </month>
+Reference: [2] <author> Fox, G., Hiranandani, S., Kennedy, K., Kremer, U., and Tseng, C. </author> <title> Fortran D Lan--guage Specification. </title> <type> Tech. Rep. </type> <institution> COMP TR90-141, Rice University, Houston, Texas, </institution> <month> December </month> <year> 1990. </year>
+Reference-contexts: These access characteristics and data distributions will be specified in a syntax similar to Fortran-D data and processor decompositions <ref> [2] </ref>. 15 set distribution (n, fileID, distribution)- This function allows the application to change the distribution of the remainder of a file whose access mode is MODE WRITE.
+Reference: [3] <author> Hennessey, J., and Patterson, D. </author> <title> Computer Architecture: A Quantitative Approach. </title> <publisher> Morgan Kaufmann Publishers, </publisher> <address> San Mateo, CA, </address> <year> 1990. </year>
+Reference-contexts: 1 Introduction 1.1 The I/O Problem Processor performance has increased by several orders of magnitude in the last decade. Since 1985 it has grown by 50% to 100% per year <ref> [3] </ref>. A comparison of the Intel 8086 of circa 1980 to the Intel i860 reveals the extent to which commodity processor technology has improved. Furthermore, processor performance continues to grow at a steadily increasing rate.
+Reference: [4] <author> Kotz, D., and Ellis, C. </author> <title> Prefetching in File Ssytems for MIMD Multiprocessors. </title> <booktitle> IEEE Transactions on Parallel and Distributed Systems 1 (1990), </booktitle> <pages> 218-230. </pages>
+Reference-contexts: The application developer can specifies n and k where n approximates the number of blocks that may be needed and k is some number of blocks that should be skipped by the prefetch algorithm either because they would never be used or because of the cache hit-miss factor <ref> [4] </ref>. get/set application prefetch policy (function,fileID)- While the function above allows the user to specify a very general heuristic for prefetching at the I/O node, this function allows the user to instantiate a prefetch agent which fetches records to the client cache.
+Reference: [5] <author> Kuszmaul, C. </author> <title> Out of core ffts in a parallel application environment. </title> <type> Tech. Rep. </type> <institution> RND-93-013, Numerical Aerondynamic Simulation Facility at NASA Ames Research Center, </institution> <year> 1993. </year>
+Reference: [6] <author> Patterson, D., Gibson, G., and Katz, R. </author> <title> A Case For Redundant Arrays of Inexpensive Disks (RAID). </title> <booktitle> In Proceedings of ACM SIGMOD (December 1988). </booktitle>
+Reference-contexts: For example, if the complexity of a resource management algorithm increases exponentially as the system scales in size, it will be successful over a smaller range of configurations than an algorithm that scales linearly. 3 1.2.6 Redundancy Patterson, Gibson, and Katz <ref> [6] </ref> discuss the reliability of disk arrays. Assuming the disk failure rates in a disk array are independent, the mean time to failure of a disk array is the mean time to failure of a single disk divided by the number of disks in the array.
+Reference: [7] <author> Womble, D., Greenberg, D., Wheat, S., and Riesen, R. </author> <title> Beyond core: Making parallel computer I/O practical. </title> <booktitle> In Proceedings of the 1993 DAGS/PC Symposium (Hanover, </booktitle> <address> NH, </address> <month> June </month> <year> 1993), </year> <institution> Dartmouth Institute for Advanced Graduate Studies, </institution> <note> pp. 56-63. 22 </note>
+Reference-contexts: Users usually cannot control caching, prefetching, data distribution, or other policies. There is evidence that a finer level of control over file organization and file system services can provide substantial performance benefits <ref> [7] </ref>. For example, it is desirable to be able to turn off parity from the application level and provide for independent read head access to the disks. However, application control defeats portability and increases programming complexity.
+References-found: 7
+

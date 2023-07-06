@@ -1,0 +1,21 @@
+URL: ftp://dimacs.rutgers.edu/pub/dimacs/TechnicalReports/TechReports/1997/97-04.ps.gz
+Refering-URL: http://dimacs.rutgers.edu/TechnicalReports/1997.html
+Root-URL: http://www.cs.rutgers.edu
+Phone: 2  
+Title: a Global Optimization Problem in the Study of Information Discrepancy 1  
+Author: by Weiwu FANG 
+Affiliation: DIMACS Center, Rutgers University IAM-CAS and APORC 2  IAM-CAS: Institute of Applied Mathematics, Chinese Academy of Sciences APORC Asian-Pacific Operations Research Center  
+Note: On  DIMACS is a partnership of Rutgers University, Princeton University, AT&T Research, Bell-core, and Bell Laboratories. DIMACS is an NSF Science and Technology Center, funded under contract STC-91-19999; and also receives support from the New Jersey Commission on Science and Technology.  
+Abstract: DIMACS Technical Report 97-04 February 1997 
+Abstract-found: 1
+Intro-found: 1
+Reference: <institution> References </institution>
+Reference: [1] <author> J.Aczel and Z.Daroczy, </author> <title> On Measures of Information and Their Characterization, </title> <publisher> Academic Press, </publisher> <address> New York, London, </address> <year> 1975. </year>
+Reference: [2] <author> Weiwu Fang, </author> <title> The Disagreement Degree of Multi-person judgments in additive structure, </title> <journal> Mathematical Social Sciences, </journal> <volume> vol. 28, no. </volume> <month> 2 </month> <year> (1994) </year> <month> 85-111. </month>
+Reference: [3] <author> Weiwu Fang, </author> <title> Some properties of FDOD function and kullback measure, </title> <address> CSIAM'96 VII:9, </address> <year> 1996 </year>
+Reference: [4] <author> J.N.Kapur and H.K.Kesavan, </author> <title> Entropy Optimization Principles with Applications. </title> <publisher> Academic Press, </publisher> <address> San Diego, </address> <year> 1992. </year>
+Reference: [5] <author> P.M. Pardalos and J.B. Rosen, </author> <title> Constrained Global Optimization: Algorithms and Applications, </title> <note> Springer-Verlag, Lecture Notes in Computer Sciences 268 (1987). </note>
+Reference: [6] <author> R. Rockafellar, </author> <title> Convex Analysis, </title> <publisher> Princeton University Press, Princeton,1970. </publisher>
+Reference: [7] <author> A.Ullah, </author> <title> Entropy, divergence and distance measures with econometric applications, J.stati. planning and inference (49), </title> <publisher> 137-162,1996. </publisher>
+References-found: 8
+

@@ -1,0 +1,37 @@
+URL: ftp://ftp.cs.unc.edu/pub/users/manocha/PAPERS/MODELING/implicit_jsc.ps.Z
+Refering-URL: http://www.cs.unc.edu/Research/geom/modeling.html
+Root-URL: http://www.cs.unc.edu
+Title: Implicit Representation of Rational Parametric Surfaces  
+Author: DINESH MANOCHA and JOHN F. CANNY U. S. A. 
+Address: Berkeley, CA 94720  
+Affiliation: Computer Science Division University of California at Berkeley  
+Date: 485-510, 1992  (Received 27 November 1990)  
+Note: Appeared in Journal of Symbolic Computation, vol. 13, pp.  
+Abstract: In many applications we need to compute the implicit representation of rational parametric surfaces. Previously, resultants and Gr-obner bases have been applied to this problem. However, these techniques at times result in an extraneous factors along with the implicit equation and fail altogether when a parametrization has base points. In this paper we present algorithms to implicitize rational parametric surfaces with and without base points. One of the strength of the algorithms lies in the fact that we do not use multi-variate factorization. The base points blow up to rational curves on the surface and we present techniques to compute the rational parametrization of the blow up curves. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Abhyankar, S., Bajaj, C. </author> <year> (1988). </year> <title> Computations with Algebraic Curves, </title> <booktitle> Lecture Notes in Computer Science 358, </booktitle> <pages> 279-284. </pages>
+Reference: <author> Bajaj, C., Garrity, T., Warren, J. </author> <year> (1988). </year> <title> On the Applications of Multi-equational Resultants. </title> <type> Technical report CSD-TR-826, </type> <institution> Computer Science Department, Purdue University. </institution>
+Reference: <author> Buchberger, B. </author> <year> (1989). </year> <title> Applications of Gr-obner Bases in Non-linear Computational Geometry. </title> <editor> In: (Kapur, D., Mundy, J. </editor> <booktitle> eds) Geometric Reasoning, </booktitle> <pages> 415-447, </pages> <publisher> MIT 25 Press. </publisher>
+Reference: <author> Canny, J. F. </author> <year> (1990). </year> <title> Generalized Characteristic Polynomials. </title> <journal> J. Symbolic Computation 9, </journal> <pages> 241-250. </pages>
+Reference: <author> Chionh, E. W. </author> <year> (1990). </year> <title> Base points, Resultants, and the Implicit Representation of Rational Surfaces. </title> <type> Ph.D. thesis, </type> <institution> Department of Computer Science, University of Waterloo, Canada. </institution>
+Reference: <author> Clebsch, A. </author> <title> (1868). </title> <editor> Ueber Die Abbildung Algebraischer Flachen Insbesondere Der Vierten and Funften Ordnung. </editor> <booktitle> Mathematische Annalen 1, </booktitle> <pages> 253-316. </pages>
+Reference: <author> Dixon, A.L. </author> <year> (1908). </year> <title> The Eliminant of Three Quantics in Two Independent Variables. </title> <booktitle> Proceedings of London Mathematical Society 6, </booktitle> <pages> 49-69, 473-492. </pages>
+Reference: <author> Hartshorne, R. </author> <year> (1977). </year> <title> Algebraic Geometry. </title> <publisher> Springer-Verlag. </publisher>
+Reference: <author> Hoffmann, C. </author> <year> (1989). </year> <title> Geometric and Solid Modeling: An Introduction. </title> <publisher> Morgan Kauf-mann Publishers Inc. </publisher>
+Reference: <author> Ierardi D. </author> <year> (1989). </year> <title> Quantifier Elimination in the Theory of Algebraically closed Field. </title> <booktitle> Proceedings of 21 st Annual ACM Symposium on Theory of Computing, </booktitle> <pages> 138-147, </pages> <month> Sea-ttle. </month>
+Reference: <author> Kaltofen, E. </author> <year> (1983). </year> <title> Factorization of Polynomials. </title> <editor> In: (Buchberger et al. </editor> <booktitle> eds) Computer Algebra, Symbolic and Algebraic Computation, </booktitle> <pages> 94-113, </pages> <address> 2nd edition, Wien, New York. </address>
+Reference: <author> Loos, R. </author> <year> (1983). </year> <title> Generalized Polynomial Remainder Sequences. </title> <editor> In: (Buchberger et al. </editor> <title> eds) Computer Algebra, Symbolic and Algebraic Computation, </title> <type> 115-137, 2nd edn., Wien, </type> <address> New York. </address>
+Reference: <author> Manocha, D., Canny, J.F. </author> <year> (1991). </year> <title> Efficient Techniques for Multipolynomial Resultant Algorithms. </title> <booktitle> Proceedings of ISSAC'91 86-95, </booktitle> <address> Bonn, Germany. </address>
+Reference: <author> Manocha, D., Canny, J. </author> <year> (1992). </year> <title> Algorithms for Implicitizing Rational Parametric Surfaces. Computer Aided Geometric Design, </title> <note> to appear. </note>
+Reference: <author> Morley, F., Coble, A.B. </author> <year> (1927). </year> <title> New Results in Elimination. </title> <journal> American Journal of Mathematics 49, </journal> <pages> 463-488. </pages>
+Reference: <author> Mumford, D. </author> <year> (1976). </year> <title> Algebraic Geometry I: Complex Projective Varieties. </title> <publisher> Springer-Verlag. </publisher>
+Reference: <author> Munkres, J.R. </author> <year> (1975). </year> <title> Topology A First Course. </title> <publisher> Prentice-Hall, Inc., </publisher> <address> Englewood Cliffs, New Jersey. </address>
+Reference: <editor> Prakash, P.V., Patrikalakis, </editor> <address> N.M. </address> <year> (1988). </year> <title> Surface-to-Surface Intersections for Geometric Modeling. </title> <type> Technical report MITSG 88-8, </type> <institution> MIT Sea Grant College Program, MIT, </institution> <address> Cambridge. </address>
+Reference: <author> Salmon, G. </author> <title> (1885). Lessons Introductory to the Modern Higher Algebra. G.E. </title> <publisher> Stechert & Co., </publisher> <address> New York. </address>
+Reference: <author> Semple, J.G. & Roth, L. </author> <year> (1985). </year> <title> Introduction to Algebraic Geometry. </title> <publisher> Claredon Press, Oxford, </publisher> <address> Great Britian. </address>
+Reference: <author> Sederberg, T.W., Anderson, D.C., Goldman, R.N. </author> <year> (1984). </year> <title> Implicit Representation of 26 Parametric Curves and Surfaces. </title> <booktitle> Computer Vision, Graphics and Image Processing 28, </booktitle> <pages> 72-84. </pages>
+Reference: <author> Snyder, Virgil et al. </author> <year> (1970). </year> <title> Selected Topics in Algebraic Geometry. </title> <publisher> Chelsea Publishing Company, </publisher> <address> Bronx, New York. </address>
+Reference: <author> Walker, Robert J. </author> <year> (1950). </year> <title> Algebraic Curves. </title> <publisher> Princeton University Press, </publisher> <address> New Jersey. </address> <month> 27 </month>
+References-found: 23
+

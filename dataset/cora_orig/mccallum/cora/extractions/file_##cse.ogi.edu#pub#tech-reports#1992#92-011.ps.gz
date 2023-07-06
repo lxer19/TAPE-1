@@ -1,0 +1,20 @@
+URL: file://cse.ogi.edu/pub/tech-reports/1992/92-011.ps.gz
+Refering-URL: http://www.cse.ogi.edu/DISC/projects/ereq/papers/maier-papers.html
+Root-URL: http://www.cse.ogi.edu
+Title: "Direct Manipulation Interfaces", User Centered System Design, "Semantic Feedback in the Higgens UIMS", IEEE Transac
+Author: E. Hutchins, J. Hollan, D. Norman, ed. D. Norman and S. Draper, Lawrence S. Hudson and R. King, D. Ingalls, S. Wallace, Y. Chow, F. Ludolph, K. Doyle, ming [Leong] M.K. Leong, S. Sam, and D. Narasimhalu, ed. T. L. Kunii, 
+Date: 8, August 1988.  September 1988.  August 1989.  1989.  August 1990.  February 1989.  
+Note: [Hutchins86]  Erlbaum Associates, Inc., 1986. [Hudson88]  tions of Software Engineering, Vol. 14, No.  [Ingalls88]  Environment", OOPSLA '88 Proceedings,  [Laenens89] E. Laenens, F.Staes and D. Vermeir, "Browsing a la carte in Object-Oriented Databases", The Computer Journal,  Elsevier Science Publishers,  [Myers90] B. Myers, ed., "The Garnet Compendium: Collected Papers, 1989-1990", CMU-CS 90-154, Carnegie Mellon University,  [Rowe89] L. Rowe, "Database Representations for Programs", Proceedings of 1989 ACM SIG MOD Workshop on Software CAD Databases, Napa, California,  17  
+Abstract: Maier86] D. Maier, P. Nordquist and M. Grossman, "Displaying Database Objects", First International Conference on Expert Database Systems, Charleston, South Carolina, April 1986; also OGI Technical Report CSE-86-001. [Schmidt90] D. Schmidt, "From Object-Oriented Database Systems to High Productivity Software Development Environments", OGI Technical Report, July 1990. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [Anderson86] <author> T.L. Anderson, E.F. Ecklund, Jr., and D. Maier, "PROTEUS: </author> <title> Objectifying the DBMS User Interface", </title> <booktitle> Proceedings of the International Workshop on Object-Oriented Database Systems, </booktitle> <editor> ed. D. Dittrich and U. Dayal, </editor> <address> Pacific Grove, California, </address> <month> September, </month> <year> 1986. </year>
+Reference: [Bass90] <author> L. Bass, E. Hardy, R. Little, and R. Seacord, </author> <title> "Incremental Development of User Interfaces", Engineering the Human-Computer Interface, </title> <editor> A. Cockton, ed., </editor> <publisher> North Holland, </publisher> <year> 1990. </year>
+Reference: [Bryce90] <author> D. Bryce and R. Hull, </author> <title> "SNAP: A Graphics-Based Schema Manager", Readings in Object-Oriented Database Systems, </title> <editor> ed. S. Zdonik and D. Maier, </editor> <publisher> Morgan Kaufmann Publishers, </publisher> <year> 1990. </year>
+Reference: [Butterworth91] <author> P. Butterworth, A. Otis, and J. Stein, </author> <title> "The GemStone Object Database Management System", </title> <journal> Communications of the ACM, </journal> <volume> Vol. 34, No.10, </volume> <month> October </month> <year> 1991. </year>
+Reference: [Deux91] <editor> O. Deux et. al., </editor> <title> "The O2 System", </title> <journal> Communications of the ACM, </journal> <volume> Vol. 34, No.10, </volume> <month> October </month> <year> 1991. </year>
+Reference: [Garrett82] <author> M. Garrett and J. Foley, </author> <title> "Graphics Programming Using a Database System", </title> <journal> ACM Transactions on Graphics, </journal> <month> April </month> <year> 1982. </year>
+Reference: [Goldman85] <author> K. Goldman, S. Goldman, P.Kanellakis, and S. Zdonik, </author> <title> "ISIS: Interface for a Semantic Information System", </title> <booktitle> Proceedings of ACM-SIGMOD 1985 International Conference on Management of Data, </booktitle> <address> Austin, Texas, </address> <month> May </month> <year> 1985. </year>
+
+References-found: 7
+

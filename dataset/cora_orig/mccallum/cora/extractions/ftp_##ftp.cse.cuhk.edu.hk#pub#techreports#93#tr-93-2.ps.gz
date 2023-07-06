@@ -1,0 +1,19 @@
+URL: ftp://ftp.cse.cuhk.edu.hk/pub/techreports/93/tr-93-2.ps.gz
+Refering-URL: ftp://ftp.cs.cuhk.hk/pub/techreports/README.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Email: Email: lhf@cs.cuhk.hk; hfting@cs.cuhk.hk  
+Title: An Optimal Algorithm for Global Termination Detection in Shared-Memory Asynchronous Multiprocessor Systems  
+Author: Ho-Fung Leung Hing-Fung Ting 
+Address: Shatin, Hong Kong  
+Affiliation: Department of Computer Science The Chinese University of Hong Kong  
+Abstract: In the literature the problem of global termination detection in shared-memory asynchronous multiprocessor systems is solved by using exclusively accessible variables and locking mechanism. In this paper we present an algorithm that solves this problem without using locking. We assume that concurrent reading does not require locking and concurrent writing different values without locking results in arbitrary one of the values being actually written. For a system of n processors, the algorithm allocates a working space of 2n + 1 bits. The worst case time complexity of the algorithm is n + 2 n + 1, which we prove is the lower bound. p
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> K.M. Chandy and J. Misra, </author> <title> Parallel Program Design: </title> <publisher> a foundation (Addison-Wesley, </publisher> <year> 1988). </year>
+Reference-contexts: Traditionally, a detection algorithm would depend on one or more variables that can only be accessed exclusively during normal execution of the underlying computation process, and locking is inevitable in updating these variables <ref> [1] </ref>. This would affect the efficiency of the system as a processor needs to wait for the lock to be released. An example of this can be found in [2], in which a garbage collection algorithm for an asynchronous multiprocessor system is described.
+Reference: [2] <author> J.A. Crammond, </author> <title> A Garbage Collection Algorithm for Shared Memory Parallel Processors, </title> <note> International Journal of Parallel Programming 17 (1990) 497-522. </note>
+Reference-contexts: This would affect the efficiency of the system as a processor needs to wait for the lock to be released. An example of this can be found in <ref> [2] </ref>, in which a garbage collection algorithm for an asynchronous multiprocessor system is described. In the garbage collection algorithm one processor can trace a pointer and tell another processor to mark the useful memory cells the latter manages. Effectively the former processor throws jobs to the latter.
+Reference: [3] <author> E. Horowitz and S. Sahni, </author> <booktitle> Fundamentals of Computer Algorithms (Computer Science Press, </booktitle> <year> 1978). </year> . . . . . <title> algorithm stops t 2 t 1 t n t fl . . . . . t i1 t i2 | -z - B i t s 1 t s 2 t t 1 | -z - at most n 1 fi queries </title>
+Reference-contexts: Otherwise, it responds with a `0'. We derive a lower bound on the worst case time complexity for solving the problem by adversary arguments (see <ref> [3] </ref>). Firstly, we construct an oracle F which answers all the queries made by the scheduler. Then, we show that there exist a scenario in which the system responds the queries exactly the same way as the oracle does.
+References-found: 3
+

@@ -1,0 +1,25 @@
+URL: ftp://speech.cse.ogi.edu/pub/docs/langid_icslp94.ps.Z
+Refering-URL: http://www.cse.ogi.edu/~berkling/vitae.html
+Root-URL: http://www.cse.ogi.edu
+Email: (barnard@cse.ogi.edu)  
+Title: LANGUAGE IDENTIFICATION OF SIX LANGUAGES BASED ON A COMMON SET OF BROAD PHONEMES  
+Author: Kay M. Berkling (berkling@cse.ogi.edu), Etienne Barnard 
+Address: 20000 N.W. Walker Road, P.O. Box 91000, Portland, OR 97291-1000, USA  
+Affiliation: Oregon Graduate Institute of Science and Technology,  
+Note: Center for Spoken Language Understanding,  
+Abstract: We describe a system designed to recognize the language of an utterance spoken by any native speaker over the telephone. Our previous work based on language-specific phonemes [5] is extended to include sequences of all lengths of language-independent speech units. These units are derived by clustering phonemes across all languages in the system (Hindi, Spanish, English, German, Japanese, and Mandarin). Our language-identification results based on broad-phoneme occurrence statistics indicate 90% accurate distinction between English and Japanese, which is comparable to results obtained when using language-specific phonemes. By relaxing the precision of language-dependent phonemes into language-independent broad phonemes we thus retain language discriminative power. The degree to which the precision can be relaxed while retaining sequences of broad phonemes that can discriminate between languages is an indication of the accuracy with which the phoneme segmenter and recognizer have to recognize the incoming speech. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> K. Berkling, T. Arai, E. Barnard, and R.A.Cole. </author> <title> Analysis of phoneme-based features for language identification. </title> <booktitle> In Proceedings 1994 IEEE International Conference on Acoustics, Speech, and Signal Processing, </booktitle> <address> pages I-289 - I-292, Adelaide, Australia, </address> <month> April </month> <year> 1994. </year>
+Reference-contexts: As was shown in <ref> [1] </ref>, most of the language dependent information is concentrated in the mono-phonemes (phonemes occurring in only one language) and not in the poly-phonemes (phonemes similar across languages). Hence, with regard to language identification, there exists a degree of redundancy in recognizing speech at the phoneme level.
+Reference: [2] <author> James L. Hieronymous. </author> <title> Ascii phonetic symbols for the world's languages: </title> <journal> Worldbet. Journal of the International Phonetic Association, </journal> <year> 1993. </year>
+Reference-contexts: This set of labels is designed to capture phonetic similarities and differences not only within but across languages and has a mapping to the IPA and to the TIMIT symbol set <ref> [2] </ref>. 2.2. Hierarchical Clustering of Phonemes There are 247 distinct phonemes for which more than 20 examples occur in the set of 115613 distinct phonemes occurring in our labeled training set.
+Reference: [3] <author> L. F. Lamel and J-L. S. Gauvain. </author> <title> Language identification using phone-based acoustic likelihoods. </title> <booktitle> In Proceedings 1994 IEEE International Conference on Acoustics, Speech, and Signal Processing, </booktitle> <address> pages I-293 - I-296, Adelaide, Australia, </address> <month> April </month> <year> 1994. </year>
+Reference: [4] <author> T. Metzler and T. Lander. </author> <title> The cslu labeling guide. </title> <type> Technical Report CSLU 003, </type> <institution> Oregon Graduate Institute, </institution> <year> 1994. </year>
+Reference-contexts: A subset of the utterances which consist of a mix of unconstrained- and restricted-vocabulary speech, was phonemically labeled with 'Worldbet' as described in <ref> [4] </ref>. This set of labels is designed to capture phonetic similarities and differences not only within but across languages and has a mapping to the IPA and to the TIMIT symbol set [2]. 2.2.
+Reference: [5] <author> Y. K. Muthusamy, K. M. Berkling, T. Arai, R. A. Cole, and E. Barnard. </author> <title> A comparison of approaches to automatic language identification. </title> <booktitle> In Proceedings Eurospeech 93, </booktitle> <pages> pages 1307-1310, </pages> <address> Berlin, Germany, </address> <month> September </month> <year> 1993. </year>
+Reference-contexts: These features were: * The average output activation AVG across the com plete utterance, * the maximum output activation MAX, and * the variation in output activation VARH, as explained in <ref> [5] </ref>. This results in a 3 x 84 element feature vector representing an utterance. Language classification is performed by a network assigning an English, and a Japanese language score to each incoming feature vector.
+Reference: [6] <author> Y. K. Muthusamy and R. A. Cole. </author> <title> Automatic segmentation and identification of ten languages using telephone speech. </title> <booktitle> In Proceedings 1992 International Conference on Spoken Language Processing, </booktitle> <pages> pages 1007-1010, </pages> <year> 1992. </year>
+
+References-found: 6
+

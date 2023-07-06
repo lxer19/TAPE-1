@@ -1,0 +1,25 @@
+URL: ftp://ftp.cs.uu.nl/pub/RUU/CS/techreps/CS-1994/1994-33.ps.gz
+Refering-URL: http://www.cs.ruu.nl/docs/research/publication/TechList1.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: A probabilistic learning approach to motion planning. In Proc. The First Workshop on the Algorithmic
+Author: M. Overmars and P. Svestka. A. K. Peters, J.A. Reeds and R.A. Shepp. 
+Address: Boston, MA, 1994.  
+Date: 39  
+Note: REFERENCES  [O S94]  [RS90]  forwards and backwards. Pacific Journal of Mathematics, 145, 1990.  
+Abstract: Nau94] J.M. Nauta. A tom thumb algorithm for planning simple vehicle motions. Technical report, University of Twente, Enschede, the Netherlands, May 1994. [Ove92] M. Overmars. A random approach to motion planning. Technical Report RUU-CS-92-32, Dept. Comput. Sci., Utrecht Univ., Utrecht, the Netherlands, October 1992. [SL92] P. Soueres and J.P. Laumond. Shortest paths synthesis for a car-like robot. Technical report, LAAS/CNRS, Toulouse, France, Septem ber 1992. [ Sve93] P. Svestka. A probabilistic approach to motion planning for car-like robots. Technical Report RUU-CS-93-18, Dept. Comput. Sci., Utrecht Univ., Utrecht, the Netherlands, April 1993. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [ATBM92] <author> J. M. Ahuactzin, E.-G. Talbi, P. Bessiere, and E. Mazer. </author> <title> Using genetic algorithms for robot motion planning. </title> <address> pages 671-675. </address> <publisher> John WIley and Sons, Ltd., </publisher> <year> 1992. </year>
+Reference: [BL93] <author> J. Barraquand and J.-C. Latombe. </author> <title> Nonholonomic multibody mobile robots: Controllability and motion planning in the presence of obstacles. </title> <journal> Algorithmica, </journal> <volume> 10 </volume> <pages> 121-155, </pages> <year> 1993. </year>
+Reference: [Gie93] <author> G.-J. Giezeman. </author> <title> PlaGeo|A Library for Planar Geometry. </title> <institution> Dept. Comput. Sci., Utrecht Univ., </institution> <address> Utrecht, the Netherlands, </address> <month> August </month> <year> 1993. </year>
+Reference: [HA92] <author> Y. Hwang and N. Ahuja. </author> <title> Gross motion planning|a survey. </title> <journal> ACM Comput. Surv., </journal> <volume> 24(3) </volume> <pages> 219-291, </pages> <year> 1992. </year>
+Reference: [HST94] <author> Th. Horsch, F. Schwarz, and H. Tolle. </author> <title> Motion planning for many degrees of freedom random reflections at c-space obstacles. </title> <booktitle> In Proc. IEEE Internat. Conf. on Robotics and Automation, </booktitle> <pages> pages 2138-2145, </pages> <address> San Diego, CA, </address> <year> 1994. </year>
+Reference: [KL94] <author> L. Kavraki and J.-C. Latombe. </author> <title> Randomized preprocessing of configuration space for fast path planning. </title> <booktitle> In Proc. IEEE Internat. Conf. on Robotics and Automation, </booktitle> <address> San Diego, CA, </address> <year> 1994. </year>
+Reference: [K SLO94] <author> L. Kavraki, P. Svestka, J.-C. Latombe, and M. Overmars. </author> <title> Probabilistic roadmaps for path planning in high dimensional configuration spaces. </title> <type> Technical Report UU-CS-94-32, </type> <institution> Comput. Sci., Utrecht Univ., </institution> <address> Utrecht, the Netherlands, </address> <month> August </month> <year> 1994. </year>
+Reference: [Lat91] <author> J.-C. Latombe. </author> <title> Robot Motion Planning. </title> <publisher> Kluwer Academic Publishers, </publisher> <address> Boston, USA, </address> <year> 1991. </year>
+Reference: [LS89] <author> J.-P. Laumond and T. Simeon. </author> <title> Motion planning for a two degrees of freedom mobile robot with towing. </title> <type> Technical Report 89148, </type> <institution> LAAS/CNRS, Toulouse, France, </institution> <month> April </month> <year> 1989. </year>
+Reference: [LTJ90] <author> J.-P. Laumond, M. Tax, and P. Jacobs. </author> <title> A motion planner for car-like robots based on a global/local approach. </title> <booktitle> In Proc. IEEE Internat. Workshop Intell. Robots Syst., </booktitle> <pages> pages 765-773, </pages> <year> 1990. </year>
+Reference: [Mas92] <author> J. Mastwijk. </author> <title> Motion planning using potential field methods. </title> <type> master thesis, </type> <address> Utrecht, the Netherlands, </address> <month> August </month> <year> 1992. </year>
+
+References-found: 11
+

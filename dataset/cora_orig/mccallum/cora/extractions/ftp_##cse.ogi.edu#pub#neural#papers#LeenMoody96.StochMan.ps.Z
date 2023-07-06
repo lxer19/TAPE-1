@@ -1,0 +1,27 @@
+URL: ftp://cse.ogi.edu/pub/neural/papers/LeenMoody96.StochMan.ps.Z
+Refering-URL: http://www.cse.ogi.edu/~tleen/
+Root-URL: http://www.cse.ogi.edu
+Email: tleen@cse.ogi.edu moody@cse.ogi.edu  
+Title: Stochastic Manhattan Learning: An Exact Time-Evolution Operator for the Ensemble Dynamics Dynamics of Stochastic Learning
+Author: Todd K. Leen and John E. Moody w(n ) w(n) (n) H(w(n); (n)) () 
+Date: May 1996  
+Note: Submitted to Physical Review Letters,  Ensemble  
+Address: P.O. Box 91000 Portland, Oregon 97291-1000  
+Affiliation: Dept. of Computer Science and Engineering Oregon Graduate Institute of Science Technology  
+Abstract: Typical theoretical descriptions of the ensemble dynamics of stochastic learning algorithms rely on a truncated expansion to approximate the time-evolution operator appearing in the master equation. In this note, we give an exact expression for the time-evolution operator for Manhattan learning, a variant of stochastic gradient-descent learning in which the weights are updated in proportion to the sign of the cost function gradient. This closed-form for the time-evolution captures the full non-linearity of the problem without approximation, allowing exact study of the where w(n) 2 R N (with components denoted w i ) is the parameter estimate at the n th iteration of the recursion, (n) is called the learning rate, H embodies the learning rule, and x(n) 2 R M is the datum input to the algorithm at the n th iteration. In supervised ensemble dynamics.
+Abstract-found: 1
+Intro-found: 0
+Reference: [1] <author> C.W. Gardiner. </author> <title> Handbook of Stochastic Methods, 2nd Ed. </title> <publisher> Springer-Verlag, </publisher> <address> Berlin, </address> <year> 1990. </year>
+Reference: [2] <author> Todd K. Leen and John E. Moody. </author> <title> Weight space probability densities in stochastic learning: I. Dynamics and equilibria. </title> <editor> In Giles, Hanson, and Cowan, editors, </editor> <booktitle> Advances in Neural Information Processing Systems, </booktitle> <volume> vol. </volume> <pages> 5, </pages> <address> San Mateo, CA, 1993. </address> <publisher> Morgan Kaufmann. </publisher>
+Reference: [3] <author> Tom M. Heskes. </author> <title> Learning Processes in Neural Networks. </title> <type> PhD thesis, </type> <institution> Department of Medical Physics and Biophysics, University of Nijmegen, </institution> <address> The Netherlands, </address> <month> June </month> <year> 1993. </year>
+Reference: [4] <author> G. Radons, H.G. Schuster, and D. Werner. </author> <title> Drift and diffusion in backpropagation networks. </title> <editor> In R. Eckmiller, G. Hartmann, and G. Hauske, editors, </editor> <booktitle> Processing in Neural Systems and Computers. </booktitle> <publisher> Elsevier Science Publishers B.V. (North-Holland), </publisher> <year> 1990. </year>
+Reference: [5] <author> Genevieve B. Orr and Todd K. Leen. </author> <title> Weight space probability densities in stochastic learning: II. Transients and basin hopping times. </title> <editor> In Giles, Hanson, and Cowan, editors, </editor> <booktitle> Advances in Neural Information Processing Systems, </booktitle> <volume> vol. </volume> <pages> 5, </pages> <address> San Mateo, CA, 1993. </address> <publisher> Morgan Kaufmann. </publisher>
+Reference: [6] <author> Tom M. Heskes, Eddy T.P. Slijpen, and Bert Kappen. </author> <title> Learning in neural networks with local minima. </title> <journal> Physical Review A, </journal> <volume> 46(8) </volume> <pages> 5221-5231, </pages> <year> 1992. </year>
+Reference: [7] <author> Martin Riedmiller and H. Braun. </author> <title> A direct adaptive method for faster backpropagation learning: The RPROP algorithm. </title> <editor> In H. Ruspini, editor, </editor> <booktitle> Proc. of the IEEE Intl. Conference on Neural Networks, </booktitle> <pages> pages 586-591, </pages> <address> San Francisco, California, </address> <year> 1993. </year>
+Reference: [8] <author> L. Ljung. </author> <title> Analysis of recursive stochastic algorithms. </title> <journal> IEEE Trans. Automatic Control, </journal> <volume> 22 </volume> <pages> 551-575, </pages> <year> 1977. </year>
+Reference: [9] <author> Christian Darken and John Moody. </author> <title> Towards faster stochastic gradient search. </title> <editor> In J.E. Moody, S.J. Hanson, and R.P. Lipmann, editors, </editor> <booktitle> Advances in Neural Information Processing Systems 4. </booktitle> <publisher> Morgan Kaufmann Publishers, </publisher> <address> San Mateo, CA, </address> <year> 1992. </year>
+Reference: [10] <author> Christian Darken. </author> <title> Learning Rate Schedules for Stochastic Gradient Algorithms. </title> <type> PhD thesis, </type> <institution> Yale University, </institution> <month> May </month> <year> 1993. </year>
+Reference: [11] <author> Todd K. Leen and Genevieve B. Orr. </author> <title> Optimal stochastic search and adaptive momentum. </title> <editor> In J.D. Cowan, G. Tesauro, and J. Alspector, editors, </editor> <booktitle> Advances in Neural Information Processing Systems 6, </booktitle> <address> San Francisco, CA., 1994. </address> <publisher> Morgan Kaufmann Publishers. </publisher>
+Reference: [12] <author> Genevieve B. Orr. </author> <title> Dynamics and Algorithms for Stochastic Search. </title> <type> PhD thesis, </type> <institution> Oregon Graduate Institute, </institution> <month> October </month> <year> 1996. </year> <month> 7 </month>
+References-found: 12
+

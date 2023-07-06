@@ -1,0 +1,32 @@
+URL: ftp://ftp.cs.utexas.edu/pub/mooney/papers/chill-aaai-93.ps.Z
+Refering-URL: http://www.cs.utexas.edu/users/ml/abstracts.html
+Root-URL: 
+Email: zelle@cs.utexas.edu, mooney@cs.utexas.edu  
+Title: Learning Semantic Grammars with Constructive Inductive Logic Programming  
+Author: John M. Zelle and Raymond J. Mooney 
+Address: Austin, TX 78712  
+Affiliation: Department of Computer Sciences University of Texas  
+Abstract: Automating the construction of semantic grammars is a difficult and interesting problem for machine learning. This paper shows how the semantic-grammar acquisition problem can be viewed as the learning of search-control heuristics in a logic program. Appropriate control rules are learned using a new first-order induction algorithm that automatically invents useful syntactic and semantic categories. Empirical results show that the learned parsers generalize well to novel sentences and out-perform previous approaches based on connectionist techniques. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Allen, James F. </author> <year> 1987. </year> <title> Natural Language Understanding. </title> <address> Benjamin/Cummings, Menlo Park, CA. </address>
+Reference: <author> Anderson, John R. </author> <year> 1983. </year> <title> The Architecture of Cognition. </title> <publisher> Harvard University Press, </publisher> <address> Cambridge, MA. </address>
+Reference: <author> Berwick, B. </author> <year> 1985. </year> <title> The Acquisition of Syntactic Knowledge. </title> <publisher> MIT Press, </publisher> <address> Cambridge, MA. </address>
+Reference: <author> Brent, Micheal R. and Berwick, Robert C. </author> <year> 1991. </year> <title> Automatic acquisition of subcategorization frames from tagged text. </title> <booktitle> In Speech and Natrual Language: Proceedings of the DARPA Workshop. </booktitle> <publisher> Morgan Kaufmann. </publisher> <pages> 342-345. </pages>
+Reference: <author> Kijsirikul, B.; Numao, M.; and Shimura, M. </author> <year> 1992. </year> <title> Discrimination-based constructive induction of logic programs. </title> <booktitle> In Proceedings of the Tenth National Conference on Artificial Intelligence, </booktitle> <address> San Jose, CA. </address> <pages> 44-49. </pages>
+Reference: <author> Langley, P. </author> <year> 1982. </year> <title> Language acquisition through error recovery. </title> <journal> Cognition and Brain Theory 5. </journal>
+Reference: <author> Lehnert, W.; Cardie, C.; Fisher, D.; McCarthy, J.; Riolff, E.; and Soderland, S. </author> <year> 1992. </year> <title> University of massachusetts: Muc-4 test results and analysis. </title> <booktitle> In Proceedings of the Fourth DARPA Message Understanding Evaluation and Conference. </booktitle> <publisher> Morgan Kaufmann. </publisher> <pages> 151-158. </pages>
+Reference: <author> McClelland, J. L. and Kawamoto, A. H. </author> <year> 1986. </year> <title> Mechnisms of sentence processing: Assigning roles to constituents of sentences. </title> <editor> In Rumelhart, D. E. and McClelland, J. L., editors 1986, </editor> <booktitle> Parallel Distributed Processing, </booktitle> <volume> Vol. II. </volume> <publisher> MIT Press, </publisher> <address> Cambridge, MA. </address> <pages> 318-362. </pages>
+Reference: <author> Miikkulainen, R. and Dyer, M. G. </author> <year> 1991. </year> <title> Natural language processing with modular PDP networks and distributed lexicon. </title> <booktitle> Cognitive Science 15 </booktitle> <pages> 343-399. </pages>
+Reference: <author> Muggleton, S. and Buntine, W. </author> <year> 1988. </year> <title> Machine invention of first-order predicates by inverting resolution. </title> <booktitle> In Proceedings of the Fifth International Conference on Machine Learning, </booktitle> <address> Ann Arbor, MI. </address> <pages> 339-352. </pages>
+Reference: <author> Muggleton, S. and Feng, C. </author> <year> 1992. </year> <title> Efficient induction of logic programs. </title> <editor> In Muggleton, S., editor 1992, </editor> <booktitle> Inductive Logic Programming. </booktitle> <publisher> Academic Press, </publisher> <address> New York. </address> <pages> 281-297. </pages>
+Reference: <author> Ng, H. T. </author> <year> 1988. </year> <title> A computerized prototype natural language tour guide. </title> <type> Technical Report AI88-75, </type> <institution> Artificial Intelligence Laboratory, University of Texas, Austin, TX. </institution>
+Reference: <author> Plotkin, G. D. </author> <year> 1970. </year> <title> A note on inductive generalization. </title> <editor> In Meltzer, B. and Michie, D., editors 1970, </editor> <booktitle> Machine Intelligence (Vol. </booktitle> <volume> 5). </volume> <publisher> Elsevier North-Holland, </publisher> <address> New York. </address>
+Reference: <author> Quinlan, J.R. </author> <year> 1990. </year> <title> Learning logical definitions from relations. </title> <booktitle> Machine Learning 5(3) </booktitle> <pages> 239-266. </pages>
+Reference: <author> Simmons, R. F. and Yu, Y. </author> <year> 1992. </year> <title> The acquisition and use of context dependent grammars for English. </title> <booktitle> Computational Linguistics 18(4) </booktitle> <pages> 391-418. </pages>
+Reference: <author> Tomita, M. </author> <year> 1986. </year> <title> Efficient Parsing for Natural Language. </title> <publisher> Kluwer Academic Publishers, </publisher> <address> Boston. </address>
+Reference: <author> Wirth, </author> <title> Ruediger 1989. Completing logic programs by inverse resolution. </title> <booktitle> In Proceedings of the European Working Session on Learning, </booktitle> <address> Montpelier, France. </address> <publisher> Pitman. </publisher> <pages> 239-250. </pages>
+Reference: <author> Wolff, J. G. </author> <year> 1982. </year> <title> Language acquisition, data compression, and generalization. </title> <booktitle> Language and Communication 2 </booktitle> <pages> 57-89. </pages>
+Reference: <author> Zelle, J. M. and Mooney, R. J. </author> <year> 1993. </year> <title> Combining FOIL and EBG to speed-up logic programs. </title> <booktitle> In Proceedings of the Thirteenth International Joint conference on Artificial intelligence, </booktitle> <address> Chambery, France. </address>
+References-found: 19
+

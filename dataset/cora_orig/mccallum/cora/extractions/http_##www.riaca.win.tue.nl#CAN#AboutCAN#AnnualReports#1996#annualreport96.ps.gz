@@ -1,0 +1,12 @@
+URL: http://www.riaca.win.tue.nl/CAN/AboutCAN/AnnualReports/1996/annualreport96.ps.gz
+Refering-URL: http://www.riaca.win.tue.nl/CAN/AboutCAN/AnnualReports/AnnualReports.html
+Root-URL: http://www.win.tue.nl
+Abstract: Annual Report 1996 Computer Algebra Netherlands Foundation 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Champneys, A., Kuznetsov, Y. & Sandstede, B. </author> <year> (1996), </year> <title> `A numerical toolbox for homoclinic bifurcation analysis', </title> <journal> Int. J. </journal> <volume> Bifurcation & Chaos 6, </volume> <pages> 867-887. </pages> <note> Annual Report 1996 15 Kuznetsov, </note> <author> Y., Levitin, V. & Skovoroda, A. </author> <year> (1996), </year> <title> Continuation of stationary solutions to evolution problems in content, </title> <type> Technical Report AM-R96, </type> <institution> Centrum voor Wiskunde en Informatica. </institution>
+Reference-contexts: Champneys (University of Bristol, UK) and B. Sandstede (IAAS, Berlin, Germany) <ref> (Champneys, Kuznetsov & Sandstede 1996) </ref> The algorithms have been implemented as a standard part (called HomCont) of the program AUTO94 (together with E.Doedel (Concordia, Canada)) and successfully applied to several problems. All known codim 2 bifurcations that involve a unique homoclinic orbit were covered.
+
+
+References-found: 1
+

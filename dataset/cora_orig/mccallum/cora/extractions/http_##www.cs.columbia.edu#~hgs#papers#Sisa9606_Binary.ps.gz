@@ -1,0 +1,16 @@
+URL: http://www.cs.columbia.edu/~hgs/papers/Sisa9606_Binary.ps.gz
+Refering-URL: http://www.cs.columbia.edu/~hgs/resume/resume.html
+Root-URL: http://www.cs.columbia.edu
+Email: fdor, hgsg@fokus.gmd.de  
+Title: Binary Congestion Notification in TCP  
+Author: Dorgham Sisalem Henning Schulzrinne 
+Date: June 25, 1996  
+Address: Berlin  
+Affiliation: GMD-Fokus,  
+Abstract: We propose to enhance TCP's congestion control mechanisms using binary congestion notification (BCN). With this scheme congestion is not simply indicated by packet losses as is currently the case. Instead, switches inform the sources about their congestion state by setting a congestion bit in the data packets. Unlike other studies, our approach maintains the basic elements of TCP's congestion control mechanisms and at the same time tries to adapt TCP's response to BCN based on the source behavior proposed for sources using ATM's available bit rate service (ABR). Through different simulation models we compare the throughput achieved with TCP using BCN (BCN-TCP) and 4.3BSD Tahoe-TCP and Reno-TCP. The effects of running TCP over ABR are studied with the help of a simple simulation model. Here, the benefits of using BCN-TCP in avoiding multiple packet losses are demonstrated and explained. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> S. Floyd, </author> <title> "TCP and explicit congestion notification." </title>
+Reference-contexts: the benefits of introducing binary congestion notification in avoiding multiple packet losses are shown and the performance improvements, especially for Reno-TCP, are demonstrated. 2 Related Work and Previous Pro posals Probably the most important work done in the area of binary congestion notification in TCP was done by Sally Floyd <ref> [1] </ref>. In her paper [1], she proposes guidelines for TCP's response to binary congestion notification (BCN) that can be summarized as follows: 1. TCP's response to BCN should be similar over longer time scales to its response to dropped packets or time outs. 2. <p> binary congestion notification in avoiding multiple packet losses are shown and the performance improvements, especially for Reno-TCP, are demonstrated. 2 Related Work and Previous Pro posals Probably the most important work done in the area of binary congestion notification in TCP was done by Sally Floyd <ref> [1] </ref>. In her paper [1], she proposes guidelines for TCP's response to binary congestion notification (BCN) that can be summarized as follows: 1. TCP's response to BCN should be similar over longer time scales to its response to dropped packets or time outs. 2.
+References-found: 1
+

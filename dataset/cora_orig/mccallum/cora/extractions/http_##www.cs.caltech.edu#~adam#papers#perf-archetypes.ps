@@ -1,0 +1,20 @@
+URL: http://www.cs.caltech.edu/~adam/papers/perf-archetypes.ps
+Refering-URL: http://www.cs.caltech.edu/~adam/papers.html
+Root-URL: http://www.cs.caltech.edu
+Email: fadam,bernag@cs.caltech.edu  
+Title: Performance Analysis for Mesh and Mesh-Spectral Archetype Applications  
+Author: Adam Rifkin and Berna Massingill 
+Date: December 9, 1996 Revised August 7, 1998  
+Address: Pasadena, California 91125  
+Affiliation: Computer Science 256-80 California Institute of Technology  
+Abstract: This document outlines a simple method for benchmarking a parallel communication library and for using the results to model the performance of applications developed with that communication library. We use compositional performance analysis | decomposing a parallel program into its modular parts and analyzing their respective performances | to gain perspective on the performance of the whole program. This model is useful for predicting parallel program execution times for different types of program archetypes, (e.g., mesh and mesh-spectral) using communication libraries built with different message-passing schemes (e.g., Fortran M and Fortran with MPI) running on different architectures (e.g., IBM SP2 and a network of Pentium personal computers).
+Abstract-found: 1
+Intro-found: 1
+Reference: [Arn96] <author> J. Arndt. </author> <note> http://www.spektracom.de/~arndt/fxt/fftbench.txt. Available on the Web, </note> <year> 1996. </year>
+Reference-contexts: Duhamel and Vetterli provide an excellent survey of FFTs [DV90]. A good comparison of the FFT algorithm we use with more efficient ones (such as a split-radix algorithm) on a vanilla workstation is given in <ref> [Arn96] </ref> (although, with a multicomputer, a simpler butterfly structure might be better for more actual computation [Har96]). Benchmarking.
+Reference: [BBC + 93] <author> R. Barrett, M. Berry, T. Chan, J. Demmel, J. Donato, J. Dongarra, V. Eijkhout, R. Pozo, C. Romine, and H. van der Vorst. </author> <title> Templates for the Solution of Linear Systems: Building Blocks for Iterative Methods. </title> <publisher> SIAM, </publisher> <year> 1993. </year>
+Reference-contexts: providing row and column operations in addition to grid operations. 2.1 Methodology A great deal of work has been done both on methods of exploiting design patterns in program development (for example, [Col89] and [GHJV95]) and on methods of solving problems on concurrent processors (for example, [FJL + 88] and <ref> [BBC + 93] </ref>). Archetypes [Cha94, CMMM95] were developed as design patterns with the single restricted goal of modeling one kind of pattern that is relevant in parallel programming: the pattern of the parallel computation and communication structure.
+Reference: [BH93a] <author> P. Brinch Hansen. </author> <title> Model Programs for Computational Science: </title>
+Reference-contexts: Our techniques fit in well with other methodologies for dealing with applications developed for particular architectures (for example, Brinch Hansen's model for programming multicomputer applications <ref> [BH93a] </ref>). Archetypes frequently represent well-researched patterns or abstractions; for example, the mesh archetype [Mas96] builds on Brinch Hansen's work on parallel cellular automata in the context of multicomputers [BH93b].
+References-found: 3
+

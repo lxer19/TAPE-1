@@ -1,0 +1,28 @@
+URL: ftp://ftp.dcs.ex.ac.uk/pub/connect/301.ps.gz
+Refering-URL: http://www.dcs.ex.ac.uk/research/neural/pub/pub.htm
+Root-URL: http://www.dcs.ex.ac.uk
+Email: email: derek@dcs.exeter.ac.uk  
+Title: Strategies for Improving Neural Net Generalization  
+Author: Derek Partridge Niall Griffith 
+Keyword: multilayer perceptrons, backpropagation, generalization, generalization diver sity, majority vote, metanet, version set  
+Note: 1 Thanks to Stuart Jackson who ran the original simulations used in this study, and to Wojtek Krzanowski for his help with the statistics. This research was funded by SERC/DTI Grant GR/H85427.  
+Address: Exeter, Exeter EX4 4PT  
+Affiliation: Department of Computer Science University of  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> B. Littlewood and D.R. Miller. </author> <title> Conceptual modeling of coincident failures in multiver-sion software. </title> <journal> IEEE Transactions on Software Engineering, </journal> <volume> 15(12), </volume> <month> December </month> <year> 1989. </year>
+Reference-contexts: This observation, and the the following statistical measures, are derived from Littlewood and Miller's <ref> [1] </ref> theoretical work on multiversion software engineering which makes the point that "methodological diversity" may reduce common errors and so increase overall system reliability.
+Reference: [2] <author> D. Partridge. </author> <title> Network generalization differences quantified. </title> <type> Technical Report 291, </type> <institution> Department of Computer Science, University of Exeter, </institution> <year> 1994. </year>
+Reference: [3] <author> D. Partridge and N. E. Sharkey. </author> <title> Use of neural computing in multiversion software reliability. </title> <editor> In F. Redmill and T. Anderson, editors, </editor> <booktitle> Technology and Assessment of Safety-Critical Systems, </booktitle> <pages> pages 224-235. </pages> <publisher> Springer-Verlag, </publisher> <address> London, </address> <year> 1994. </year>
+Reference-contexts: The output is simply true or false. There is nothing special about this function except that it forms part of a larger software engineering problem to which we are applying neural computing techniques (see <ref> [3] </ref> for details). An initial investigation concentrated on training metanets on input patterns constructed in the ways outlined above (forms 1a - 2b) which, of course, includes the training and testing of a number of version sets.
+Reference: [4] <author> D. Partridge and N. E. Sharkey. </author> <title> Neural computing for software reliability. </title> <journal> Expert Systems, </journal> <year> 1994. </year>
+Reference-contexts: This was, in fact, a major stimulus to the current study and has been summarized elsewhere <ref> [4] </ref>. However, the most recent statistical model to be developed as a result of several substantial empirical studies in multiversion software engineering ([1]) did, as already noted, provide the basis for some of our current approaches.
+Reference: [5] <author> J. Denker, D. Schwartz, B. Wittner, S. Solla, R. Howard, L. Jackel, and J. </author> <title> Hopfield. Large automatic learning rule extraction and generalization. </title> <journal> Complex Systems, </journal> <volume> 1, </volume> <year> 1987. </year>
+Reference-contexts: However, the most recent statistical model to be developed as a result of several substantial empirical studies in multiversion software engineering ([1]) did, as already noted, provide the basis for some of our current approaches. Within the neural network domain, Denker et al <ref> [5] </ref> provided some quantitative measures for the potential scope for generalization that a given network architecture exhibits.
+Reference: [6] <author> Sean B. Holden. </author> <title> Neural networks and the VC dimension. </title> <type> Technical Report CUED/F-INFENG/TR.119, </type> <institution> Department of Engineering, University of Cambridge, </institution> <year> 1992. </year> <month> 16 </month>
+Reference-contexts: Within the neural network domain, Denker et al [5] provided some quantitative measures for the potential scope for generalization that a given network architecture exhibits. And from almost the opposite direction (to our empirically driven studies) Holden <ref> [6] </ref> [7] has made progress towards a theoretical quantification of the generalization to be expected from a consideration of the network architecture together with certain characteristics of the training data (notably size of set and distribution within the target function).
+Reference: [7] <author> Sean B. Holden and Peter J. W. Rayner. </author> <title> Generalization and PAC learning: some new results for the class of generalized single layer networks. </title> <journal> IEEE Transactions on Neural Networks, </journal> <note> 1994. (in press). </note>
+Reference-contexts: Within the neural network domain, Denker et al [5] provided some quantitative measures for the potential scope for generalization that a given network architecture exhibits. And from almost the opposite direction (to our empirically driven studies) Holden [6] <ref> [7] </ref> has made progress towards a theoretical quantification of the generalization to be expected from a consideration of the network architecture together with certain characteristics of the training data (notably size of set and distribution within the target function).
+
+References-found: 7
+

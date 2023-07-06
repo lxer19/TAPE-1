@@ -1,0 +1,20 @@
+URL: http://dimacs.rutgers.edu/techps/1993/93-39.ps
+Refering-URL: http://dimacs.rutgers.edu/TechnicalReports/1993.html
+Root-URL: http://www.cs.rutgers.edu
+Title: The Simplex Algorithm with a New Primal and Dual Pivot Rule  
+Author: Hsin-Der CHEN Panos M. PARDALOS and Michael A. SAUNDERS 
+Date: June 14, 1993  
+Abstract: We present a simplex-type algorithm for linear programming that works with primal-feasible and dual-feasible points associated with bases that differ by only one column. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <institution> References </institution>
+Reference: [Dan63] <author> G. B. </author> <title> Dantzig (1963). Linear Programming and Extensions, </title> <publisher> Princeton University Press, </publisher> <address> Princeton, NJ. </address>
+Reference-contexts: Let B be a basis in A, so that AQ = ( B N ) for some permutation Q, and let Bx B = b, B T B = c B and r = c A T . An iteration of the primal simplex method <ref> [Dan63] </ref> can be briefly described as: Given B such that x B 0, if r 0, then stop; otherwise, update B. The dual simplex method is: Given B such that r 0, if x B 0, then stop; otherwise, update B.
+Reference: [Lem65] <author> C. E. </author> <title> Lemke (1965). Bimatrix equilibrium points and mathematical programming, </title> <booktitle> Management Science 11, </booktitle> <pages> 681-689. </pages>
+Reference-contexts: Related Work Many pivot rules are known for simplex-type algorithms. For example, a large number are described in [TZ92]. Under certain circumstances the proposed algorithm is equivalent to Lemke's method <ref> [Lem65] </ref>, as discussed in Section 6, but otherwise the algorithm appears to be new. 2. The Main Feature For problem (P ), let B P and B D be bases in the primal and dual simplex methods respectively. <p> The new basis is B D . 6. Relationship to Lemke's Method There is a similarity between the new algorithm and Lemke's <ref> [Lem65] </ref>. If the initial nonsingular basis B corresponds to a primal-feasible vertex of (P ), then both algorithms are exactly the same (they follow the same path from that vertex to the solution).
+Reference: [MLB87] <author> C. Moler, J. Little and S. </author> <title> Bangert (1987). PRO-MATLAB User's Guide, The MathWorks, </title> <publisher> Inc., </publisher> <address> Sherborn, MA. </address>
+Reference-contexts: When they are reconsidered, we have to check that B P is primal feasible. If not, a new vertex must be constructed as in 2 (a)-2 (c). 8. Experimental Results 7 8. Experimental Results The algorithms (original and variational) have been coded in MATLAB <ref> [MLB87] </ref> and compared with the simplex method with least-reduced-cost pivot rule (also coded in MATLAB). Full pricing was used in all methods. Some random test problems were generated with the following properties. All constraints (except for non-negativity) are tangent to a unit ball. None of the constraints is redundant.
+Reference: [TZ92] <author> T. Terlaky and S. </author> <title> Zhang (1992). A survey of pivot rules for linear programming, </title> <note> Research Memorandum No. 480, </note> <institution> Faculty of Economics, University of Groningen, The Netherlands. </institution>
+Reference-contexts: Partially supported by Department of Energy Grant DE-FG03-92ER25117, National Science Foundation Grant DDM-8715153, and Office of Naval Research Grant N00014-90-J-1242. 2 A primal and dual pivot rule 1.2. Related Work Many pivot rules are known for simplex-type algorithms. For example, a large number are described in <ref> [TZ92] </ref>. Under certain circumstances the proposed algorithm is equivalent to Lemke's method [Lem65], as discussed in Section 6, but otherwise the algorithm appears to be new. 2. The Main Feature For problem (P ), let B P and B D be bases in the primal and dual simplex methods respectively.
+References-found: 5
+

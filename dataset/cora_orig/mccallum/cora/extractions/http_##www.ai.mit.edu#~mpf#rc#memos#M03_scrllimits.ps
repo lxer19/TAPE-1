@@ -1,0 +1,20 @@
+URL: http://www.ai.mit.edu/~mpf/rc/memos/M03_scrllimits.ps
+Refering-URL: 
+Root-URL: 
+Title: Voltage Scaling and Limits to Energy Efficiency for CMOS-based SCRL WORKING DRAFT Revision: 1.27 increase,
+Author: Michael P. Frank 
+Note: Revision Date: 1997/01/10 22:33:42 GMT. Formatted April 25, 1997. A current version is available at http://www.ai.mit.edu/~mpf/rc/memos/M03 scrllimits.html ages  
+Date: Started Thu., Dec. 19, 1996.  
+Web: http://www.ai.mit.edu/~mpf  
+Address: Rm. 747 545 Technology Sq. Cambridge, MA 02139  
+Affiliation: MIT AI Lab,  
+Pubnum: MIT Reversible Computing Project Memo #M3  
+Abstract: This document explains in detail a simple analysis of the maximal energy efficiency of the SCRL [2, 1] adiabatic circuit technique when implemented using ordinary MOS devices, and of how its efficiency scales with varying threshold voltages and temperatures. The analysis is somewhat crude, and needs further development, but as a preliminary result, we find that the minimum energy per operation in SCRL circuits decreases as threshold and supply volt 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> S. G. Younis. </author> <title> Asymptotically Zero Energy Computing Using Split-Level Charge Recovery Logic. </title> <type> PhD thesis, </type> <institution> MIT Artificial Intelligence Laboratory, </institution> <year> 1994. </year>
+Reference-contexts: 1 Brief Overview of SCRL This document is not intended to introduce the reader to SCRL. For an introduction, the reader should refer to references <ref> [2, 1] </ref>. However, for illustrative purposes, figure 1 shows an example of an SCRL gate, in this case a NAND. It can be seen that the gate consists 1 of a normal CMOS NAND structure, with the output fed through a transmission gate. <p> Each stage may contain a number of SCRL gates in parallel, driving a bus of wires running between the stages. This large-scale structure is illustrated in figure 2, but the reader should consult <ref> [2, 1] </ref> for a detailed description. Adjacent SCRL stages are driven by sup ply rails whose timing is phase-shifted relative to each other, to cascade data through the pipeline while ensuring that two stages do not both try to drive the bus running between them at the same time. <p> The 7 total time for the complete cycle depends on the number of phases in the particular SCRL clocking discipline in question. A complete cycle of the 2-phase SCRL described by Younis <ref> [1] </ref> is the length of 18 transitions; 3-phase and 4-phase SCRL take 24 transitions, etc. These numbers are probably not minimal. Anyway, let n t be the number of transitions per cycle; the total cycle time is then T = n t t r .
+Reference: [2] <author> S. G. Younis and T. F. Knight, Jr. </author> <title> Asymptotically zero energy split-level charge recovery logic. </title> <booktitle> In International Workshop on Low Power Design, </booktitle> <pages> pages 177-182, </pages> <year> 1994. </year>
+Reference-contexts: 1 Brief Overview of SCRL This document is not intended to introduce the reader to SCRL. For an introduction, the reader should refer to references <ref> [2, 1] </ref>. However, for illustrative purposes, figure 1 shows an example of an SCRL gate, in this case a NAND. It can be seen that the gate consists 1 of a normal CMOS NAND structure, with the output fed through a transmission gate. <p> Each stage may contain a number of SCRL gates in parallel, driving a bus of wires running between the stages. This large-scale structure is illustrated in figure 2, but the reader should consult <ref> [2, 1] </ref> for a detailed description. Adjacent SCRL stages are driven by sup ply rails whose timing is phase-shifted relative to each other, to cascade data through the pipeline while ensuring that two stages do not both try to drive the bus running between them at the same time.
+References-found: 2
+

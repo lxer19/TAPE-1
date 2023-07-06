@@ -1,0 +1,24 @@
+URL: http://www.sds.lcs.mit.edu/spd/larch/pub/wadt11.ps
+Refering-URL: http://www.sds.lcs.mit.edu/spd/larch/
+Root-URL: 
+Title: The Larch Shared Language: Some Open Problems  
+Author: James J. Horning 
+Address: 130 Lytton Avenue, Palo Alto, CA 94301, USA  
+Affiliation: Digital Equipment Corporation, Systems Research Center,  
+Abstract: The Larch Shared Language for the specification of abstract data types has evolved over a number of years from a simple algebraic language to one that is both more complicated and more useful. This talk reviews some of its major design decisions and then discusses some of the design issues and remaining open problemsmost of which are consequences of the same decisions that contribute to LSL's good properties.
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> Cardelli, Luca: </author> <title> An Implementation of f &lt;: </title> . <institution> Digital Equipment Corporation, Systems Research Center, Palo Alto, </institution> <type> Report 97, </type> <year> 1993. </year>
+Reference-contexts: Luca Cardelli has designed an elegant method for syntax extension that is rather general, dynamic (extensions can be introduced locally), well-scoped (including avoidance of bound variable capture), and not too hard to implement <ref> [1] </ref>. The principal restriction is that the (extended) grammar must be LL (1); more precisely, the parse yielded will be the first one found by recursive descent.
+Reference: 2. <author> Guttag, John V.: </author> <title> The Specification and Application to Programming of Abstract Data Types. </title> <type> Ph.D. Thesis, </type> <institution> Department of Computer Science, University of Toronto, </institution> <year> 1975. </year>
+Reference-contexts: In the case of Integer Sets, Null and Insert are generators, Remove is an exten-sion, and Has is an observer. 4 In his thesis <ref> [2] </ref>, John proved that any ADT with computable operations can be specified by axioms in this standard form (if hidden operators are allowed), and explored the issue of being simpler in some depth. 2.3 Decision: Loose Semantics Another early decision was to use what is now called a loose semantics for
+Reference: 3. <author> Guttag, John V., Horning, James J., with Garland, S.J., Jones, K.D., Modet, A., Wing, J.M.: </author> <title> Larch: Languages and Tools for Formal Specification. </title> <note> Springer-Verlag Texts and Monographs in Computer Science, ISBN 0-387-94006-5, ISBN 3-540-94006-5, </note> <year> 1993. </year>
+Reference-contexts: 1 Introduction Larch <ref> [3] </ref>, [5] is a multi-site 2 project exploring methods, languages, and tools for the practical use of formal specifications. A distinctive feature of the Larch family of languages is that they support a two-tiered style of specification.
+Reference: 4. <author> Guttag, John V., Horning, James J., Modet, Andres: </author> <title> Report on the Larch Shared Language: </title> <type> Version 2.3. </type> <institution> Digital Equipment Corporation, Systems Research Center, Palo Alto, </institution> <type> Report 58, </type> <year> 1990. </year>
+Reference-contexts: Shoreline Blvd., MS 178, Mountain View, CA 94043, USA; e-mail: horning@sgi.com; URL: http://reality.sgi.com/horning/home.html; O- . 2 Much of the foundational work was done in the Systematic Programming Development Group at MIT's Laboratory for Computer Science and at Digital's Systems Research Center. 3 For a more extended discussion, see <ref> [4] </ref>. solutions. Good language features are relatively easy to design in isolation, but a com-bination of good features is not necessarily a good language, since language features interact in subtle and hard-to-anticipate ways.
+Reference: 5. <institution> Larch Home Page. </institution> <note> URL: http://reality.sgi.com/horning/larch-home.html </note> . 
+Reference-contexts: 1 Introduction Larch [3], <ref> [5] </ref> is a multi-site 2 project exploring methods, languages, and tools for the practical use of formal specifications. A distinctive feature of the Larch family of languages is that they support a two-tiered style of specification.
+Reference: 6. <author> An LSL Handbook. </author> <title> Appendix A in [3]; URL: http://reality.sgi.com/horning/toc.html . This article was processed using the L A T E X macro package with LLNCS style </title>
+Reference-contexts: This simple scheme actually carried us quite a way, and let us focus on more pressing problems early on. It served us well in the development of an LSL Handbook <ref> [6] </ref>. Where it started to feel clumsy was in writing interface specifications that involved type constructors. IntSet and IntArray aren't too bad in an interface that involves only the corresponding types.
+References-found: 6
+

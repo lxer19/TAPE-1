@@ -1,0 +1,24 @@
+URL: ftp://ftp.cs.rutgers.edu/pub/farach/Ultrametric.ps.Z
+Refering-URL: http://www.cs.rutgers.edu/~farach/index.html
+Root-URL: http://www.cs.rutgers.edu
+Title: [34] M.A. Steel, The complexity of reconstructing trees from qualitative characters and subtrees, The Optimal
+Author: E. Sweedyk and T. Warnow, . [] R.E. Tarjan, [] Y. Tateno, M. Nei, F. Tajima, [] M.S. Waterman, T.F. Smith, M. Singh, and W.A. Beyer, J. 
+Note: Journal of Classification, Vol. 9, 1992. [35]  Theor. Biol., 64, pp. 199-213, 1977.  Biol. Evol. 2:434-447, 1985.  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> A.V. Aho, Y. Sagiv, T.G. Szymanski, and J.D. Ullman, </author> <title> Inferring a tree from lowest common ancestors with an application to the optimization of relational expressions, </title> <journal> SIAM J. of Computing, </journal> <volume> vol 10, no. 3, </volume> <year> 1981. </year>
+Reference: [2] <author> S.F. Altschul, </author> <title> Amino acid substitution matrices from an information theoretic perspective., </title> <journal> J. Mol. Biol. </journal> <volume> 219: </volume> <pages> 555-565, </pages> <year> 1991. </year>
+Reference: [3] <author> W. Beyer, M. Stein, T. Smith and S. Ulam, </author> <title> A molecular sequence metric and evolutionary trees, </title> <journal> Math. Biosci., </journal> <volume> 19 </volume> <pages> 9-25. </pages>
+Reference: [4] <author> H. Bodlaender, M. Fellows, and T. Warnow, </author> <title> Two strikes against perfect phylogeny, appeared, </title> <booktitle> Proceedings, International Congress on Automata and Language Processing (ICALP), </booktitle> <address> Vi-enna, Austria, </address> <month> July </month> <year> 1992. </year>
+Reference: [5] <author> P. Buneman, </author> <title> Mathematics in the Archeoological and Historical Sciences, </title> <editor> (F.R. Hobson, D. G. Kendall and P. Tautu, eds) p. </editor> <volume> 387, </volume> <publisher> Edinburgh: University Press. </publisher>
+Reference: [6] <author> L. Cavalli-Sforza and A. Edwards, </author> <title> Phylogenetic analysis models and estimation procedures, </title> <journal> Evolution, </journal> <volume> 32 </volume> <pages> 550-70, </pages> <year> 1967. </year>
+Reference: [7] <author> T. Cormen, C Leiserson, and R. Rivest, </author> <title> Introduction to Algorithms, </title> <publisher> MIT Press, </publisher> <year> 1990. </year>
+Reference: [8] <author> J. Culberson and P. Rudnicki, </author> <title> A fast algorithm for constructing trees from distance matrices, </title> <journal> Information Processing Letters, </journal> <volume> 30 (1989), </volume> <pages> pp. 215-220. </pages>
+Reference: [9] <author> W.H.E. Day, </author> <title> Computational complexity of inferring phylogenies from dissimilarity matrices, </title> <journal> Bulletin of Mathematical Biology, </journal> <volume> Vol. 49, No. 4, </volume> <pages> pp. 461-467, </pages> <year> 1987. </year>
+Reference: [10] <author> M. Dayhoff and R. Eck, </author> <title> Atlas of Protein Sequence and Structure 1967-68, </title> <note> pp. 307. Silver Spring, </note> <institution> Maryland: Natl. Biomed. Res. Found. </institution>
+Reference: [11] <editor> Trees and Hierarchical Structures, </editor> <booktitle> Lecture Notes in Biomathematics, </booktitle> <editor> ed. Dress and Von Haessler, </editor> <publisher> Springer-Verlag, </publisher> <year> 1987. </year>
+Reference: [12] <author> J.S. Farris, </author> <title> Estimating phylogenetic trees from distance matrices, </title> <journal> Am. Nat., </journal> <volume> 106, </volume> <pages> pp. 645-668, </pages> <year> 1972. </year>
+Reference: [13] <author> J. Felsenstein, </author> <title> Numerical methods for inferring evolutionary trees, </title> <journal> The Quarterly Review of Biology, </journal> <volume> Vol. 57, No. 4, </volume> <month> Dec. </month> <year> 1982. </year>
+
+References-found: 13
+

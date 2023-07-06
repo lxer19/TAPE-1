@@ -1,0 +1,12 @@
+URL: http://www.cs.wustl.edu/~schmidt/ULPAA1-94.ps.gz
+Refering-URL: http://www.cs.wustl.edu/~schmidt/adaptive.html
+Root-URL: 
+Title: Configuring Function-based Communication Protocols for Multimedia Applications  
+Author: Douglas C. Schmidt Burkhard Stiller Tatsuya Suda Martina Zitterbart 
+Address: Irvine, California, USA 1 Karlsruhe, Germany  
+Affiliation: Info. and Comp. Sci. Dept. Institute of Telematics University of California, Irvine University of Karlsruhe  
+Abstract: This paper appeared in the proceedings of the 8 th IFIP International Working Conference on Upper Layer Protocols, Architectures, and Applications in Barcelona, Spain, June 1994. Abstract Next generation communication systems must support diverse applications operating over high-performance local, metropolitan, and wide area networks. This paper describes a framework that contains a number of resource, language, and tool components for generating customized protocols to support diverse multimedia applications running in high-performance network environments. These components help to simplify the process of generating application-tailored communication protocols by automating many development and configuration steps. A collaborative distance learning application scenario is presented to motivate and demonstrate techniques used to compose function-based protocols that are customized for particular application requirements. In addition, the structure of a protocol resource pool that contains reusable protocol function building-blocks is also examined. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

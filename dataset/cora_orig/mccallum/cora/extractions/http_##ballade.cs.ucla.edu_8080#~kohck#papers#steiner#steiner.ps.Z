@@ -1,0 +1,16 @@
+URL: http://ballade.cs.ucla.edu:8080/~kohck/papers/steiner/steiner.ps.Z
+Refering-URL: http://ballade.cs.ucla.edu:8080/~kohck/papers/abstract.html
+Root-URL: http://www.cs.ucla.edu
+Title: Figure A-3: A 4-point Steiner problem with a Steiner point of degree 4 exhibiting the
+Author:  
+Abstract-found: 0
+Intro-found: 1
+Reference: [Ber88] <author> M. W. Bern. </author> <title> Two probabilistic results on rectilinear steiner trees. </title> <booktitle> Al-gorithmica, </booktitle> <pages> pages 191-204, </pages> <year> 1988. </year>
+Reference: [CD85] <author> L. Paul Chew and Robert L. Drysdale. </author> <title> Voronoi diagrams based on convex distance functions. </title> <booktitle> In First Computational Geometry Conference, </booktitle> <year> 1985. </year>
+Reference: [CR41] <author> R. Courant and H. Robbins. </author> <note> What is Mathematics? Oxford University Press, </note> <year> 1941. </year>
+Reference: [CR91] <author> K. Chaudhary and P. Robinson. </author> <title> Channel routing by sorting. </title> <journal> IEEE Transactions on CAD, </journal> <volume> 10(6) </volume> <pages> 754-760, </pages> <month> jun </month> <year> 1991. </year>
+Reference: [CRS90] <author> James P. Cohoon, Dana S. Richards, and Jeffrey S. Salowe. </author> <title> An optimal steiner tree algorithm for a net whose terminals lie on the perimeter of a rectangle. </title> <journal> IEEE Transactions on Computer-Aided Design, </journal> <volume> 9(4) </volume> <pages> 398-407, </pages> <month> April </month> <year> 1990. </year>
+Reference: [CSW92] <author> Charles Chiang, Majid Sarrafzadeh, and C. K. Wong. </author> <title> An algorithm for exact rectilinear steiner trees for switchbox with obstacles. </title> <journal> IEEE Transactions on Circuits and Systems I: Fundamental Theory and Applications, </journal> <volume> 39(6) </volume> <pages> 446-455, </pages> <month> June </month> <year> 1992. </year>
+
+References-found: 6
+

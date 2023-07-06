@@ -1,0 +1,13 @@
+URL: ftp://ftp.cs.unc.edu/pub/users/sc/COMP122-F96/hw1.PS.Z
+Refering-URL: http://www.cs.unc.edu/~sc/teaching/COMP122-F1996/homework.html
+Root-URL: http://www.cs.unc.edu
+Phone: 1 1; 2; 3; 9; 10; 11 D 3 5; 5; 6; 6; 7; 7  2, 4, 6, 8, 10, 3, 7, 1, 9, so 5 survives.  
+Title: COMP 122: Algorithms and Analysis Problem Set Practice problems P-3 Prove the correctness of Horner's
+Note: Handed out:  Due back:  D  (a) Show that  H-2  is  
+Date: Fall 1996  22 Aug 1996  29 Aug 1996  
+Pubnum: 1  
+Abstract: P-1 All horses are the same color; we can prove this by induction on the number of horses in a given set. Here's how: "If there's just one horse then it's the same color as itself, so the basis is trivial. For the induction step, assume that there are n horses numbered 1 to n. By the induction hypothesis, horses 1 to n - 1 are the same color, and similarly horses 2 through n are the same color. But the middle horses, 2 through n - 1, can't change color when they're in different groups; these are horses, not chameleons. So horses 1 and n must be the same color as well, by transitivity. Thus all n horses are the same color; QED." What, if anything, is wrong with this reasoning? P-2 Consider four dice containing the numbers indicated below. For each pair of dice, say D i and D j with 1 i; j 4 and i 6= j, compute the probability that on a fair toss of the two dice, the top face of D i will show a higher number than the top face of D j . (Show the results in a 4fi4 matrix.) H-1 We showed in class that Horner's rule could be used to evaluate the degree-n polynomial p n (x) = P n i=0 a i x i with n multiplications and n additions. (b) Generalize the result above to determine an upper bound on the number of additions and multi plications needed to evaluate the function and its first k derivatives (k n). 
+Abstract-found: 1
+Intro-found: 0
+References-found: 0
+

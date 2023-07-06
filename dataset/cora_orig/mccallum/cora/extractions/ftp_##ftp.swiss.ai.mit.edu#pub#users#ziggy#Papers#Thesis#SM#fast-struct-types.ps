@@ -1,0 +1,14 @@
+URL: ftp://ftp.swiss.ai.mit.edu/pub/users/ziggy/Papers/Thesis/SM/fast-struct-types.ps
+Refering-URL: http://www.swiss.ai.mit.edu/~ziggy/papers.html
+Root-URL: 
+Email: [ziggy@lcs.mit.edu]  
+Title: Fast Structural Type Equivalence and Inclusion Testing or Debunking the "Expensive Structural Types" Myth or
+Author: Michael R. Blair 
+Note: This research was supported in part by the Defense Advanced Research Projects Agency of the Department of De fense and was monitored by the Office of Naval Research under contract number N00014-83-K-0125.  
+Affiliation: MIT Laboratory for Computer Science  
+Pubnum: AI Technical Memo)  
+Abstract: Structural type equivalence is the notion that two type expressions are equivalent iff they describe equivalently structured data. Name equivalence, by contrast, considers two types equivalent only when they are defined by the same textual occurrence of a type expression. Consequently, structural equivalence is more flexible than name equivalence. Unfortunately, it is commonly considered to be more expensive to support structural equivalence in the type checking phase of statically typed programmming languages. I contend that this reputation is undeserved. Specifically, I demonstrate that by viewing the structural type equivalence problem on two types as a search problem over the space of the types' normalization lattices (defined below), a gradual deepening algorithm can be used to make the time cost of proving equivalence rival that of name equivalence systems precisely in those situations where a name equivalence discipline is adhered to by the programmer. More importantly, in those situations where a programmer takes advantage of the additional flexibility afforded by the more tolerant structural equivalence, the cost of proving equivalence will still be proportional only to those structural equivalence axioms actually needed to demonstrate equivalence. Thus, the cost of proving the equivalence of two type expressions can be made proportional to the cost of the axioms actually employed rather than to the potential expense of exploiting the overall flexibility of the entire equivalence/inclusion axiom system supported. That is, structural equivalence can be made economically viable. This approach naturally leads to an efficient solution to the structural inclusion problem as well. It has been argued that structural inclusion is at the heart of the semantics of statically typed object-oriented programming languages with multiple-inheritance, so efficient structural inclusion testing is crucial to the compile-time efficiency of such languages. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

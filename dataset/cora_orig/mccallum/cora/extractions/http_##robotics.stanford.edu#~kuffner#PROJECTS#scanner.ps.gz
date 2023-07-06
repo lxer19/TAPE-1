@@ -1,0 +1,22 @@
+URL: http://robotics.stanford.edu/~kuffner/PROJECTS/scanner.ps.gz
+Refering-URL: http://robotics.stanford.edu/~kuffner/publications.html
+Root-URL: http://www.cs.stanford.edu
+Title: Recovering 3D Geometry with a Robot Arm and a Laser Scanner  
+Author: James Kuffner, Jr Prof. Carlo Tomasi 
+Note: Contents  
+Date: March 21, 1995  
+Affiliation: CS 223b Computer Vision  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> P. Besl, </author> <title> "Advances in Machine Vision," chapter 1 Active optical range imaging sensors, </title> <journal> pp. </journal> <pages> 1-63. </pages> <publisher> Springer-Verlag, </publisher> <year> 1989. </year>
+Reference-contexts: One primary source of information about various methods is given in a survey by Paul Besl <ref> [1] </ref>. Other more recent sources include papers by Curless [2] and Dorsch [3] which detail some of the limits to the accuracy of triangulation methods. The major issues I will briefly discuss below.
+Reference: [2] <author> B. Curless and M. Levoy, </author> <title> "Better optical triangulation through spacetime analysis," </title> <note> to appear in ICCV '95, </note> <year> 1995. </year>
+Reference-contexts: One primary source of information about various methods is given in a survey by Paul Besl [1]. Other more recent sources include papers by Curless <ref> [2] </ref> and Dorsch [3] which detail some of the limits to the accuracy of triangulation methods. The major issues I will briefly discuss below. <p> A few of the alternatives to the maximum pixel value method include using the mean, the median, or fitting a one-dimensional Gaussian distribution to the intensity data on each scanline, and using the mean of the Gaussian as the center point. Curless <ref> [2] </ref> uses a spacetime analysis in order to achieve good results even when the object's surface reflectance varies.
+Reference: [3] <author> R.G. Dorsch, G. Haulser, and J.M. Herrman. </author> <title> "Laser triangulation: fundamental uncertainty in distance measurement." </title> <journal> Applied Optics, </journal> <volume> 33(7) </volume> <pages> 1306-1314, </pages> <month> March </month> <year> 1994. </year>
+Reference-contexts: One primary source of information about various methods is given in a survey by Paul Besl [1]. Other more recent sources include papers by Curless [2] and Dorsch <ref> [3] </ref> which detail some of the limits to the accuracy of triangulation methods. The major issues I will briefly discuss below.
+Reference: [4] <author> J.L. Mundy and G.B. Porter. </author> <title> "Three-dimensional machine vision", chapter 1 A three-dimensional sensor based on structured light, </title> <address> pages 3-61. </address> <publisher> Kluver Academic Publishers, </publisher> <year> 1987. </year>
+Reference: [5] <author> T. Strand. </author> <title> "Optical three dimensional sensing", </title> <journal> Optical Engineering, </journal> <volume> 24(1): </volume> <pages> 33-40, </pages> <month> Jan-Feb </month> <year> 1983. </year>
+Reference: [6] <author> G. Turk and M. Levoy. </author> <title> "Zippered polygon meshes from range images". </title> <booktitle> In Siggraph 94 Conference Proceedings, </booktitle> <pages> pp. 311-318, </pages> <month> July </month> <year> 1994. </year> <note> 14 7 Appendices </note>
+Reference-contexts: There are a number of ways of dealing with this problem, including scanning the object from an angle which will minimize or eliminate occlusions. Others have devised methods of combining the results of several scans to produce the full object geometry <ref> [6] </ref>. In Section 4: Mesh Generation, I explain further how my software deals with occlusions.
+References-found: 6
+

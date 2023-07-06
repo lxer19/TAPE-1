@@ -1,0 +1,21 @@
+URL: http://www.csl.sri.com/~qian/tkde95.ps.gz
+Refering-URL: http://www.csl.sri.com/~qian/early-pubs.html
+Root-URL: 
+Title: Enriching the Expressive Power of Security Labels  
+Author: Li Gong and Xiaolei Qian 
+Keyword: Data security, garbage collection, multilevel security, object label, read-only object.  
+Date: 7(5), OCTOBER 1995 1  
+Note: IEEE TRANSACTIONS ON KNOWLEDGE AND DATA ENGINEERING,  
+Abstract: Common security models such as Bell-LaPadula focus on the control of access to sensitive data but leave some important systems issues unspecified, such as the implementation of read-only objects, garbage collection, and object upgrade and downgrade paths. Consequently, different implementations of the same security model may have conflicting operational and security semantics. We propose the use of more expressive security labels for specifying these system issues within the security model, so that the semantics of a system design are precisely understood and are independent of implementation details. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> S.G. Akl and D.E. Denning, </author> <title> "Checking Classification Constraints for Consistency and Completeness", </title> <booktitle> in Proceedings of the IEEE Symposium on Security and Privacy, </booktitle> <address> Oakland, California, </address> <month> April </month> <year> 1987, </year> <pages> pp. 196-201. </pages>
+Reference: [2] <author> D.E. Bell and L.J. La Padula, </author> <title> "Secure Computer System: Unified Exposition and Multics Interpretation", </title> <type> Tech. Rep. </type> <institution> ESD-TR-75-306, The MITRE Corporation, Bedford, Massachusetts, </institution> <month> March </month> <year> 1976. </year>
+Reference: [3] <author> E. Bertino, L.V. Mancini, and S. Jajodia, </author> <title> "Collecting Garbage in Multilevel Secure Object Stores", </title> <booktitle> in Proceedings of the IEEE Symposium on Research in Security and Privacy, </booktitle> <address> Oakland, California, </address> <month> May </month> <year> 1994, </year> <pages> pp. 106-120. </pages>
+Reference: [4] <author> D.F.C. Brewer and M.J. Nash, </author> <title> "The Chinese Wall Security Policy", </title> <booktitle> in Proceedings of the IEEE Symposium on Security and Privacy, </booktitle> <address> Oakland, California, </address> <month> April </month> <year> 1989, </year> <pages> pp. 206-214. </pages>
+Reference: [5] <author> B.A. Davey and H.A. Priestley, </author> <title> Introduction to Lattices and Order, </title> <publisher> Cambridge University Press, </publisher> <year> 1990. </year>
+Reference: [6] <author> D.E. Denning, </author> <title> "A Lattice Model of Secure Information Flow", </title> <journal> Communications of the ACM, </journal> <volume> vol. 19, no. 5, </volume> <pages> pp. 236-243, </pages> <month> May </month> <year> 1976. </year>
+Reference: [7] <author> S.N. Foley, </author> <title> "Secure Information Flow Using Security Groups", </title> <booktitle> in Proceedings of the 3rd IEEE Computer Security Foundations Workshop, </booktitle> <address> Franconia, New Hampshire, </address> <month> June </month> <year> 1990, </year> <pages> pp. 62-72. </pages>
+Reference: [8] <author> C.E. Landwehr, </author> <title> "Formal Models for Computer Security", </title> <journal> ACM Computing Survey, </journal> <volume> vol. 13, no. 3, </volume> <pages> pp. 247-278, </pages> <month> September </month> <year> 1981. </year>
+References-found: 8
+

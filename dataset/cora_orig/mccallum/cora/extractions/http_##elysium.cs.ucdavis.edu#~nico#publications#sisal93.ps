@@ -1,0 +1,22 @@
+URL: http://elysium.cs.ucdavis.edu/~nico/publications/sisal93.ps
+Refering-URL: http://elysium.cs.ucdavis.edu/~nico/publications/publications.html
+Root-URL: http://www.cs.ucdavis.edu
+Email: nico@cs.ucdavis.edu park@cs.ucdavis.edu  
+Title: Caching in on Sisal: Cache Performance of Sisal vs. Fortran  
+Author: P. L. Nico A. Park 
+Address: Davis, CA 95616 Davis, CA 95616  
+Affiliation: Department of Computer Science Department of Computer Science University of California, Davis University of California, Davis  
+Abstract: In this paper we investigate the relative cache performance of Sisal and Fortran through trace-driven simulation of representative scientific applications. The range of cache configurations considered corresponds to on-chip caches in current and next-generation microprocessors. We find that in unified caches the performance is equivalent. With split instruction and data caches, performance is still comparable, yet the two languages demonstrate somewhat different tendencies. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> D. Cann. </author> <title> Retire fortran? a debate rekindled. </title> <journal> Communications of the ACM, </journal> <volume> 35(8) </volume> <pages> 81-90, </pages> <month> August </month> <year> 1992. </year>
+Reference-contexts: Although Sisal's performance competitiveness with Fortran has been established on supercomputers such as the CRAY which has no cache <ref> [1] </ref>, questions have been raised as to the relative performance in the cache environment of microprocessor based systems. <p> be small and simple, most on-chip caches are, and will probably remain, direct mapped.[2] For these reasons, we will concentrate on direct-mapped caches. 2.1 The Programs The applications used here were taken from those used by David Cann for the performance comparison of Sisal and Fortan on the CRAY Y-MP <ref> [1] </ref>. Missing are FFT and the Lawrence Livermore Loops. The FFT program was simply a call to the CRAY library which was clearly not portable for our purposes, and the Livermore Loops did not produce execution traces of sufficient length to properly exercise the caches.
+Reference: [2] <author> M. D. Hill. </author> <title> A case for direct-mapped caches. </title> <journal> IEEE Computer, </journal> <volume> 21(12) </volume> <pages> 25-40, </pages> <month> December </month> <year> 1988. </year>
+Reference: [3] <author> G. Kane and J. Heinrich. </author> <title> MIPS RISC Architecture. </title> <publisher> Prentice-Hall, </publisher> <address> Englewood Cliffs, New Jersey, </address> <year> 1992. </year>
+Reference-contexts: As a result of this and of advancing VLSI technology, most current-generation microprocessors and virtually all next-generation microprocessors will have on-chip memory caches. Since chip real-estate is a valuable commodity, these caches are relatively small ( e.g. 8-32Kbytes for the Mips R4000 <ref> [3] </ref>). The ready availability of fast, inexpensive microprocessors will make them the building blocks of the next generation of parallel computers [5]. This means, of course, that regardless of how they are interconnected, microprocessor performance in general and memory performance in particular will be of increasing importance in the future.
+
+Reference: [5] <author> J. Rattner. Supercomputing's destiny: </author> <title> the microprocessor. </title> <booktitle> Supercomputing Review, </booktitle> <month> June </month> <year> 1989. </year>
+Reference-contexts: Since chip real-estate is a valuable commodity, these caches are relatively small ( e.g. 8-32Kbytes for the Mips R4000 [3]). The ready availability of fast, inexpensive microprocessors will make them the building blocks of the next generation of parallel computers <ref> [5] </ref>. This means, of course, that regardless of how they are interconnected, microprocessor performance in general and memory performance in particular will be of increasing importance in the future.
+Reference: [6] <author> A. J. Smith. </author> <title> Cache memories. </title> <journal> Computing Surveys, </journal> <volume> 14(3) </volume> <pages> 473-530, </pages> <month> September </month> <year> 1982. </year>
+References-found: 5
+

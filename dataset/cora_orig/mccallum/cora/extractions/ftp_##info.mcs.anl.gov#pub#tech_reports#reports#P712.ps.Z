@@ -1,0 +1,17 @@
+URL: ftp://info.mcs.anl.gov/pub/tech_reports/reports/P712.ps.Z
+Refering-URL: http://www.mcs.anl.gov/publications/abstracts/abstracts98.htm
+Root-URL: http://www.mcs.anl.gov
+Title: The Transition of Numerical Software: From Nuts-and-Bolts to Abstraction  
+Author: Barry F. Smith 
+Date: May 29, 1998  
+Abstract: 1 Mathematics and Computer Science Division, Argonne National Laboratory, 9700 South Cass Ave., Argonne, IL 60439-4844. bsmith@mcs.anl.gov, http://www.mcs.anl.gov/petsc/petsc.html. This work was supported by the Mathematical, Information, and Computational Sciences Division subprogram of the Office of Computational and Technology Research, U.S. Department of Energy, under Contract W-31-109-Eng-38. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [BL96] <author> A. M. Bruaset and H. P. Langtangen. </author> <title> A Comprehensive set of Tools for Solving Partial Differential Equations: </title> <publisher> Diffpack. Birkhauser, </publisher> <year> 1996. </year>
+Reference-contexts: No single article, book, or even series of books can be a substitute for actually learning the concepts by using them. A more specifically C++ oriented introduction to these ideas is <ref> [BL96] </ref>. An interesting set of opinions on C++ object-oriented programming is contained 1 in [KM96], 0.2 Seven Evolutionary Steps The learning curve can be (somewhat arbitrarily) divided into seven conceptual stages.
+Reference: [KM96] <author> Andrew Koenig and Barbara Moo. </author> <title> Ruminations on C++. </title> <publisher> Addison-Wesley, </publisher> <year> 1996. </year>
+Reference-contexts: No single article, book, or even series of books can be a substitute for actually learning the concepts by using them. A more specifically C++ oriented introduction to these ideas is [BL96]. An interesting set of opinions on C++ object-oriented programming is contained 1 in <ref> [KM96] </ref>, 0.2 Seven Evolutionary Steps The learning curve can be (somewhat arbitrarily) divided into seven conceptual stages.
+Reference: [MCSD97] <institution> The Mathematics and Argonne National Laboratory Computer Science Division. ALICE home page. </institution> <note> http://www.mcs.anl.gov/alice, December 1997. 12 </note>
+Reference-contexts: The complete PETSc distribution is freely available at http://www.mcs.- anl.gov/petsc/. PETSc is part of the Advanced Large-scale Integrated Computational Environment (ALICE) <ref> [MCSD97] </ref>, being developed in the Mathematics and Computer Science Division at Argonne National Laboratory. Other object-oriented numerically focused software systems include: * Blitz++, http://monet.uwaterloo.ca/blitz/, * Diffpack, http://www.nobjects.com/prodserv/diffpack/, * ISIS++, http://www.ca.sandia.gov/isis/, * POOMA, http://www.acl.lanl.gov/PoomaFramework/, * Overture, http://www.c3.lanl.gov/ henshaw/Overture/Overture.html, * OPlus, http://www.comlab.ox.ac.uk/oucl/oxpara/parallel/oplus.htm, * PLapack, http://www.cs.utexas.edu/users/plapack/interface/interface.html.
+References-found: 3
+

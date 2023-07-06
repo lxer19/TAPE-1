@@ -1,0 +1,25 @@
+URL: http://www.ecs.umass.edu/mie/faculty/perot/cfd3.ps
+Refering-URL: http://www.ecs.umass.edu/mie/faculty/perot/page5.html
+Root-URL: 
+Title: Parallel Computational Fluid Dynamics '92  Direct Numerical Simulation of Turbulence on the Connection Machine  
+Author: R. Pelz, A. Ecer J. Hauser, eds. J. Blair Perot 
+Address: Stanford, CA 94305, USA  
+Affiliation: Department of Mechanical Engineering, Stanford University,  
+Note: Elsevier Press, Netherlands  
+Abstract:  
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <institution> Committee on Physical, Mathematical, and Engineering Sciences, Grand Challenges: High Performance Computing and Communications, OSTP FCCSET report. National Science Foundation. </institution>
+Reference-contexts: The fundamental questions that can be answered about turbulence are closely related to the current level of supercomputer performance. In fact, turbulence has been identified as one of the Grand Challenge problems <ref> [1] </ref> that could benefit significantly from increased supercomputer performance and, in particular, from massively parallel computers. However, the issue of whether massively parallel machines can actually fulfill their performance expectations when it comes to turbulence simulation is still an open question.
+Reference: 2. <author> F. H. Harlow and J. E. </author> <title> Welsh, </title> <journal> Phys. </journal> <volume> Fluids 8, </volume> <year> (1965) </year> <month> 2182-2189 </month>
+Reference-contexts: It is very much in the spirit of the discretization first introduced by Harlow and Welch <ref> [2] </ref>. The mesh is cartesian but not necessarily uniform, and in the results that follow one of the three directions will be non-uniform. A two dimensional representation of the spatial discretization is shown in Figure 1. mesh.
+Reference: 3. <author> J. B. Perot, </author> <title> An analysis of the fractional step method. </title> <note> Submitted to the Jour. Comp. </note> <institution> Physics, </institution> <year> (1992). </year>
+Reference-contexts: An implicit method removes the very severe stability restrictions that would otherwise be imposed by this term, and computationally only requires a single matrix inversion, because the diffusive terms are linear in the velocity. Finally, the pressure is solved for by using a fractional step method <ref> [3] </ref>. Mathematically the time discretization can be written as, v fl v n + 3 (v n r)v n 2 1 r 2 (v fl + v n ); (1a) t where v fl is a temporary intermediate variable.
+Reference: 4. <author> R. W. Hockney and C. R. Jesshope, </author> <title> Parallel Computers 2 Bristol and Philadelphia: </title> <editor> Adam Hilger, </editor> <year> (1988). </year> <pages> 475-489. </pages>
+Reference-contexts: On the Cray, the matrix is factored into a set of three tridiagonal matrices and then Guass elimination is used to solve the tridiagonals. On the CM-2 the same procedure can be used but a parallel tridiagonal algorithm such as cyclic reduction <ref> [4] </ref> must be substituted for serial Guass elimination. Or, on the CM-2, the matrix can be left unfactored and simply solved using an iterative technique such as conjugate gradients [5].
+Reference: 5. <author> W. H. Press, B. P. Flannery, S. A. Teukolsky, and W. T. Vetterling, </author> <title> Numerical Recipes, </title> <publisher> Cambridge University Press, </publisher> <year> (1986). </year> <pages> 70-73. </pages>
+Reference-contexts: On the CM-2 the same procedure can be used but a parallel tridiagonal algorithm such as cyclic reduction [4] must be substituted for serial Guass elimination. Or, on the CM-2, the matrix can be left unfactored and simply solved using an iterative technique such as conjugate gradients <ref> [5] </ref>. In either case, this portion of the code takes about 25% of the overall time, compared to about 30% for the Y-MP. Cyclic reduction involves long distance communication.
+Reference: 6. <author> B. L. Buzbee, G. H. Golub, and C. M. Nielson, </author> <title> On Direct Methods for Solving Poisson's Equation, </title> <journal> SIAM J. Numer. Anal. </journal> <pages> 7-4, </pages> <year> (1970) </year> <month> 627-656. </month>
+Reference-contexts: For the simple geometry of this flow, this equation can be solved explicitly through the use of a Fourier transform in the z-direction, a cosine transform in the x-direction, and a tridiagonal matrix inversion in the y-direction <ref> [6] </ref>. Both the Fourier transform and cosine transform involve calls to the Connection Machine FFT subroutines. FFT's involve regular (butterfly), but long distance communication. The FFT's have linear speedup and scale linearly in the number of data points but are very slow.
+References-found: 6
+

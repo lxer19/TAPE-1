@@ -1,0 +1,36 @@
+URL: ftp://ftp.cs.washington.edu/pub/ai/pika-aaai93.ps.Z
+Refering-URL: http://www.cs.washington.edu/homes/weld/pubs.html
+Root-URL: 
+Email: weld@cs.washington.edu  
+Title: Real-Time Self-Explanatory Simulation behavior. Unlike SimGen, Pika's modeling language allows arbitrary algebraic and differential equations
+Author: Franz G. Amador and Adam Finkelstein and Daniel S. Weld franz, adam, 
+Note: ulated  
+Address: Seattle, Washington 98195  
+Affiliation: Department of Computer Science and Engineering, FR-35 University of Washington  
+Abstract: We present Pika, an implemented self-explanatory simulator that is more than 5000 times faster than SimGen Mk2 [ Forbus and Falkenhainer, 1992 ] , the previous state of the art. Like SimGen, Pika automatically prepares and runs a numeric simulation of a physical device specified as a particular in-stantiation of a general domain theory, and it is capable of explaining its reasoning and the sim 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> H. Abelson and G.J. Sussman. </author> <title> The Dynamicist's Workbench: I Automatic Preparation of Numerical Experiments. </title> <type> AI Memo 955, </type> <institution> MIT AI Lab, </institution> <month> May </month> <year> 1987. </year>
+Reference: <author> Franz G. Amador, Deborah Berman, Alan Borning, Tony DeRose, Adam Finkelstein, Dorothy Neville, David Notkin, David Salesin, Mike Salisbury, Joe Sherman, Ying Sun, Daniel S. Weld, and Georges Winkenbach. </author> <title> Electronic "How Things Work" Articles: Two Early Prototypes. </title> <journal> IEEE Transactions on Knowledge and Data Engineering, </journal> <note> To Appear 1993. </note>
+Reference: <author> D. Brill. </author> <title> LOOM Reference Manual. </title> <address> USC-ISI, 4353 Park Terrace Drive, Westlake Village, CA 91361, </address> <note> version 1.4 edition, </note> <month> August </month> <year> 1991. </year>
+Reference: <author> J. de Kleer. </author> <title> An Assumption-based Truth Maintenance System. </title> <journal> Artificial Intelligence, </journal> <volume> 28, </volume> <year> 1986. </year>
+Reference: <author> R. Fikes, T. Gruber, and I. Iwasaki. </author> <title> The Stanford How Things Work Project. </title> <booktitle> In Working Notes of the AAAI Fall Symposium on Design from Physical Principles, </booktitle> <pages> pages 88-91, </pages> <month> October </month> <year> 1992. </year>
+Reference: <author> K. Forbus and B. Falkenhainer. </author> <title> Self-Explanatory Simulations: An integration of qualitative and quantitative knowledge. </title> <booktitle> In Proceedings of AAAI-90, </booktitle> <pages> pages 380-387, </pages> <year> 1990. </year>
+Reference: <author> K. Forbus and B. Falkenhainer. </author> <title> Self-Explanatory Simulations: Scaling Up to Large Models. </title> <note> In Proceedings of AAAI-92, page To Appear, </note> <year> 1992. </year>
+Reference: <author> K. Forbus. </author> <title> Qualitative Process Theory. </title> <journal> Artificial Intelligence, </journal> <volume> 24, </volume> <month> December </month> <year> 1984. </year> <editor> Reprinted in [ Weld and de Kleer, </editor> <year> 1989 </year> ] . 
+Reference: <author> J. Holland, E. Hutchins, and L. Weitzman. STEAMER: </author> <title> An interactive inspectable simulation-based training system. </title> <journal> AI Magazine, </journal> <month> Summer </month> <year> 1984. </year>
+Reference: <author> Y. Iwasaki and H. Simon. </author> <title> Causality In Device Behavior. </title> <journal> Artificial Intelligence, </journal> <volume> 29(1) </volume> <pages> 3-32, </pages> <month> July </month> <year> 1986. </year>
+Reference: <editor> Reprinted in [ Weld and de Kleer, </editor> <year> 1989 </year> ] . 
+Reference: <author> R.S. Palmer and J.F. Cremer. SimLab: </author> <title> Automatically Creating Physical Systems Simulators. </title> <booktitle> In ASME DSC-Vol. </booktitle> <volume> 41, </volume> <month> November </month> <year> 1992. </year>
+Reference: <author> W. Press, B. Flannery, S. Teukolsky, and W. Vetter-ling, </author> <title> editors. Numerical Recipes. </title> <publisher> Cambridge University Press, </publisher> <address> Cambridge, England, </address> <year> 1986. </year>
+Reference: <author> R.C. Rosenberg and D.C. Karnopp. </author> <title> Introduction to Physical System Dynamics. </title> <publisher> McGraw Hill, </publisher> <address> New York, </address> <year> 1983. </year>
+Reference: <author> M. Salisbury and A. Borning. </author> <title> A User Interface for the Electronic Encyclopedia Exploratorium. </title> <booktitle> In Proceedings of the 1993 International Workshop on Intelligent User Interfaces, </booktitle> <address> Orlando, FL, </address> <month> January </month> <year> 1993. </year>
+Reference: <author> M. Sannella. </author> <title> The SkyBlue Constraint Solver. </title> <type> Technical Report 92-07-02, </type> <institution> Department of Computer Science and Engineering, University of Washington, </institution> <month> De-cember </month> <year> 1992. </year>
+Reference: <author> D. Serrano and D.C. Gossard. </author> <title> Constraint Management in Conceptual Design. In Knowledge Based Expert Systems in Engineering: </title> <booktitle> Planning and Design, </booktitle> <pages> pages 211-224. </pages> <publisher> Computational Mechanics Publications, </publisher> <year> 1987. </year>
+Reference: <author> D. Weld and J. de Kleer, </author> <title> editors. Readings in Qualitative Reasoning about Physical Systems. </title> <publisher> Morgan Kauf-mann, </publisher> <address> San Mateo, CA, </address> <month> August </month> <year> 1989. </year>
+Reference: <author> S. Wolfram. </author> <title> Mathematica: A System for Doing Methematics by Computer. </title> <publisher> Addison-Wesley, </publisher> <address> Redwood City, CA, </address> <year> 1988. </year>
+Reference: <author> E. Woods. </author> <title> The Hybrid Phenomena Theory. </title> <booktitle> In Proceedings of the 5th intenational workshop on qualitative reasoning, </booktitle> <pages> pages 71-76, </pages> <month> May </month> <year> 1991. </year>
+Reference: <author> A.T. Yang and S.M. Yang. iSMILE: </author> <title> A Novel Circuit Simulation Program with Emphasis on New Device Model Development. </title> <booktitle> In Proceedings of ACM/IEEE 1989 Design Automation Conference, </booktitle> <pages> pages 630-633, </pages> <year> 1989. </year>
+Reference: <author> A.T. Yang. </author> <title> MISIM User's Manual. </title> <institution> Department of Electrical Engineering, University of Washington, </institution> <year> 1992. </year>
+References-found: 22
+

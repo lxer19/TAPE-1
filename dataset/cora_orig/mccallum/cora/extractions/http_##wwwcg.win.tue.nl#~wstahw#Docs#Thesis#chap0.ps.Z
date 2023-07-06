@@ -1,0 +1,14 @@
+URL: http://wwwcg.win.tue.nl/~wstahw/Docs/Thesis/chap0.ps.Z
+Refering-URL: http://wwwcg.win.tue.nl/~wstahw/Docs/Thesis/
+Root-URL: http://www.win.tue.nl
+Abstract-found: 0
+Intro-found: 1
+Reference: <author> Fre74.Herbert Freeman, </author> <title> ``Computer Processing of Line-Drawing Images,'' </title> <journal> Computing Surveys, </journal> <volume> vol. 6, </volume> <pages> pp. 57-97, </pages> <month> March </month> <year> 1974. </year>
+Reference: <author> Bre65.J.E. Bresenham, </author> <title> ``Algorithms for Computer Control of a Digital Plotter,'' </title> <journal> IBM Systems Journal, </journal> <volume> vol. 4, </volume> <pages> pp. 25-30, </pages> <year> 1965. </year>
+Reference: <author> Fol90.James D. Foley, Andries van Dam, Steven K. Feiner, and John F. Hughes, </author> <title> Computer Graphics: </title> <booktitle> Principles and Practice, The systems programming series, </booktitle> <publisher> Addison-Wesley, </publisher> <year> 1990. </year> <note> 2nd edition Boe84. </note>
+Reference: <author> Wolfgang Boehm, Gerald Farin, and Jurgen Kahmann, </author> <title> ``A survey of curve and surface methods in CAGD,'' </title> <booktitle> Computer Aided Geometric Design, </booktitle> <volume> vol. 1, </volume> <pages> pp. 1-60, </pages> <year> 1984. </year>
+Reference: <author> Lie87.Marloes van Lierop, </author> <title> Digitisation Functions in Computer Graphics, Eindho-ven, 1987. </title> <type> Ph.D. Thesis, </type> <institution> Eindhoven University of Technology Fre61.H. </institution> <month> Freeman, </month> <title> ``Techniques for the digital computer analysis of chain-encoded arbitrary plane curves,'' </title> <booktitle> in Proceedings of the National Electronics Conference, </booktitle> <volume> vol. 17, </volume> <pages> pp. 421-432, </pages> <address> Chicago, </address> <year> 1961. </year>
+Reference: <institution> Mor85. </institution>
+Reference: <author> Michael E. Mortenson, </author> <title> Geometric Modeling, </title> <publisher> John Wiley & Sons, </publisher> <address> New York, </address> <year> 1985. </year>
+References-found: 7
+

@@ -1,0 +1,12 @@
+URL: ftp://ftp.mcs.anl.gov/pub/nexus/reports/nexus_spec_v3.0.ps.Z
+Refering-URL: http://www.mcs.anl.gov/nexus/nexus_v3/nexus3.html
+Root-URL: http://www.mcs.anl.gov
+Title: Nexus: An Interoperability Layer for Parallel and Distributed Computer Systems  
+Author: Ian Foster Carl Kesselman Robert Olson Steven Tuecke 
+Date: January 10, 1996  
+Note: Version 3.0  This work was supported in part by the Office of Scientific Computing, U.S. Department of Energy, under Contract W-31-109-Eng-38, and in part by the National Science Foundation's Center for Research in Parallel Computation under Conract CCR-8809615.  
+Abstract: Nexus is a set of services that can be used to implement various task-parallel languages, data-parallel languages, and message-passing libraries. Nexus is designed to permit the efficient, portable implementation of individual parallel programming systems and the interoperability of programs developed with different tools. Nexus supports light-weight threading and active message technology, allowing integration of message passing and threads. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

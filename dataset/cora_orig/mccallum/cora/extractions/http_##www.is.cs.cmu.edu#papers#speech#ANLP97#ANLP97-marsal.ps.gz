@@ -1,0 +1,18 @@
+URL: http://www.is.cs.cmu.edu/papers/speech/ANLP97/ANLP97-marsal.ps.gz
+Refering-URL: http://www.is.cs.cmu.edu/ISL.speech.publications.html
+Root-URL: 
+Email: marsal+@cs.cmu.edu  zechner+@andrew.cmu.edu  aist+@andrew.cmu.edu  
+Title: High Performance Segmentation of Spontaneous Speech Using Part of Speech and Trigger Word Information  
+Author: Marsal Gavalda Klaus Zechner Gregory Aist 
+Address: Pittsburgh, PA 15213, USA  Pittsburgh, PA 15213, USA  Pittsburgh, PA 15213, USA  
+Affiliation: Interactive Systems Labs. Language Technologies Institute School of Computer Science Carnegie Mellon University  Interactive Systems Labs. Comp. Ling. Program Department of Philosophy Carnegie Mellon University  Comp. Ling. Program Department of Philosophy Carnegie Mellon University  
+Abstract: We describe and experimentally evaluate an efficient method for automatically determining small clause boundaries in spontaneous speech. Our method applies an artificial neural network to information about part of speech and trigger words. We find that with a limited amount of data (less than 2500 words for the training set), a small sliding context window (+/3 tokens) and only two hidden units, the neural net performs extremely well on this task: less than 5% error rate and F-score (combined precision and recall) of over .85 on unseen data. These results prove to be better than those reported earlier using different approaches.
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> J. J. Godfrey, E. C. Holliman, and J. McDaniel. </author> <year> 1992. </year> <title> Switchboard: telephone speech corpus for research and development. </title> <booktitle> In Proceedings of the ICASP-92, </booktitle> <volume> vol. I, </volume> <pages> pp. 517-520. </pages>
+Reference: <author> A. Lavie, D. Gates, N. Coccaro, and L. Levin. </author> <year> 1996. </year> <title> Input segmentation of spontaneous speech in Janus: a speech-to-speech translation system. </title> <booktitle> In Proceedings of the ECAI-96. </booktitle>
+Reference: <author> D. D. Palmer and M. A. Hearst. </author> <year> 1994. </year> <title> Adaptive sentence boundary disambiguation. </title> <booktitle> In Proceedings of the ANLP-94. </booktitle>
+Reference: <author> A. Stolcke and E. Shriberg. </author> <year> 1996. </year> <title> Automatic linguistic segmentation of conversational speech. </title> <booktitle> In Proceedings of the ICSLP-96, </booktitle> <pages> pp. 1005-1008. </pages>
+Reference: <author> K. Takagi and S. Itahashi. </author> <year> 1996. </year> <title> Segmentation of spoken dialogue by interjections, disfluent utterances and pauses. </title> <booktitle> In Proceedings of the ICSLP-96, </booktitle> <pages> pp. 697-700. </pages>
+References-found: 5
+

@@ -1,0 +1,27 @@
+URL: http://www.ius.cs.cmu.edu/IUS/saradar/Papers/vcip96.ps.gz
+Refering-URL: http://www.cs.cmu.edu/afs/cs.cmu.edu/user/rcollins/www/Pub/vcip96.html
+Root-URL: 
+Title: Maximum-weight bipartite matching technique and its application in image feature matching  
+Author: Yong-Qing Cheng, Victor Wu, Robert T. Collins, Allen R. Hanson, Edward M. Riseman 
+Keyword: image feature matching, bipartite matching, image sequence analysis, computer vision  
+Address: Amherst, MA. 01003-4610  
+Affiliation: Department of Computer Science Lederle Graduate Research Center University of Massachusetts  
+Abstract: An important and difficult problem in computer vision is to determine 2D image feature correspondences over a set of images. In this paper, two new affinity measures for image points and lines from different images are presented, and are used to construct unweighted and weighted bipartite graphs. It is shown that the image feature matching problem can be reduced to an unweighted matching problem in the bipartite graphs. It is further shown that the problem can be formulated as the general maximum-weight bipartite matching problem, thus generalizing the above unweighted bipartite matching technique. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Steven D. Blostein and Thomas S. Huang, </author> <title> "Quantization errors in stereo triangulation", </title> <booktitle> Proc. of First International Conf. on Computer Vision, </booktitle> <pages> pp. 325-334, </pages> <year> 1987. </year>
+Reference: [2] <author> Z. Zhang and O. D. Faugeras, </author> <title> "Building a 3D world model with a mobile robot: 3D line segment representation and integration", </title> <booktitle> Proc. of the IEEE International Conf. on Pattern Recognition, </booktitle> <address> Atlantic City, New Jersey, </address> <month> June, </month> <year> 1990. </year>
+Reference: [3] <author> Z. Zhang and O. D. Faugeras, </author> <title> "Tracking and grouping 3D line segemnts", </title> <booktitle> Proc. of 3rd International Conf. on Computer Vision, </booktitle> <pages> pp. 577-580, </pages> <address> Osaka, Japan, </address> <year> 1990. </year>
+Reference: [4] <author> D. B. Goldgof, H. Lee and T. S. Huang, </author> <title> "Matching and motion estimation of three-dimensional point and line sets using eigenstructure without correspondences", </title> <journal> Pattern Recognition, Vol.25, </journal> <volume> No. 3, </volume> <pages> pp. 271-286, </pages> <year> 1992. </year>
+Reference: [5] <author> Chia-Hoang Lee and Anupam Joshi, </author> <title> "Correspondence problem in image sequence analysis", </title> <journal> Pattern Recognition, </journal> <volume> Vol. 26, No. 1, </volume> <pages> pp. 47-61, </pages> <year> 1993. </year>
+Reference: [6] <author> J. Aloimonos and I. Rigoutsos, </author> <title> "Determining 3-D motion of a rigid surface patch without correspondences under perspective projection", </title> <booktitle> Proc. of AAAI, </booktitle> <pages> pp. 681-688, </pages> <month> August </month> <year> 1986. </year>
+Reference: [7] <author> H. Lee, Z. Lin and T. S. Huang, </author> <title> "Estimating rigid-body motion from three-dimentional data without match-ing point correspondences", </title> <journal> Int. J. Imaging Systems Technol. </journal> <volume> 2, </volume> <pages> pp. 55-62, </pages> <year> 1990. </year>
+Reference: [8] <author> Kumar, R. </author> <title> Model Dependent Inference of 3D Information from a Sequence of 2D Images. </title> <type> Ph.D. Thesis, </type> <institution> Computer Science Department, University of Massachusetts, </institution> <month> February </month> <year> 1992. </year> <note> Also published as CMPSCI tech report TR92-04. </note>
+Reference: [9] <author> N. Ayache, </author> <title> "Artificial vision for mobile robots: stereo vision and multisensory perception", </title> <publisher> The MIT Press, </publisher> <year> 1991. </year>
+Reference: [10] <author> R. Deriche, R. Vaillant and O. D. Faugeras, </author> <title> "From noisy edge points to 3D reconstruction of a scene: a robust approach and its uncertainty analysis", </title> <booktitle> Proc. of the Second Europeian Conf. on Computer Vision, </booktitle> <pages> pp. 71-79, </pages> <year> 1992. </year>
+Reference: [11] <author> Y.Q. Cheng, R. Collins, A. Hanson, and E. Riseman, </author> <title> "Triangulation without correspondences", </title> <booktitle> Arpa Image Understanding Workshop, </booktitle> <address> Monterey, CA, </address> <year> 1994, </year> <pages> pp. 993-1000. </pages>
+Reference: [12] <author> Z. Wu and R. Leahy, </author> <title> "An optimal graph theoretic approach to data clustering: theory and its application to image segmentation", </title> <journal> IEEE PAMI, </journal> <volume> 13(7), </volume> <pages> pp. 1101-1113, </pages> <month> Nov. </month> <year> 1993. </year>
+Reference: [13] <author> W. Kim and A. Kak, </author> <title> "3D object recognition using bipartite matching embedded in discrete relaxation", </title> <journal> IEEE PAMI, </journal> <volume> 13(3), </volume> <pages> pp. 224-251, </pages> <month> March </month> <year> 1991. </year>
+Reference: [14] <author> D. S. Johnson and C. C. McGeoch, </author> <title> "Network flows and matching: first DIMACS implementation challenge", </title> <booktitle> Series in DIMACS, </booktitle> <volume> Vol. 12, </volume> <year> 1993. </year>
+References-found: 14
+

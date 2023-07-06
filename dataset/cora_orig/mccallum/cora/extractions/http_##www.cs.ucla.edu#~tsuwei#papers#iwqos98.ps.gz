@@ -1,0 +1,19 @@
+URL: http://www.cs.ucla.edu/~tsuwei/papers/iwqos98.ps.gz
+Refering-URL: http://www.cs.ucla.edu/~tsuwei/
+Root-URL: http://www.cs.ucla.edu
+Title: A Summary of QoS Support in SWAN  
+Author: T.-W. Chen, P. Krzyzanowski M. R. Lyu C. J. Sreenan and J. Trotter 
+Address: Murray Hill, New Jersey  
+Affiliation: Lucent Technologies, Bell Labs.  
+Abstract: The SWAN wireless network uses ATM technology to provide integrated services to mobile terminals in an indoor setting. Variability caused by wireless access and mobility make this a very different environment for ATM, specifically for supporting QoS. This short paper provides a summary of QoS support in SWAN, including a scheme for renegotiating QoS in response to changes in available bandwidth. Experimental results are presented to demonstrate its operation and effectiveness. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> P. Agrawal, E. Hyden, P. Krzyzanowski, P. P. Mishra, M. B. Srivastava, and J. A. Trotter, SWAN: </author> <title> A Mobile Multimedia Wireless Network, </title> <journal> in IEEE Personal Communications, </journal> <month> Apr. </month> <year> 1996. </year> <pages> pp. 18-33. </pages>
+Reference: [2] <author> D. Raychaudhuri, </author> <title> Wireless ATM networks: architecture, system design and prototyping, </title> <journal> in IEEE Personal Communications, </journal> <month> Aug. </month> <year> 1996, </year> <pages> pp. 42-49. </pages>
+Reference: [3] <author> J. Porter and A. Hopper, </author> <title> An overview of the ORL Wireless ATM System, </title> <booktitle> in Proc. of IEEE ATM Workshop, </booktitle> <address> Washington, DC, </address> <month> Sept. </month> <year> 1995. </year>
+Reference: [4] <author> C. J. Sreenan and P. P. Mishra, Equus: </author> <title> A QoS Manager for Distributed Applications, in Distributed Platforms, </title> <editor> Editors A. Schill et al. </editor> <publisher> Publishers Chapman & Hall,1996, </publisher> <pages> pp. 496-509. </pages>
+Reference: [5] <author> D. Sisalem, </author> <title> End-to-end quality of service control using adaptive applications, </title> <booktitle> in Proc. of IFIP International Workshop on Quality of Service, </booktitle> <month> May </month> <year> 1997, </year> <pages> pp. 381-92. </pages>
+Reference: [6] <author> T.-W. Chen, P. Krzyzanowski, M. R. Lyu, C. J. Sreenan and J. A. Trotter, </author> <title> A VC-based API for Renegotiable QoS in Wireless ATM Networks, </title> <booktitle> in Proc. of The 6th IEEE ICUPC, </booktitle> <month> Oct. </month> <year> 1997. </year>
+Reference: [7] <author> T.-W. Chen, P. Krzyzanowski, M. R. Lyu, C. J. Sreenan and J. A. Trotter, </author> <title> Renegotiable Quality of Service </title>
+References-found: 7
+

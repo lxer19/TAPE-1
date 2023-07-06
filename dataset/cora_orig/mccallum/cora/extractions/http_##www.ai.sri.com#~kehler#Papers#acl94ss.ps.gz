@@ -1,0 +1,21 @@
+URL: http://www.ai.sri.com/~kehler/Papers/acl94ss.ps.gz
+Refering-URL: http://www.ai.sri.com/~kehler/
+Root-URL: 
+Email: kehler@das.harvard.edu  
+Title: TEMPORAL RELATIONS: REFERENCE OR DISCOURSE COHERENCE? (In Proceedings of ACL-94, Student Session)  
+Author: Andrew Kehler 
+Address: 33 Oxford Street Cambridge, MA 02138  
+Affiliation: Harvard University Aiken Computation Laboratory  
+Abstract: The temporal relations that hold between events described by successive utterances are often left implicit or underspecified. We address the role of two phenomena with respect to the recovery of these relations: (1) the referential properties of tense, and (2) the role of temporal constraints imposed by coherence relations. We account for several facets of the identification of temporal relations through an integration of these. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Erhard Hinrichs. </author> <year> 1986. </year> <title> Temporal anaphora in discourses of english. </title> <journal> Linguistics and Philosophy, </journal> <volume> 9 </volume> <pages> 63-82. </pages>
+Reference: <author> Jerry Hobbs. </author> <year> 1979. </year> <title> Coherence and coreference. </title> <journal> Cognitive Science, </journal> <volume> 3 </volume> <pages> 67-90. </pages>
+Reference: <author> Megumi Kameyama, Rebecca Passoneau, and Massimo Poesio. </author> <year> 1993. </year> <title> Temporal centering. </title> <booktitle> In Proceedings of the 31st Conference of the Association for Computational Linguistics (ACL-93), </booktitle> <pages> pages 70-77, </pages> <address> Columbus, Ohio, </address> <month> June. </month>
+Reference: <author> Alex Lascarides and Nicolas Asher. </author> <year> 1993. </year> <title> Temporal interpretation, discourse relations, and common sense entailment. </title> <journal> Linguistics and Philosophy, </journal> <volume> 16(5) </volume> <pages> 437-493. </pages>
+Reference: <author> John Nerbonne. </author> <year> 1986. </year> <title> Reference time and time in narration. </title> <journal> Linguistics and Philosophy, </journal> <volume> 9 </volume> <pages> 83-95. </pages>
+Reference: <author> Barbara Partee. </author> <year> 1984. </year> <title> Nominal and temporal anaphora. </title> <journal> Linguistics and Philosophy, </journal> <volume> 7 </volume> <pages> 243-286. </pages>
+Reference: <author> Hans Reichenbach. </author> <year> 1947. </year> <title> Elements of Symbolic Logic. </title> <publisher> Macmillan, </publisher> <address> New York. </address>
+Reference: <editor> Bonnie Lynn Webber. </editor> <year> 1988. </year> <title> Tense as discourse anaphor. </title> <journal> Computational Linguistics, </journal> <volume> 14(2) </volume> <pages> 61-73. </pages>
+References-found: 8
+

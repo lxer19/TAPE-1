@@ -1,0 +1,20 @@
+URL: http://www.cse.ogi.edu/~mak/PS/eurospeech97.ps
+Refering-URL: http://www.cse.ogi.edu/CSLU/personnel/bios/mak.html
+Root-URL: http://www.cse.ogi.edu
+Email: enrico@research.att.com and mak@research.att.com  
+Title: SUBSPACE DISTRIBUTION CLUSTERING FOR CONTINUOUS OBSERVATION DENSITY HIDDEN MARKOV MODELS  
+Author: Enrico Bocchieri and Brian Mak* 
+Address: Labs-Research, 180 Park Ave, Florham Park, NJ 07932.  20000 NW Walker Rd, Portland OR, 97006.  
+Affiliation: AT&T  Oregon Graduate Institute,  
+Abstract: This paper presents an efficient approximation of the Gaussian mixture state probability density functions of continuous observation density hidden Markov models (CHMM's). In CHMM's, the Gaussian mixtures carry a high computational cost, which amounts to a significant fraction (e.g. 30% to 70%) of the total computation. To achieve higher computation and memory efficiency, we approximate the Gaussian mixtures by (a) decomposition into functions defined on subspaces of the feature space, and (b) clustering the resulting subspace pdf's. Intuitively, when clustering in a subspace of few dimensions, even few function codewords can provide a small distortion. Therefore, we obtain significant reduction of the total computation (up to a factor of two), and memory savings (up to a factor of twelve), without significant changes of the CHMM M's accuracy. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> S.Takahashi, S.Sagayama, </author> <title> "Four-Level Tied-Structure for Efficient Representation of Acoustic Modeling," </title> <booktitle> Proc. ICASSP-95, </booktitle> <pages> pp. </pages> <month> 520-523. </month> <title> context dependent SDCHM M 's. </title>
+Reference: [2] <author> S.Takahashi, S.Sagayama, </author> <title> "Effects of Variance Tying for Four-Level Tied Structure Phone Models," </title> <booktitle> Proc ASI, </booktitle> <month> March 95, </month> <pages> pp 141-142. </pages>
+Reference: [3] <author> E.Bocchieri, </author> <title> G.Riccardi "State tying of triphone HM M 's for the 1994 AT&T ARPA ATIS Recog-nizer," </title> <booktitle> Proc Eurospeech 95, </booktitle> <pages> pp 1499-1502. </pages>
+Reference-contexts: The CHM M 's have been trained by segmental k-means, and, in the case of context dependent models, also by a bottom-up state-tying algorithm <ref> [3] </ref>. For each Gaussian, we store the mean vector, the diagonal covariance and the size of the feature ensemble used for parameter estimation. For Gaussian clustering we apply an iterative bottom-up algorithm, with the original Gaussians as initial code-words. <p> For Gaussian clustering we apply an iterative bottom-up algorithm, with the original Gaussians as initial code-words. We then merge a Gaussian pair at a time, chosen to minimize the distortion increase given by merging the respective ensembles <ref> [3] </ref>. We stop the iteration when the number of codewords is reduced to the desired value. By keeping track of how the original Gaussians have been merged into codewords we also define their mapping (5) into the final Gaussian codewords.
+Reference: [4] <author> E.Bocchieri, </author> <title> "Vector Quantization For Efficient Computation Of Continuous Density Likelihoods", </title> <journal> Proc. ICASSP-93, </journal> <volume> vol II, </volume> <pages> pp 692-695. </pages>
+Reference-contexts: As in the context-independent case, the 20-stream SCDHM M 's are computationally more efficient than the 39-stream one-dimensional feature level tying system. All results in Figures 1 through 3 were obtained without Gaussian Selection for the likelihood computation. Gaussian Selection <ref> [4] </ref> applied as in Section 5, further reduces the total recognition time of the fastest SDCHM M configurations by 10 to 15%.
+Reference: [5] <author> K.Knill, M Gales, S.Young, </author> <title> "Use of Gaussian Selection In Large Vocabulary Continuous Speech Recognition Using HM M 'S", </title> <journal> Proc. ICSLP-96, </journal> <volume> vol 1, </volume> <pages> pp 470-473. </pages>
+References-found: 5
+

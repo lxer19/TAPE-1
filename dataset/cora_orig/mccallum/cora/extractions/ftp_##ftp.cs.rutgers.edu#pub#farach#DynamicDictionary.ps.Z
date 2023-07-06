@@ -1,0 +1,32 @@
+URL: ftp://ftp.cs.rutgers.edu/pub/farach/DynamicDictionary.ps.Z
+Refering-URL: http://www.cs.rutgers.edu/~farach/index.html
+Root-URL: http://www.cs.rutgers.edu
+Title: Efficient string matching: An aid to bibliographic search, A fast string searching algorithm, Commentz-Walter, A
+Author: A.V. Aho and M.J. Corasick, A.V. Aho, R. Sethi and J.D. Ullman, R.S. Boyer and J.S. Moore, Z. Galil, R. Giancarlo, and K. Park, D.E. Knuth, J.H. Morris, and V.B. Pratt, D.D. Sleator and R.E. Tarjan, 
+Address: 1991.  Murray Hill, NJ,  Los Angeles, CA, 1988.  
+Affiliation: Department of Computer Science, Columbia University,  Laboratories,  
+Date: 18 (1975), 333-340.  (1979), 118-132.  24 (1988), 47-52.  1990.  6 (1977), 323-350.  23 (1976), 262-272.  26 (1983), 362-391.  
+Note: References [AC75]  Comm. of the ACM  [AF91] A. Amir and M. Farach, Adaptive dictionary matching, Proc. 32nd IEEE Symp. Found. Computer Science (1991), 760-766. [ASU86]  Compilers, Principles, Techniques and Tools, Addison-Wesley, 1986. [BM77]  Comm. of the ACM 20 (1977), 762-772. [CS84] M.T. Chen and J. Seiferas, Efficient and elegant subword-tree construction, In A. Apostolico and Z. Galil, editors, Combinatorial Algorithms on Words, pp. 97-107, Berlin, 1984. NATO ASI Series Vol. F12, Springer-Verlag. [C79] B.  Proc. 6th ICALP  [D88] C. DeLisi, Computers in molecular biology: Current applications and emerging trends, Science  [GGP91]  [H90] A. Hume, Keyword matching, Technical report, AT&T Bell  [K73] D.E. Knuth, The Art of Computer Programming, Vol. 3: Sorting and Searching, Addison-Wesley, Reading, MA, 1973. [KMP77]  SIAM J. on Computing  Oxford University Press, 1988. [Mc76] E.M. McCreight, A space economical suffix tree construction algorithm, J. Assoc. Comput. Mach.  [ST83]  Sciences  [S88] J. Storer, Data Compression: Methods and Theory, Addison-Wesley, 1988.  CRC Press, Inc.,  [W73] P. Weiner, Linear pattern matching algorithms, Proc. 14th Symposium on Switching and Automata Theory (1973), 1-11. 15  
+Pubnum: Technical Report,  
+Abstract: later than when its ending position is scanned. However, we can change our algorithm so that it finds patterns according to their ending positions, thus making the search on-line. Notice that the internal nodes of the suffix tree T D i and their suffix links make a tree e T . We partition the tree e T into a forest of trees by deleting (v; SL(v)) for all marked nodes v, and maintain the forest by using the dynamic trees. Then when an occurrence of a pattern p is found in the text, all patterns that are suffixes of p can be found by going up the tree e T as in the procedure FINDALL. The time complexities of insertion, deletion, and search remain the same. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [AC75] <author> A.V. Aho and M.J. Corasick, </author> <title> Efficient string matching: An aid to bibliographic search, </title> <booktitle> Comm. of the ACM 18 (1975), </booktitle> <pages> 333-340. </pages>
+Reference: [AF91] <author> A. Amir and M. Farach, </author> <title> Adaptive dictionary matching, </title> <booktitle> Proc. 32nd IEEE Symp. Found. Computer Science (1991), </booktitle> <pages> 760-766. </pages>
+Reference: [ASU86] <author> A.V. Aho, R. Sethi and J.D. Ullman, </author> <booktitle> Compilers, Principles, Techniques and Tools, </booktitle> <publisher> Addison-Wesley, </publisher> <year> 1986. </year>
+Reference: [BM77] <author> R.S. Boyer and J.S. Moore, </author> <title> A fast string searching algorithm, </title> <booktitle> Comm. of the ACM 20 (1977), </booktitle> <pages> 762-772. </pages>
+Reference: [CS84] <author> M.T. Chen and J. Seiferas, </author> <title> Efficient and elegant subword-tree construction, </title> <editor> In A. Apostolico and Z. Galil, editors, </editor> <booktitle> Combinatorial Algorithms on Words, </booktitle> <pages> pp. 97-107, </pages> <address> Berlin, </address> <year> 1984. </year> <booktitle> NATO ASI Series , Vol. </booktitle> <address> F12, </address> <publisher> Springer-Verlag. </publisher>
+Reference: [C79] <author> B. Commentz-Walter, </author> <title> A string matching algorithm fast on the average, </title> <booktitle> Proc. 6th ICALP (1979), </booktitle> <pages> 118-132. </pages>
+Reference: [D88] <author> C. DeLisi, </author> <title> Computers in molecular biology: </title> <booktitle> Current applications and emerging trends, Science 24 (1988), </booktitle> <pages> 47-52. </pages>
+Reference: [GGP91] <author> Z. Galil, R. Giancarlo, and K. Park, </author> <title> Fully dynamic dictionary matching. </title> <type> Technical Report, </type> <institution> Department of Computer Science, Columbia University, </institution> <year> 1991. </year>
+Reference: [H90] <author> A. Hume, </author> <title> Keyword matching, </title> <type> Technical report, </type> <institution> AT&T Bell Laboratories, </institution> <address> Murray Hill, NJ, </address> <year> 1990. </year>
+Reference: [K73] <author> D.E. Knuth, </author> <booktitle> The Art of Computer Programming, </booktitle> <volume> Vol. </volume> <month> 3: </month> <title> Sorting and Searching, </title> <publisher> Addison-Wesley, </publisher> <address> Reading, MA, </address> <year> 1973. </year>
+Reference: [KMP77] <author> D.E. Knuth, J.H. Morris, and V.B. Pratt, </author> <title> Fast pattern matching in strings, </title> <journal> SIAM J. on Computing 6 (1977), </journal> <pages> 323-350. </pages>
+Reference: [L88] <author> A. Lesk, </author> <title> editor, Computational Molecular Biology: Sources and Methods for Sequence Analysis, </title> <publisher> Oxford University Press, </publisher> <year> 1988. </year>
+Reference: [Mc76] <author> E.M. McCreight, </author> <title> A space economical suffix tree construction algorithm, </title> <journal> J. Assoc. Comput. Mach. </journal> <volume> 23 (1976), </volume> <pages> 262-272. </pages>
+Reference: [ST83] <author> D.D. Sleator and R.E. Tarjan, </author> <title> A data structure for dynamic trees. </title> <editor> J. </editor> <booktitle> of Computer and System Sciences 26 (1983), </booktitle> <pages> 362-391. </pages>
+Reference: [S88] <author> J. Storer, </author> <title> Data Compression: Methods and Theory, </title> <publisher> Addison-Wesley, </publisher> <year> 1988. </year>
+Reference: [W88] <editor> M.S. Waterman, Editor, </editor> <title> Mathematical Methods for DNA Sequences, </title> <publisher> CRC Press, Inc., </publisher> <address> Los Angeles, CA, </address> <year> 1988. </year>
+
+References-found: 16
+

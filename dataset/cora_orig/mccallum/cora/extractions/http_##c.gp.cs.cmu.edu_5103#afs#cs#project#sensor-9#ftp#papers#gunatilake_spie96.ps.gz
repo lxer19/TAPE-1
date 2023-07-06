@@ -1,0 +1,21 @@
+URL: http://c.gp.cs.cmu.edu:5103/afs/cs/project/sensor-9/ftp/papers/gunatilake_spie96.ps.gz
+Refering-URL: http://c.gp.cs.cmu.edu:5103/afs/cs.cmu.edu/project/sensor-9/ftp/www/papers.html
+Root-URL: http://www.cs.cmu.edu
+Title: page 1 Image Enhancement and Understanding for Remote Visual Inspection of Aircraft Surface.  
+Author: Priyan Gunatilake M.W. Siegel A.J. Jordan G. Podnar 
+Keyword: ANDI, CIMP, aircraft visual inspection, remote visual inspection, image enhancement, image understanding, stereo vision  
+Address: Pittsburgh, PA.  
+Affiliation: Department of Electrical and Computer Engineering Robotics Institute, School of Computer Science Carnegie Mellon University  
+Abstract: We describe a library of image enhancement and understanding algorithms developed to enhance and recognize surface defects from remote live imagery of an aircraft surface. Also described are the supporting mobile robot platform that generates the remote stereoscopic imagery and the inspection console containing a graphical user interface, through which the inspector accesses the live imagery for remote inspection. We will discuss initial results of the remote imaging process and the image processing library, and speculate on their future application in aircraft inspection. 
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> I. L. Davis and M. W. Siegel, </author> <booktitle> "Automated Nondestructive Inspector of Aging Aircraft",International Symposium on Measurement Technology and Intelligent Instruments, </booktitle> <institution> Huazhong University of Science and Technology, Wuhan, Hubei Province, Peoples Republic of China, </institution> <month> October </month> <year> 1993. </year>
+Reference: 2. <author> W. T. Shepherd, </author> <title> "Human factors in aircraft maintenance and inspection", Conference on aging aircraft and structural airworthiness, </title> <booktitle> NASA conference Publication 3160, </booktitle> <pages> pp 301-304, </pages> <year> 1991. </year>
+Reference: 3. <author> M. W. Siegel, </author> <title> "Automation for Nondestructive Inspection of Aircraft", Conference on Intelligent Robots in Field, Factory, Service and Space (CIRFFSS94), </title> <editor> Paul J Weitz (NASA/JSC), ed., </editor> <booktitle> AIAA, AIAA/NASA, </booktitle> <pages> pp. 367 - 377, </pages> <address> Houston TX, </address> <month> March </month> <year> 1994. </year>
+Reference: 4. <author> M. W. Siegel, W. M. Kaufman, C. J. Alberts, </author> <title> "Mobile Robots for Difficult Measurements in Difficult Environments: Application to Aging Aircraft Inspection", </title> <booktitle> Robotics and Autonomous Systems, </booktitle> <volume> Vol. 11, </volume> <pages> pp 187 - 194, </pages> <month> July </month> <year> 1993. </year>
+Reference: 5. <author> V. S. Grinberg, G. W. Podnar, and M. W. Siegel, </author> <title> "Geometry of Binocular Imaging", </title> <booktitle> Proceedings of the SPIE/IST Conference (San Jose), </booktitle> <editor> ed., SPIE/IST, SPIE/IST, </editor> <month> February </month> <year> 1994. </year>
+Reference: 6. <author> V. S. Grinberg, G. W. Podnar, and M. W. Siegel, </author> <title> "Geometry of Binocular Imaging ll: The Augmented Eye", </title> <booktitle> Proceedings of the SPIE/IST Conference (San Jose), </booktitle> <editor> ed., SPIE/IST, SPIE/IST, </editor> <month> Febru-ary </month> <year> 1995. </year>
+Reference: 7. <author> R. C. Gonzalez and P. Wintz, </author> <title> Digital Image Processing, Second Edition, </title> <publisher> Addison-Wesley, </publisher> <year> 1987. </year>
+Reference: 8. <author> J. S. McVeigh, M. W. Siegel and A. G. Jordan, </author> <title> "Algorithm for automated eye strain reduction in real stereoscopic images and sequences", </title> <booktitle> Proceedings of the SPIE/IST Conference (San Jose), </booktitle> <editor> ed., SPIE/IST, SPIE/IST, </editor> <month> February </month> <year> 1996. </year>
+References-found: 8
+

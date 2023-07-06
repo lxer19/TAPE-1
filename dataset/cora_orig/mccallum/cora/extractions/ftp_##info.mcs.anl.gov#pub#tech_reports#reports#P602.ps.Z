@@ -1,0 +1,15 @@
+URL: ftp://info.mcs.anl.gov/pub/tech_reports/reports/P602.ps.Z
+Refering-URL: http://www.mcs.anl.gov/publications/abstracts/abstracts96.htm
+Root-URL: http://www.mcs.anl.gov
+Title: The Diet Problem: A WWW-based Interactive Case Study in Linear Programming (http://www.mcs.anl.gov/home/otc/Guide/CaseStudies/diet/) 1  
+Author: Joseph Czyzyk Timothy J. Wisniewski 
+Note: 1 This work was supported by the Mathematical, Information, and Computational Sciences Division subprogram of the Office of Computational and Technology Research, U.S. Department of Energy, under Contract W-31-109-Eng-38.  
+Date: July 1996  
+Address: Argonne, IL 60439-4844  
+Affiliation: Mathematics and Computer Science Division Argonne National Laboratory  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> R. Fourer, D. M. Gay, and B. W. Kernighan, </author> <year> 1993. </year> <title> AMPL: A Modeling Language for Mathematical Programming. </title> <publisher> Scientific Press, </publisher> <address> San Francisco, California. </address> <month> 7 </month>
+Reference-contexts: Since the objective function and the constraints are both linear functions of the variables, x [food], this problem is a linear program. The Diet Problem formulation page continues this derivation to show a more mathematical formulation and the AMPL modeling language <ref> [1] </ref> formulation so that we can solve the problem by using a computer. The optimal solution for our small sample problem is shown here.
+References-found: 1
+

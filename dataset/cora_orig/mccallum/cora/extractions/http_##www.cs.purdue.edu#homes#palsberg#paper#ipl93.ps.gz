@@ -1,0 +1,22 @@
+URL: http://www.cs.purdue.edu/homes/palsberg/paper/ipl93.ps.gz
+Refering-URL: http://www.cs.purdue.edu/homes/palsberg/publications.html
+Root-URL: http://www.cs.purdue.edu
+Title: Normal Forms have Partial Types  
+Author: Jens Palsberg 
+Keyword: Functional programming, partial types.  
+Address: Ny Munkegade, DK-8000 Aarhus C, Denmark  
+Affiliation: Computer Science Department, Aarhus University  
+Note: Information Processing Letters  Partial types are ordered by as follows: 1. t for any t; 2. s t s 0 t 0 if and only if s 0 s and t t  
+Email: palsberg@daimi.aau.dk  
+Date: 45 (1993) 1-3.  0  
+Abstract: We prove that every -term in normal form has one of Thatte's partial types. Partial types for the pure -calculus [1] were introduced by Thatte in 1988 [5] as a way to type certain -terms that are untypable in the simply-typed - calculus. Any -term that has a simple type also has a partial type. Moreover, any -term that has a partial type is strongly normalizing [6]. Type inference for partial types can be performed in cubic time, as demonstrated by Kozen and Schwartzbach together with the present author [3]. Our algorithm improved the exponential time algorithm of O'Keefe and Wand [4]. In this paper we prove that every -term in normal form has a partial type. This property is shared by few other type systems, one example being the simple intersection types of Coppo and Giannini [2]. The set of partial types is defined by the grammar Thus, partial types have a largest type and involve the usual contravariant rule for function types. Typical inclusions are ! and ! ( ! ) ! . Intuitively, s t allows a coercion from s to t that forgets some type structure. The type contains only the information "well-typed". O'Keefe and t :: = j t ! t
+Abstract-found: 1
+Intro-found: 0
+Reference: [1] <author> Henk P. Barendregt. </author> <title> The Lambda Calculus: Its Syntax and Semantics. </title> <publisher> North-Holland, </publisher> <year> 1981. </year>
+Reference: [2] <author> Mario Coppo and Paola Giannini. </author> <title> A complete type inference algorithm for simple intersection types. </title> <booktitle> In Proc. CAAP'92, </booktitle> <pages> pages 102-123. </pages> <publisher> Springer-Verlag (LNCS 581), </publisher> <year> 1992. </year>
+Reference: [3] <author> Dexter Kozen, Jens Palsberg, and Michael I. Schwartzbach. </author> <title> Efficient inference of partial types. </title> <journal> Journal of Computer and System Sciences, </journal> <volume> 49(2) </volume> <pages> 306-324, </pages> <year> 1994. </year> <note> Also in Proc. </note> <editor> FOCS'92, </editor> <booktitle> 33rd IEEE Symposium on Foundations of Computer Science, </booktitle> <pages> pages 363-371, </pages> <address> Pittsburgh, Pennsylvania, </address> <month> October </month> <year> 1992. </year>
+Reference: [4] <author> Patrick M. O'Keefe and Mitchell Wand. </author> <title> Type inference for partial types is decidable. </title> <booktitle> In Proc. ESOP'92, European Symposium on Programming, </booktitle> <pages> pages 408-417. </pages> <publisher> Springer-Verlag (LNCS 582), </publisher> <year> 1992. </year>
+Reference: [5] <author> Satish Thatte. </author> <title> Type inference with partial types. </title> <booktitle> In Proc. International Colloquium on Automata, Languages, and Programming 1988, </booktitle> <pages> pages 615-629. </pages> <publisher> Springer-Verlag (LNCS 317), </publisher> <year> 1988. </year> <month> 3 </month>
+Reference: [6] <author> Mitchell Wand and Patrick M. O'Keefe. </author> <title> Partially typed terms are strongly normal-izing. </title> <type> Manuscript, </type> <month> December </month> <year> 1991. </year> <month> 4 </month>
+References-found: 6
+

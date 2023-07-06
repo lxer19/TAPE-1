@@ -1,0 +1,21 @@
+URL: ftp://ftp.cc.gatech.edu/pub/ai/students/carlos/papers/er-95-02.ps.Z
+Refering-URL: http://www.cs.gatech.edu/aimosaic/robot-lab/mrl-online-publications.html
+Root-URL: 
+Title: Structured Light Systems for Dent Recognition: Lessons Learned  
+Author: Juan C. Santamara Ronald C. Arkin 
+Keyword: structured light systems, dent detection, image processing.  
+Affiliation: College of Computing Georgia Institute of Technology  College of Computing Georgia Institute of Technology  
+Date: October 1995.  
+Address: Philadelphia, Pennsylvania,  Atlanta, Georgia 30332-0280 U.S.A.  Atlanta, Georgia 30332-0280 U.S.A.  
+Note: To appear in the Proceedings of the SPIE Photonic East 95 Mobile Robots X Conference,  
+Abstract: This paper describes the results from a feasibility analysis performed on two different structured light system designs and the image processing algorithms they require for dent detection and localization. The impact of each structured light system is analyzed in terms of their mechanical realization and the complexity of the image processing algorithms required for robust dent detection. The two design alternatives considered consist of projecting vertical or horizontal laser stripes on the drum surface. The first alternative produces straight lines in the image plane and requires scanning the drum surface horizontally, whereas the second alternative produces conic curves on the camera plane and requires scanning the drum surface vertically. That is, the first alternative favors image processing against mechanical realization while the second alternative favors mechanical realization against image processing. The results from simulated and real structured light systems are presented and their major advantages and disadvantages for dent detection are presented. The paper concludes with the lessons learned from experiments with real and simulated structured light system prototypes. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> R.O. Duda and P.E. Hart. </author> <title> Pattern Classification and Scene Analysis, Chapter 7, </title> <publisher> Wiley, </publisher> <address> New York, </address> <year> 1973. </year>
+Reference: [2] <author> J. Neter, W. Wasserman, and M.H. Kutner. </author> <title> Applied Regression Models, </title> <booktitle> Chapters 6 and 9, </booktitle> <publisher> Prentice Hall, </publisher> <address> New Jersey, </address> <year> 1989. </year>
+Reference: [3] <author> D. </author> <title> Lake. "Lighting and Imaging, Part 2: Making it All Work Right," </title> <booktitle> Advanced Imaging, </booktitle> <pages> pp. 66-89, </pages> <month> June, </month> <year> 1994. </year>
+Reference: [4] <author> A.C. Kak. </author> <title> "Depth Perception For Robots", Handbook of Industrial Robotics, </title> <editor> Shimon Y. </editor> <publisher> Nof (ed.), </publisher> <pages> pp. 272-319, </pages> <publisher> John Wiley & Sons, </publisher> <address> New York, </address> <year> 1985. </year>
+Reference: [5] <author> D. Wei and M. Gini. </author> <title> "The Use of Taper Light Beam for Object Recognition," Robot Vision. </title>
+Reference: [6] <author> W.J. Wolfe, J. </author> <title> Gunderson, and M.E. Walworth. "Computer Vision Barrel Inspection," </title> <booktitle> SPIE Mobile Robots VIII, </booktitle> <volume> Vol. </volume> <year> 2058, </year> <pages> pp. 128-133, </pages> <year> 1993. </year>
+References-found: 6
+

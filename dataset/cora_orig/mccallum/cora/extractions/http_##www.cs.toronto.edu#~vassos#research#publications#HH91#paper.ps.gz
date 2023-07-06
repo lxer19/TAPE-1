@@ -1,0 +1,15 @@
+URL: http://www.cs.toronto.edu/~vassos/research/publications/HH91/paper.ps.gz
+Refering-URL: http://www.cs.toronto.edu/~vassos/research/list-of-publications.html
+Root-URL: 
+Title: TRANSACTION SYNCHRONISATION IN OBJECT BASESy  
+Author: Thanasis Hadzilacos Vassos Hadzilacos 
+Keyword: Database systems, Transactions, Object-oriented systems, Object bases, Con-currency control, Serialisability, Nested transactions.  
+Date: 193-200, March 1988,  
+Note: January 13, 1998 This is a revision of a paper that appeared in the Proc. of the 7th SIGACT-SIGMOD-SIGART Symp. on Principles of Database Systems, pp.  
+Address: Greece  Toronto, Canada  
+Affiliation: Computer Technology Institute and Department of Computer Engineering University of Patras,  Department of Computer Science and Computer Systems Research Institute University of  Austin, TX.  
+Abstract: We propose a formal model of concurrency control in object bases. An object base is like a database except that information is represented in terms of "objects" that encapsulate both data and the procedures through which the data can be manipulated. The model generalises the classical model of database concurrency control: it allows for nested transactions (as opposed to flat transactions) which may issue arbitrary operations (as opposed to just read and write operations). We establish an analogue to the classical serialisability theorem and use it to derive simple proofs of correctness of two concurrency control algorithms for object bases, namely Nested Two-Phase Locking (Moss' algorithm) and Nested Timestamp Ordering (Reed's algorithm). Concurrency control in object bases can be viewed as a combination of intra-object and inter-object synchronisation. The former ensures that each object's own methods are executed in serialisable fashion; the latter ensures the compatibility of transaction serialisation orders in different objects. This separation allows for the possibility that each object chooses the most suitable concurrency control algorithm for synchronising its own procedures, independently of the algorithms used by other objects, thus enhancing concurrency. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

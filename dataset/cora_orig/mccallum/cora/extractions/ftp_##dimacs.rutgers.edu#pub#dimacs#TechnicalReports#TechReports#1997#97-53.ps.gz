@@ -1,0 +1,17 @@
+URL: ftp://dimacs.rutgers.edu/pub/dimacs/TechnicalReports/TechReports/1997/97-53.ps.gz
+Refering-URL: http://dimacs.rutgers.edu/TechnicalReports/1997.html
+Root-URL: http://www.cs.rutgers.edu
+Email: e-mail: pdreyer@dimacs.rutgers.edu.  e-mail: therese@cgm.cs.mcgill.ca.  
+Title: Rectangle Breaking in Grids  
+Author: by Paul A. Dreyer, Jr. Therese C. Biedl 
+Affiliation: School of Computer Science, McGill University, 3480 University  
+Address: 08903,  Avenue, Montreal, Quebec H3A 2A7,  
+Date: 1997  
+Note: September  The author would like to thank the Office of Naval Research and DIMACS for their help and support. 2  The author would like to acknowledge Alexander Lawrenz for his help on this problem. DIMACS is a partnership of Rutgers University, Princeton University, AT&T Labs, Bellcore, and Bell Labs. DIMACS is an NSF Science and Technology Center, funded under contract STC-91-19999; and also receives support from the New Jersey Commission on Science and Technology.  
+Abstract: DIMACS Technical Report 97-53 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> B. </author> <title> Grunbaum and G.C. Shephard. Tilings and patterns. W.H. </title> <publisher> Freeman and Company, </publisher> <address> New York, </address> <year> 1987. </year>
+Reference: [2] <author> R.M. Karp. </author> <title> Reducibility among combinatorial problems. In R.E. </title> <editor> Miller and J.W. Thatcher, editors, </editor> <booktitle> Complexity of Computer Computations, </booktitle> <pages> pages 85-103. </pages> <publisher> Plenum Press, </publisher> <address> New York, </address> <year> 1972. </year>
+References-found: 2
+

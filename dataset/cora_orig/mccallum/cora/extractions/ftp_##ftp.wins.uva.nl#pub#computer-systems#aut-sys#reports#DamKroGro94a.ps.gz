@@ -1,0 +1,19 @@
+URL: ftp://ftp.wins.uva.nl/pub/computer-systems/aut-sys/reports/DamKroGro94a.ps.gz
+Refering-URL: http://www.fwi.uva.nl/research/neuro/publications/publications.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: Optimising Local Hebbian Learning: use the ffi-rule  
+Author: J.W.M. van Dam B.J.A. Krose, F.C.A. Groen 
+Address: Kruislaan 403 NL 1098 SJ Amsterdam  
+Affiliation: Faculty of Mathematics and Computer Science University of Amsterdam  
+Abstract-found: 0
+Intro-found: 1
+Reference: [Gielen et al., 91] <author> C.Gielen, K.Krommenhoek, J. van Gisbergen (1991), </author> <title> "A procedure for self-organised sensor-fusion in topologically ordered maps". </title> <booktitle> Proceedings of the Second International Conference on Autonomous sys tems, </booktitle> <pages> 417-423. </pages>
+Reference-contexts: This is useful in, e.g., sensor fusion applications, to correlate different representations of the same scene (see, e.g., <ref> [Gielen et al., 91] </ref>). Traditionally, local Hebbian learning is suggested to approach these problems. Here, it is proven, that if continuous-valued learning samples are available, the ffi-rule gives better performance. For binary-valued learning samples, it is shown that the Hebb rule does not converge to the optimal weight values.
+Reference: [Hammersley, Handscomb (1965)] <editor> J.M. Hammersley, </editor> <address> D.C. </address> <month> Handscomb </month> <year> (1965), </year> <title> "Monte Carlo Methods", </title> <type> 50-76. </type>
+Reference-contexts: Naturally, this measure can also be calculated if instead of the Hebb-rule, the ffi-rule is applied. If linear activation values are used, the ffi-rule takes w new i y i )x j and the variance in the ffi-rule is given by (see <ref> [Hammersley, Handscomb (1965)] </ref>): var [w ij + y fl i x j ] + var [y i x j ] 2cov [y fl So, if we can prove that 2cov [y fl i x j ; y i x j ] &gt; var [y i x j ], we may expect
+Reference: [Van Dam et al., (1993)] <author> J.W.M. van Dam. B.J.A. Krose, F.C.A. </author> <month> Groen </month> <year> (1993), </year> <title> "Transforming Occupancy Grids Under Robot Motion", </title> <address> ICANN93 Amsterdam, the Netherlands, </address> <month> 318. </month>
+Reference-contexts: And thus, if we are careful with the initialisation of the weights w ij , the ffi-rule can be expected to give better performance than the Hebb-rule. 3 Binary-valued Learning samples In some cases, we may only have binary-valued, non-linear learning samples (see <ref> [Van Dam et al., (1993)] </ref> for an example). In this case, the correlation between y fl i and x j is interpreted as: w fl We assume that all possible patterns are equally distributed, i.e., P (x j = 1) = 1 2 .
+Reference: [Van Dam et al., (1994)] <author> J.W.M. van Dam. B.J.A. Krose, F.C.A. </author> <month> Groen </month> <year> (1994), </year> <title> "On Local Hebbian Learning", </title> <type> internal report. </type>
+Reference-contexts: We have compared the ffi-rule to the Hebb rule in a similar way to section 2, but a fair comparison is difficult to make (see <ref> [Van Dam et al., (1994)] </ref>).
+References-found: 4
+

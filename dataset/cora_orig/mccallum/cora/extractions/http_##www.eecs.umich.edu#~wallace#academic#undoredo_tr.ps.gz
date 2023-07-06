@@ -1,0 +1,18 @@
+URL: http://www.eecs.umich.edu/~wallace/academic/undoredo_tr.ps.gz
+Refering-URL: http://www.eecs.umich.edu/~wallace/academic/
+Root-URL: http://www.cs.umich.edu
+Title: Specification and Verification of the Undo/Redo Algorithm for Database Recovery  
+Author: Yuri Gurevich Charles Wallace 
+Note: ([Gur95]). The specification is used to verify correctness and liveness properties of the algorithm.  
+Date: January 17, 1996  
+Abstract:  
+Abstract-found: 1
+Intro-found: 1
+Reference: [BHG87] <author> Peter Bernstein, Vassos Hadzilacos, and Nathan Goodman. </author> <title> Concurrency Control and Recovery in Database Systems. </title> <publisher> Addison-Wesley, </publisher> <year> 1987. </year>
+Reference-contexts: In our proof of liveness, we focus on cases with error-free intervals sufficiently long to allow recovery. 3 Algorithm Description The undo/redo algorithm originated in [Gra78]; we use the presentation in <ref> [BHG87] </ref> as our guidelines. One of the advantages of this algorithm, besides its simplicity, is the fact that it imposes no restrictions on the CM. Newly written data items stored in the cache are flushed only when the CM sees fit to do so.
+Reference: [Gra78] <author> Jim Gray. </author> <booktitle> Notes on database operating systems. In Operating Systems: An Advanced Course, number 60 in Lecture Notes in Computer Science, </booktitle> <pages> pages 393-481. </pages> <publisher> Springer-Verlag, </publisher> <year> 1978. </year>
+Reference-contexts: In our proof of liveness, we focus on cases with error-free intervals sufficiently long to allow recovery. 3 Algorithm Description The undo/redo algorithm originated in <ref> [Gra78] </ref>; we use the presentation in [BHG87] as our guidelines. One of the advantages of this algorithm, besides its simplicity, is the fact that it imposes no restrictions on the CM. Newly written data items stored in the cache are flushed only when the CM sees fit to do so.
+Reference: [Gur93] <author> Yuri Gurevich. </author> <title> Evolving algebras: An attempt to discover semantics. </title> <editor> In G. Rozenberg and A. Sa-lomaa, editors, </editor> <booktitle> Current Trends in Theoretical Computer Science, </booktitle> <pages> pages 266-292. </pages> <publisher> World Scientific, </publisher> <year> 1993. </year>
+Reference: [Gur95] <author> Yuri Gurevich. </author> <title> Evolving algebras 1993: Lipari guide. </title> <editor> In Egon Borger, editor, </editor> <booktitle> Specification and Validation Methods, </booktitle> <pages> pages 9-36. </pages> <publisher> Oxford University Press, </publisher> <year> 1995. </year> <month> 18 </month>
+References-found: 4
+

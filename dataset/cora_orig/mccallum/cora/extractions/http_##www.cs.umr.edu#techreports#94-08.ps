@@ -1,0 +1,21 @@
+URL: http://www.cs.umr.edu/techreports/94-08.ps
+Refering-URL: http://www.cs.umr.edu/techreports/
+Root-URL: 
+Title: Generating Indexing Functions of Regularly Sparse Arrays for Array Compilers  
+Author: Scott Thibault, Lenore Mullin, Matt Insall 
+Address: Rolla, Missouri 65401  
+Affiliation: Department of Computer Science University of Missouri-Rolla  
+Date: April 4, 1994  
+Pubnum: CSC-94-08  
+Abstract-found: 0
+Intro-found: 1
+Reference: [JM91] <author> M. Jenkins and L. Mullin. </author> <title> A comparrison of array theory and a mathematics of arrays. </title> <booktitle> In Arrays, Functional Languages, and Parallel Systems. </booktitle> <publisher> Kluwer Academic Publishers, </publisher> <year> 1991. </year>
+Reference-contexts: Next, a method must be developed for the compiler that uses this description to generate an indexing function for the array. Some systems have been developed that store a list of elements to represent only non-zero components of arrays <ref> [JM91] </ref>. This may be the only alternative for randomly located non-zero components, but for arrays with non-zero component regularly located this method is not efficient, thus the motivation for using the methods presented here.
+Reference: [MT93] <author> L. Mullin and S. Thibault. </author> <title> The psi compiler project: Backend to massively parallel scientific programming languages. </title> <booktitle> In Fourth International Workshop on Compilers for Parallel Computers, </booktitle> <year> 1993. </year>
+Reference-contexts: The resulting expression will only be as complicated as the level of complication in the regularity being described. In fact, a specification of a dense array should reduce to the exact expression that is used in today's common compilers that support arrays <ref> [MT93] </ref>. 4 Conclusion The purpose of this paper was to develop a means of describing regularly partitioned arrays and a method of developing an indexing function from such a description. The hierarchical variable blocking specification was described. <p> It was mentioned that the resulting indexing function could be reduced to a simple expression without summations. These methods are amenable to machine implementation and have been implemented for later incorporation in an currently operating array reduction compiler <ref> [MT93] </ref>.
+Reference: [Mul88] <author> L. M. R. Mullin. </author> <title> A Mathematics of Arrays. </title> <type> Ph.D. dissertation, </type> <institution> Syracuse University, </institution> <month> December </month> <year> 1988. </year>
+Reference-contexts: The next section describes the method of generating an indexing function for an array with regular partitions given by a hierarchical variable blocking specification. The section will show that generating the indexing function can be done with simple generalizations of the well known indexing function for dense arrays <ref> [Mul88] </ref>. Although we have extended the specification to allow more complex descriptions the generated indexing function will only be as complicated as your particular specification.
+Reference: [ZR93] <author> E. L. Zapata and L. F. Romers. </author> <title> Data distributions for sparse matrix vector multiplication. </title> <booktitle> In Fourth International Workshop on Compilers for Parallel Computers, </booktitle> <month> December </month> <year> 1993. </year> <month> 8 </month>
+Reference-contexts: If this task can be incorporated into a compiler to alleviate the work of the programmer then the idea is worth pursuing. Another difficulty with the list of elements representation is performing parallel computation. This is a difficult problem in general for arrays represented in a packed form <ref> [ZR93] </ref>. Future work with the methods developed here could apply to this type of parallel computation. 2 Specifying Regularity The method of describing the regularity has a large impact on what, and how descriptions can be compiled. For this reason, the regularity is specified separately for each dimension.
+References-found: 4
+

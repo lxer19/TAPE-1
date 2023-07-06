@@ -1,0 +1,21 @@
+URL: ftp://synapse.cs.byu.edu/pub/papers/vanhorn_3.ps
+Refering-URL: ftp://synapse.cs.byu.edu/pub/papers/details.html
+Root-URL: 
+Title: The Minimum Feature Set Problem  
+Author: Kevin S. Van Horn and Tony Martinez 
+Address: Provo, UT  
+Affiliation: Computer Science Department Brigham Young University  
+Abstract: This paper appeared in Neural Networks 7 (1994), no. 3, pp. 491-494. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Baum, E. B., & Haussler, D. </author> <year> (1989). </year> <title> What size net gives valid generalizations? Neural Computation, </title> <booktitle> 1, </booktitle> <pages> 151-160. </pages>
+Reference: <author> Bellare, M., Goldwasser, S., Lund, C., & Russell, A. </author> <year> (1993). </year> <title> Efficient probabilistically checkable proofs and applications to approximation. </title> <booktitle> Proceedings of the 25th Annual ACM Symposium on Theory of Computing, </booktitle> <pages> 294-304. </pages>
+Reference: <author> Blumer, A., Ehrenfeucht, A., Haussler, D., & Warmuth, M. K. </author> <year> (1989). </year> <title> Learnability and the Vapnik-Chervonenkis dimension. </title> <journal> Journal of the ACM, </journal> <volume> 36, </volume> <pages> 929-965. </pages>
+Reference-contexts: 1 Introduction Consider the task of learning from examples an (unknown) linear threshold function f of n real-valued features. Theoretical results <ref> (Blumer, Ehrenfeucht, Haussler & Warmuth, 1989) </ref> give an upper bound on the number of examples needed for learning that is linear in the VC dimension of the hypothesis space used, which in this case is n + 1. <p> The VC dimension is important in computing upper bounds on a learning algorithm's sample complexity (a measure of the number of examples needed for learning). For learning algorithms that use a hypothesis space H consistently, these bounds are linear in VCdim (H) <ref> (Blumer et al., 1989) </ref>. 2.2 Effect of minimization on VC dimension Let H be the set of linear threshold functions on n real-valued features. <p> identify h 2 H with its defining weight vector w, i.e. the vector w 2 Q n+1 s.t. h (x) = 1 if w n+1 + i=1 w i x i &gt; 0 P n (Q is the set of rational numbers.) We have VCdim (H) = n + 1 <ref> (Blumer et al., 1989) </ref>. Definition 4 The cost of w 2 Q n+1 (or the corresponding h 2 H) is the number of nonzero weights other than the bias weight w n+1 , i.e. jfi : w i 6= 0; 1 i ngj. <p> If s is the cost of the function being learned, then A also uses H [s] consistently, and we have an upper bound on sample complexity that is linear in VCdim (H [s]). Even if A only does approximate minimization, the notion of an effective hypothesis space <ref> (Blumer et al., 1989) </ref> can be used to obtain sample-complexity bounds that use VCdim (H [s]) rather than VCdim (H). Thus it is important to have good bounds on the former. Theorem 2 Let 1 s &lt; n.
+Reference: <author> Cormen, T. H., Leiserson, C. E., & Rivest, </author> <title> R (1990). Introduction to algorithms. </title> <address> Cambridge, MA: </address> <publisher> MIT Press. </publisher>
+Reference-contexts: Using this inequality we obtain H [s] (m) jSj=s s (em=(s + 1)) s+1 : By the assumption that s + 1 n=2 we have s+1 &gt; n . A variant of Stirling's formula states that k (ej=k) k , for all j and k <ref> (Cormen, Leiserson & Rivest, 1990, p. 102) </ref>. Combining these we obtain H [s] (m) &lt; (en=(s + 1)) s+1 (em=(s + 1)) s+1 for all m s + 1. def def = 2:71 (s + 1)x 0 .
+Reference: <author> Graham, R. L., Knuth, D. E., & Patashnik, O. </author> <year> (1989). </year> <institution> Concrete mathematics: a foundation for computer science. </institution> <address> Reading, MA: </address> <publisher> Addison-Wesley. </publisher>
+Reference: <author> Haussler, D. </author> <year> (1988). </year> <title> Quantifying inductive bias: AI learning algorithms and Valiant's learning framework. </title> <journal> Artificial Intelligence, </journal> <volume> 36, </volume> <pages> 177-221. </pages>
+Reference: <author> Littlestone, N. </author> <year> (1988). </year> <title> Learning quickly when irrelevant attributes abound: a new linear-threshold algorithm. </title> <journal> Machine Learning, </journal> <volume> 2, </volume> <pages> 285-318. </pages>
+References-found: 7
+

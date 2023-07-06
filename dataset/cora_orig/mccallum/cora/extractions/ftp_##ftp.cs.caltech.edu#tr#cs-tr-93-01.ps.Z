@@ -1,0 +1,25 @@
+URL: ftp://ftp.cs.caltech.edu/tr/cs-tr-93-01.ps.Z
+Refering-URL: ftp://ftp.cs.caltech.edu/tr/INDEX.html
+Root-URL: http://www.cs.caltech.edu
+Title: Data-Parallel Programming on MIMD Computers. The MIT Press, 1991. Data-parallel programming on MIMD computers. IEEE
+Author: [] P.J. Hatcher and M.J. Quinn. [] P.J. Hatcher, M.J. Quinn, A.J. Lapadula, B.K. Seevers, R.J. Anderson, and R.R. Jones. W.D. Hillis and G.L. Steele Jr. [] M. Metcalf and J. Reid. 
+Note: [16]  Data parallel algorithms. Communications of the ACM,  Fortran 90 Explained. Oxford Science Publications, 1990. [19] W.H. Press, B.P. Flannery, S.A. Teukolsky, and W.T. Vetterling. Numerical Recipes in C: The Art of Scientific Computing. Cambridge University Press,  [21] Thinking Machines Corporation. CM Fortran Reference Manual,  Version  [23] E.F. Van de Velde. Concurrent scientific computing. Draft, California Institute of Technology, 1993. To be published by Springer-Verlag. 115  
+Date: 1991.  29(12):1170-1183, 1986.  1988.  September 1989.  5.2-0.6.  
+Pubnum: 3(2):377-383,  
+Abstract: 15] High Performance Fortran Forum. High Performance Fortran language specification, version 1.0. Technical Report CRPC-TR92225, Center for Research on Parallel Com putation, Rice University, 1992 (revised Jan. 1993). [20] C.L. Seitz, J. Seizovic, and W.-K. Su. The C programmer's abbreviated guide to multicomputer programming. Technical Report CS-TR-88-01, Computer Science De partment, California Institute of Technology, January 1988. [22] J. Thornley. Parallel programming with Declarative Ada. Technical Report CS-TR 93-03, Computer Science Department, California Institute of Technology, 1993. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> G.A. Agha. </author> <title> Actors: A Model of Concurrent Computation in Distributed Systems. </title> <publisher> The MIT Press, </publisher> <year> 1986. </year>
+Reference: [2] <author> American National Standards Institute, Inc. </author> <title> The Programming Language Ada Reference Manual. </title> <publisher> Springer Verlag, </publisher> <year> 1983. ANSI/MIL-STD-1815A-1983. </year>
+Reference: [3] <author> W.C. Athas and C.L. Seitz. </author> <title> The Cantor user report, version 2.0. </title> <type> Technical Report 5232, </type> <institution> Computer Science Department, California Institute of Technology, </institution> <month> January </month> <year> 1987. </year>
+Reference: [4] <author> K.M. Chandy and C. Kesselman. </author> <title> The CC ++ language definition. </title> <type> Technical Report CS-TR-92-02, </type> <institution> California Institute of Technology, </institution> <year> 1992. </year>
+Reference: [5] <author> K.M. Chandy and S. Taylor. </author> <title> An Introduction to Parallel Programming. </title> <editor> Jones and Bartlett, </editor> <year> 1991. </year>
+Reference: [6] <author> E.J. Cramer, P.D. Frank, G.R. Shubin, J.E. Dennis, and R.M. Lewis. </author> <title> On alternative problem formulations for multidisciplinary design optimization. </title> <type> Technical Report TR92-39, </type> <institution> Rice University, </institution> <month> December </month> <year> 1992. </year>
+Reference: [7] <author> I.T. Foster. </author> <title> Program Transformation Notation: A tutorial. </title> <type> Technical Report ANL-91/38, </type> <institution> Argonne National Laboratory, Mathematics and Computer Science Division, </institution> <year> 1991. </year>
+Reference: [8] <author> I.T. Foster and K.M. Chandy. </author> <title> FORTRAN M: A language for modular parallel programming. </title> <type> Technical Report MCS-P327-0992, </type> <institution> Mathematics and Computer Science Division, Argonne National Laboratory, </institution> <month> October </month> <year> 1992. </year>
+Reference: [9] <author> I.T. Foster and S. Tuecke. </author> <title> Parallel programming with PCN. </title> <type> Technical Report ANL-91/32, </type> <institution> Argonne National Laboratory, </institution> <year> 1991. </year>
+Reference: [10] <author> I.T. Foster, S. Tuecke, and S. Taylor. </author> <title> A portable run-time system for PCN. </title> <type> Technical Report ANL/MCS-TM-137, </type> <institution> Argonne National Laboratory, </institution> <year> 1991. </year>
+Reference: [11] <author> G.C. Fox. </author> <title> What have we learnt from using real parallel machines to solve real problems? In Proceedings of the Third Conference on Hypercube Concurrent Computers and Applications, </title> <address> pages 897-955. </address> <publisher> ACM, </publisher> <year> 1988. </year>
+
+References-found: 11
+

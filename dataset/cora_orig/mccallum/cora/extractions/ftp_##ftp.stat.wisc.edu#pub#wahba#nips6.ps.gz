@@ -1,0 +1,29 @@
+URL: ftp://ftp.stat.wisc.edu/pub/wahba/nips6.ps.gz
+Refering-URL: http://www.stat.wisc.edu/~wahba/trindex.html
+Root-URL: 
+Title: Structured Machine Learning for `Soft' Classification with Smoothing Spline ANOVA and Stacked Tuning, Testing and
+Author: by Grace Wahba, Yuedong Wang, Chong Gu, Ronald Klein and Barbara Klein 
+Date: December 9 1993  
+Address: 1210 West Dayton St. Madison, WI 53706  
+Affiliation: DEPARTMENT OF STATISTICS University of Wisconsin  
+Pubnum: TECHNICAL REPORT NO. 909  
+Abstract: 1 to appear in Cowan, J., Tesauro, G., and Alspector, J. (eds.), Advances in Neural Information Processing Systems 6. San Francisco, CA: Morgan Kaufmann Publishers. This paper has been written tersely to accomodate an 8 page limitation. Presented as a (refereed) poster session at the 1993 Conference on Neural Information Processing Systems-Natural and Synthetic, November 29, Denver, CO. Supported by the NSF under grants DMS-9121003 and DMS-9301511, and by the National Eye Institute-NIH under grants EY09946 and EY03083 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Craven, P. & Wahba, G. </author> <year> (1979), </year> <title> `Smoothing noisy data with spline functions: estimating the correct degree of smoothing by the method of generalized cross-validation', </title> <journal> Numer. Math. </journal> <volume> 31, </volume> <pages> 377-403. </pages>
+Reference: <author> Girard, D. </author> <year> (1991), </year> <title> `Asymptotic optimality of the fast randomized versions of GCV and C L in ridge regression and regularization', </title> <journal> Ann. Statist. </journal> <volume> 19, </volume> <pages> 1950-1963. </pages>
+Reference: <author> Gu, C. </author> <year> (1992a), </year> <title> `Cross-validating non-Gaussian data', </title> <journal> J. Comput. Graph. Stats. </journal> <volume> 1, </volume> <pages> 169-179. </pages>
+Reference: <author> Gu, C. </author> <year> (1992b), </year> <title> `Penalized likelihood regression: a Bayesian analysis', </title> <booktitle> Statistica Sinica 2, </booktitle> <pages> 255-264. </pages>
+Reference: <author> Gu, C. & Wahba, G. </author> <year> (1993), </year> <title> `Smoothing spline ANOVA with component-wise Bayesian "confidence intervals"', </title> <journal> J. Computational and Graphical Statistics 2, </journal> <pages> 1-21. </pages>
+Reference: <author> Kimeldorf, G. & Wahba, G. </author> <year> (1970), </year> <title> `A correspondence between Bayesian estimation of stochastic processes and smoothing by splines', </title> <journal> Ann. Math. Statist. </journal> <volume> 41, </volume> <pages> 495-502. </pages>
+Reference: <author> Klein, R., Klein, B., Moss, S. Davis, M., & DeMets, D. </author> <year> (1988), </year> <journal> Glycosylated hemoglobin predicts the incidence and progression of diabetic retinopathy, </journal> <volume> JAMA 260, </volume> <pages> 2864-2871. </pages>
+Reference-contexts: In the Figures we provide some preliminary analyses of data from the Wiscon-sin Epidemiological Study of Diabetic Retinopathy <ref> (WESDR, Klein et al 1988) </ref>. The data used here is from people with early onset diabetes participating in the WESDR study.
+Reference: <author> O'Sullivan, F., Yandell, B. & Raynor, W. </author> <year> (1986), </year> <title> `Automatic smoothing of regression functions in generalized linear models', </title> <journal> J. Am. Stat. Soc. </journal> <volume> 81, </volume> <pages> 96-103. </pages>
+Reference: <author> Wahba, G. </author> <year> (1980), </year> <title> Spline bases, regularization, and generalized cross validation for solving approximation problems with large quantities of noisy data, </title> <editor> in W. Cheney, ed., </editor> <title> `Approximation Theory III', </title> <publisher> Academic Press, </publisher> <pages> pp. 905-912. </pages>
+Reference: <author> Wahba, G. </author> <year> (1985), </year> <title> `A comparison of GCV and GML for choosing the smoothing parameter in the generalized spline smoothing problem', </title> <journal> Ann. Statist. </journal> <volume> 13, </volume> <pages> 1378-1402. </pages>
+Reference: <author> Wahba, G. </author> <year> (1990), </year> <title> Spline Models for Observational Data, </title> <booktitle> SIAM. CBMS-NSF Regional Conference Series in Applied Mathematics, </booktitle> <volume> vol. </volume> <pages> 59. </pages>
+Reference: <author> Wahba, G. </author> <year> (1992), </year> <title> Multivariate function and operator estimation, based on smoothing splines and reproducing kernels, </title> <editor> in M. Casdagli & S. Eubank, eds, </editor> <booktitle> `Nonlinear Modeling and Forecasting, SFI Studies in the Sciences of Complexity, Proc. </booktitle> <volume> Vol XII', </volume> <publisher> Addison-Wesley, </publisher> <pages> pp. 95-112. </pages>
+Reference: <author> Wahba, G., Gu, C., Wang, Y. & Chappell, R. </author> <year> (1993), </year> <title> Soft classification, </title> <editor> a. k. a. </editor> <title> risk estimation, via penalized log likelihood and smoothing spline analysis of variance, to appear, </title> <booktitle> Proc. Santa Fe Workshop on Supervised Machine Learning, </booktitle> <address> D. </address>
+Reference: <editor> Wolpert and A. Lapedes, eds, and Proc. CLNL92, T. Petsche, ed, </editor> <title> with permission of all eds. </title>
+References-found: 14
+

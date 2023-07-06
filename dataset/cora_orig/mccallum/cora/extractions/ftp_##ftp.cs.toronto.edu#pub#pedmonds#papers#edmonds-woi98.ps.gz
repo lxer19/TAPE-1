@@ -1,0 +1,29 @@
+URL: ftp://ftp.cs.toronto.edu/pub/pedmonds/papers/edmonds-woi98.ps.gz
+Refering-URL: http://www.cs.toronto.edu/~pedmonds/cv.html
+Root-URL: http://www.cs.toronto.edu
+Email: pedmonds@cs.toronto.edu  
+Title: Translating near-synonyms: Possibilities and preferences in the interlingua  
+Author: Philip Edmonds 
+Address: Toronto, Canada M5S 3G4  
+Affiliation: Department of Computer Science University of Toronto  
+Note: In Proceedings of the AMTA/SIG-IL Second Workshop on Interlinguas, Langhorne, PA, October 1998, pp. 23-30.  
+Abstract-found: 0
+Intro-found: 1
+Reference: <author> Rene Bailly. </author> <year> 1970. </year> <institution> Dictionnaire des synonymes de la langue francaise. Paris Larousse. </institution>
+Reference: <author> Ronald E. Batchelor and Malcolm H. Offord. </author> <year> 1993. </year> <title> Using French Synonyms. </title> <publisher> Cambridge University Press. </publisher>
+Reference: <author> Henri Benac. </author> <year> 1956. </year> <institution> Dictionnaire des synonymes. Paris Hachette. </institution>
+Reference: <author> Chrysanne DiMarco, Graeme Hirst, and Manfred Stede. </author> <year> 1993. </year> <title> The semantic and stylistic differentiation of synonyms and near-synonyms. </title> <booktitle> In AAAI Spring Symposium on Building Lexicons for Machine Translation, </booktitle> <pages> pages 114-121, </pages> <address> Stanford, CA, </address> <month> March. </month>
+Reference: <author> Bonnie J. Dorr. </author> <year> 1994. </year> <title> Machine translation divergences: A formal description and proposed solution. </title> <journal> Computational Linguistics, </journal> <volume> 20(4) </volume> <pages> 597-634. </pages>
+Reference: <author> Philip Edmonds. </author> <title> forthcoming. Semantic Representations of Near-Synonyms for Automatic Lexical Choice. </title> <type> Ph.D. thesis, </type> <institution> Department of Computer Science, University of Toronto. </institution>
+Reference: <author> Michael Elhadad, Kathleen McKeown, and Jacques Robin. </author> <year> 1997. </year> <title> Floating constraints in lexical choice. </title> <journal> Computational Linguistics, </journal> <volume> 2(23) </volume> <pages> 195-240. </pages>
+
+Reference: <editor> S. I. Hayakawa, editor. </editor> <year> 1994. </year> <title> Choose the Right Word: A Contemporary Guide to Selecting the Precise Word for Every Situation. </title> <publisher> HarperCollins Publishers, </publisher> <address> New York. </address>
+Reference-contexts: Offer and volunteer may both refer to a generous extending of aid, services, or a desired item. Those who volunteer agree by free choice rather than by submission to selection or command. Word <ref> (Hayakawa, 1994) </ref>. 2 Near-synonyms across languages This section examines how near-synonyms can differ within and across languages. I will discuss some of the specific problems of lexical representation in an interlin-gual MT system using examples drawn from the French and English versions of the multi-lingual text provided for this workshop.
+Reference: <author> Graeme Hirst. </author> <year> 1995. </year> <title> Near-synonymy and the structure of lexical knowledge. </title> <booktitle> In AAAI Symposium on Representation and Acquisition of Lexical Knowledge: Poly-semy, Ambiguity, and Generativity, </booktitle> <pages> pages 51-56, </pages> <address> Stan-ford, CA, </address> <month> March. </month>
+Reference: <author> Eduard Hovy. </author> <year> 1988. </year> <title> Generating Natural Language Under Pragmatic Constraints. </title> <publisher> Lawrence Erlbaum Associates. </publisher>
+
+Reference: <author> Ferdinand de Saussure. </author> <year> 1983. </year> <title> Course in General Linguistics. </title> <editor> G. Duckworth, </editor> <address> London. </address> <institution> Translation by Roy Harris of Cours de linguistique generale, </institution> <year> 1916. </year>
+Reference: <author> Frank Smadja, Kathleen McKeown, and Vasileios Hatzi-vassiloglou. </author> <year> 1996. </year> <title> Translating collocations for bilingual lexicons: A statistical approach. </title> <journal> Computational Linguistics, </journal> <volume> 22(1) </volume> <pages> 1-38. </pages>
+
+References-found: 12
+

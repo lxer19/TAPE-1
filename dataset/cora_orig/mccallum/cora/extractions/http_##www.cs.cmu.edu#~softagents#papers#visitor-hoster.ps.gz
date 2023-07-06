@@ -1,0 +1,17 @@
+URL: http://www.cs.cmu.edu/~softagents/papers/visitor-hoster.ps.gz
+Refering-URL: http://www.cs.cmu.edu/~softagents/publications_old.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Email: katia+@cs.cmu.edu zeng+@cs.cmu.edu  
+Phone: (412)268-8825 (412)268-8815  
+Title: Visitor-Hoster: Towards An Intelligent Electronic  
+Author: Secretary Katia P. Sycara Dajun Zeng 
+Address: Pittsburgh, PA 15213  
+Affiliation: The Robotics Institute School of Computer Science Carnegie Mellon University  
+Abstract-found: 0
+Intro-found: 1
+Reference: [DBM + 92] <author> Lisa Dent, Jesus Boticario, John McDermott, Tom Mitchell, and David Zabowski. </author> <title> A personal learning apprentice. </title> <booktitle> In Proceedings of the Tenth National Conference on Artificial Intelligence. AAAI, </booktitle> <year> 1992. </year>
+Reference-contexts: We are currently exploring these issues and working on incorporating our Visitor-Hoster system with other software agents available at CMU, particularly, a calendar management agent CAP <ref> [DBM + 92] </ref> and an E-mail task apprentice agent to tackle the broaden problem of software agent architecture. We are also planning to apply our system into real-world everyday use. 5 Acknowledgments This research has been sponsored in part by ARPA Grant F33615-93-1-1330.
+Reference: [KSC94] <author> Henry A. Kautz, Bart Selman, and Michael Coen. </author> <title> Bottom-up design of software agents. </title> <journal> Communications of the ACM, </journal> <volume> 37(7), </volume> <month> July </month> <year> 1994. </year> <month> 7 </month>
+Reference-contexts: Third, the task of organizing a visit does not really involve any deep specialized knowledge, which makes this application domain to be a good illustrative example for agent-based architectures. A different variation of the hosting visitor task has also been explored by Kautz and his colleagues at Bell Labs <ref> [KSC94] </ref>. A visitor hosting agent should have the following capabilities: * It should automate information retrievals in terms of finding personnel information of potential meeting attendees. It should be able to access various on-line public databases and information resources at the disposal of the visit organizer.
+References-found: 2
+

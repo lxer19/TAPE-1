@@ -1,0 +1,19 @@
+URL: http://www.cs.bu.edu/techreports/95-012-mosaic-animation.ps.Z
+Refering-URL: http://cs-www.bu.edu/techreports/Home.html
+Root-URL: 
+Email: patcai@csa.bu.edu and best@csa.bu.edu  
+Title: Object Oriented Animation on the World Wide Web  
+Author: Patrick P. Cai and Azer Bestavros 
+Address: Boston, MA 02215  
+Affiliation: Computer Science Department Boston University  
+Abstract: This report describes our attempt to add animation as another data type to be used on the World Wide Web. Our current network infrastructure, the Internet, is incapable of carrying video and audio streams for them to be used on the web for presentation purposes. In contrast, objectoriented animation proves to be efficient in terms of network resource requirements. We defined an animation model to support drawing-based and frame-based animation. We also extended the HyperText Markup Language in order to include this animation mode. BUNCSA Mosanim, a modified version of the NCSA Mosaic for X(v2.5), is available to demonstrate the concept and potentials of animation in presentations and interactive game playing over the web. 
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> Campbell-Grant, I.R. and Robinson P.J., </author> <title> An Introduction To ISO DIS 8613, "Office Document Architecture" and Its Application To Computer Graphics, </title> <note> Computer Graphics Vol 11 No 4 pp 325-241, </note> <year> 1987. </year>
+Reference: 2. <author> Erfle, R., </author> <title> HyTime as the Multimedia Document Model of Choice, </title> <publisher> 0-8186-5530-5/94. </publisher>
+Reference: 3. <author> Balaguer, J.F. and Gobbetti, E., </author> <title> Special Issue on Real World Virtual Environments, Center for Advanced Studies, </title> <booktitle> Research and Development in Sardinia, </booktitle> <address> Italy. </address>
+Reference: 4. <author> Turner, Gobbetti, R., E., Balaguer, J.F., Mangili, A., Thalmann D. and Thalmann N.M., </author> <title> An Object-Oriented Methodology Using Dynamic Variables for Animation and Scientific Visualization. </title>
+Reference: 5. <author> Gobbetti E., Balaguer J.F., and Thalmann, D., </author> <title> An Architecture for Interaction In Synthetic Worlds, </title> <institution> Computer Graphics Laboratory, Swiss Federal Institute of Technology. </institution>
+Reference: 6. <author> Gobbetti E., Balaguer J.F. and Mangili A. and Turner R., </author> <title> Building An Interactive 3D Animation System. ObjectOriented Animation on the World Wide Web 6 </title>
+References-found: 6
+

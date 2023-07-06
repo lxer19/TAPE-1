@@ -142,7 +142,7 @@ class LMTrainer():
             per_device_eval_batch_size=self.batch_size*8,
             dataloader_drop_last=False,
             dataloader_num_workers=1,
-            fp16_full_eval=True,
+            fp16_full_eval=False,
         )
 
         trainer = Trainer(model=inf_model, args=inference_args)

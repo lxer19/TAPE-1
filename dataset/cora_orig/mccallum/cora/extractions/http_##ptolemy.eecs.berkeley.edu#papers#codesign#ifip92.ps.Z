@@ -1,0 +1,17 @@
+URL: http://ptolemy.eecs.berkeley.edu/papers/codesign/ifip92.ps.Z
+Refering-URL: http://ptolemy.eecs.berkeley.edu/papers/codesign/
+Root-URL: http://www.cs.berkeley.edu
+Title: Hardware/Software Codesign Using Ptolemy- A Case Study [2] J.Bier, FRIGG: A Simulation Environment for Multiple-Processor
+Author: []J.Bier, E.Goei, W. Ho, P.Laplsey, M.OReilly, G.Sih, and E.A.Lee, Gabriel: Buck, Soonhoi Ha, Edward A. Lee, David G. Messerschmitt, W.H.Ho, E.Goei, J.Bier, and S. Bhattacharya, Gabriel: B. Powell, Edward A. Lee, William C. Newman, 
+Date: January 1992.  Dec. 1991.  September 1987.  April 1991.  
+Address: Berkeley, CA 94720, USA,  Berkeley 1989.  Berkeley,  Berkeley, CA 94720,  
+Affiliation: Department of EECS, University of California,  EECS Dept.,Univ. of California,  EECS Dept., Univ. of California,  Laboratory, University of California,  
+Note: Conclusions 18 Acknowledgments This work has been sponsored by the Semiconductor Research Corporation (contract number 92-DC-008) through its Berkeley Center of Excellence in CAD/IC, and Cygnet, a division of Everex. References [1] The Almagest: Manual for Ptolemy Version 0.3.1,  IEEE Micro Magazine, October 1990, Vol. 10, No. 5, pp. 28-45. [4]Joseph  [8]E.A.Lee, D.G.Messerschmitt, Digital Communications, Kluwer Academic Publishers, pp 128-135. [9]E.A.Lee, D.G.Messerschmitt, Synchronous Data Flow, IEEE Proceedings,  [10]E.A.Lee,  IEEE Trans. on ASSP, November, 1989. [11]Douglas  Proceedings of ICASSP, San Francisco, March 1992, pp V-553-556. [12]Gil. C. Sih,  Ph.D. Thesis, Electronic Research  [13]Thor Tutorial, VLSI/CAD Group, Stanford University, 1986.  
+Pubnum: Report,  Report,  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <institution> The Almagest: </institution> <note> Manual for Ptolemy Version 0.3.1, </note> <institution> Department of EECS, University of California, Berkeley, </institution> <address> CA 94720, USA, </address> <month> January </month> <year> 1992. </year>
+Reference: [2] <author> J.Bier, FRIGG: </author> <title> A Simulation Environment for Multiple-Processor DSP System Development, </title> <type> Masters Report, </type> <institution> EECS Dept.,Univ. of California, Berkeley 1989. </institution> <note> [3]J.Bier, </note> <author> E.Goei, W. Ho, P.Laplsey, M.OReilly, G.Sih, and E.A.Lee, Gabriel: </author> <title> A Design Environment for DSP, </title> <journal> IEEE Micro Magazine, October 1990, </journal> <volume> Vol. 10, No. 5, </volume> <pages> pp. 28-45. </pages> <note> [4]Joseph Buck, </note> <author> Soonhoi Ha, Edward A. Lee, David G. Messerschmitt, Ptolemy: </author> <title> A Framework for Simulating and Prototyping Heterogeneous Systems, </title> <journal> International Journal of Computer Simulation, special issue on Simulation Software Development. </journal>
+
+References-found: 2
+

@@ -1,0 +1,21 @@
+URL: ftp://ftp.cs.utexas.edu/pub/mooney/papers/either-td-ml-91.ps.Z
+Refering-URL: http://www.cs.utexas.edu/users/ml/theory-rev.html
+Root-URL: http://www.cs.utexas.edu
+Title: Correct on Categories Not in Training Data Number of Animal Training Examples Number of Computer
+Author: . 
+Date: 20.00  60.00  100.00  60.00  100.00  
+Pubnum: 0.00  40.00  80.00  20.00 40.00  80.00  
+Abstract: Correct on Categories Not in Training Data Figure 1: Cross-Category Transfer Results 
+Abstract-found: 1
+Intro-found: 1
+Reference: [ Flann and Dietterich, 1989 ] <author> N. S. Flann and T. G. Dietterich. </author> <title> A study of explanation-based methods for inductive learning. </title> <journal> Machine Learning, </journal> <volume> 4(2) </volume> <pages> 187-226, </pages> <year> 1989. </year>
+Reference: [ Ginsberg, 1990 ] <author> A. Ginsberg. </author> <title> Theory reduction, theory revision, </title> <booktitle> and retranslation. In Proceedings of the Eighth National Conference on Artificial Intelligence, </booktitle> <pages> pages 777-782, </pages> <address> Detroit, MI, </address> <month> July </month> <year> 1990. </year>
+Reference: [ Mooney and Ourston, 1991 ] <author> R. Mooney and D. Ourston. </author> <title> Constructive induction in theory refinement. </title> <booktitle> In Proceedings of the Eighth International Workshop on Machine Learning, </booktitle> <pages> pages 178-182, </pages> <address> Evanston, IL, </address> <note> June 1991. </note> [ <author> Ourston and Mooney, 1990 ] D. Ourston and R. Mooney. </author> <title> Changing the rules: a comprehensive approach to theory refinement. </title> <booktitle> In Proceedings of the Eighth National Conference on Artificial Intelligence, </booktitle> <pages> pages 815-820, </pages> <address> Detroit, MI, </address> <month> July </month> <year> 1990. </year>
+Reference: [ Pazzani, 1989 ] <author> M. J. Pazzani. </author> <title> Detecting and correcting errors of omission after explanation-based learning. </title> <booktitle> In Proceedings of the Eleventh International Joint conference on Artificial intelligence, </booktitle> <pages> pages 713-718, </pages> <address> Detroit, MI, </address> <month> Aug </month> <year> 1989. </year>
+Reference: [ Quinlan, 1986 ] <author> J. R. Quinlan. </author> <title> Induction of decision trees. </title> <journal> Machine Learning, </journal> <volume> 1(1) </volume> <pages> 81-106, </pages> <year> 1986. </year>
+Reference: [ Towell et al., 1990 ] <author> G. G. Towell, J. W. Shavlik, and Michiel O. Noordewier. </author> <title> Refinement of approximate domain theories by knowledge-based artificial neural networks. </title> <booktitle> In Proceedings of the Eighth National Conference on Artificial Intelligence, </booktitle> <pages> pages 861-866, </pages> <address> Boston, MA, </address> <month> July </month> <year> 1990. </year>
+Reference: [ Valiant, 1984 ] <author> L. G. Valiant. </author> <title> A theory of the learnable. </title> <journal> Communications of the Association for Computing Machinery, </journal> <volume> 27(11) </volume> <pages> 1134-1142, </pages> <year> 1984. </year>
+Reference: [ Wilkins, 1988 ] <author> D. C. Wilkins. </author> <title> Knowlege base refinement using apprenticeship learning techniques. </title> <booktitle> In Proceedings of the Seventh National Conference on Artificial Intelligence, </booktitle> <pages> pages 646-651, </pages> <address> St. Paul, MN, </address> <month> August </month> <year> 1988. </year>
+
+References-found: 8
+

@@ -1,0 +1,22 @@
+URL: http://www.cs.purdue.edu/homes/gonzalez/docs/Navigation.ps.gz
+Refering-URL: http://www.cs.purdue.edu/homes/gonzalez/research.html
+Root-URL: http://www.cs.purdue.edu
+Title: Navigation in Three Dimensional Spaces CS-590Z  
+Author: Carlos Gonzalez Ochoa Aleman 
+Date: May 23, 1994  
+Abstract: Current graphic hardware have helped to develop scientific visualization tools, but this progress has not level with the magnitude of data genereted in some areas needing to be visualized. Techniques to navigate data have been developed, including new hardware and algorithms to improve the rendering speed and quality. This paper will describe the issues of navigation, current display and interaction technology, and algorithms. At the end a set of problems yet to be solved will be discussed
+Abstract-found: 1
+Intro-found: 1
+Reference: [VR App] <editor> Edited by Alan Wexelblat Virtual Reality, </editor> <title> Applications and exploration, </title> <publisher> Academic Press Professional. </publisher> <year> 1993. </year>
+Reference: [VR Sys] <author> R. Earnshaw, M. Gigante, H. </author> <title> Jones Virtual Reality Systems, </title> <publisher> Academic Press. </publisher> <year> 1993. </year>
+Reference: [VR Sys] <author> Kalawsky, R. </author> <title> Critical Aspects of Visually Coupled Systems, </title> <publisher> Academic Press. </publisher> <year> 1993. </year>
+Reference: [Gesture] <author> Kalawsky, R. </author> <title> A Comprehensive Virtual Environment Laboratoy Facility, </title> <publisher> Academic Press. </publisher> <year> 1993. </year>
+Reference: [VR FS] <author> Vince, </author> <title> J.Virtual Reality Techniques in Flight SImulation, </title> <publisher> Academic Press. </publisher> <year> 1993. </year>
+Reference: [V ST] <author> S. </author> <title> Bryson Virtual Spacetime: An environment for the visualization of curved spacetimes via Geodesic Flows, </title> <booktitle> Proceedings Visualization 93, IEEE, </booktitle> <year> 1993. </year>
+Reference: [A Atlas] <author> K.H. Hohne, A. </author> <booktitle> Pommert Anatomical Atlases Based on Volume Visualization Proceedings Visualization 92, IEEE, </booktitle> <year> 1993. </year>
+Reference-contexts: This information requires support from very general data structure, which will connect between the graphical format (voxel based) and the database (textual or hypermedia based). An interesting examples is the Anatomical Atlas <ref> [A Atlas] </ref>, in this work a human head was reconstructed from MRI, tomography, and PET information and a comprehensive 6 and detail graphical representation of the head and brain was produced. The atlas comprehends the anatomy, functions, and known relationships between each area in the brain.
+Reference: [RoboVis] <author> B. Kirsch, U. </author> <title> Schnepf RoboVis a Scenario for Using Virtual Reality Techniques in Learning Robot Development Workshop on Graphics & Robotics, </title> <publisher> Springer, </publisher> <year> 1993. </year>
+Reference: [VR Hard] <author> Bryson, </author> <title> S.Implementing Virtual Reality Course Notes, </title> <type> SIGGRAPH 93. 9 </type>
+Reference-contexts: The former uses lightweight color LCD displays to produce the images, color is produced by masking pixels of the display with filters to generate basic colors. This approach decreases the effective resolution of the display by a factor of 1.732 <ref> [VR Hard] </ref>. With this resolutions the user has the same perception as a legally blind person. CRT headmounted displays use monitors, but the weight is too much to be wear by the user, a mechanical arm has to support the displays.
+References-found: 9
+

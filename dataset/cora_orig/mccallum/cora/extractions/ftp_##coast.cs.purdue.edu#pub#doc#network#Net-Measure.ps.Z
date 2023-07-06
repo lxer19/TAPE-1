@@ -1,0 +1,19 @@
+URL: ftp://coast.cs.purdue.edu/pub/doc/network/Net-Measure.ps.Z
+Refering-URL: http://www.cs.purdue.edu/coast/archive/data/categ30.html
+Root-URL: http://www.cs.purdue.edu
+Title: A Best-Case Network Performance Model  
+Author: Steven M. Bellovin 
+Date: February 12, 1992  
+Abstract: Network performance measures usually focus on average throughput. We, however, were concerned with best-case behavior: how fast could a packet traverse the network if there were no contention for resources. By subtracting the path time to a node from the path time through the node, we were able to develop a simple best-case delay model. This model was sensitive enough to determine the board-level configuration of a router 750 miles away.
+Abstract-found: 1
+Intro-found: 1
+Reference: [BCW88] <author> Richard A. Becker, John M. Chambers, and Allan R. Wilks. </author> <title> The New S Language. </title> <publisher> Wadsworth & Brooks/Cole Advanced Books & Software, </publisher> <year> 1988. </year>
+Reference-contexts: The time to initialize the packet data areas do not count; the timestamps are computed just before it is sent, and just after it is received. The observations are shown in Figure 2. We used the S Data Analysis System <ref> [BCW88] </ref> to compute a least squares fit to the data; this is shown on the graph as a straight line. As can be seen, the fit is fairly good, confirming our analysis.
+Reference: [DH76] <author> Whitted Diffie and Martin E. Hellman. </author> <title> New directions in cryptography. </title> <journal> IEEE Transactions on Information Theory, </journal> <volume> IT-11:644-654, </volume> <month> November </month> <year> 1976. </year>
+Reference-contexts: Why is this useful, since we cannot use these mechanisms to detect passive eavesdroppers? There are a number of cryptographic protocols that can be applied if one can assume that no active wiretapping takes place. For example, the Diffie-Hellman exponential key exchange protocol <ref> [DH76] </ref> provides excellent security against a listener, but is useless against an opponent who sits in the middle. We can employ this protocol if we can verify that no active wiretaps exist. 8 6 Conclusions Our model's accuracy is limited by several factors.
+Reference: [MD90] <author> J.C. Mogul and S.E. Deering. </author> <note> Path MTU Discovery, </note> <month> November </month> <year> 1990. </year> <note> RFC 1191. </note>
+Reference-contexts: If the packet size is large with respect to the line speed, this becomes a critical factor. Using more packets of a smaller size can be a significant help, because transmission times can then be overlapped. This suggests that the Internet's path MTU discovery algorithm <ref> [MD90] </ref> may not be an unmixed blessing. Two solutions suggest themselves: increasing the line speed or decreasing the number of hops. The latter may be achievable by using more large-scale communication subnets, after the style of the old ARPANET, rather than dedicated point-to-point links.
+Reference: [Pos81] <author> Jon B. Postel. </author> <title> Internet Control Message Protocol, </title> <month> September </month> <year> 1981. </year> <note> RFC 792. 10 </note>
+Reference-contexts: This assumption may not be true in some cases.) For our measurements, we used the TCP/IP protocol suite. Specifically, 2 we used the the ICMP <ref> [Pos81] </ref> echo and echo-reply messages.
+References-found: 4
+

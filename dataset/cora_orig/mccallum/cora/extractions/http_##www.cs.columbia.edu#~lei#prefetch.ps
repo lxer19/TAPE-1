@@ -1,0 +1,15 @@
+URL: http://www.cs.columbia.edu/~lei/prefetch.ps
+Refering-URL: http://www.cs.columbia.edu/~lei/publications.html
+Root-URL: http://www.cs.columbia.edu
+Email: flei, djdg@cs.columbia.edu  
+Title: An Analytical Approach to File Prefetching  
+Author: Hui Lei and Dan Duchamp 
+Address: New York, NY 10027  
+Affiliation: Computer Science Department Columbia University  
+Abstract: File prefetching is an effective technique for improving file access performance. In this paper, we present a file prefetching mechanism that is based on on-line analytic modeling of interesting system events and is transparent to higher levels. The mechanism, incorporated into a client's file cache manager, seeks to build semantic structures that capture the intrinsic correlations between file accesses. It then heuristically uses these structures to represent distinct file usage patterns and exploits them to prefetch files from a file server. We show results of a simulation study and of a working implementation. Measurements suggest that our method can predict future file accesses with an accuracy around 90%, that it can reduce cache miss rate by up to 47% and application latency by up to 40%. Our method imposes little overhead, even under antagonistic circumstances. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> M. Accetta, R. Baron, W. Bolosky, D. Golub, R. Rashid, A. Tevanian, and M. Young. </author> <note> Mach: </note>
+Reference-contexts: The limitations of the simulation motivated us to conduct a full implementation and further evaluations. 4 Implementation We have implemented our mechanism in UX42 [8], a BSD UNIX server running on Mach 3.0 <ref> [1] </ref>. UX42 resides in user space and is organized as a collection of C threads [5]. Most threads handle BSD system calls. Among the others are NFS [23] async daemons, which handle asynchronous NFS block I/O requests.
+References-found: 1
+

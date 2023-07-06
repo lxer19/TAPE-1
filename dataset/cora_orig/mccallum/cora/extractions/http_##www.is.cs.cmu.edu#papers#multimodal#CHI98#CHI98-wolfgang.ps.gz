@@ -1,0 +1,17 @@
+URL: http://www.is.cs.cmu.edu/papers/multimodal/CHI98/CHI98-wolfgang.ps.gz
+Refering-URL: http://www.is.cs.cmu.edu/ISL.multimodal.publications.html
+Root-URL: 
+Email: waibel-@cs.cmu.edu  
+Title: Interactive Error Repair for an Online Handwriting Interface  
+Author: Wolfgang Huerst, Jie Yang, Alex Waibel wolfgang+, yang+, 
+Keyword: Online handwriting recognition, error repair in human handwriting, error recovery, interactive user interface  
+Address: Pittsburgh, PA 15213-3890, USA  
+Affiliation: Interactive Systems Laboratories Carnegie Mellon University School of Computer Science  
+Abstract: Current online handwriting recognition systems have very limited error recovery mechanisms. In this paper, we di s-cuss the problem of error repair in an online handwriting interface. Based on user study of common repair patterns found in human handwriting, we propose an approach that allows users to recover from recognition errors. The basic idea is to handle the error repair at the interface level by interacting with users. The method requires few modific ations on original recognition engine and imposes few r e-strictions on users. We have developed a prototype system to demonstrate the proposed concept and perform user study when the system provides error recovery mechanisms. 
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> Hurst, W. </author> <year> (1997), </year> <title> Repair in online handwriting reco g nition, </title> <type> Master thesis, </type> <institution> University of Karlsruhe. </institution>
+Reference-contexts: Sch o-maker reported that even humans were unable to achieve a recognition accuracy of 100% (Schomaker, 1994). Our studies also discovered that recognition errors result from not only the system but also human mistakes such as mi s-spelled words <ref> (Hurst, 1997) </ref>. Therefore, even with a ``pe r-fect'' recognition engine we would still face the problem of misinterpretation. On the other hand, instead of pursuing a perfect recognition system, it is possible to develop a sy stem with reasonable users satisfaction by providing error recovery mechanisms. <p> The trajectory S* is input to the recognition engine. A major problem in handling error repair is to detect repair actions, i.e., detect which part of input trajectory contains repair. In order to detect repair actions, we introduce some specific parameters in the current handwriting recognition system <ref> (Hurst, 1997) </ref>. If these parameters change, it is a s-sumed that a repair occurs. For example, a repair is a s-sumed, if the leftmost x-coordinates value between two locals extreme is much smaller than the ones written before. <p> For example, if a user deletes some parts of a word and the system misinterpret this repair action, the user will repeat his/her repair actions because no repair has been indicated. We have designed some heuri s-tics in the way that is able to detect such repeated repair patterns <ref> (Hurst, 1997) </ref>. Figure 1 shows the repair handling scheme. EVALUATION In order to evaluate the proposed approach, we have deve loped a prototype system using the NPen++, an online handwriting recognition system developed in our lab (Manke et al. 1995). We collected some repair data with four users.
+Reference: 2. <author> Manke, S., Finke, M., and Waibel, A. </author> <year> (1995), </year> <month> Npen++: </month>
+References-found: 2
+

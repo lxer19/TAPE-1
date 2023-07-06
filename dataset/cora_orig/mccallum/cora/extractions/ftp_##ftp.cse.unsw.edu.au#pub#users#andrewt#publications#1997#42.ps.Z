@@ -1,0 +1,18 @@
+URL: ftp://ftp.cse.unsw.edu.au/pub/users/andrewt/publications/1997/42.ps.Z
+Refering-URL: http://www.cse.unsw.edu.au/school/publications/1997/SCSE_publications.html
+Root-URL: http://www.cse.unsw.edu.au
+Email: fabhaya j normang@cse.unsw.edu.au  
+Title: Reasoning Without Minimality  
+Author: Abhaya C. Nayak and Norman Y. Foo 
+Address: Sydney, Australia 2052  
+Affiliation: Knowledge Systems Group School of Computer Science and Engineering University of New South Wales  
+Abstract-found: 0
+Intro-found: 1
+Reference: [ Gardenfors, 1988 ] <author> Peter Gardenfors. </author> <title> Knowledge in Flux: Modeling the Dynamics of Epistemic States. </title> <publisher> Bradford Books, MIT Press, </publisher> <address> Cambridge Massachusetts, </address> <year> 1988. </year>
+Reference-contexts: 1 Introduction In various frameworks for commonsense reasoning such as belief revision <ref> [ Gardenfors, 1988 ] </ref> and preferential semantics [ Shoham, 1988 ] , appeal is made to the principle of minimal change in order to justify systematic model elimination. <p> With the help of these two definitions, the non minimal revision operation 2 fl is shown to be demonstrably characterised by the following set of postulates: (162 fl ) AGM (1fl-6fl) with fl replaced by 2 fl (see <ref> [ Gardenfors, 1988 ] </ref> ) (7:12 fl ) If K 2fl x 6 Cn (x ^ y) then K 2fl x^y Cn (K 2fl (7:22 fl ) If K 2fl y = Cn (y) then K 2fl x^y Cn (K 2fl (7:32 fl ) If K 2fl then K 2fl x^y
+Reference: [ Pagnucco, 1996 ] <author> Maurice Pagnucco. </author> <title> The Role of Abductive Reasoning within the Process of Belief revision. </title> <type> PhD thesis, </type> <institution> University of Sydney, </institution> <year> 1996. </year>
+Reference-contexts: On the other hand, (82 fl ) is the AGM postulate (8fl). Thus, although Conditionalisation fails, the principle of Rational Monotony continues to be satisfied by the non-minimal belief revision operation. 3 Concluding Remarks An interesting account of abductive belief revision has been recently proposed in <ref> [ Pagnucco, 1996 ] </ref> . A shortcoming of this approach is that it makes no room for iterated abduction. We suggest that an abductive extension of our proposal can handle iterated abductive belief change. Research in that direction is currently being pursued.
+Reference: [ Shoham, 1988 ] <author> Yoav Shoham. </author> <title> Reasoning About Change. </title> <publisher> MIT Press, </publisher> <address> Cambridge, Massachusetts, </address> <year> 1988. </year>
+Reference-contexts: 1 Introduction In various frameworks for commonsense reasoning such as belief revision [ Gardenfors, 1988 ] and preferential semantics <ref> [ Shoham, 1988 ] </ref> , appeal is made to the principle of minimal change in order to justify systematic model elimination. Given an agent's ultimate preference over models (worlds), this principle recommends that the most preferred, among the worlds that satisfy the evidence, be chosen (and the rest eliminated).
+References-found: 3
+

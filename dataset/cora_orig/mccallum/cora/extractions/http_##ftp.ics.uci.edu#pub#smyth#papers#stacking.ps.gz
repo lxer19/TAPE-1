@@ -1,0 +1,26 @@
+URL: http://ftp.ics.uci.edu/pub/smyth/papers/stacking.ps.gz
+Refering-URL: http://www.ics.uci.edu/~mlearn/MLPapers.html
+Root-URL: 
+Email: smyth@ics.uci.edu  
+Title: Stacked Density Estimation  
+Author: Padhraic Smyth David Wolpert 
+Date: August 29, 1997  
+Address: CA 92697-3425  MS 269-2, Mountain View, CA 94035  nology, Pasadena, CA 91109  
+Affiliation: Information and Computer Science University of California, Irvine  NASA Ames Research Center  
+Abstract: Technical Report No. 97-36, Information and Computer Science Department, University of California, Irvine 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Banfield, J. D., and Raftery, A. E., </author> <title> `Model-based Gaussian and non-Gaussian clustering,' </title> <journal> Biometrics, </journal> <volume> 49, </volume> <pages> 803-821, </pages> <year> 1993. </year>
+Reference: <author> Breiman, L., </author> <title> `Bagging predictors,' </title> <journal> Machine Learning, </journal> <volume> 26(2), </volume> <pages> 123-140, </pages> <year> 1996a. </year>
+Reference-contexts: There are several ways to do this, especially if one exploits previous combining work in supervised learning. For example, Ormontreit and Tresp (1996) have shown that "bagging" (uniformly weighting different parametrizations of the same model trained on different bootstrap samples), originally introduced for supervised learning <ref> (Breiman 1996a) </ref>, can improve accuracy for mixtures of Gaussians with a fixed number of components. Another supervised learning technique for combining different types of models is "stacking" (Wolpert 1992), which has been found to be very effective for both regression and classification (e.g., Breiman (1996b), Leblanc and Tibshirani (1993)).
+Reference: <author> Breiman, L., </author> <title> `Stacked regressions,' </title> <journal> Machine Learning, </journal> <volume> 24, </volume> <pages> 49-64, </pages> <year> 1996b. </year>
+Reference: <author> Chickering, D. M., and Heckerman, D., </author> <title> `Efficient approximations for the marginal likelihood of Bayesian networks with hidden variables,' Machine Learning, in press. Draper, D, `Assessment and propagation of model uncertainty (with discussion),' </title> <journal> Journal of the Royal Statistical Society B, </journal> <volume> 57, </volume> <pages> 45-97, </pages> <year> 1995. </year>
+Reference: <author> Escobar, M. D., and West, M., </author> <title> `Bayesian density estimation and inference with mixtures,' </title> <journal> JASA, </journal> <volume> 90, </volume> <pages> 577-588, </pages> <year> 1995. </year>
+Reference: <author> Jordan, M. I. and Jacobs, R. A., </author> <title> `Hierarchical mixtures of experts and the EM algorithm,' </title> <journal> Neural Computation, </journal> <volume> 6, </volume> <pages> 181-214, </pages> <year> 1994. </year>
+Reference: <author> Leblanc, M. and Tibshirani, R. J., </author> <title> `Combining estimates in regression and classification,' </title> <type> preprint, </type> <year> 1993. </year>
+Reference: <author> Madigan, D., and Raftery, A. E., </author> <title> `Model selection and accounting for model uncertainty in graphical models using Occam's window,' </title> <journal> J. Am. Stat. Assoc., </journal> <volume> 89, </volume> <pages> 1535-1546, </pages> <year> 1994. </year>
+Reference-contexts: In this case often one should again average. In particular, prediction using the single model which is closest to the true density (in the sense of Kullback-Leibler or cross-entropy distance) can be shown to be inferior to prediction based on averaging over multiple models <ref> (Madigan and Raftery, 1994) </ref>. Thus, a natural approach to improving density estimators is to consider empirically-driven combinations of multiple density models. There are several ways to do this, especially if one exploits previous combining work in supervised learning.
+Reference: <author> Ormeneit, D., and Tresp, V., </author> <title> `Improved Gaussian mixture density estimates using Bayesian penalty terms and network averaging,' </title> <booktitle> in Advances in Neural Information Processing 8, </booktitle> <pages> 542-548, </pages> <publisher> MIT Press, </publisher> <year> 1996. </year> <note> 11 Ripley, </note> <author> B. D. </author> <year> 1994. </year> <title> `Neural networks and related methods for classification (with discussion),' </title> <journal> J. Roy. Stat. Soc. B, </journal> <volume> 56, </volume> <pages> 409-456. </pages> <editor> Smyth, </editor> <title> P.,`Clustering using Monte-Carlo cross-validation,' </title> <booktitle> in Proceedings of the Second International Conference on Knowledge Discovery and Data Mining, </booktitle> <address> Menlo Park, CA: </address> <publisher> AAAI Press, </publisher> <address> pp.126-133, </address> <year> 1996. </year>
+Reference: <author> Titterington, D. M., A. F. M. Smith, U. E. Makov, </author> <title> Statistical Analysis of Finite Mixture Distributions, </title> <address> Chichester, UK: </address> <publisher> John Wiley and Sons, </publisher> <address> 1985 Wolpert, D. </address> <year> 1992. </year> <title> `Stacked generalization,' </title> <booktitle> Neural Networks, </booktitle> <volume> 5, </volume> <pages> 241-259. 12 </pages>
+References-found: 10
+

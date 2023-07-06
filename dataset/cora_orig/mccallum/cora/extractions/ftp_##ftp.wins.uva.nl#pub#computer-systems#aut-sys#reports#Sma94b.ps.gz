@@ -1,0 +1,22 @@
+URL: ftp://ftp.wins.uva.nl/pub/computer-systems/aut-sys/reports/Sma94b.ps.gz
+Refering-URL: http://www.fwi.uva.nl/research/neuro/publications/publications.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Email: Email: &lt;smagt@fwi.uva.nl&gt;  
+Phone: Phone: +31 20 525 7524, Fax: +31 20 525 7490  
+Title: Simderella: a robot simulator for neuro-controller design  
+Author: Patrick van der Smagt 
+Date: January, 1994  
+Address: Kruislaan 403, 1098 SJ Amsterdam  
+Affiliation: Department of Computer Systems, University of Amsterdam  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> P. van der Smagt, F. Groen, and B. Krose. </author> <title> Robot hand-eye coordination using neural networks. </title> <type> Technical Report CS-93-10, </type> <institution> Department of Computer Systems, University of Amsterdam, </institution> <month> September </month> <year> 1993. </year> <note> Obtainable from archive.cis.ohio-state.edu. </note>
+Reference-contexts: The inverse kinematics for a Philips OSCAR-6 anthropomorphic arm are included in the simderella distribution since this is the robot arm I use for my research. These algorithms (e.g., <ref> [1, 2, 3] </ref>). were developed initially with simmel and subsequently ported to control the real OSCAR-6 with only minor (mostly timing and error handling related) adaptations. <p> These algorithms (e.g., [1, 2, 3]). were developed initially with simmel and subsequently ported to control the real OSCAR-6 with only minor (mostly timing and error handling related) adaptations. For example, in the research reported in <ref> [1] </ref> the following algorithm is the heart of the neuro-controller, connel: 1. call get joint values () and get camera () (see below): two messages are being sent to simmel which after appropriate computation responds by communicating the relevant data (current joint values ~ and the object position ~x as seen
+Reference: [2] <author> A. Jansen, P. van der Smagt, and F. C. A. Groen. </author> <title> Nested networks for robot control. </title> <editor> In A. F. Murray, editor, </editor> <title> Neural Network Applications. </title> <publisher> Kluwer Academic Publishers, </publisher> <year> 1993. </year> <note> In print. </note>
+Reference-contexts: The inverse kinematics for a Philips OSCAR-6 anthropomorphic arm are included in the simderella distribution since this is the robot arm I use for my research. These algorithms (e.g., <ref> [1, 2, 3] </ref>). were developed initially with simmel and subsequently ported to control the real OSCAR-6 with only minor (mostly timing and error handling related) adaptations.
+Reference: [3] <author> P. van der Smagt, B. J. A. Krose, and F. C. A. Groen. </author> <title> A self-learning controller for monocular grasping. </title> <booktitle> In Proceedings of the 1992 IEEE/RSJ International Conference on Intelligent Robots and Systems, </booktitle> <pages> pages 177-182. </pages> <address> Raleigh, N. C., </address> <month> June </month> <year> 1992. </year>
+Reference-contexts: The inverse kinematics for a Philips OSCAR-6 anthropomorphic arm are included in the simderella distribution since this is the robot arm I use for my research. These algorithms (e.g., <ref> [1, 2, 3] </ref>). were developed initially with simmel and subsequently ported to control the real OSCAR-6 with only minor (mostly timing and error handling related) adaptations. <p> The two processes communicated learning samples and updated network weight matrices using an interrupt-driven protocol via a mutual socket. For the research in <ref> [3] </ref>, not only the observed object position is required, but also the apparent velocity and acceleration of the object due to motion of the (hand-held) camera.
+Reference: [4] <author> K. S. Fu, R. C. Gonzalez, and C. S. G. Lee. </author> <title> Robotics: Control, </title> <booktitle> Sensing, Vision, and Intelligence. </booktitle> <publisher> McGraw-Hill, </publisher> <year> 1987. </year> <month> 4 </month>
+Reference-contexts: The robot is described in a Denavit-Hartenberg (DH) matrix which is read in at startup. The assignment of frames to links is chosen in accordance with <ref> [4] </ref> (see figure 2). During normal operation, target joint values d , velocities _ d , and accelerations d (6 of each for a 6 degree-of-freedom robot) are received from the robot socket connected to the controller. The values d , _ d , and d specify the new path.
+References-found: 4
+

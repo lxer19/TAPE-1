@@ -1,0 +1,15 @@
+URL: http://www.research.digital.com/SRC/tla/notes/types.ps.Z
+Refering-URL: http://www.research.digital.com/SRC/tla/notes.html
+Root-URL: http://www.research.digital.com
+Email: lamport@src.dec.com  
+Title: Types Considered Harmful  
+Author: Leslie Lamport 
+Date: Wed 23 Dec 1992 [10:54]  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> A. C. Leisenring. </author> <title> Mathematical Logic and Hilbert's "-Symbol. </title> <publisher> Gordon and Breach, </publisher> <address> New York, </address> <year> 1969. </year>
+Reference-contexts: For example, choose x : x =2 R denotes some unspecified value that is not a real number. The choose operator is known to logicians as Hilbert's "-symbol <ref> [1] </ref>. Although this operator appears to introduce the Axiom of Choice to ZF, it actually adds no new properties of sets. 2.2 Functions It is customary to define functions to be sets of ordered pairs. <p> Define a 5 partition p of the interval from a to b to be a monotonic sequence p <ref> [1] </ref>, : : : , p [n] of reals such that p [1] = a and p [n] = b. <p> Define a 5 partition p of the interval from a to b to be a monotonic sequence p <ref> [1] </ref>, : : : , p [n] of reals such that p [1] = a and p [n] = b.
+Reference: [2] <author> J. R. Shoenfield. </author> <title> The axioms of set theory. </title> <editor> In Jon Barwise, editor, </editor> <booktitle> Handbook of Mathematical Logic, chapter B1, </booktitle> <pages> pages 317-344. </pages> <publisher> North-Holland, </publisher> <address> Amsterdam, </address> <year> 1977. </year> <month> 10 </month>
+Reference-contexts: This claim has implications for the design of specification languages and mechanical theorem provers. 2 Formalizing Mathematics 2.1 Zermelo-Fraenkel Set Theory The formalism that seems to be most widely regarded as the best foundation for ordinary mathematics is Zermelo-Fraenkel set theory <ref> [2] </ref>. The particular version of Zermelo-Fraenkel set theory described here will be called ZF. We consider formal definitions, but not formal reasoning, so we will not describe the precise axioms of ZF. In ZF, one reasons only about sets. <p> Some of these operators can be defined in terms of the others. The rest are effectively defined by axioms. For example, the Separation Axiom <ref> [2, page 325] </ref> asserts that, for any set S, the expression fx 2 S : pg denotes a set consisting of all elements of S satisfying p. This axiom is valid only because S is considered to lie outside the scope of the bound variable x. <p> In computer science, it seems necessary only to assume that, for every set S, there is some value v such that v =2 S. More sophisticated mathematical applications may need more powerful assumptions, such as the Axiom of Choice <ref> [2, page 335] </ref>. Naive informal reasoning about sets can be unsound. A common source of error is reasoning about collections of elements that are "too big" to be sets, where a collection is too big if it has "as many elements as" the collection of all sets.
+References-found: 2
+

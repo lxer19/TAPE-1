@@ -1,0 +1,24 @@
+URL: http://info.internet.isi.edu:80/0/in-drafts/files/draft-ietf-avt-rtp-format-guidelines-01.ps
+Refering-URL: http://info.internet.isi.edu:80/in-drafts/id-abstracts.html
+Root-URL: http://www.isi.edu
+Title: Internet Engineering Task Force AVT Working Group Guidelines for Writers of RTP Payload Format Specifications
+Author: INTERNET-DRAFT Mark Handley 
+Web: ftp.is.co.za (Africa), ftp.nordu.net  
+Note: this Memo This document is an Internet-Draft. Internet-Drafts are working documents of the Internet Engineering Task Force (IETF), its areas, and its working groups. Note that other groups may also distribute working documents as Internet-Drafts. To view the entire list of current Internet-Drafts, please check the 1id-abstracts.txt listing contained in the Internet-Drafts Shadow Directories on  (Northern Europe), ftp.nis.garr.it (Southern Europe), munnari.oz.au (Pacific Rim), ftp.ietf.org (US East Coast), or ftp.isi.edu (US West Coast). Distribution of this document is unlimited.  
+Date: November 13, 1998 Expires: May 1999  
+Pubnum: draft-ietf-avt-rtp-format-guidelines-01.ps ISI  
+Abstract: Internet-Drafts are draft documents valid for a maximum of six months and may be updated, replaced, or obsoleted by other documents at any time. It is inappropriate to use Internet- Drafts as reference material or to cite them other than as work in progress. Abstract This document provides general guidelines aimed at assisting the authors of RTP Payload Format specifications in deciding on good formats. These guidelines attempt to capture some of the experience gained with RTP as it evolved during its development. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> H.Schulzrinne, S.Casner, R.Frederick, V. Jacobson, </author> <title> Real-Time Transport Protocol, </title> <publisher> RFC1899. </publisher>
+Reference-contexts: 1 Introduction This document provides general guidelines aimed at assisting the authors of RTP <ref> [1] </ref> Payload Format specifications in deciding on good formats. These guidelines attempt to capture some of the experience gained with RTP as it evolved during its development. 2 Background RTP was designed around the concept of Application Level Framing (ALF), first described by Clark and Tennenhouse [2].
+Reference: [2] <author> D. Clark, D. Tennenhouse, </author> <title> Architectural Considerations for a New Generation of Network Protocols Proc ACM Sigcomm 90. </title>
+Reference-contexts: These guidelines attempt to capture some of the experience gained with RTP as it evolved during its development. 2 Background RTP was designed around the concept of Application Level Framing (ALF), first described by Clark and Tennenhouse <ref> [2] </ref>. The key argument underlying ALF is that there are many different ways an application might be able to cope with misordered or lost packets.
+Reference: [3] <author> J. Nonnenmacher, E. Biersack, Don Towsley, </author> <title> Parity-Based Loss Recovery for Reliable Multicast Transmission, </title> <booktitle> Proc ACM Sigcomm '97, </booktitle> <address> Cannes, France, </address> <year> 1997. </year>
+Reference-contexts: Instead it must define its own fragmentation mechanism. Such mechanisms may involve codec-specific information that allows decoding of fragments. Alternatively they might allow codec-independent packet-level forward error correction <ref> [3] </ref> to be applied that cannot be used with IP-level fragmentation. In the abstract, a codec frame (i.e., the ADU or the minimum size unit that has semantic meaning when handed to the codec) can be of arbitrary size. For PCM audio, it is one byte.
+Reference: [4] <author> J. Mahdavi and S. Floyd. </author> <note> TCP-friendly unicast rate-based flow control. Note sent to end2end-interest mailing list, </note> <month> Jan </month> <year> 1997. </year>
+Reference: [5] <author> M. Mathis, J. Semske, J. Mahdavi, and T. Ott. </author> <title> The macro-scopic behavior of the TCP congestion avoidance algorithm. </title> <journal> Computer Communication Review, </journal> <volume> 27(3), </volume> <month> July </month> <year> 1997. </year>
+Reference: [6] <author> J. Padhye, V. Firoiu, D. Towsley, J. Kurose, </author> <title> Modeling TCP Throughput: A Simple Model and its Empirical Validation, </title> <booktitle> Proc. ACM Sigcomm 1998. </booktitle>
+Reference: [7] <author> K. K. Ramakrishnan, Sally Floyd, </author> <title> A Proposal to add Explicit Congestion Notification (ECN) to IP INTERNET DRAFT, Work in Progress. </title> <note> Mark Handley Expires May 1999 [Page 5] </note>
+References-found: 7
+

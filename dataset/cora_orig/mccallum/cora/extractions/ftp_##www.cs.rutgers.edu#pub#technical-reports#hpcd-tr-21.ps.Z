@@ -1,0 +1,30 @@
+URL: ftp://www.cs.rutgers.edu/pub/technical-reports/hpcd-tr-21.ps.Z
+Refering-URL: http://www.cs.rutgers.edu/cobacode/
+Root-URL: 
+Email: (gelsey@cs.rutgers.edu, dsmith@cs.rutgers.edu)  
+Title: A Computational Environment for Exhaust Nozzle Design  
+Author: Andrew Gelsey and Don Smith Andrew Gelsey and Don 
+Note: Computing in Aerospace 10, San Antonio, TX, March 1995 AIAA-95-1016-CP Copyright c fl1995 by  Smith. Published by the American Institute of Aero nautics and Astronautics, Inc. with permission. Abstract  
+Address: New Brunswick, NJ 08903  
+Affiliation: Computer Science Department Rutgers University  
+Abstract: The Nozzle Design Associate (NDA) is a computational environment for the design of jet engine exhaust nozzles for supersonic aircraft. NDA may be used either to design new aircraft or to design new nozzles that adapt existing aircraft so they may be reutilized for new missions. NDA was developed in a collaboration between computer scientists at Rut-gers University and exhaust nozzle designers at General Electric Aircraft Engines and General Electric Corporate Research and Development. The NDA project has two principal goals: to provide a useful engineering tool for exhaust nozzle design, and to explore fundamental research issues that arise in the application of automated design optimization methods to realistic engineering problems. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> A. M. Agogino and A. S. Almgren. </author> <title> Techniques for integrating qualitative reasoning and symbolic computing. </title> <journal> Engineering Optimization, </journal> <volume> 12 </volume> <pages> 117-135, </pages> <year> 1987. </year>
+Reference: <author> E. E. Bouchard, G. H. Kidwell, and J. E. Ro-gan. </author> <title> The application of artificial intelligence technology to aeronautical system design. </title> <booktitle> In AIAA/AHS/ASEE Aircraft Design Systems and Operations Meeting, </booktitle> <address> Atlanta, Georgia, </address> <month> September </month> <year> 1988. </year> <month> AIAA-88-4426. </month>
+Reference: <author> E. E. Bouchard. </author> <title> Concepts for a future aircraft design environment. </title> <booktitle> In Proceedings, 1992 Aerospace Design Conference, </booktitle> <address> Irvine, CA, </address> <month> February </month> <year> 1992. </year> <month> AIAA-92-1188. </month>
+Reference: <author> Eugene Charniak and Drew McDermott. </author> <title> Introduction to Artificial Intelligence. </title> <publisher> Addison-Wesley, </publisher> <address> Reading, Mass., </address> <year> 1987. </year> <note> Reprinted with corrections January, </note> <year> 1987. </year>
+Reference: <author> Andrew Gelsey and Don Smith. </author> <title> A search space toolkit. </title> <booktitle> In Proceedings, 11th IEEE Conference on Artificial Intelligence Applications, </booktitle> <address> Los Angeles, CA, </address> <month> February </month> <year> 1995. </year>
+Reference: <author> Andrew Gelsey. </author> <title> Intelligent automated quality control for computational simulation. </title> <type> Technical Report CAP-TR-21, </type> <institution> Department of Computer Science, Rutgers University, </institution> <month> August </month> <year> 1994. </year>
+Reference: <author> Philip E. Gill, Walter Murray, and Margaret H. Wright. </author> <title> Practical Optimization. </title> <publisher> Academic Press, </publisher> <address> London ; New York, </address> <year> 1981. </year>
+Reference: <author> Jack D. Mattingly, William H. Heiser, and Daniel H. Daley. </author> <title> Aircraft Engine Design. </title> <booktitle> AIAA education series. American Institute of Aeronautics and Astronautics, </booktitle> <address> New York, N.Y., </address> <year> 1987. </year>
+Reference: <author> Jorge J. More and Stephen J. Wright. </author> <title> Optimization Software Guide. </title> <publisher> SIAM, </publisher> <address> Philadelphia, </address> <year> 1993. </year>
+Reference: <author> Anthony L. Peressini, Francis E. Sullivan, and Jr. J.J. Uhl. </author> <title> The Mathematics of Nonlinear Programming. </title> <publisher> Springer-Verlag, </publisher> <address> New York, </address> <year> 1988. </year>
+Reference: <author> William H. Press, Saul A. </author> <type> Teukolsky, </type> <institution> William T. </institution>
+Reference: <author> Vetterling, and Brian P. Flannery. </author> <title> Numerical Recipes in C : the Art of Scientific Computing. </title> <publisher> Cambridge University Press, </publisher> <address> Cambridge [Eng-land] ; New York, 2nd edition, </address> <year> 1992. </year>
+Reference: <author> J. Sobieszczanski-Sobieski, B. B. James, and A. R. Dovi. </author> <title> Structural optimization by multilevel decomposition. </title> <journal> AIAA Journal, </journal> <volume> 23(11) </volume> <pages> 1775-1782, </pages> <month> November </month> <year> 1985. </year>
+Reference: <author> Siu Shing Tong, David Powell, and Sanjay Goel. </author> <title> Integration of artificial intelligence and numerical optimization techniques for the design of complex aerospace systems. </title> <booktitle> In Proceedings, 1992 Aerospace Design Conference, </booktitle> <address> Irvine, CA, Febru-ary 1992. AIAA. </address>
+Reference: <author> Garret N. Vanderplaats. </author> <title> Numerical Optimization Techniques for Engineering Design : With Applications. </title> <publisher> McGraw-Hill, </publisher> <address> New York, </address> <year> 1984. </year>
+Reference: <author> Brian C. Williams and Jonathan Cagan. </author> <title> Activity analysis: The qualitative analysis of stationary points for optimal reasoning. </title> <booktitle> In Proceedings, 12th National Conference on Artificial Intelligence, </booktitle> <pages> pages 1224-1230, </pages> <address> Seattle, Washington, </address> <month> August </month> <year> 1994. </year>
+References-found: 16
+

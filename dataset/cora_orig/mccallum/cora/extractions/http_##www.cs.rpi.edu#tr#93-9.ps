@@ -1,0 +1,22 @@
+URL: http://www.cs.rpi.edu/tr/93-9.ps
+Refering-URL: http://www.cs.rpi.edu/tr/
+Root-URL: 
+Title: Integer Division in Residue Number Systems  
+Author: Markus A. Hitz and Erich Kaltofen 
+Keyword: Index Terms Integer division, reciprocal, Newton iteration, extended residue number system, mixed radix conversion, base extension.  
+Abstract: This contribution to the ongoing discussion of division algorithms for residue number systems (RNS) is based on Newton iteration for computing the reciprocal. An extended RNS with twice the number of moduli provides the range required for multiplication and scaling. Separation of the algorithm description from its RNS implementation achieves a high level of modularity, and makes the complexity analysis more transparent. The number of iterations needed is logarithmic in the size of the quotient for a fixed start value. With preconditioning it becomes the logarithm of the input bit size. An implementation of the conversion to mixed radix representation is outlined in the appendix. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Aho, A. V., Hopcroft, J. E., and Ullman, J. D., </author> <title> The Design and Analysis of Computer Algorithms; Addison and Wesley, </title> <address> Reading, M.A., </address> <year> 1974. </year>
+Reference-contexts: Thus either ffi XZ ffi X ffi XZ ffi X In "RECIP" we use Newton iteration to compute the reciprocal bM=Y c . This algorithm is similar to the one in Aho, Hopcroft and Ullman <ref> [1] </ref>. But their divide and conquer approach, where the number of valid bits doubles in each recursive step, is not suitable for RNS, because here all residues change simultaneously. Still, the advantage of quadratic convergence is preserved in our algorithm.
+Reference: [2] <author> Banerji, D. K., Cheung, T. Y., and Ganesan, V., </author> <title> "A high-speed division method in residue arithmetic," </title> <booktitle> Proc. 5th. Symp. on Computer Arithmetic, </booktitle> <pages> pp. 158-164, </pages> <year> 1981. </year>
+Reference: [3] <author> Chren, W. A., Jr., </author> <title> "A new residue number system division algorithm," </title> <journal> Computers Math. Appl., </journal> <volume> vol. 19, </volume> <pages> pp. 13-29, </pages> <year> 1990. </year>
+Reference: [4] <author> Davida, G. I. and Litow, B., </author> <title> "Fast parallel arithmetic via modular representation," </title> <journal> SIAM J. Comput., </journal> <volume> vol.20, </volume> <pages> pp. 756-765, </pages> <year> 1991. </year>
+Reference-contexts: However, it is not the scope of this paper to discuss hardware realizations. Various models of computation were used so far to derive the complexity of basic RNS operations. More recently, a thorough analysis for N C 1 circuits was carried out by Davida and Litow <ref> [4] </ref>. Unfortunately conversions were left out. <p> Comparison For the correction step at the end of both algorithms, one comparison is necessary. Davida and Litow <ref> [4] </ref> describe an N C 1 circuit for comparison of two RNS integers with size O (b 2 ) and depth O (log b), where b is the input size in bits (dlog 2 M e).
+Reference: [5] <author> Gamberger, D., </author> <title> "New approach to integer division in 5 residue number systems," </title> <booktitle> Proc. 10th. Symp. on Computer Arithmetic, </booktitle> <pages> pp. 84-91, </pages> <year> 1991. </year>
+Reference: [6] <author> Huang, C. H., </author> <title> "A fully parallel mixed-radix conversion algorithm for residue number applications," </title> <journal> IEEE Trans. Comput., </journal> <volume> vol. 32, </volume> <pages> pp. 398-402, </pages> <year> 1983. </year>
+Reference: [7] <author> Leighton, F. T., </author> <title> Introduction to Parallel Algorithms and Architectures: Arrays, </title> <publisher> Trees & Hypercubes; Mor-gan Kaufmann Publ., </publisher> <address> San Mateo, California, </address> <year> 1991. </year>
+Reference: [8] <author> Lu, Mi and Chiang, Jen-Shiun, </author> <title> "A novel division algorithm for the residue number system," </title> <journal> IEEE Trans. Comput., </journal> <volume> vol. 41, </volume> <pages> pp. 1026-1032, </pages> <year> 1992. </year>
+Reference: [9] <author> Szabo, N. S. and Tanaka, R. I., </author> <title> Residue Arithmetic and its Applications to Computer Technology, </title> <publisher> McGraw-Hill, </publisher> <address> New York, N.Y., </address> <year> 1967. </year>
+References-found: 9
+

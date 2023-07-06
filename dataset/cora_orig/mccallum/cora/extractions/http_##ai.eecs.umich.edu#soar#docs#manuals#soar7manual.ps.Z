@@ -1,0 +1,23 @@
+URL: http://ai.eecs.umich.edu/soar/docs/manuals/soar7manual.ps.Z
+Refering-URL: http://ai.eecs.umich.edu/soar/docs.html
+Root-URL: http://www.eecs.umich.edu
+Title: The Soar User's Manual Version 7.0.4  
+Author: Clare Bates Congdon and John E. Laird C. B. Congdon and J. E. Laird 
+Date: May 30, 1997  
+Note: Draft of:  Draft: Do not quote or distribute. Errors may be reported to Clare Congdon (congdon@eecs.umich.edu) Copyright c 1997,  
+Affiliation: Electrical Engineering and Computer Science Department University of Michigan  
+Abstract: This research was supported under contract N00014-92-K-2015 from the Advanced Systems Technology Office of the Advanced Research Projects Agency and the Naval Research Laboratory, and contract N66001-95-C-6013 from the Advanced Systems Technology Office of the Advanced Research Projects Agency and the Naval Command and Ocean Surveillance Center, RDT&E division. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [ Forgy, 1981 ] <author> C. L. Forgy. </author> <title> OPS5 user's manual. </title> <type> Technical Report CMU-CS-81-135, </type> <institution> Computer Science Department, Carnegie-Mellon University, </institution> <month> July </month> <year> 1981. </year>
+Reference-contexts: These tests are saved in the production traces and then added in to the chunk. 4.4 Ordering Conditions Since the efficiency of the matcher (a Rete network) <ref> [ Forgy, 1981 ] </ref> depends heavily upon the order of a production's conditions, the chunking mechanism attempts to write the chunk's conditions in the most favorable order.
+Reference: [ Laird et al., 1986 ] <author> J. E. Laird, P. S. Rosenbloom, and A. Newell. </author> <title> Chunking in Soar: The anatomy of a general learning mechanism. </title> <journal> Machine Learning, </journal> <volume> 1 </volume> <pages> 11-46, </pages> <year> 1986. </year>
+Reference: [ Laird, 1984 ] <author> J. E. Laird. </author> <title> Universal Subgoaling. </title> <type> PhD thesis, </type> <institution> Carnegie-Mellon University, </institution> <year> 1984. </year>
+Reference-contexts: But each state will never have more than one substate (and never more than one superstate). One hypothesis made in Soar is that impasse-driven goal generation is sufficient for all goals and that no other goal generation and selection mechanisms are required <ref> [ Laird, 1984 ] </ref> . Thus, no deliberate subgoal generation mechanism is available in Soar.
+Reference: [ Newell, 1990 ] <author> A. Newell. </author> <title> Unified Theories of Cognition. </title> <publisher> Harvard University Press, </publisher> <address> Cambridge, MA, </address> <year> 1990. </year>
+Reference: [ Ousterhout, 1994 ] <author> J. K. Ousterhout. </author> <title> Tcl and the Tk Toolkit. </title> <publisher> Addison-Wesley, </publisher> <year> 1994. </year>
+Reference-contexts: Users who need to know more about Tcl may wish to consult a Tcl reference, but we expect that this will only be those users who are implementing "advanced applications", such as those described in the Soar Advanced Applications Manual. The book Tcl and the Tk Toolkit <ref> [ Ousterhout, 1994 ] </ref> is considered by many to be the primary reference on using Tcl and Tk, although many also find this book to be rather obtuse. <p> The exact rules on the interaction between quoting and variable substitution are described in Chapter 3 of <ref> [ Ousterhout, 1994 ] </ref> . The rules follow conventions used by other shell interpreters, such as the Unix Bourne shell (sh) and C shell (csh), rather than high-level programming languages. <p> E.g., Bob's example, where he had comments in the middle of a switch. But again, I don't know the rules yet. 5.2.3 Where to get additional help with Tcl The book Tcl and the Tk Toolkit <ref> [ Ousterhout, 1994 ] </ref> is considered by many to be the primary reference on using Tcl and Tk, although some find this book to be difficult to navigate.
+Reference: [ Rosenbloom et al., 1993 ] <author> P. S. Rosenbloom, J. E. Laird, and A. </author> <title> Newell. </title> <booktitle> The Soar Papers: Research on Integrated Intelligence. </booktitle> <publisher> MIT Press, </publisher> <year> 1993. </year>
+
+References-found: 6
+

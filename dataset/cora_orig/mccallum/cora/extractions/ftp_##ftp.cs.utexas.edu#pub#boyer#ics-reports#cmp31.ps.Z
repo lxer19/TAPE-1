@@ -1,0 +1,16 @@
+URL: ftp://ftp.cs.utexas.edu/pub/boyer/ics-reports/cmp31.ps.Z
+Refering-URL: ftp://ftp.cs.utexas.edu/pub/boyer/ics-reports/index.html
+Root-URL: 
+Phone: (512) 471-1901  
+Title: REUSABLE PROBLEM DOMAIN THEORIES  
+Author: Donald I. Good 
+Address: 2100 Main Building  Austin, Texas 78712  Austin, Texas 78712  
+Affiliation: Institute for Computing Science  The University of Texas at Austin  Institute for Computing Science The University of Texas at Austin  
+Date: 31 September 1982  
+Pubnum: Technical Report  
+Abstract-found: 0
+Intro-found: 1
+Reference: [Boyer 79] <author> R. S. Boyer and J. S. </author> <note> Moore. </note>
+Reference-contexts: This transformation step is not necessary, or at least very minimal, in programming languages that closely resemble ordinary logic such as pure Lisp [McCarthy 62]. The computational logic of <ref> [Boyer 79] </ref>, for example, has been very successful in formulating both programs and specifications in Lisp and mechanically proving their consistency. In any case, though, once one has the logical formulas that need to be proved, the key to manageable proofs is abstraction. <p> The related work of [DiVito 82] also contains some significant examples of reusability in the area of specification and verification of communications protocols. 17 In general, some semblance of reusable theories seems to be developing in association with several of the mechanical verification projects. For example, the Boyer-Moore <ref> [Boyer 79] </ref> theory contains a rather substantial number of theorems that have been mechanically proved to follow from their axioms, and these have been used in proving a variety of programs. A library of proved properties about abstract data types also has developed in conjunction the Affirm system [Gerhart 80].
+References-found: 1
+

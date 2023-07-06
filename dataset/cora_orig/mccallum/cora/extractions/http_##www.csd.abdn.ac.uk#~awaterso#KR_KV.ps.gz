@@ -1,0 +1,16 @@
+URL: http://www.csd.abdn.ac.uk/~awaterso/KR&KV.ps.gz
+Refering-URL: http://www.csd.abdn.ac.uk/~awaterso/
+Root-URL: 
+Email: Email: fawaterso, apreeceg@csd.abdn.ac.uk  
+Phone: Phone: +44 1224 272296; FAX: +44 1224 273422  
+Title: Knowledge Reuse and Knowledge Validation  
+Author: Andrew Waterson and Alun Preece 
+Address: Aberdeen AB24 3UE, Scotland  
+Affiliation: University of Aberdeen, Computing Science Department  
+Abstract: Automatic verification tools such as COVER have proven to be valuable aids in the validation process for knowledge-based systems (KBS). COVER checks KBS for logical anomalies. Background domain knowledge can allow COVER to detect errors in knowledge bases that would otherwise go undetected. Ontologies are a necessary component of knowledge sharing: two KBS cannot share knowledge unless they commit to a common ontology. Ontologies also provide a rich source of background domain knowledge for validation. This paper describes a tool, DISCOVER, which verifies KBS against ontologies. DISCOVER verifies heterogeneous sources of knowledge: KBS are represented in CRL (COVER rule language), and ontologies are represented in MOVES (Meta-ontology for the verification of expert systems). The paper describes MOVES and CRL, and discusses a number of anomalies arising between KBS and ontologies. It is shown that DISCOVER can be used to verify that a KBS commits to a given ontology, which is a prerequisite for sharing its knowledge. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Cockburn, D., and Jennings, N. </author> <year> 1995. </year> <month> ARCHON: </month>
+Reference-contexts: Data warehousing is an example of this kind of approach (Wiederhold 1992). * Distributed knowledge-based systems: Interoperation of existing knowledge-based systems (or "agents"), distributed as nodes on a network. An example of this approach is the European ARCHON architec ture <ref> (Cockburn & Jennings 1995) </ref>.
+References-found: 1
+

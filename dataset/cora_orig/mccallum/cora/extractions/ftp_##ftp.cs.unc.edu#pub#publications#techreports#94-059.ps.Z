@@ -1,0 +1,22 @@
+URL: ftp://ftp.cs.unc.edu/pub/publications/techreports/94-059.ps.Z
+Refering-URL: ftp://ftp.cs.unc.edu/pub/publications/techreports/FILE.html
+Root-URL: http://www.cs.unc.edu
+Title: Parallel Approach to Surface Rendering 3D Medical D a t a  
+Author: Terry S. Yoo and David T. Chen 
+Address: Chapel Hill, NC 27599-3175  
+Affiliation: Department of Computer Science University of North Carolina  
+Note: A  
+Abstract: Published in Boehme Johannes M., Alan H. Rowberg, and Neil T. Wolfman, eds., Computer Applications to Assist Radiology, (Proceedings of S/CAR 94, Symposium for Computer Assisted Radiology, Winston-Salem, NC USA, 12-15 June 1994), Symposia Foundation, 1994, pp. 100-105. Interactive 3D Medical Visualization: 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Bajura, M., H. Fuchs and R. Ohbuchi, </author> <title> Merging Virtual Objects with the Real World: Seeing Ultrasound Imagery within the Patient, </title> <booktitle> Computer Graphics, (Proc. SIGGRAPH 92), </booktitle> <volume> 26(2), </volume> <month> (July), </month> <year> 1992, </year> <pages> 203-210. </pages>
+Reference: <author> Cline, H. E., et. al. </author> <title> Two Algorithms for the Three-Dimensional Reconstruction of Tomograms, </title> <journal> Medical Physics, </journal> <volume> 15(3), (May/June), </volume> <year> 1988, </year> <pages> 320-327. </pages>
+Reference: <author> Fuchs, H., Z. M. Kedem and S. P. Uselton, </author> <title> Optimal Surface Reconstruction from Planar Contours, </title> <journal> Communications of the ACM, </journal> <month> 20(10), (Oct.), </month> <year> 1977, </year> <pages> 693-702. </pages>
+Reference: <author> Fuchs, H., et. al., </author> <title> Pixel-Planes 5: A Heterogeneous Multiprocessor Graphics System Using Processor-Enhanced Memories, </title> <booktitle> Computer Graphics, (Proc. SIGGRAPH 89), </booktitle> <volume> 23(3), </volume> <month> (July), </month> <year> 1989, </year> <pages> 79-88. </pages>
+Reference: <author> Hansen, C. D., and P. Hinker, </author> <title> Massively Parallel Isosurface Extraction, </title> <journal> Proc. Viz. </journal> <volume> 92, </volume> <publisher> IEEE CS Press, Los Alamitos, </publisher> <address> CA., </address> <year> 1992, </year> <note> 77-83 Hinker, </note> <author> P. and C. Hansen, </author> <title> Geometric Optimization, </title> <journal> Proc. Viz. </journal> <volume> 93, </volume> <publisher> IEEE CS Press, Los Alamitos, </publisher> <address> CA., </address> <year> 1993, </year> <pages> pp. 189-195 Kong, </pages> <editor> T. Y. and J. K. Udupa, </editor> <title> A Justification of a Fast Surface Tracking Algorithm, CVGIP: Graphical Models and Image Processing, </title> <type> 54(2), </type> <month> (Mar.), </month> <year> 1992, </year> <pages> 162-170. </pages>
+Reference: <author> Lorensen, W. E. and H. E. Cline, </author> <title> Marching Cubes: A High Resolution 3D Surface Construction Algorithm, </title> <journal> Computer Graphics, (Proc. </journal> <volume> SIGGRAPH 87) 21(4), </volume> <month> (July), </month> <year> 1987, </year> <pages> 163-169. </pages>
+Reference: <author> Schroeder, W. J., J. A. Zarge, and W. E. Lorensen, </author> <title> Decimation of Triangle Meshes, </title> <booktitle> Computer Graphics, (Proc. SIGGRAPH 92), </booktitle> <volume> 26(2), </volume> <month> (July), </month> <year> 1992, </year> <pages> 65-70. </pages>
+Reference: <author> Song, D. and E. Golin, </author> <title> Fine-Grain Visualization Algorithms in Dataflow Environments, </title> <journal> Proc. Viz. </journal> <volume> 93, </volume> <publisher> IEEE CS Press, Los Alamitos, </publisher> <address> CA, </address> <year> 1993, </year> <note> 126-133 Udupa, </note> <author> J. K., H. M. Hung, and K. S. Chuang, </author> <title> Surface and Volume Rendering in Three-Dimensional Imaging: A Comparison, </title> <journal> J. of Digital Imaging, </journal> <volume> 4(3), </volume> <month> (Aug.), </month> <year> 1991, </year> <pages> 159-168. </pages> <note> 6 Wilhelms, </note> <author> J. and A. V. Gelder, </author> <title> Octrees for Faster Isosurface Generation, </title> <booktitle> Proc. San Diego Workshop on Volume Viz., </booktitle> <month> (Nov.), </month> <year> 1990, </year> <pages> 57-62. </pages>
+
+References-found: 8
+

@@ -1,0 +1,26 @@
+URL: http://www.cs.toronto.edu/~vassos/research/publications/LH91/paper.ps.gz
+Refering-URL: http://www.cs.toronto.edu/~vassos/research/list-of-publications.html
+Root-URL: 
+Title: A FIRST COME FIRST SERVED MUTUAL EXCLUSION ALGORITHM WITH SMALL COMMUNICATION VARIABLES  
+Author: Edward A. Lycklama Vassos Hadzilacos 
+Note: August 26, 1991  
+Address: Toronto, Toronto, Canada  
+Affiliation: Department of Computer Science University of  
+Abstract: We present an algorithm for the mutual exclusion problem that satisfies the "first come first served" property and requires only five shared bits per participant. The algorithm works in a model of concurrency that does not assume atomic operations. 
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> Burns, J.E. </author> <year> [1981]. </year> <title> Complexity of communication among asynchronous parallel processes. </title> <type> Ph.D. thesis, </type> <institution> Georgia Institute of Technology, </institution> <month> Jan. </month> <year> 1981. </year>
+Reference-contexts: Similarly, if R overlapped with the third last write of turn l , it would have read the correct value of turn l <ref> [1] </ref> which at that time is also 1. Both cases contradict the assumption that R returns 00. We conclude that R did not occur within interval B. Hence, R must overlap with or precede the fourth last write of turn l .
+Reference: 2. <author> Burns, J.E. and N.A. </author> <title> Lynch [1980]. "Mutual exclusion using indivisible reads and writes". </title> <booktitle> Proc. of the 18th Allerton Conf. on Communication, Control and Computing. </booktitle> <month> Oct. </month> <year> 1980, </year> <pages> pp. 833-342. 3. </pages> <address> deBruijn, N.G. </address> <year> [1967]. </year> <title> "Additional comments on a problem in concurrent programming control". </title> <type> CACM 10(3) </type> <month> 137-138 (March </month> <year> 1967). </year>
+Reference: 4. <author> Dijkstra, E.W. </author> <year> [1965]. </year> <title> "Solution of a problem in concurrent programming control". </title> <journal> CACM 8(9):569 (Sept. </journal> <year> 1965). </year>
+Reference: 5. <author> Dijkstra, E.W. </author> <year> [1974]. </year> <title> "Self-stabilizing systems in spite of distributed control". </title> <type> CACM 17(11) </type> <month> 643-644 (Nov. </month> <year> 1974). </year>
+Reference: 6. <author> Eisenberg, M.A. </author> <title> and M.R. McGuire [1972]. "Further comments on Dijkstra's concurrent programming control problem". </title> <journal> CACM 15(11):999 (Nov. </journal> <year> 1972). </year>
+Reference: 7. <author> Katseff, </author> <title> H.P. [1978]. "A new solution to the critical section problem". </title> <booktitle> Proc. of the 10th ACM Symp. on the Theory of Computing. </booktitle> <year> 1978, </year> <pages> pp. 86-88. </pages>
+Reference: 8. <author> Knuth, D.E. </author> <title> [1966] "Additional comments on a problem in concurrent programming control". </title> <type> CACM 9(5) </type> <month> 321-322 (May </month> <year> 1966). </year>
+Reference: 9. <author> Lamport, L. </author> <year> [1974]. </year> <title> "A new solution to Dijkstra's concurrent programming problem". </title> <type> CACM 17(8) </type> <month> 453-455 (Aug. </month> <year> 1974). </year>
+Reference: 10. <author> Lamport, L. </author> <year> [1986a]. </year> <title> "On inter-process communication | Parts I and II". </title> <booktitle> Distributed Computing 1(1986) </booktitle> <pages> 77-101. </pages>
+Reference: 11. <author> Lamport, L. </author> <title> [1986b] "The mutual exclusion problem | Parts I and II". </title> <type> JACM 33(2) </type> <month> 313-348 (Apr. </month> <year> 1986). </year>
+Reference: 12. <author> Lycklama, E.A. </author> <year> [1987]. </year> <title> A first-come first-served solution to the critical section problem using five bits. M.Sc. </title> <type> thesis, </type> <institution> Department of Computer Science, University of Toronto, </institution> <month> October </month> <year> 1987. </year>
+Reference: 13. <author> Peterson, G.L. </author> <year> [1983]. </year> <title> "A new solution to Lamport's concurrent programming problem using small shared variables". </title> <journal> ACM TOPLAS 5(1) </journal> <month> 56-65 (Jan. </month> <year> 1983). </year> <month> 19 </month>
+References-found: 12
+

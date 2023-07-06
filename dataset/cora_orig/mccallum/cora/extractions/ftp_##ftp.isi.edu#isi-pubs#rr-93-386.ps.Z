@@ -1,0 +1,24 @@
+URL: ftp://ftp.isi.edu/isi-pubs/rr-93-386.ps.Z
+Refering-URL: http://www.isi.edu/isi-technical-reports.html
+Root-URL: http://www.isi.edu
+Title: Component Library Management System and Browser  
+Author: John Granacki, Zia Iqbal and Tauseef Kazi 
+Address: 4676 Admiralty Way, Marina del Rey, CA 90292  4676 Admiralty Way Marina del Rey, CA 90292  
+Affiliation: University of Southern California Information Science Institute  UNIVERSITY OF SOUTHERN CALIFORNIA INFORMATION SCIENCES INSTITUTE  
+Note: A  
+Pubnum: ISI/RR-93-386  
+Email: Unclassified/Unlimited  
+Date: April, 1993  
+Abstract: A Component Library Management System and Browser 1 ISI Research Report ISI/RR-93-386 April, 1993 
+Abstract-found: 1
+Intro-found: 0
+Reference: [1] <author> Granacki, John J., </author> <title> Research in Information Science and Technology: Systems Assembly Core Research, </title> <type> Final Technical Report, </type> <institution> USC/Information Sciences Institute, </institution> <month> November, </month> <year> 1992. </year>
+Reference-contexts: 1.0 Introduction This report describes a component library and associated library management tools.This Library Management System (LMS) is being developed primarily to aid the component search, selection and procurement tasks during the physical design <ref> [1] </ref> of PCBs (printed circuit boards) and MCMs (multichip modules).
+Reference: [2] <author> David S.Harrison, Peter Moore, Rick L. Spickelmier, A. R. </author> <title> Newton, Data Placement and Graphics Editing in the Berkeley Design Environment, </title> <booktitle> The proceedings of the IEEE International Conference on Computer -Aided Design, </booktitle> <pages> pp 24-27, </pages> <year> Nov,1986. </year>
+Reference: [3] <author> Wayne Wolf, </author> <title> Object-Oriented Programming for CAD, </title> <booktitle> IEEE Design and Test of Computers, </booktitle> <pages> pp. 35-42, </pages> <month> March, </month> <year> 1991. </year>
+Reference: [4] <author> S. Ahmed, A. Wong, D. Sriram, and R. Logcher, </author> <title> Object-Oriented database management systems for engineering: A comparison, </title> <type> Report, </type> <institution> Intelligent Systems Laboratory, Department of Civil Engr,1-253,MIT, </institution> <address> Cambridge, MA 02139. </address> <pages> pp. 27-44, </pages> <month> June, </month> <year> 1992. </year>
+Reference-contexts: The need to build these complex relationships from the select and join primitives seriously degrade performance.Examples of this processing overhead have been observed in the current implementation of MICON, RACAL REDAC, Visuala <ref> [4] </ref> and the Eve DBMS for USCs Advanced Design AutoMation System [6]. The Eve database is built on top of a commercial relational DBMS. Although Eve successfully models the data representations for an object-based model, but the performance degradation manifests itself in slow response times.
+Reference: [5] <author> Rick Spickelmier and Brian C. Richards, </author> <title> The OCT data manager, in Anatomy of a Silicon Compiler, </title> <editor> Robert W. Brodersen. </editor> <booktitle> eds., </booktitle> <pages> pp. 11-24, </pages> <note> publication date...... </note>
+Reference-contexts: These tools will reduce the designers dependence on the current paper-based manufacturers' data books and accelerate the trend towards electronic data books. These tools are being developed using the OCT database tools and the other tools developed as part of the ARPA-sponsored UCB SIERA design system and Lager IV <ref> [5] </ref>. A Component Library Management System 3 The proposed LMS is compatible with a broad range of commercial and university-developed tools and supports a neutral design style, that is, either text or graphical based system descriptions.
+References-found: 5
+

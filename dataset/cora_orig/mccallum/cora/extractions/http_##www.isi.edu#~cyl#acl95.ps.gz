@@ -1,0 +1,21 @@
+URL: http://www.isi.edu/~cyl/acl95.ps.gz
+Refering-URL: http://www.isi.edu/~cyl/acl95.html
+Root-URL: http://www.isi.edu
+Email: chinyew@pollux.usc.edu  
+Title: Knowledge-based Automatic Topic Identification  
+Author: Chin-Yew Lin 
+Address: Los Angeles, CA 90089-2562, USA  
+Affiliation: Department of Electrical Engineering/System University of Southern California  
+Abstract: As the first step in an automated text summarization algorithm, this work presents a new method for automatically identifying the central ideas in a text based on a knowledge-based concept counting paradigm. To represent and generalize concepts, we use the hierarchical concept taxonomy WordNet. By setting appropriate cutoff values for such parameters as concept generality and child-to-parent frequency ratio, we control the amount and level of generality of concepts extracted from the text. 1
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Gregory Grefenstette. </author> <year> 1994. </year> <title> Explorations in Automatic Thesaurus Discovery. </title> <publisher> Kluwer Academic Publishers, </publisher> <address> Boston. </address>
+Reference: <author> Paul S. Jacobs and Lisa F. Rau. </author> <year> 1990. </year> <title> SCISOR: Extracting information from on-line news. </title> <journal> Communication of the ACM, </journal> <volume> 33(11) </volume> <pages> 88-97, </pages> <month> November. </month>
+Reference: <author> Michael L. Mauldin. </author> <year> 1991. </year> <title> Conceptual Information Retrieval | A Case Study in Adaptive Partial Parsing. </title> <publisher> Kluwer Academic Publishers, </publisher> <address> Boston. </address>
+Reference: <author> George Miller, Richard Beckwith, Christiane Fell-baum, Derek Gross, and Katherine Miller. </author> <year> 1990. </year> <title> Five papers on wordnet. </title> <type> CSL Report 43, </type> <institution> Congni-tive Science Labortory, Princeton University, </institution> <address> New Haven, </address> <month> July. </month>
+Reference: <author> Chris D. Paice. </author> <year> 1990. </year> <title> Constructing literature abstracts by computer: Techinques and prospects. </title> <booktitle> Information Processing and Management, </booktitle> <volume> 26(1) </volume> <pages> 171-186. </pages>
+Reference: <author> Philip Stuart Resnik. </author> <year> 1993. </year> <title> Selection and Information: A Class-Based Approach to Lexical Relationships. </title> <type> Ph.D. thesis, </type> <institution> University of Pennsylvania, University of Pennsylvania. </institution>
+Reference: <author> Gerard Salton, James Allan, Chris Buckley, and Amit Singhal. </author> <year> 1994. </year> <title> Automatic analysis, theme generation, and summarization of machine-readable texts. </title> <journal> Science, </journal> <volume> 264 </volume> <pages> 1421-1426, </pages> <month> June. </month>
+Reference: <author> John Sinclair, Patrick Hanks, Gwyneth Fox, Rosamund Moon, and Penny Stock. </author> <year> 1987. </year> <title> Collins COBUILD English Language Dictionary. </title> <publisher> William Collins Sons & Co. Ltd., </publisher> <address> Glasgow, UK. </address>
+References-found: 8
+

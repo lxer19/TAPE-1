@@ -1,0 +1,15 @@
+URL: ftp://info.mcs.anl.gov/pub/tech_reports/reports/P572.ps.Z
+Refering-URL: http://www.mcs.anl.gov/publications/abstracts/abstracts96.htm
+Root-URL: http://www.mcs.anl.gov
+Email: e-mail: fbischof,pwug@mcs.anl.gov  
+Title: Exploiting Intermediate Sparsity in Computing Derivatives for a Leapfrog Scheme  
+Author: Christian H. Bischof and Po-Ting Wu 
+Keyword: Automatic Differentiation, Sparsity, Jacobian, Leapfrog Scheme.  
+Note: Argonne Preprint ANL/MCS-P572-0396  This work was supported by the Mathematical, Information, and Computational Sciences Division subprogram of the Office of Computational and Technology Research, U.S. Department of Energy, under Contract W-31-109-Eng-38.  
+Address: Argonne, IL 60439-4844  
+Affiliation: Mathematics and Computer Science Division Argonne National Laboratory  
+Abstract: The leapfrog scheme is a commonly used second-order method for solving differential equations. Letting Z denote the state of the system, we compute the state at the next time step as Z(t + 1) = H(Z(t); Z(t 1); W ), where t denotes a particular time step, H is the nonlinear timestepping operator, and W are parameters that are not time dependent. In this article, we show how the associativity of the chain rule of differential calculus can be used to expose and exploit intermediate derivative sparsity arising from the typical localized nature of the operator H. We construct a computational harness that capitalizes on this structure while employing automatic differentiation tools to automatically generate the derivative code corresponding to the evaluation of one time step. Experimental results with a 2-D shallow water equation model on IBM RS/6000 and Sun SPARCstations illustrate these issues. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

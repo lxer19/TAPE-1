@@ -1,0 +1,15 @@
+URL: http://www-dbv.informatik.uni-bonn.de/postscript/hofmann.TR96.ps.gz
+Refering-URL: 
+Root-URL: 
+Email: email: fth,jan,jbgcs.uni-bonn.de  
+Title: A Deterministic Annealing Framework for Unsupervised Texture Segmentation  
+Author: Thomas Hofmann, Jan Puzicha and Joachim Buhmann Rheinische Friedrich-Wilhelms-Universitat 
+Date: October 14, 1996  
+Web: WWW: http://www-dbv.cs.uni-bonn.de  
+Address: D-53117 Bonn, Germany  
+Affiliation: Institut fur Informatik III, Romerstrae 164  
+Abstract: We present a novel framework for unsupervised texture segmentation, which relies on statistical tests as a measure of homogeneity. Texture segmentation is formulated as a pairwise data clustering problem with a sparse neighborhood structure. The pairwise dissimilarities of texture blocks are computed using a multiscale image representation based on Gabor filters, which are tuned to spatial frequencies at different scales and orientations. We derive and discuss a family of objective functions to pose the segmentation problem in a precise mathematical formulation. An efficient optimization method, known as deterministic annealing, is applied to solve the associated optimization problem. The general framework of deterministic annealing and meanfield approximation is introduced and the canonical way to derive efficient algorithms within this framework is described in detail. Moreover the combinatorial optimization problem is examined from the viewpoint of scale space theory. The novel algorithm has been extensively tested on Brodatz-like mi-crotexture mixtures and on real-word images. In addition, benchmark studies with alternative segmentation techniques are reported.
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

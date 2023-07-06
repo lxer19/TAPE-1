@@ -1,0 +1,24 @@
+URL: ftp://ftp.cs.caltech.edu/tr/cs-tr-92-19.ps.Z
+Refering-URL: ftp://ftp.cs.caltech.edu/tr/INDEX.html
+Root-URL: http://www.cs.caltech.edu
+Title: Designing Asynchronous Circuits in Gallium Arsenide  
+Author: Jose A. Tierno 
+Date: March 24, 1993  
+Address: Pasadena, CA 91125  
+Affiliation: Department of Computer Science California Institute of Technology  
+Abstract-found: 0
+Intro-found: 1
+Reference: [Bur91] <author> Steven M. Burns. </author> <title> Performance Analysis and Optimization of Asynchronous Circuits. </title> <type> PhD thesis, </type> <institution> California Institute of Technology, </institution> <year> 1991. </year>
+Reference: [CVFC87] <author> C. T. M. Chang, T. Vrostos, M. T. Frizzel, and R. Carrol. </author> <title> A subthreshold current model for GaAs MESFET's. </title> <journal> IEEE Electron Device Letters, </journal> <volume> EDL-8(2):69-72, </volume> <month> February 87. </month>
+Reference: [Hof91] <author> H. P. Hofstee. </author> <title> Deriving some asynchronous memories. </title> <type> Unpublished, </type> <year> 1991. </year>
+Reference-contexts: The chip is fully delay insensitive, except for some isochronic forks and the circuitry to convert to and from dual rail encoding. The original circuit for a CMOS version of the memory was derived by H. P. Hofstee <ref> [Hof91] </ref>. 6.1.1 Decoder The decoder takes as input the address encoded in dual rail, and generates a decode signal: 44 *[[v (Address)]; s (Address)"; [z (Address)]; s (Address)#] This is implemented as an array of C-elements: a0 ? ^ a1 ? ^ : : : ! sa" where each question mark
+Reference: [LB90] <author> S. I. Long and S. E. Butner. </author> <title> Gallium Arsenide Digital Integrated Circuit Design. </title> <publisher> McGraw-Hill, </publisher> <address> New York, </address> <year> 1990. </year>
+Reference: [Mar86] <author> Alain J. Martin. </author> <title> Compiling communicating processes into delay-insensitive VLSI circuits. </title> <journal> Distributed Computing, </journal> <volume> 1(4) </volume> <pages> 226-234, </pages> <year> 1986. </year>
+Reference: [Mar90] <author> Alain J. Martin. </author> <title> The limitations to delay-insensitivity in asynchronous circuits. </title> <editor> In William J. Dally, editor, </editor> <booktitle> Sixth MIT Conference on Advanced Research in VLSI, </booktitle> <pages> pages 263-278. </pages> <publisher> MIT Press, </publisher> <year> 1990. </year>
+Reference: [Met90] <author> Meta-Software, Inc., Campbell, </author> <note> Ca. HSPICE User's Manual, </note> <year> 1990. </year>
+Reference: [MH72] <author> Jacob Millman and Christos C. Halkias. </author> <title> Integrated Electronics: Analog and Digital Circuits and Systems. </title> <publisher> McGraw-Hill Electrical and Electronic Engineering Series. McGraw-Hill, </publisher> <address> New York, </address> <year> 1972. </year> <month> 53 </month>
+Reference: [Sei80] <author> Charles L. Seitz. </author> <title> System timing. </title> <editor> In Carver A. Mead and Lynn A. Conway, editors, </editor> <title> Introduction to VLSI Systems, chapter 7. </title> <publisher> Addison-Wesley, </publisher> <year> 1980. </year>
+Reference: [SNS + 87] <author> H. Statz, P. Newman, I. W. Smith, R. A. Pucel, and H. A. Haus. </author> <title> GaAs FET device and circuit simulation in SPICE. </title> <journal> IEEE Transactions on Electron Devices, </journal> <volume> ED-34(2):160-169, </volume> <year> 1987. </year>
+Reference: [vdS85] <author> Jan L. A. van de Snepscheut. </author> <title> Trace Theory and VLSI Design, </title> <booktitle> volume 200 of Lecture Notes in Computer Science. </booktitle> <publisher> Springer-Verlag, </publisher> <year> 1985. </year>
+References-found: 11
+

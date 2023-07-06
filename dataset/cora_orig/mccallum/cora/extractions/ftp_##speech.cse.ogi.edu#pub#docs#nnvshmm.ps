@@ -1,0 +1,21 @@
+URL: ftp://speech.cse.ogi.edu/pub/docs/nnvshmm.ps
+Refering-URL: http://www.cse.ogi.edu/CSLU/publications/publications.html
+Root-URL: http://www.cse.ogi.edu
+Email: E-mail: pieter@cse.ogi.edu  
+Phone: Tel: +1 503-6901484,  
+Title: A COMPARISON OF HMM AND NEURAL NETWORK APPROACHES TO REAL WORLD TELEPHONE SPEECH APPLICATIONS  
+Author: Pieter Vermeulen, Etienne Barnard, Yonghong Yan, Mark Fanty and Ronald Coley 
+Address: 20000 N.W. Walker Road, P.O. Box 91000, Portland, OR 97291-1000, USA  
+Affiliation: Center for Spoken Language Understanding, Oregon Graduate Institute of Science and Technology  
+Abstract: We compare a standard HMM based and a neural network based approach to speech recognition. The application is the speaker independent recognition of a small vocabulary over the telephone. While the recognition results are comparable, it is argued that the neural network system is a better choice for implementation. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> L. Rabiner and B.-H. Juang, </author> <title> Fundamentals of speech recognition. </title> <address> Englewood Cliffs, NJ: </address> <publisher> Prentice Hall, </publisher> <year> 1993. </year>
+Reference-contexts: 1. Introduction Hidden Markov model (HMM) based speech recognition systems are widely accepted as the method of choice for speaker-independent speech recognition <ref> [1] </ref>. For reasons described ins Section 3, we believe that neural network technology will eventually be preferable for large scale (thousands of ports), small vocabulary (on the order of 100 phrases), speaker independent, telephone applications. <p> A standard continuous HMM architecture was implemented using a mixture of triphone and monophone phone models. The input features were 12 LPC cepstral coefficients, energy and their delta vector and the models were trained with a Baum-Welch algorithm. The reader is referred to <ref> [1] </ref> for a complete description of this system. In the next section we describe the lesser known hybrid neural network algorithm. We then compare the two systems (Section 3) on the telephone voice access application. We conclude with a discussion on the relative merits of these algorithms. 2.
+Reference: [2] <author> E.Barnard, R.Cole, M.Fanty, and P.Vermeulen, </author> <title> "Real-world speech recognition with neural networks," in Applications of Neural Networks to Telecommunications (R. </title> <editor> J.Alspector and T.X.Brown, eds.), </editor> <volume> vol. </volume> <pages> 2, </pages> <address> (Hillsdale, New Jersey), </address> <pages> pp. 186-193, </pages> <address> IWANNT95, </address> <publisher> Lawrence Erlbaum Assoc., </publisher> <year> 1995. </year>
+Reference-contexts: Overview of the Neural Network speech recognition architecture Viterbi Search Feature Collection Data Capture Barge-In/ End of Utterance RASTA PLP Computation Energy Prenormalization Frame-Based Phonetic Classification based on neural networks Conceptually, our speech-recognition system based on neural networks consists of three stages <ref> [2] </ref> as shown in Figure 1: * The incoming speech (in our case, the mu--law encoded digital samples, with sampling rate 8kHz, which are transmitted over a telephone line) is first converted to a representation which is more suitable for recognition.
+Reference: [3] <author> H. Hermansky, </author> <title> "Perceptual linear predictive PLP analysis for speech," </title> <journal> Journal of the Acoustical Society of America, </journal> <volume> vol. 87, no. 4, </volume> <pages> pp. 1738-1752, </pages> <year> 1990. </year>
+Reference-contexts: We use Perceptual Linear Predictive (PLP) analysis <ref> [3] </ref>; this is a modification of linear predictive coding which takes into account some of the properties of human hearing. We compute seventh-order PLP coefficients in a 10 msec window, and advance the window 6 msec at a time.
+Reference: [4] <author> J.Schalkwyk, P.Vermeulen, M.Fanty, and R.Cole, </author> <title> "Embedded implementation of a hybrid neural-network telephone speech recognition system," (Nanjing, P.R. China), </title> <booktitle> Int. Conf. on Neural Networks and Signal Processing, </booktitle> <month> Dec. </month> <year> 1995. </year>
+References-found: 4
+

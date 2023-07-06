@@ -1,0 +1,20 @@
+URL: ftp://thales.cs.umd.edu/pub/reports/eaqruew.ps
+Refering-URL: ftp://thales.cs.umd.edu/pub/biographical/xmat.html
+Root-URL: 
+Title: Error Analysis of QR Updating with Exponential Windowing  
+Author: G. W. Stewart 
+Date: May 1991 CS-TR 2685  
+Pubnum: UMIACS-TR-91-79  
+Abstract: Exponential windowing is a widely used technique for suppressing the effects of old data as new data is added to a matrix. Specifically, given an n fi p matrix X n and a "forgetting factor" fi 2 (0; 1), one works with the matrix diag(fi n1 ; fi n2 ; : : : ; 1)X n . In this paper we examine an updating algorithm for computing the QR factorization of diag(fi n1 ; fi n2 ; : : : ; 1)X n and show that it is unconditionally stable in the presence of rounding errors. fl Department of Computer Science and Institute for Advanced Computer Studies, University of Maryland, College Park, MD 20742. This report is available by anonymous ftp from thales.cs.umd.edu in the directory pub/reports. This work was supported in part by the Air Force Office of Scientific Research under Contract AFOSR-87-0188. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> G. H. Golub and C. F. Van Loan (1989). </author> <title> Matrix Computations. </title> <publisher> Johns Hopkins University Press, </publisher> <address> Baltimore, Maryland, 2nd edition. </address>
+Reference-contexts: Is is easily seen that the sequence of triangular matrices R n so generated are the R-factors of the matrices X n . The details of this updating algorithm may be found in <ref> [1] </ref>. It requires O (p 2 ) arithmetic operations. Exponential windowing and updating allows us to look at the local behavior of an arbitrarily long sequence of data.
+Reference: [2] <author> G. W. </author> <title> Stewart (1990). "An Updating Algorithm for Subspace Tracking." </title> <type> Technical Report CS-TR 2494, </type> <institution> Department of Computer Science, University of Maryland. </institution> <note> To appear in IEEE Transactions on Signal Processing. </note>
+Reference-contexts: Thus, there is never a need to restart the computation to get rid of accumulated rounding errors. Second, we have focused on the QR factorization for the sake of simplicity. However, the analysis applies mutatis mutandis to more complicated decomposition such as the URV and ULV decomposition <ref> [2, 3] </ref>, in which unitary transformations are applied to both sides of D n X n . The key is to observe that the updating algorithms have backward error analyses in the spirit of Theorem 2.1.
+Reference: [3] <author> G. W. </author> <title> Stewart (1991). "Updating a Rank-Revealing ULV Decomposition." </title> <type> Technical Report CS-TR 2627, </type> <institution> Department of Computer Science, University of Maryland. </institution> <note> 8 QR with Exponential Windowing </note>
+Reference-contexts: Thus, there is never a need to restart the computation to get rid of accumulated rounding errors. Second, we have focused on the QR factorization for the sake of simplicity. However, the analysis applies mutatis mutandis to more complicated decomposition such as the URV and ULV decomposition <ref> [2, 3] </ref>, in which unitary transformations are applied to both sides of D n X n . The key is to observe that the updating algorithms have backward error analyses in the spirit of Theorem 2.1.
+Reference: [4] <author> J. H. </author> <title> Wilkinson (1965). The Algebraic Eigenvalue Problem. </title> <publisher> Clarendon Press, Oxford, </publisher> <address> England. </address>
+Reference-contexts: vector h H satisfying fl fl fl h H ! fl fl fl fl fl fl fiR n n+1 fl fl (2:1) such that U n v n n ~ n fiR n + G n n+1 = R n+1 ! A proof of this theorem may be found in <ref> [4, Ch.3, xx20-24] </ref>. The analysis of the updating algorithm with exponential windowing amounts to the recursive application of the bound (2.2). As is typical in backward rounding error analyses, we let let quantities stand for their computed values.
+References-found: 4
+

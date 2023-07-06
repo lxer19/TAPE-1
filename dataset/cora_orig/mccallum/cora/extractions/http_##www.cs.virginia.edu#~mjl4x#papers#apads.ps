@@ -1,0 +1,21 @@
+URL: http://www.cs.virginia.edu/~mjl4x/papers/apads.ps
+Refering-URL: http://www.cs.virginia.edu/~mjl4x/vitae.html
+Root-URL: http://www.cs.virginia.edu
+Title: PVM Communication Performance in a Switched FDDI Heterogeneous Distributed Computing Environment  
+Author: Michael J. Lewis Raymond E. Cline, Jr. 
+Address: Livermore, CA 94550 Livermore, CA 94550  
+Affiliation: Distributed Computing Department Distributed Computing Department Sandia National Labs Sandia National Labs  
+Abstract: The Parallel Virtual Machine (PVM) message passing system developed at Oak Ridge National Laboratories has gained widespread acceptance and usage in the parallel programming community. This paper describes the results of performance tests of PVM in a switched FDDI heterogeneous distributed computing environment. We aim to provide insight into how parallel programs, particularly those employing PVM for intertask communication, will perform in distributed systems of the future. 1 2 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> H. Chen, J. Hutchins, and J. Brandt. </author> <note> DEC FDDI Gigaswitch Performance. Technical Report in preparation, </note> <institution> Sandia National Labs, Livermore, </institution> <address> CA. </address>
+Reference-contexts: These workstations are networked via a 100 Mbps DEC FDDI Gigaswitch and several DEC Concentrator 500's. Preliminary performance testing shows that two Indigo workstations can use TCP to push up to 93 Mbps through the switch <ref> [1] </ref>. We used a subset of HEAT for the performance tests in this paper.
+Reference: [2] <author> Al Geist, Adam Beguelin, Jack Dongarra, We-icheng Jiang, Robert Manchek, and Vaidy Sun-deram. </author> <title> PVM 3 User's Guide and Reference Manual. </title> <type> Technical Report ORNL/TM-12187, </type> <institution> Oak Ridge National Labs, Oak Ridge, TN, </institution> <month> May </month> <year> 1993. </year>
+Reference: [3] <author> Brian K. Grant and Anthony Skjellum. </author> <title> The PVM System: An In-Depth Analysis and Documenting Study Concise Edition. </title> <type> Technical Report TR UCRL-JC-112016, </type> <institution> Lawrence Livermore National Laboratories, Livermore, </institution> <address> CA, </address> <year> 1992. </year>
+Reference: [4] <author> R. E. Cline Jr., H. Chen, and J. Hutchins. </author> <title> Network Performance Requirements for a Distributed Computing Environment. </title> <note> Technical Report in preparation, </note> <institution> Sandia National Labs, Livermore, </institution> <address> CA. </address>
+Reference-contexts: This communication performance is required to make local computation time the limiting factor even in the most communication intensive portions of the applications. More details can be found in <ref> [4] </ref>.
+Reference: [5] <author> M. Lewis. </author> <title> PVM Communication Performance in New Distributed Computing Environments. </title> <note> Technical Report in preparation, </note> <institution> Sandia National Labs, Livermore, </institution> <address> CA. </address>
+Reference-contexts: Many of these results will be reported in <ref> [5] </ref>. 5 Conclusions We observed that the pvmd can become a bottleneck in communication intensive applications, especially those in which multiple tasks reside on the same machine. Packing and unpacking messages also significantly limits throughput.
+Reference: [6] <author> V. S. Sunderam. </author> <title> PVM: A Framework for Parallel Distributed Computing. </title> <journal> Concurrency: Practice & Experience, </journal> <volume> 2(4) </volume> <pages> 315-339, </pages> <month> December </month> <year> 1990. </year>
+References-found: 6
+

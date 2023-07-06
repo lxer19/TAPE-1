@@ -1,0 +1,20 @@
+URL: ftp://ftp.cse.ucsc.edu/pub/tr/ucsc-crl-97-27.ps.Z
+Refering-URL: ftp://ftp.cse.ucsc.edu/pub/tr/README.html
+Root-URL: http://www.cse.ucsc.edu
+Title: On alignment shift and its measures  
+Author: Melissa Cline Kevin Karplus 
+Address: Santa Cruz, CA 95064 USA  
+Affiliation: Baskin Center for Computer Engineering Information Sciences University of California, Santa Cruz  
+Date: February 26, 1998  
+Pubnum: UCSC-CRL-97-27  
+Abstract: This document proposes a new measure for comparing two alignments, referred to as the shift score. This score has a range of * to 1, where * is a small number used as a parameter to the scoring algorithm. A score of 1 is attained only if the two alignments are identical. The shift score is symmetric with respect to the alignments|no distinguished sequence or alignment is needed. The score incorporates both coverage measures and shift error measures into a single number. The shift score is easily computed, and one can find the optimum subalignment of a candidate alignment (the subalignment that maximizes the shift score) with a simple greedy algorithm. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [Bry96] <author> S. Bryant. </author> <title> Evaluation of threading speicificity and accuracy. Proteins: Structure, Function, </title> <journal> and Genetics, </journal> <volume> 26(2) </volume> <pages> 172-85, </pages> <year> 1996. </year>
+Reference-contexts: To summarize the overall amount of shifting in an alignment, individual shift measures are combined into an overall shift score. Section 3 describes two shift scores: mean shift error and shift score. The mean shift error, detailed in Section 3.1, is the most common statistic on overall shift <ref> [Bry96, MBB97] </ref>. Section 3.2 presents the shift score measure, and makes a case on why it is more useful than mean shift. 2 2. Definition of shift 2. <p> The second application requires that the score be uniformly interpretable over a wide range of alignment length and quality. 3.1 Mean shift Mean shift is the most common statistic based on alignment shift <ref> [Bry96, MBB97] </ref>. Mean shift is simply the mean of the absolute shift at all positions in the target sequence for which shift can be measured.
+Reference: [God96] <author> A. Godzik. </author> <title> The structural alignment between two proteins: is there a unique answer? Protein Sci., </title> <booktitle> 5(7) </booktitle> <pages> 1325-38, </pages> <month> July </month> <year> 1996. </year>
+Reference-contexts: On the third point, consider that the existence of one correct structural alignment between two proteins is debatable <ref> [God96] </ref>. When two proteins are aligned by different structural alignment tools, the resulting alignments often contain regions shifted by a few 3.2. Shift score 5 positions. Since there is not one "standard of truth", a penalty levied on small shifts might not be useful.
+Reference: [MBB97] <author> A. Marchler-Bauer and S. Bryant. </author> <title> Measures of threading specificity and accuracy. Proteins: Structure, Function, </title> <journal> and Genetics, </journal> <volume> Supplement 1(1) </volume> <pages> 134-139, </pages> <year> 1997. </year>
+Reference-contexts: To summarize the overall amount of shifting in an alignment, individual shift measures are combined into an overall shift score. Section 3 describes two shift scores: mean shift error and shift score. The mean shift error, detailed in Section 3.1, is the most common statistic on overall shift <ref> [Bry96, MBB97] </ref>. Section 3.2 presents the shift score measure, and makes a case on why it is more useful than mean shift. 2 2. Definition of shift 2. <p> The second application requires that the score be uniformly interpretable over a wide range of alignment length and quality. 3.1 Mean shift Mean shift is the most common statistic based on alignment shift <ref> [Bry96, MBB97] </ref>. Mean shift is simply the mean of the absolute shift at all positions in the target sequence for which shift can be measured.
+References-found: 3
+

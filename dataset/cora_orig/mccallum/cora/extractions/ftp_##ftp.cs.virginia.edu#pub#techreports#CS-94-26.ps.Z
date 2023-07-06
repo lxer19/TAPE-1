@@ -1,0 +1,22 @@
+URL: ftp://ftp.cs.virginia.edu/pub/techreports/CS-94-26.ps.Z
+Refering-URL: ftp://ftp.cs.virginia.edu/pub/techreports/README.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: 173  
+Author: [YUGD] Yu, M. L., Ghosh, S. and DeBenedictis, E., 
+Date: 39-43, (January 1991).  
+Note: Proceedings of the SCS Multiconference on Advances in Parallel and Distributed Simulation, Anaheim, California, pp.  
+Abstract-found: 0
+Intro-found: 1
+Reference: [ABRI91] <author> Abrams, M. and Richardson, D., </author> <title> Implementing a Global Termination Condition and Collecting Output Measures in Parallel Simulation, </title> <booktitle> Proceedings of the SCS Multiconference on Advances in Parallel and Distributed Simulation, </booktitle> <address> Anaheim, California, </address> <pages> pp. 86-91, </pages> <month> (January </month> <year> 1991). </year>
+Reference: [AJKS83] <author> Ajtai, M., Komlos, J. and Szemeredi, E., </author> <title> An O(n(log(n)) Sorting Network, </title> <booktitle> Proceedings of the 15th Annual Symposium on Theory of Computing, </booktitle> <address> Boston, Massachusetts, </address> <pages> pp. 1-9, </pages> <year> (1983). </year>
+Reference: [AKST94] <author> Akl, S. G. and Stojmenovic, I., </author> <title> Multiple Criteria BSR: An Implementation and Applications to Computational Geometry Problems, </title> <booktitle> Proceedings of HICSS, </booktitle> <month> January </month> <year> 1994. </year>
+Reference: [AYAN89] <author> Ayani, R., </author> <title> A Parallel Simulation Scheme Based on Distances Between Objects, </title> <booktitle> Proceedings of the SCS Multiconference on Distributed Simulation, </booktitle> <address> Tampa, Florida, </address> <pages> pp. 113-118, </pages> <month> (March </month> <year> 1989). </year>
+Reference: [BATC68] <author> Batcher, K. E., </author> <title> Sorting Networks and Their Applications, </title> <booktitle> Proceedings of the AFIPS 1968 Joint Computing Conference, </booktitle> <address> Atlantic City, New Jersey, </address> <pages> pp. 307-314, </pages> <month> (April </month> <year> 1968). </year>
+Reference: [BELL90] <author> Bellenot, S., </author> <title> Global Virtual Time Algorithms, </title> <booktitle> Proceedings of the SCS Multiconference on Distributed Simulation, </booktitle> <address> San Diego, California, </address> <pages> pp. 122-127, </pages> <month> (January </month> <year> 1990). </year>
+Reference: [BERR86] <author> Berry, O. </author> <title> Performance Evaluation of the Time Warp Distributed Simulation Mechanism, </title> <type> PhD Thesis, </type> <institution> University of Southern California, </institution> <address> Los Angeles, California, </address> <month> May </month> <year> 1986. </year>
+Reference: [BLEL89] <author> Blelloch, G. E., </author> <title> Scans as Primitive Parallel Operations, </title> <journal> IEEE Transactions on Computers, </journal> <volume> Vol. 38, No. 11, pp.1526-1538, </volume> <month> (November </month> <year> 1989). </year>
+Reference: [BLEL90] <author> Blelloch, G. E., </author> <title> Prefix Sums and Their Applications, </title> <type> CMU-CS-90-190, </type> <institution> School of Computer Science, Carnegie Mellon University, Pittsburgh, Pennsylvania, </institution> <month> November </month> <year> 1990. </year>
+
+
+References-found: 9
+

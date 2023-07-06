@@ -1,0 +1,18 @@
+URL: http://www.cs.caltech.edu/~heirich/icpp95.ps.gz
+Refering-URL: http://www.cs.caltech.edu/~heirich/heirich.html
+Root-URL: http://www.cs.caltech.edu
+Title: Processor coupling: integrating compile time and run time scheduling for parallelism. A distributed drafting algorithm
+Author: [] Keckler, S. W. Dally, W. J. [] Ni, L. M., Xu, C. Gendreau, T. B. Nicol, D. M. Saltz, J. H. [] Noakes, M. Dally, W. J. Pothen, A., Simon, H. D. Liou, K. [] Shen, S. [] Wang, J. C. T. Taylor, S. 
+Date: (1990) 430-452.  December 1992,  matica 25 (1988) 663-676.  (1993) 21-24.  
+Address: Australia (1992) 202-213.  Paris, France,  New York, NY, 1992.  
+Affiliation: Queensland,  of INRIA,  Springer-Verlag,  
+Note: Proc. ACM 19th Int'l. Symp. on Comp. Arch.,  IEEE Trans. Soft. Eng. SE-11 (1985). [18]  System design of the J-machine. Proc. 6th MIT Conf. on Advanced Research in VLSI. Dally, W. J. (Ed.). MIT Press, Cambridge, MA, 1990, pp. 179-194. [20]  [21] Seitz, C. L. Mosaic C: an experimental fine-grain multicomputer. Proc. International Conference Celebrating the 25th Anniversary  To appear in Proc. Parallel-CFD '93, Paris, France, June 1993. [24] Rowell, J. Lessons Learned on the Delta. High Perf. Comput. Rev. 1  
+Pubnum: 11  Infor  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> Amdahl, G. </author> <title> Validity of the single processor approach to achieving large scale computing capabilities. </title> <booktitle> Proc. AFIPS Comput. Conf. </booktitle> <month> 30 </month> <year> (1967) </year> <month> 483-485. </month>
+Reference: [2] <author> Athas, W. C. & Seitz, C. L. </author> <title> Multicomputers: message passing concurrent computers. </title> <journal> IEEE Comp. </journal> <month> 21 </month> <year> (1988) </year> <month> 9-24. </month>
+Reference: [3] <author> Barnard, S. T. & Simon, H. D. </author> <title> A fast multilevel implementation of recursive spectral bisection for partitioning unstructured problems. </title> <note> To appear in Concurrency: Pract. Exp. </note> <year> (1993). </year>
+
+References-found: 3
+

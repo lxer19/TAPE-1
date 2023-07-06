@@ -1,0 +1,15 @@
+URL: http://www.physics.utah.edu/~basko/root/home/res2/sommers/crystaleye/signal-to-noise.ps.Z
+Refering-URL: http://www.physics.utah.edu/~basko/root/home/res2/sommers/crystaleye/
+Root-URL: 
+Title: Signal, Background, and Energy Threshold Determination for the Crystal Eye Experiment  
+Author: John Krizmanic and Robert Streitmatter NASA/GSFC 
+Date: April 22, 1996  
+Note: for the Crystal Eye Collaboration  
+Abstract: Using the atmospheric model used by Loh and Sommers [1], we calculate the dark sky background for the Crystal Eye experiment as a function of surface reflectivity and pixel size. We assume an orbit of 500 km and a 4 m 2 optical collection area. We next calculate the signal for Crystal Eye based on the Greisen parameterization of electromagnetic showers. The energy threshold and signal to noise is then calculated assuming a 5 photo-electron detection threshold and two different instrumental efficiencies. The analysis indicates the energy threshold is set by signal/noise considerations. Assuming that the fluorescence yield is 5 (3.4) photon/(particle-meter), an effective photo-electron yield of 20:4% (3:2%), and a 1 sec signal integration, a 3 signal/SQRT(signal+noise) requirement yields a detection threshold of 2 fi 10 20 (1 fi 10 21 ) eV for horizontal showers. This analysis is our first attempt to probe the parameter space available to the Crystal Eye experiment. The effects imposed by viewing off-axis showers or by other backgrounds have not been considered. As we continue this analysis, more notes will follow. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> E. Loh and P. Sommers, </author> <title> "Signal and Noise Analysis for the Crystal Eye", </title> <type> preprint UUHEP96-1, </type> <year> 1996 </year>
+Reference-contexts: Introduction Using the atmospheric model presented by Loh and Sommers <ref> [1] </ref>, we calculate the dark sky background and the signal strength anticipated by the Crystal Eye experiment. We assume a 500 km orbit, an optical collection area of 4 m 2 , and 1 microsecond light integration time.
+
+References-found: 1
+

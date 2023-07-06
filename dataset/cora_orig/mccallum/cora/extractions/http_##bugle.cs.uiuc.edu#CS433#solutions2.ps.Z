@@ -1,0 +1,12 @@
+URL: http://bugle.cs.uiuc.edu/CS433/solutions2.ps.Z
+Refering-URL: http://bugle.cs.uiuc.edu/CS433/homework.html
+Root-URL: http://www.cs.uiuc.edu
+Note: Solutions to Homework Set Two  
+Date: 433 February 10, 1995  February 15, 1995  
+Pubnum: CS  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> Dongarra, J., Croz, J. D., Duff, I., and Hammarling, S. </author> <title> A Set of Level 3 Basic Linear Algebra Subprograms. </title> <type> Tech. rep., </type> <institution> Argonne National Laboratory, </institution> <month> Aug. </month> <year> 1988. </year> <note> CS 433 -4- February 10, </note> <year> 1995 </year>
+Reference-contexts: The experiments were conducted on the Convex C-240, which is a shared memory system with four vector processors. We studied the performance of two subroutines from the BLAS (Basic Linear Algebra Subroutine) library <ref> [1] </ref>, dllt and dlltb, by varying input vector and matrix sizes, adjusting compiler command-line options of the compiler, and by inserting compiler directives in the source code. <p> These DAXPY operations take the form Z = a fi X + Y where a is a scalar, X, Y , and Z are vectors and, when chained, require three memory references per result element. The basic linear algebra subroutines, commonly known as the BLAS <ref> [1] </ref>, have been used in a wide range of software, including LINPACK, the linear algebra package. Many of the common algorithms in numerical linear algebra can be coded so that the bulk of the computation can be done by calls to the BLAS routines.
+References-found: 1
+

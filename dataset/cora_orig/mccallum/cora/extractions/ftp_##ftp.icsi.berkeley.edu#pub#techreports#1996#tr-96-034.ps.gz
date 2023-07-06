@@ -1,0 +1,20 @@
+URL: ftp://ftp.icsi.berkeley.edu/pub/techreports/1996/tr-96-034.ps.gz
+Refering-URL: http://www.icsi.berkeley.edu/techreports/1996.html
+Root-URL: http://www.icsi.berkeley.edu
+Email: blasig/fahner@icsi.berkeley.edu  
+Title: On the Representative Power of Commented Markov Models  
+Phone: (510) 643-9153 FAX (510) 643-7684  
+Author: Reinhard Blasig and Gerald Fahner 
+Date: August 1996  
+Address: I 1947 Center St. Suite 600 Berkeley, California 94704-1198  
+Affiliation: INTERNATIONAL COMPUTER SCIENCE INSTITUTE  
+Pubnum: TR-96-034  
+Abstract: A CMM (Commented Markov Model) is a learning algorithm to model and extrapolate discrete sequences. The learning involves the inferences of objects, variables and classes, describing the sequences. In this paper, all sequences considered will be character sequences. As pointed out in an earlier paper [2], the structures utilized by CMM are powerful enough to represent and evaluate any primitive recursive function. This paper will provide a formal proof of this claim. We will therefore concentrate on the issues of representation and leave the issues of CMM induction aside. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Aho, </author> <title> A.V.: Algorithms for Finding Patterns in Strings. </title> <booktitle> Handbook of Theoretical Computer Science, </booktitle> <editor> J. van Leeuwen, ed.. </editor> <publisher> Elsevier Science Publishers B.V. </publisher> <year> (1990) </year>
+Reference: [2] <author> Blasig, R.: </author> <title> Discrete Sequence Prediction with Commented Markov Models. To appear: </title> <booktitle> International Congress on Grammatical Inference, </booktitle> <address> Montpellier, France, </address> <year> 1996. </year>
+Reference-contexts: introduction of these concepts see <ref> [2] </ref>). Then we review the definition of "primitive recursive functions" (prfs) and show how these are represented by CMM character strings. <p> As far as classes are concerned, we will simply consider them as set of objects, where the set can be described either by enumerating the corresponding objects or by any other suitable way. Again, for more details see <ref> [2] </ref>. 2.2 Sequence Prediction with CMM The fundamental operation of CMM is the search for matches of the current input sequence with sequences already known to CMM. This involves two separate matching tasks. First, the input will be matched with sequences corresponding to the objects already known to CMM.
+Reference: [3] <author> Hopcroft, J.E., Ullman, J.D.: </author> <title> Introduction to Automata Theory, Languages and Computation. </title> <publisher> Addison-Wesley, </publisher> <address> Reading, Mass. </address> <year> (1979) </year> <month> 9 </month>
+References-found: 3
+

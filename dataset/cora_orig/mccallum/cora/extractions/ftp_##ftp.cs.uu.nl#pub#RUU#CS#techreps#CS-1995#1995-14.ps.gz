@@ -1,0 +1,18 @@
+URL: ftp://ftp.cs.uu.nl/pub/RUU/CS/techreps/CS-1995/1995-14.ps.gz
+Refering-URL: http://www.cs.ruu.nl/docs/research/publication/TechList1.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: Numerically robust incremental algorithm for constructing three-dimensional voronoi diagrams. Efficient computation of continuous skeletons. Voronoi
+Author: [] Hiroshi Inagaki, Kokichi Sugihara, and Noboru Sugie. D. G. Kirkpatrick. David Lavender, Adrian Bowyer, James Davenport, Andrew Wallis, and John Woodwark. [] D. Leven and M. Sharir. [] A. Lingas. :-, . [] C. O'Dunlaing, M. Sharir, and C. K. Yap. C. O'Dunlaing and C. K. Yap. [] Atsuyuki Okabe, Barry Boots, and Kokichki Sugihara. K. Sugihara and M. Iri. 
+Note: In Proc. 4th Canad. Conf. Comput. Geom., pages 334-339, 1992. [10]  In Proc. 20th Annu. IEEE Sympos. Found. Comput. Sci., pages 18-27, 1979. [11] Jean-Claude Latombe. Robot Motion Planning. Kluwer Academic Publishers, Boston, USA, 1991. [12]  In Proc. 2nd Canad. Conf. Comput. Geom., pages 204-208, 1990. [15] T.  Retraction: a new approach to motion-planning. In Proc. 15th Annu. ACM Sympos. Theory Comput., pages 207-220, 1983. [17]  John Wiley Sons, Chichester, England, 1992. [19] D. Siersma. Private communication, 1995. [20]  single-precision arithmetic. Proc. IEEE, 80:1471-1484, 1992. 17  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> H. Alt and C. K. Yap. </author> <title> Algorithmic aspect of motion planning: a tutorial, part 2. </title> <journal> Algorithms Rev., </journal> <volume> 1(2) </volume> <pages> 61-77, </pages> <year> 1990. </year>
+Reference: [2] <author> S. Arya, D. M. Mount, N. S. Netanyahu, R. Silverman, and A. Wu. </author> <title> An optimal algorithm for approximate nearest neighbor search. </title> <booktitle> In Proc. 5th ACM-SIAM Sympos. Discrete Algorithms, </booktitle> <pages> pages 573-582, </pages> <year> 1994. </year>
+Reference: [3] <author> F. Aurenhammer. </author> <title> Voronoi diagrams: a survey of a fundamental geometric data structure. </title> <journal> ACM Comput. Surv., </journal> <volume> 23 </volume> <pages> 345-405, </pages> <year> 1991. </year>
+Reference: [4] <author> Christoph Burnikel, Kurt Mehlhorn, and Stefan Schirra. </author> <title> How to compute the voronoi diagram of line segments: Theoretical and experimental results. </title> <booktitle> In Proc. 2nd Annu. Sympos., volume 855 of Lecture Notes in Computer Science, </booktitle> <pages> pages 227-237, </pages> <year> 1994. </year>
+Reference: [5] <author> L. P. Chew. </author> <title> Building Voronoi diagrams for convex polygons in linear expected time. </title> <type> Technical Report PCS-TR90-147, </type> <institution> Dept. Math. Comput. Sci., Dartmouth College, </institution> <address> Hanover, NH, </address> <year> 1986. </year>
+Reference: [6] <author> L. P. Chew and R. L. Drysdale, III. </author> <title> Voronoi diagrams based on convex distance functions. </title> <booktitle> In Proc. 1st Annu. ACM Sympos. Comput. Geom., </booktitle> <pages> pages 235-244, </pages> <year> 1985. </year>
+Reference: [7] <author> L. J. Guibas, D. E. Knuth, and M. Sharir. </author> <title> Randomized incremental construction of Delaunay and Voronoi diagrams. </title> <journal> Algorithmica, </journal> <volume> 7 </volume> <pages> 381-413, </pages> <year> 1992. </year>
+
+References-found: 7
+

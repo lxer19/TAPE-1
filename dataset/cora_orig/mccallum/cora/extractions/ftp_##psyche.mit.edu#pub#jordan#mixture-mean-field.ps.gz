@@ -1,0 +1,28 @@
+URL: ftp://psyche.mit.edu/pub/jordan/mixture-mean-field.ps.gz
+Refering-URL: http://www.ai.mit.edu/projects/jordan.html
+Root-URL: 
+Title: IMPROVING THE MEAN FIELD APPROXIMATION VIA THE USE OF MIXTURE DISTRIBUTIONS  
+Author: TOMMI S. JAAKKOLA AND MICHAEL I. JORDAN 
+Address: Santa Cruz, CA  Cambridge, MA  
+Affiliation: University of California  Massachusetts Institute of Technology  
+Note: To appear: M. I. Jordan, (Ed.), Learning in Graphical Models, Kluwer Academic Publishers.  
+Abstract: Mean field methods provide computationally efficient approximations to posterior probability distributions for graphical models. Simple mean field methods make a completely factorized approximation to the posterior, which is unlikely to be accurate when the posterior is multimodal. Indeed, if the posterior is multi-modal, only one of the modes can be captured. To improve the mean field approximation in such cases, we employ mixture models as posterior approximations, where each mixture component is a factorized distribution. We describe efficient methods for optimizing the parameters in these models. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Bishop, C., Lawrence, N., Jaakkola, T. S., & Jordan, M. I. </author> <title> Approximating posterior distributions in belief networks using mixtures. </title> <editor> In M. I. Jordan, M. J. Kearns, & S. A. Solla, </editor> <booktitle> Advances in Neural Information Processing Systems 10, </booktitle> <publisher> MIT Press, </publisher> <address> Cambridge MA (1998). </address>
+Reference: <author> Ghahramani, Z. & Jordan, M. I. </author> <title> Factorial Hidden Markov models. </title> <editor> In D. S. Touretzky, M. C. Mozer, & M. E. Hasselmo (Eds.), </editor> <booktitle> Advances in Neural Information Processing Systems 8, </booktitle> <publisher> MIT Press, </publisher> <address> Cambridge MA (1996). </address>
+Reference-contexts: Architectures for which the complexity is prohibitive include the QMR database (Shwe, et al., 1991), the layered sigmoid belief network (Neal, 1992), and the factorial hidden Markov model <ref> (Ghahramani & Jordan, 1996) </ref>. Mean field theory (Parisi, 1988) provides an alternative perspective on the inference problem.
+Reference: <author> Neal, R. </author> <title> Connectionist learning of belief networks, </title> <journal> Artificial Intelligence, </journal> <volume> 56: </volume> <month> 71-113 </month> <year> (1992). </year>
+Reference-contexts: Architectures for which the complexity is prohibitive include the QMR database (Shwe, et al., 1991), the layered sigmoid belief network <ref> (Neal, 1992) </ref>, and the factorial hidden Markov model (Ghahramani & Jordan, 1996). Mean field theory (Parisi, 1988) provides an alternative perspective on the inference problem.
+Reference: <author> Parisi, G. </author> <title> Statistical Field Theory. </title> <publisher> Addison-Wesley: </publisher> <address> Redwood City (1988). </address>
+Reference-contexts: Architectures for which the complexity is prohibitive include the QMR database (Shwe, et al., 1991), the layered sigmoid belief network (Neal, 1992), and the factorial hidden Markov model (Ghahramani & Jordan, 1996). Mean field theory <ref> (Parisi, 1988) </ref> provides an alternative perspective on the inference problem.
+Reference: <author> Peterson, C. & Anderson, J. R. </author> <title> A mean field theory learning algorithm for neural networks. </title> <journal> Complex Systems 1 </journal> <month> 995-1019 </month> <year> (1987). </year>
+Reference: <author> Saul, L. K., Jaakkola, T. S., & Jordan, M. I. </author> <title> Mean field theory for sigmoid belief networks. </title> <journal> Journal of Artificial Intelligence Research, </journal> <volume> 4 </volume> <month> 61-76 </month> <year> (1996). </year>
+Reference-contexts: A more satisfying answer arises from considering the likelihood of the evidence, P (S fl ). Clearly calculation of the likelihood permits calculation of the conditional probability P (SjS fl ). Using Jensen's inequality we can lower bound the likelihood <ref> (cf. for example Saul, et al., 1996) </ref>: X P (S; S fl ) X Q (SjS fl ) Q (SjS fl ) X Q (SjS fl ) log Q (SjS fl ) for arbitrary Q (SjS fl ), in particular for the mean field distribution Q mf (SjS fl ).
+Reference: <author> Saul, L. K. & Jordan, M. I. </author> <title> Exploiting tractable substructures in intractable networks. </title>
+Reference: <editor> In D. S. Touretzky, M. C. Mozer, & M. E. Hasselmo (Eds.), </editor> <booktitle> Advances in Neural Information Processing Systems 8, </booktitle> <publisher> MIT Press, </publisher> <address> Cambridge MA (1996). </address>
+Reference: <author> Shwe, M. A., Middleton, B., Heckerman, D. E., Henrion, M., Horvitz, E. J., Lehmann, </author> <title> H. </title>
+Reference: <author> P., & Cooper, G. F. </author> <title> Probabilistic diagnosis using a reformulation of the INTERNIST-1/QMR knowledge base. </title> <journal> Meth. Inform. Med. </journal> <volume> 30: </volume> <month> 241-255 </month> <year> (1991). </year>
+
+References-found: 10
+

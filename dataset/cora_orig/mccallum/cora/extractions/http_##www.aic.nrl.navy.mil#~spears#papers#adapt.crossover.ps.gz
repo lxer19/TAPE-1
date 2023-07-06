@@ -1,0 +1,25 @@
+URL: http://www.aic.nrl.navy.mil/~spears/papers/adapt.crossover.ps.gz
+Refering-URL: http://www.aic.nrl.navy.mil/~spears/pubs.html
+Root-URL: 
+Email: spears@aic.nrl.navy.mil  
+Title: Adapting Crossover in a Genetic Algorithm  
+Author: William M. Spears 
+Keyword: Genetic algorithm theory, recombination operators, adaptation  
+Address: Washington, D.C. 20375 USA  
+Affiliation: Naval Research Laboratory  
+Abstract: Traditionally, genetic algorithms have relied upon 1 and 2-point crossover operators. Many recent empirical studies, however, have shown the benefits of higher numbers of crossover points. Some of the most intriguing recent work has focused on uniform crossover, which involves on the average L/2 crossover points for strings of length L. Despite theoretical analysis, however, it appears difficult to predict when a particular crossover form will be optimal for a given problem. This paper describes an adaptive genetic algorithm that decides, as it runs, which form is optimal.
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Davis, </author> <title> Lawrence (1989). Adapting Operator Probabilities in Genetic Algorithms, </title> <booktitle> Proc. 3rd Int'l Conference on Genetic Algorithms, </booktitle> <publisher> Morgan Kaufman Publishing. </publisher>
+Reference: <author> De Jong, K. A. & Spears, W. </author> <year> (1990). </year> <title> An Analysis of of the Interacting Roles of Population Size and Crossover in Genetic Algorithms, </title> <booktitle> Proceedings of the First Int'l Conf. on Parallel Problem Solving from Nature, </booktitle> <address> Dortmund, Germany, </address> <month> October </month> <year> 1990. </year>
+Reference: <author> De Jong, Kenneth A. </author> <year> (1975). </year> <title> An Analysis of the Behavior of a Class of Genetic Adaptive Systems, </title> <type> Doctoral thesis, </type> <institution> Dept. Computer and Communication Sciences, University of Michigan, </institution> <address> Ann Arbor. </address>
+Reference: <author> Eschelman, L., Caruana, R. & Schaffer, D. </author> <year> (1989). </year> <title> Biases in the Crossover Landscape, </title> <booktitle> Proc. 3rd Int'l Conference on Genetic Algorithms, </booktitle> <publisher> Morgan Kaufman Publishing. </publisher>
+Reference: <author> Goldberg, David E. </author> <year> (1989). </year> <title> Genetic Algorithms in Search, Optimization & Machine Learning, </title> <publisher> Addison-Wesley Publishing Company, Inc. </publisher>
+Reference: <author> Grefenstette, John J. </author> <year> (1986). </year> <title> Optimization of Control Parameters for Genetic Algorithms, </title> <journal> IEEE Transactions on Systems, Man, and Cybernetics, </journal> <volume> Vol. SMC-16, No. 1, </volume> <month> Jan/Feb </month> <year> 1986. </year>
+Reference: <author> Holland, John H. </author> <year> (1975). </year> <title> Adaptation in Natural and Artificial Systems, </title> <publisher> The University of Michigan Press. </publisher>
+Reference: <author> Schaffer, J. David & Amy Morishima (1987). </author> <title> An Adaptive Crossover Distribution Mechanism for Genetic Algorithms, </title> <booktitle> Proc. 2nd Int'l Conference on Genetic Algorithms, </booktitle> <publisher> Morgan Kaufman Publishing. </publisher>
+Reference: <author> Spears, William M. & De Jong, K. A. </author> <year> (1990). </year> <title> An Analysis of Multi-point Crossover, </title> <booktitle> Proceedings of the Foundations of Genetic Algorithms Workshop, </booktitle> <address> Indiana, </address> <month> July </month> <year> 1990. </year>
+Reference: <author> Spears, William M. </author> <year> (1990). </year> <title> Using Neural Networks and Genetic Algorithms as Heuristics for NP-Complete Problems, </title> <type> Masters Thesis, </type> <institution> Department of Computer Science, George Mason University, Fairfax, Virginia, </institution> <year> 1990. </year>
+Reference: <author> Syswerda, Gilbert. </author> <year> (1989). </year> <title> Uniform Crossover in Genetic Algorithms, </title> <booktitle> Proc. 3rd Int'l Conference on Genetic Algorithms, </booktitle> <publisher> Morgan Kaufman Publishing. </publisher>
+References-found: 11
+

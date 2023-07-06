@@ -1,0 +1,13 @@
+URL: http://www.cs.unc.edu/~zhu/paper/complexity.ps.Z
+Refering-URL: http://www.cs.unc.edu/~zhu/ar.html
+Root-URL: http://www.cs.unc.edu
+Email: e-mail: fplaistedjzhug@cs.unc.edu  
+Title: Complexity of First-Order Theorem Proving Strategies  
+Author: David A. Plaisted and Yunshan Zhu 
+Address: Chapel Hill, NC 27599-3175  
+Affiliation: Department of Computer Science University of North Carolina at Chapel Hill  
+Abstract: We develop techniques for studying the asymptotic complexity of first-order theorem provers. This permits an analytic comparison of the worst-case speeds of provers. We show that the speeds of various well-known methods range in complexity from singe to quadruple exponential with respect to various measures. This study points out some of the severe inefficiencies of known methods, and also helps to suggest new strategies with good complexity properties. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

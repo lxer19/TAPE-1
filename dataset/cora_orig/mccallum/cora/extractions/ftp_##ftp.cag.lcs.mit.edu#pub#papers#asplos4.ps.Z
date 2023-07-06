@@ -1,0 +1,14 @@
+URL: ftp://ftp.cag.lcs.mit.edu/pub/papers/asplos4.ps.Z
+Refering-URL: http://www.cag.lcs.mit.edu/alewife/papers/asplos4.html
+Root-URL: 
+Title: LimitLESS Directories: A Scalable Cache Coherence Scheme  
+Author: David Chaiken, John Kubiatowicz, and Anant Agarwal 
+Address: Cambridge, Massachusetts 02139  
+Affiliation: Laboratory for Computer Science Massachusetts Institute of Technology  
+Abstract: Caches enhance the performance of multiprocessors by reducing network traffic and average memory access latency. However, cache-based systems must address the problem of cache coherence. We propose the LimitLESS directory protocol to solve this problem. The LimitLESS scheme uses a combination of hardware and software techniques to realize the performance of a full-map directory with the memory overhead of a limited directory. This protocol is supported by Alewife, a large-scale multiprocessor. We describe the architectural interfaces needed to implement the LimitLESS directory, and evaluate its performance through simulations of the Alewife machine. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Sarita V. Adve and Mark D. Hill. </author> <title> Weak Ordering </title> - 
+Reference-contexts: Alewife can also tolerate synchronization latencies through the same context switching mechanism. Because context switches are forced only on memory requests that require the use of the interconnection network and on synchronization faults, the processor achieves high single-thread performance. Some systems have opted to use weak ordering <ref> [1, 11, 12] </ref> to tolerate certain types of communication latency, but this method lacks the ability to overlap read-miss and synchronization latencies. Although the Alewife cache coherence protocol enforces se 2 quential consistency [18], the LimitLESS directory scheme can also be used with a weakly-ordered memory model.
+References-found: 1
+

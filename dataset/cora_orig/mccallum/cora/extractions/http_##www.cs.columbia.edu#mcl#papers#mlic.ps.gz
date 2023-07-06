@@ -1,0 +1,22 @@
+URL: http://www.cs.columbia.edu/mcl/papers/mlic.ps.gz
+Refering-URL: http://www.cs.columbia.edu/mcl/publication.html
+Root-URL: http://www.cs.columbia.edu
+Email: fathan,djdg@cs.columbia.edu  
+Title: Agent-Mediated Message Passing for Constrained Environments  
+Author: Andrew Athan and Dan Duchamp 
+Address: New York, NY 10027  
+Affiliation: Computer Science Department Columbia University  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> M. Accetta et al. </author> <title> Mach: A New Kernel Foundation for UNIX Development. </title> <booktitle> In Proc. Summer USENIX, USENIX, </booktitle> <pages> pages 93-112, </pages> <month> July, </month> <year> 1986. </year>
+Reference-contexts: Specifically, 1. A message is considered not as a sequence of typed objects (as in Mach <ref> [1] </ref>, for example), but as a hierarchy of typed objects. Roughly speaking, "important" or immediate-delivery data belongs near the top of the hierarchy, while less important or deferrable data belongs near the bottom. 2. An undeliverable message can be stored for later delivery.
+Reference: [2] <author> R. V. Baron et al. </author> <title> MACH Kernel Interface Manual. </title> <note> Unpublished. Available by anonymous ftp from mach.cs.cmu.edu:/mach3/doc/unpublished/sup/sup.doc </note>
+Reference-contexts: Mach contains the notion of a "backup port" <ref> [2] </ref>. The right to receive messages reverts to a "primary" port's backup port when the primary port is destroyed. This mechanism is close to something we need, since it provides some capability for an agent to receive messages intended for a now-unreachable mobile computer.
+Reference: [3] <author> Y. J. Cycowicz, J. Micallef, and G. E. Kaiser. </author> <title> Demand-Driven Parameter-Pasing in Remote Procedure Call. </title> <type> Unpublished technical report. </type> <month> February </month> <year> 1987. </year>
+Reference-contexts: In these cases, however, typing is added to structure in order to ease (or make possible) data interpretation by the application. The notion of separating logical "delivery" from physical, on-demand delivery of data is the basis for copy-on-write and, at finer granularity, on-demand RPC parameter passing <ref> [3] </ref>. There are numerous naming/binding mechanisms for message-based systems.
+Reference: [4] <author> J. M. Purtilo and C. R. Hofmeister. </author> <title> Dynamic Reconfiguration of Distributed Programs. </title> <booktitle> In Eleventh Intl. Conf. on Distributed Computing Systems, IEEE, </booktitle> <pages> pages 560-571, </pages> <month> May </month> <year> 1991. </year>
+Reference-contexts: The notion of automatically starting the program that is a message's destination is present in 1 Much like nanny, Mach's server-server. 4 various "software toolbus" designs in the software engineering community. One toolbus with this capability is Polylith <ref> [4] </ref>. Tadpole portable computers have for some time run a modified version of SunOS that can pause and resume the whole system.
+Reference: [5] <author> S. P. Reiss. </author> <title> Connecting Tools Using Message Passing in the Field Environment. </title> <journal> IEEE Software, </journal> <volume> 7(4) </volume> <pages> 57-66, </pages> <month> July </month> <year> 1990. </year> <month> 5 </month>
+Reference-contexts: There are numerous naming/binding mechanisms for message-based systems. Two differing examples include Mach, in which an endpoint is named by a string and bound to a port, and Field <ref> [5] </ref>, in which an endpoint is named by a printf-like pattern and binding is done by a central agent that matches messages sent with patterns registered earlier by interested destinations. Mach contains the notion of a "backup port" [2].
+References-found: 5
+

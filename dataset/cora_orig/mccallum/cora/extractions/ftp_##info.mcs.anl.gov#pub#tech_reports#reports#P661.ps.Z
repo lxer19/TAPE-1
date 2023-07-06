@@ -1,0 +1,14 @@
+URL: ftp://info.mcs.anl.gov/pub/tech_reports/reports/P661.ps.Z
+Refering-URL: http://www.mcs.anl.gov/publications/preprints.htm
+Root-URL: http://www.mcs.anl.gov
+Email: ffoster,thiruvat,tueckeg@mcs.anl.gov  
+Title: Technologies for Ubiquitous Supercomputing: A Java Interface to the Nexus Communication System  
+Author: Ian Foster, George K. Thiruvathukal, and Steven Tuecke 
+Web: http://www.globus.org/  
+Address: Argonne, IL 60439, U.S.A.  
+Affiliation: Mathematics and Computer Science Division Argonne National Laboratory  
+Abstract: We use the term ubiquitous supercomputing to refer to systems that integrate low- and mid-range computing systems, advanced networks, and remote high-end computers with the goal of enhancing the computational power accessible from local environments. Such systems promise to enable new applications in areas as diverse as smart instruments and collaborative environments. However, they also demand tools for transporting code between computers and for establishing flexible, dynamic communication structures. In this article, we propose that these requirements be satisfied by introducing Java classes that implement the global pointer and remote service request mechanisms defined by a communication library called Nexus. Java supports transportable code; Nexus provides communication support and represents the core communication framework for Globus, a project building infrastructure for ubiquitous supercomputing. We explain how this NexusJava library is implemented and illustrate its use with examples. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

@@ -1,0 +1,38 @@
+URL: http://www.cs.huji.ac.il/~shashua/papers/rel-aff-pami-rev.ps.gz
+Refering-URL: http://www.cs.huji.ac.il/labs/vision/research/geometry.html
+Root-URL: http://www.cs.huji.ac.il
+Title: 6 SUMMARY 20 recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence, 16(8):778 Relative affine
+Author: , . . A. Shashua and N. Navab. . R. Tsai and T.S. Huang. . S. Ullman. . S. Ullman and R. Basri. . D. Weinshall. . D. Weinshall and C. Tomasi. 
+Address: 10(1):27-42, 1993.  
+Affiliation: MIT  M.I.T  of Computer Vision,  
+Date: May 1994.  931, Dec. 1986.  May 1993.  
+Note: views. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pages 483-489, Seattle, Washington, 1994. 41. G.  In Proceedings of the European Conference on Computer Vision, pages 471-482, Stockholm, Sweden,  32:193-254, 1989. Also: in  Intelligence, PAMI-13:992|1006, 1991. Also in  3-D vision. International Journal  In Proceedings of the International Conference on Computer Vision, pages 675-682, Berlin, Germany,  International Journal of Computer Vision, 10(3):201-231, 1993.  
+Pubnum: AI Memo  AI Memo 1052, 1989.  
+Abstract-found: 0
+Intro-found: 1
+Reference: 1. <author> A. Azarbayejani and A. Pentland. </author> <title> Recurcive estimation of motion, structure, and focal length. </title> <journal> IEEE Trans. Pattern Analysis and Machine Intelligence. </journal> <note> to appear. </note>
+Reference: 2. <author> E.B. Barrett, M.H. Brill, N.N. Haag, and P.M. Pyton. </author> <title> General methods for determining projective invariants in imagery. Computer Vision, </title> <journal> Graphics, and Image Processing, </journal> <volume> 53 </volume> <pages> 46-65, </pages> <year> 1991. </year>
+Reference: 3. <author> J.R. Bergen, P. Anandan, K.J. Hanna, and R. Hingorani. </author> <title> Hierarchical model-based motion estimation. </title> <booktitle> In Proceedings of the European Conference on Computer Vision, </booktitle> <address> Santa Margherita Ligure, Italy, </address> <month> June </month> <year> 1992. </year>
+Reference: 4. <author> D. Beymer, A. Shashua, and T. Poggio. </author> <title> Example based image analysis and synthesis. </title> <journal> A.I. </journal> <volume> Memo No. </volume> <pages> 1431, </pages> <institution> Artificial Intelligence Laboratory, Massachusetts Institute of Technology, </institution> <month> October </month> <year> 1993. </year>
+Reference: 5. <author> S. Demey, A. Zisserman, and P. Beardsley. </author> <title> Affine and projective structure from motion. </title> <booktitle> In Proceedings of the British Machine Vision Conference, </booktitle> <month> October </month> <year> 1992. </year>
+Reference: 6. <author> R. Dutta, R. Manmatha, L. R. Williams, and E. M. Riseman. </author> <title> A data set for quantitative motion analysis. </title> <booktitle> In 1989 IEEE Conference on Computer Vision and Pattern Recognition, </booktitle> <address> Los Alamitos, CA, June 1989. </address> <publisher> IEEE Computer Society, IEEE Computer Society Press. </publisher> <address> (San Diego, CA). </address>
+Reference: 7. <author> O.D. Faugeras. </author> <title> What can be seen in three dimensions with an uncalibrated stereo rig? In Proceedings of the European Conference on Computer Vision, </title> <address> pages 563-578, Santa Margherita Ligure, Italy, </address> <month> June </month> <year> 1992. </year>
+Reference: 8. <author> O.D. Faugeras. </author> <title> Stratification of three-dimensional vision: projective, affine and metric representations. </title> <journal> Journal of the Optical Society of America, </journal> <volume> 12(3) </volume> <pages> 465-484, </pages> <year> 1995. </year>
+Reference: 9. <author> O.D. Faugeras, Q.T. Luong, and S.J. Maybank. </author> <title> Camera self calibration: Theory and experiments. </title> <booktitle> In Proceedings of the European Conference on Computer Vision, </booktitle> <pages> pages 321-334, </pages> <address> Santa Margherita Ligure, Italy, </address> <month> June </month> <year> 1992. </year>
+Reference: 10. <author> O.D. Faugeras and F. Lustman. </author> <title> Let us suppose that the world is piecewise planar. </title> <editor> In O. D. Faugeras and Georges Giralt, editors, </editor> <booktitle> International Symposium on Robotics Research, </booktitle> <pages> pages 33-40. </pages> <publisher> MIT Press, </publisher> <address> Cambridge, MA, </address> <year> 1986. </year>
+Reference: 11. <author> O.D. Faugeras and S. Maybank. </author> <title> Motion from point matches: Multiplicity of solutions. </title> <journal> International Journal of Computer Vision, </journal> <volume> 4 </volume> <pages> 225-246, </pages> <year> 1990. </year>
+Reference: 12. <author> O.D. Faugeras and L. Robert. </author> <title> What can two images tell us about a third one? Technical Report INRIA, </title> <address> France, </address> <year> 1993. </year>
+Reference: 13. <author> D.A. Forsyth, J.L. Mundy, A.P. Zisserman, A.P. Coelho, C. Heller, </author> <title> and C.A. Rothwell. Invariant descriptors for 3-D object recognition and pose. </title> <journal> IEEE Transactions on Pattern Analysis and Machine Intelligence, </journal> <volume> PAMI-13(10):971-991, </volume> <year> 1991. </year>
+Reference: 14. <author> R. </author> <title> Hartley. Projective reconstruction and invariants from multiple images. </title> <journal> IEEE Transactions on Pattern Analysis and Machine Intelligence, </journal> <volume> 16(10) </volume> <pages> 1036-1040, </pages> <year> 1994. </year>
+Reference: 15. <author> R. Hartley and R. Gupta. </author> <title> Computing matched-epipolar projections. </title> <booktitle> In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, </booktitle> <pages> pages 549-555, </pages> <address> New York, NY, </address> <year> 1993. </year>
+Reference: 16. <author> R. Hartley, R. Gupta, and T. Chang. </author> <title> Stereo from uncalibrated cameras. </title> <booktitle> In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, </booktitle> <pages> pages 761-764, </pages> <address> Champaign, IL., </address> <month> June </month> <year> 1992. </year>
+Reference: 17. <author> D.P. Huttenlocher and S. Ullman. </author> <title> Recognizing solid objects by alignment with an image. </title> <journal> International Journal of Computer Vision, </journal> <volume> 5(2) </volume> <pages> 195-212, </pages> <year> 1990. </year>
+Reference: 18. <author> M. Irani, B. Rousso, and S. Peleg. </author> <title> Recovery of ego-motion using image stabilization'. </title> <booktitle> In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, </booktitle> <pages> pages 454-460, </pages> <address> Seattle, Washington, </address> <month> June </month> <year> 1994. </year>
+Reference: 19. <author> D.W. Jacobs. </author> <title> Recognizing 3-D objects from 2-D images. </title> <type> PhD thesis, </type> <institution> M.I.T Artificial Intelligence Laboratory, </institution> <month> September </month> <year> 1992. </year>
+
+
+Reference: 2. <author> Compute A from the equations Ap i ~ = p 0 i , i = 1; 2; 3, </author> <title> and Av ~ = v 0 . This leads to a linear set of eight equations for solving for A up to a scale. A least squares solution is available from the equation p 0 i [v 0 ]Ap i = 0 for all additional points (Corollary 4). Scale A to satisfy p 0 o </title>
+Reference: 3. <institution> Relative affine structure k i is given by p 0 i </institution>
+
+References-found: 21
+

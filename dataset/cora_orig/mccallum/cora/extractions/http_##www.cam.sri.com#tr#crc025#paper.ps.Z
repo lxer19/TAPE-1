@@ -1,0 +1,16 @@
+URL: http://www.cam.sri.com/tr/crc025/paper.ps.Z
+Refering-URL: http://www.cam.sri.com/tr/ABSTRACTS.html
+Root-URL: 
+Title: The Swedish Core Language Engine  
+Author: Bjorn Gamback Manny Rayner 
+Address: Box 1263, S 164 28 KISTA Stockholm, Sweden  23 Millers Yard, Cambridge CB2 1RQ Cambridge, England  
+Affiliation: Swedish Institute of Computer Science  SRI International  
+Note: conference,  
+Email: gam@sics.se  manny@cam.sri.com  
+Web: URL: http://www.cam.sri.com/tr/crc025/paper.ps.ZNOTEX  
+Date: 1992  
+Abstract: The main part of the S-CLE is an extensive Swedish grammar that is compiled into parsing and generation modules. The grammar formalism is a type of unification grammar loosely based on Generalized Phrase Structure Grammar (GPSG). The grammar is compiled and then parsed with a left-corner parser. Generation is performed using the Semantic-Head-Driven algorithm. Analysis turns sentences into "Quasi-Logical Form" (QLF), a logical-form representation, while generation works in the opposite direction. Intermediate stages include processing of morphology, syntax and semantics. For knowledge-base applications, a separate module can convert QLFs into conventional scoped logical forms. The current version of the system has a vocabulary of about 1900 words and covers a fairly broad range of possible grammatical constructions. Based on our experience in this project, we present in this paper detailed arguments to support the claim that customization of an English-language NLP system is a highly cost-effective way of constructing Swedish-language systems with corresponding functionality.
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

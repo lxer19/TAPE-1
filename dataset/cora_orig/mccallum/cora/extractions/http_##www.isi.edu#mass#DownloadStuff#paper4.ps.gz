@@ -1,0 +1,22 @@
+URL: http://www.isi.edu/mass/DownloadStuff/paper4.ps.gz
+Refering-URL: http://www.isi.edu/mass/publicationList.html
+Root-URL: http://www.isi.edu
+Title: Parts Manipulation on a MEMS Intelligent Motion Surface, Will Parts manipulation on an Intelligent Motion
+Author: . P.M. Will, W. Liu . W. Liu P.M. . I. E. Sutherland, G. W. Hodgman, 
+Date: May 1994.  August 4-9, 1995.  Jan., 1974.  
+Note: 6. Conclusion References  1995 IROS Conference, Pittsburg, PA,  Communications of the ACM, Vol17, no.1,  
+Pubnum: ISI Research Report RR-94-391,  
+Abstract: A miniature IMS system in MEMS technology is described for part motions and part assembly. In order to verify the ideas, a software simulator as well as a user interface has been developed. Fluid and rigid body dynamics theories are employed to model the motion of the part(s) placed on top of such an IMS constructed from a planer array of micro-manipulators. The algorithms in computational geometry have been developed and implemented for mathematical simplification of the simulation. Several experiments of the simulation have shown the capability of the system in part translating, part orienting, part assembly, and part recognition. All of the operations can be achieved without a sensory system. The sensory system, however, can be incorporated for more accurate and sophisticated tasks in part assembly. This will be done in the next stage of the hardware implementation. Figure 6.5. Simulation Results (continued) 
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> W. Liu & P.M. </author> <note> WillSoftware Implementation of a MEMS Simulation System to appear in ISI Research Report, </note> <month> August </month> <year> 1995. </year>
+Reference: 2. <author> P.M. Will, W. </author> <title> Liu Parts Manipulation on a MEMS Intelligent Motion Surface, </title> <note> ISI Research Report RR-94-391, </note> <month> May </month> <year> 1994. </year>
+Reference: 3. <author> W. Liu & P.M. </author> <title> Will Parts manipulation on an Intelligent Motion Surface, </title> <booktitle> 1995 IROS Conference, </booktitle> <address> Pittsburg, PA, </address> <month> August 4-9, </month> <year> 1995. </year>
+
+
+
+
+
+
+References-found: 3
+

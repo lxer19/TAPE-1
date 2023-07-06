@@ -1,0 +1,25 @@
+URL: http://physics.www.media.mit.edu/publications/papers/selforg.ps
+Refering-URL: http://physics.www.media.mit.edu/publications/
+Root-URL: http://www.media.mit.edu
+Title: Self Organizing Device Networks  
+Author: Joshua R. Smith 
+Affiliation: Physics and Media Group MIT Media Lab  
+Date: November 23, 1996  
+Note: PhysComp96: selforg Full paper Draft,  smith: jrs@media.mit.edu  
+Abstract: In order for simple, initially identical computational units to acquire unique identities, two ingredients are needed: a physical symmetry breaking mechanism and a distributed algorithm that makes use of this mechanism. After briefly considering non-thermodynamic sources of symmetry breaking, I return to thermodynamic symmetry breaking, and present three algorithms that make use of this source. I analyze the expected resource requirements (time, random bits, space, communication) of the algorithms, and note a trade off among these measures of algorithm complexity. I close by speculating about a framework for formalizing these trade-offs and determining the theoretical optimum performance of symmetry breaking protocols.
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> B. Awerbuch, L. Cowen, and M. Smith. </author> <title> Efficient asynchronous distributed symmetry breaking. </title> <booktitle> In Proceedings of the 26th Annual ACM Symposium on Theory of Computing, </booktitle> <address> Montreal, Quebec, Canada, </address> <year> 1994. </year>
+Reference: [2] <author> E.W. Dijkstra. </author> <title> Solution of a problem in concurrent programming control. </title> <journal> Communications of the ACM, </journal> <volume> 8(9):569, </volume> <year> 1965. </year>
+Reference-contexts: The first well known symmetry breaking problem is the Dining Philosophers problem, posed in 1965 by Dijkstra <ref> [2] </ref>. In this problem, processes with overlapping resource requirements must be scheduled. The symmetry breaking problem arises when two processors try simultaneously to access the same resource: to break or avoid deadlock, one must yield.
+Reference: [3] <author> W. Heiligenberg. </author> <title> Studies of Brain Function, Vol. 1: Principles of Electrolocation and Jamming Avoidance. </title> <publisher> Springer-Verlag, </publisher> <address> New York, </address> <year> 1977. </year>
+Reference: [4] <author> R.J. Lipton and A. Park. </author> <title> The processor identity problem. </title> <journal> Information Processing Letters, </journal> <volume> 36 </volume> <pages> 91-94, </pages> <year> 1990. </year>
+Reference-contexts: These identities can then be used to break symmetry if desired, and for additional non-computational purposes such as communication. The one example in the computer science literature of using a symmetry breaking protocol to assign unique identities is a paper of Lipton and Park <ref> [4] </ref>, in which they pose what they call the Processor Identity Problem| fundamentally the same problem discussed in this paper, but set in the context of a shared memory multiprocessing system. The protocol they describe is of no use in the multiaccess-channel scenario we are considering.
+Reference: [5] <author> R. Motwani and P. Raghavan. </author> <title> Randomized Algorithms. </title> <publisher> Cambridge University Press, </publisher> <address> New York, </address> <year> 1995. </year>
+Reference-contexts: In particular, a simple combinatorial argument shows that the probability of failure p f of the non-interacting protocol is m! 2 T ! Following <ref> [5] </ref>, we can bound this probability using p f 1 e n (n1)=2m = 1 e n (n1)=2 T+1 Solving this inequality for T , we find T log 2 n 2 + n Assuming that we are interested in a small probability of failure, we can make the approximation ln
+Reference: [6] <author> J.A. Paradiso. </author> <title> The interactive balloon: Sensing, actuation, and behaviour in a common object. </title> <journal> IBM Systems Journal, </journal> <note> http://www.almaden.ibm.com/journal/sj/mit/tocps.html, 35(3 & 4), </note> <year> 1996. </year>
+Reference: [7] <author> M.O. Rabin. </author> <title> The choice coordination problem. </title> <journal> Acta Informatica, </journal> <volume> 17 </volume> <pages> 121-134, </pages> <year> 1982. </year>
+Reference: [8] <author> Dallas Semiconductor. </author> <title> Automatic Identification Data Book. </title> <institution> Dallas Semiconductor, Dallas, Texas, </institution> <year> 1996. </year>
+Reference: [9] <author> A.S. Tanenbaum. </author> <title> Computer Networks. </title> <publisher> Prentice-Hall, </publisher> <address> Englewood Cliffs, New Jersey, </address> <year> 1989. </year> <month> 7 </month>
+References-found: 9
+

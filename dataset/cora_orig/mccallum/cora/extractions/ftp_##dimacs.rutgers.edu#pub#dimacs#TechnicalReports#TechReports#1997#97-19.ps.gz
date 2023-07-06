@@ -1,0 +1,17 @@
+URL: ftp://dimacs.rutgers.edu/pub/dimacs/TechnicalReports/TechReports/1997/97-19.ps.gz
+Refering-URL: http://dimacs.rutgers.edu/TechnicalReports/1997.html
+Root-URL: http://www.cs.rutgers.edu
+Email: kayll@charlo.math.umt.edu  
+Title: Asymptotics of the total chromatic number for multigraphs  
+Author: by P. Mark Kayll 
+Note: This note is a companion to DIMACS Technical Report 96-20. DIMACS is a partnership of Rutgers University, Princeton University, AT&T Labs, Bellcore, and Bell Labs. DIMACS is an NSF Science and Technology Center, funded under contract STC-91-19999; and also receives support from the New Jersey Commission on Science and Technology.  
+Address: Missoula, MT 59812-1032, USA  
+Affiliation: Department of Mathematical Sciences The University of Montana  
+Abstract: DIMACS Technical Report 97-19 May 1997 
+Abstract-found: 1
+Intro-found: 0
+Reference: [1] <author> T.R. Jensen and B. Toft, </author> <title> Graph Coloring Problems, </title> <publisher> Wiley, </publisher> <address> New York, </address> <year> 1995. </year>
+Reference: [2] <author> J. Kahn, </author> <title> Asymptotics of the list-chromatic index for multigraphs, </title> <note> submitted. </note>
+Reference: [3] <author> P.M. Kayll, </author> <title> Asymptotics of the total chromatic number for simple graphs, </title> <type> Technical Report 96-20, </type> <institution> DIMACS, </institution> <address> Piscataway, NJ, </address> <note> 1996 [available via anonymous ftp at: ftp://dimacs.rutgers.edu/pub/dimacs/TechnicalReports/TechReports/1996/96-20.ps.gz]. </note>
+References-found: 3
+

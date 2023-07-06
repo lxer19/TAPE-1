@@ -1,0 +1,38 @@
+URL: ftp://ftp.cs.unc.edu/pub/publications/techreports/96-029.ps.Z
+Refering-URL: ftp://ftp.cs.unc.edu/pub/publications/techreports/FILE.html
+Root-URL: http://www.cs.unc.edu
+Email: mine@cs.unc.edu  
+Title: Working in a Virtual World: Interaction Techniques Used in the Chapel Hill Immersive Modeling Program
+Author: Mark R. Mine 
+Keyword: Interactive numbers Keywords: Virtual reality, Virtual environments, Computer-aided modeling, Geometric modeling, User interface design, Two-handed interaction, Two-handed interfaces, Interactive computer graphics.  
+Note: Action at  Worlds in miniature  
+Address: Chapel Hill, NC 27599-3175  
+Affiliation: Department of Computer Science University of North Carolina  
+Abstract: This paper presents a description of the interaction techniques used in the Chapel Hill Immersive Modeling Program (CHIMP). CHIMP is intended for the preliminary stages of architectural design. It is an immersive system; users work directly within a virtual world. The main goal has been to develop interaction techniques that exploit the benefits of working immersed while compensating for its limitations. Interaction techniques described and discussed in this paper include: 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> E. A. Bier, M. C. Stone, K. Pier, W. Buxton and T. D. </author> <title> DeRose (1993). Toolglass and magic lenses: </title> <booktitle> the see-through interface. Computer Graphics (Proceedings. </booktitle> <pages> SIGGRAPH '93) : 73-80. </pages>
+Reference: <author> D. Bowman and L. F. </author> <title> Hodges (1995). Immersive Design Tools for Virtual Environments. </title> <type> SIGGRAPH '95 Technical Sketch, </type> <address> Los Angeles, CA, </address> <publisher> ACM SIGGRAPH. </publisher>
+Reference: <author> R. W. Bukowski and C. H. </author> <month> Sequin </month> <year> (1995). </year> <title> Object Associations: A Simple and Practical Approach to Virtual 3D Manipulation. </title> <booktitle> Proceedings of the 1995 ACM Symposium on Interactive 3D Graphics : 131-138. </booktitle>
+Reference: <author> J. Butterworth, A. Davidson, S. Hench and T. </author> <month> Olano </month> <year> (1992). </year> <title> 3DM: A Three Dimensional Modeler Using a Head-Mounted Display. </title> <booktitle> Computer Graphics (Proceedings 1992 Symposium on Interactive 3D Graphics) 25(2): </booktitle> <pages> 135-138. </pages>
+Reference: <author> J. </author> <title> Chung (1994). Intuitive Navigation in the Targeting of Radiation Therapy Treatment Beams. </title> <institution> University of North Carolina, </institution> <type> Ph.D. </type> <note> Thesis J. </note> <author> H. </author> <title> Clark (1976). Designing Surfaces in 3-D. </title> <journal> Communications of the ACM 19(8): </journal> <pages> 454-460. </pages>
+Reference: <author> D. B. Conner, S. S. Snibbe, K. P. </author> <title> Herndon, </title> <address> D. </address>
+Reference: <author> C. Robbins, R. C. Zeleznik and A. </author> <month> vanDam </month> <year> (1992). </year> <title> Three-dimensional widgets. </title> <booktitle> Computer Graphics (1992 Symposium on Interactive 3D Graphics) 25(2): </booktitle> <pages> 183-188. </pages>
+Reference: <author> H. Fuchs, J. Poulton, J. Eyles, T. </author> <note> Greer, J. </note>
+Reference: <author> Goldfeather, D. Ellsworth, S. Molnar, G. Turk, B. Tebbs and L. </author> <title> Israel (1989). Pixel-Planes 5: A heterogeneous multiprocessor graphics system using processor-enhanced memories. </title> <booktitle> Computer Graphics (Proceedings SIGGRAPH '89) 23(3): </booktitle> <pages> 79-88. </pages>
+Reference: <author> E. Gobbetti and J.-F. </author> <month> Balaguer </month> <year> (1993). </year> <title> VB2-an architecture for interaction in synthetic worlds. </title> <booktitle> Proceedings of UIST 93: The Sixth Annual Symposium on User Interface Software and Technology : p. viii+267, </booktitle> <pages> 167-78. </pages>
+Reference: <author> E. Gobbetti and J.-F. </author> <month> Balaguer </month> <year> (1995). </year> <title> An integrated environment to visually construct 3D animations. </title> <booktitle> Computer Graphics (Proceedings SIGGRAPH 95) : p. </booktitle> <volume> 518, </volume> <pages> 395-8. </pages>
+Reference: <author> J. C. Goble, K. Hinckley, R. Pausch, J. W. Snell and N. F. </author> <month> Kassell </month> <year> (1995). </year> <title> Two-handed spatial interface tools for neurosurgical planning. </title> <booktitle> Computer 28,(7): p. </booktitle> <pages> 20-6. </pages>
+Reference: <author> S. Gottschalk, D. Manocha and L. </author> <title> Ming (1996). OBB-Tree: A Hierarchical Structure for Rapid Interference Detection. </title> <note> To appear in: Computer Graphics (Proceedings SIGGRAPH '96) : 14 Mark R. Mine TR96-029 August 1, 1996 R. </note> <editor> L. Gregory (1973). </editor> <title> Eye and Brain. </title> <publisher> London, World University Library. </publisher>
+Reference: <author> Y. </author> <month> Guiard </month> <year> (1987). </year> <title> Asymmetric Division of Labor in Human Skilled Bimanual Action: The Kinematic Chain as a Model. </title> <journal> The Journal of Motor Behavior 19(4): </journal> <pages> 486-517. </pages>
+Reference: <author> S. Halliday and M. </author> <title> Green (1996). A Geometric Modeling and Animation System for Virtual Reality. </title> <journal> Communications of the ACM 39(5): </journal> <pages> 46-53. </pages>
+Reference: <author> G. Kurtenbach and W. </author> <title> Buxton (1993). The limits of expert performance using hierarchic marking menus. </title> <booktitle> Proceedings of INTERCHI '93: Human Factors in Computing Systems : p. xviii+547, </booktitle> <pages> 482-7. </pages>
+Reference: <author> J. Liang and M. </author> <title> Green (1994). JDCAD: a highly interactive 3D modeling system. </title> <booktitle> Computers & Graphics 18(4): </booktitle> <pages> 499-506. </pages>
+Reference: <author> D. P. Mapes and J. M. </author> <month> Moshell </month> <year> (1995). </year> <title> A Two-Handed Interface for Object Manipulation in Virtual Environments. </title> <type> Presence 4(4): </type> <pages> 403-416. </pages>
+Reference: <author> R. Pausch, T. Burnette, D. Brockway and M. E. </author> <month> Weiblen </month> <year> (1995). </year> <title> Navigation and locomotion in virtual worlds via flight into handheld miniatures. </title> <booktitle> Computer Graphics (Proceedings SIGGRAPH 95) : p. </booktitle> <volume> 518, </volume> <pages> 399-400. </pages>
+Reference: <author> E. Sachs, A. Roberts and D. </author> <month> Stoops </month> <year> (1991). </year> <title> 3-Draw: a tool for designing 3D shapes. </title> <journal> I E E E Computer Graphics and Applications 11(6): </journal> <pages> 18-26. </pages>
+Reference: <author> C. </author> <title> Schmandt (1983). Spatial input/display correspondence in a stereoscopic computer graphic work station. </title> <journal> Computer Graphics 17,(3): </journal> <volume> p. </volume> <pages> 253-61. </pages>
+Reference: <author> C. Shaw and M. </author> <title> Green (1994). Two-handed polygonal surface design. </title> <booktitle> Proceedings of UIST `94: The Seventh Annual Symposium on User Interface Software and Technology : p. </booktitle> <volume> 226, </volume> <pages> 205-12. </pages>
+Reference: <author> R. Stoakley, M. J. Conway and R. </author> <title> Pausch (1995). Virtual Reality on a WIM: </title> <booktitle> Interactive Worlds in Miniature. Proceedings of CHI '95: the 1995 Conference on Human Factors in Computing Systems : 265-272. </booktitle>
+References-found: 23
+

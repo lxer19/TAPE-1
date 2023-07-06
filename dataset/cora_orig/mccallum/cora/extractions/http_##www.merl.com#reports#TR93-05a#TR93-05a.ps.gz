@@ -1,0 +1,32 @@
+URL: http://www.merl.com/reports/TR93-05a/TR93-05a.ps.gz
+Refering-URL: http://www.merl.com/reports/TR93-05a/index.html
+Root-URL: 
+Title: A comparison of Anapron with seven other name-pronunciation systems  
+Author: Andrew R. Golding Paul S. Rosenbloom 
+Address: Cambridge, Massachusetts 02139  
+Note: Published in Journal of the American Voice Input/Output Society,  Copyright c Mitsubishi Electric Research Laboratories, 1996 201 Broadway,  
+Date: May 1996  14 (August, 1993), 1-21  
+Web: http://www.merl.com  
+Affiliation: MITSUBISHI ELECTRIC RESEARCH LABORATORIES  Information Sciences Institute and Computer Science Department, University of Southern California  
+Pubnum: TR-93-05a  
+Abstract: This paper presents an experiment comparing a new name-pronunciation system, Anapron, with seven existing systems: three state-of-the-art commercial systems (from Bellcore, Bell Labs, and DEC), two variants of a machine-learning system (NETtalk), and two humans. Anapron works by combining rule-based and case-based reasoning. It is based on the idea that it is much easier to improve a rule-based system by adding case-based reasoning to it than by tuning the rules to deal with every exception. In the experiment described here, Anapron used a set of rules adapted from MITalk and elementary foreign-language textbooks, and a case library of 5000 names. With these components | which required relatively little knowledge engineering | Anapron was found to perform almost at the level of the commercial systems, and significantly better than the two versions of NETtalk. This work may not be copied or reproduced in whole or in part for any commercial purpose. Permission to copy in whole or in part without payment of fee is granted for nonprofit educational and research purposes provided that all such whole or partial copies include the following: a notice that such copying is by permission of Mitsubishi Electric Research Laboratories of Cambridge, Massachusetts; an acknowledgment of the authors and individual contributions to the work; and all applicable portions of the copyright notice. Copying, reproduction, or republishing for any other purpose shall require a license with payment of fee to Mitsubishi Electric Research Laboratories. All rights reserved. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Basson, S., D. Yashchin, K. Silverman, and A. Kalyanswamy, </author> <year> 1991. </year> <title> Assessing the acceptability of automated customer name and address: A rigorous comparison of text-to-speech synthesizers. </title> <booktitle> In Proceedings of AVIOS. </booktitle>
+Reference: <author> Coker, C. H., K. W. Church, and M. Y. Liberman, </author> <year> 1990. </year> <title> Morphology and rhyming: Two powerful alternatives to letter-to-sound rules for speech synthesis. </title> <booktitle> In Conference on Speech Synthesis, European Speech Communication Association. </booktitle>
+Reference: <author> Conroy, D., T. Vitale, and D. H. Klatt, </author> <year> 1986. </year> <title> DECtalk DTC03 Text-to-Speech System Owner's Manual. Educational Services of Digital Equipment Corporation, P.O. Box CS2008, Nashua, NH 03061. Document number EK-DTC03-OM-001. </title>
+Reference: <author> Dietterich, T. G., H. Hild, and G. Bakiri, </author> <year> 1990. </year> <title> A comparative study of ID3 and backpropagation for English text-to-speech mapping. </title> <booktitle> In Proceedings of the 7th IMLW, </booktitle> <address> Austin, </address> <publisher> Morgan Kaufmann. </publisher>
+Reference: <author> Fleiss, J. L., </author> <year> 1981. </year> <title> Statistical Methods for Rates and Proportions. </title> <publisher> John Wiley and Sons. </publisher>
+Reference: <author> Freeman, M. F., and J. W. Tukey, </author> <year> 1950. </year> <title> Transformations related to the angular and the square root. </title> <journal> Annals of Mathematical Statistics, </journal> <volume> 21. </volume>
+Reference: <author> Golding, A. R., </author> <year> 1991. </year> <title> Pronouncing Names by a Combination of Rule-Based and Case-Based Reasoning. </title> <type> PhD thesis, </type> <institution> Stanford University. </institution>
+Reference: <author> Golding, A. R. and P. S. Rosenbloom, </author> <year> 1991. </year> <title> Improving rule-based systems through case-based reasoning. </title> <booktitle> In Proceedings of AAAI-91, </booktitle> <address> Anaheim. </address>
+Reference: <author> Hunnicutt, S., </author> <year> 1976. </year> <title> Phonological rules for a text-to-speech system. </title> <journal> American Journal of Computational Linguistics. </journal> <volume> Microfiche 57. </volume>
+Reference: <author> Kendall, M. and J. D. Gibbons, </author> <year> 1990. </year> <title> Rank Correlation Methods. </title> <publisher> Edward Arnold, </publisher> <address> London. Fifth edition. </address>
+Reference: <author> McClelland, J. L. and D. E. Rumelhart, </author> <year> 1988. </year> <title> Explorations in Parallel Distributed Processing. </title> <publisher> The MIT Press, </publisher> <address> Cambridge, MA. </address> <institution> Includes software for IBM PC. </institution>
+Reference: <author> Miller, R. G. Jr., </author> <year> 1981. </year> <title> Simultaneous Statistical Inference. </title> <publisher> Springer Verlag, </publisher> <address> New York. </address>
+Reference: <author> Sejnowski, T. J. and C. R. Rosenberg, </author> <year> 1987. </year> <title> Parallel networks that learn to pronounce English text. </title> <journal> Complex Systems, </journal> <volume> 1. </volume>
+Reference: <author> Spiegel, M. F., </author> <year> 1985. </year> <title> Pronouncing surnames automatically. </title> <booktitle> In Proceedings of AVIOS. </booktitle>
+Reference: <author> Spiegel, M. F. and M. J. Macchi, </author> <year> 1990. </year> <title> Synthesis of names by a demisyllable-based speech synthesizer (Orator). </title> <journal> AVIOS Journal, </journal> <note> 7. Special RHC/RBOC issue. </note>
+Reference: <author> Vitale, A. J., </author> <year> 1991. </year> <title> An algorithm for high accuracy name pronunciation by parametric speech synthesizer. </title> <journal> Journal of Computational Linguistics, </journal> <volume> 17(3). </volume> <month> MERL-TR-93-05a 20 May </month> <year> 1996 </year>
+References-found: 16
+

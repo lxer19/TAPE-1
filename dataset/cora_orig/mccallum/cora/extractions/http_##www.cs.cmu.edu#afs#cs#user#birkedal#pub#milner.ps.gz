@@ -1,0 +1,12 @@
+URL: http://www.cs.cmu.edu/afs/cs/user/birkedal/pub/milner.ps.gz
+Refering-URL: http://www.cs.cmu.edu/afs/cs/user/birkedal/www/papers.html
+Root-URL: 
+Title: Unification and Polymorphism in Region Inference  
+Author: Mads Tofte, Lars Birkedal, 
+Note: Dedicated to Robin Milner on the occasion of his 60th birthday.  
+Affiliation: Department of Computer Science, University of Copenhagen  School of Computer Science, Carnegie Mellon University  
+Abstract: Region Inference is a technique for inferring lifetimes of values in strict, higher-order programming languages such as Standard ML. The purpose of this paper is to show how ideas from Milner's polymorphic type discipline can serve as a basis for region inference, even in the presence of a limited form of polymorphic recursion.
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

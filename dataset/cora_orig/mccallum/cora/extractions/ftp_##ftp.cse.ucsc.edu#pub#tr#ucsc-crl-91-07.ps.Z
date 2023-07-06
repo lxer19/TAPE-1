@@ -1,0 +1,28 @@
+URL: ftp://ftp.cse.ucsc.edu/pub/tr/ucsc-crl-91-07.ps.Z
+Refering-URL: ftp://ftp.cse.ucsc.edu/pub/tr/README.html
+Root-URL: http://www.cse.ucsc.edu
+Title: compute a diff, the absolute value of the difference between the original image and the
+Note: For each pixel  
+Date: 7. Appendix  
+Pubnum: 26 7. Appendix  
+Abstract: In order to give the reader a flavor of how the JPEG algorithms affect the reconstructed images, we attached three pairs, an original image and its difference image generated from our simulation. In the beginning, we tried to take photographs of the original images and the decoded images. But it turns out that it is difficult to see on the photographs the differences between the original image and the decoded image, although they are visible on the screen. Therefore, instead, we have attached pictures of the difference between the original image and the decoded image. The original images are visually better on the screen than on the photograph due to limitations of the photographic techniques. Most of the reconstructed images are blurry compared to the original ones. The example luminance quantization table (see Table 3.2) has a better impact on the images Tree, Sailboat, Airplane and Aerial than the images House, Splash, Girl, Lenna and Tiffany. There are visible block edge effects and obvious blurring in the latter decoded images. Since the absolute difference images are too obscure to show on the photographs, we exaggerated these differences in the following way: 
+Abstract-found: 1
+Intro-found: 1
+Reference: <institution> References </institution>
+Reference: [Cha90] <author> G. K. </author> <title> Wallace JPEG Chair. Overview of the jpeg (iso/ccitt) still image compression standard. </title> <booktitle> SPIE Image Processing Algorithm and Techniques, </booktitle> <volume> 1244, </volume> <year> 1990. </year>
+Reference: [CL91] <author> Manyun Chang and Glen G. G. Langdon, Jr. </author> <title> Effects coefficient coding on jpeg baseline image compression. </title> <editor> In J. A. Storer and J. H. Reif, editors, </editor> <booktitle> Proc. </booktitle> <address> DCC'91, Snowbird, Utah, </address> <month> April 8-11 </month> <year> 1991. </year> <journal> IEEE Computer Society. </journal> <note> Poster session, abstract only. </note>
+Reference: [CW84] <author> J. Cleary and I. Witten. </author> <title> A comparison of enumerative and adaptive codes. </title> <journal> IEEE Trans. on Info. Theory, </journal> <volume> IT-30(2):306 - 315, </volume> <month> March </month> <year> 1984. </year>
+Reference: [Hua90] <author> A. Huang. </author> <title> Image compression: The emerging standard for color images. </title> <journal> Computer Future, </journal> <volume> 13, </volume> <year> 1990. </year>
+Reference: [ISO90] <author> ISO/IECJTCI/SC2/WG8 - CCITT SGVIII. </author> <title> JPEG Technical Specification Revision 5.2, </title> <address> jpeg-8-r5.2 edition, </address> <month> May </month> <year> 1990. </year> <title> JPEG stands for Joint Photographic Experts Group. </title>
+Reference: [Lan] <author> G. G. Langdon, Jr. </author> <title> Further developments in lossless gray-scale image compression. IBM Internal Conference on Pattern Recognition and Image Processing, </title> <address> Yorktown Heights New York, </address> <month> November, </month> <year> 1984. </year> <note> (Available as IBM Research Report RJ-6426). </note>
+Reference: [Lan90] <author> G. G. Langdon, Jr. </author> <title> On adaptation to multiple-context binary sources. </title> <type> Technical Report RJ 7845, </type> <institution> IBM Research Division, Almaden Research Center, </institution> <address> San Jose, California 95120-6099, </address> <month> November </month> <year> 1990. </year>
+Reference: [Lig91] <author> Adriaan Ligtenberg. </author> <title> Jpeg++: Selective compression for high quality color desktop publishing. </title> <booktitle> In COMPCON SPRING 91, </booktitle> <month> February </month> <year> 1991. </year>
+Reference: [Nga84] <author> K. N. Ngan. </author> <title> Image display technique using the cosine transform. </title> <journal> IEEE Trans. Acoust., Speech, Sig. Proc, </journal> <volume> ASSP-32(1), </volume> <year> 1984. </year>
+Reference: [Ore81] <author> T. I. Ored. </author> <title> Concepts and criteria to assess acceptability of simulation studies: A frame of reference. </title> <journal> CACM Special Issue on Simulation Modeling and Statistical Computing, </journal> <volume> 24, </volume> <month> April </month> <year> 1981. </year>
+Reference: [PBW79] <author> O. Pahlm, P. O. Borjesson, and O. Werner. </author> <title> Compact digital of ecg's. Compact Programs Biomed, </title> <type> 9, </type> <year> 1979. </year>
+Reference: [PM89] <author> W. B. Pennebaker and J. L. Mitchell. </author> <title> Standardization for color image data compression part i: Sequential coding. Preprint of Summary of Invited Talk to be Given at Electr. </title> <address> Imaging '89 East Boston, MA, </address> <month> October </month> <year> 1989. </year>
+Reference: [PMLA88] <author> W. B. Pennebaker, J. L. Mitchell, G. G. Langdon, Jr., and R. B. </author> <title> Arps. An overview of the basic principles of the q-coder adaptive binary arithmetic coder. </title> <journal> IBM Journal Research and Development, </journal> <pages> pages 717 - 726, </pages> <month> November </month> <year> 1988. </year>
+Reference: [RL81] <author> J. J. Rissanen and G. G. Langdon, Jr. </author> <title> Universal modeling and coding. </title> <journal> IEEE Trans. Infor. Theory, </journal> <volume> IT-27(1):12 - 23, </volume> <month> January </month> <year> 1981. </year>
+
+References-found: 15
+

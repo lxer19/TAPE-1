@@ -1,0 +1,22 @@
+URL: http://www.cs.wisc.edu/~rushan/752_p.ps
+Refering-URL: http://www.cs.wisc.edu/~rushan/rushan.html
+Root-URL: http://www.cs.wisc.edu
+Email: rushan, yfan-@cs.wisc.edu, zqin@cae.wisc.edu  
+Title: Data Value Prediction Methods and Performance  
+Author: Rushan Chen, Zhaohua Qin, Fan Yang 
+Date: May 4, 1998  
+Affiliation: Computer Sciences Department University of Wisconsin  
+Pubnum: CS/ECE752 Project Report  
+Abstract-found: 0
+Intro-found: 1
+Reference: [SS97] <author> Y. Sazeides and J. E. Smith, </author> <title> "The Predictability of Data Values", </title> <booktitle> in Proceedings of the 30th ACM/IEEE Annual International Symposium on Microarchitecture, </booktitle> <pages> pp 248-258, </pages> <year> 1997. </year>
+Reference-contexts: Background 2.1 Classification of Data Value Patterns There are some data-value-patterns when a program is running. These regular patterns give us the opportunity to predict the data values, thus to improve the execution performance. Generally, there are three basic data value patterns <ref> [SS97] </ref>: Constant: the data values keep the same. 3 3 3 3 3 3 3 3 Stride: the current data value equals to the previous data value produced by the same instruction plus the stride. The stride value can be negative. Stride value pattern is very common in program. <p> But the group values of the previous loop do have some regularity with the current iteration group values. It seems like a vector added by a scalar number. 2.2 Data Value Prediction Models The data value patterns lead to two large groups of data value prediction model <ref> [ss97] </ref>: Computational predictor and Context predictor. 2.2.1 Computational Predictor Computational Predictor predicts the data value by a computation function with previous values as the inputs. The simplest computational Predictor is Last Value Predictor. The function is so simple that it just uses the last value as the predicted value.
+Reference: [SS97a] <author> Y. Sazeides and J. E. Smith, </author> <title> "Implementation of Context Based Value Predictors", </title> <type> Tech. Rep., ECE 97-8, </type> <institution> University of Wisconsin, </institution> <month> December </month> <year> 1997. </year>
+Reference: [BA97] <author> D. Burger and T. M. Austin, </author> <title> "The SimpleScalar Tool Set, Version 2.0", </title> <type> Tech. Rep., CS #1342, </type> <institution> University of Wisconsin, </institution> <month> June </month> <year> 1997. </year>
+Reference-contexts: Changing the table size from 256 to 4K, we expect to see a curve first increasing then leveled off after certain size. The simulation is conducted using the SimpleScalar toolset <ref> [BA97] </ref>. We modified part of the simulator for it to interface with our predictor simulation programs.
+Reference: [SM93] <author> S. McFarling, </author> <title> "Combining Branch Predictors", </title> <type> Tech. Rep., </type> <institution> DEC WRL TN-36, Digital Western Research Laboratory, </institution> <month> June </month> <year> 1993. </year>
+Reference: [WF97] <author> K. Wang and M. Franklin, </author> <booktitle> "Highly Accurate Data Value Prediction using Hybrid Predictors" ,in Proceedings of the 30th ACM/IEEE Annual International Symposium on Microarchitecture, </booktitle> <pages> pp 281-290, </pages> <year> 1997. </year>
+Reference: [LWS96] <author> M. Lipasti, C. B. WIlkerson and J. P. Shen, </author> <title> "Value Locality and Load Value Prediction", </title> <booktitle> in Proceedings on 8th International Conference on Architectural Support for Programming Languages and Operating Systems, </booktitle> <address> pp138-147, </address> <year> 1996. </year>
+Reference-contexts: The key concept of value locality and load value prediction can be found in <ref> [LWS96] </ref> It is worth mentioning that the Stride predictor we used do not update Stride whenever it gets a miss. This usually results in increased prediction accuracy. Prediction table is implemented as a direct mapped cache in software. The table is thus vulnerable to problems affecting caches too.
+References-found: 6
+

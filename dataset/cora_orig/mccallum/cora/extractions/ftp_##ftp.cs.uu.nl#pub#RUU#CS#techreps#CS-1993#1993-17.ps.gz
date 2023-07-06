@@ -1,0 +1,25 @@
+URL: ftp://ftp.cs.uu.nl/pub/RUU/CS/techreps/CS-1993/1993-17.ps.gz
+Refering-URL: http://www.cs.ruu.nl/docs/research/publication/TechList1.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: Problems in geometric probing. Algorithmica, pages 599-605, 1989. Accessibility analysis for the automatic inspection of
+Author: [] S. S. Skiena. [] S. S. Skiena. [] A. J. Spyridi and A. A. G. Requicha. [] R. H. Taylor, M. T. Mason, and K. Y. Goldberg. [] A. S. Wallack and J. F. Canny. A. S. Wallack and J. F. Canny. 
+Date: August 1987.  September 1991.  March 1992.  
+Affiliation: Geometric probing. PhD thesis, University of Illinois, Dept. of Computer Science,  
+Address: Hill, New York, 1983.  Urbana, Ill., 1988.  
+Note: [28] E. Rich. Artificial Intelligence. series in AI. McGraw  In Fourth International Symposium on Robotics Research,  manuscript,  [35]  (submitted),  23  
+Abstract: 34] A. S. Wallack and J. F. Canny. Object localization using finger gap sensing. Technical Report ESRC 92-3/RAMP 92-2, Univ. of California, Berkeley, Dept. of Computer Science, February 1992. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> R. </author> <title> Bajcsy. Active perception. </title> <booktitle> Proceedings of the IEEE, </booktitle> <volume> 76(8), </volume> <year> 1988. </year>
+Reference: [2] <author> P. Belleville. </author> <title> Probing polygons minimally is hard (extended abstract). </title> <booktitle> In 2nd Canadian Conference on Computational Geometry, </booktitle> <pages> pages 50-53, </pages> <year> 1990. </year>
+Reference: [3] <author> J. D. Boissonnat, D. Devillers, R. Schott, M. Teillaud, and M. Yvinec. </author> <title> Application of random sampling to on-line algorithms in computational geometry. </title> <journal> Discrete and Computational Geometry, </journal> <volume> 8 </volume> <pages> 51-71, </pages> <year> 1992. </year>
+Reference: [4] <author> J. D. Boissonnat and M. Yvinec. </author> <title> Probing a scene of non-convex polyhedra. </title> <journal> Algorithmica, </journal> <volume> 8 </volume> <pages> 321-342, </pages> <year> 1992. </year>
+Reference: [5] <author> R. C. Brost. </author> <title> Automatic grasp planning in the presence of uncertainty. </title> <journal> The International Journal of Robotics Research, </journal> <volume> 8(1), </volume> <month> February </month> <year> 1988. </year>
+Reference: [6] <author> J. F. Canny and K. Y. Goldberg. </author> <title> A RISC paradigm for industrial robotics. </title> <type> Technical Report ESRC 93-4/RAMP 93-2, </type> <institution> University of California at Berkeley, Engineering Systems Research Center, </institution> <month> February </month> <year> 1993. </year>
+Reference: [7] <author> Y-B. Chen and D. J. Ierardi. </author> <title> Distinguishing polygons by sensing diameters. </title> <type> Technical Report USC-CS-92-503, </type> <institution> University of Southern California, Dept. of Computer Science, </institution> <month> December </month> <year> 1991. </year>
+Reference: [8] <author> K. L. Clarkson and P. W. Shor. </author> <title> Applications of random sampling in computational geometry, II. </title> <journal> Discrete and Computational Geometry, </journal> <volume> 4 </volume> <pages> 387-421, </pages> <year> 1989. </year>
+Reference: [9] <author> R. Cole and C. K. Yap. </author> <title> Shape from probing. </title> <journal> Journal of Algorithms, </journal> <volume> 8(1) </volume> <pages> 19-38, </pages> <year> 1987. </year>
+Reference: [10] <author> D. P. Dobkin, H. Edelsbrunner, and C. K. Yap. </author> <title> Probing convex polytopes. </title> <booktitle> In Symposium on Theory of Computing (STOC), </booktitle> <pages> pages 424-432. </pages> <publisher> ACM, </publisher> <year> 1986. </year>
+
+References-found: 10
+

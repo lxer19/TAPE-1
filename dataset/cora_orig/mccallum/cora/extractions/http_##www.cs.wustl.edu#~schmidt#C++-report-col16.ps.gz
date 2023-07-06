@@ -1,0 +1,23 @@
+URL: http://www.cs.wustl.edu/~schmidt/C++-report-col16.ps.gz
+Refering-URL: http://www.cs.wustl.edu/~schmidt/resume.html
+Root-URL: http://www.cs.wustl.edu
+Email: schmidt@cs.wustl.edu vinoski@iona.com  
+Title: Object Interconnections Programming Asynchronous Method Invocations with CORBA Messaging (Column 16)  
+Author: Douglas C. Schmidt Steve Vinoski 
+Note: This column will appear in the February 1999 issue of the SIGS C++ Report magazine.  
+Address: St. Louis, MO 63130 60 Aberdeen Ave., Cambridge, MA 02138  
+Affiliation: Department of Computer Science IONA Technologies, Inc. Washington University,  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <institution> Object Management Group, </institution> <note> CORBA Messaging Specification, OMG Document orbos/98-05-05 ed., </note> <month> May </month> <year> 1998. </year>
+Reference-contexts: 1 Introduction Welcome to our continuing coverage of asynchronous messaging and the new CORBA Messaging specification <ref> [1] </ref>. Our previous column presented an overview of the specification. It also outlined how the Messaging specification alleviates the tedium of programming with deferred synchronous operations via the Dynamic Invocation Interface (DII) and avoids the weak reliability semantics of oneway operations.
+Reference: [2] <institution> Object Management Group, Objects-by-Value, OMG Document orbos/98-01-18 ed., </institution> <month> January </month> <year> 1998. </year>
+Reference-contexts: This column illustrates how to write CORBA applications using the two AMI programming models: Polling model: In this model, each asynchronous two-way invocation returns a Poller valuetype, which is a new IDL type introduced by the new Objects-by-Value (OBV) specification <ref> [2] </ref>. A valuetype is very much like a C++ or Java class in that it has both data members and methods, which when invoked are just local C++ member function calls and not distributed CORBA operation invocations.
+Reference: [3] <author> T. H. Harrison, D. L. Levine, and D. C. Schmidt, </author> <title> The Design and Performance of a Real-time CORBA Event Service, </title> <booktitle> in Proceedings of OOPSLA '97, </booktitle> <address> (Atlanta, GA), </address> <publisher> ACM, </publisher> <month> October </month> <year> 1997. </year>
+Reference-contexts: While the calling thread is blocked waiting for each response, there is nothing else that it can do. Moreover, if the client is single-threaded, this means that the whole process is blocked while waiting for each reply. Many types of applications, particularly real-time applications that monitor embedded control systems <ref> [3] </ref>, cannot afford to block an entire process while waiting for a reply.
+Reference: [4] <author> D. Schmidt and S. Vinoski, </author> <title> Distributed Callbacks and Decoupled Communication in CORBA, </title> <journal> C++ Report, </journal> <volume> vol. 8, </volume> <month> October </month> <year> 1996. </year>
+Reference-contexts: It also allows single-threaded applications to avoid blocking while waiting for responses. This feature potentially makes programming easier and avoids the need to determine the best threading model to use for the application. We described problems with callback-based servers in a previous column <ref> [4] </ref>. For instance, we pointed out problems with distributed callbacks that are caused by the server having to manage and keep track of many callback objects, their registrations, and the data sent to them.
+Reference: [5] <author> D. C. Schmidt and C. D. Cranor, Half-Sync/Half-Async: </author> <title> an Architectural Pattern for Efficient and Well-structured Concurrent I/O, in Pattern Languages of Program Design (J. </title> <editor> O. Coplien, J. Vlissides, and N. Kerth, eds.), </editor> <address> Reading, MA: </address> <publisher> Addison-Wesley, </publisher> <year> 1996. </year> <month> 6 </month>
+Reference-contexts: Therefore, despite being simpler than the equivalent DII code, the AMI programming model is not as simple as that of synchronous invocations. In fact, asynchronous applications can be difficult to understand and maintain because their code structures do not represent their calling patterns <ref> [5] </ref>. In addition, handling exceptions by writing separate methods is nonintuitive. 3 Concluding Remarks This column illustrated how to write C++ programs that use the polling and callback models defined in the asynchronous method invocation (AMI) section of the new CORBA Messaging specification.
+References-found: 5
+

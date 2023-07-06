@@ -1,0 +1,13 @@
+URL: http://www-graphics.stanford.edu/software/vrip/vrip_guide.ps.gz
+Refering-URL: http://www-graphics.stanford.edu/software/vrip/
+Root-URL: http://www.cs.stanford.edu
+Title: VripPack User's Guide enough to get you started trying out the vrip package. Finally, you
+Author: Brian Curless 
+Note: These notes are under construction, but should be  setenv TK_4_1_LIBRARY your_root/vrippack/lib/tk4.1  
+Date: October 21, 1996  
+Affiliation: Stanford University  
+Abstract: 1 Before you begin Before you get started, you will need to set up some environment variables. These environment variables are typically set in your .cshrc. If we call the place where you unpack vrippack the your root directory, then you will need to set: setenv VRIP_DIR your_root/vrippack/pkg/vrip setenv PLYVIEW_DIR your_root/vrippack/pkg/plyview In addition, the tcl and tk library scripts must be made known to the software. There are so many releases of tcl/tk floating about, that we have provided a copy of the library scripts and a special pair of environment variables to point to them: 2 Configuring for your range scanner Before performing any operations on range data, the vrip progam first sources the Tcl code contained in the file .vriprc in you home directory. It is here that you will place a few commands to configure the system for your range scanner. These commands will provide parameters to vrip; to see what the parameter names and their values, you can type vrip followed by the command vrip_param (without arguments). We will describe many of these parameters in this section and the next. The remaining parameters are experimental, and we recommend that you do not tamper with their values. setenv TCL_7_5_LIBRARY your_root/vrippack/lib/tcl7.5
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

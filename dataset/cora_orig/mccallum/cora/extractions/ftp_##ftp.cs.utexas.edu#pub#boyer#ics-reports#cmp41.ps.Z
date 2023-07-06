@@ -1,0 +1,15 @@
+URL: ftp://ftp.cs.utexas.edu/pub/boyer/ics-reports/cmp41.ps.Z
+Refering-URL: ftp://ftp.cs.utexas.edu/pub/boyer/ics-reports/index.html
+Root-URL: 
+Phone: (512) 471-1901  
+Address: 2100 Main Building  Austin, Texas 78712  
+Affiliation: Institute for Computing Science  The University of Texas at Austin  
+Date: March 1, 1984  February 15-16, 1984  
+Note: Donald I. Good  Presented at a Meeting for Discussion of Mathematical Logic and Programming Languages The Royal Society of London  
+Abstract: Mechanical Proofs about Computer Programs Technical Report #41 
+Abstract-found: 1
+Intro-found: 1
+Reference: [Akers 83] <institution> Robert Lawrence Akers. </institution>
+Reference-contexts: The parser transforms Gypsy text into an internal form for storage in the library. The pretty printer transforms the internal form back into parsable Gypsy text. The interpreter, compiler [Smith 80] and Ada translator <ref> [Akers 83] </ref> also are fairly conventional tools for running Gypsy programs. Although the interpreter would be a very useful debugging tool, it is not well developed and it is not presently available.
+References-found: 1
+

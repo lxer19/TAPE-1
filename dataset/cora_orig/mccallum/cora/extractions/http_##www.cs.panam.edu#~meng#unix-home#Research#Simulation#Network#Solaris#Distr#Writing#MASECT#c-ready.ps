@@ -1,0 +1,28 @@
+URL: http://www.cs.panam.edu/~meng/unix-home/Research/Simulation/Network/Solaris/Distr/Writing/MASECT/c-ready.ps
+Refering-URL: http://www.cs.panam.edu/~meng/unix-home/Research/Simulation/Network/Solaris/Distr/Writing/MASECT/
+Root-URL: http://www.cs.panam.edu
+Email: meng@panam.edu  
+Title: Synchronizations And Rollbacks In Optimistic Distributed Simulation Scheme  
+Author: Xiannong Meng 
+Keyword: Key words: parallel and distributed simulation, discrete event simulation, synchronization  
+Address: Edinburg, TX 78539  
+Affiliation: Department of Mathematics and Computer Science University of Texas Pan American  
+Abstract: This paper describes a study of coordination issues in optimistic distributed simulations that are implemented over a loosely coupled environment. Detailed study of relations among the factors such as the number, the depth and the frequency of rollbacks, the event intensity, and the speedup of the distributed simulations are studied. This study shows that centralized coordination can perform very effectively in certain types of simulation tasks; the rollbacks have different characteristics at different event intensities; and how the overall performance of optimistic distributed simulations is affected by message intensity, communications overhead, and rollback frequency. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Baker, D., Hauser, J., and Thoet, W. </author> <year> (1988). </year> <title> A distributed simulation and prototyping testbed for radio communication networks. </title> <journal> IEEE Journal on Selected Areas in Communications, </journal> <volume> 6(1). </volume>
+Reference: <author> Carothers, C., Fujimoto, R., and England, P. </author> <year> (1994). </year> <title> Effect of communication overheads on time warp performance: An experimental study. </title> <booktitle> In Proceedings of 1994 PADS Workshop. </booktitle>
+Reference: <author> Chai, A. and Ghosh, S. </author> <year> (1993). </year> <title> Modeling and distributed simulation of a broadband-isdn network. </title> <journal> IEEE Computer, </journal> <volume> 26(9). </volume>
+Reference: <author> Chandy, K., Holmes, V., and Misra, J. </author> <year> (1979). </year> <title> Distributed simulation of networks. </title> <booktitle> Computer Networks, </booktitle> <pages> 3. </pages>
+Reference-contexts: Carothers et.al. (1994) studied explicitly the effect of communication overheads on the Time Warp performance. The study of distributed simulation of computer networks can be traced back to as early as late 1970s <ref> (Chandy et. al, 1979) </ref>. Ferscha & Tripathi (1994) listed a brief survey of different mechanisms used to calculate GVC.
+Reference: <author> Ferscha, A. and Tripathi, S. K. </author> <year> (1994). </year> <title> Parallel and distributed simulation of discrete systems. </title> <type> TR CS-TR-3336, </type> <institution> University of Maryland, Computer Science Department, University of Maryland, College Park, MD 20742. </institution>
+Reference-contexts: A key to the success of a distributed simulation is how to coordinate all participating agents. Typically in optimistic PADS, each agent proceeds at its own pace. If an external, out-of-chronological-order event (straggler) <ref> (Ferscha & Tripathi, 1994) </ref> is received by an agent, the agent performs a rollback by canceling all events generated after the timestamp of the straggler at this agent. This rollback may trigger more rollbacks on other agents. <p> A GVC is defined as the minimum value of timestamps of all events including transit events in the system (for a general discussion of GVC, see, for example Ferscha & Tripathi (1994) ). There are different ways of calculating GVC <ref> (Ferscha & Tripathi, 1994) </ref>, decentralized or centralized. The use of a bus LP enables centralized calculation of GVC in our simulation. The protocol of calculating GVC is the following.
+Reference: <author> Fujimoto, R. </author> <year> (1990). </year> <title> Parallel discrete event simulation. </title> <journal> Communications of ACM, </journal> <volume> 33(10). </volume>
+Reference: <author> Lin, Y.-B. and Fishwick, P. A. </author> <year> (1995). </year> <title> Asynchronous parallel discrete event simulation. </title> <type> TR tr95-005.ps, </type> <institution> Unviersity of Florida, Department of Computer and Information Sciences, University of Florida, Gainesville, Florida. </institution>
+Reference: <author> Meng, X. </author> <year> (1995). </year> <title> Distributed simulation in a loosely coupled environment using the tcp/ip protocol. </title> <booktitle> In Proceedings of the Fourteenth Annual International Pheonix Conference on Computer and Communications, </booktitle> <pages> pages 122-127. </pages>
+Reference: <author> Misra, J. </author> <year> (1986). </year> <title> Distributed discrete-event simulation. Computing Survey, </title> <type> 18(1). </type>
+Reference: <author> Mouftah, H. and Sturgeon, R. </author> <year> (1990). </year> <title> Distributed discrete event simulation for communication networks. </title> <journal> IEEE Journal on Selected Areas in Communications, </journal> <volume> 8(9). </volume>
+Reference: <author> Nicol, D. and Fujimoto, R. </author> <year> (1992). </year> <title> Parallel simulation today. </title> <type> tech report pdes-survey, </type> <institution> College of William & Mary, Department of Computer Science, College of William & Mary, </institution> <address> Williamsburg, VA 23187. </address>
+Reference: <author> Righter, R. and Walrand, J. </author> <year> (1989). </year> <title> Distributed simulation of discrete event systems. </title> <booktitle> Proceedings of the IEEE, </booktitle> <pages> 77(1). </pages>
+References-found: 12
+

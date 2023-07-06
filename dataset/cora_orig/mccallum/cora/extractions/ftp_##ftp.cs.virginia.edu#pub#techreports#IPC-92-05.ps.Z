@@ -1,0 +1,22 @@
+URL: ftp://ftp.cs.virginia.edu/pub/techreports/IPC-92-05.ps.Z
+Refering-URL: ftp://ftp.cs.virginia.edu/pub/techreports/README.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: Storage of Numeric Data in ADAMS  
+Author: Russell F. Haddleton 
+Note: This research was supported in part by DOE Grant #DE-FG05-88ER25063 and JPL Contract #957721  
+Address: Charlottesville, VA 22901  
+Affiliation: Institute for Parallel Computation School of Engineering and Applied Science University of Virginia  
+Date: August 10, 1992  
+Pubnum: IPC-TR-92-005  
+Abstract-found: 0
+Intro-found: 0
+Reference: [HeP90] <author> D. Patterson and J. Hennessy, </author> <title> Computer architecture: </title> <publisher> a quantitative approach (Morgan Kaufmann Publishers, Inc. </publisher> <address> San Mateo, CA 1990). </address>
+Reference-contexts: Over our 4-bit example exponent range the lowest bit string lexicographically is 0000 while the highest is 1111. Our values, on the other hand, range from a low of 1000 (-8 in twos complement) to a high of 0111 (7). Adding a fixed bias to all exponents <ref> [HeP90] </ref> provides a simple order-preserving linear mapping from our value range into our lexicographic range. This is part of the IEEE 754 oating point standard. <p> Unless otherwise stated we will assume a SUN processing environment. The numeric format discussed is well suited for conversion into the double format found in SUNs C data representations. The system can be ported to different platforms, and any platform using the IEEE 754 oating-point standard <ref> [HeP90] </ref> will allow straightforward conversion. The SUN C format for doubles [SUN90]is: 0 bit: The sign bit. 1 for negative, 0 for positive 1-12 bits: The exponent. Biased by 1023. 13-63 bits: The mantissa. A 1 is assumed to be in the first bit, and is not stored.
+Reference: [OrP88] <editor> R. Orlandic and John Pfaltz,Compact 0-Complete Trees, </editor> <booktitle> Proceedings of the 14th VLDB Conference, </booktitle> <address> Los Angeles, CA.(1988). </address>
+Reference-contexts: Long fixed-length keys may result in large indexes. Variable length keys lead to relatively slow search times. The ADAMS system uses a related but more advanced index structure known as an O-tree <ref> [OrP88] </ref>. Rather than storing keys at each level in an O-tree, 8-bit surrogates known as bounding node depths are stored. The smaller entry size leads to larger fan-out, while fixing the size of internal node entries and in so doing making the node structure less chaotic.
+Reference: [Sal88] <author> B. Salzberg, </author> <title> File structures: an analytic approach (Prentice-Hall, </title> <publisher> Inc. </publisher> <address> Englewood Cliffs, NJ, </address> <year> 1988). </year>
+Reference-contexts: ADAMS excels in this area, primarily because it employs sophisticated tree search. B. Tree Search B+-trees are frequently used to index large files <ref> [Sal88] </ref>. While they provide reasonable access time, there are undesirable characteristics. In particular, search requires in-memory comparison of the search key with individual item keys. This is due to the fact that the key values are not necessarily maintained in the tree in a bit-wise lexicographic order.
+Reference: [SUN90] <institution> Programmers Language Guides, SUN Microsystems, Inc. </institution> <year> (1990) </year>
+Reference-contexts: On a typical platform, such as a SUN workstation, 8 exponent bits and 23 mantissa bits are used to represent a C oat <ref> [SUN90] </ref>.
+References-found: 4
+

@@ -1,0 +1,27 @@
+URL: http://www.ai.mit.edu/people/davec/sym.ps.Z
+Refering-URL: http://www.ai.mit.edu/people/davec/davec.html
+Root-URL: 
+Email: sethb@cogs.susx.ac.uk, davec@cogs.susx.ac.uk  
+Title: The Role of `Hidden Preferences' in the Artificial Co-evolution of Symmetrical Signals  
+Author: Seth Bullock and Dave Cliff 
+Address: Brighton, BN1 9QH, U.K.  
+Affiliation: School of Cognitive and Computing Sciences University of Sussex,  
+Abstract: Recently, within the biology literature, there has been some interest in exploring the evolutionary function of animal displays through computer simulations of evolutionary processes. Here we provide a critique of an exploration of the evolutionary function of complex symmetrical displays. We investigate the hypothesis that complex symmetrical signal form is the product of a `hidden preference' inherent in all sensory systems (i.e. a universal sensory bias). Through extending previous work and relaxing its assumptions we reveal that the posited `hidden preference' for complex symmetry is in reality a preference for homogeneity. The resulting implications for further accounts of the evolutionary function of complex symmetrical patterning are considered. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Arak, A., & Enquist, M. </author> <year> (1993). </year> <title> Hidden preferences and the evolution of signals. </title> <journal> Phil. Trans. R. Soc. Lond. B, </journal> <volume> 340, 207 - 213. </volume>
+Reference: <author> Arak, A., & Enquist, M. </author> <year> (1995a). </year> <title> Conflict, receiver bias and the evolution of signal form. </title> <journal> Phil. </journal>
+Reference: <author> Trans. R. </author> <title> Soc. </title> <journal> Lond. B, </journal> <volume> 349, 337 - 344. </volume>
+Reference: <author> Arak, A., & Enquist, M. </author> <year> (1995b). </year> <title> (reply to Cook). </title> <journal> Nature, </journal> <volume> 374, </volume> <pages> 313-314. </pages>
+Reference: <author> Cook, N. D. </author> <year> (1995). </year> <title> Artefact or network evolution. </title> <journal> Nature, </journal> <volume> 374, </volume> <pages> 313. </pages>
+Reference: <author> Dawkins, M. S., & Guilford, T. </author> <year> (1995). </year> <title> An exaggerated preference for simple neural network models of signal evolution?. </title> <journal> Proc. R. Soc. Lond. B, </journal> <volume> 261, 357 - 360. </volume>
+Reference: <author> Enquist, M., & Arak, A. </author> <year> (1993). </year> <title> Selection of exaggerated male traits by female aesthetic senses. </title> <journal> Nature, </journal> <volume> 361, 446 - 448. </volume>
+Reference: <author> Enquist, M., & Arak, A. </author> <year> (1994). </year> <title> Symmetry, beauty and evolution. </title> <journal> Nature, </journal> <volume> 372, 169 - 172. </volume>
+Reference-contexts: Some debate has accompanied this work (Cook, 1995; Johnstone, 1995; Arak & Enquist, 1995b; Dawkins & Guilford, 1995) but attention to the methodology employed within it has been cursory. Here we replicate, discuss, and extend an evolutionary simulation model <ref> (Enquist & Arak, 1994) </ref> concerned with the evolutionary function of naturally occurring symmetrical visual displays (e.g. the complex symmetrical patterns found on the wings of many birds).
+Reference: <author> Hurd, P. L., Wachtmeister, C.-A., & Enquist, M. </author> <year> (1995). </year> <title> Darwin's principle of antithesis revisited: a role for perceptual biases in the evolution of intraspecific signals. </title> <journal> Proc. R. Soc. Lond. B, </journal> <volume> 259, 201 - 205. </volume>
+Reference: <author> Johnstone, R. A. </author> <year> (1994). </year> <title> Female preference for symmetrical males as a by-product of selection for mate recognition. </title> <journal> Nature, </journal> <volume> 372, 172 - 175. </volume>
+Reference: <author> Johnstone, R. A. </author> <year> (1995). </year> <title> (reply to Cook). </title> <journal> Nature, </journal> <volume> 374, </volume> <pages> 313. </pages>
+Reference: <author> Osorio, D. </author> <year> (1996). </year> <title> Symmetry detection by cate-gorisation of spatial phase, a model. </title> <journal> Proc. R. Soc. Lond. B, </journal> <volume> 263, 105 - 110. </volume> <pages> 9 </pages>
+Reference-contexts: Furthermore, a sensory bias for homogeneity such as the one considered here would actively resist the evolution of complex patterns (whether symmetrical or not). Despite this negative conclusion alternative hypotheses linking the form of complex patterns to facts about sensory architecture remain healthy <ref> (see Osorio, 1996, for an example of this kind of hypothesis) </ref>. Acknowledgements We thank Anthony Arak, Magnus Enquist, Geof-frey Miller, and Daniel Osorio for discussions, and Marian Dawkins, Henrietta Wilson, and an anonymous reviewer for help with previous drafts of this 8 paper.
+References-found: 12
+

@@ -1,0 +1,25 @@
+URL: ftp://ftp.cs.toronto.edu/pub/pedmonds/papers/edmonds-acl97.ps.gz
+Refering-URL: http://www.cs.toronto.edu/~pedmonds/papers.html
+Root-URL: 
+Email: pedmonds@cs.toronto.edu  
+Title: Choosing the Word Most Typical in Context Using a Lexical Co-occurrence Network  
+Author: Philip Edmonds 
+Address: Toronto, Canada, M5S 3G4  
+Affiliation: Department of Computer Science, University of Toronto  
+Note: In Proceedings of the 35th Annual Meeting of the Association for Computational Linguistics, Madrid, 1997, pp. 507-509.  
+Abstract: This paper presents a partial solution to a component of the problem of lexical choice: choosing the synonym most typical, or expected, in context. We apply a new statistical approach to representing the context of a word through lexical co-occurrence networks. The implementation was trained and evaluated on a large corpus, and results show that the inclusion of second-order co-occurrence relations improves the performance of our implemented lexical choice program.
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Church, Kenneth Ward, William Gale, Patrick Hanks, Donald Hindle, and Rosamund Moon. </author> <year> 1994. </year> <title> Lexical substitutability. </title>
+Reference-contexts: Knowledge-based approaches to representing the potentially subtle differences between synonyms have suffered from a serious lexical acquisition bottleneck (Di-Marco, Hirst, and Stede, 1993; Hirst, 1995). Statistical approaches, which have sought to explicitly represent differences between pairs of synonyms with respect to their occurrence with other specific words <ref> (Church et al., 1994) </ref>, are inefficient in time and space. This paper presents a new statistical approach to modeling context that provides a preliminary solution to an important sub-problem, that of determining the near-synonym that is most typical, or expected, if any, in a given context. <p> We use the intersection of two well-known measures of significance, mutual information scores and t-scores <ref> (Church et al., 1994) </ref>, to determine if a (first-order) co-occurrence relation should be included in the network; however, we use just the t-scores in computing significance scores for all the relations.
+Reference: <editor> In B.T.S. Atkins and A. Zampolli, editors, </editor> <title> Computational Approaches to the Lexicon. </title> <publisher> Oxford University Press, </publisher> <pages> pages 153-177. </pages>
+Reference: <author> DiMarco, Chrysanne, Graeme Hirst, and Manfred Stede. </author> <year> 1993. </year> <title> The semantic and stylistic differentiation of synonyms and near-synonyms. </title> <booktitle> In AAAI Spring Symposium on Building Lexicons for Machine Translation, </booktitle> <pages> pages 114-121, </pages> <address> Stanford, CA, </address> <month> March. </month>
+Reference: <author> Elhadad, Michael. </author> <year> 1992. </year> <title> Using Argumentation to Control Lexical Choice: A Functional Unification Implementation. </title> <type> Ph.D. thesis, </type> <institution> Columbia University. </institution>
+Reference: <author> Golding, Andrew R. and Yves Schabes. </author> <year> 1996. </year> <title> Combining trigram-based and feature-based methods for context-sensitive spelling correction. </title> <booktitle> In Proceedings of the 34th Annual Meeting of the Association for Computational Linguistics. </booktitle>
+Reference: <author> Hirst, Graeme. </author> <year> 1995. </year> <title> Near-synonymy and the structure of lexical knowledge. </title> <booktitle> In AAAI Symposium on Representation and Acquisition of Lexical Knowledge: Polysemy, Ambiguity, and Generativity, </booktitle> <pages> pages 51-56, </pages> <address> Stanford, CA, </address> <month> March. </month>
+Reference: <author> Karow, Yael and Shimon Edelman. </author> <year> 1996. </year> <title> Learning similarity-based word sense disambiguation from sparse data. </title> <booktitle> In Proceedings of the Fourth Workshop on Very Large Corpora, </booktitle> <address> Copenhagen, </address> <month> August. </month>
+Reference: <author> Ng, Hwee Tou and Hian Beng Lee. </author> <year> 1996. </year> <title> Integrating multiple sources to disambiguate word sense: An exemplar-based approach. </title> <booktitle> In Proceedings of the 34th Annual Meeting of the Association for Computational Linguistics. </booktitle>
+Reference: <author> Stede, Manfred. </author> <year> 1996. </year> <title> Lexical Semantics and Knowledge Representation in Multilingual Sentence Generation. </title> <type> Ph.D. thesis, </type> <institution> University of Toronto. </institution>
+Reference: <author> Yarowsky, David. </author> <year> 1992. </year> <title> Word-sense disambiguation using statistical models of Roget's categories trained on large corpora. </title> <booktitle> In Proceedingsof the 14th International Conference on Computational Linguistics (COLING-92), </booktitle> <pages> pages 454-460. </pages>
+References-found: 10
+

@@ -1,0 +1,23 @@
+URL: ftp://info.mcs.anl.gov/pub/tech_reports/reports/ANL9246.ps.Z
+Refering-URL: http://www.mcs.anl.gov/publications/abstracts/abstracts93.htm
+Root-URL: http://www.mcs.anl.gov
+Title: Scalable Library Software for the Parallel Solution of Sparse Linear Systems  
+Author: Mark T. Jones and Paul E. Plassmann 
+Note: This work was supported by the Office of Scientific Computing, U.S. Department of Energy, under Contract W-31-109-Eng-38.  
+Date: BlockSolve v1.1:  
+Address: 9700 South Cass Avenue Argonne, Illinois 60439  
+Affiliation: ARGONNE NATIONAL LABORATORY  
+Abstract: Mathematics and Computer Science Division Report ANL-92/46 December 1992 ABSTRACT BlockSolve is a software library for solving large, sparse systems of linear equations on massively parallel computers. The matrices must be symmetric, but may have an arbitrary sparsity structure. BlockSolve is a portable package that is compatible with several different message-passing pardigms. This report gives detailed instructions on the use of BlockSolve in applications programs. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> R. Butler and E. Lusk. </author> <title> Private communication, </title> <year> 1991. </year>
+Reference-contexts: It runs on a variety of parallel architectures and can easily be ported to others. BlockSolve utilizes the Chameleon package [3] to achieve portability across architectures and compatibility with message-passing paradigms such as p4 <ref> [1] </ref> and PVM [8], as well as the message-passing primitives available on architectures such as the Intel iPSC/860.
+Reference: [2] <author> G. H. Golub and C. F. V. Loan, </author> <title> Matrix Computations, </title> <publisher> The Johns Hopkins University Press, </publisher> <address> Baltimore, MD, </address> <year> 1983. </year>
+Reference-contexts: For basic information on these algorithms, we refer the reader to <ref> [2] </ref>. One important note is that the SYMMLQ algorithm requires a positive definite preconditioner, and this requirement can be a serious limitation if the matrix being solved is very indefinite. 1 The user has the option of selecting a combination of four preconditioners.
+Reference: [3] <author> W. Gropp. </author> <title> Private communication, </title> <year> 1992. </year>
+Reference-contexts: 1 Introduction BlockSolve is a scalable parallel software library for the solution of large sparse, symmetric systems of linear equations. It runs on a variety of parallel architectures and can easily be ported to others. BlockSolve utilizes the Chameleon package <ref> [3] </ref> to achieve portability across architectures and compatibility with message-passing paradigms such as p4 [1] and PVM [8], as well as the message-passing primitives available on architectures such as the Intel iPSC/860.
+
+Reference: [8] <author> V. S. Sunderam, </author> <title> PVM: A framework for parallel distributed computing, </title> <journal> Con-currency: Practice and Experience, </journal> <volume> 2 (1990), </volume> <pages> pp. 315-339. 14 </pages>
+Reference-contexts: It runs on a variety of parallel architectures and can easily be ported to others. BlockSolve utilizes the Chameleon package [3] to achieve portability across architectures and compatibility with message-passing paradigms such as p4 [1] and PVM <ref> [8] </ref>, as well as the message-passing primitives available on architectures such as the Intel iPSC/860.
+References-found: 4
+

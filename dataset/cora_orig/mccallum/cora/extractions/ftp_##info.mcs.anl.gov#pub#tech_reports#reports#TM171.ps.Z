@@ -1,0 +1,17 @@
+URL: ftp://info.mcs.anl.gov/pub/tech_reports/reports/TM171.ps.Z
+Refering-URL: http://www.mcs.anl.gov/publications/abstracts/abstracts93.htm
+Root-URL: http://www.mcs.anl.gov
+Title: A Toolkit for Building Earth System Models  
+Author: by Ian Foster 
+Note: This work was supported by the Office of Scientific Computing, U.S. Department of Energy, under Contract W-31-109-Eng-38.  
+Date: March 1993  
+Web: ANL/MCS-TM-171  
+Address: 9700 South Cass Avenue Argonne, IL 60439  
+Affiliation: ARGONNE NATIONAL LABORATORY  Mathematics and Computer Science Division  
+Pubnum: Technical Memorandum No. 171  
+Abstract-found: 0
+Intro-found: 0
+Reference: [1] <author> Foster, I., and Chandy, K. M., </author> <title> Fortran M: A language for modular parallel programming, </title> <type> Preprint, </type> <institution> Argonne National Laboratory, Argonne, </institution> <address> IL 60439, </address> <year> 1992. </year> <month> 7 </month>
+Reference-contexts: The process coupled model couples this process with an ocean model. A complete description of Fortran M is provided in a separate document <ref> [1] </ref>. 3.2 Compatability Libraries A compatability library allows a program written in a foreign parallel programming language such as Fortran+NX, Fortran+PICL, C+p4, PCN, or HPF to be invoked as a process in a Fortran M program.
+References-found: 1
+

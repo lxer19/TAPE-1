@@ -1,0 +1,12 @@
+URL: http://www.cs.ucsd.edu/users/goguen/ps/coh.ps.gz
+Refering-URL: http://www.cs.ucsd.edu/users/goguen/new.html
+Root-URL: http://www.cs.ucsd.edu
+Title: Hidden Congruent Deduction  
+Author: Grigore Ro~su and Joseph Goguen 
+Affiliation: Department of Computer Science Engineering University of California at San Diego  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> Rod Burstall and Razvan Diaconescu. </author> <title> Hiding and behaviour: an institutional approach. </title> <editor> In A. William Roscoe, </editor> <publisher> editor, </publisher>
+Reference-contexts: We believe hidden algebra is the natural next step in the evolution of algebraic semantics and its first order proof technology. Hidden algebra originated in [4], and developed further in <ref> [5, 6, 1, 8, 3] </ref> among other places; the most comprehensive survey currently available is [8]. Proofs by coinduction are dual to proofs by induction, in that the former are based on a largest congruence, and the latter on a smallest subalgebra (e.g., see [8]).
+References-found: 1
+

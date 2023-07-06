@@ -1,0 +1,18 @@
+URL: ftp://vibes.cs.uiuc.edu/pub/Pablo.Release.5/Documentation/MPIextension.ps.gz
+Refering-URL: http://vibes.cs.uiuc.edu/Publications/Documents/documents.htm
+Root-URL: http://www.cs.uiuc.edu
+Title: Pablo MPI Instrumentation User's Guide  
+Author: Huseyin Simit~ci 
+Date: June 23, 1996  
+Address: Urbana,Illinois 61801  
+Affiliation: Department of Computer Science University of Illinois  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> Message Passing Interface Forum, </author> <title> "MPI: A message-passing interface standard," </title> <institution> Computer Science Dept. </institution> <type> Technical Report CS-94-230, </type> <institution> University of Tennessee, Knoxville, TN, </institution> <year> 1994. </year>
+Reference-contexts: 1 Introduction This document explains the usage of the Pablo instrumented profiling library for parallel programs written using the Message Passing Interface (MPI) Standard <ref> [1] </ref>. MPI defines a profiling interface which provides a mechanism through which all of the MPI defined functions may be accessed with a name shift.
+Reference: [2] <author> Daniel A. Reed, Ruth A. Aydt, Roger J. Noe, Phillip C. Roth, Keith A. Shields, Bradley Schwartz, and Luis F. Tavera, </author> <title> "Scalable Performance Analysis: The Pablo Performance Analysis Environment," </title> <editor> In Anthony Skjellum, editor, </editor> <booktitle> Proceedings of the Scalable Parallel Libraries Conference, IEEE Computer Society, </booktitle> <year> 1993. </year>
+Reference-contexts: Every MPI process will output a trace file with a name obtained by concatenating the program name with the process number as follows: (program name)_ (process number).bin Then you can inspect the SDDF trace records with performance evaluation and visualization software you have ( e.g. Pablo Performance Analysis Environment <ref> [2] </ref>). 3 2.2 Trace Control MPI includes a routine, MPI Pcontrol, to control profiling. You can use this routine to enable and disable tracing on portions of your programs.
+Reference: [3] <author> Ruth A. Aydt, </author> <title> "The Pablo Self-Defining Data Format," </title> <institution> Department of Computer Science, University of Illinois at Urbana-Champaign, </institution> <year> 1994. </year> <month> 5 </month>
+Reference-contexts: If the source code is also available, Pablo's other extensive performance instrumentation capabilities can be utilized, too. Several trace records are defined to capture the timing and parameter information of the MPI routines using the Pablo Self-Describing Data Format (SDDF) <ref> [3] </ref>. SDDF is a trace description language that specifies both the structure of data records and data record instances. Pablo trace library has been designed to reduce the likelihood of malignant perturbations by monitoring and dynamically altering the volume, frequency, and types of event data recorded.
+References-found: 3
+

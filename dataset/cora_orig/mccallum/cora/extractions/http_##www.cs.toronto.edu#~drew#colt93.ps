@@ -1,0 +1,23 @@
+URL: http://www.cs.toronto.edu/~drew/colt93.ps
+Refering-URL: http://www.cs.toronto.edu/~delve/methods/mlp-mdl-3h/home.html
+Root-URL: 
+Title: Keeping Neural Networks Simple by Minimizing the Description Length of the Weights  
+Author: Geoffrey E. Hinton and Drew van Camp 
+Address: Toronto 10 King's College Road Toronto M5S 1A4, Canada  
+Affiliation: Department of Computer Science University of  
+Abstract: Supervised neural networks generalize well if there is much less information in the weights than there is in the output vectors of the training cases. So during learning, it is important to keep the weights simple by penalizing the amount of information they contain. The amount of information in a weight can be controlled by adding Gaussian noise and the noise level can be adapted during learning to optimize the trade-off between the expected squared error of the network and the amount of information in the weights. We describe a method of computing the derivatives of the expected squared error and of the amount of information in the noisy weights in a network that contains a layer of non-linear hidden units. Provided the output units are linear, the exact derivatives can be computed efficiently without time-consuming Monte Carlo simulations. The idea of minimizing the amount of information that is required to communicate the weights of a neural network leads to a number of interesting schemes for encoding the weights.
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Hinton, G. E. </author> <title> (1987) Learning translation invariant recognition in a massively parallel network. </title> <editor> In Goos, G. and Hartmanis, J., editors, </editor> <booktitle> PARLE: Parallel Architectures and Languages Europe, </booktitle> <pages> pages 1-13, </pages> <booktitle> Lecture Notes in Computer Science, </booktitle> <publisher> Springer-Verlag, </publisher> <address> Berlin. </address>
+Reference-contexts: This is just the standard "weight-decay" method. The fact that weight-decay improves generalization <ref> (Hinton, 1987) </ref> can therefore be viewed as a vindication of this crude MDL approach in which the standard deviations of the gaussians used for coding the data misfits and the weights are both fixed in advance. 2 An elaboration of standard weight-decay is to assume that the distribution of weights in
+Reference: <author> Lang, K., Waibel, A. and Hinton, G. E. </author> <title> (1990) A Time-Delay Neural Network Architecture for Isolated Word Recognition. </title> <booktitle> Neural Networks, </booktitle> <volume> 3, </volume> <pages> 23-43. </pages>
+Reference: <author> Le Cun, Y., Boser, B., Denker, J. S., Henderson, D., Howard, R. E., Hubbard, W. and Jackel, L. D. </author> <title> (1989) Back-Propagation Applied to Handwritten Zip-code Recognition. </title> <journal> Neural Computation, </journal> <volume> 1, </volume> <pages> 541-551. </pages>
+Reference: <author> Mackay, D. J. C. </author> <title> (1992) A practical Bayesian framework for backpropagation networks. </title> <journal> Neural Computation, </journal> <volume> 4, </volume> <pages> 448-472. </pages>
+Reference: <author> Neal, R. M. </author> <title> (1993) Bayesian learning via stochastic dynamics. </title> <editor> In Giles, C. L., Hanson, S. J. and Cowan, </editor> <publisher> J. </publisher>
+Reference: <editor> D. (Eds), </editor> <booktitle> Advances in Neural Information Processing Systems 5, </booktitle> <publisher> Morgan Kaufmann, </publisher> <address> San Mateo CA. </address>
+Reference: <author> Nowlan. S. J. and Hinton, G. E. </author> <title> (1992) Simplifying neural networks by soft weight sharing. </title> <journal> Neural Computation, </journal> <volume> 4, </volume> <pages> 173-193. </pages>
+Reference-contexts: Rather than guessing this ratio, it is usually better to estimate it by seeing which ratio gives optimal performance on a validation set. <ref> (Nowlan and Hinton, 1992) </ref>. For some tasks this more elaborate way of coding the weights gives considerably better generalization. This is especially true when only a small number of different weight values are required.
+Reference: <author> Rissanen, J. </author> <title> (1986) Stochastic Complexity and Modeling. </title> <journal> Annals of Statistics, </journal> <volume> 14, </volume> <pages> 1080-1100. </pages>
+Reference-contexts: So we need some way of deciding when extra complexity in the model is not worth the improvement in the data-fit. The Minimum Description Length Principle <ref> (Rissanen, 1986) </ref> asserts that the best model of some data is the one that minimizes the combined cost of describing the model and describing the misfit between the model and the data.
+References-found: 8
+

@@ -1,0 +1,31 @@
+URL: http://www.cs.umn.edu/Users/dept/users/hsieh/af-lane.r9.part1.ps.gz
+Refering-URL: http://www.cs.umn.edu/Users/dept/users/hsieh/
+Root-URL: http://www.cs.umn.edu
+Title: ATM_FORUM 94-0035R9 ATM Forum LAN Emulation Over ATM Specification Version 1.0 LAN Emulation SWG Drafting Group  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> McQuillan Consulting, </author> <title> Early Adopters of ATM - A Report to the ATM Forum, </title> <month> June, </month> <year> 1993. </year> <title> [2] 3COM/Microsoft, LAN Manager: Network Driver Interface Specification, </title> <month> October 8, </month> <year> 1990. </year>
+Reference-contexts: The LAN Emulation service will be important to the acceptance of ATM, since it provides a simple and easy means for running existing LAN applications in the ATM environment. Networking customers have indicated in recent surveys, including the ATM Forumsponsored McQuillan Consulting survey (June, 1993), <ref> [1] </ref> that coexistence with existing networks and transition to ATM need to be addressed. Likewise, the surveys have concluded that ATM for work group LANs and LAN Emulation Over ATM Specification - Version 1.0 ATM_FORUM 12 LAN backbones are the top planned uses.
+Reference: [3] <author> Novell Incorporated, </author> <title> Open Data-Link Interface Developer's Guide, </title> <address> March 20, </address> <year> 1992. </year>
+Reference: [4] <author> ISO/IEC 10038: ANSI/IEEE Std. </author> <title> 802.1D Information processing systems - Local Area Networks MAC Sublayer Interconnection (MAC Bridges). </title>
+Reference-contexts: MAC layer LAN Emulation is defined in such a way that existing bridging methods can be employed, as they are defined today. Note that bridging methods include both Transparent Bridging and Source Routing Bridging <ref> [4] </ref>. 1.1 Purpose of Document This document specifies an implementation agreement for the LAN Emulation Service, including the following: Architectural Framework and Service Interfaces Service Components and Functions Frame Formats Client/Server Protocols and Procedures LAN Emulation Over ATM Specification - Version 1.0 ATM_FORUM 14 1.2 Terminology The following acronyms and terminology
+Reference: [5] <author> The ATM Forum, </author> <title> ATM User-Network Interface Specification, </title> <note> Version 3.0, September 10, </note> <year> 1993. </year>
+Reference: [6] <author> IEEE Std. </author> <title> 802: IEEE Standards for Local and Metropolitan Area Networks: Overview and Architecture. </title>
+Reference: [7] <institution> ISO / IEC 10039 Information technology - Telecommunications and information exchange between systems -Medium access control service definition. </institution>
+Reference: [8] <author> ISO 8802-2: ANSI/IEEE Std. </author> <title> 802.2 Information processing systems - Local area networks - Part 2: Logical Link Control. </title>
+Reference: [9] <author> ISO 8802-2: ANSI/IEEE Std. </author> <title> 802.5P (Draft) Information processing systems - Local area networks Part 2: Logical Link Control Supplement - Route Determination Entity. </title>
+Reference: [10] <author> ISO / IEC 8802-3: ANSI/IEEE Std. </author> <title> 802.3 Information processing systems - Local area networks - Part 3: Carrier sense multiple access with collision detection (CSMA/CD) access method and physical layer specifications. </title>
+Reference: [11] <author> ISO / IEC 8802-5: ANSI/IEEE Std. </author> <title> 802.5 Information technology - Telecommunications and information exchange between systems - Local and metropolitan area networks - LAN/MAN-type specific requirements - Part 5: Token ring access method and physical layer specifications. 1 Verbal forms are based on ISO except for Requirements, where ISO uses the terms SHALL/SHALL NOT instead of MUST/MUST NOT in this document. LAN Emulation Over ATM Specification - Version 1.0 ATM_FORUM 17 </title>
+Reference: [12] <institution> ISO / IEC 7023 DTR Information technology - Telecommunications and information exchange between systems - Standard Group MAC Addresses. </institution>
+Reference: [13] <institution> ISO / IEC 2382-25 Information technology - Vocabulary - Part 25: Local area networks. </institution>
+Reference: [14] <editor> ITU-T I.363 B-ISDN ATM Adaptation Layer(AAL) Specification, </editor> <booktitle> Section 6 (AAL5). </booktitle>
+Reference: [15] <institution> The Ethernet - A Local Area Network, Digital Equipment Corporation, Intel, and Xerox, </institution> <address> AA K759B-TK, </address> <month> November, </month> <year> 1982. </year>
+Reference: [16] <institution> ITU-T Recommendation I.211 Integrated Services Digital Network (ISDN) - General Structure and Service Capabilities - B-ISDN Service Aspects, Geneva, </institution> <year> 1991. </year>
+Reference-contexts: This specification defines a MAC service emulation, including encapsulation of MAC frames (user data frames). This approach to LAN emulation provides support for the maximum number of existing applications. The LAN Emulation Service is one of several B-ISDN services <ref> [16] </ref>. LAN Emulation is a specific type of a conversational service for data information. LAN-SPECIFIC CHARACTERISTICS TO BE EMULATED Connectionless Services LAN stations today are able to send data without previously establishing connections. LAN Emulation provides the appearance of such a connectionless service to the participating end systems.
+Reference: [17] <author> The ATM Forum, </author> <title> ATM User-Network Interface Version 3.1 (UNI 3.1) Specification, </title> <month> July 21, </month> <year> 1994. </year>
+Reference: [18] <author> UNIX International, </author> <title> Data Link Provider Interface (DLPI) Specification, Revision 2.0.0, OSI Work Group, </title> <month> August </month> <year> 1991. </year>
+Reference: [19] <editor> ITU-T Recommendation X.6 "Public Data Networks: </editor> <title> Services and Facilities: Multicast Service Definition" March 1993. </title>
+Reference: [20] <author> IETF, </author> <title> RFC 1577 Classical IP and ARP Over ATM, </title> <institution> Network Working Group, </institution> <month> January, </month> <year> 1994. </year>
+
+References-found: 19
+

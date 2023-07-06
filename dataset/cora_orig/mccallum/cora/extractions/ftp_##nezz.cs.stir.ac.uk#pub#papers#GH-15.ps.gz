@@ -1,0 +1,15 @@
+URL: ftp://nezz.cs.stir.ac.uk/pub/papers/GH-15.ps.gz
+Refering-URL: http://www.gh.cs.su.oz.au/Grasshopper/Papers/Papers.html
+Root-URL: 
+Email: al,dave-@cs.stir.ac.uk -johnr,anders,srn-@cs.usyd.edu.au  
+Title: 1 Operating System Support for Persistent and Recoverable Computations  
+Author: J. Rosenberg, A. Dearle, D. Hulse, A. Lindstrm and S. Norris 
+Address: Sydney Scotland Australia  
+Affiliation: Department of Computing Science Basser Department of Computer Science University of Stirling University of  
+Abstract: The principal tasks of an operating system are to manage the resources of the system, maintain the permanent data of the system and to provide an efficient environment for the execution of user programs. In conventional operating systems these tasks are centred around the file system as the repository of permanent data and virtual memory as the execution environment. Persistent systems offer an alternative view in which the lifetime of data is separated from the access mechanism. In a persistent system all data, regardless of its lifetime, is created and manipulated in a uniform manner. When persistence is included as the basic abstraction of an operating system, many of the inadequacies of existing operating systems are eliminated and the tasks of an application developer are greatly simplified. This results in major improvements both in terms of program development time and execution efficiency. Grasshopper, a persistent operating system being developed by the authors, provides a testbed for the demonstration of these claims.
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> P. </author> <title> "The Napier Type System", </title> <booktitle> Persistent Object Systems - Proceedings of the Third International Workshop, </booktitle> <editor> (ed J. Rosenberg and D. Koch), </editor> <publisher> Springer-Verlag, </publisher> <pages> pp. 3-18, </pages> <year> 1989. </year> <note> [31] Moss, </note> <author> E. and Sinofsky, A. </author> <title> "Managing Persistent Data with Mneme: Designing a Reliable, Shared Object Interface", </title> <booktitle> Advances in ObjectOriented Database Systems, </booktitle> <publisher> Springer-Verlag, </publisher> <pages> pp. 298-316, </pages> <year> 1988. </year> <note> [32] Richardson, </note> <author> J. E. and Carey, M. J. </author> <title> "Implementing Persistence in E", </title> <booktitle> Proceedings of the Third International Workshop on Persistent Object Systems, </booktitle> <publisher> (ed J. </publisher>
+
+References-found: 1
+

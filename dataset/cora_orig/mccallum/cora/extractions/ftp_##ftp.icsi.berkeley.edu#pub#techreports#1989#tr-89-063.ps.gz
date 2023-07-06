@@ -1,0 +1,19 @@
+URL: ftp://ftp.icsi.berkeley.edu/pub/techreports/1989/tr-89-063.ps.gz
+Refering-URL: http://www.icsi.berkeley.edu/techreports/1989.html
+Root-URL: http://www.icsi.berkeley.edu
+Email: Internet: om@icsi.berkeley.edu  
+Phone: Phone: 415-643-9153  
+Title: Five Balltree Construction Algorithms  
+Author: STEPHEN M. OMOHUNDRO 
+Date: November 20, 1989  
+Address: 1947 Center Street, Suite 600 Berkeley, California 94704  
+Affiliation: International Computer Science Institute  
+Abstract: Balltrees are simple geometric data structures with a wide range of practical applications to geometric learning tasks. In this report we compare 5 different algorithms for constructing balltrees from data. We study the trade-off between construction time and the quality of the constructed tree. Two of the algorithms are on-line, two construct the structures from the data set in a top down fashion, and one uses a bottom up approach. We empirically study the algorithms on random data drawn from eight different probability distributions representing smooth, clustered, and curve distributed data in different ambient space dimensions. We find that the bottom up approach usually produces the best trees but has the longest construction time. The other approaches have uses in specific circumstances. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Jerome H. Friedman, Jon Louis Bentley, and Raphael Ari Finkel, </author> <title> An Algorithm for Finding Best Matches in Logarithmic Expected Time, </title> <journal> ACM Transactions on Mathematical Software-, </journal> <note> 3:3 (1977) 209-226. </note> <author> Bertrand Meyer, </author> <title> Eiffel: The Language, Interactive Software Engineering, </title> <address> Goleta, CA, </address> <year> 1989. </year>
+Reference: <author> Stephen M. Omohundro, </author> <title> Efficient Algorithms with Neural Network Behavior, </title> <journal> Complex Systems, </journal> <month> 1 </month> <year> (1987) </year> <month> 273-347. </month>
+Reference: <author> Stephen M. Omohundro, </author> <title> Foundations of Geometric Learning, </title> <institution> University of Illinois Department of Computer Science Technical Report No. </institution> <month> UIUCDCS-R-88-1408 </month> <year> (1988). </year>
+Reference: <author> Stephen M. Omohundro, </author> <title> Geometric Learning Algorithms, </title> <booktitle> Proceedings of the Los Alam-os Conference on Emergent Computation, </booktitle> <year> (1989). </year> <note> (ICSI Technical Report No. </note> <author> TR-89-041) M. T. Noga and D. C. S. Allison, </author> <title> Sorting in Linear Expected Time, Bit 25 (1985) 451-465. Hanan Samet, The quadtree and related hierarchical data structures, ACM Computing Surveys 16:2 June (1984) 187-260.6 22 Bibliography Kd Top down Insertion and Cheap insertion Bottom up </title>
+References-found: 4
+

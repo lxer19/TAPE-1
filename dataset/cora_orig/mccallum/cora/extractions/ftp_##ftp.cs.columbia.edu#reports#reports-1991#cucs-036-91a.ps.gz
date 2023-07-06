@@ -1,0 +1,24 @@
+URL: ftp://ftp.cs.columbia.edu/reports/reports-1991/cucs-036-91a.ps.gz
+Refering-URL: http://www.cs.columbia.edu/~library/1991.html
+Root-URL: http://www.cs.columbia.edu
+Title: The coordinated generation of multimodal presentations from a common representation. In Proceedings of International Workshop
+Author: [] W. Wahlster, E. Andre, S. Bandyopadhyay, W. Graf, and T. Rist. Wip: [] M. P. Wellman. [] John Yen, Robert Neches, and Robert MacGregor. 
+Degree: thesis,  
+Date: August 1988.  34  
+Address: Cambridge, MA,  
+Affiliation: Massachusetts Institute of Technology,  
+Pubnum: 3(1):25-31, 1991.  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> James F. Allen. </author> <title> Planning as temporal reasoning. </title> <booktitle> In Proceedings of the Second International Conference on Principles of Knowledge Representation and Reasoning, </booktitle> <pages> pages 3-14, </pages> <address> Cambridge, MA, </address> <year> 1991. </year>
+Reference: [2] <author> R. J. Brachman, D. L. McGuinness, P. F. Patel-Schneider, L. A. Resnick, and A. Borgida. </author> <title> Living with classic: When and how to use a kl-one-like language. </title> <editor> In J. Sowa, editor, </editor> <title> Formal Aspects of Semantic Networks. </title> <publisher> Morgan Kaufmann, </publisher> <year> 1990. </year>
+Reference: [3] <author> R. J. Brachman and J. G. Schmolze. </author> <title> An overview of the kl-one knowledge representation system. </title> <journal> Cognitive Science, </journal> <volume> 9(2) </volume> <pages> 171-216, </pages> <year> 1985. </year>
+Reference: [4] <author> F. P. Brooks. </author> <title> No silver bullet: </title> <journal> Essence and accidents of software engineering. IEEE Computer Magazine, </journal> <month> April </month> <year> 1987. </year>
+Reference: [5] <author> Y. F. Chen and C. V. Ramamoorthy. </author> <title> The c information abstractor. </title> <booktitle> In Proceedings of the Tenth International Computer Software and Applications Conference (COMPSAC), </booktitle> <address> Chicago, </address> <month> October </month> <year> 1986. </year>
+Reference: [6] <author> T. A. Corbi. </author> <title> Program understanding: A challenge for the 1990's. </title> <journal> IBM Systems Journal, </journal> <volume> 28(2), </volume> <year> 1989. </year>
+Reference: [7] <author> P. Devanbu, R. J. Brachman, P. G. Selfridge, and B. W. Ballard. </author> <title> Lassie: a knowledge-based software information system. </title> <booktitle> In Proc. 12th International Conference on Software Engineering, </booktitle> <address> Nice, France, </address> <month> April </month> <year> 1990. </year>
+Reference: [8] <author> P. Devanbu and D. Litman. </author> <title> Plan-based terminological reasoning. </title> <booktitle> In Proceedings of the Second International Conference on Principles of Knowledge Representation and Reasoning, </booktitle> <pages> pages 128-138, </pages> <address> Cambridge, MA, </address> <year> 1991. </year>
+Reference: [9] <author> Jon Doyle and Ramesh S. Patil. </author> <title> Two theses of knowledge representation: Language restrictions, taxonomic classification, and the utility of representation services. </title> <journal> Artificial Intelligence, </journal> <volume> 48(3) </volume> <pages> 261-297, </pages> <month> April </month> <year> 1991. </year>
+
+References-found: 9
+

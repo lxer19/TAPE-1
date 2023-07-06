@@ -1,0 +1,13 @@
+URL: ftp://ftp.cs.unc.edu/pub/publications/techreports/94-022.ps.Z
+Refering-URL: ftp://ftp.cs.unc.edu/pub/publications/techreports/FILE.html
+Root-URL: http://www.cs.unc.edu
+Address: angle Park, NC  
+Affiliation: Research Tri  
+Date: 1995, March 11-15,  
+Note: To appear in IEEE Virtual Reality Annual International Symposium (VRAIS)  
+Abstract-found: 0
+Intro-found: 1
+Reference: [Adelstein, Johnston, Ellis 92] <author> Adelstein, B., Johnston, E., Ellis, S. </author> <title> "A testbed for Characterizing Dynamic Response of Virtual Environment Spatial Sensors," </title> <booktitle> Proceedings 5th Annual ACM Symposium on User </booktitle>
+Reference-contexts: Position and orientation errors cause misregistration in all cases, while temporal errors cause misregistration only during user movement. Temporal errors are caused by a delay in sensing and reporting tracking information to the computer graphics system and the computer graphics system's delay in generating the appropriate virtual images <ref> [Adelstein, Johnston, Ellis 92] </ref>. 4) The virtual Camera-to-Image mapping doesn't accurately model the real camera. The Camera-to-Image mapping abstraction is that any real camera can be modelled by an idealized pinhole camera with a particular center of projection, viewing direction, field of view, and distortion function.
+References-found: 1
+

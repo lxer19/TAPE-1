@@ -1,0 +1,15 @@
+URL: http://www.cs.unc.edu/~wynn/pubs/Samples/stereoscopic.ps.gz
+Refering-URL: http://www.cs.unc.edu/~wynn/pubs/
+Root-URL: http://www.cs.unc.edu
+Title: A Viewing System for Stereographic Viewing of Dayton Taylor Images  
+Author: William C. Wynn 
+Date: May 7, 1998  
+Address: Chapel Hill  
+Affiliation: Department of Computer Science University of North Carolina,  
+Abstract: This paper presents a viewing system which allows a user to view photographic images of a scene based on head position. The goal of the system is to provide the user with a compelling visual experience that induces a sense of spatial presence in the environment captured by the images. This paper documents the implementation of this system and also discusses the problems encountered with the system. Possible improvements and future ambitions are also discussed. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> M. Segal, C. Korobkin, R. Van Widenfelt, J. Foran, and P. Haeberli. </author> <title> Fast Shadows and Lighting Effects Using Texture Mapping. </title> <booktitle> In Proceedings of SIGGRAPH '92, </booktitle> <pages> pages 249-252, </pages> <year> 1997. </year>
+Reference-contexts: :y f :z 1 7 5 x 0 T z 0 T 0 0 0 1 (4) Given position information (x t ; y t ; z t ) in tracker space, the corresponding position (x s ; y s ; z s ) in screen-centered space is given by <ref> [x s ; y s ; z s ; 1] </ref> = [x t ; y t ; z t ; 1] M: (5) 4.2 Image Selection Image selection is accomplished by considering the (x,y) position of the user's head in the screen-centered coordinate system. <p> T 0 0 0 1 (4) Given position information (x t ; y t ; z t ) in tracker space, the corresponding position (x s ; y s ; z s ) in screen-centered space is given by [x s ; y s ; z s ; 1] = <ref> [x t ; y t ; z t ; 1] </ref> M: (5) 4.2 Image Selection Image selection is accomplished by considering the (x,y) position of the user's head in the screen-centered coordinate system. <p> A problem arises in that as the viewer translates their head, the display screen is no longer perpendicular to the viewers look direction. In order correct for distortion that this non-axis-aligned viewing produces, the slide projector application of projective textures is applied <ref> [1] </ref>. Each image is in effect projected onto a flat plane (polygon) which is parallel with the display screen. The position from which each image is projected is determined by the position from which the original image was acquired. <p> The position from which each image is projected is determined by the position from which the original image was acquired. This is analogous with projecting the image back onto its original viewing plane and then viewing the plane from a different vantage point as described in <ref> [1] </ref>. Separate viewports are maintained for each eye and this reprojection is performed independently for each eye's view. The textures images are maintained using OpenGL texture objects.
+References-found: 1
+

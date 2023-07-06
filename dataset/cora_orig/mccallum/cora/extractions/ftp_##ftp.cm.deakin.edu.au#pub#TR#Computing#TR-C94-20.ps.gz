@@ -1,0 +1,22 @@
+URL: ftp://ftp.cm.deakin.edu.au/pub/TR/Computing/TR-C94-20.ps.gz
+Refering-URL: http://gollum.cm.deakin.edu.au/techreports.html
+Root-URL: 
+Email: gjw@deakin.EDU.AU  
+Title: Analysis and Design of the RHODOS Performance Profiling Software documents the eccentricities of the new
+Author: G. Wickham 
+Note: This report  This work was partly supported by the Australian Research Council under Grants A48831034, A49232429 and Deakin University Research Grant 0504010151.  
+Address: Geelong Victoria 3217, Australia  
+Affiliation: School of Computing and Mathematics Deakin University,  
+Abstract: As RHODOS is maturing, it is becoming increasingly important to have available a high resolution timer that can be used to evaluate differing policies as they are implemented. RHODOS currently operates on a Sun 3/50, of which little hardware information is officially known due to Sun Microsystems non-disclosure agreements. A third party high resolution timer has been used to provide a timing ability not present with the standard hardware. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [Danzig and Melvin 1991] <author> P. Danzig and S. Melvin, </author> <title> Microsecond Resolution Timing with Sun Work Stations; Behaviour Research Methods, </title> <booktitle> Instruments and Computers; 1991, </booktitle> <pages> 23(1) 61-65. </pages>
+Reference-contexts: As the granularity of the clock should be at least equivalent to the instruction cycle of the microprocessor it has been necessary to install a third party timer <ref> [Danzig and Melvin 1991] </ref> based on an AMD9513. This timer module installs into the vacant DES socket on the Sun 3/50 motherboard and is addressed in the same technique as for the DES chip. Thus when RHODOS is operating this hardware device is used solely for high performance time stamping.
+Reference: [Gerrity et al. 1990] <author> G. Gerrity, A. Goscinski, J. Indulska, W. Toomey & W. Zhu, </author> <title> The RHO-DOS Distributed Operating System, </title> <type> Technical Report CS 90/4, </type> <institution> Department of Computer Sci RHODOS 11 July 1995 References Page 13 ence, University College, University of New South Wales, Canberra. </institution> <note> 6 th February 1990. </note>
+Reference: [Jain 1991] <author> R. Jain, </author> <title> The Art of Computer Systems Performance Analysis, </title> <publisher> John Wiley & Soncs Inc., </publisher> <year> 1991, </year> <note> (ISBN: 0-471-50336-3) </note>
+Reference: [Motorola 1985] <editor> MC68020 32-Bit Microprocessor Users Manual Second Edition, </editor> <publisher> Pren-tice Hall, </publisher> <year> 1985, </year> <note> (ISBN: 0-13-566860-3) </note>
+Reference-contexts: They are: the microprocessor instruction cache; the video refresh circuitry; and the sampling characteristics of the high precision counter. 2.1.1 Microprocessor Instruction Cache A feature of the Motorola 68020 microprocessor is the inclusion of 64 longs (256 bytes) of instruction cache <ref> [Motorola 1985] </ref>. When the cache is enabled and the processor is performing a load of an instruction, a check is first made to determine if the instruction is currently in the cache.
+Reference: [Wickham 1994] <author> G. Wickham, </author> <title> Performance Analysis Techniques for RHODOS, </title> <type> Technical Report TR C94/13, </type> <institution> School of Computing and Mathematics, Faculty of Science, Deakin University (Geelong), Australia. </institution> <note> 7 th June 1994. RHODOS 11 July 1995 References Page 14 </note>
+Reference-contexts: General conclusions from the obtained results are presented in Section 4. A brief description as to the applicability of various options is also included. 2 Analysing the Sun 3/50 workstation and timing software To generate measurements on the RHODOS operating system, a method known as event driven software sampling <ref> [Wickham 1994] </ref> will be used. This technique involves placing various checkpoints logically within the operating system, and when program execution passes one of these points a timestamp is generated and stored.
+References-found: 5
+

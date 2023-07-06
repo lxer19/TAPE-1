@@ -1,0 +1,30 @@
+URL: ftp://ftp.icsi.berkeley.edu/pub/techreports/1992/tr-92-074.ps.gz
+Refering-URL: http://www.icsi.berkeley.edu/techreports/1992.html
+Root-URL: http://www.icsi.berkeley.edu
+Title: When is the Assignment Bound Tight for the Asymmetric Traveling-Salesman Problem?  
+Author: Alan Frieze Richard M. Karp Bruce Reed 
+Affiliation: Carnegie-Mellon University University of California, Berkeley and International Computer Science Institute, Berkeley, California University of Bonn  
+Date: November 1992  
+Pubnum: TR-92-074  
+Abstract: We consider the probabilistic relationship between the value of a random asymmetric traveling salesman problem AT SP (M) and the value of its assignment relaxation AP (M). We assume here that the costs are given by an n fi n matrix M whose entries are independently and identically distributed. We focus on the relationship between P r(AT SP (M) = AP (M)) and the probability p n that any particular entry is zero. If np n ! 1 with n then we prove that AT SP (M) = AP (M) with probability 1-o(1). This is shown to be best possible in the sense that if np(n) ! c, c &gt; 0 and constant, then P r(AT SP (M) = AP (M)) &lt; 1 (c) for some positive function . Finally, if np n ! 0 then P r(AT SP (M) = AP (M)) ! 0. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [BaTo] <author> E.Balas and P.Toth, </author> <title> Branch and bound methods, in The traveling salesman problem: a guided tour of combinatorial optimization, </title> <editor> E.L.Lawler, J.K.Lenstra, A.H.G.Rinnooy Kan and D.B.Shmoys Eds. </editor> <year> (1985). </year>
+Reference-contexts: It is evident from the parallelism between the above two definitions that AP (M ) AT SP (M ). The ATSP is NP-hard, whereas the AP is solvable in time O (n 3 ). Several authors (for a recent survey see <ref> [BaTo] </ref>) have investigated whether the AP can be used effectively in a branch-and-bound method to solve the ATSP. The most striking evidence of the power of this approach is given by the recent work of Miller and Pekny.
+Reference: [B] <author> B.Bollobas, </author> <title> Random Graphs, </title> <publisher> Academic press, </publisher> <address> London 1985. </address>
+Reference-contexts: This follows from the manner in which we generate M . It is convenient now to give a lower bound for the probability t;n that a random cycle cover has a cycle of length at most t, (more precise esitmates are available, see for example Bollobas <ref> [B] </ref>). We will use t;n 1 1 t+1 . To see this use induction on t;n = @ 2t 1 + i=t+1 1 which is a consequence of the fact that the size of the cycle containing 1 is uniformly distributed. The following lemma then follows easily.
+Reference: [DF] <author> M.E.Dyer and A.M.Frieze, </author> <title> On patching algorithms for random asymmetric travelling salesman problems, </title> <note> Mathematical Programming 46 (1990) 361-378. </note>
+Reference-contexts: The results of this paper are closely related to some earlier results of Karp [K], Karp and Steele [KS] and Dyer and Frieze <ref> [DF] </ref>. Here the m i;j are drawn independently from the uniform distribution over [0,1].
+Reference: [Fr] <author> A.M.Frieze, </author> <title> An algorithm for finding hamilton cycles in random digraphs , Journal of Algorithms 9 (1988) 181-204. </title>
+Reference-contexts: Randomly permute its rows and columns. Then for each i; j 2 [n] replace M i;j with zero, with probability p n . There is also the proviso that the probability of two identical columns should tend to zero with n.) Frieze <ref> [Fr] </ref> has shown that, if w (n) = ln n + t (n), where t (n) tends to infinity, then AT SP (M ) = 0 (whp), and so AP (M ) = AT SP (M ) (whp).
+Reference: [K] <author> R.M.Karp, </author> <title> A patching algorithm for the non-symmetric traveling salesman problem, </title> <note> SIAM Journal on Computing 8 (1979) 561-573. </note>
+Reference-contexts: We conjecture that for distributions of this type, the probability that AP (M ) = AT SP (M ) tends to some positive constant less than 1 which depends on c. The results of this paper are closely related to some earlier results of Karp <ref> [K] </ref>, Karp and Steele [KS] and Dyer and Frieze [DF]. Here the m i;j are drawn independently from the uniform distribution over [0,1].
+Reference: [KS] <author> R.M.Karp and J.M.Steele, </author> <title> Probabilistic analysis of heuristics in The traveling salesman problem: a guided tour of combinatorial optimization, </title> <editor> E.L.Lawler, J.K.Lenstra, A.H.G.Rinnooy Kan and D.B.Shmoys Eds. </editor> <year> (1985). </year>
+Reference-contexts: We conjecture that for distributions of this type, the probability that AP (M ) = AT SP (M ) tends to some positive constant less than 1 which depends on c. The results of this paper are closely related to some earlier results of Karp [K], Karp and Steele <ref> [KS] </ref> and Dyer and Frieze [DF]. Here the m i;j are drawn independently from the uniform distribution over [0,1].
+Reference: [MiPe] <author> D.L.Miller and J.F.Pekny, </author> <title> Exact solution of large asymmetric traveling salesman problems, </title> <note> Science 251 (1991) 754-762. </note>
+Reference: [Wal1] <author> D.W.Walkup, </author> <title> On the expected value of a random assignment problem, </title> <note> SIAM Journal of Computing 8 (1979) 440-445. </note>
+Reference-contexts: Then the z ij are independent, and each z ij is equal to 1 with probability p. Emulating a useful trick due to Walkup <ref> [Wal1] </ref> we view the z ij as being generated in the following way.
+Reference: [Wal2] <author> D.W.Walkup, </author> <title> Matchings in random regular bipartite graphs, </title> <note> Discrete Mathematics 31 (1980) 59-64. </note>
+Reference-contexts: The proof follows immediately from Walkup's result <ref> [Wal2] </ref> that a random k-out bipartite graph has a perfect matching (whp) for any k 2. 2 Thus, we can obtain an optimal assignment (whp) by combining an optimal matching covering A [B with a perfect matching in the subgraph of H 1 [H 2 induced by (XnA)[(Y nB) 6 Structure
+References-found: 9
+

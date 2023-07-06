@@ -1,0 +1,14 @@
+URL: ftp://ftp.cs.umd.edu/pub/realtime/proc_ieee.ps.gz
+Refering-URL: http://www.cs.umd.edu/projects/TimeWare/TimeWare-index-no-abs.html
+Root-URL: 
+Title: A Process Algebraic Approach to the Specification and Analysis of Resource-Bound Real-Time Systems  
+Author: Insup Lee, Patrice Bremond-Gregoire Richard Gerber 
+Note: This research was supported in part by ONR N00014-89-J-1131, DARPA/NSF CCR90-14621 and NSF CCR 92-09333.  
+Date: June 16, 1993  
+Address: Philadelphia, PA 19104-6389  College Park, MD 20742  
+Affiliation: Department of Computer and Information Science University of Pennsylvania  Department of Computer Science University of Maryland  
+Abstract: Recently, significant progress has been made in the development of timed process algebras for the specification and analysis of real-time systems. This paper describes a timed process algebra called ACSR, which supports synchronous timed actions and asynchronous instantaneous events. Timed actions are used to represent the usage of resources and to model the passage of time. Events are used to capture synchronization between processes. To be able to specify real systems accurately, ACSR supports a notion of priority that can be used to arbitrate among timed actions competing for the use of resources and among events that are ready for synchronization. The paper also includes a brief overview of other timed process algebras and discusses similarities and differences between them and ACSR. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

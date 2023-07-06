@@ -1,0 +1,36 @@
+URL: ftp://ftp.cs.bham.ac.uk/pub/Mirrors/ftp.de.uu.net/EC/FAQ/hhgtec.ps.gz
+Refering-URL: http://www.cs.bham.ac.uk/Mirrors/ftp.de.uu.net/EC/clife/
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Email: &lt;joke@de.uu.net&gt;  &lt;joke@santafe.edu&gt;  &lt;david.beasley@iee.org&gt;  
+Title: The Hitch-Hiker's Guide to Evolutionary Computation (FAQ for comp.ai.genetic) edited by  
+Author: Jo rg Heitko tter and David Beasley 
+Date: 20 June 1998 1  
+Note: or  PLEASE: Search this document first if you have a question and If someone posts a question to the newsgroup which is answered in here DON'T POST THE ANSWER TO THE NEWSGROUP: POINT THE ASKER TO THIS FAQ and finally DON'T PANIC! Copyright (c) 1993-1998 by Jo rg Heitko tter and David Beasley, all rights reserved. This FAQ may be posted to any U SENET newsgroup, on-line service, or BBS as long as it is posted in its entirety and includes this copyright statement. This FAQ may not be distributed for financial gain. This FA Q may not be included in commercial collections or compilations without express permission from the author. Issue 6.2 Posted:  
+Address: Emil-Figge-Str. 80 D-44227 Dortmund, Germany  20 Manvers Street, Bath, United Kingdom BA1 1PX  
+Affiliation: UUNET Deutschland GmbH  Deloitte and Touche Consulting Group  
+Pubnum: FA Q(1/6) COMP.AI.GENETIC FAQ(1/6)  
+Abstract-found: 0
+Intro-found: 1
+Reference: <author> Kursawe, F. </author> <title> (1994) " Evolution strategies: Simple models of natural processes?", </title> <journal> Revue Internationale de Syste mique, </journal> <note> France (to appear). </note>
+Reference: <author> Rechenberg, I. </author> <title> (1973) "Evolutionsstrategie: Optimierung technischer Systeme nach Prinzipien der biologischen Evolution", </title> <publisher> Stuttgart: </publisher> <address> Fromman-Holzboog. </address> <note> Issue 6.2 Posted: 20 June 1998 19 FA Q(2/6) ANSWERS FAQ(2/6) Schwefel, </note> <author> H.-P. </author> <title> (1977) "Numerische Optimierung von Computermodellen mittels der Evolutionsstrategie", </title> <publisher> Basel: Birkha .. user. </publisher>
+
+
+Reference: <author> Wilson, </author> <title> S.W. </title> <journal> (1988) "Bid Competition and Specificity Reconsidered" Complex Systems, </journal> <volume> 2(5) </volume> <pages> 705-723. </pages>
+Reference: <author> Wilson, S.W. & Goldberg, D.E. </author> <title> (1989) "A critical review of classifier systems" [ICGA89], </title> <type> 244-255. </type>
+
+Reference: <author> Braitenberg, V. </author> <title> (1984) "Vehicles: Experiments in Synthetic Psychology" Boston, </title> <address> MA: </address> <publisher> MIT Press. </publisher>
+Reference: <author> Dorigo M. & H. </author> <title> Bersini (1994). "A Comparison of Q-Learning and Classifier Systems." </title> <booktitle> Proceedings of From Animals to Animats, Third International Conference on SIMULATION of Adaptive Behavior (SAB94), </booktitle> <address> Brighton, UK, </address> <publisher> D.Cliff, </publisher> <editor> P.Husbands, J.-A.Meyer and S.W.Wilson (Eds.), </editor> <publisher> MIT Press, </publisher> <pages> 248-255. </pages> <address> http://iridia.ulb.ac.be/dorigo/dorigo/conferences/IC.11-SAB94.ps.gz Holland, </address> <month> J.H. </month> <title> (1986) "Escaping Brittleness: The possibilities of general-purpose learning algorithms applied to parallel rule-based systems". In: R.S. </title> <editor> Michalski, J.G. Carbonell & T.M. Mitchell (eds), </editor> <booktitle> Machine Learning: An Artificial Intelligence approach, </booktitle> <volume> Vol II, </volume> <pages> 593-623, </pages> <address> Los Altos, CA: </address> <publisher> Morgan Kaufman. </publisher>
+Reference: <author> Holland, J.H., et al. </author> <title> (1986) "Induction: Processes of Inference, Learning, and Discovery", </title> <address> Cambridge, MA: MIT Press. </address> <note> Issue 6.2 Posted: 20 June 1998 25 FA Q(2/6) ANSWERS FAQ(2/6) Holland, </note> <editor> J.H. </editor> <booktitle> (1992) "Adaptation in natural and artificial systems" Boston, </booktitle> <address> MA: </address> <publisher> MIT Press. </publisher>
+Reference: <author> Holland, J.H. </author> <title> (1995) "Hidden Order: How adaptation builds complexity" Reading, </title> <address> MA: </address> <publisher> Addison-Wesley. [HOLLAND95]: Holland, </publisher> <month> J.H. </month> & <title> Reitman, J.S. (1978) "Cognitive Systems based on Adaptive Algorithms" In D.A. Waterman & F.Hayes-Roth, (eds) Pattern-directed inference systems. </title> <publisher> NY: Academic Press. </publisher>
+Reference: <author> Minsky, </author> <title> M.L. </title> <booktitle> (1961) "Steps toward Artificial Intelligence" Proceedings IRE, </booktitle> <volume> 49, </volume> <pages> 8-30. </pages>
+Reference: <editor> Reprinted in E.A. Feigenbaum & J. Feldman (eds) Computers and Thought, </editor> <address> 406-450, NY: </address> <publisher> McGraw-Hill, </publisher> <year> 1963. </year>
+Reference: <author> Minsky, </author> <title> M.L. (1967) "Computation: Finite and Infinite Machines" Englewood Cliffs, </title> <address> NJ: </address> <publisher> Prentice-Hall. </publisher>
+Reference: <author> Post, Emil L. </author> <title> (1943) "Formal reductions of the general combinatorial decision problem" American Journal of Mathematics, </title> <booktitle> 65, </booktitle> <pages> 197-215. </pages>
+Reference: <editor> Rich, E. </editor> <booktitle> (1983) "Artificial Intelligence" NY: </booktitle> <publisher> McGraw-Hill. </publisher>
+Reference: <author> Tinbergen, N. </author> <title> (1951) "The Study of Instinct" NY: </title> <publisher> Oxford Univ. Press. </publisher>
+Reference: <author> Watkins, C. </author> <title> (1989) "Learning from Delayed Rewards" PhD Dissertation, </title> <institution> Department of Psychology, Cambridge Univ., UK. </institution>
+Reference: <author> Wilson, </author> <title> S.W. </title> <booktitle> (1985) "Knowledge growth in an artificial animal" in [ICGA85], </booktitle> <pages> 16-23. </pages>
+
+
+References-found: 16
+

@@ -1,0 +1,13 @@
+URL: ftp://ftp.cs.vu.nl/pub/papers/theory/IR-239.ps.Z
+Refering-URL: http://www.cs.vu.nl/vakgroepen/ti/ftpindex.html
+Root-URL: 
+Title: Comparative Semantics for a Real -Time Programming Language with Integration 1  
+Author: Franck van Breugel 
+Note: Contents  
+Address: Boelelaan 1081a, 1081 HV Amsterdam  
+Affiliation: Department of Mathematics and Computer Science, Vrije Universiteit De  
+Abstract: An operational and a denotational semantic model are presented for a real-time programming language incorporating the concept of integration. This concept of integration, which has been introduced by Baeten and Bergstra [4], enables us to specify a restricted form of unbounded non-determinism. For example, the execution of an action at an arbitrary moment in a time interval can be specified using integration. The operational and the de- notational model are proved to be equivalent using a general method based on higher-order transformations and complete metric spaces. In this context, Banach's fixed point theorem and Michael's theorem will turn out to be the most important aspects of complete metric spaces. Banach's theorem, which states that a contraction on a complete metric space has a unique fixed point, will be used to define semantic models and to compare semantic models. Michael's theorem, which roughly states that a compact union of compact sets is compact, will be used for the definition of semantic models. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

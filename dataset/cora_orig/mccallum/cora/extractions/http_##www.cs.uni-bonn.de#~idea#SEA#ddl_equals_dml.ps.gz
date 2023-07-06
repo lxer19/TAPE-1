@@ -1,0 +1,16 @@
+URL: http://www.cs.uni-bonn.de/~idea/SEA/ddl_equals_dml.ps.gz
+Refering-URL: http://www.cs.uni-bonn.de/~idea/SEA/publications.html
+Root-URL: http://cs.uni-bonn.de
+Title: Intelligent Database Environment for Advanced Applications IDEA DDL DML? An Exercise in Reflective Schema Management
+Note: Copyright 1995 University of Bonn ESPRIT Project 6333 Page 1  
+Abstract: Summary: We discuss the basic principles of a reflective representation of application schemas using a subset of Chimera. We show how application schemas can be modelled as a set of Chimera objects when an appropriate meta schema has been defined. The semantics of schema evolution can then be defined by mapping schema updates to sequences of object manipulation commands. This mapping can again be realized using Chimera, and thus becomes part of the meta schema. The main purpose of this paper is to trigger a discussion about reflective schema evolution, especially about the required extensions of the Chimera language. Author(s): Thomas Lemke Contributor(s): Rainer Manthey, Gunter Kniesel Issued by: Stephane Bressan ECRC Arabellastrae 17 D-81925 Munchen; Germany Tel. +49 / (0) 89 / 92 699 - 167 Authorised by: Stefano Ceri Issue number: 1 Status: DEFINITIVE Date of issue: 15.3.1995 Reference: IDEA.WP.22.O.003 Number of pages: 28 
+Abstract-found: 1
+Intro-found: 1
+Reference: [CM93] <author> Stefano Ceri and Rainer Manthey. </author> <title> Consolidated specification of Chimera. </title> <booktitle> IDEA deliverable IDEA.DE.2P.006.001, ESPRIT Project 6333, </booktitle> <year> 1993. </year>
+Reference: [DG94] <author> Susanne Deiters and Ulrike Griefahn. </author> <title> Propagation rule compiler: Tool specification. </title> <booktitle> IDEA deliverable IDEA.DE.22.O.001, ESPRIT Project 6333, </booktitle> <year> 1994. </year>
+Reference: [GM94] <author> Ulrike Griefahn and Rainer Manthey. </author> <title> Update propagation in Chimera, an active DOOD language. IDEA working paper IDEA.WP.22.O.001, ESPRIT Project 6333, </title> <booktitle> 1994. Published in Proceedings of the International Workshop on the Deductive Approach to Information Systems (DAISD '94), </booktitle> <address> Aiguablava, Spain, Se ptember 1994. </address>
+Reference: [Lem94a] <author> Thomas Lemke. </author> <title> The Schema Evolution Assistant: Tool specification. </title> <booktitle> IDEA deliverable IDEA.DE.22.O.002, ESPRIT Project 6333, </booktitle> <year> 1994. </year>
+Reference: [Lem94b] <author> Thomas Lemke. </author> <title> Schema evolution in OODBMS: A selective overview of problems and solutions. IDEA working paper IDEA.WP.22.O.002, ESPRIT Project 6333, </title> <year> 1994. </year>
+
+References-found: 5
+

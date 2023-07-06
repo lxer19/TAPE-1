@@ -1,0 +1,26 @@
+URL: http://www.cs.umd.edu/users/seanl/papers/culture-gp96.ps.gz
+Refering-URL: http://www.cs.umd.edu/users/seanl/papers.html
+Root-URL: 
+Email: lspector@hampshire.edu  seanl@cs.umd.edu  
+Title: Cultural Transmission of Information in Genetic Programming  
+Author: Lee Spector* Sean Luke 
+Address: Amherst, MA 01002  College Park, MD 20742  
+Affiliation: *School of Cognitive Science and Cultural Studies Hampshire College  yDepartment of Computer Science University of Maryland  
+Abstract: This paper shows how the performance of a genetic programming system can be improved through the addition of mechanisms for non-genetic transmission of information between individuals (culture). Teller has previously shown how genetic programming systems can be enhanced through the addition of memory mechanisms for individual programs [Teller 1994]; in this paper we show how Teller's memory mechanism can be changed to allow for communication between individuals within and across generations. We show the effects of indexed memory and culture on the performance of a genetic programming system on a symbolic regression problem, on Koza's Lawnmower problem, and on Wum-pus world agent problems. We show that culture can reduce the computational effort required to solve all of these problems. We conclude with a discussion of possible improvements.
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Andre, D. </author> <year> 1995. </year> <title> The Evolution of Agents that Build Mental Models and Create Simple Plans Using Genetic Programming. </title> <booktitle> In Proceedings of the Sixth International Conference on Genetic Algorithms, edited by L.J. Eshelman. </booktitle> <pages> pp. 248-255. </pages> <address> San Francisco, CA: </address> <publisher> Morgan Kaufmann Publishers, Inc. </publisher>
+Reference: <author> Bankes, S. </author> <year> 1995. </year> <title> Evolving Social Structure in Communities of Agents Through Meme Evolution. </title> <booktitle> In Proceedings of The Fourth Annual Conference On Evolutionary Programming. </booktitle> <address> Cambridge, MA: </address> <publisher> The MIT Press. </publisher>
+Reference: <author> Bonner, J.T. </author> <year> 1980. </year> <title> The Evolution of Culture in Animals. </title> <publisher> Princeton, </publisher> <address> NJ: </address> <publisher> Princeton University Press. </publisher>
+Reference: <editor> Brooks, R.A., and P. Maes, eds. </editor> <booktitle> 1994. Artificial Life IV: Proceedings of the Fourth International Workshop on the Synthesis and Simulation of Living Systems. </booktitle> <address> Cambridge, MA: </address> <publisher> The MIT Press. </publisher>
+Reference: <author> Dawkins, R. </author> <year> 1976. </year> <title> The Selfish Gene. </title> <publisher> Oxford: Oxford University Press. </publisher>
+Reference: <author> Hutchins, E. and B. Hazlehurst. </author> <year> 1993. </year> <title> Learning in the Cultural Process. In Artificial Life II, edited by C.G. </title> <editor> Lang-ton, C. Taylor, J.D. Farmer, and S. Rasmussen. </editor> <publisher> Addison-Wesley Publishing Company. </publisher>
+Reference: <author> Koza, J.R. </author> <year> 1992. </year> <title> Genetic Programming: On the Programming of Computers by Means of Natural Selection. </title> <address> Cam-bridge, MA: </address> <publisher> The MIT Press. </publisher>
+Reference: <author> Koza, J.R. </author> <year> 1994. </year> <title> Genetic Programming II: Automatic Discovery of Reusable Programs. </title> <address> Cambridge, MA: </address> <publisher> The MIT Press. </publisher>
+Reference: <author> Reynolds, R.G. </author> <year> 1994. </year> <title> An Introduction to Cultural Algorithms. </title> <booktitle> In Proceedings of the Third Annual Conference on Evolutionary Programming. </booktitle> <pages> pp. 131-139. </pages> <address> River Edge, NJ: </address> <publisher> World Scientific. </publisher>
+Reference: <author> Russell, S.J., and P. Norvig. </author> <year> 1995. </year> <title> Artificial Intelligence, A Modern Approach. </title> <address> Englewood Cliffs, NJ: </address> <publisher> Prentice Hall. </publisher>
+Reference: <author> Spector, L. </author> <year> 1996. </year> <title> Simultaneous Evolution of Programs and their Control Structures. </title> <booktitle> In Advances in Genetic Programming 2, </booktitle> <editor> edited by P. Angeline and K. Kinnear. Cam-bridge, </editor> <address> MA: </address> <publisher> MIT Press, in press. </publisher>
+Reference: <author> Teller, A. </author> <year> 1994. </year> <title> The Evolution of Mental Models. </title> <booktitle> In Advances in Genetic Programming, edited by K.E. Kinnear Jr. </booktitle> <pages> pp. 199-219. </pages> <address> Cambridge, MA: </address> <publisher> The MIT Press. </publisher>
+Reference: <author> Zongker, D., and B. Punch. </author> <year> 1995. </year> <note> lil-gp 1.0 User's Manual. WWW: http://isl.cps.msu.edu/GA/software/lil-gp, or via anonymous FTP to isl.cps.msu.edu, in the directory /pub/GA/lilgp. </note>
+References-found: 13
+

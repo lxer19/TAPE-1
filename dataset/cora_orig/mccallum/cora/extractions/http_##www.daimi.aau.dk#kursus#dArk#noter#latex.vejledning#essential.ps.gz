@@ -1,0 +1,13 @@
+URL: http://www.daimi.aau.dk/kursus/dArk/noter/latex.vejledning/essential.ps.gz
+Refering-URL: http://www.daimi.aau.dk/kursus/dArk/noter/latex.vejledning/index.html
+Root-URL: http://www.daimi.aau.dk
+Title: Essential L A T E X  
+Author: Jon Warbrick with additions by David Carlisle, Michel Goossens, Sebastian Rahtz, Adrian Clark 
+Note: Contents  
+Date: January 1994  
+Abstract-found: 0
+Intro-found: 1
+Reference: <author> 1 Leslie Lamport. </author> <title> L A T E XA Document Preparation SystemUser's Guide and Reference Manual. </title> <publisher> Addison-Wesley, </publisher> <address> Reading, MA, USA, </address> <year> 1985. </year> <title> 2 Donald E. Knuth. The T E Xbook, volume A of Computers and Typesetting. </title> <publisher> Addison-Wesley, </publisher> <address> Reading, MA, USA, </address> <year> 1986. </year> <note> 3 Michel Goossens, </note> <author> Frank Mittelbach and Alexander Samarin. </author> <title> The L A T E X Companion Addison-Wesley, </title> <address> Reading, MA, USA, </address> <year> 1993. </year>
+Reference-contexts: 1 Introduction This document is an attempt to give you all the essential information that you will need in order to use the L A T E X document preparation system <ref> [1] </ref>. 1 . Only basic features are covered, and a vast amount of detail has been omitted. <p> The main reference for L A T E X is The L A T E X User's guide and Reference Manual by Leslie Lamport <ref> [1] </ref>. This contains all the information that you will ever need to know about the program, and you will need access to a copy if you are to use L A T E X seriously.
+References-found: 1
+

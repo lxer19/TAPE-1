@@ -1,0 +1,12 @@
+URL: http://www.fzi.de/prost/projects/steam_boiler/paper_simu.ps.gz
+Refering-URL: http://www.fzi.de/prost/projects/steam_boiler/steam_boiler.html
+Root-URL: http://www.fzi.de
+Title: Simulation of a Steam-boiler  
+Author: Annette Ltzbeyer 
+Affiliation: Forschungszentrum Informatik, Karlsruhe  
+Abstract: In this paper, we describe the implementation and usage of a simulation with graphical visualization for a steam-boiler [Abri94]. The simulation imitates the behaviour of the steam-boiler and can be controlled using a simple ASCII protocol. It reacts to defined commands and sends information about its state every five seconds. Furthermore, we describe the options available, the protocol which functions as an interface between the simulation and the controller, and how one can simulate component failures within the boiler. We give information about the simulation and how to install it. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [Abri94] <author> Jean-Raimond Abrial. </author> <title> Steam-boiler control specification problem. </title> <type> Technical report, </type> <address> F-75014 Par-is, 26 rue des Plantes, </address> <year> 1994. </year>
+References-found: 1
+

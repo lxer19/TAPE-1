@@ -1,0 +1,19 @@
+URL: http://dna.stanford.edu/~cnevill/publications/NZCS93.ps.gz
+Refering-URL: http://dna.stanford.edu/~cnevill/resume.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: Programming by demonstration  
+Author: Craig Nevill-Manning 
+Affiliation: Department of Computer Science, University of Waikato,.  
+Abstract: Programming by demonstration seeks to allow people to communicate algorithms easily to computers. The world in which the communication takes place, and the set of actions that can be performed in that world, both influence the efficiency and correctness of the transmitted algorithms, and the extent to which efficiency and correctness can be guaranteed. This paper discusses the effects of different worlds and action sets on the effectiveness of a programming by demonstration system, and examines two specific questions: what effect does the absence of programming metaphors from the action set have on the efficiency of the induced algorithm, and what effect does the introduction of variables into the action set have on the ease of algorithm induction? 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Maulsby, D.L., Witten, I.H., Kittlitz, K.A. </author> <title> Inferring graphical procedures: </title> <journal> the compleat Metamouse. Journal of Human-Computer Interaction, </journal> <volume> 7(1) </volume> <pages> 47-89, </pages> <year> 1992 </year>
+Reference-contexts: For example, suppose a user is asked to show a system how to sort a set of boxes by height, in a drawing program environment. One such system is Metamouse <ref> [1] </ref>, where an agent called Basil follows the user through a series of actions on graphical objects and synthesises a program from the users actions.
+Reference: [2] <author> Dewdney, </author> <title> A.K. Computer recreations, </title> <journal> Scientific American. </journal> <volume> 250(5) </volume> <pages> 14-22, </pages> <year> 1984 </year>
+Reference-contexts: The sorting algorithm discussed resembles the sort executed by Dewdneys Spaghetti Analog Gadget (SAG) <ref> [2] </ref>, where strands of (uncooked!) spaghetti are cut to lengths representing the data values to be sorted, and loosely held as a bundle while tapping them on a flat surface. The values are then read off one by one as the topmost piece of spaghetti is removed repeatedly.
+Reference: [3] <author> Witten, I.H. </author> <title> Programming by example for the casual user: a case study. </title> <booktitle> Journal Proceedings of Canadian Man-Computer Communication Conference. </booktitle> <pages> 105-113, </pages> <year> 1981 </year>
+Reference-contexts: The branches are implicit in the sequence; whenever an action appears that is identical to a previous one, a branch to the existing state is created. When the process has finished, there is one state for each unique action in the trace. This technique is based on Witten <ref> [3] </ref> For example, when the quicksort program in Fig. 2 (a) was executed and traced, it produced the variablised action sequence of which part is shown in Fig. 2 (b).
+Reference: [4] <author> Cypher, A. Eager: </author> <title> programming repetitive tasks by example. </title> <booktitle> Proceedings of ACM CHI 91. </booktitle> <pages> 33-39 </pages>
+Reference-contexts: A particularly interesting choice is (iii). (i) is the standard programming by demonstration situation and has already received a great deal of attention, e.g. Eager <ref> [4] </ref>). (ii) doesn't make sense because without variables, branching can only create infinite loops, which are impossible do demonstrate. (iv) is simply a transcription of the original program.
+References-found: 4
+

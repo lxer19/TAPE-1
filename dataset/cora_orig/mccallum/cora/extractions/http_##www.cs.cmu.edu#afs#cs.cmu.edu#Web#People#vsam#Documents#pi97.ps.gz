@@ -1,0 +1,24 @@
+URL: http://www.cs.cmu.edu/afs/cs.cmu.edu/Web/People/vsam/Documents/pi97.ps.gz
+Refering-URL: http://www.cs.cmu.edu/afs/cs.cmu.edu/Web/People/vsam/iubapage.html
+Root-URL: 
+Email: e-mail: fkanade,rcollins,ajlg@cs.cmu.edu  e-mail: fpanandan,pburt,lwixsong@sarnoff.com  
+Title: Cooperative Multi-Sensor Video Surveillance  
+Author: Takeo Kanade, Robert T. Collins, and Alan J. Lipton P. Anandan, Peter Burt, and Lambert Wixson David 
+Web: homepage: http://www.cs.cmu.edu/ vsam  
+Address: Pittsburgh, PA  Princeton, NJ  
+Affiliation: Carnegie Mellon University,  Sarnoff Research Center,  
+Abstract: Carnegie Mellon University (CMU) and the David Sarnoff Research Center (Sarnoff) have begun a joint, integrated feasibility demonstration in the area of Video Surveillance and Monitoring (VSAM). The objective is to develop a cooperative, multi-sensor video surveillance system that provides continuous coverage over large battlefield areas. Image Understanding (IU) technologies will be developed to: 1) coordinate multiple sensors to seamlessly track moving targets over an extended area, 2) actively control sensor and platform parameters to track multiple moving targets, 3) integrate multi-sensor output with collateral data to maintain an evolving, scene-level representation of all targets and platforms, and 4) monitor the scene for unusual "trigger" events and activities. These technologies will be integrated into an experimental testbed to support evaluation, data collection, and demonstration of other VSAM technologies developed within the DARPA IU community. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [ 1 ] <author> J. Costeira and T. Kanade, </author> <title> "A multi-body factorization method for motion analysis," </title> <booktitle> Proc. ARPA Image Understanding Workshop, </booktitle> <year> 1996, </year> <month> pp.1013-1025. </month>
+Reference: [ 2 ] <author> L.S. Davis, R. Bajcsy, M. Herman, and R. Nelson, </author> <title> "RSTA on the move: detection and tracking of moving objects from an autonomous mobile platform," </title> <booktitle> Proc. ARPA Image Understanding Workshop, </booktitle> <year> 1996, </year> <month> pp.651-664. </month>
+Reference: [ 3 ] <author> M. Hansen, P. Anandan, G. van der Wal, K. Dana, P. Burt. </author> , <title> "Real-time scene stabilization and mosaic construction," </title> <booktitle> IEEE Workshop on Applications of Computer Vision, </booktitle> <year> 1994. </year>
+Reference: [ 4 ] <author> M. Irani and P. Anandan, </author> <title> "A unified approach to moving object detection in 2D and 3D scenes," </title> <booktitle> Proc. ARPA Image Understanding Workshop, </booktitle> <year> 1996, </year> <month> pp.707-718. </month>
+Reference: [ 5 ] <author> R. Kumar, H. Sawhney and J. Asmuth, </author> <title> "Geospatial registration," </title> <booktitle> Proc. DARPA Image Understanding Workshop, </booktitle> <year> 1997, </year> <note> this proceedings. </note>
+Reference: [ 6 ] <author> R. Kumar, P. Anandan and K. Hanna, </author> <title> "Shape recovery from multiple views: a parallax based approach," </title> <booktitle> Proc. Darpa Image Understanding Workshop, </booktitle> <year> 1994. </year>
+Reference: [ 7 ] <author> L. Matthies, R. Szeliski and T. Kanade, </author> <title> "Kalman filter-based algorithms for estimating depth from image sequences," </title> <journal> International Journal of Computer Vision, </journal> <volume> Vol.3, </volume> <year> 1989. </year>
+Reference: [ 8 ] <author> H. Sawhney and R. Kumar, </author> <title> "True multi-view registration with application to auto-mosaicing and lens distortion correction," </title> <booktitle> Proc. DARPA Image Understanding Workshop, </booktitle> <year> 1997, </year> <note> this proceedings. </note>
+Reference: [ 9 ] <author> J. Shi and C. Tomasi, </author> <title> "Good features to track," </title> <booktitle> IEEE Conference on Computer Vision and Pattern Recognition, </booktitle> <year> 1994, </year> <pages> pp. 593-600. </pages>
+Reference: [ 10 ] <author> C. Tomasi and T. Kanade, </author> <title> "Shape and motion from image streams: factorization method," </title> <journal> International Journal of Computer Vision, </journal> <volume> Vol. 9(2), </volume> <year> 1992. </year>
+References-found: 10
+

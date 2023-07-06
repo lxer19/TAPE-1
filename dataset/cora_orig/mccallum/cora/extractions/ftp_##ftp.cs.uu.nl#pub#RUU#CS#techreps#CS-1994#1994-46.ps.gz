@@ -1,0 +1,21 @@
+URL: ftp://ftp.cs.uu.nl/pub/RUU/CS/techreps/CS-1994/1994-46.ps.gz
+Refering-URL: http://www.cs.ruu.nl/docs/research/publication/TechList1.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: [12] Steinbach, J. Extensions and comparison of simplification orderings. In Proceedings of the 3rd Conference
+Author: N. Dershowitz, 
+Note: Ed., vol. 355 of Lecture Notes in Computer Science, Springer, pp. 434-448. 18  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> Dershowitz, N. </author> <title> Orderings for term rewriting systems. </title> <booktitle> Theoretical Computer Science 17, 3 (1982), </booktitle> <pages> 279-301. </pages>
+Reference: [2] <author> Dershowitz, N. </author> <title> Termination of rewriting. </title> <journal> Journal of Symbolic Computation 3, </journal> <volume> 1 and 2 (1987), </volume> <pages> 69-116. </pages>
+Reference: [3] <author> Dershowitz, N., and Hoot, C. </author> <title> Topics in termination. </title> <booktitle> In Proceedings of the 5th Conference on Rewriting Techniques and Applications (1993), </booktitle> <editor> C. Kirchner, Ed., </editor> <volume> vol. </volume> <booktitle> 690 of Lecture Notes in Computer Science, </booktitle> <publisher> Springer, </publisher> <pages> pp. 198-212. </pages>
+Reference: [4] <author> Dershowitz, N., and Jouannaud, J.-P. </author> <title> Rewrite systems. </title> <booktitle> In Handbook of Theoretical Computer Science, </booktitle> <editor> J. van Leeuwen, Ed., </editor> <volume> vol. </volume> <publisher> B. Elsevier, </publisher> <year> 1990, </year> <journal> ch. </journal> <volume> 6, </volume> <pages> pp. 243-320. </pages>
+Reference: [5] <author> Ferreira, M. C. F., and Zantema, H. </author> <title> Syntactical analysis of total termination. </title> <booktitle> In Proceedings of the 4th International Conference on Algebraic and Logic Programming (1994), vol. 850 of Lecture Notes in Computer Science, </booktitle> <publisher> Springer, </publisher> <pages> pp. 204-222. </pages>
+Reference: [6] <author> Gallier, J. H. </author> <title> What's so special about Kruskal's theorem and the ordinal 0 ? A survey of some results in proof theory. </title> <booktitle> Annals of Pure and Applied Logic 53 (1991), </booktitle> <pages> 199-260. </pages>
+Reference: [7] <author> Geerling, M. </author> <title> Termination of term rewriting systems. </title> <type> Master's thesis, </type> <institution> Utrecht University, </institution> <year> 1991. </year>
+Reference: [8] <author> Geser, A. </author> <title> An improved general path order. </title> <type> Tech. Rep. </type> <institution> MIP-9407, University of Passau, </institution> <year> 1994. </year>
+Reference: [9] <author> Kamin, S., and L evy, J. J. </author> <title> Two generalizations of the recursive path ordering. </title> <institution> University of Illinois, </institution> <year> 1980. </year>
+Reference: [10] <author> Nash-Williams, C. S. J. A. </author> <title> On well-quasi ordering finite trees. </title> <journal> Proc. Cambridge Phil. Soc. </journal> <volume> 59 (1963), </volume> <pages> 833-835. </pages>
+
+References-found: 10
+

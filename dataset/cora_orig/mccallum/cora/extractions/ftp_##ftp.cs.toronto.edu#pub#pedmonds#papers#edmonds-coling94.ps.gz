@@ -1,0 +1,28 @@
+URL: ftp://ftp.cs.toronto.edu/pub/pedmonds/papers/edmonds-coling94.ps.gz
+Refering-URL: http://www.cs.toronto.edu/~pedmonds/papers.html
+Root-URL: 
+Email: pedmonds@cs.toronto.edu  
+Title: COLLABORATION ON REFERENCE TO OBJECTS THAT ARE NOT MUTUALLY KNOWN  
+Author: Philip G. Edmonds 
+Address: Toronto, Ontario, Canada M5S 1A4  
+Affiliation: Department of Computer Science, University of Toronto  
+Note: In Proceedings of the 15th International Conference on Computational Linguistics (COLING-94), Kyoto, 1994, pages 1118-1122.  
+Abstract: In conversation, a person sometimes has to refer to an object that is not previously known to the other participant. We present a plan-based model of how agents collaborate on reference of this sort. In making a reference, an agent uses the most salient attributes of the referent. In understandinga reference, an agent determines his confidence in its adequacy as a means of identifying the referent. To collaborate, the agents use judgment, suggestion, and elaboration moves to refashion an inadequate referring expression. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Douglas E. </author> <title> Appelt (1985a). Planning English referring expressions. </title> <journal> Artificial Intelligence, </journal> <volume> 26(1) </volume> <pages> 1-33. </pages>
+Reference: <author> Douglas E. </author> <title> Appelt (1985b). Some pragmatic issues in the planning of definite and indefinite noun phrases. </title> <booktitle> In Proceedings of the 23rd Annual Meeting of the Association for Computational Linguistics, </booktitle> <pages> pages 198-203. </pages>
+Reference: <author> Douglas E. </author> <title> Appelt and Amichai Kronfeld (1987). A computational model of referring. </title> <booktitle> In Proceedings of the Tenth International Joint Conference on Artificial Intelligence (IJCAI-87), </booktitle> <pages> pages 640-647. </pages>
+Reference: <author> Herbert H. Clark and Deanna Wilkes-Gibbs (1986). </author> <title> Referring as a collaborative process. </title> <journal> Cognition, </journal> <volume> 22 </volume> <pages> 1-39. </pages> <note> Reprinted in Cohen, </note> <editor> P. R., Morgan, J., and Pollack, M. E., editors. </editor> <year> (1990). </year> <title> Intentions in Communication. </title> <publisher> MIT Press. </publisher> <pages> pages 463-493. </pages>
+Reference: <author> Philip R. </author> <title> Cohen (1981). The need for referent identification as a planned action. </title> <booktitle> In Proceedings of the Seventh International Joint Conferenceon Artificial Intelligence (IJCAI-81), </booktitle> <pages> pages 31-36. </pages>
+Reference: <author> James Raymond Davis (1989). </author> <title> Back Seat Driver: Voice Assisted Automobile Navigation. </title> <type> Ph.D. thesis, </type> <institution> Massachusetts Institute of Technology. </institution>
+Reference: <author> Ann S. </author> <title> Devlin (1976). The small town cognitive map: Adjusting to a new environment. </title> <editor> In G.T. Moore and R.G. Golledge, editors, </editor> <title> Environmental Knowing: Theories, Research and Methods. </title> <publisher> Dowden, Hutchinson and Ross. </publisher>
+Reference: <author> Philip G. </author> <title> Edmonds (1993). A computational model of collaboration on reference in direction-giving dialogues. M.Sc. </title> <type> thesis, </type> <note> published as technical report CSRI-289, </note> <institution> Department of Computer Science, University of Toronto. </institution>
+Reference: <author> Peter A. Heeman and Graeme Hirst (1992). </author> <title> Collaborating on referring expressions. </title> <type> Technical Report TR 435, </type> <institution> Computer Science Dept., Univ. of Rochester, Rochester, </institution> <address> New York. </address>
+Reference: <author> Kevin Lynch (1960). </author> <title> The Image of the City. </title> <publisher> MIT Press. </publisher>
+Reference: <author> Martha Pollack (1990). </author> <title> Plans as complex mental attitudes. </title> <editor> In P. R. Cohen, J. Morgan, and M. E. Pollack, editors, </editor> <booktitle> Intentions in Communication, </booktitle> <pages> pages 77-103. </pages> <publisher> MIT Press. </publisher>
+Reference: <author> George Psathas (1991). </author> <title> The structure of direction-giving in interaction. </title> <editor> In Deirdre Boden and Don H. Zimmerman, editors, </editor> <booktitle> Talk and Social Structure, </booktitle> <pages> pages 195-216. </pages> <publisher> Polity Press. </publisher>
+Reference: <author> Ehud Reiter and Robert Dale (1992). </author> <title> A fast algorithm for the generation of referring expressions. </title> <booktitle> In Proceedings of the 14th International Conference on Computational Linguistics (COLING-92), </booktitle> <pages> pages 232-238. </pages>
+Reference: <author> John. R. </author> <title> Searle (1969). Speech Acts: An Essay in the Philosophy of Language. </title> <publisher> Cambridge University Press. </publisher>
+References-found: 14
+

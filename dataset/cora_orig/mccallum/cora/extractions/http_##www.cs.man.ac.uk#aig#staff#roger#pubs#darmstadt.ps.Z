@@ -1,0 +1,15 @@
+URL: http://www.cs.man.ac.uk/aig/staff/roger/pubs/darmstadt.ps.Z
+Refering-URL: http://www.cs.man.ac.uk/aig/staff/roger/webrefs.html
+Root-URL: http://www.cs.man.ac.uk
+Email: roger@cs.man.ac.uk,  
+Title: The Invisible Computer  
+Author: Roger J. Hubbold 
+Web: www.cs.man.ac.uk/aig  
+Note: 1  
+Address: Oxford Road Manchester M13 9PL  
+Affiliation: Advanced Interfaces Group Department of Computer Science University of Manchester  
+Abstract: The notion of an invisible computer has been re-awakened by recent advances in the technology of virtual reality. The central idea is of virtual environment systems which engage humans directly in the tasks of problem solving and understanding. Instead of employing keyboards and conventional screens, these new interfaces exploit human perceptual mechanisms and skills, learnt from interaction with the real world. Within the simulated environments, information is represented by objects with tangible presence and behaviour, which users can manipulate and experience as though they exist in reality. When this happens successfully, the computer is no longer perceived as a part of the interface in effect, it becomes invisible. As a tool for design, for improving understanding, and for education, this kind of invisible computer has immense potential. The term invisible computer was used by Rheingold in 1985. It has also been employed by Weiser to describe ubiquitous computing, in which computers are `hidden' inside intelligent devices, although this usage is different to that intended here. I argue that its origins can be traced back to pioneering work in computer graphics, in which the notion of simulating the behaviour of real-world systems was a key theme. In the intervening years, computer graphics has matured into an advanced discipline which now pervades computer interfaces world-wide. And yet, the dream of truly interactive environments, in which object simulation is linked to advanced interfaces has not yet come to fruition. Why is this, when even the earliest attempts demonstrated such a clear potential? We have plenty of computer power on tap it far exceeds anything we foresaw thirty years ago. We have a plethora of interactive techniques and a host of new input devices to experiment with and apply. And, we have mature software engineering methodologies for system design and development. It is sometimes assumed that providing an ultimate virtual reality experience is just a matter of `horsepower' even Weiser quotes this view. But this is to ignore a host of other factors which may be more important for a sense of presence and engagement than those currently pursued in computer graphics and real-time rendering. Such notions have as much to do with psychology as with computing. Among the research issues which must be addressed are: how do we describe virtual worlds and attach meaningful behaviour to objects in them?; how can we link simulations to virtual environments, and how can we implement simulations which can be 
+Abstract-found: 1
+Intro-found: 0
+References-found: 0
+

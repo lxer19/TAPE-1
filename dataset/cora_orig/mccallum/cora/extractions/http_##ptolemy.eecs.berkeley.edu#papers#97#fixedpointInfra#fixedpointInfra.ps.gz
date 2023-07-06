@@ -1,0 +1,18 @@
+URL: http://ptolemy.eecs.berkeley.edu/papers/97/fixedpointInfra/fixedpointInfra.ps.gz
+Refering-URL: http://ptolemy.eecs.berkeley.edu/papers/97/fixedpointInfra/
+Root-URL: 
+Title: An Infrastructure for Numeric Precision Control in the Ptolemy Environment  
+Author: Seehyun Kim and Edward A. Lee 
+Address: Berkeley, CA 94720 USA  
+Affiliation: Department of Electrical Engineering and Computer Science University of California  
+Abstract: An abstract algorithm specification with idealized arithmetic must be made concrete with realistic arithmetic in the final phase of the "algorithm-to-implementation" design process in order to assess power consumption, hardware cost, and execution speed. In this paper, an infrastructure for refining an idealized model to get an architecture-dependent specification with finite precision is introduced. This infrastructure is built on top of the Ptolemy environment. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> S. Kim, </author> <title> A Study on the Fixed-point Implementation of Digi tal Signal Processing Algorithms, </title> <type> Ph.D. thesis, </type> <institution> Seoul National University, </institution> <month> Feb. </month> <year> 1996. </year>
+Reference: [2] <author> S. Kim, K.-I. Kum, and W. Sung, </author> <title> "Fixed-point optimization utility for C and C++ based digital signal processing pro grams," </title> <journal> IEEE Transactions on Circuits and Systems, </journal> <volume> Part I, </volume> <year> 1996, </year> <note> submitted. </note>
+Reference: [3] <author> J. Buck, S. Ha, E. A. Lee, and D. G. Messerschmitt, "Ptolemy: </author> <title> A framework for simulating and prototyping heterogeneous sys tems," </title> <journal> Internatioal Journal of Computer Simulation, special issue on Simulation Software Development, </journal> <volume> vol. 4, </volume> <pages> pp. 155-182, </pages> <year> 1994. </year>
+Reference: [4] <author> C. Hylands, E. A. Lee, and H. J. Reekie, </author> <title> "The Tycho user interface system," </title> <booktitle> in Proc. The 5th Annual Tcl/Tk Workshop '97, </booktitle> <address> Boston, Massachusetts, </address> <month> July </month> <year> 1997. </year>
+Reference: [5] <institution> University of California at Berkeley, </institution> <note> The Almagest: Vol.1 - Ptolemy 0.7 User's Manual, </note> <year> 1997. </year>
+
+References-found: 5
+

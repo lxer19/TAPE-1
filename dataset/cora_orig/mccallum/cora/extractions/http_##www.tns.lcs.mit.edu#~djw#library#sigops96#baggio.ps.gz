@@ -1,0 +1,18 @@
+URL: http://www.tns.lcs.mit.edu/~djw/library/sigops96/baggio.ps.gz
+Refering-URL: http://www.tns.lcs.mit.edu/~djw/library/sigops96/index.html
+Root-URL: 
+Email: E-mail: Aline.Baggio@inria.fr, Ian.Piumarta@inria.fr  
+Author: Aline Baggio Ian Piumarta 
+Web: URL: http://www-sor.inria.fr/  
+Address: B.P. 105, 78153 Le Chesnay Cedex, FRANCE  
+Affiliation: INRIA, SOR Group  
+Abstract-found: 0
+Intro-found: 1
+Reference: [Badrinath 94] <author> B. R. Badrinath, Arup Acharya, Tomasz Imielinski: </author> <title> Structuring Distributed Algorithms for Mobile Hosts, </title> <booktitle> 14th International Conference on Distributed Computing Systems, </booktitle> <address> Poznan, Poland, </address> <month> June </month> <year> 1994. </year>
+Reference: [Forman 94] <author> Georges Forman, John Zahorjan: </author> <booktitle> The Challenges of Mobile Computing, IEEE Computer, </booktitle> <month> April </month> <year> 1994, </year> <pages> p. 39-47. </pages>
+Reference-contexts: 1. Introduction Mobile environments have particular characteristics (hardware, communication media, etc.) that differ significantly from fixed network architectures <ref> [Forman 94] </ref>. They require techniques to ensure a complete independence of movement (disconnectability, location independence, resource discovery in newly visited networks, and some degree of execution transparency).
+Reference: [Piumarta 95] <author> Ian Piumarta: </author> <title> SSP Chains - from Mobile Objects to Mobile Computing, </title> <booktitle> ECOOP95 Workshop on Mobility and Replication, </booktitle> <month> August </month> <year> 1995. </year>
+Reference: [Shapiro 92] <author> Marc Shapiro, Peter Dickman, David Plainfoss: </author> <title> SSP Chains: Robust, Distributed References Sup porting Acyclic Garbage Collection, </title> <type> INRIA report 1799, </type> <month> November </month> <year> 1992. </year>
+Reference-contexts: Basic referencing technique To access objects stored on mobile and fixed hosts we need a remote referencing mechanism; in this work we are using Stub-Scion Pair Chains (SSP Chains) <ref> [Shapiro 92] </ref>. The main goal of SSP Chains is to provide transparent referencing of remote objects in a distributed system, as a way to resolve the classical problem of object designation between remote hosts. corresponds to a process, so we can have several SSP Chain spaces on the same host). <p> pointers &B B A A Space 1 Space 4Space 3Space 2 Space 1 Space 4Space 3Space 2 Space 1 Space 4Space 3Space 2 Migration of B Exportation of &B &B B Space 1 Space 4Space 3Space 2 Short-cut reference of B SSP Chains support chain extension and their subsequent short-cutting <ref> [Shapiro 92] </ref> (Figure 2). Extension corresponds to adding stub (s) or scion (s) to either end of a chain. It is achieved by migration of an object or by exporting a reference to another space (from a support station to a mobile host, for example).
+References-found: 4
+

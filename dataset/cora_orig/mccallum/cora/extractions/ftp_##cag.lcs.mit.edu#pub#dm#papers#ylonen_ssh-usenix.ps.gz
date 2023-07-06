@@ -1,0 +1,28 @@
+URL: ftp://cag.lcs.mit.edu/pub/dm/papers/ylonen:ssh-usenix.ps.gz
+Refering-URL: http://www.pdos.lcs.mit.edu/~dm/
+Root-URL: 
+Title: SSH Secure Login Connections over the Internet of sites in at least 50 countries. Its
+Author: Tatu Ylonen 
+Keyword: rsh, rlogin, rcp, rdist, and telnet protocols. SSH  
+Note: SSH is intended as a replacement for the  is currently (March 1996) being used at thousands  
+Address: Tekniikantie 12, FIN-02150 ESPOO, Finland  
+Affiliation: SSH Communications Security Ltd.  
+Email: &lt;ylo@ssh.fi&gt;  
+Phone: Tel. (intl) +358-0-4354 3205 fax +358-0-4354 3206  
+Date: June 7, 1996  
+Web: existing  
+Abstract:  
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> J. Campbell. </author> <title> C Programmer's Guide to Serial Communications, </title> <type> Sams, </type> <year> 1993. </year>
+Reference-contexts: The packet type and data fields can be compressed with the gzip algorithm before encryption. Compression reduces the amount of transmitted data to about a third for typical interactive sessions. Integrity protection is currently (March 1996) provided by including CRC32 <ref> [1] </ref> of the packet under encryption. However, it is being replaced by HMAC-SHA; see Section 5. If tampering is detected, the error is logged, the user is notified, and the connection is terminated.
+Reference: [2] <author> Lai, X. </author> <title> On the Design and Security of Block Ciphers. </title> <booktitle> ETH Series in Information Processing, </booktitle> <volume> vol. 1, </volume> <publisher> Hartung-Gorre Verlag, </publisher> <address> Konstantz, </address> <year> 1992. </year>
+Reference-contexts: An attacker is limited to breaking the connection. Every transmitted packet starts with random padding, followed by (optionally compressed) packet type, packet data, and integrity protection data. The entire packet is encrypted using a suitable algorithm, such as IDEA-CFB <ref> [2, 9] </ref>, 3DES-CBC [9], or an RC4 1 [9] equivalent algorithm. The packet type and data fields can be compressed with the gzip algorithm before encryption. Compression reduces the amount of transmitted data to about a third for typical interactive sessions.
+Reference: [3] <author> M. Leech, M. Ganis, Y. Lee, R. Kuris, D. Koblas, and L. Jones. </author> <note> SOCKS Protocol Version 5, RFC 1928, </note> <year> 1996. </year>
+Reference: [4] <author> Mockapetris, P. </author> <title> Domain Names Concepts and Facilities, </title> <type> RFC 1034, </type> <institution> Internet Engineering Task Force, </institution> <year> 1987. </year>
+Reference: [5] <institution> Public Key Cryptography Standards, #1. RSA Laboratories. </institution> <note> Available for anonymous ftp at ftp.rsa.com. </note>
+Reference-contexts: The server key is never saved on disk. Key exchange is performed by encrypting the 256-bit session key twice using RSA. It is padded with non-zero random bytes before each encryption (according to PKCS#1 <ref> [5] </ref>). Server host authentication happens implicitly with the key exchange (the idea is that only the holder of the valid private key can decrypt the session key, and receipt of the encrypted confirmation tells the client that the session key was successfully decrypted).
+Reference: [6] <author> Rivest, R., Shamir, A., and Adleman, L. </author> <note> M. </note>
+Reference-contexts: Its security relies on cryptographic methods. SSH uses RSA <ref> [6, 9] </ref> for host authentication and user authentication. Host keys and user authentication keys are normally 1024 bits. The server key that changes every hour is 768 bits by default. It is used to protect intercepted historical sessions from being decrypted if the host key is later compromised.
+References-found: 6
+

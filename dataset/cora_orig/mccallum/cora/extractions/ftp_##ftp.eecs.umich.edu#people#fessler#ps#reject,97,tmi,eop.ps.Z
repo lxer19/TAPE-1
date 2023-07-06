@@ -1,0 +1,21 @@
+URL: ftp://ftp.eecs.umich.edu/people/fessler/ps/reject,97,tmi,eop.ps.Z
+Refering-URL: http://www.eecs.umich.edu/~fessler/papers/jour.html
+Root-URL: http://www.cs.umich.edu
+Email: Email: fessler@umich.edu,  
+Phone: Voice: 313-763-1434, FAX: 313-764-8041  
+Title: Equivalence of Pixel-Driven and Rotation-Based Backprojectors for Tomographic Image Reconstruction  
+Author: Jeffrey A. Fessler 
+Address: Ann Arbor, MI 48109-2122  
+Affiliation: 4240 EECS Bldg., University of Michigan,  
+Note: REJECTED BY IEEE TRANSACTIONS ON MEDICAL IMAGING, SUBMITTED 1/31/1997 1  
+Abstract: All methods for tomographic image reconstruction require a backprojection step. There have recently been several papers reporting empirical comparisons of various backprojection methods. This paper derives an analytical expression for "rotation-based" backprojectors, and shows analytically that pixel-driven back-projection is exactly equivalent to rotation-based backprojection when using the same interpolator. This equivalence holds for a very broad class of interpolation methods. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> S C B Lo. </author> <title> Strip and line path integrals with a square pixel matrix: A unified theory for computational CT projections. </title> <journal> IEEE Tr. Med. Im., </journal> <volume> 7(4) </volume> <pages> 355-363, </pages> <month> December </month> <year> 1988. </year>
+Reference: [2] <author> M Tabei and M Ueda. </author> <title> Backprojection by upsampled Fourier series expansion and interpolated FFT. </title> <journal> IEEE Tr. Im. Proc., </journal> <volume> 1(1) </volume> <pages> 77-87, </pages> <month> January </month> <year> 1992. </year>
+Reference: [3] <author> D C Yu and S C Huang. </author> <title> Study of reprojection methods in terms of their resolution loss and sampling errors. </title> <journal> IEEE Tr. Nuc. Sci., </journal> <volume> 40(4) </volume> <pages> 1174-1178, </pages> <month> August </month> <year> 1993. </year>
+Reference: [4] <author> W Zhuang, S S Gopal, and T J Hebert. </author> <title> Numerical evaluation of methods for computing tomographic projections. </title> <journal> IEEE Tr. Nuc. Sci., </journal> <volume> 41(4) </volume> <pages> 1660-1665, </pages> <month> August </month> <year> 1994. </year>
+Reference: [5] <author> E V R Di Bella, A B Barclay, R L Eisner, and R W Schafer. </author> <title> Comparison of rotation-based methods for iterative reconstruction algorithms. </title> <booktitle> In Proc. IEEE Nuc. Sci. Symp. Med. Im. Conf., </booktitle> <volume> volume 2, </volume> <pages> pages 1146-50, </pages> <year> 1995. </year>
+
+References-found: 5
+

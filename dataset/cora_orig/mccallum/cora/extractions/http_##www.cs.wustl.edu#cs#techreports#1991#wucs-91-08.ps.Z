@@ -1,0 +1,23 @@
+URL: http://www.cs.wustl.edu/cs/techreports/1991/wucs-91-08.ps.Z
+Refering-URL: http://www.cs.wustl.edu/cs/cs/publications.html
+Root-URL: http://www.cs.wustl.edu
+Title: SwarmExec: A Prolog-Based Execution Engine for a Shared-Dataspace Language with Visualization Capabilities  
+Author: Kenneth C. Cox C. Donald Wilcox Jerome Y. Plun 
+Date: December 1990  
+Address: IN ST LOUIS  Saint Louis, MO 63130-4899 One Brookings Drive Campus Box 1045  
+Affiliation: WASHINGTON UNIVERSITY  Washington School of Engineering Applied Science  Washington University Department of Computer Science  
+Pubnum: WUCS-91-08  
+Abstract-found: 0
+Intro-found: 1
+Reference: <institution> Research on visualization of concurrent computations at Washington University: </institution> <note> Cox, </note> <author> K. C., </author> <title> Visualization of Concurrent Computations (Doctor of Science Dissertation Proposal), </title> <type> Technical Report WUCS-89-32, </type> <institution> Department of Computer Science, Washington University in St. </institution>
+Reference: <author> Louis (June, </author> <year> 1989). </year>
+Reference: <author> Cox, K. C. and Roman, G.-C., </author> <title> Visualizing Concurrent Computations, </title> <type> Technical Report WUCS-90-31, </type> <institution> Department of Computer Science, Washington University in St. Louis, </institution> <month> September </month> <year> 1990. </year> <booktitle> Submitted to the 13th International Conference on Software Engineering. </booktitle>
+Reference: <author> Cox, K. C., </author> <title> Visualization in Concurrent Contexts: A Model", </title> <type> Technical Report WUCS-91-7, </type> <institution> Department of Computer Science, Washington University in St. Louis, </institution> <month> November </month> <year> 1990. </year> <note> 10 Cox, </note> <author> K. C., Wilcox, C. D., and Plun, J. Y., SwarmExec: </author> <title> A Prolog-Based Execution Engine for a Shared-Dataspace Language with Visualization Capabilities, </title> <type> Technical Report WUCS-91-8, </type> <institution> Department of Computer Science, Washington University in St. Louis, </institution> <month> December </month> <year> 1990. </year>
+Reference: <author> Cox, K. C., SwarmView: </author> <title> A Graphical Engine for the Interpretation and Display of Visualizations, </title> <type> Technical Report WUCS-91-9, </type> <institution> Department of Computer Science, Washington University in St. Louis, </institution> <month> January </month> <year> 1991. </year>
+Reference: <author> Cox, K. C., </author> <title> SwarmView Animation Vocabulary and Interpretation, </title> <type> Technical Report WUCS-91-10, </type> <institution> Department of Computer Science, Washington University in St. Louis, </institution> <month> November </month> <year> 1990. </year>
+Reference: <author> Roman, G.-C. and Cox, K., </author> <title> A Declarative Approach to Visualizing Concurrent Computations, </title> <journal> IEEE Computer, </journal> <volume> Vol 22 No. 10, </volume> <pages> pp. </pages> <month> 25-36 (October </month> <year> 1989). </year>
+Reference: <author> Roman, G.-C. and Cox, K., </author> <title> Declarative Visualization in the Shared Dataspace Paradigm, </title> <booktitle> Proceedings of the 11th International Conference on Software Engineering (May 1989). Swarm notation and proof system: </booktitle> <editor> Cunningham, H. C., </editor> <title> The Shared Dataspace Approach to Concurrent Computation: The Swarm Programming Model, Notation, and Logic, </title> <institution> Doctor of Science Dissertation, Department of Computer Science, Washington University in St. Louis, </institution> <month> August, </month> <year> 1989. </year>
+Reference: <author> Cunningham, H. C. and Roman, G.-C., </author> <title> "A UNITY-Style Programming Logic for a Shared Dataspace Language," </title> <journal> IEEE Transactions on Distributed and Parallel Computing Vol.1, </journal> <volume> No. 3, </volume> <pages> pp. </pages> <month> 365-376 (July </month> <year> 1990). </year>
+Reference: <author> Roman, G.-C. and Cunningham, H. C., </author> <title> "A Shared Dataspace Model of Concurrency - Language and Programming Implications," </title> <booktitle> Proceedings of the 9th International Conference on Distributed Computing Systems, </booktitle> <pages> pp. </pages> <month> 270-279 (June </month> <year> 1989). </year>
+References-found: 10
+

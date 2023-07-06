@@ -1,0 +1,15 @@
+URL: ftp://dimacs.rutgers.edu/pub/dimacs/TechnicalReports/TechReports/1996/96-11.ps.gz
+Refering-URL: http://dimacs.rutgers.edu/TechnicalReports/1996.html
+Root-URL: http://www.cs.rutgers.edu
+Abstract: dvitps ERROR: techrpt.dvi @ dimacs.rutgers.edu Certain fonts that you requested in your dvi file could not be found on the system. In order to print your document, other fonts that are installed were substituted for these missing fonts. Below is a list of the substitutions that were made. /usr/local/lib/fonts/gf/cmbx12.518pk substituted for cmbx12.519pk 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> V. E. Alekseev and D. V. Korobitsyn. </author> <title> Complexity of some problems on hereditary classes of graphs. </title> <journal> Diskret. Mat, </journal> <volume> 4 </volume> <pages> 34-40, </pages> <year> 1992. </year>
+Reference: [2] <author> M. Burlet and J. Fonlupt. </author> <title> Polynomial algorithm to recognize a Meyniel graph. In Topics on Perfect Graphs, </title> <editor> eds. C. Berge and V. Chvatal, </editor> <publisher> North Holland, Amsterdam, </publisher> <pages> 225-252, </pages> <year> 1984. </year> <note> MR 86g #05078. </note>
+Reference: [3] <author> Gregory Cherlin. </author> <title> Homogeneous directed graphs. </title> <journal> AMS Memoirs. </journal> <note> To appear. </note>
+Reference: [4] <author> Gregory Cherlin. </author> <title> Combinatorial problems connected with finite homogeneity. </title> <booktitle> In Contemporary Mathematics, </booktitle> <volume> Vol 131, </volume> <pages> 3-30, </pages> <year> 1992. </year>
+Reference: [5] <author> Gregory Cherlin. </author> <title> Homogeneous directed graphs. In Finite and Infinite Combinatorics in Sets and Logic, </title> <editor> N. Sauer, R. Woodrow, and B. Sands, eds., </editor> <title> NATO ASI Series C: </title> <journal> Mathematical and Physical Sciences, </journal> <volume> vol. 411, </volume> <publisher> Kluwer Academic Publishers, Norwell, </publisher> <address> MA, 81-95, </address> <year> 1993. </year>
+Reference: [6] <author> G. Cherlin and B. J. Latka. </author> <note> Forbidden Subtournaments. in preparation. </note>
+
+References-found: 6
+

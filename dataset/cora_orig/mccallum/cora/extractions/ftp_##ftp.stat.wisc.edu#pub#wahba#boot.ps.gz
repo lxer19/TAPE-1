@@ -1,0 +1,43 @@
+URL: ftp://ftp.stat.wisc.edu/pub/wahba/boot.ps.gz
+Refering-URL: http://www.pstat.ucsb.edu/~yuedong/
+Root-URL: 
+Title: Bootstrap Confidence Intervals for Smoothing Splines and their Comparison to Bayesian `Confidence Intervals' 1  
+Author: by Yuedong Wang and Grace Wahba 
+Note: 1 Supported by the National Science Foundation under Grant DMS-9121003 and the National Eye Institute under Grant R01 EY09946.  
+Address: 1210 West Dayton St. Madison, WI 53706  
+Affiliation: DEPARTMENT OF STATISTICS University of Wisconsin  
+Pubnum: TECHNICAL REPORT NO. 913  
+Email: e-mail wahba@stat.wisc.edu, wang@stat.wisc.edu  
+Date: January 27, 1994  
+Abstract-found: 0
+Intro-found: 1
+Reference: <author> Abramovich, F. and Steinberg, D. </author> <year> (1993). </year> <title> Improved inference in nonparametric regression using L k -smoothing splines, </title> <type> manuscript, </type> <institution> Tel Aviv University. </institution>
+Reference: <author> Aronszajn, N. </author> <year> (1950). </year> <title> Theory of reproducing kernels, </title> <journal> Trans. Amer. Math. </journal> <volume> Soc 68: </volume> <pages> 337-404. </pages>
+Reference: <author> Carter, C. K. and Eagleson, G. K. </author> <year> (1992). </year> <title> A comparison of variance estimations in nonparametric regression, </title> <journal> Journal of the Royal Statistical Society B 54: </journal> <pages> 773-780. </pages>
+Reference: <author> Dikta, G. </author> <year> (1990). </year> <title> Bootstrap approximation of nearest neighbor regression function estimates, </title> <journal> Journal of Multivariate Analysis 32: </journal> <pages> 213-229. </pages>
+Reference: <author> Efron, B. </author> <year> (1981). </year> <title> Nonparametric standard errors and confidence intervals, </title> <journal> Canadian Journal of Statistics 9: </journal> <pages> 139-172. </pages>
+Reference: <author> Efron, B. </author> <year> (1982). </year> <title> The Jackknife, the bootstrap, and Other Resampling Plans, </title> <address> CBMS 38, SIAM-NSF. </address>
+Reference: <author> Gu, C. </author> <year> (1989). </year> <title> RKPACK and its applications: Fitting smoothing spline models, </title> <journal> Proceedings of the Statistical Computing Section, </journal> <volume> ASA: </volume> <pages> pp. 42-51. </pages>
+Reference: <author> Gu, C. </author> <year> (1990). </year> <title> Adaptive spline smoothing in non-Gaussian regression models, </title> <journal> Journal of the American Statistical Association 85: </journal> <pages> 801-807. </pages>
+Reference: <author> Gu, C. </author> <year> (1992a). </year> <title> Cross-validating non Gaussian data, </title> <journal> Journal of Computational and Graphical Statistics 2: </journal> <pages> 169-179. </pages>
+Reference: <author> Gu, C. </author> <year> (1992b). </year> <title> Penalized likelihood regression: A Bayesian analysis, </title> <booktitle> Statistica Sinica 2: </booktitle> <pages> 255-264. </pages>
+Reference: <author> Gu, C. and Wahba, G. </author> <year> (1993a). </year> <title> Semiparametric ANOVA with tensor product thin plate spline, </title> <journal> Journal of the Royal Statistical Society B 55: </journal> <pages> 353-368. </pages>
+Reference: <author> Gu, C. and Wahba, G. </author> <year> (1993b). </year> <title> Smoothing spline ANOVA with component-wise Bayesian `confidence intervals', </title> <journal> Journal of Computational and Graphical Statistics 2: </journal> <pages> 97-117. </pages> <publisher> 25 Hall, </publisher> <address> P. </address> <year> (1990). </year> <title> Using the bootstrap to estimate mean squared error and select smoothing parameter in nonparametric problems, </title> <journal> Journal of Multivariate Analysis 32: </journal> <pages> 177-203. </pages>
+Reference: <author> Hardle, W. and Bowman, W. </author> <year> (1988). </year> <title> Bootstrapping in nonparametric gression: Local adaptive smoothing and confidence bands, </title> <journal> Journal of the American Statistical Association 83: </journal> <pages> 102-110. </pages>
+Reference: <author> Hardle, W. and Marron, J. S. </author> <year> (1991). </year> <title> Bootstrap simultaneous error bars for nonparametric regression, </title> <journal> The Annals of Statistics 19: </journal> <pages> 778-796. </pages>
+Reference: <author> Kooperberg, C., Stone, C. and Truong, Y. K. </author> <year> (1993). </year> <title> Hazard regression, </title> <type> Technical Report No. 389, </type> <institution> University of California-Berkeley, Dept. of Statistics. </institution>
+Reference: <author> McCullagh, P. and Nelder, J. </author> <year> (1989). </year> <title> Generalized Linear Models, </title> <publisher> Chapman and Hall, London. </publisher>
+Reference: <author> Meier, K. and Nychka, D. </author> <year> (1993). </year> <title> Nonparametric estimation of rate equations for nutrient uptake, </title> <journal> Journal of the American Statistical Association 88: </journal> <volume> 602 -614. </volume>
+Reference: <author> Nychka, D. </author> <year> (1988). </year> <title> Bayesian confidence intervals for smoothing splines, </title> <journal> Journal of the American Statistical Association 83: </journal> <pages> 1134-1143. </pages>
+Reference: <author> Nychka, D. </author> <year> (1990). </year> <title> The average posterior variance of a smoothing spline and a consistent estimate of the average squared error, </title> <journal> The Annals of Statistics 18: </journal> <pages> 415-428. </pages>
+Reference: <author> O'Sullivan, F. </author> <year> (1983). </year> <title> The analysis of some penalized likelihood estimation schemes, </title> <type> PhD thesis, </type> <institution> Dept. of Statistics, University of Wisconsin, Madison, WI. </institution> <type> Technical Report 726. </type>
+Reference: <author> O'Sullivan, F., Yandell, B. and Raynor, W. </author> <year> (1986). </year> <title> Automatic smoothing of regression functions in generalized linear models, </title> <journal> Journal of the American Statistical Association 81: </journal> <pages> 96-103. </pages>
+Reference: <author> Wahba, G. </author> <year> (1983). </year> <title> Bayesian confidence intervals for the cross-validated smoothing spline, </title> <journal> Journal of the Royal Statistical Society B 45: </journal> <pages> 133-150. </pages>
+Reference-contexts: Both simulations <ref> (Wahba, 1983) </ref> and theory (Nychka (1988), Nychka (1990)) suggest that these Bayesian confidence intervals have good frequentist properties for f 2 W m provided ^ is a good estimate of the which minimizes the predictive mean square error. The intervals must be interpreted "across the function", rather than pointwise.
+Reference: <author> Wahba, G. </author> <year> (1990). </year> <title> Spline Models for Observational Data, </title> <booktitle> SIAM, Philadelphia. CBMS-NSF Regional Conference Series in Applied Mathematics, </booktitle> <address> Vol.59. </address>
+Reference-contexts: is a linear function of y = (y 1 ; ; y n ) T : ^ f = A ()y, where A () is the so called "hat" or influence matrix. can be selected by a data-based procedure such as generalized cross validation (GCV) or unbiased risk estimation (UBR) <ref> (see Wahba, 1990) </ref>. The GCV estimate of is the minimizer of the GCV function V () = n 1 tr (I A ())] 2 : The UBR estimate of is the minimizer of U () = n 2 trA (); assuming that 2 is known.
+Reference: <author> Wahba, G. and Wang, Y. </author> <year> (1993). </year> <title> Behavior near zero of the distribution of GCV smoothing parameter estimates for splines, </title> <type> TR 910, </type> <institution> University of Wisconsin-Madison, Dept. of Statistics, </institution> <note> submitted. </note>
+Reference: <author> Wahba, G., Wang, Y., Gu, C., Klein, R. and Klein, B. </author> <year> (1994). </year> <title> Structured machine learning for `soft' classification with smoothing spline ANOVA and stacked tuning, testing and evaluation, </title> <institution> University of Wisconsin-Madison Statistics Dept. </institution> <note> TR 909, to appear in " Advances in Neural Information Processing Systems 6", </note> <editor> J. Cowan, G. Tesauro, and J. Alspector, eds, </editor> <publisher> Morgan Kauffman. </publisher>
+Reference: <author> Wang, Y. </author> <year> (1994). </year> <title> Smoothing spline analysis of variance of data from exponential families, </title> <type> Ph.D. Thesis, </type> <institution> University of Wisconsin-Madison, Dept of Statistics, </institution> <note> in preparation. 26 </note>
+References-found: 26
+

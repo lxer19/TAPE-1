@@ -1,0 +1,30 @@
+URL: ftp://ftp.cs.caltech.edu/tr/cs-tr-88-10.ps.Z
+Refering-URL: ftp://ftp.cs.caltech.edu/tr/INDEX.html
+Root-URL: http://www.cs.caltech.edu
+Title: The C Programmer's Abbreviated Guide to Multicomputer Programming, Caltech Computer  
+Author: [Seitz et al. a] C.L. Seitz, J. Seizovic, W.-K. Su, [Seitz et al. b] C.L. Seitz, W.C. Athas, C.M. Flaig, A.J. Martin, J. Seizovic, C.G. Steele, W.-K. Su, 
+Date: 1247-1265, Dec. 1984.  22-33, Jan. 1985.  
+Note: 42 BIBLIOGRAPHY [Seitz 84] C.L. Seitz, Concurrent VLSI Architectures, IEEE Transactions on Computers, pp.  [Seitz 85] C.L. Seitz, The Cosmic Cube, Communications of the ACM, pp.  The Architecture and Programming of the Ametek Series 2010 Multicomputer, Proceedings of the 1988 Hypercube Conference, 1988.  
+Pubnum: Science Technical Report [CS-TR-88-1], 1988.  
+Abstract: Su & Seitz 86] W.-K. Su, C.L. Seitz, Object-Oriented Event-Driven Simulation in Submicron Systems Architecture Semiannual Technical Report, pp. 15-16, Caltech Computer Science Technical Report [5235:TR:86], 1986. [Su et al. 87] W.-K. Su, R. Faucette, C.L. Seitz, C Programmer's Guide to the Cosmic Cube Caltech Computer Science Technical Report [5252:TR:87], 1987. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [Seitz 84] <author> C.L. Seitz, </author> <title> Concurrent VLSI Architectures, </title> <journal> IEEE Transactions on Computers, </journal> <pages> pp. 1247-1265, </pages> <month> Dec. </month> <year> 1984. </year>
+Reference: [Seitz 85] <author> C.L. Seitz, </author> <title> The Cosmic Cube, </title> <journal> Communications of the ACM, </journal> <pages> pp. 22-33, </pages> <month> Jan. </month> <year> 1985. </year>
+Reference: [Seitz et al. 88a] <author> C.L. Seitz, J. Seizovic, W.-K. Su, </author> <title> The C Programmer's Abbreviated Guide to Multicomputer Programming, </title> <institution> Caltech Computer Science Technical Report [CS-TR-88-1], </institution> <year> 1988. </year>
+Reference: [Seitz et al. 88b] <author> C.L. Seitz, W.C. Athas, </author> <title> C.M. </title> <editor> Flaig, A.J. Martin, J. Seizovic, C.G. Steele, W.-K. Su, </editor> <booktitle> The Architecture and Programming of the Ametek Series 2010 Multicomputer, Proceedings of the 1988 Hypercube Conference, </booktitle> <year> 1988. </year>
+Reference: [Su & Seitz 86] <author> W.-K. Su, C.L. Seitz, </author> <booktitle> Object-Oriented Event-Driven Simulation in Submicron Systems Architecture Semiannual Technical Report, </booktitle> <pages> pp. 15-16, </pages> <institution> Caltech Computer Science Technical Report [5235:TR:86], </institution> <year> 1986. </year>
+Reference: [Su et al. 87] <author> W.-K. Su, R. Faucette, C.L. Seitz, </author> <title> C Programmer's Guide to the Cosmic Cube Caltech Computer Science Technical Report [5252:TR:87], 1987. Bibliography </title>
+Reference: [Agha 86] <author> G.A. Agha, </author> <title> Actors: A Model of Concurrent Computation in Distributed Systems, </title> <publisher> MIT Press, </publisher> <year> 1986. </year>
+Reference: [Aho et al. 74] <author> A.V. Aho, J.E. Hopcroft, J.D. Ullman, </author> <title> The Design and Analysis of Computer Algorithms, </title> <publisher> Addison-Wesley, </publisher> <year> 1974. </year>
+Reference: [Athas 87] <author> W.C. Athas, </author> <title> Fine Grain Concurrent Computation, </title> <institution> Caltech Computer Science Technical Report [5242:TR:87], </institution> <year> 1987. </year>
+Reference: [Athas & Seitz 88] <author> W.C. Athas, C.L. Seitz, </author> <title> Multicomputers: Message-Passing Concurrent Computers, </title> <booktitle> IEEE Computer, </booktitle> <pages> pp. 9-24, </pages> <month> August </month> <year> 1988. </year>
+Reference: [Dally 87] <author> W.J. Dally, </author> <title> A VLSI Architecture for Concurrent Data Structures, </title> <publisher> Kluwer Academic Publishers, </publisher> <year> 1987. </year>
+Reference: [Dally & Seitz 87] <author> W.J. Dally, C.L. Seitz, </author> <title> Deadlock-Free Message Routing in Multiprocessor Interconnection Networks, </title> <journal> IEEE Transactions on Computers, </journal> <pages> pp. 547-553, </pages> <month> May </month> <year> 1985. </year>
+Reference: [Flaig 87] <author> C.M. Flaig, </author> <title> VLSI Mesh Routing Systems, </title> <institution> Caltech Computer Science Technical Report [5241:TR:87], </institution> <year> 1987. </year>
+Reference: [Kale & Shu 88] <author> L.V. Kale, W. Shu, </author> <title> The Chare-Kernel Language for Parallel Programming: A Perspective, </title> <institution> University of Illinois at Urbana-Champaign Technical Report [UIUCDCS-R-88-1451], </institution> <year> 1988. </year>
+Reference: [Knuth 68] <author> D.E. Knuth, </author> <title> The Art of Computer Programming: Fundamental Algorithms, </title> <publisher> Addison-Wesley, </publisher> <year> 1968. </year>
+Reference: [Knuth 73] <author> D.E. Knuth, </author> <title> The Art of Computer Programming: Sorting and Searching, </title> <publisher> Addison-Wesley, </publisher> <year> 1973. </year>
+
+References-found: 16
+

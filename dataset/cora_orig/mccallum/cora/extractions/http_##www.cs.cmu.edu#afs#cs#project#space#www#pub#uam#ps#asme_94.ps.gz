@@ -1,0 +1,27 @@
+URL: http://www.cs.cmu.edu/afs/cs/project/space/www/pub/uam/ps/asme_94.ps.gz
+Refering-URL: http://www.cs.cmu.edu/afs/cs/user/mbergerm/www/uam.html
+Root-URL: 
+Title: ROBUST JOINT AND CARTESIAN CONTROL OF UNDERACTUATED MANIPULATORS  
+Author: Marcel Bergerman Yangsheng Xu 
+Address: 5000 Forbes Avenue Pittsburgh PA 15213  
+Affiliation: Department of Electrical and Computer Engineering The Robotics Institute Carnegie Mellon University  
+Note: Transactions of the ASME, Journal of Dynamic Systems, Measurement, and Control, vol. 118, no. 3, 09/96.  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> Arai, H. and Tachi, S., </author> <year> 1991, </year> <title> Position control of a manipulator with passive joints using dynamic coupling, </title> <journal> IEEE Trans. on Robotics and Automation, </journal> <volume> vol. 7, no. 4, </volume> <pages> pp. 528-534. </pages>
+Reference: [2] <author> Arai, H., Tanie, K. and Tachi, S., </author> <year> 1993, </year> <title> Dynamic control of a manipulator with passive joints in operational space, </title> <journal> IEEE Trans. on Robotics and Automation, </journal> <volume> vol. 9, no. 1, </volume> <pages> pp. 85-93. </pages>
+Reference: [3] <author> Bailey, E. and Arapostathis, A., </author> <year> 1987, </year> <title> Simple sliding mode control scheme applied to robot manipulators, </title> <journal> Int. Journal of Control, </journal> <volume> vol. 45, no. 4, </volume> <pages> pp. 1197-1209. </pages>
+Reference: [4] <author> Bergerman, M. and Cruz, J. J., </author> <year> 1994, </year> <title> Robust position control of mechanical manipulators, </title> <booktitle> 3rd International Workshop on Advanced Motion Control, </booktitle> <address> Berkeley, CA. </address>
+Reference: [5] <author> Bergerman, M., Lee, C. and Xu, Y., </author> <year> 1994, </year> <title> Dynamic coupling measure of underactuated manipulators, </title> <institution> CMU-TR-RI-94-25, Carnegie Mellon University. </institution>
+Reference: [6] <author> Hung, J.Y., Gao, W. and Hung, J.C., </author> <year> 1993, </year> <title> Variable structure control: a survey, </title> <journal> IEEE Transactions on Industrial Electronics, </journal> <volume> vol. 40, no. 1, </volume> <pages> pp. 2-22. </pages>
+Reference: [7] <author> Gu, Y.-L. and Xu, Y., </author> <year> 1994, </year> <title> Under-actuated robot systems: dynamic interaction and adaptive control, </title> <booktitle> Proceedings of the IEEE Systems, Man and Cybernetics Conference. </booktitle>
+Reference: [8] <author> Jain, A. and Rodriguez, G., </author> <year> 1993, </year> <title> An analysis of the kinematics and dynamics of underac tuated manipulators, </title> <journal> IEEE Trans. on Robotics and Automation, </journal> <volume> vol. 9, no. 4, </volume> <pages> pp. 411-422. </pages>
+Reference: [9] <author> Lewis, C.L. and Maciejewski, A.A., </author> <year> 1994, </year> <title> Failure tolerant operation of kinematically redundant manipulators, </title> <booktitle> Conference on Intelligent Robotics in Field, Factory, Service, and Space, </booktitle> <pages> pp. 837-841. </pages>
+Reference: [10] <author> Morgan, R.G. and zgner, </author> ., <year> 1985, </year> <title> A decentralized variable structure control algorithm for robotic manipulators, </title> <journal> IEEE Journal of Robotics and Automation, </journal> <volume> vol. RA-1, no.1, </volume> <pages> pp. 57-65. </pages>
+Reference: [11] <author> Mukherjee, R. and Chen, D., </author> <year> 1993, </year> <title> Control of free-ying underactuated space manipulators to equilibrium manifolds, </title> <journal> IEEE Trans. on Robotics and Automation, </journal> <volume> vol. 9, no. 5, </volume> <pages> pp. 561-570. </pages>
+Reference: [12] <author> Oriolo, G. and Nakamura, Y., </author> <year> 1991, </year> <title> Control of mechanical systems with second-order non holonomic constraints: underactuated manipulators, </title> <booktitle> Proc. of the 30th Conference on Deci-sion and Control, </booktitle> <pages> pp. 2398-2403. </pages>
+Reference: [13] <author> Papadopoulos, E. and Dubowsky, S., </author> <year> 1991, </year> <title> Failure recovery control for space robotic sys tems, </title> <booktitle> Proceedings of the 1991 American Control Conference, </booktitle> <volume> vol. 2, </volume> <pages> pp. 1485-1490. </pages>
+Reference: [14] <author> Saito, F., Fukuda, T. and Arai, F., </author> <year> 1994, </year> <title> Swing and locomotion control for a two-link bra chiation robot, </title> <journal> IEEE Control Systems Magazine, </journal> <month> Feb. </month> <year> 1994, </year> <pages> pp. 5-12. </pages>
+
+References-found: 14
+

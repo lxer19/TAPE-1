@@ -1,0 +1,24 @@
+URL: http://www.cs.huji.ac.il/papers/IP/inv-autocorr.ps.gz
+Refering-URL: http://www.cs.huji.ac.il/papers/IP/index.html
+Root-URL: 
+Title: ON THE COMPLEXITY OF INVERTING THE AUTOCORRELATION FUNCTION OF A FINITE INTEGER SEQUENCE, AND THE
+Author: Paul Lemke* and 
+Keyword: unlabelled distances between pairs of points.  
+Abstract: Michael Wermany Abstract. We show that a polynomial time algorithm exists to find all integer sequences with a given autocorrelation function, and we show that the same methods yield a polynomial bound on the number of different arrangements (up to translation and reflection) of n points on a line which generate a given multi-set of n 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Susan Landau, </author> <title> Factoring Polynomials Quickly, </title> <journal> Notices of the American Mathematical Society, </journal> <volume> Volume 34, Number 1, </volume> <year> 1987, </year> <pages> pp. </pages> <address> 3- 8. </address>
+Reference: [2] <author> Joeseph Rosenblatt and Paul D. Seymour, </author> <title> The Structure of Homometric Sets, </title> <journal> SIAM Journal on Algebra and Discrete Methods 3 (1982), </journal> <pages> pp. 343-350. </pages>
+Reference-contexts: Rosenblatt and P.D. Seymour in <ref> [2] </ref>, which deals with more general polynomials, although he does not prove a polynomial bound on the running time. 2 Algorithm. Factor p (x) into polynomials which are irreducible over the integers, and which have the coefficient of their highest degree term positive. <p> Work on finite homometric sets goes back at least as far as 1939 ([9]), with more recent results in [6], <ref> [2] </ref>, and [7]. Here, we will limit our concerns to finite sets in R 1 .
+Reference: [3] <author> C.J. Smyth, </author> <title> Some Results on Newman Polynomials, </title> <note> Indiana University Mathematics Journal 34 (1985), pp. 195-200. </note>
+Reference-contexts: The remaining part of the proof is therefore to show that 2 jJj is bounded from above by a fixed power of P 2n j=0 jc j j. This may be done by the method of C.J. Smyth in <ref> [3] </ref> in the context of Newman polynomials, modified for more general polynomials. <p> This inequality is credited in <ref> [3] </ref> to W. Specht ([5]).
+Reference: [4] <author> C.J. Smyth, </author> <title> On the Product of the Conjugates Outside the Unit Circle of an Algebraic Integer, </title> <journal> Bulletin of the London Mathematical Society 3 (1971), </journal> <pages> pp. 169-175. </pages>
+Reference: [5] <editor> W. Specht, Abschatzungen der Wurzeln albebraischer Gleichungen, </editor> <booktitle> Mathematische Zeitschift 52 (1949), </booktitle> <pages> pp. 310-321. </pages>
+Reference: [6] <author> Joel N. Franklin, </author> <title> Ambiguities in the X-ray Analysis of Crystal Structures, </title> <booktitle> Acta Crystallographic A 30 (1974), </booktitle> <pages> pp. 698-702. </pages>
+Reference-contexts: In terms of the length ` of the sequence, the number of solutions to (1) will then be approximately ` ln3 = ` 0:63092975::: . This example is a modification of examples given by J.N. Franklin in <ref> [6] </ref> and later by Rosenblatt in [7] in the context of homometric sets (discussed later). <p> Work on finite homometric sets goes back at least as far as 1939 ([9]), with more recent results in <ref> [6] </ref>, [2], and [7]. Here, we will limit our concerns to finite sets in R 1 .
+Reference: [7] <author> Joeseph Rosenblatt, </author> <title> Phase Retrieval, </title> <booktitle> Communications in Mathematical Physics 95 (1984), </booktitle> <pages> pp. 317-343. </pages>
+Reference-contexts: In terms of the length ` of the sequence, the number of solutions to (1) will then be approximately ` ln3 = ` 0:63092975::: . This example is a modification of examples given by J.N. Franklin in [6] and later by Rosenblatt in <ref> [7] </ref> in the context of homometric sets (discussed later). <p> Work on finite homometric sets goes back at least as far as 1939 ([9]), with more recent results in [6], [2], and <ref> [7] </ref>. Here, we will limit our concerns to finite sets in R 1 .
+Reference: [8] <author> Shmuel Winograd, </author> <type> Personal Communication, </type> <month> July </month> <year> 1988. </year>
+Reference: [9] <author> S. Piccard, </author> <title> Sur les Ensembles de Distances des Ensembles de Points d'un Espace Euclidien, </title> <institution> Memories de l'Universite de Neuchatel, </institution> <month> 13 </month> <year> (1939). </year> <month> 12 </month>
+References-found: 9
+

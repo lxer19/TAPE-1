@@ -1,0 +1,18 @@
+URL: ftp://ftp.cs.kun.nl/pub/SoftwEng.InfSyst/articles/EISConcepts.ps.Z
+Refering-URL: http://www.sci.kun.nl/afdis/publist.html
+Root-URL: 
+Email: ef@cs.kun.nl, hanoei@cs.kun.nl,  erikp@cs.kun.nl  
+Title: A Conceptual Framework for Evolving Information Systems  A Conceptual Framework for Evolving Information Systems.  
+Author: E.D. Falkenberg H.A. Proper Falkenberg, J.L.H. Oei, and H.A. Proper. 
+Keyword: Evolution of Information Systems, Schema Evolution, Temporal Information Systems, Historical Information Systems.  
+Address: Nijmegen, Toernooiveld 1, NL 6525 ED Nijmegen, The Netherlands  
+Affiliation: Department of Information Systems, University of  
+Note: Published as: E.D.  In H.G. Sol and R.L. Crosslin, editors, Dynamic Modelling of Information Systems II, pages 353-375. North Holland, 1992.  The investigations were partly supported by the Foundation for Computer Science in the Netherlands (SION) with financial support from the Netherlands Organization for Scientific Research (NWO).  
+Date: April 29, 1993  
+Abstract: In this paper, we will treat evolving information systems, which support the information needs of an evolving organization. Such a system is able to change at the same pace as the organization does, such that there is no need to interrupt the activities of the organization. Such a system supports changes of all time- and application-dependent aspects. We will present a conceptual framework of an approach to evolving information systems. The architecture of such a system will be explained, where we will make disctinctions between meta model and application model, and between world, action and behavioural aspects of these models. Furthermore, evolution management of application models will be discussed, whereby update is regarded as recording, correction or forgetting, and whereby state transitions are considered on three different levels, viz. the organizational level, the recording level and the correction level. A formal specification of this approach to evolution management will be provided too. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [ALLS88] <author> F. van Assche, P. Layzell, P. Loucopoulos, and G. Speltincx. </author> <month> RUBRIC: </month>
+Reference-contexts: The representation of application model elements for describing the behaviour part we will call them behaviour model elements maybe based on `when-if-then' rules ([RR82] and <ref> [ALLS88] </ref>) which specify (trigger-)relations between events and the activities specified by the activity model elements. The world part of the application model, finally, is described by application model elements which we call world model elements.
+References-found: 1
+

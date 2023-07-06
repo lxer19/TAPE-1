@@ -1,0 +1,30 @@
+URL: ftp://ftp.dcs.ex.ac.uk/pub/usr/david/fuji95.ps.Z
+Refering-URL: http://www.dcs.ex.ac.uk/~david/research/dynamic.html
+Root-URL: http://www.dcs.ex.ac.uk
+Email: E-mail: david@dcs.exeter.ac.uk  
+Title: A Throw-away Compiler for a Lazy Functional Language  
+Author: David Wakeling 
+Address: Exeter, EX4 4PT, United Kingdom  
+Affiliation: Department of Computer Science, University of Exeter  
+Abstract: Lazy functional languages seem to be unsuitable for programming small computers because their implementations require so much memory for program code and graph. In this paper we argue that the program code can be made much smaller (without running much slower) by using the old idea of throw-away compilation. Our first results are promising programs using throw-away compilation typically run at 75% of the speed of those with ordinary compilation, but require only 25% of the code space. 
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> J. L. Armstrong, R. Virding, and M. Williams. </author> <title> Concurrent Programming in Erlang. </title> <publisher> Prentice-Hall, </publisher> <year> 1993. </year>
+Reference: 2. <author> L. Augustsson and T. Johnsson. </author> <title> The Chalmers Lazy-ML Compiler. </title> <journal> Computer Journal, </journal> <volume> 32(2) </volume> <pages> 127-141, </pages> <month> April </month> <year> 1989. </year>
+Reference: 3. <author> P. J. Brown. </author> <title> Throw-away Compiling. </title> <journal> Software Practice and Experience, </journal> <volume> 6 </volume> <pages> 423-434, </pages> <year> 1976. </year>
+Reference: 4. <author> L. P. Deutsch and A. M. Schiffman. </author> <title> Efficient Implementation of the Smalltalk-80 System. </title> <booktitle> In Proceedings of the Eleventh Annual ACM Symposium on the Principles of Programming Languages, </booktitle> <pages> pages 297-302, </pages> <month> January </month> <year> 1984. </year>
+Reference: 5. <author> S. L. Peyton Jones. </author> <title> Implementing Lazy Functional Languages on Stock Hardware: </title> <journal> the Spineless Tagless G-machine. Journal of Functional Programming, </journal> <pages> pages 127-202, </pages> <month> April </month> <year> 1992. </year>
+Reference: 6. <author> D. Keppel. </author> <title> A Portable Interface for On-The-Fly Instruction Space Modification. </title> <booktitle> In Proceedings of the Fourth International Conference on Architectural Support for Programming Languages and Operating Systems, </booktitle> <pages> pages 86-95, </pages> <month> April </month> <year> 1991. </year> <journal> SIGPLAN Notices 26(4) 1991. </journal>
+Reference: 7. <author> D. Keppel, S. J. Eggers, and R. R. Henry. </author> <title> A Case for Runtime Code Generation. </title> <type> Technical Report 91-11-04, </type> <institution> Department of Computer Science and Engineering, University of Washington, </institution> <year> 1991. </year>
+Reference: 8. <author> X. Leroy. </author> <title> The ZINC Experiment: An Ecomonical Implementation of the ML Language. </title> <type> Technical Report RT 117, </type> <institution> INRIA, </institution> <month> February </month> <year> 1990. </year>
+Reference: 9. <author> D. A. Patterson and J. L. Hennessy. </author> <title> Computer Organization and Design: The Hardware Software Interface. </title> <publisher> Morgan Kaufmann, </publisher> <year> 1994. </year>
+Reference: 10. <editor> S. L. Peyton Jones. </editor> <booktitle> The Implementation of Functional Programming Languages. </booktitle> <publisher> Prentice-Hall, </publisher> <year> 1987. </year>
+Reference: 11. <author> D. Pountain. </author> <title> Parallel Course. </title> <journal> Byte, </journal> <pages> pages 53-60, </pages> <month> July </month> <year> 1994. </year>
+Reference: 12. <author> N. R ojemo. </author> <title> Highlights from Nhc a Space-efficient Haskell Compiler. </title> <booktitle> In Proceedings of the ACM Conference on Functional Programming Languages and Computer Architecture, </booktitle> <pages> pages 282-291, </pages> <month> June </month> <year> 1995. </year>
+Reference: 13. <author> C. Runciman and D. Wakeling. </author> <title> Heap Profiling of a Lazy Functional Compiler. </title> <booktitle> In Proceedings of the 1992 Glasgow Workshop on Functional Programming, </booktitle> <pages> pages 203-214. </pages> <publisher> Springer-Verlag, </publisher> <month> August </month> <year> 1992. </year>
+Reference: 14. <author> C. Runciman and D. Wakeling. </author> <title> Heap Profiling of Lazy Functional Programs. </title> <journal> Journal of Functional Programming, </journal> <volume> 3(2) </volume> <pages> 217-245, </pages> <month> April </month> <year> 1993. </year>
+Reference: 15. <author> D. A. Turner. </author> <title> A new implementation technique for applicative languages. </title> <journal> Software Practice and Experience, </journal> <volume> 9(1) </volume> <pages> 31-50, </pages> <month> January </month> <year> 1979. </year>
+Reference: 16. <author> D. A. Turner. </author> <title> Recursion equations as a programming language. </title> <editor> In J. Darlington, P. Henderson, and D. A. Turner, editors, </editor> <booktitle> Functional Programming and its Applications, </booktitle> <pages> pages 1-28. </pages> <publisher> Cambridge University Press, </publisher> <year> 1982. </year>
+Reference: 17. <author> M. Wallace and C. Runciman. </author> <title> Lambdas in the Liftshaft Functional Programming and an Embedded Architecture. </title> <booktitle> In Proceedings of the ACM Conference on Functional Programming Languages and Computer Architecture, </booktitle> <pages> pages 249-258, </pages> <month> June </month> <year> 1995. </year>
+References-found: 17
+

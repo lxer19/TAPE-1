@@ -1,0 +1,23 @@
+URL: ftp://ftp.mcs.anl.gov/chammp/rslref.ps.gz
+Refering-URL: http://www.mcs.anl.gov/RSL/
+Root-URL: http://www.mcs.anl.gov
+Email: michalak@mcs.anl.gov  
+Title: Distribution Category:  Reference Manual for RSL: A Runtime System Library for Parallel Weather Models  
+Author: Mathematics and by J. Michalakes 
+Note: This work was supported by the Mathematical, Information, and Computational Sciences Division subprogram of the Office of Computational and Technology Research, U.S. Department of Energy, under Contract W-31-109-Eng-38..  
+Date: February 18, 1997  
+Web: ANL-00  
+Address: 9700 South Cass Avenue Argonne, IL 60439  
+Affiliation: Computer Science (UC-405) ARGONNE NATIONAL LABORATORY  Mathematics and Computer Science Division Argonne National Laboratory  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> Georg A. Grell, Jimmy Dudhia, and David R. Stauffer. </author> <title> A Description of the Fifth-Generation Penn State/NCAR Mesoscale Model (MM5). </title> <type> Technical Report NCAR/TN-398+STR, </type> <institution> National Center for Atmospheric Research, Boulder, Colorado, </institution> <month> June </month> <year> 1994. </year>
+Reference-contexts: RSL is a parallel runtime system library developed at Argonne National Laboratory that is tailored to regular-grid atmospheric models with nesting. It was used with Fortran90 to parallelize a well-known and widely used regional weather model, the Penn State/NCAR Mesoscale Model MM5 <ref> [1] </ref>. It is similar to efforts of a number of other groups: Comlib [2], LPARX [3], and NNT/SMS [5] in that it provides high-level, efficient mechanisms for performing data parallel computations over multiple interelated grids.
+Reference: [2] <author> R. Hempel and H. Ritzdorf. </author> <title> The GMD communications library for grid-oriented problems. </title> <type> Technical Report GMD-0589, </type> <institution> German National Research Center for Information Technology, </institution> <year> 1991. </year>
+Reference-contexts: It was used with Fortran90 to parallelize a well-known and widely used regional weather model, the Penn State/NCAR Mesoscale Model MM5 [1]. It is similar to efforts of a number of other groups: Comlib <ref> [2] </ref>, LPARX [3], and NNT/SMS [5] in that it provides high-level, efficient mechanisms for performing data parallel computations over multiple interelated grids. Like the LAPRX software abstractions, RSL is able to support dynamic load balancing, efficient inter-grid communication, irregularly shaped logical domains and irregularly shaped processor sub-domains.
+Reference: [3] <author> S. R. Kohn and S. B. Baden. </author> <title> A Parallel Software Infrastructure for Structured Adaptive Mesh Methods. </title> <booktitle> In Proceedings of Supercomputing '95. </booktitle> <publisher> IEEE Computer Society Press, </publisher> <year> 1996. </year>
+Reference-contexts: It was used with Fortran90 to parallelize a well-known and widely used regional weather model, the Penn State/NCAR Mesoscale Model MM5 [1]. It is similar to efforts of a number of other groups: Comlib [2], LPARX <ref> [3] </ref>, and NNT/SMS [5] in that it provides high-level, efficient mechanisms for performing data parallel computations over multiple interelated grids. Like the LAPRX software abstractions, RSL is able to support dynamic load balancing, efficient inter-grid communication, irregularly shaped logical domains and irregularly shaped processor sub-domains.
+Reference: [4] <author> J. Michalakes. RSL: </author> <title> A Parallel Runtime System Library for Regular Grid Finite Difference Models Using Multiple Nests. </title> <type> Technical Report ANL/MCS-TM-197, </type> <institution> Mathematics and Computer Science Division, Argonne National Laboratory, Argonne, Illinois, </institution> <month> December </month> <year> 1994. </year>
+
+References-found: 4
+

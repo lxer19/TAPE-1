@@ -1,0 +1,18 @@
+URL: http://www.comlab.ox.ac.uk/oucl/booklet/book.ps.gz
+Refering-URL: http://www.comlab.ox.ac.uk/oucl/booklet/index.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Affiliation: The Computing Laboratory at Oxford University  
+Pubnum: fi  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> Geoff Barrett, </author> <title> Formal methods applied to a floating point number system, </title> <institution> Programming Research Group Technical Monograph PRG-58, Oxford University Computing Laboratory, </institution> <month> January </month> <year> 1987. </year> <note> Also in IEEE Trans. Soft. </note> <institution> Eng., </institution> <month> May </month> <year> 1988. </year> <pages> pp. 611-621. </pages>
+Reference-contexts: In this context correct means conforming to the IEEE Standard 754, and a big first step was to decide exactly what the specification required. The IEEE document is partly reliant on the meaning of natural language requirements; Geoff Barrett's recasting of the Standard into the Z specification language <ref> [1] </ref> is unambiguous and serves as the touchstone for the correctness of the T800 FPU. The microcode of the T800 FPU was documented in a restricted subset of occam.
+Reference: [2] <author> Michael Goldsmith, </author> <title> The Oxford occam transformation system (documentation), Programming Research Group, </title> <institution> Oxford University Computing Laboratory, </institution> <year> 1988. </year>
+Reference-contexts: The microcode of the T800 FPU was documented in a restricted subset of occam. Using the occam transformation system developed in Oxford <ref> [2] </ref>, David Shepherd demonstrated that this code was equivalent to a more naturally expressed occam program which had been shown to meet the Z specification.
+Reference: [3] <author> A.W. </author> <title> Roscoe and C.A.R. Hoare, The laws of occam programming, </title> <institution> Programming Research Group Technical Monograph PRG-53, Oxford University Computing Laboratory, </institution> <month> February </month> <year> 1986. </year>
+Reference-contexts: The transformation system builds on the simple semantics of occam, as expressed by Bill Roscoe and Tony Hoare in <ref> [3] </ref>, allowing essentially mechanical proof that two programs like the specification of the FPU and the implementing microcode have the same effect. There is a very readable non-technical summary of this work in an article in New Scientist [4].
+Reference: [4] <author> David Shepherd and Greg Wilson, </author> <title> Making chips that work, </title> <journal> New Scientist, </journal> <volume> No 1664, </volume> <month> 13 May </month> <year> 1989. </year> <pages> pp. 61-64. </pages>
+Reference-contexts: There is a very readable non-technical summary of this work in an article in New Scientist <ref> [4] </ref>. The work is also described in an article published in the Oxford Magazine [5].
+
+References-found: 4
+

@@ -1,0 +1,16 @@
+URL: http://www.cs.purdue.edu/coast/archive/clife/CFS/docs/fsw1.ps.gz
+Refering-URL: http://www.cs.purdue.edu/coast/archive/clife/CFS/docs/
+Root-URL: http://www.cs.purdue.edu
+Title: CFS-C/FSW1: An Implementation of the CFS-C Classifier System in a Task-Domain that Involves Learning to
+Author: Rick L. Riolo 
+Note: Copyright 1988 Rick L. Riolo. yThis work was supported in part by National Science Foundation Grants DCR 83-05830 and IRI 86-10225, and by a University of Michigan Presidential Initiaive Fund Grant to the BACH research group.  
+Affiliation: Logic of Computers Group Division of Computer Science and Engineering University of Michigan  
+Date: January 1988  
+Abstract-found: 0
+Intro-found: 1
+Reference: [Riolo, 1988a] <editor> Riolo, Rick L. "CFS-C: </editor> <title> A Package if Domain Independent Subroutines for Implementing Classifier Systems in Arbitrary, User-Defined Environments." Logic of Computers Group, </title> <institution> Division of Computer Science and Engineering, University of Michi-gan, </institution> <address> Ann Arbor, </address> <year> 1988. </year>
+Reference-contexts: 1 Introduction The FSW1 program enables a user to set up a wide variety of tasks for the CFS-C classifier system <ref> [Riolo, 1988a] </ref>, each modeled as a finite Markov process in which a payoff is associated with some states. The classifier system's input interface provides a message that indicates the current state of the Markov process. <p> This document describes the FSW1 task domain, an example of the domain-dependent part of a classifier system designed to be linked to the CFS-C classifier system <ref> [Riolo, 1988a] </ref>. For general information about the CFS-C package of subroutines which implements the domain-independent parts of a learning classifier system, see the cited documentation.
+Reference: [Riolo, 1988b] <editor> Riolo, Rick L. "LETSEQ1: </editor> <title> An Implementation of the CFS-C Classifier System in a Task-Domain that Involves Learning to Predict Letter Sequences." Logic of Computers Group, </title> <institution> Division of Computer Science and Engineering, University of Michigan, </institution> <address> Ann Arbor, </address> <year> 1988. </year> <month> 9 </month>
+Reference-contexts: Th CFS-C documention also describes how to design your own task domains for the CFS-C system, and it describes all the commands and features provided by that system. For another example domain, see <ref> [Riolo, 1988b] </ref>. Note well: While I do attempt to keep this document up-to-date, that is note always possible. So if you have any questions or problems, please look at the FSW1 source files for the definitive answers about the version you have.
+References-found: 2
+

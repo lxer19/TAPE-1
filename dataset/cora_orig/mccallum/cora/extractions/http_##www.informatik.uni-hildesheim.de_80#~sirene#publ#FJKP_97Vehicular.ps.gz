@@ -1,0 +1,32 @@
+URL: http://www.informatik.uni-hildesheim.de:80/~sirene/publ/FJKP_97Vehicular.ps.gz
+Refering-URL: http://www.informatik.uni-hildesheim.de:80/~sirene/lit/sirene.lit.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: Minimizing the Average Cost of Paging on the Air Interface An Approach Considering Privacy  
+Author: Hannes Federrath Anja Jerichow Dogan Kesdogan Andreas Pfitzmann Dirk Trossen 
+Address: D-01062 Dresden, Germany  IV, D-52056 Aachen, Germany  
+Affiliation: Dresden University of Technology, Institute of Theoretical Computer Science,  Aachen University of Technology, Computer Science Department  
+Date: May 97 (VTC 97). 1  
+Note: To appear in IEEE 47th Annual International Vehicular Technology Conference,  
+Abstract: Location Management of mobile users in a cellular network is considered from a performance and privacy point of view. Location management covers tracking functionality and paging (searching) functionality. After a risk analysis of location management w.r.t. privacy, we focus on the paging strategy. A sequential search strategy is proposed which reduces the signaling on the air interface and also considers the user's privacy. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> M. Mouly, M.-B. Pautet: </author> <title> The GSM System for Mobile Communications, </title> <address> ISBN: 2-9507190-0-7, </address> <year> 1992. </year>
+Reference: [2] <author> H. Xie, S. Tabbane, D. Goodman: </author> <title> Dynamic Location Management and Performance Analysis, </title> <booktitle> IEEE 43th VTC 1993. </booktitle>
+Reference: [3] <author> A. BarNoy, I. Kessler, M. Sidi: </author> <title> Mobile users: To update or not to update?, Wireless Networks I, </title> <year> 1995, </year> <month> pp.175-185. </month>
+Reference: [4] <author> I.F. Akyildiz, J.S.M. Ho: </author> <title> Dynamic Mobile User Location Update for Wireless PCS Networks, </title> <journal> ACM-Baltzer J. Wireless Networks, </journal> <volume> vol. 1, no. 2, </volume> <month> July </month> <year> 1995, </year> <month> pp.187-196. </month>
+Reference: [6] <author> C. Rose, R.D. Yates: </author> <title> Ensemble Polling Strategies for Mobile Communications Networks, </title> <booktitle> IEEE 46th VTC 1996. </booktitle>
+Reference: [7] <author> G.P. Pollini, S. Tabbane: </author> <title> The Intelligent Network Signalling and Switching Costs of an Alternate Location Strategy using Memory, </title> <booktitle> IEEE 43th VTC 1993. </booktitle>
+Reference: [8] <author> P.G. Neumann: </author> <title> Computer Related Risks, </title> <publisher> ACM Press, Addison Wesley, </publisher> <address> New York, NY, </address> <month> Jan. </month> <year> 1995 </year>
+Reference: [9] <author> D. Kesdogan, M. Zywiecki, K. Beulen: </author> <title> Mobile User Profile Generation A Challenge between Performance and Security, </title> <booktitle> Proceedings of the IFIP TC6 International Workshop on Personal Wireless Comm., </booktitle> <address> D-Frankfurt, </address> <month> Dec. 96. </month>
+Reference: [10] <author> K. Hafner, J. </author> <title> Markoff: </title> <publisher> Cyberpunk, Corgi Books, </publisher> <address> London, </address> <year> 1993. </year>
+Reference: [11] <editor> A. Pfitzmann: Technischer Datenschutz in ffentlichen Funknetzen. </editor> <booktitle> Datenschutz und Datensicherung DuD 17/8 (1993), </booktitle> <pages> pp. 451-463. </pages>
+Reference: [12] <author> T. Hetschold: Aufbewahrbarkeit von Erreichbarkeits- und Schlsselinformation im Gewahrsam des Endbenutzers unter Erhaltung der GSM-Funktionalitt eines Funknetzes. GMD-Studien Nr.222, </author> <month> Oct. </month> <year> 1993. </year>
+Reference: [13] <author> M. Spreitzer, M. Theimer: </author> <title> Architectural Considerations for Scalable, Secure, Mobile Computing with Location Information. </title> <booktitle> Proceedings of the 14th International Conf. on Distr. Sys., IEEE 1994. </booktitle>
+Reference: [14] <author> H. Federrath, A. Jerichow, D. Kesdogan, A. Pfitzmann: </author> <title> Security in Public Mobile Communication Networks. </title> <booktitle> Proceedings of the IFIP TC6 International Workshop on Personal Wireless Communications, </booktitle> <address> Prague (Czech Republic), </address> <month> April </month> <year> 1995, </year> <pages> pp. 105-116. </pages>
+Reference: [15] <author> D. Kesdogan, H. Federrath, A. Jerichow, A. Pfitzmann: </author> <title> Location managment strategies increasing privacy in mobile communication. Informations Systems Security, </title> <booktitle> IFIP SEC '96, </booktitle> <publisher> Chapman & Hall, </publisher> <address> London, </address> <year> 1996, </year> <pages> pp. 37-38. </pages>
+Reference: [16] <author> H. Federrath, A. Jerichow, A. Pfitzmann: </author> <title> Mixes in mobile communication systems: Location management with privacy. Inform. Hiding, </title> <publisher> LNCS 1174, </publisher> <address> Springer-Ver., Berlin 96. </address>
+Reference: [17] <author> D.J. Farber, K.C. Larson: </author> <title> Network Security Via dynamic Process Renaming; Fourth Data Communications Symp., </title> <address> Oct. 1975, Quebec City, Canada, </address> <pages> pp. 8-13 & 8-18. </pages>
+Reference: [18] <institution> P.A. Karger: NonDiscretionary Access Control for Decentralized Computing Systems; Master Thesis, MIT, Laboratory for Computer Science, </institution> <month> May </month> <year> 1977, </year> <note> Report MIT/LCS/TR-179. </note>
+Reference: [19] <author> A. Pfitzmann, M. Waidner: </author> <title> Networks without User Observability; Computers & Security, </title> <publisher> North-Holland, </publisher> <address> 6/2 (April 1987) pp. </address> <pages> 158-166. </pages>
+References-found: 18
+

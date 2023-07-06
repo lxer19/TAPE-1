@@ -1,0 +1,17 @@
+URL: http://www.brunel.ac.uk/~cspgssk/documents/tech-reports/CNES-96-04.ps.gz
+Refering-URL: http://www.brunel.ac.uk/~cspgssk/
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Address: Uxbridge, Middlesex, UB8 3PH, UK  
+Affiliation: Department of Computer Science and Information Systems Centre for Neural and Evolutionary Systems (CNES) Brunel University,  
+Date: July 1996  
+Note: CNES-96-04  
+Abstract: Diagnosis of Oral Cancer using Genetic Programming Simon Kent Technical Report CSTR-96-14 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Elliott, A. </author> <year> (1993). </year> <title> The use of neural networks in medical statistical analysis, </title> <type> Master's thesis, </type> <institution> Eastman Dental Institute. </institution>
+Reference: <author> Elliott, C. </author> <year> (1996). </year> <title> The use of inductive logic programming and data mining techniques to identify people at risk of oral cancer and precancer, </title> <type> Master's thesis, </type> <institution> Brunel University. </institution>
+Reference-contexts: Diagnosis of Oral Cancer using Genetic Programming 13 9 Further Work 9.1 Improved comparison with Neural Networks The vague comparison between the Genetic Programming system and a Neural Networks solution was given in section 8. Ciaran Elliott, an MSc student at Brunel is undertaking a project <ref> (Elliott, 1996) </ref> to produce a NN diagnostic tool using exactly the same data as was used in this project.
+Reference: <editor> Koza, J. R. </editor> <booktitle> (1989). Hierachical genetic algorithms operating on populations of computer programs, Proceedings of the 11th International Joint Conference on Artificial Intelligence </booktitle> . 
+Reference: <author> Koza, J. R. </author> <year> (1993). </year> <title> Genetic Programming: on the Programming of Computers by means of Natural Selection, MIT Press. Diagnosis of Oral Cancer using Genetic Programming 15 </title>
+References-found: 4
+

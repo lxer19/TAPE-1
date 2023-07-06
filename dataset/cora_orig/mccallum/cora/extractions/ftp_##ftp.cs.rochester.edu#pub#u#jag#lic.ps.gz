@@ -1,0 +1,12 @@
+URL: ftp://ftp.cs.rochester.edu/pub/u/jag/lic.ps.gz
+Refering-URL: http://www.cs.rochester.edu/u/jag/publications.html
+Root-URL: 
+Title: Perception Level Control for Uncalibrated Hand-Eye Coordination and Motor Actions  
+Author: Martin Jagersand 
+Date: Spring 1995  
+Abstract: Robot arm manipulators, some thirty years after their commercial introduction, have found widespread application in structured industrial environments, performing, for instance, repetitive tasks in a mass production line. Successful application in unstructured environments however has proven much harder. Yet there are many such tasks where robots would be useful. We present a promising approach to visual (and more general sensing) robot control, that does not require modeling of robot transfer functions or the use of absolute world coordinate systems, and thus is suitable for use in unstructured environments. Our approach codes actions and tasks in terms of desired general perceptions rather than motor sequences. We argue that our vision space approach is particularly suited for easy teaching/programming of a robot. For instance a task can be taught by supplying an image sequence illustrating it. The resulting robot behavior is robust to changes in the environment, dynamically adjusting the motor control rules in response to environmental variation. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Shimazu and Y. </author> <title> Shinoda. </title> <publisher> Springer-Verlag Tokyo 1991 59 </publisher>
+References-found: 1
+

@@ -1,0 +1,24 @@
+URL: http://www.cs.wisc.edu/~shoup/papers/lille.ps.Z
+Refering-URL: http://www.cs.wisc.edu/~shoup/papers/
+Root-URL: 
+Title: Factoring Polynomials over Finite Fields: Asymptotic Complexity vs. Reality  
+Author: Victor Shoup 
+Address: Toronto, Canada M5S 1A4  
+Affiliation: Dept. of Computer Science University of Toronto  
+Abstract:  
+Abstract-found: 1
+Intro-found: 1
+Reference: [B] <author> E. R. Berlekamp. </author> <title> Factoring polynomials over large finite fields. </title> <journal> Math. Comp. </journal> <volume> 24, </volume> <month> 713-735 </month> <year> (1970). </year>
+Reference-contexts: We restrict our attention to factoring in Z p [x], where p is prime. The algorithms we consider are the algorithms of Berlekamp <ref> [B] </ref>, Cantor & Zassenhaus [CZ], and von zur Gathen & Shoup [GS]. 2 Asymptotic Complexity Let n be the degree of the polynomial f 2 Z p [x] to be factored.
+Reference: [BK] <author> R. P. Brent and H. T. Kung. </author> <title> Fast algorithms for manipulating formal power series. </title> <journal> J. Assoc. Comput. Mach. </journal> <volume> 25, </volume> <month> 581-595 </month> <year> (1978). </year>
+Reference-contexts: The modular composition problems are solved using an adaptation of an algorithm of Brent & Kung <ref> [BK, Algorithm 2.1] </ref>. One modular composition problem can be solved with this method using O (n 1=2 ) multiplications in Z p [x]=(f ), plus O (n 2 ) multiplications and additions in Z p .
+Reference: [CZ] <author> D. G. Cantor and H. Zassenhaus. </author> <title> A new algorithm for factoring polynomials over finite fields. </title> <journal> Math. Comp. </journal> <volume> 36, </volume> <month> 587-592 </month> <year> (1981). </year>
+Reference-contexts: We restrict our attention to factoring in Z p [x], where p is prime. The algorithms we consider are the algorithms of Berlekamp [B], Cantor & Zassenhaus <ref> [CZ] </ref>, and von zur Gathen & Shoup [GS]. 2 Asymptotic Complexity Let n be the degree of the polynomial f 2 Z p [x] to be factored.
+Reference: [GS] <author> J. von zur Gathen and V. Shoup. </author> <title> Computing Frobenius maps and factoring polynomials. </title> <journal> Comput. </journal> <volume> Complexity 2, </volume> <month> 187-224 </month> <year> (1992). </year>
+Reference-contexts: We restrict our attention to factoring in Z p [x], where p is prime. The algorithms we consider are the algorithms of Berlekamp [B], Cantor & Zassenhaus [CZ], and von zur Gathen & Shoup <ref> [GS] </ref>. 2 Asymptotic Complexity Let n be the degree of the polynomial f 2 Z p [x] to be factored. It is natural to measure the running times of factorization algorithms in terms of the number of operations in Z p (additions, subtractions, multiplications, divisions, and zero-tests). <p> Third, if nothing is known about the degrees of the factors of f , then Berlekamp seems like the best choice, provided the space requirement of Berlekamp does not become a problem. In situations where space is a problem for Berlekamp's algorithm, some adaptation of the techniques in <ref> [GS] </ref>, perhaps in conjunction with a sparse linear system solver such as Wiede-mann's [W], may be a practical alternative. Constructing a well-engineered general purpose factorizer is no easy task.
+Reference: [K] <author> D. E. Knuth. </author> <booktitle> The Art of Computer Programming, </booktitle> <volume> vol. </volume> <pages> 2, </pages> <note> second edition. Addison-Wesley (1981). </note>
+Reference-contexts: Once we have the matrix, we compute a nontrivial vector in its null space using Gaussian elimination to put the matrix in row echelon form and then back-substitute. Curiously, the null-space algorithm in Knuth <ref> [K, x4.6.2] </ref> computes the reduced row echelon form of the matrix, which is significantly more expensive than computing the row echelon form and then back-substituting: (1=2)n 3 (1 + o (1)) multiplications in Z p vs. (1=3)n 3 (1 + o (1)).
+Reference: [W] <author> D. </author> <title> Wiedemann. Solving sparse linear systems over finite fields. </title> <journal> IEEE Trans. Inf. Theory IT-32, </journal> <month> 54-62 </month> <year> (1986). </year>
+Reference-contexts: In situations where space is a problem for Berlekamp's algorithm, some adaptation of the techniques in [GS], perhaps in conjunction with a sparse linear system solver such as Wiede-mann's <ref> [W] </ref>, may be a practical alternative. Constructing a well-engineered general purpose factorizer is no easy task.
+References-found: 6
+

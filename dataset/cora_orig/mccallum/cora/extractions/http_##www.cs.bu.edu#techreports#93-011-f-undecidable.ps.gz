@@ -1,0 +1,21 @@
+URL: http://www.cs.bu.edu/techreports/93-011-f-undecidable.ps.gz
+Refering-URL: http://cs-www.bu.edu/techreports/Home.html
+Root-URL: 
+Email: jbw@cs.bu.edu  
+Title: Typability and Type Checking in the Second-Order -Calculus Are Equivalent and Undecidable (Preliminary Draft)  
+Author: J. B. Wells 
+Note: This work is partly supported by NSF grant CCR-9113196.  
+Date: August 1, 1993  
+Address: Boston, MA 02215, USA  
+Affiliation: Dept. of Computer Science  Boston University  
+Abstract: We consider the problems of typability 1 and type checking 2 in the Girard/Reynolds second-order polymorphic typed -calculus, for which we use the short name "System F" and which we use in the "Curry style" where types are assigned to pure -terms. These problems have been considered and proven to be decidable or undecidable for various restrictions and extensions of System F and other related systems, and lower-bound complexity results for System F have been achieved, but they have remained "embarrassing open problems" 3 for System F itself. We first prove that type checking in System F is undecidable by a reduction from semi-unification. We then prove typability in System F is undecidable by a reduction from type checking. Since the reverse reduction is already known, this implies the two problems are equivalent. The second reduction uses a novel method of constructing -terms such that in all type derivations, specific bound variables must always be assigned a specific type. Using this technique, we can require that specific subterms must be typable using a specific, fixed type assignment in order for the entire term to be typable at all. Any desired type assignment may be simulated. We develop this method, which we call "constants for free", for both the K and I calculi. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Henk Barendregt. </author> <title> Lambda calculi with types. </title> <note> Chapter to appear in forthcoming book. Technical Report 91-19, </note> <institution> Department of Computer Science, Faculty of Mathematics and Computer Science, Catholic University Nijmegen, </institution> <address> Toernooiveld 1, 6525 ED Nijmegen, The Netherlands, </address> <month> September </month> <year> 1991. </year> <note> E-mail: henk@cs.kun.nl. </note>
+Reference-contexts: 1 Typability is also called type reconstruction. 2 Type checking is also called derivation reconstruction. 3 Robin Milner as quoted by Henk Barendregt in <ref> [1] </ref>. 1 DRAFT 1 Basic Definitions and Notational Conventions In this section we present definitions, notation, and nomenclature. We state precisely the problems of typability, type checking, and semi-unification. 1.1 System F 1.1.1 -Terms V is a countably infinite set of object variables (as opposed to type variables).
+Reference: [2] <author> Assaf J. Kfoury, Jerzy Tiuryn, and Pawel Urzyczyn. </author> <title> The undecidability of the semi-unification problem. </title> <journal> Information and Computation, </journal> <volume> 102(1) </volume> <pages> 83-101, </pages> <year> 1993. </year> <note> Preliminary version in Proc. STOC 1990 . 18 DRAFT </note>
+Reference-contexts: a solution if and only if there is a typing in System F ending with the assertion A ` M : ff. (Full details will be in the final report.) Since semi-unification with a signature containing at least one function symbol of arity 2 is shown to be undecidable in <ref> [2] </ref>, we can conclude that the problem of type checking in System F is undecidable. ffi 3 Constants for Free in System F 3.1 The Beginning Consider this -term: J (r:(y:z:r (yy)(yz))(x:Kx (x (xr)))(w:ww)) DRAFT A (p) = fl fl ffi 2 A (y) = ff 8 ff 2 fi fl
+Reference: [3] <author> Pawel Urzyczyn. </author> <title> Type reconstruction in F ! . E-mail: </title> <address> urzy@mimuw.edu.pl, </address> <month> June </month> <year> 1993. </year> <month> 19 </month>
+Reference-contexts: The reduction from typability to type checking is presented in <ref> [3] </ref>.
+References-found: 3
+

@@ -1,0 +1,19 @@
+URL: ftp://publications.ai.mit.edu/ai-publications/1000-1499/AIM-1168.ps.Z
+Refering-URL: http://www.ai.mit.edu/people/girosi/home-page/memos.html
+Root-URL: 
+Title: Continuous Stochastic Cellular Automata That Have a Stationary Distribution and No Detailed Balance  
+Author: Tomaso Poggio and Federico Girosi 
+Date: April 1994  37  
+Affiliation: MASSACHUSETTS INSTITUTE OF TECHNOLOGY ARTIFICIAL INTELLIGENCE LABORATORY and CENTER FOR BIOLOGICAL INFORMATION PROCESSING WHITAKER COLLEGE  
+Pubnum: A.I. Memo No.1168  C.B.I.P. Paper No.  
+Abstract: Marroquin and Ramirez (1990) have recently discovered a class of discrete stochastic cellular automata with Gibbsian invariant measure that have a non-reversible dynamic behavior. Practical applications include more powerful algorithms than the Metropolis algorithm to compute MRF models. In this paper we describe a large class of stochastic dynamical systems that has a Gibbs asymptotic distribution but does not satisfy reversibility. We characterize sufficient properties of a sub-class of stochastic differential equations in terms of the associated Fokker-Planck equation for the existence of an asymptotic probability distribution in the system of coordinates which is given. Practical implications include VLSI analog circuits to compute coupled MRF models. This paper describes research done within the Center for Biological Information Processing, in the Department of Brain and Cognitive Sciences, and at the Artificial Intelligence Laboratory. This research is sponsored by a grant from the Office of Naval Research (ONR), Cognitive and Neural Sciences Division; by the Artificial Intelligence Center of Hughes Aircraft Corporation (S1-801534-2). Support for the A. I. Laboratory's artificial intelligence research is provided by the Advanced Research Projects Agency of the Department of Defense under Army contract DACA76-85-C-0010, and in part by ONR contract N00014-85-K-0124. c fl Massachusetts Institute of Technology, 1994
+Abstract-found: 1
+Intro-found: 0
+Reference: [1] <author> R. Graham. </author> <title> Solution of Fokker Plank equations with and without manifest detailed balance. </title> <journal> Zeitschrift fur Physik B Condensed Matter, </journal> <volume> 40 </volume> <pages> 149-155, </pages> <year> 1980. </year>
+Reference: [2] <author> H.R. Jauslin. </author> <title> A classification of stationary Fokker-Plank models. </title> <editor> In L. Pesquera and M.A. Rodriguez, editors, </editor> <booktitle> Stochastic processes applied to physics, </booktitle> <pages> pages 303-307. </pages> <publisher> World Scientific, </publisher> <address> Singapore, </address> <year> 1984. </year> <month> 4 </month>
+Reference: [3] <author> J. L. Marroquin and A. Ramirez. </author> <title> Stochastic cellular automata with gibb--sian invariant measures. </title> <journal> I.E.E.E. Trans. on Information Theory, </journal> <note> 1991. (in press). </note>
+Reference: [4] <editor> R.L. Stratonovich. </editor> <booktitle> Topics in the theory of random noise. </booktitle> <volume> Vol. 1. </volume> <publisher> Gordon and Breach, </publisher> <address> New York, </address> <year> 1963. </year>
+Reference: [5] <author> H. Tan and J. L. Wyatt. </author> <title> Thermodynamics of electrical noise in a class of nonlinear RLC networks. </title> <journal> IEEE Trans. on Circuits and Systems, </journal> <volume> Cas-32(6):540-558, </volume> <month> June </month> <year> 1985. </year>
+Reference: [6] <author> E.C. Zeeman. </author> <title> Stability of dynamical systems. </title> <journal> Nonlinearity, </journal> <volume> 1 </volume> <pages> 115-155, </pages> <year> 1988. </year>
+References-found: 6
+

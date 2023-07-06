@@ -1,0 +1,38 @@
+URL: http://www.eecs.umich.edu/~qstout/pap/CSDA99.ps.Z
+Refering-URL: http://www.eecs.umich.edu/~qstout/papers.html
+Root-URL: http://www.eecs.umich.edu
+Title: Populations  
+Author: Janis Hardwick, Robert Oehmke, and Quentin F. Stout 
+Keyword: Key words: sequential sampling, multi-arm bandit, parallel computing, dynamic programming, adaptive allocation, clinical trial, load balancing, high-performance computing, recursive equations, design of experiments  
+Address: Ann Arbor, Michigan 48109 USA  
+Affiliation: University of Michigan,  
+Date: 1999.  
+Note: To appear in Computational Statistics and Data Analysis  Bernoulli  
+Abstract: This paper is available at www.eecs.umich.edu/~qstout/abs/CSDA99.html Abstract A program for optimizing and analyzing sequential allocation problems involving three Bernoulli populations and a general objective function is described. Previous researchers had considered this problem computationally intractable, and there appears to be no prior exact optimizations for such problems, even for very small sample sizes. This paper contains a description of the program, along with the techniques used to scale it to large sample sizes. The program currently handles problems of size 200 or more by using a modest parallel computer, and problems of size 100 on a workstation. As an illustration, the program is used to create an adaptive sampling procedure that is the optimal solution to a 3-arm bandit problem. The bandit procedure is then compared to two other allocation procedures along various Bayesian and frequentist metrics. Extensions enabling the program to solve a variety of related problems are discussed. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Armitage, P. </author> <year> (1985), </year> <title> "The search for optimality in clinical trials", </title> <journal> Int`l. Statist. Rev. </journal> <volume> 53, </volume> <pages> pp. 15-24. </pages>
+Reference: [2] <author> Atallah, M. (ed.) </author> <year> (1999), </year> <title> Algorithms and Theory of Computation Handbook, </title> <publisher> CRC Press, </publisher> <year> 1999. </year>
+Reference: [3] <author> Bather, J.A. and Coad, D.S. </author> <year> (1992), </year> <title> "Sequential procedures for comparing several medical treatments", </title> <journal> Sequential Anal. </journal> <volume> 11, </volume> <pages> pp. 339-376. </pages>
+Reference: [4] <author> Berry, D.A. and Eick, S.G. </author> <year> (1995), </year> <title> "Adaptive assignment versus balanced randomization in clinical trials | a decision-analysis", Stat. </title> <booktitle> in Medicine 14, </booktitle> <pages> pp. 231-246. </pages>
+Reference: [5] <author> Berry, D.A. and Fristedt, B. </author> <year> (1985), </year> <title> Bandit Problems: Sequential Allocation of Experiments, </title> <publisher> Chapman and Hall. </publisher>
+Reference: [6] <author> Betensky, R.A. </author> <year> (1996), </year> <title> "An O'Brien-Fleming sequential trial for comparing three treatments", </title> <journal> Annals of Statistics 24, </journal> <pages> pp. 1765-1791. </pages>
+Reference: [7] <author> Betensky, R.A. </author> <year> (1997), </year> <title> "Sequential analysis of censored survival data from three treatment groups", </title> <type> Biometrics 53, </type> <pages> pp. 807-822. </pages>
+Reference: [8] <author> Buringer, H., Martin, H. and Schriever, K. </author> <year> (1980), </year> <title> Nonparametric Sequential Selection Procedures, </title> <publisher> Birkhauser. </publisher>
+Reference: [9] <author> Coad, D.S. </author> <year> (1995), </year> <title> "Sequential allocation rules for multi-armed clinical trials", </title> <journal> J. Statist. Comput. Simul., </journal> <volume> 52, </volume> <pages> pp. 239-251. </pages>
+Reference: [10] <author> Gittins, J.C. </author> <year> (1989), </year> <title> Multi-Armed Bandit Allocation Indices, </title> <publisher> Wiley. </publisher> <pages> 21 </pages>
+Reference: [11] <author> Gropp, W., Lusk, E. and Skjellum, A. </author> <year> (1995), </year> <title> Using MPI: Portable Parallel Programming with the Message Passing Interface, </title> <publisher> MIT Press. </publisher>
+Reference: [12] <author> Gupta, S.S. and Liang, T. </author> <year> (1989), </year> <title> "Selecting the best binomial population: parametric empirical Bayes approach", </title> <journal> J. Statistical Planning and Inference 23, </journal> <pages> pp. 21-31. </pages>
+Reference: [13] <author> Hardwick, J., Oehmke, R. and Stout, Q.F. </author> <year> (1997), </year> <title> "A parallel program for 3-arm bandits", </title> <booktitle> Computing Science and Statistics 29, </booktitle> <pages> pp. 390-395. </pages>
+Reference: [14] <author> Hardwick, J., Oehmke, R. and Stout, Q.F. </author> <year> (1998), </year> <title> "Adaptive allocation in the presence of censoring", </title> <journal> Computing Science and Statistics 30. </journal>
+Reference: [15] <author> Hardwick, J. and Stout, Q.F. </author> <year> (1993), </year> <title> "Exact computational analyses for adaptive designs", Adaptive Designs (N. </title> <journal> Flournoy & W.F. Rosenberger, ed.'s), Institute Math. Stat. Lec. </journal> <volume> Notes 25, </volume> <pages> pp. 223-237. </pages>
+Reference: [16] <author> Hardwick, J. and Stout, Q.F. </author> <year> (1999), </year> <title> "Path induction for evaluating sequential allocation procedures", </title> <journal> SIAM J. Scientific Computing, </journal> <note> to appear. </note>
+Reference: [17] <author> Jones, P. </author> <year> (1992), </year> <title> "Multiobjective Bayesian Bandits", Bayesian Statistics 4: </title> <booktitle> Proc. 4 th Valencia Int'l Meeting, </booktitle> <pages> pp. 689-695. </pages>
+Reference: [18] <author> Kulkarni, R. and Kulkarni, V. </author> <year> (1987), </year> <title> "Optimal Bayes procedures for selecting the better of two Bernoulli populations", </title> <journal> J. Statistical Planning and Inference 15, </journal> <pages> pp. 311-330. </pages>
+Reference: [19] <author> Oehmke, R., Hardwick, J. and Stout, Q.F. </author> <year> (1999), </year> <title> "Scalable parallel implementation of high-dimensional dynamic programming", </title> <note> in preparation. </note>
+Reference: [20] <author> Palmer, C. </author> <year> (1993), </year> <title> "Selecting the best of k treatments", Adaptive Designs (N. </title> <journal> Flournoy & W.F. Rosenberger, ed.'s), Institute Math. Stat. Lec. </journal> <volume> Notes 25, </volume> <pages> pp. 110-123. </pages>
+Reference: [21] <author> Siegmund, D. </author> <year> (1993), </year> <title> "A sequential clinical trial for comparing three treatments", </title> <journal> Annals of Statistics 21, </journal> <pages> pp. 464-483. </pages>
+Reference: [22] <author> Simon, R. </author> <year> (1977), </year> <title> "Adaptive treatment assignment methods and clinical trials", </title> <type> Biometrics 33, </type> <pages> pp. 743-744. </pages>
+Reference: [23] <author> Wang, Y.-G. </author> <year> (1991), </year> <title> "Sequential allocation in clinical trials", </title> <journal> Comm. in Statistics: Theory and Methods 20, </journal> <pages> pp. 791-805. 22 </pages>
+References-found: 23
+

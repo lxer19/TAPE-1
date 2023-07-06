@@ -1,0 +1,24 @@
+URL: http://www.cs.washington.edu/education/courses/524/CurrentQtr/cwa.ps
+Refering-URL: http://www.cs.washington.edu/education/courses/524/CurrentQtr/
+Root-URL: 
+Title: Algorithms for the Certified Write All Problem  
+Author: Richard J. Anderson Heather Woll 
+Date: December 9, 1994  
+Address: San Diego  
+Affiliation: University of Washington  University of California,  
+Abstract: In this paper, we prove new upper bounds on the complexity of the Certified Write All Problem with respect to an adaptive adversary. Our strongest result is that for any * &gt; 0, there exists an O(p 1+* ) work algorithm for the p processor, p memory cell write all. We also give a randomize O(p 2 log p) work algorithm for a p processor p 2 memory cell write all.
+Abstract-found: 1
+Intro-found: 1
+Reference: [BKRS91] <author> J. F. Buss, P. C. Kanellakis, P. L. Ragde, and A. A. Shvartsman. </author> <title> Parallel algo rithms with processor failures and delays. </title> <note> To appear in Journal of Algorithms, </note> <year> 1991. </year>
+Reference-contexts: Martel's algorithm was randomized and assumed that the adversary must set the instruction interleaving prior to viewing the random numbers. The write-all problem for the general (adaptive) adversary model was previously considered by Buss and Ragde <ref> [BKRS91] </ref>. They gave an algorithm with O (p log 2 3 ) work (log 2 3 1:79). Our algorithm can be viewed as an extention of their method.
+Reference: [ES74] <author> P. Erdos and J. Spencer. </author> <title> The Probabilistic Method in Combinatorics. </title> <publisher> Academic Press, </publisher> <address> New York, </address> <year> 1974. </year>
+Reference-contexts: Lemma 4 applies directly to give the result. We now prove that there exists a set of permutations with low contention. Our proof is based on the probabilistic method pioneered by Erdos <ref> [ES74] </ref>, where we show the existence of a set with a certain property by showing that a random set has the property with probability greater than zero. Theorem 1 Let S be a random set of n permutations.
+Reference: [Knu73] <author> D. E. Knuth. </author> <title> Searching and Sorting, </title> <booktitle> volume 3 of The Art of Computer Program ming. </booktitle> <publisher> Addison Wesley, </publisher> <year> 1973. </year>
+Reference-contexts: Let = 1 ; : : : ; n be a permutation. We say i is a left-to-right maxima if i &gt; k for k &lt; i. It is well known that the expected number of left-to-right maxima in a random permutation is H n <ref> [Knu73] </ref>. We need a bound on the expected number of left-to-right maxima in a set of n random permutations.
+Reference: [KS89] <author> P. Kanellakis and A. Shvartsman. </author> <title> Efficient parallel algorithms can be made robust. </title> <booktitle> In Proceedings of the Eighth Annual ACM Symposium on Principles of Distributed Computing, </booktitle> <pages> pages 211-222, </pages> <year> 1989. </year>
+Reference-contexts: We use the work measure as the cost of the algorithm. The work of the algorithm is the total number of instructions executed up until the point that the problem is solved. 1 The write all problem was introduced by Kanellakis and Shvartsman, <ref> [KS89] </ref> who gave an O (p log 2 p) work upper bound for a p-processor, p-cell write-all algorithm under the fail-stop model.
+Reference: [MSP90] <author> C. Martel, R. Subramonian, and A. Park. </author> <title> Asynchronous PRAMs are (almost) as good as synchronous PRAMs. </title> <booktitle> In 31st Symposium on Foundations of Computer Science, </booktitle> <pages> pages 590-599, </pages> <year> 1990. </year>
+Reference: [Rag88] <author> P. Raghavan. </author> <title> Probabilistic construction of deterministic algorithms: approxi mating packing integer programs. </title> <journal> Journal of Computer and System Sciences, </journal> <volume> 37 </volume> <pages> 130-143, </pages> <year> 1988. </year>
+Reference-contexts: Suppose Exp [] = m. For ffi &gt; 0, Prob [ &gt; (1 + ffi)m] &lt; (1 + ffi) (1+ffi) : Proof: See <ref> [Rag88] </ref>, Theorem 1. Lemma 4 Let S be a set of n random permutations. The probability that LR (S) &gt; 3nH n is at most 1 2 n n! . Proof: Let S = f 1 ; : : : ; n g be a set of random permutations.
+References-found: 6
+

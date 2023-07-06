@@ -1,0 +1,14 @@
+URL: ftp://ftp.cs.man.ac.uk/pub/TR/UMCS-95-11-1.ps.Z
+Refering-URL: http://www.cs.man.ac.uk/cstechrep/Abstracts/UMCS-95-11-1.html
+Root-URL: http://www.cs.man.ac.uk
+Title: A highly restricted temporal logic with a tractable decision procedure  
+Author: Ian Pratt 
+Affiliation: Computer Science University of Manchester  
+Pubnum: ISSN 1361 6161  
+Abstract: Department of Computer Science University of Manchester Technical Report Series UMCS-95-11-1 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Pratt, Ian and D.S. Bree: </author> <title> "An approach to the Semantics of some English Temporal Constructions", </title> <booktitle> Proceedings, Seventeenth Annual Conference of the Cognitive Science Society Mahwah, </booktitle> <address> NJ: </address> <publisher> Lawrence Erlbaum, </publisher> <pages> pp. 118-123. 10 </pages>
+Reference-contexts: This project relates to current work exploring the automatic translation of English sentences involving temporal prepositions (and related adverbials) into temporal logics (Pratt and Bree <ref> [1] </ref>).
+References-found: 1
+

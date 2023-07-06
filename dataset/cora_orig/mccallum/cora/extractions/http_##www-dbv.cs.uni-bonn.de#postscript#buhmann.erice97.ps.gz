@@ -1,0 +1,35 @@
+URL: http://www-dbv.cs.uni-bonn.de/postscript/buhmann.erice97.ps.gz
+Refering-URL: http://www-dbv.cs.uni-bonn.de/abstracts/buhmann.erice97.html
+Root-URL: http://cs.uni-bonn.de
+Email: jb@informatik.uni-bonn.de  
+Title: STOCHASTIC ALGORITHMS FOR EXPLORATORY DATA ANALYSIS: DATA CLUSTERING AND DATA VISUALIZATION  
+Author: JOACHIM M. BUHMANN 
+Web: http://www-dbv.informatik.uni-bonn.de  
+Address: Rheinische Friedrich-Wilhelms-Universitat D-53117 Bonn, Germany  
+Affiliation: Institut fur Informatik III,  
+Abstract: Iterative, EM-type algorithms for data clustering and data visualization are derived on the basis of the maximum entropy principle. These algorithms allow the data analyst to detect structure in vectorial or relational data. Conceptually, the clustering and visualization procedures are formulated as combinatorial or continuous optimization problems which are solved by stochastic optimization. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> J. Buhmann and H. Kuhnel. </author> <title> Vector quantization with complexity costs. </title> <journal> IEEE Transactions on Information Theory, </journal> <volume> 39(4) </volume> <pages> 1133-1145, </pages> <month> July </month> <year> 1993. </year>
+Reference: <author> C. M. Bishop, M. Svensen, and C. K. I. Williams. GTM: </author> <title> A principled alternative to the self-organizing map. Neural Computation, </title> <publisher> (in press), </publisher> <year> 1997. </year>
+Reference: <author> T. F. Cox and M.A.A. Cox. </author> <title> Multidimensional Scaling. Number 59 in Monographs on Statistics and Applied Probability. </title> <publisher> Chapman & Hall, </publisher> <address> London, </address> <year> 1994. </year> <title> DATA CLUSTERING AND DATA VISUALIZATION 15 T. </title> <editor> M. Cover and J. A. Thomas. </editor> <booktitle> Elements of Information Theory. </booktitle> <publisher> John Wiley & Sons, </publisher> <address> New York, </address> <year> 1991. </year>
+Reference: <author> R. O. Duda and P. E. Hart. </author> <title> Pattern Classification and Scene Analysis. </title> <publisher> Wiley, </publisher> <address> New York, </address> <year> 1973. </year> <institution> Sect. 3.2. </institution>
+Reference: <author> A. P. Dempster, N. M Laird, and D. B. Rubin. </author> <title> Maximum likelihood from incomplete data via the EM algorithm. </title> <journal> J. Royal Statist. Soc. Ser. B, </journal> <volume> 39 </volume> <pages> 1-38, </pages> <year> 1977. </year>
+Reference: <author> Thomas Hofmann and Joachim M. Buhmann. </author> <title> Hierarchical pairwise data clustering by mean-field annealing. </title> <booktitle> In Proceedings of ICANN'95, NEURON ^ IMES'95, </booktitle> <volume> volume II, </volume> <pages> pages 197-202. </pages> <publisher> EC2 & Cie, </publisher> <year> 1995. </year>
+Reference: <author> Thomas Hofmann and Joachim M. Buhmann. </author> <title> An annealed "neural gas" network for robust vector quantization. </title> <booktitle> In Proceedings of ICANN'96, </booktitle> <pages> pages 151-156, </pages> <address> Berlin, Heidelberg, New York, 1996. </address> <publisher> Springer. </publisher>
+Reference: <author> Thomas Hofmann and Joachim M. Buhmann. </author> <title> Infering hierarchical clustering structures by deterministic annealing. </title> <booktitle> In Proceedings of the Knowledge Discovery and Data Mining Conference 1996, </booktitle> <address> Portland, Redwood City, CA, USA, 1996. </address> <publisher> AAAI Press. (in press). </publisher>
+Reference: <author> Thomas Hofmann and Joachim M. Buhmann. </author> <title> Pairwise data clustering by deterministic annealing. </title> <journal> IEEE Transactions on Pattern Analysis and Machine Intelligence, </journal> <volume> 19(1) </volume> <pages> 1-14, </pages> <year> 1997. </year>
+Reference: <author> J. Hertz, A. Krogh, and R. G. Palmer. </author> <title> Introduction to the Theory of Neural Computation. </title> <publisher> Addison Wesley, </publisher> <address> New York, </address> <year> 1991. </year>
+Reference: <author> Thomas Hofmann. </author> <title> Data Clustering and Beyond: A Deterministic Annealing Framework for Exploratory Data Analysis. </title> <type> PhD thesis, </type> <institution> Mathematisch-Naturwissenschaftliche Fakultat, Rheinische Friedrich-Wilhelms-Universitat Bonn, D-53117 Bonn, Fed. </institution> <type> Rep. </type> <address> Germany, </address> <year> 1997. </year>
+Reference: <author> A. K. Jain and R. C. Dubes. </author> <title> Algorithms for Clustering Data. </title> <publisher> Prentice Hall, </publisher> <address> Englewood Cliffs, NJ 07632, </address> <year> 1988. </year>
+Reference: <author> Hansjorg Klock and Joachim M. Buhmann. </author> <title> Multidimensional scaling by deterministic annealing. </title> <editor> In M.Pellilo and E.R.Hancock, editors, </editor> <booktitle> Proceedings EMMCVPR'97, Lecture Notes In Computer Science. </booktitle> <publisher> Springer Verlag, </publisher> <year> 1997. </year>
+Reference: <author> T. Kohonen. </author> <title> Self-organization and Associative Memory. </title> <publisher> Springer, </publisher> <address> Berlin, </address> <year> 1984. </year>
+Reference: <author> S.P. Luttrell. </author> <title> Hierarchical vector quantizations. </title> <booktitle> IEE Proceedings, </booktitle> <volume> 136 </volume> <pages> 405-413, </pages> <year> 1989. </year>
+Reference: <author> J. MacQueen. </author> <title> Some methods for classification and analysis of multivariate observations. </title> <booktitle> In Proceedings of the 5th Berkeley Symposium on Mathematical Statistics and Probability, </booktitle> <pages> pages 281-297, </pages> <year> 1967. </year>
+Reference: <author> G. J. McLachlan and K. E. Basford. </author> <title> Mixture Models. </title> <publisher> Marcel Dekker, INC, </publisher> <address> New York, Basel, </address> <year> 1988. </year>
+Reference: <author> K. Rose, E. Gurewitz, and G. Fox. </author> <title> A deterministic annealing approach to clustering. </title> <journal> Pattern Recognition Letters, </journal> <volume> 11(11) </volume> <pages> 589-594, </pages> <year> 1990. </year>
+Reference: <author> H. Ritter, T. Martinetz, and K. Schulten. </author> <title> Neural Computation and Self-organizing Maps. </title> <publisher> Addison Wesley, </publisher> <address> New York, </address> <year> 1992. </year>
+Reference: <author> J. W. Sammon Jr. </author> <title> A non-linear mapping for data structure analysis. </title> <journal> IEEE Transactions on Computers, </journal> <volume> 18 </volume> <pages> 401-409, </pages> <year> 1969. </year>
+Reference: <author> Yoshio Takane and Forest W. Young. </author> <title> Nonmetric individul differences multidimensional scaling: An alternating least squares method with optimal scaling features. </title> <journal> Psycho-metrika, </journal> <volume> 42(1) </volume> <pages> 7-67, </pages> <month> March </month> <year> 1977. </year>
+References-found: 21
+

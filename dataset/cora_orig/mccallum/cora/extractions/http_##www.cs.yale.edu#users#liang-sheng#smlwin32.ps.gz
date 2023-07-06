@@ -1,0 +1,22 @@
+URL: http://www.cs.yale.edu/users/liang-sheng/smlwin32.ps.gz
+Refering-URL: http://www.cs.yale.edu/users/liang-sheng.html
+Root-URL: http://www.cs.yale.edu
+Email: liang-sheng@cs.yale.edu  lorenz@research.att.com  
+Title: A Win32 Programming Interface for SML/NJ  
+Author: Sheng Liang Lorenz Huelsbergen 
+Address: New Haven, CT 06520-8285.  600 Mountain Avenue, Murray Hill, NJ 07974.  
+Affiliation: Department of Computer Science, Yale University,  AT&T Bell Laboratories,  
+Date: August 1995  
+Abstract: We have built a Win32 API function call interface for SML/NJ, making it possible to write ML applications with a Microsoft Windows user interface. The interface includes the complete support for all major components of the Win32 system, as well as two high-level libraries for constructing menus and controls. In this document, we give an overview of the SML Win32 interface,discuss how it was designed and implemented, and show how it can be used to write a simple application. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Microsoft Corporation. </author> <title> Win32 programmer's Reference, volume 1-5. </title> <publisher> Microsoft Press, </publisher> <year> 1993. </year>
+Reference-contexts: In total, there are more than 1300 functions and 500 Windows specific data structures. * We follow a layered design. A low-level interface provides the full functionality and preserves the naming conventions and function arguments of the Win32 C interface <ref> [1] </ref>. As a result, the Win32 API manuals [1] are a useful reference for Windows programming in ML. Familiarity with Windows programming in C carries over to the ML framework. <p> In total, there are more than 1300 functions and 500 Windows specific data structures. * We follow a layered design. A low-level interface provides the full functionality and preserves the naming conventions and function arguments of the Win32 C interface <ref> [1] </ref>. As a result, the Win32 API manuals [1] are a useful reference for Windows programming in ML. Familiarity with Windows programming in C carries over to the ML framework. Our low-level interface can be used to build various high-level libraries; e.g., a menu library constructs menus from easy-to-read specifications in ML. <p> For example, the structure that denotes a menu item varies in size depending on how much text the menu item contains: typedef struct - WORD mtOption; WORD mtID; WCHAR mtString <ref> [1] </ref>; /* unknown size */ - MENUITEMTEMPLATE; The mtString slot contains a Unicode string of arbitrary length.
+Reference: [2] <author> Emden R. Gansner and John H. Reppy. eXene. </author> <booktitle> In CMU Workshop on SML, </booktitle> <year> 1991. </year>
+Reference-contexts: Win32 is an integral part of Microsoft operating systems, and does not have a rigorous low-level specification like the X protocol. Therefore we cannot follow the approach used in eXene <ref> [2] </ref>, where the C API layer is bypassed altogether, and a cleaner interface is built from scratch.
+Reference: [3] <author> Charles Petzold. </author> <title> Programming Windows 3.1. </title> <publisher> Microsoft Press, </publisher> <year> 1992. </year>
+Reference-contexts: We assume that the reader is familiar with ML [4]. This document only covers a small part of Windows programming; the reader should consult one of many Windows programming books (such as <ref> [3] </ref>) for more information. 2 An Example In this section we construct a Win32 program in ML which allows the user to freely draw in a window by pressing down the left mouse button while moving the mouse.
+Reference: [4] <author> Jeffrey Ullman. </author> <title> Elements of ML Programming. </title> <publisher> Prentice-Hall, </publisher> <address> Englewood Cliffs, N.J., </address> <year> 1993. </year>
+Reference-contexts: The next section is a tutorial in which we design and implement a simple application. Section 3 provides an overview of the SML Win32 interface, followed by a discussion on its design and implementation in Section 4. We assume that the reader is familiar with ML <ref> [4] </ref>.
+References-found: 4
+

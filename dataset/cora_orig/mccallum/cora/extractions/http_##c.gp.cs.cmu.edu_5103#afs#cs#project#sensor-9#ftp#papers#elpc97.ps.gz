@@ -1,0 +1,28 @@
+URL: http://c.gp.cs.cmu.edu:5103/afs/cs/project/sensor-9/ftp/papers/elpc97.ps.gz
+Refering-URL: http://c.gp.cs.cmu.edu:5103/afs/cs.cmu.edu/project/sensor-9/ftp/www/papers.html
+Root-URL: http://www.cs.cmu.edu
+Title: Workshop on Intelligent NDE Sciences for Aging and Futuristic Aircraft FAST Center for Structural Integrity
+Author: Mel Siegel a Priyan Gunatilake b 
+Keyword: enhanced remote robotic visual inspection stereoscopic multiresolution ANDI CIMP  
+Address: /Pittsburgh PA 15213 USA  Pittsburgh PA 15213 USA  
+Affiliation: Robotics Institute Carnegie Mellon University  University of Texas at El Paso  The Robotics Institute, School of Computer Science b Department of Electrical and Computer Engineering Carnegie Mellon University,  
+Note: Mel Siegel &lt;mws@cmu.edu&gt; The  1997-September-30 to 1997-October-02  page 1 of 12 pages /usr/people/mws/mss/AgingAircraft/ElPaso97/cimp_paper/text/elp_cimp97t-aj.mkr as of  
+Phone: 412 268 8802 FAX 412 268 5569  
+Date: September 29, 1997 12:21 pm  
+Abstract: Visual inspection is the most widely used method in commercial aircraft surface inspection. We have developed a prototype remote visual inspection system, designed to facilitate testing the feasibility and advantages of remote visual inspection of aircraft surfaces. We describe experiments with image understanding algorithms to aid remote visual inspection by enhancing and recognizing surface cracks and corrosion from live imagery. Also described are the supporting mobile robot platform that delivers the imagery, and the inspection console through which the inspector accesses it. We discuss initial results of the image understanding algorithms and speculate on their future use in aircraft surface inspection. 
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> C. Seher, </author> <title> The national aging aircraft nondestructive inspection research and development plan, </title> <booktitle> Proceedings of the International Workshop on Inspection and Evaluation of Aging Aircraft, </booktitle> <month> May 21, </month> <year> 1992. </year>
+Reference: 2. <author> W. T. Shepherd, </author> <title> Human factors in aircraft maintenance and inspection, Conference on aging aircraft and structural airworthiness, </title> <booktitle> NASA conference Publication 3160, </booktitle> <pages> pp 301-304, </pages> <year> 1991. </year>
+Reference: 3. <author> P. D. Gunatilake, M. W. Siegel, A.G. Jordan and G. W. Podnar, </author> <title> Image Enhancement and Understanding for Remote Visual Inspection of Aircraft Surface, </title> <booktitle> Proceedings of the SPIE Conf. of Nondestructive Evaluation of Aging Aircraft, Airports and Aerospace Hardware, </booktitle> <volume> Vol 2945, </volume> <pages> pp 416-427, </pages> <month> December </month> <year> 1996. </year>
+Reference: 4. <author> M. W. Siegel, </author> <title> Automation for Nondestructive Inspection of Aircraft , Conference on Intelligent Robots in Field, Factory, Service and Space (CIRFFSS94), </title> <editor> Paul J Weitz (NASA/JSC), ed., </editor> <booktitle> AIAA, AIAA/NASA, </booktitle> <pages> pp. 367 - 377, </pages> <address> Houston TX, </address> <month> March </month> <year> 1994. </year>
+Reference: 5. <author> M. W. Siegel, W. M. Kaufman and C. J. Alberts, </author> <title> "Mobile Robots for Difficult Measurements in Difficult Environments: Application to Aging Aircraft Inspection", </title> <booktitle> Robotics and Autonomous Systems, </booktitle> <volume> Vol. 11, </volume> <pages> pp 187 - 194, </pages> <month> July </month> <year> 1993. </year>
+Reference: 6. <author> S. Grinberg, G. W. Podnar, and M. W. Siegel, </author> <title> Geometry of Binocular Imaging, </title> <booktitle> Proceedings of the SPIE/IST Conference (San Jose), </booktitle> <editor> ed., SPIE/IST, SPIE/IST, </editor> <month> February </month> <year> 1994. </year>
+Reference: 7. <author> V. S. Grinberg, G. W. Podnar, and M. W. Siegel, </author> <title> Geometry of Binocular Imaging ll: The Augmented Eye, </title> <booktitle> Proceedings of the SPIE/IST Conference (San Jose), </booktitle> <editor> ed., SPIE/IST, SPIE/IST, </editor> <month> February </month> <year> 1995. </year>
+Reference: 8. <author> P Tong, K Arin, D.Y. Jeong, R. Grief, </author> <title> J.C Brewer and S.N. </title> <booktitle> Bobo, Current DOT research on the effect of multiple site damage on structural integrity,NASA conference Publication 3160, </booktitle> <pages> pp 111-157, </pages> <year> 1991. </year>
+Reference: 9. <author> S.N. Bobo, </author> <title> Visual Nondestructive Inspection Advisory Circular, </title> <year> 1993. </year>
+Reference: 10. <author> S. Mallat and S. Zhong, </author> <title> Characterization of signals from multiscale edges, </title> <journal> IEEE Trans Patt. Anal. and Mach. Intell., </journal> <volume> vol 12, </volume> <pages> pp 629-639, </pages> <month> July </month> <year> 1990. </year>
+Reference: 11. <author> A.C. Bovik and M. Clark, </author> <title> Multichannel texture analysis using localized spatial filters, </title> <journal> IEEE Trans. Signal Processing, </journal> <volume> vol. 39, </volume> <pages> pp 2025-2043, </pages> <month> Sept </month> <year> 1991. </year>
+Reference: 12. <author> M. Unser and M. Eden, </author> <title> Multiresolution feature extraction and selection for texture segmentation, </title> <journal> IEEE Trans. on Patt. Anal. and Mach. Intell., </journal> <volume> vol. 11, No. 7, </volume> <pages> pp: 717-728, </pages> <year> 1989. </year>
+References-found: 12
+

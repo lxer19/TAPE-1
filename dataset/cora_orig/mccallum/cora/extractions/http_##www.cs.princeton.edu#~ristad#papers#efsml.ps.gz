@@ -1,0 +1,24 @@
+URL: http://www.cs.princeton.edu/~ristad/papers/efsml.ps.gz
+Refering-URL: http://www.cs.princeton.edu/~ristad/papers/efsml.html
+Root-URL: http://www.cs.princeton.edu
+Title: 1 Hidden Markov Models with Finite State Supervision  
+Author: Eric Sven Ristad 
+Affiliation: Mnemonic Technology, Inc.  
+Abstract: In this chapter we provide a supervised training paradigm for hidden Markov models (HMMs). Unlike popular ad-hoc approaches, our paradigm is completely general, need not make any simplifying assumptions about independence, and can take better advantage of the information contained in the training corpus. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> L.E. Baum and J.E. Eagon. </author> <year> 1967. </year> <title> An inequality with applications to statistical estimation for probabilistic functions of a Markov process and to models for ecology. </title> <journal> Bull. AMS, </journal> <volume> 73 </volume> <pages> 360-363. </pages>
+Reference: <author> L.E. Baum, T. Petrie, G. Soules, and N. Weiss. </author> <year> 1970. </year> <title> A maximization technique occurring in the statistical analysis of probabilistic functions of Markov chains. </title> <journal> Ann. Math. Stat., </journal> <volume> 41 </volume> <pages> 164-171. </pages>
+Reference: <author> A. Dempster, N. Laird, and D. Rubin. </author> <title> Maximum likelihood from incomplete data via the EM algorithm. </title> <journal> J. Royal Statist. Soc. Ser. B (methodological) 39 (1977), </journal> <pages> 1-38. </pages>
+Reference: <editor> John D. Ferguson, editor. </editor> <year> 1980. </year> <title> Symposium on the Application of Hidden Markov Models to Text and Speech. </title> <institution> Institute for Defense Analyses, Communications Research Division, Princeton, NJ. </institution>
+Reference: <author> M. Ferretti, G. Maltese, and S. Scarci. </author> <year> 1989. </year> <title> Language model and acoustic model information in probabilistic speech recognition. </title> <booktitle> In IEEE Conference on Acoustics, Speech and Signal Processing, </booktitle> <address> Glasgow. </address>
+Reference-contexts: Unfortunately, this ad-hoc approach is guaranteed to be suboptimal when the linguistic signal cannot be accurately segmented into distinct transcript symbols | 2 Ristad as in cases of coarticulation, elision, or motor program masking | or when adjacent signal segments are correlated <ref> (Ferretti et al. 1989) </ref>. In this chapter we consider the supervised training problem for hidden Markov models (HMMs). We begin by specifying a powerful class of anchored semi-continuous HMMs in section 2.
+Reference: <author> I. Guyon, L. Schomaker, R. Plamodon, M. Liberman, and S. Janet. </author> <year> 1994. </year> <title> UNIPEN project of on-line data exchange and recognizer benchmarks. </title> <booktitle> In Proceedings of the 12th International Conference on Pattern Recognition, </booktitle> <address> Jerusalem. </address>
+Reference-contexts: Online handwriting corpora are less standardized than speech corpora | the largest publicly available corpus is variously aligned on character boundaries, word boundaries, and paragraph boundaries <ref> (Guyon et al. 1994) </ref>. Note that T n I n in general. In the speech recognition application, the acoustic signal is typically sampled at 16,000 Hz, while speakers are able to generate 1-2 words/second in spontaneous conversation.
+Reference: <author> J. Hopcroft and J. Ullman. </author> <year> 1979. </year> <title> Introduction to Automata Theory, Languages, and Computation. </title> <publisher> Addison-Wesley, </publisher> <address> Reading, MA. </address>
+Reference: <author> X.D. Huang, Y. Ariki, and M.A. Jack. </author> <year> 1990. </year> <title> Hidden Markov Models for Speech Recognition. Information Technology Series. </title> <publisher> Edinburgh University Press, Ed-inburgh. </publisher>
+Reference: <author> L.R. Rabiner and B.H. Juang. </author> <year> 1986. </year> <title> An introduction to hidden Markov models. </title> <journal> IEEE ASSP Magazine, </journal> <pages> pages 4-16. </pages>
+Reference: <author> R.A. Redner and H.F. Walker. </author> <title> Mixture densities, maximum likelihood, and the EM algorithm. </title> <journal> SIAM Review 26, </journal> <volume> 2 (1984), </volume> <pages> 195-239. </pages>
+Reference: <author> Y. Bar-Hillel, M. Perles, and E. Shamir. </author> <year> 1961. </year> <title> On formal properties of simple phrase structure grammars. </title> <journal> Phonetik. Sprachwiss. Kommunikationsforsh, </journal> <volume> 14 </volume> <pages> 143-172. </pages>
+References-found: 11
+

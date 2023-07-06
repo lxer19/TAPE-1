@@ -1,0 +1,15 @@
+URL: ftp://ftp.cs.washington.edu/tr/1995/02/UW-CSE-95-02-02.PS.Z
+Refering-URL: http://www.cs.washington.edu/research/tr/tr-by-title.html
+Root-URL: 
+Email: fetzioni, kgolden, weldg@cs.washington.edu  
+Title: Sound and Efficient Closed-World Reasoning for Planning  
+Author: Oren Etzioni Keith Golden Daniel Weld 
+Date: February 21, 1995  
+Address: Seattle, WA 98195  
+Affiliation: Department of Computer Science and Engineering University of Washington  
+Pubnum: Technical Report 95-02-02  
+Abstract: or the inability to derive it. Previous work on circumscription, autoepistemic logic, and database theory has explored logical axiomatizations of closed-world reasoning, and investigated computational tractability for propositional theories. Work in planning has traditionally made the closed world assumption but has avoided closed-world reasoning. We take a middle position, and describe a novel method for closed-world reasoning over the first-order theories of action used by planning algorithms such as nonlin, tweak, and ucpop. We show the method to be both sound and efficient. The method has been incorporated into the xii planner [22], which supports our Internet Softbot (software fl We thank Tom Dean, Denise Draper, Steve Hanks, Rao Kambhampati, Craig Knoblock, Neal Lesh, Martha Pollack, Rich Segal, Yoav Shoham, Mike Wellman, and Mike Williamson for helpful comments on earlier drafts of this paper. Omid Madani contributed to the formal aspects of the paper, and Rob Spiger contributed to the implementation. This research was funded in part by Office of Naval Research Grants 90-J-1904 and 92-J-1946, by a grant from the University of Washington Royalty Research Fund, and by National Science Foundation Grants IRI-8957302, IRI-9211045, and IRI-9357772. Golden is supported in part by a UniForum Research Award. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

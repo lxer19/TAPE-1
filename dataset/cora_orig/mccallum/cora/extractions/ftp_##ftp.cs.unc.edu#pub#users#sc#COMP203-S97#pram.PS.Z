@@ -1,0 +1,12 @@
+URL: ftp://ftp.cs.unc.edu/pub/users/sc/COMP203-S97/pram.PS.Z
+Refering-URL: http://www.cs.unc.edu/~sc/teaching/COMP203-S1997/lectures.html
+Root-URL: http://www.cs.unc.edu
+Title: COMP 203: Parallel and Distributed Computing PRAM Algorithms control of a common clock. 2. Processors
+Author: Siddhartha Chatterjee 
+Note: Contents 1 The PRAM model of computation 1 2 The Work-Time paradigm 3 2.1 Brent's Theorem 4 2.2 More complexity theory  available locally. This id is in the range 1-p, and can be used to parameterize a processor's program.  
+Date: Spring 1997  6  
+Abstract: 3 Basic PRAM algorithm design techniques 6 3.1 Balanced trees : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : 6 3.2 Pointer jumping : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : 8 3.3 Euler tours : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : 9 3.4 Divide and conquer : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : 12 3.5 Symmetry breaking : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : 13 4 A tour of data-parallel algorithms 15 4.1 Termination detection : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : 15 4.2 Basic scan-based algorithms : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : 16 4.3 Parallel lexical analysis : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : 19 5 The relative power of PRAM models 20 5.1 The power of concurrent reads : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : 20 5.2 The power of concurrent writes : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : 20 5.3 Quantifying the power of concurrent memory accesses : : : : : : : : : : : : : : : : : : : : : : : : 21 In this unit of the course, we will study parallel algorithms in the context of a model of parallel computation called the Parallel Random Access Machine (PRAM). As the name suggests, the PRAM model is an extension of the familiar RAM model of sequential computation that is used in algorithm analysis (of the COMP 122 variety). It is a synchronous shared memory model with the following properties. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

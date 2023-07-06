@@ -1,0 +1,26 @@
+URL: ftp://ftp.cs.toronto.edu/csri-technical-reports/304/CSRI-304.ps.Z
+Refering-URL: http://www.cs.toronto.edu/~pedmonds/cl-group/pubs/list-abstracts.html
+Root-URL: 
+Title: A COMPARISON OF TWO SMOOTHING METHODS FOR WORD BIGRAM MODELS  
+Author: by Linda Charlene Bauman Peto 
+Degree: A thesis submitted in conformity with the requirements for the degree of Master of Science  
+Note: c flCopyright by Linda Bauman Peto 1994  
+Address: Toronto  
+Affiliation: Graduate Department of Computer Science University of  
+Abstract-found: 0
+Intro-found: 1
+Reference: <author> Bahl, L., Jelinek, F., and Mercer, R. L. </author> <year> (1983). </year> <title> A maximum likelihood approach to continuous speech recognition. </title> <journal> IEEE Transactions on Pattern Analysis and Machine Intelligence, </journal> <volume> 5(2) </volume> <pages> 179-190. </pages>
+Reference: <author> Brown, P. F., Della Pietra, S. A., Della Pietra, V. J., Lai, J. C., and Mercer, R. L. </author> <year> (1992). </year> <title> An estimate of an upper bound for the entropy of English. </title> <journal> Computational Linguistics, </journal> <volume> 18(1) </volume> <pages> 31-40. </pages>
+Reference: <author> Church, K. and Gale, W. </author> <year> (1991). </year> <title> A comparison of the enhanced Good-Turing and deleted estimation methods for estimating probabilities of English bigrams. </title> <booktitle> Computer Speech and Language, </booktitle> <volume> 5 </volume> <pages> 19-54. </pages>
+Reference: <author> Gale, W. </author> <year> (1994). </year> <title> Good-Turing smoothing without tears. </title> <note> Submitted for publication. </note>
+Reference: <author> Gale, W. and Church, K. </author> <year> (1991). </year> <title> A program for aligning sentences in bilingual corpora. </title> <booktitle> In Proceedings of 29th Annual Meeting of the ACL, </booktitle> <pages> pages 177-184. </pages>
+Reference: <author> Gale, W. and Church, K. </author> <year> (1994). </year> <title> What's wrong with adding one? In Oostdijk, </title> <editor> N. and de Haan, P., editors, </editor> <booktitle> Corpus-Based Research into Language. </booktitle> <address> Rodolpi, Amsterdam. </address>
+Reference: <author> Good, I. </author> <year> (1953). </year> <title> The population frequency of species and the estimation of population parameters. </title> <journal> Biometrika, </journal> <volume> 40(3 and </volume> 4):237-264. 
+Reference: <author> Jelinek, F. and Mercer, R. L. </author> <year> (1980). </year> <title> Interpolated estimation of Markov source parameters from sparse data. </title> <editor> In Gelsema, E. and Kanal, L., editors, </editor> <booktitle> Pattern Recognition in Practice, </booktitle> <pages> pages 381-397. </pages> <editor> North-Holland Publishing Company. </editor> <booktitle> Proceedings of the Workshop on Pattern Recognition in Practice. </booktitle>
+Reference: <author> Katz, S. M. </author> <year> (1987). </year> <title> Estimation of probabilities from sparse data for the language model component of a speech recognizer. </title> <journal> IEEE Transactions on Acoustics, Speech and Signal Processing, ASSP-35(3):400-401. </journal>
+Reference: <author> Liberman, M. and Marcus, M. </author> <year> (1992). </year> <title> Tutorial on text corpora. </title> <booktitle> Tutorial given at ACL '92. </booktitle>
+Reference: <author> MacKay, D. J. C. </author> <year> (1992). </year> <title> Bayesian interpolation. </title> <journal> Neural Computation, </journal> <volume> 4 </volume> <pages> 415-447. </pages>
+Reference: <author> MacKay, D. J. C. </author> <year> (1994). </year> <title> `smoothing' within a hierarchical probabilistic model. </title> <address> MS. </address>
+Reference: <author> Nadas, A. </author> <year> (1984). </year> <title> Estimation of probabilities in the language model of the IBM speech recognition system. </title> <journal> IEEE Transactions on Acoustics, Speech and Signal Processing, ASSP-32(4):859-861. </journal> <volume> 18 </volume>
+References-found: 13
+

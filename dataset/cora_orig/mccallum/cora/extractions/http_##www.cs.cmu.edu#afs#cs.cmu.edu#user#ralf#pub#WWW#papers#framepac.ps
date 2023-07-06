@@ -1,0 +1,20 @@
+URL: http://www.cs.cmu.edu/afs/cs.cmu.edu/user/ralf/pub/WWW/papers/framepac.ps
+Refering-URL: 
+Root-URL: 
+Title: FramepaC User's Reference  
+Author: Ralf D. Brown 
+Date: 5 September 1997  
+Web: CMU-CMT-97-MEMO  
+Note: Version 1.00 beta10 (Document Version 38)  Copyright 1995,1996,1997 Ralf Brown  
+Abstract: FramepaC is a frame manipulation package for C++ programmers which has been optimized for speed over ultimate generality. In addition to frame manipulation, it provides most of the data types supported by Common Lisp. Despite the emphasis on raw speed, it still provides a rich set of features, including inheritance, a Lisp-like reader, demand-loaded frames using either a disk file or a network server as backing store, and optionally demons. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> R.D. Brown. </author> <title> The MikroKARAT Knowledge Acquisition Environment. </title> <type> Technical Report CMU-CMT-94-MEMO, </type> <institution> Carnegie Mellon University Center for Machine Translation, </institution> <year> 1994. </year>
+Reference-contexts: 1. Introduction FramepaC is a highly efficient frame manipulation package for C++ programmers which was originally designed for use in the MikroKARAT knowledge acquisition environment <ref> [1] </ref>. Although designed primarily for MikroKARAT's needs, FramepaC is still quite general and should be valuable in a variety of other applications; it has already been used in a number. <p> A simple pointer equality test is used to determine common membership. FrObject *&FrList::operator [] (size_t position) const Return a reference to the element at the positionth location in the list, counting from zero. Thus, FrList [0] is the list's head element, FrList <ref> [1] </ref> is the second element, etc.
+Reference: [2] <author> E. Nyberg. </author> <title> FrameKit User's Guide. </title> <type> Technical Memorandum, </type> <institution> Carnegie Mellon University Center for Machine Translation, </institution> <year> 1988. </year>
+Reference-contexts: Although designed primarily for MikroKARAT's needs, FramepaC is still quite general and should be valuable in a variety of other applications; it has already been used in a number. FramepaC's core function set has been patterened after FrameKit <ref> [2] </ref>, a Common Lisp package used in a number of previous projects, including the ONTOS knowledge acquisition system [3, 4] which MikroKARAT was designed to supplant.
+Reference: [3] <author> S. Nirenburg, I. Monarch, T. Kaufmann, I. Nirenburg and J. Carbonell. </author> <title> Acquisition of Very Large Knowledge Bases: Methodology, Tools, and Applications. </title> <type> Technical Report 88-108, </type> <institution> Carnegie Mellon University Center for Machine Translation, </institution> <year> 1988. </year>
+Reference-contexts: FramepaC's core function set has been patterened after FrameKit [2], a Common Lisp package used in a number of previous projects, including the ONTOS knowledge acquisition system <ref> [3, 4] </ref> which MikroKARAT was designed to supplant. FrameKit's primary drawback has been its extreme slowness, due to handling the most general cases imaginable; even fairly simple modifications have on more than one occasion resulted in a system-wide speedup by a factor of three or more.
+
+References-found: 3
+

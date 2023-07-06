@@ -1,0 +1,14 @@
+URL: ftp://ftp.cs.indiana.edu/pub/techreports/TR503.ps.Z
+Refering-URL: http://www.cs.indiana.edu/trindex.html
+Root-URL: 
+Title: An Algorithm for Comparing Deterministic Regular Tree Grammars  
+Author: Byron Long 
+Abstract:  
+Abstract-found: 1
+Intro-found: 1
+Reference: [GS84] <author> Ferenc Gecseg and Magnus Steinb. </author> <title> Tree Automata. </title> <publisher> Akademiai Kiado, </publisher> <address> Budapest, </address> <year> 1984. </year>
+Reference: [HU79] <author> John E. Hopcroft and Jeffrey D. Ullman. </author> <title> Introduction to automata theory, languages, and computation. </title> <publisher> Addison Wesley, </publisher> <year> 1979. </year>
+Reference: [Liu98] <author> Y. A. Liu. </author> <title> Dependence analysis for recursive data. </title> <booktitle> In Proceedings of the 1998 IEEE International Conference on Computer Languages, </booktitle> <address> Chicago, 1998. </address> <publisher> IEEE Computer Society Press. </publisher> <pages> 9 </pages>
+Reference-contexts: In this paper we will consider only deterministic regular tree grammars and their languages. Deterministic regular tree grammars provide a convenient way of describing recursive data. <ref> [Liu98] </ref> presents a method of analyzing recursive data that uses these grammars as results of a fixed point computation.
+References-found: 3
+

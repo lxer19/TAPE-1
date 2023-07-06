@@ -1,0 +1,25 @@
+URL: ftp://ftp.cs.man.ac.uk/pub/TR/UMCS-99-3-1-lee.ps.Z
+Refering-URL: http://www.cs.man.ac.uk/~leet/
+Root-URL: http://www.cs.man.ac.uk
+Email: roger@cs.man.ac.uk  
+Title: Computer Simulation of Learning Experiments with Autonomous Mobile Robots  
+Author: Ten-min Lee, Ulrich Nehmzow and Roger Hubbold leet, ulrich, 
+Date: 26.3.99  
+Address: Oxford Road, Manchester M13 9PL, U.K.  
+Affiliation: Department of Computer Science, University of Manchester  
+Abstract: This paper presents a series of experiments with an autonomous mobile robot to acquire a model of the robot's interaction with a specific environment. In these experiments, an artificial neural network model of the environment is acquired, using data obtained from the robot interacting with the real world. To investigate the feasibility of this approach we have modelled fundamental sensory perception, robot environment interaction in simple, small environments, and the application of this novel approach to a machine learning application in robotics. The behaviour of a learning mobile robot is predicted using our network-based approach and shown to produce more faithful results than classical robot simulation methods. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> R. A. Brooks, M. J. Mataric, </author> <title> Real Robots, Real Learning Problems. In Chapter 8, Robot Learning, Edited by J. </title> <editor> H. Connell and S. Mahadevan, </editor> <publisher> Kluwer Academic Publishers, </publisher> <year> 1993. </year>
+Reference: [2] <author> C. Chen, M. M. Trivedi, C. R. Bidlack. </author> <title> Simulation and Animation of Sensor-Driven Robots. </title> <journal> In IEEE Transaction on Robotics and Automation, </journal> <volume> Vol. 10, No. 5, </volume> <year> 1994. </year>
+Reference: [3] <author> H. R. Everett. </author> <title> Sensors for Mobile robots: Theory and Application. Published by A K Peters, </title> <publisher> Ltd., </publisher> <year> 1995. </year>
+Reference: [4] <author> K. D. Harris. </author> <title> Closed-Form Probabilistic Models of Time-of-Flight Sonar. </title> <booktitle> In Proc. ESM98, the 12th European Simulation Multiconference, </booktitle> <year> 1998. </year>
+Reference: [5] <author> T. Lee, U. Nehmzow, R. Hubbold. </author> <title> Faithful Simulation of Autonomous Mobile Robots by Means of Model Acquisition. </title> <type> Technical Report Series, </type> <institution> UMCS-97-12-1, Computer Science Dept., Manchester Univ., </institution> <address> ISSN 1361-6161, </address> <year> 1997. </year>
+Reference: [6] <author> T. Lee, U. Nehmzow, R. Hubbold. </author> <title> Mobile Robot Simulation by Means of Acquired Neural Network Models. </title> <booktitle> In Proc. ESM98, the 12th European Simulation Multiconference, </booktitle> <year> 1998. </year>
+Reference: [7] <author> H. H. Lund and O. Miglino. </author> <title> From Simulated to Real Robots. </title> <booktitle> In Proc. IEEE 3rd Int. Conf. on Evolutionary Computation. </booktitle> <publisher> IEEE Press, </publisher> <year> 1996. </year>
+Reference: [8] <author> M. M. Trivedi, M. A. Abidi, R. O. Eason, R. C. Gonzalez. </author> <title> Developing Robotic Systems with Multiple Sensors. </title> <journal> IEEE Transactions on Systems, Man, and Cybernetics. </journal> <volume> Vol. 20, No. 6, </volume> <year> 1990. </year>
+Reference: [9] <author> U. Nehmzow. </author> <title> Autonomous Acquisition of Sensor-Motor Coulpings in Robots. </title> <type> Technical Report Series, </type> <institution> UMCS-94-11-1, the Department of Computer Science, Manchester Univ., </institution> <address> ISSN 1361-6161, </address> <year> 1994. </year>
+Reference: [10] <author> M. Pasquier, K. Lim. </author> <title> A Novel Approach to Range Sensor Modelling in Robot Simulation. </title> <booktitle> In Proc. ESM98, the 12th European Simulation Multiconference, </booktitle> <year> 1998. </year>
+Reference: [11] <author> K. Song, W. Tang. </author> <title> Environment Perception for a Mobile Robot Using Double Ultrasonic Sensors and a CCD Camera. </title> <journal> IEEE Transactions on Industrial Electronics. </journal> <volume> Vol. 43, No. 3, </volume> <year> 1996. </year>
+References-found: 11
+

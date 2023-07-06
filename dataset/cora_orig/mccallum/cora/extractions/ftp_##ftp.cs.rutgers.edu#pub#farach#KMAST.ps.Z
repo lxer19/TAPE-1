@@ -1,0 +1,16 @@
+URL: ftp://ftp.cs.rutgers.edu/pub/farach/KMAST.ps.Z
+Refering-URL: http://www.cs.rutgers.edu/~farach/index.html
+Root-URL: http://www.cs.rutgers.edu
+Title: Fast comparison of evolutionary trees (extended abstract). 1994. Sparse dynamic programming for evolutionary tree comparison.
+Author: [] M. Farach and M. Thorup. [] M. Farach and M. Thorup. C. R. Finden and A. D. Gordon. cation, :-, . [] E. Kubicka, G. Kubicki, and F.R. McMorris. M. Steel and T. Warnow. Kaikoura 
+Date: 7  
+Note: Proc. of the 5th Annual ACM-SIAM Symposium on Discrete Algorithms, pages 481-488,  Proc. of the 35th IEEE Annual Symp. on Foundation of Computer Science, pages 770-779, 1994. [7]  An algorithm to find agreement subtrees. To appear in Journal of Classification, 1994. [9]  
+Pubnum: 48:77-82, 1993.  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> A. Amir and D. Keselman. </author> <title> Maximum agreement subtrees in multiple evolutionary trees. </title> <booktitle> Proc. of the 35th IEEE Annual Symp. on Foundation of Computer Science, </booktitle> <pages> pages 758-769, </pages> <year> 1994. </year>
+Reference: [2] <author> A. Amir and D. Keselman. </author> <title> Maximum agreement subtree in a set of evolutionary trees - metrics and efficient algorithms. </title> <note> Submitted for publication, </note> <year> 1995. </year>
+Reference: [3] <author> J-P. Barthelemy and A. Guenoche. </author> <title> Trees and Proximity Representations. </title> <publisher> Wiley, </publisher> <address> New York, </address> <year> 1991. </year>
+
+References-found: 3
+

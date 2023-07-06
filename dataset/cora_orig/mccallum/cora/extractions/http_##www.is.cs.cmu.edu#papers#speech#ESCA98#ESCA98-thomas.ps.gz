@@ -1,0 +1,20 @@
+URL: http://www.is.cs.cmu.edu/papers/speech/ESCA98/ESCA98-thomas.ps.gz
+Refering-URL: 
+Root-URL: 
+Email: ftpolzin,waibelg@cs.cmu.edu  
+Title: PRONUNCIATION VARIATIONS IN EMOTIONAL SPEECH  
+Author: Thomas S. Polzin and Alexander Waibel 
+Address: Pittsburgh, PA 15233, USA  
+Affiliation: Interactive Systems Laboratories Carnegie Mellon University  
+Abstract: In this paper we demonstrate how the emotional state of the speaker influences his or her speech. We show that recognition accuracy varies significantly depending on the emotional state of the speaker. Our system models the pronunciation variation of emotional speech both at the acoustic and prosodic level. We show that using emotion-specific acoustic and prosodic models allows the system to discriminate among four emotions (happy, sad, angry, and afraid) well above chance level. Finally, we show that emotion-specific modeling improves the word accuracy of the speech recognition system when faced with emotional speech. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1985] <author> R. Frick. </author> <title> Communicating emotion. the role of prosodic features. </title> <journal> Psychological Bulletin, </journal> <volume> 97(3) </volume> <pages> 412-429, </pages> <year> 1985. </year>
+Reference: [1984] <author> K.R. Scherer, D.R. Ladd, and K.E.A. Silver-man. </author> <title> Vocal cues to speaker affect: Testing two models. </title> <journal> Journal of the Acoustic Society of America, </journal> <volume> 76 </volume> <pages> 1346-1356, </pages> <year> 1984. </year>
+Reference-contexts: Research in psycholin-guistics indicates that prosodic information such as pitch and speaking rate is important in human recognition of underlying emotions in speech (Scherer et al. <ref> [1984, 1991] </ref>). Our system uses both acoustic (segmental) and prosodic (suprasegmental) information to model the pronunciation variation in emotional speech. We use a variation of hidden Markov models to integrate prosodic information into the recgonition process.
+Reference: [1991] <author> K.R. Scherer, R. Banse, H.G. Wallbott, and T. Goldbeck. </author> <title> Vocal cues in emotion encoding and decoding. </title> <journal> Motivation & Emotion, </journal> <volume> 2(15) </volume> <pages> 123-148, </pages>
+Reference-contexts: Research in psycholin-guistics indicates that prosodic information such as pitch and speaking rate is important in human recognition of underlying emotions in speech (Scherer et al. <ref> [1984, 1991] </ref>). Our system uses both acoustic (segmental) and prosodic (suprasegmental) information to model the pronunciation variation in emotional speech. We use a variation of hidden Markov models to integrate prosodic information into the recgonition process.
+Reference: [to appear] <author> T.Polzin. </author> <title> Suprasegmental hidden Markov models. </title> <type> Technical report, </type> <institution> School of Computer Science, Carnegie Mellon University, </institution> <address> 5000 Forbes Avenue, Pittsburgh PA 15213, USA, </address> <note> to appear. </note>
+Reference: [1997] <author> T.Zeppenfeld, M.Finke, K.Ries, M.Westphal, and A.Waibel. </author> <title> Recognition of conversational telephone speech using the Janus speech engine. </title> <booktitle> In IEEE International Conference on Acoustics, Speech and Signal Processing, </booktitle> <address> Munich , Germany, </address> <year> 1997. </year>
+References-found: 5
+

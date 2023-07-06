@@ -1,0 +1,14 @@
+URL: http://www.cs.man.ac.uk/~banach/some.pubs/INJ.typed.dpo.op.ps.gz
+Refering-URL: http://www.cs.man.ac.uk/~banach/Recent.publications.html
+Root-URL: http://www.cs.man.ac.uk
+Email: banach@cs.man.ac.uk  andrea@di.unipi.it  
+Title: An Opfibration Account of Typed DPO and DPB Graph Transformation: Injective Productions  
+Author: R. Banach A. Corradini 
+Keyword: Key Words: Graph grammar, DPO and DPB rewriting, opfibrations.  
+Address: Manchester, M13 9PL, U.K.  Kruislaan 413, 1098 SJ Amsterdam, The Netherlands. 1  
+Affiliation: Computer Science Dept., Manchester University,  CWI,  
+Abstract: The in the lar ge properties of typed graph transformation systems in the double pushout framework and a double pullback variation of it, are reexamined for injective productions (for which the theory is strictly richer than in the general case). Preceding accounts utilising a fixed choice of pullbacks (whether adopted directly or via partial morphisms) are seen to be excessively sensitive to the precise graphs involved for comfort. The properties of a fixed choice of pullbacks are seen to be analogous to those of a splitting of an opf ibration, and so a framework of graph transformations utilising unsplit opfibrations is constructed, which proves to be free of the excessive sensitivity noted. The new formulation exploits a triple category whose existence depends crucially on the injectivity of productions. In the new framework, graph grammars graph transition systems and graph derivation systems, computation grammars computation systems and computation sequence systems, are all considered; and all of these are finally brought together into synthesised descriptions. In each case the adjunction appropriate to the enrichment from grammar to system is constructed. These are variously left or right adjunctions, conventional or weak adjunctions, depending on the details of the particular case in question. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

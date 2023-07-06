@@ -1,0 +1,13 @@
+URL: http://www.cs.tamu.edu/faculty/rwerger/pubs/1039.ps.gz
+Refering-URL: http://www.cs.tamu.edu/faculty/rwerger/pubs/
+Root-URL: http://www.cs.tamu.edu
+Abstract-found: 0
+Intro-found: 1
+Reference: <institution> References </institution>
+Reference: [1] <institution> Weitek Corporation, Weitek WTL 3164/XL-3164 WTL 3364/XL-3364 Data Sheet, </institution> <address> Sunnyvale CA, </address> <year> 1988 </year>
+Reference-contexts: general purpose registers then the polynomial will be broken up into chunks that will be evaluated sequentially from the lower to the higher degree chunk. 5.1 Results for a Weitek WTL3164/3364 based system The same theoretical results can be applied to the a system built around a Weitek WTL3164/3364 chip <ref> [1] </ref>. However there are a few distinctions: The number of registers is higher, multiply-add instructions can be given every clock cycle and take 2 cycles each.
+Reference: [2] <author> Gerry Kane, </author> <title> MIPS RISC Architecture, </title> <address> Englewood Cliffs, NJ, Prentice-Hall,1988 </address>
+Reference: [3] <author> M. J. Flynn and S. Waser, </author> <title> Introduction to Arithmetic for Digital System Designers, </title> <address> New York, CBS College Publishing, </address> <year> 1982 </year>
+Reference: [4] <author> K. Gallivan, W. Jalby, U. Meier and A. Sameh, </author> <title> The Impact of Hierarchical Memory Systems on Linear Algebra Algorithm Design, </title> <journal> International Journal of Supercomputing Applications, </journal> <volume> Vol.2 ,No 1, </volume> <month> Spring </month> <year> 1988 </year>
+References-found: 5
+

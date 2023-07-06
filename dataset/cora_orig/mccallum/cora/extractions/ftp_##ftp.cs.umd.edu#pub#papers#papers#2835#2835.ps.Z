@@ -1,0 +1,20 @@
+URL: ftp://ftp.cs.umd.edu/pub/papers/papers/2835/2835.ps.Z
+Refering-URL: http://www.cs.umd.edu/TRs/TR.html
+Root-URL: 
+Title: On the Perturbation of Markov Chains with Nearly Transient States transient in the sense that
+Author: G. W. Stewart T T 
+Note: A A 11 E 12 If E 12 were zero, the states corresponding to A 22 would be  2 then T 2 0. If E 12 is small, then T 2 will be 2 induce only  This report is available by anonymous ftp from thales.cs.umd.edu in the directory pub/reports.  
+Date: February, 1992 Revised October, 1992  
+Affiliation: University of Maryland College Park Institute for Advanced Computer Studies TR-92-14 Department of Computer Science  
+Pubnum: TR-2835  
+Abstract: Let A be an irreducible stochastic matrix of the form small, and the states are said to be nearly transient. It this paper it is shown that small relative perturbations in A 11 , A 21 , and A 22 , though potentially larger than y T y Department of Computer Science and Institute for Advanced Computer Studies, University of Maryland, College Park, MD 20742. This work was supported in part by the Air Force Office of Scientific Research under Contract AFOSR-87-0188 and the National Science Foundataion under grant CCR 9115568 and was done while the author was a visiting faculty member at the Institute for Mathmatics and Its Applications, The University of Minnesota, Minneapolis, MN 55455. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> G. H. Golub and C. F. Van Loan. </author> <title> Matrix Computations. </title> <publisher> Johns Hopkins University Press, </publisher> <address> Baltimore, Maryland, 2nd edition, </address> <year> 1989. </year>
+Reference-contexts: The same symbols with tildes denote the norms of the perturbed quantities; e.g., ~ fi = k ~ Bk. We begin by collecting some standard results from the perturbation of linear systems (see, e.g., <ref> [1, 3] </ref>). Theorem 3.1.
+Reference: [2] <author> G. W. Stewart. </author> <title> Perturbation theory for nearly uncoupled Markov chains. </title> <editor> In W. J. Stewart, editor, </editor> <booktitle> Numerical Methods for Markov Chains, </booktitle> <pages> pages 105-120, </pages> <publisher> North Holland, </publisher> <address> Amsterdam, </address> <year> 1990. </year>
+Reference-contexts: becomes small, the approximations that lead to (1.1) become increasingly inaccurate and break down entirely when ff = O (*). (This break-down agrees with what we know about the perturbation theory for nearly completely decomposable chains, where the steady Nearly Transient Chains 3 state vector is sensitive to such perturbations <ref> [2] </ref>.) In generalizing the result, however, it is not be enough to require that A 21 = O (1), and we will formulate an alternate condition in terms of A 22 . Finally, we note that the perturbation in the example does not leave the matrix stochastic.
+Reference: [3] <author> G. W. Stewart and G.-J. Sun. </author> <title> Matrix Perturbation Theory. </title> <publisher> Academic Press, </publisher> <address> Boston, </address> <year> 1990. </year>
+Reference-contexts: The same symbols with tildes denote the norms of the perturbed quantities; e.g., ~ fi = k ~ Bk. We begin by collecting some standard results from the perturbation of linear systems (see, e.g., <ref> [1, 3] </ref>). Theorem 3.1. <p> of A, for sufficiently small there is a corresponding eigenvalue of ~ A of the form = 1 + (y T 2 ) @ G 21 G 22 A @ e A + O ( 2 ) 1 G 11 e + O ( 2 ) + O (*) (see <ref> [3, Theorem IV.2.3] </ref>). Hence k1 k ky 1 k + O ( 2 ) + O (*). Thus if ~ ~ A = ~ A = (1 )I, then ~ ~ A comes from a perturbation of A whose norm is asymptotically bounded by (1 + ky T 1 k).
+References-found: 3
+

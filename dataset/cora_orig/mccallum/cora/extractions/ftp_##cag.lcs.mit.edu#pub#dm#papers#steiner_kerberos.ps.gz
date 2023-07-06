@@ -1,0 +1,25 @@
+URL: ftp://cag.lcs.mit.edu/pub/dm/papers/steiner:kerberos.ps.gz
+Refering-URL: http://www.pdos.lcs.mit.edu/~dm/
+Root-URL: 
+Email: steiner@ATHENA.MIT.EDU  bcn@CS.WASHINGTON.EDU  jis@ATHENA.MIT.EDU  
+Title: Kerberos: An Authentication Service for Open Network Systems  
+Author: Jennifer G. Steiner Project Athena Clifford Neuman Jeffrey I. Schiller Project Athena 
+Address: Cambridge, MA 02139  Seattle, WA 98195  Cambridge, MA 02139  
+Affiliation: Massachusetts Institute of Technology  Department of Computer Science, FR-35 University of Washington  Massachusetts Institute of Technology  
+Abstract: In an open network computing environment, a workstation cannot be trusted to identify its users correctly to network services. Kerberos provides an alternative approach whereby a trusted third-party authentication service is used to verify users' identities. This paper gives an overview of the Kerberos authentication model as implemented for MIT's Project Athena. It describes the protocols used by clients, servers, and Kerberos to achieve authentication. It also describes the management and replication of the database required. The views of Kerberos as seen by the user, programmer, and administrator are described. Finally, the role of Kerberos in the larger Athena picture is given, along with a list of applications that presently use Kerberos for user authentication. We describe the addition of Kerberos authentication to the Sun Network File Sys- tem as a case study for integrating Kerberos with an existing application. 
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> S. P. Miller, B. C. Neuman, J. I. Schiller, and J. H. Saltzer, </author> <title> Section E.2.1: Kerberos Authentication and Authorization System, M.I.T. Project Athena, </title> <address> Cambridge, Massachusetts (December 21, </address> <year> 1987). </year>
+Reference: 2. <author> E. Balkovich, S. R. Lerman, and R. P. Parmelee, </author> <title> ``Computing in Higher Education: </title> <journal> The Athena Experience,'' Communications of the ACM 28(11), </journal> <pages> pp. 1214-1224, </pages> <publisher> ACM (November, </publisher> <year> 1985). </year>
+Reference: 3. <author> R. M. Needham and M. D. Schroeder, </author> <title> ``Using Encryption for Authentication in Large Networks of Computers,'' </title> <journal> Communications of the ACM 21(12), </journal> <pages> pp. </pages> <month> 993-999 (December, </month> <year> 1978). </year>
+Reference: 4. <author> V. L. Voydock and S. T. Kent, </author> <title> ``Security Mechanisms in High-Level Network Protocols,'' </title> <journal> Computing Surveys 15(2), </journal> <note> ACM (June 1983). </note>
+Reference: 5. <author> National Bureau of Standards, </author> <title> ``Data March 30, 1988 - -- Encryption Standard,'' Federal Information Processing Standards Publication 46, Government Printing Office, </title> <address> Washington, D.C. </address> <year> (1977). </year>
+Reference: 6. <author> S. P. Dyer, ``Hesiod,'' </author> <booktitle> in Usenix Conference Proceedings (Winter, </booktitle> <year> 1988). </year>
+Reference: 7. <author> W. J. Bryant, </author> <title> Kerberos Programmer's Tutorial, M.I.T. Project Athena (In prepara-tion). </title>
+Reference: 8. <author> W. J. Bryant, </author> <title> Kerberos Administrator's Manual, M.I.T. Project Athena (In prepara-tion). </title>
+Reference: 9. <author> G. W. Treese, </author> <title> ``Berkeley Unix on 1000 Workstations: Athena Changes to 4.3BSD,'' </title> <booktitle> in Usenix Conference Proceedings (Winter, </booktitle> <year> 1988). </year>
+Reference: 10. <author> C. A. DellaFera, M. W. Eichin, R. S. French, D. C. Jedlinsky, J. T. Kohl, and W. E. Sommerfeld, </author> <title> ``The Zephyr Notification System,'' </title> <booktitle> in Usenix Conference Proceedings (Winter, </booktitle> <year> 1988). </year>
+Reference: 11. <author> M. A. Rosenstein, D. E. Geer, and P. J. Levine, </author> <booktitle> in Usenix Conference Proceedings (Winter, </booktitle> <year> 1988). </year>
+Reference: 12. <author> R. Sandberg, D. Goldberg, S. Kleiman, D. Walsh, and B. Lyon, </author> <title> ``Design and Implementation of the Sun Network Filesystem,'' </title> <booktitle> in Usenix Conference Proceedings (Summer, </booktitle> <year> 1985). </year> <month> March 30, </month> <year> 1988 </year> - --
+References-found: 12
+

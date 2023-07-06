@@ -1,0 +1,19 @@
+URL: file://ftp.cs.utexas.edu/pub/qsim/papers/Kuipers+Shults-KR94.ps.Z
+Refering-URL: http://www.cs.utexas.edu/users/qr/abstracts-tl.html
+Root-URL: 
+Email: kuipers@cs.utexas.edu  bshults@math.utexas.edu  
+Phone: 1994.  
+Title: In  Reasoning in Logic about Continuous Systems  
+Author: J. Doyle, E. Sandewall, and P. Torasso, editors, Benjamin J. Kuipers Benjamin Shults 
+Affiliation: Computer Science Department University of Texas at Austin  Department of Mathematics University of Texas at Austin  
+Address: San Mateo, CA,  Austin, TX 78712  Austin, TX 78712  
+Note: Principles of Knowledge Representation and Reasoning: Proceedings of the Fourth International Conference (KR-94) Morgan Kaufmann,  
+Abstract: An intelligent agent, reasoning symbolically in a continuous world, needs to infer properties of the behaviors of continuous systems. A qualitative simulator, such as QSIM, constructs a set of possible behaviors consistent with a qualitative differential equation (QDE) and initial state. This set of behaviors is expressed as a finite tree of qualitative state descriptions. In the case of QSIM, this set is guaranteed to contain the "actual" behavior under certain circumstances. We call this property the "soundness" of QSIM. The behavior tree can then be interpreted as a model for statements in a branching-time temporal logic such as Expressive Behavior Tree Logic (EBTL), which we introduce. Because QSIM is sound, validity of an EBTL proposition (necessarily p) implies the corresponding theorem about the dynamical system described by the QDE. Therefore, at least for universals, statements in temporal logic about continuous systems can be proved by qualitative simulation. This allows a hybrid reasoning system to prove such common-sense statements as "what goes up (in a constant gravitational field) must come down", or to do such expert reasoning about dynamical systems as proving the stability of a nonlinear, heterogeneous controller.
+Abstract-found: 1
+Intro-found: 1
+Reference: * <author> Tim Collins. </author> <title> A Temporal Logic for QSIM. </title> <note> un published term paper. 1989. </note> * <author> E. Allen Emerson. </author> <year> 1990. </year> <title> Temporal and modal logic. </title> <booktitle> In Handbook of Theoretical Computer Science, </booktitle> <editor> (J. van Leeuwen, ed.), </editor> <publisher> Elsevier Science Pub. </publisher>
+
+Reference: <author> Clarke. </author> <year> 1992. </year> <title> Automatic verification of sequential control systems using temporal logic. </title> <note> AIChE Journal 38(1): 67-75. </note> * <author> Bradley L. Richards, Ina Kraan and Benjamin J. Kuipers. </author> <year> 1992. </year> <title> Automatic abduction of qualitative models. </title> <booktitle> Proceedings of the National Conference on Artificial Intelligence (AAAI-92), </booktitle> <publisher> AAAI/MIT Press, </publisher> <year> 1992. </year> * <editor> Hao Wang. </editor> <year> 1960. </year> <title> Toward Mechanical Mathemat ics. reprinted in Automation of Reasoning I. </title> <publisher> ed. </publisher>
+Reference: <author> Jorg Siekmann and Graham Wrightson. </author> <note> Springer-Verlag 1983 pp. 244-264. </note>
+References-found: 3
+

@@ -1,0 +1,14 @@
+URL: http://www.crl.research.digital.com/projects/vision/papers/results.ps.Z
+Refering-URL: http://www.crl.research.digital.com/projects/vision/digiteyes.html
+Root-URL: http://www.research.digital.com
+Author: James M. Rehg Takeo Kanade 
+Address: Pittsburgh, PA 15213  
+Affiliation: School of Computer Science Carnegie Mellon University  
+Date: April 2, 1995  
+Abstract: Experimental Hand Tracking Results Abstract This document presents graphical output from three hand tracking experiments using the DigitEyes system, excerpted from [1, 2]. In the first of two real-time tracking experiments, a reduced hand model is used to drive a 3D mouse user-interface. In the second, the full hand model is tracked using two cameras. The last experiment demonstrates off-line tracking in the presence of self-occluding motion. from the DigitEyes System
+Abstract-found: 1
+Intro-found: 0
+Reference: [1] <author> J. Rehg and T. Kanade. Digiteyes: </author> <title> Vision-based human hand tracking. </title> <type> Technical Report CMU-CS-TR-93-220, </type> <institution> Carnegie Mellon Univ. School of Comp. Sci., </institution> <year> 1993. </year>
+Reference: [2] <author> J. Rehg and T. Kanade. </author> <title> Visual tracking of self-occluding articulated objects. </title> <type> Technical Report CMU-CS-TR-94, </type> <institution> Carnegie Mellon Univ. School of Comp. Sci., </institution> <year> 1994. </year>
+References-found: 2
+

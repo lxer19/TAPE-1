@@ -1,0 +1,16 @@
+URL: ftp://ftp.cs.rochester.edu/pub/papers/ai/95.tn1.TRAINS_95_parsing_system_users_manual.ps.gz
+Refering-URL: http://www.cs.rochester.edu/trs/ai-trs.html
+Root-URL: 
+Email: james@cs.rochester.edu  
+Title: The TRAINS-95 Parsing System: A Users Manual 1 for parsing word lattices best-first parsing using
+Author: James F. Allen 
+Note: support  
+Address: Rochester, NY 14627  
+Affiliation: Dept. of Computer Science University of Rochester  
+Abstract: This report is a user's manual for the TRAINS-95 parsing system. An accompanying report describes the grammar used in TRAINS-95, and the robust speech act interpretation system, which takes the chart and produces a series of speech acts that best characterize it. The parser is based on the bottom-up parser described in Natural Language Understanding, Second Ed. (Allen, 1994, Chapters 3, 4, and 5). It uses the same formats for the grammar and the lexical entries, and the same basic bottom-up algorithm. There are a number of extensions beyond the basic system described in the book, each of which will be discussed in this report, including 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Allen, J.F. </author> <title> Natural Language Understanding, Second Edition, </title> <publisher> Benjamin-Cummings Pub Co., </publisher> <year> 1994. </year>
+Reference-contexts: The only operation used by the parser on values, however, is EQ. Thus everything looks like an atom to the parser. 2 context-free probabilistic grammars as described in Natural Language Understanding <ref> (Allen, 1994) </ref>. Weights do not have to follow the laws of probability, however. The user may specify any weights they wish on rules in order to affect the search. The weight for a rule is indicated immediately following the rule ID. <p> (n (agr ?a))) ((vp (agr ?a) (vform ?v)) -3-&gt; (v (agr ?a) (vform ?v) (subcat _none))) ((vp (agr ?a) (vform ?v)) -4-&gt; (v (agr ?a) (vform ?v) (subcat _np)) (np)))) Using Head Features A head feature captures a constraint between the values of the mother constituent to its head subconstituents <ref> (see Allen, 1994) </ref>. Head features can be defined for a set of rules, and are very useful for abbreviating rules with large numbers of systematically defined features. If head feature format is used in a grammar, every rule should have at least one head subconstituent on the left hand side. <p> Foot Features A foot feature moves feature values from any subconstituent to the mother <ref> (see Allen, 1994) </ref>. Foot features can only be defined globally at the present time, so using them adds significant overhead to a large grammar. Unlike head features, which are a notational convenience, the behavior of foot features cannot easily be captured in the standard grammar format.
+References-found: 1
+

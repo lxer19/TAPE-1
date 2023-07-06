@@ -1,0 +1,29 @@
+URL: ftp://ftp.csd.uu.se/pub/papers/reports/0038.ps.gz
+Refering-URL: http://www.csd.uu.se/papers/reports.html
+Root-URL: 
+Email: JONAS@AIDA.UU.SE, HAKANM@AIDA.UU.SE  
+Phone: +46-18-18 25 00  
+Author: P. O. 
+Keyword: Garbage Cut Jonas Barklund H-akan Millroth  
+Address: Box 520, S-751 20 Uppsala, Sweden  
+Affiliation: Artificial Intelligence Laboratory Computing Science Dept., Uppsala University  
+Note: Uppsala Programming Methodology and  Electronic mail:  The research reported herein was supported by the National Swedish Board for Technical Development (STU).  
+Abstract: UPMAIL Technical Report No. 38 Abstract. The paper presents a new strategy for garbage collection in Prolog machines. Its application to iterative programs and implications on programming style is described. An implementation of garbage cut together with an implementation of cut in an abstract machine for Prolog is suggested. Some benchmark figures are presented, indicating reductions in time and page faults when garbage cut is used. An earlier version of this paper appeared as [Barklund & Millroth 86]. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Barklund & Millroth 86 J. Barklund, H. Millroth, </author> <title> Garbage Cut for Garbage Collection of Iterative Prolog Programs, </title> <booktitle> in 1986 Symposium on Logic Programming, </booktitle> <address> Salt Lake City, </address> <month> September </month> <year> 1986. </year>
+Reference: <author> Barklund & Millroth A J. Barklund, H. Millroth, </author> <title> Code Generation and Runtime System for Tricia, </title> <type> UPMAIL Technical Report 36, </type> <institution> Uppsala, </institution> <note> in preparation. </note>
+Reference: <author> Barklund & Millroth 87 J. Barklund, H. Millroth, </author> <title> A Garbage Collection Algorithm for Tricia, </title> <type> UPMAIL Technical Report 37, </type> <institution> Uppsala, </institution> <month> December </month> <year> 1987. </year> <note> 7 Bowen 81 D. </note> <editor> L. Bowen, </editor> <title> DECsystem-10 Prolog User's Manual, </title> <institution> University of Edinburgh, Dept. of Ar tificial Intelligence, Edinburgh 1981. </institution>
+Reference: <author> Carlsson 85 M. Carlsson, </author> <type> personal communication, </type> <institution> Uppsala 1985. </institution>
+Reference: <author> Carlsson 86 M. Carlsson, </author> <title> Compilation for Tricia and its Abstract Machine, </title> <type> UPMAIL Technical Report 35, </type> <institution> Uppsala, </institution> <month> September </month> <year> 1986. </year>
+Reference: <author> Clocksin 85 W. F. Clocksin, </author> <title> Design and Simulation of a Sequential Prolog Machine, </title> <journal> New Generation Computing, </journal> <volume> no. 3, </volume> <pages> pp. 101-120, </pages> <year> 1985. </year>
+Reference: <author> Dijkstra et al. 78 E. W. Dijkstra, L. Lamport, A. J. Martin, C. S. Scholten, E. F. M. Steffens, </author> <title> On-the-Fly Garbage Collection: An Exercise in Cooperation, </title> <journal> in Communications of the ACM, </journal> <volume> vol. 21, </volume> <pages> pp. 966-975, </pages> <month> November </month> <year> 1978. </year>
+Reference: <author> Lieberman & Hewitt 83 H. Lieberman, C. Hewitt, </author> <title> A Real Time Garbage Collector Based on the Life Time of Objects, </title> <journal> in Communications of the ACM, </journal> <volume> vol. 23, </volume> <pages> pp. 419-429, </pages> <month> June </month> <year> 1983. </year>
+Reference: <author> Lloyd 84 J. W. Lloyd, </author> <title> Foundations of Logic Programming, </title> <publisher> Springer-Verlag, </publisher> <year> 1984. </year>
+Reference: <author> Moon 84 D. A. Moon, </author> <title> Garbage Collection in a Large Lisp System, </title> <booktitle> 1984 ACM Symposium on Lisp and Functional Programming, </booktitle> <year> 1984. </year>
+Reference: <author> Pittomvils et al. 85 E. Pittomvils, M. Bruynooghe, Y. D. Willems, </author> <title> Towards a Real Time Garbage Collector for Prolog, </title> <booktitle> in 1985 Symposium on Logic Programming, </booktitle> <address> Boston July 1985. </address>
+Reference: <author> Steele 75 G. L. Steele Jr., </author> <title> Multiprocessing Compactifying Garbage Collection, </title> <journal> in Communications of the ACM, </journal> <volume> vol. 18, </volume> <pages> pp. 495-508, </pages> <month> September </month> <year> 1975. </year>
+Reference: <author> Wadler 76 P. L. Wadler, </author> <title> Analysis of an Algorithm for Real Time Garbage Collection, </title> <booktitle> in Communica tions of the ACM, </booktitle> <volume> vol. 19, </volume> <pages> pp. 491-500, </pages> <month> September </month> <year> 1976. </year>
+
+References-found: 13
+

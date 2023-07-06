@@ -1,0 +1,22 @@
+URL: http://www.cs.technion.ac.il/~david/Papers/Tech_Reports/AAAIpaper.ps.gz
+Refering-URL: http://www.cs.technion.ac.il/~david/publications.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: Information filtering: Selection mechanisms in learning systems. Machine Learning, 10:113-151, 1993. Generalization as search. Artificial
+Author: P. Langley, J. H. Gennari, and W. S. Markovitch and P. D. Scott. [] T. M. Mitchell. [] J. R. Quinlan. In R. S. Michalski, J. G. Carbonell, and T. M. [] A. L. Samuel. [] A. L. Samuel. [] J. Schaeffer, J. Culberson, N. Treloar, B. Knight, P. Lu, and D. Szafron. Reviving D. Levy and D. Beal, Ellis Hor wood, London, . [] V. L. Shalin, E. J. Wisniewski, K. R. Levi, and P. D. Scott. [] P. E. Utgoff and J. A. Clouse. P. E. Utgoff and S. Saxena. D. Whitley, K. Mathias, and P. Fitzhorn. 
+Date: 20(2):326-338, Mar 1990.  229, July 1959.  
+Address: 18:203 226, 1982.  3(3):211  San Diego, CA, 1991.  
+Affiliation: Intelligence,  
+Note: [9] J. R. Koza. Genetic Programming on the pro-gramming of computers by means of natural selec tion. The MIT Press, 1992. [10]  Iba. Hill-climbing theories of learning. In Proceedings of the 4 th International Workshop on Machine Learning, number 4, pages 312-323, 1987. [11]  Mitchell, editors, Machine Learning: An Artificial Intelligence Approach, chapter 15, pages 463-482. Tioga, 1983. [14] L. Rendell. Induction as optimization. IEEE Transactions on Systems, Man, and Cybernetics,  IBM Journal,  editors, Heuristic Programing in Artifical Intelligence; The Second Computer Olimpiad, pages 119-136.  Proc. of AAAI-91, pages 596-600, 1991. [20]  In Proceedings of the 4 th International Workshop on Machine Learning, pages 115-121. Morgan Kaufman, 1987. [21]  algorithms. In Proc. of the Fourth International Conference on Genetic Algorithms, pages 77-85,  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> P. J. Angeline and J. B. Pollack. </author> <title> Coevolving hight-level representations. </title> <institution> LAIR 92-pa-coevolve, The Ohio State University, Columbus, Ohio 43210, </institution> <year> 1992. </year> <booktitle> Submitted to the Proceedings of Artificial Life III. </booktitle>
+Reference: [2] <author> P. J. Angeline and J. B. Pollack. </author> <title> Learning with a competitive population. </title> <institution> LAIR 92-pa-compete, The Ohio State University, Columbus, Ohio 43210, </institution> <year> 1993. </year> <note> Submitted to IJCAI '93. </note>
+Reference: [3] <author> R. Axelrod. </author> <title> The evolution of strategies in the iterated prisoner's dilemma. </title> <editor> In D. Lawrence, editor, </editor> <title> Genetic Algorithms and Simulated Annealing, </title> <booktitle> chapter 3, </booktitle> <pages> pages 30-41. </pages> <publisher> Pittman, </publisher> <year> 1987. </year>
+Reference: [4] <author> J. D. Bagley. </author> <title> The behavior of adaptive systems which employ genetic and correlation algorithms. </title> <type> PhD thesis, </type> <institution> University of Michigan, </institution> <year> 1967. </year>
+Reference: [5] <author> N. Carriero and D. Gelernter. </author> <title> Linda in context. </title> <journal> Communications of the ACM, </journal> <volume> 32(4) </volume> <pages> 444-458, </pages> <month> Apr </month> <year> 1989. </year>
+Reference: [6] <author> B. R. Fox and M. B. McMahon. </author> <title> Genetic operators for sequencing problems. </title> <editor> In G. J. Rawlins, editor, </editor> <booktitle> Foundations of Genetic Algorithms, </booktitle> <pages> pages 284-300. </pages> <publisher> Morgan Kaufmann, </publisher> <year> 1991. </year>
+Reference: [7] <author> D. E. Goldberg. </author> <title> Genetic Algorithms in Search Optimization & Machine Learning. </title> <address> Addison:Wesley, </address> <year> 1989. </year>
+
+
+References-found: 7
+

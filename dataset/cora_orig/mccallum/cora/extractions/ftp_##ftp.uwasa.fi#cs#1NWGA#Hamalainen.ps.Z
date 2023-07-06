@@ -1,0 +1,15 @@
+URL: ftp://ftp.uwasa.fi/cs/1NWGA/Hamalainen.ps.Z
+Refering-URL: http://www.cs.wustl.edu/~sds/research/cgi-bin/server.cgi/research/html/hga_tr/node40.html
+Root-URL: 
+Email: E-mail: timoh@ee.tut.fi, jukkas@ee.tut.fi, ojala@ee.tut.fi, kaski@ee.tut.fi  
+Title: Chapter 19 A Parallel Hardware Implementation  Implementing genetic algorithms in a tree shape computer architecture.  
+Author: Timo Hamalainen, Jukka Saarinen, Pekka Ojala and Kimmo Kaski P. O. 
+Keyword: parallel GA, parallel implementation, parallel computer, tree shape architecture.  
+Note: 19.1 Introduction The complete title of this article:  
+Address: Box 692, FIN-33101 Tampere, Finland  
+Affiliation: Tampere University of Technology Electronics Laboratory  
+Abstract: This paper presents implementations of genetic algorithms in a tree shape parallel computer architecture. Different levels of parallelism involved in GAs are studied. In addition, basic models for parallel GAs are considered. The tree shape parallel computer system, GAPA (Genetic Algorithm Parallel Accelerator), is described in detail, including architecture and special hardware for GA computations. Mapping studies are given for centralized and distributed GA models. Genetic algorithms are one of the most interesting novel methods for reducing the search effort and time in optimization tasks. The basically simple concept of artificial evolution is very flexible and can be applied to a variety of problems, also for those which are hard to model mathematically. However, applications may represent very different problem domains and therefore the style of the GA may differ significantly from one application to another. In general, GAs are 
+Abstract-found: 1
+Intro-found: 0
+References-found: 0
+

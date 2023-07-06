@@ -1,0 +1,16 @@
+URL: ftp://ftp.lcs.mit.edu/student-workshop/1995/abstracts/Engler-Gupta.ps
+Refering-URL: http://www.cag.lcs.mit.edu/student95/proceedings.html
+Root-URL: 
+Email: fengler,skguptag@lcs.mit.edu  
+Title: AVM: Application-Level Virtual Memory  
+Author: Dawson R. Engler Sandeep K. Gupta 
+Affiliation: MIT Laboratory for Computer Science  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> D. R. Engler. </author> <title> The design and implementation of a prototype exokernel operating system. </title> <type> Master's thesis, </type> <institution> MIT, 545 Technology Square, </institution> <address> Boston MA 02139, </address> <month> February </month> <year> 1995. </year>
+Reference-contexts: These issues are discussed in [3]. Experiments Our AVM system is approximately 1000 lines of heavily commented code and runs on Aegis <ref> [1] </ref>, an experimental Exokernel. Its two main limitations are that it does not handle swapping and that page-tables are implemented as a linear vector (address tranlations are looked up in this structure using binary search). <p> We compare our AVM system to Ultrix across seven virtual memory experiments. A complete discussion of the methodology and experiments can be found in <ref> [1] </ref>. In general, the low-level nature of Aegis allows extremely efficient tuning of system primitives: for example, it performs IPC and exception forwarding 10-100 times faster than Ultrix. We perform seven experiments. dirty measures the time to query whether a page is "dirty" or not.
+Reference: [2] <author> D. R. Engler, M. F. Kaashoek, and J. O'Toole. </author> <title> The exokernel approach to extensibility (abstract). </title> <booktitle> In Proceedings of the First Symposium on OSDI, </booktitle> <month> November </month> <year> 1994. </year>
+Reference: [3] <author> D.R. Engler, S.K. Gupta, and M. Frans Kaashoek. AVM: </author> <title> Application-level virtual memory. </title> <booktitle> Proceedings of HOTOS-V, </booktitle> <pages> pages 72-77, </pages> <month> May </month> <year> 1995. </year>
+Reference-contexts: For example, support for copy-on-write complicates and slows down the entire memory system; applications are penalized by decreased reliability and performance whether they use this functionality or not. AVM allows multiple specialized implementations to co-exist. Many motivating examples and abstractions for AVM are discussed in <ref> [3] </ref>. A few of them follow: Fine-grain monitoring. AVM (by necessity) gives very precise information about and control over the TLB. This information can be used to derive working sets or to trace address streams. Accurate "in core" information. AVM systems have total control over virtual memory mappings. <p> These issues are discussed in <ref> [3] </ref>. Experiments Our AVM system is approximately 1000 lines of heavily commented code and runs on Aegis [1], an experimental Exokernel.
+References-found: 3
+

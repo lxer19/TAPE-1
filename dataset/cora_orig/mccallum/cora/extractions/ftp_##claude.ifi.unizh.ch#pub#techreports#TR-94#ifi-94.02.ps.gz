@@ -1,0 +1,19 @@
+URL: ftp://claude.ifi.unizh.ch/pub/techreports/TR-94/ifi-94.02.ps.gz
+Refering-URL: http://www.cs.gatech.edu/people/home/jmankoff/collab-immers-env.html
+Root-URL: 
+Email: maffeis@ifi.unizh.ch  
+Title: A Flexible System Design to Support Object-Groups and Object-Oriented Distributed Programming  
+Author: Silvano Maffeis 
+Address: Switzerland  
+Affiliation: Department of Computer Science University of Zurich,  
+Abstract: Under many circumstances, the development of distributed applications greatly benefits from mechanisms like process groups, reliable ordered multicast, and message passing. However, toolkits offering these capabilities are often low-level and therefore difficult to program. To ease the development of distributed applications, in this paper we propose to hide these low-level functions behind object-oriented abstractions such as object-groups, Remote Method Calling, and Smart Proxies. Furthermore, we describe how the Electra toolkit provides such object-oriented abstractions in a portable and highly machine-independent way.
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> Amir, Y., Dolev, D., Kramer, S., and Malki, D. Transis: </author> <title> A Communication Sub-System for High Availability. </title> <booktitle> In 22nd International Symposium on Fault-Tolerant Computing (July 1992), IEEE. </booktitle>
+Reference-contexts: Examples are Amoeba [23], Delta-4 [26], Horus [25], Isis [5], Psync [18], and Transis <ref> [1] </ref>. However, the methods and tools offered by such DCT are often difficult to use by people lacking many years of experience in building distributed systems, since the provided functions are mostly low-level and not expressive enough for modelling real world problems.
+Reference: 2. <institution> Architecture Projects Management Ltd. </institution> <note> ANSAware Version 4.1 Manual Set. </note> <institution> Castle Park, </institution> <address> Cambridge UK, </address> <month> Mar. </month> <year> 1993. </year>
+Reference-contexts: We exemplify how these abstractions are being realized in an object-oriented toolkit, called Elec-tra [16], which is currently being developed at the University of Zurich. This paper goes beyond previous work on object-oriented, distributed programming, for example <ref> [2, 17, 22, 9] </ref>, in that it proposes a system design to support object-groups in a highly portable fashion. We have been influenced by the work carried out in the Horus [25], Isis [5, 4], and in the Panda project [3], and by ideas described in [12].
+Reference: 3. <author> Bhoedjang, R., Ruhl, T., Hofman, R., Langendoen, K., Bal, H., and Kaashoek, F. </author> <title> Panda: </title>
+Reference-contexts: We have been influenced by the work carried out in the Horus [25], Isis [5, 4], and in the Panda project <ref> [3] </ref>, and by ideas described in [12]. The rest of the paper is structured as follows. In the next section we will give a short introduction to the Electra toolkit. Throughout the paper, the toolkit serves to exemplify abstractions and mechanisms we propose. Section 3 introduces Smart Proxies and object-groups.
+References-found: 3
+

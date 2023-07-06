@@ -1,0 +1,21 @@
+URL: ftp://ftp.stat.wisc.edu/pub/wahba/near-zero.ps.gz
+Refering-URL: http://www.pstat.ucsb.edu/~yuedong/
+Root-URL: 
+Title: Behavior Near Zero of the Distribution of GCV Smoothing Parameter Estimates 1  
+Author: by Grace Wahba and Yuedong Wang 
+Note: 1 Supported by the National Science Foundation under Grant DMS-9121003 and the National Eye Institute under Grant R01 EY09946.  
+Address: 1210 West Dayton St. Madison, WI 53706  
+Affiliation: DEPARTMENT OF STATISTICS University of Wisconsin  
+Pubnum: TECHNICAL REPORT NO. 910  
+Email: e-mail wahba@stat.wisc.edu, wang@stat.wisc.edu  
+Date: December 21, 1993  
+Abstract-found: 0
+Intro-found: 1
+Reference: <author> Cox, D. D. </author> <year> (1988). </year> <title> Approximation of method of regularization estimatior, </title> <journal> The Annals of Statistics pp. </journal> <pages> 694-712. </pages>
+Reference: <author> Gu, C. </author> <year> (1989). </year> <title> RKPACK and its applications: Fitting smoothing spline models, </title> <type> Technical Report 857, </type> <institution> University of Wisconsin-Madison, Dept. of Statistics. </institution>
+Reference: <author> Nychka, D. </author> <year> (1988). </year> <title> Bayesian confidence intervals for smoothing splines, </title> <journal> Journal of the American Statistical Association 83: </journal> <pages> 1134-1143. </pages>
+Reference: <author> Nychka, D. </author> <year> (1990). </year> <title> The average posterior variance of a smoothing spline and a consistent estimate of the average squared error, </title> <journal> The Annals of Statistics 18: </journal> <pages> 415-428. </pages>
+Reference: <author> Thompson, A. M., Kay, J. W. and Titterington, D. M. </author> <year> (1989). </year> <title> A cautionary note about crossval-idatory choice, </title> <journal> J. Statist. Comput. Simul. </journal> <volume> 33: </volume> <pages> 199-216. </pages>
+Reference: <author> Wahba, G. </author> <year> (1990). </year> <title> Spline Models for Observational Data, </title> <booktitle> SIAM, Philadelphia. CBMS-NSF Regional Conference Series in Applied Mathematics, Vol.59. </booktitle> <pages> 7 </pages>
+References-found: 6
+

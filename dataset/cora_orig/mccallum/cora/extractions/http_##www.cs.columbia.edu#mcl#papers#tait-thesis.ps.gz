@@ -1,0 +1,20 @@
+URL: http://www.cs.columbia.edu/mcl/papers/tait-thesis.ps.gz
+Refering-URL: http://www.cs.columbia.edu/mcl/publication.html
+Root-URL: http://www.cs.columbia.edu
+Title: A File System for Mobile Computing  
+Author: Carl Downing Tait 
+Degree: Submitted in partial fulfillment of the requirements for the degree of Doctor of Philosophy in the Graduate School of Arts and Sciences  
+Date: 1993  
+Affiliation: COLUMBIA UNIVERSITY  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> M. Accetta, R. Baron, W. Bolosky, D. Golub, R. Rashid, A. Tevanian, and M. Young. </author> <title> Mach: A New Kernel Foundation for UNIX Development. </title> <booktitle> In Proc. 1986 USENIX Summer Conf., </booktitle> <pages> pages 93-112, </pages> <month> June </month> <year> 1986. </year>
+Reference-contexts: 3 seconds or less. to caching can be well satisfied with a wide range of pickup intervals, starting at approximately 3 seconds. 3.5 Prototype Implementation We have implemented a prototype version of our file system, building it on top of the Network File System (NFS) [24, 48] under Mach 2.5b <ref> [1] </ref>, making use of the C Threads package [10]. This section describes the design of the prototype and the limitations of the current implementation, which implements most (but not all of) the full design. To simplify discussion, we will use the acronym "SBW" (Server-Based Writes) to refer to our system.
+Reference: [2] <author> R. Alonso, D. Barbara, and L. L. Cova. </author> <title> Augmenting Availability in Distributed File Systems. </title> <type> Technical Report CS-TR-234-89, </type> <institution> Princeton University, </institution> <month> October </month> <year> 1989. </year>
+Reference-contexts: Alonso's group has contemplated a number of stashing methods for inclusion in their FACE file system <ref> [2, 3] </ref>. In order of increasing sophistication, they are: 1. Make users responsible for which files are stashed. Various methods are proposed. One is enumerating the files that are to be stashed in a ".stashrc" file. Another is making an explicit "stash" command available to the user.
+Reference: [3] <author> R. Alonso, D. Barbara, and L. L. Cova. </author> <title> FACE: Enhancing Distributed File Systems for Autonomous Computing Environments. </title> <type> Technical Report CS-TR-214-89, </type> <institution> Princeton University, </institution> <month> March </month> <year> 1989. </year>
+Reference-contexts: Introduction Distributed file systems are a fundamental structure of distributed computing, and much attention has been focused on their design <ref> [3, 9, 13, 18, 29, 30, 31, 44, 51, 53] </ref>. But one important new design point has not yet been explored thoroughly: how to support mobile clients. Portable workstations are becoming increasingly common, and people who use these machines should not be forced to accept inferior performance or usability. <p> Alonso's group has contemplated a number of stashing methods for inclusion in their FACE file system <ref> [2, 3] </ref>. In order of increasing sophistication, they are: 1. Make users responsible for which files are stashed. Various methods are proposed. One is enumerating the files that are to be stashed in a ".stashrc" file. Another is making an explicit "stash" command available to the user.
+Reference: [4] <author> P. A. Alsberg and J. D. </author> <title> Day. </title>
+Reference-contexts: A distributed system relieves the user of a large part of this burden: file access is machine-transparent. One natural technique for increasing the availability of files and improving performance in a distributed system is replication <ref> [4] </ref>: maintaining copies of each file on a number of machines. If one particular machine is down, a copy of the file can usually be retrieved from some other machine.
+References-found: 4
+

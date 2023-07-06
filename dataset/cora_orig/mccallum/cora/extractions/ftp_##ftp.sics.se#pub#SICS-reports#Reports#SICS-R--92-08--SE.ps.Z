@@ -1,0 +1,15 @@
+URL: ftp://ftp.sics.se/pub/SICS-reports/Reports/SICS-R--92-08--SE.ps.Z
+Refering-URL: http://www.sics.se/libindex.html
+Root-URL: 
+Email: email: lhe@sics.se  
+Title: A Finitary Version of the Calculus of Partial Inductive Definitions  
+Author: Lars-Henrik Eriksson 
+Keyword: ACKNOWLEDGEMENTS  
+Address: Box 1263 S-164 28 KISTA, SWEDEN  
+Affiliation: Swedish Institute of Computer Science (SICS)  
+Pubnum: SICS Research Report R92:08  
+Abstract: The theory of partial inductive definitions is a mathematical formalism which has proved to be useful in a number of different applications. The fundamentals of the theory is shortly described. Partial inductive definitions and their associated calculi are essentially infinitary. To implement them on a computer, they must be given a formal finitary representation. We present such a finitary representation, and prove its soundness. The finitary representation is given in a form with and without variables. Without variables, derivations are unchanging entities. With variables, derivations can contain logical variables that can become bound by a binding environment that is extended as the derivation is constructed. The variant with variables is essentially a generalization of the pure GCLA programming language. The author wishes to thank his colleagues at the Swedish Institute of Computer Science for their suggestions and for providing a stimulating research environment. In particular, I want to thank the people of the GCLA project for provoking me to develop many of the results presented here, as well as Philipp Hanschke (of DFKI, Kaiserslautern) who read a draft version of the article and suggested several improvements. *) Also published in: Lars-Henrik Eriksson, Lars Hallns and Peter Schroeder-Heister (eds.), ELP '91, Proceedings of the Second Workshop on Extensions of Logic Programming held at SICS, Stockholm, Sweden, January 1991, Lecture Notes in Artificial Intelligence, Springer-Verlag, 1992. 
+Abstract-found: 1
+Intro-found: 0
+References-found: 0
+

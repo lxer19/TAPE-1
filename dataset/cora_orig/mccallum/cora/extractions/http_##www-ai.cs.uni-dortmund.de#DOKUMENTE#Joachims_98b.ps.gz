@@ -1,0 +1,28 @@
+URL: http://www-ai.cs.uni-dortmund.de/DOKUMENTE/Joachims_98b.ps.gz
+Refering-URL: http://www-ai.informatik.uni-dortmund.de/PERSONAL/joachims.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: Generic author design sample pages 1998/07/09 14:59 11 Making Large-Scale SVM Learning Practical 'Advances in
+Author: Thorsten Joachims Bernhard Scholkopf, Christopher J. C. Burges, and Alexander J. Smola (eds.), X ff i 
+Note: To be published in:  11.1 Introduction Chapter 1 and Vapnik (1995) show  j=1 subject to:  
+Address: AI-Unit  Press, Cambridge, USA, 1998.  i ff i 0 (11.2)  
+Affiliation: Universitat Dortmund, Informatik,  MIT  X  
+Pubnum: 2  
+Email: Thorsten Joachims@cs.uni-dortmund.de  
+Date: i=1  
+Web: http://www-ai.cs.uni-dortmund.de/PERSONAL/joachims.html  
+Abstract: Training a support vector machine (SVM) leads to a quadratic optimization problem with bound constraints and one linear equality constraint. Despite the fact that this type of problem is well understood, there are many issues to be considered in designing an SVM learner. In particular, for large learning tasks with many training examples, off-the-shelf optimization techniques for general quadratic programs quickly become intractable in their memory and time requirements. SV M light 1 is an implementation of an SVM learner which addresses the problem of large tasks. This chapter presents algorithmic and computational results developed for SV M light V2.0, which make large-scale SVM training more practical. The results give guidelines for the application of SVMs to large domains. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> B. E. Boser, I. M. Guyon, and V. N. Vapnik. </author> <title> A training algorithm for optimal margin classifiers. </title> <editor> In D. Haussler, editor, </editor> <booktitle> Proceedings of the 5th Annual ACM Workshop on Computational Learning Theory, </booktitle> <pages> pages 144-152, </pages> <address> Pittsburgh, PA, July 1992. </address> <publisher> ACM Press. </publisher>
+Reference: <author> P. E. Gill, W. Murray, and M. H. Wright. </author> <title> Practical Optimization. </title> <publisher> Academic Press, </publisher> <year> 1981. </year>
+Reference: <author> T. Joachims. </author> <title> Text categorization with support vector machines. </title> <booktitle> In European Conference on Machine Learning (ECML), </booktitle> <year> 1998. </year>
+Reference: <author> E. Osuna, R. Freund, and F. Girosi. </author> <title> Support vector machines: Training and applications. </title> <journal> A.I. </journal> <note> Memo (in press), </note> <author> MIT A. I. Lab., </author> <year> 1996. </year>
+Reference: <author> E. Osuna, R. Freund, and F. Girosi. </author> <title> An improved training algorithm for support vector machines. </title> <editor> In J. Principe, L. Gile, N. Morgan, and E. Wilson, editors, </editor> <booktitle> Neural Networks for Signal Processing VII | Proceedings of the 1997 IEEE Workshop, </booktitle> <pages> pages 276 - 285, </pages> <address> New York, 1997a. </address> <publisher> IEEE. </publisher>
+Reference: <author> E. Osuna, R. Freund, and F. Girosi. </author> <title> Training support vector machines: An application to face detection. </title> <editor> In , editor, </editor> <booktitle> Proceedings CVPR'97, </booktitle> , <year> 1997b. </year> . 
+Reference: <author> J. Platt. </author> <title> Sequential minimal optimization: A fast algorithm for training support vector machines. </title> <type> Technical Report MSR-TR-98-14, </type> <institution> Microsoft Research, </institution> <year> 1998. </year>
+Reference: <author> R. Vanderbei. </author> <title> Loqo: An interior point code for quadratic programming. </title> <type> Technical Report SOR 94-15, </type> <institution> Princeton University, </institution> <year> 1994. </year>
+Reference: <author> V. Vapnik. </author> <title> The Nature of Statistical Learning Theory. </title> <publisher> Springer Verlag, </publisher> <address> New York, </address> <year> 1995. </year>
+Reference: <author> J. Werner. </author> <title> Optimization Theory and Applications. </title> <publisher> Vieweg, </publisher> <year> 1984. </year>
+
+References-found: 10
+

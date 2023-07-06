@@ -1,0 +1,29 @@
+URL: ftp://ftp.cs.umd.edu/pub/papers/papers/3359/3359.ps.Z
+Refering-URL: http://www.cs.umd.edu/TRs/TR.html
+Root-URL: 
+Phone: (2)  (3)  (4)  (6)  
+Title: Localizing an object with finger probes  
+Author: Robert Freimer () Samir Khuller () Joseph S.B. Mitchell () Christine Piatko () Kathleen Romanik () Diane Souvaine () 
+Keyword: Model-based computer vision, automatic target recognition, probing, localizing, pinning  
+Note: (5) DIMACS Center for Discrete Mathematics and Theoretical  
+Address: Newton, MA  College Park, MD 20742  New York, Stony Brook, NY 11794-3600  Gaithersburg, Maryland 20899  Piscataway, NJ 08855-1179  New Brunswick, NJ 08903  
+Affiliation: (1) Caliper Corporation  Department of Computer Science University of Maryland,  Department of Applied Mathematics and Statistics State University of  National Institute of Standards and Technology  Computer Science Rutgers University,  Department of Computer Science Rutgers University,  
+Abstract: We consider the problem of identifying one of a set of polygonal models in the plane using point probes and finger probes. In particular, we give strategies for using a minimum number of finger probes to determine a finite number of possible locations of an unknown interior point p in one of the models. A finger probe takes as input an interior point p of a polygon P and a direction , and it outputs the first point of intersection of a ray emanating from p in direction with the boundary of P . We show that without a priori knowledge of what the models look like, no finite number of finger probes will suffice to localize the point p. When the models are given in advance, we give both batch and dynamic probing strategies for solving the problem. We consider both the case where the models are aligned rectilinear polygons and the case where the models are simple polygons. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> E. M. Arkin, H. Meijer, J. S. Mitchell, D. Rappaport, and S. S. Skiena, </author> <title> "Decision Trees for Geometric Models", </title> <booktitle> Proc. of the 9 th Annual Symp. on Computational Geometry, </booktitle> <address> San Diego, </address> <publisher> ACM Press, </publisher> <pages> pp. 369-378, </pages> <month> May, </month> <year> 1993. </year>
+Reference-contexts: We address this part of the problem in this paper. 3. Use point probes in a dynamic "decision tree" strategy to exactly identify the (model, location) pair present in the image. This part of the problem has been solved in <ref> [1] </ref>. To illustrate the above strategy, consider the following example.
+Reference: [2] <author> B. Chazelle, </author> <title> "Triangulating a Simple Polygon in Linear Time", </title> <booktitle> Proc. of the 31 st Annual Foundations of Computer Science, </booktitle> <publisher> IEEE Computer Society Press, </publisher> <pages> pp. 220-229, </pages> <year> 1990. </year>
+Reference-contexts: The trapezoidal diagrams are computed in O (n) time by extending rays from each vertex of a model M i in the positive and negative ff direction until they hit the boundary of M i <ref> [2] </ref>.
+Reference: [3] <author> L. P. Chew and K. Kedem, </author> <title> "Some Results on Probing in the Plane", </title> <booktitle> Working notes for the Workshop on Geometric Probing in Computer Vision, </booktitle> <month> December 5 </month> <year> 1991. </year>
+Reference-contexts: Use a sparse set of point probes to find one "hit" point. That is, find one point that is on the boundary or in the interior of the object present in the image. This part of the problem has been addressed in <ref> [3] </ref>. 2. Use finger probes from the hit point found in Step 1 to narrow down the number of possible (model, location) pairs to a finite number. We address this part of the problem in this paper. 3.
+Reference: [4] <author> J. Czyzowicz, I. Stojmenovic, and J. Urrutia, </author> <title> "Immobilizing a Shape in the Plane" in T. </title> <editor> Shermer, ed., </editor> <booktitle> Proc. of the 3 rd Canadian Conf. on Computational Geometry, Vancouver, </booktitle> <pages> pp. 41-45, </pages> <month> August, </month> <year> 1991. </year>
+Reference-contexts: Research with a similar flavor was done by Czyzowicz, Montejano, Stojmenovic and Urrutia <ref> [4, 7] </ref> on immobilizing a shape in the plane.
+Reference: [5] <author> J. Hershberger, </author> <title> "An Optimal Visibility Graph Algorithm of Triangulated Simple Polygons", </title> <journal> Algorith-mica, </journal> <volume> 4 </volume> <pages> 141-155, </pages> <year> 1989. </year>
+Reference-contexts: use for the orientation of the initial two probes. x e 2 u To map the cones onto a circle efficiently, we first compute for each model M i its visibility graph in time O (e i ), where e i is the number of edges in the visibility graph <ref> [5] </ref>.
+Reference: [6] <author> D. G. Kirkpatrick, </author> <title> "Optimal Search in Planar Subdivisions", </title> <journal> SIAM J. of Computing, </journal> <volume> 12 </volume> <pages> 28-35, </pages> <year> 1983. </year>
+Reference-contexts: By laying down all O (n) of these rectangles we get a planar subdivision with no more than O (n 2 ) regions. Given the a; c values of a particular cross, we can do a planar point location on this subdivision in O (log n) time <ref> [6] </ref> to discover the feasible set of cells in which the cross could lie.
+Reference: [7] <author> L. Montejano and J. Urrutia, </author> <title> "Immobilizing Figures on the Plane" in T. </title> <editor> Shermer, ed., </editor> <booktitle> Proc. of the 3 rd Canadian Conf. on Computational Geometry, Vancouver, </booktitle> <pages> pp. 46-49, </pages> <month> August, </month> <year> 1991. </year>
+Reference-contexts: Research with a similar flavor was done by Czyzowicz, Montejano, Stojmenovic and Urrutia <ref> [4, 7] </ref> on immobilizing a shape in the plane.
+References-found: 7
+

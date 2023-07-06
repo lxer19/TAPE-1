@@ -1,0 +1,20 @@
+URL: http://www.icsi.berkeley.edu/~bilmes/papers/mood_icmc92.ps.gz
+Refering-URL: http://www.icsi.berkeley.edu/~bilmes/papers/
+Root-URL: http://www.icsi.berkeley.edu
+Email: &lt;anderson@icsi.berkeley.edu&gt; &lt;bilmes@amt.mit.edu&gt;  
+Title: MOOD: A Concurrent C++-Based Music Language  
+Author: David Anderson Jeff Bilmes E. Franciso 
+Address: San Rafael, CA 94901 Cambridge, MA 02139  
+Affiliation: Sonic Solutions MIT Media Lab  Blvd. Massachusetts Institute of Technology  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> D. P. Anderson and J. Bilmes, </author> <title> ``Concurrent Real-Time Music in C++'', </title> <booktitle> USENIX C++ Workshop, </booktitle> <month> June </month> <year> 1991. </year>
+Reference-contexts: Introduction MOOD (Musical Object-Oriented Dialect) is a C++ class library for computer music <ref> [1] </ref>. It runs on SPARC, MIPS, and MC680x0-based UNIX machines and on the Apple Macintosh, and uses MIDI I/O. It is designed for algorithmic composition, interactive systems, and cognition research, and is well-suited to any application that needs concurrency and precise timing control. MOOD borrows many ideas from FORMULA [2].
+Reference: [2] <author> D. P. Anderson and R. J. Kuivila, </author> <title> ``FORMULA: a Programming Language for Expressive Computer Music'', </title> <booktitle> IEEE Computer, </booktitle> <month> June </month> <year> 1991. </year>
+Reference-contexts: It runs on SPARC, MIPS, and MC680x0-based UNIX machines and on the Apple Macintosh, and uses MIDI I/O. It is designed for algorithmic composition, interactive systems, and cognition research, and is well-suited to any application that needs concurrency and precise timing control. MOOD borrows many ideas from FORMULA <ref> [2] </ref>. We have interfaced MOOD to Tcl (Tool Command Language), an embedded interpreted command language [3], producing a shell that allows you to interactively start and stop MOOD processes by typing Tcl commands. You can also define ``scripts'' that perform sequences of musical actions.
+Reference: [3] <author> J. Ousterhout, </author> <title> ``Tcl: An Embeddable Command Language'', </title> <booktitle> Proceedings of the 1990 Winter USENIX Conference, </booktitle> <address> Washington, DC, </address> , <pages> 133-146. </pages>
+Reference-contexts: It is designed for algorithmic composition, interactive systems, and cognition research, and is well-suited to any application that needs concurrency and precise timing control. MOOD borrows many ideas from FORMULA [2]. We have interfaced MOOD to Tcl (Tool Command Language), an embedded interpreted command language <ref> [3] </ref>, producing a shell that allows you to interactively start and stop MOOD processes by typing Tcl commands. You can also define ``scripts'' that perform sequences of musical actions. Process Scheduling MOOD provides lightweight processes sharing a single address space.
+Reference: [4] <author> B. Stroustrup, </author> <title> The C++ Programming Language, </title> <publisher> Addison-Wesley, </publisher> <year> 1986. </year>
+Reference-contexts: It is often handy to combine several note modifiers. The class MULTI_MOD (derived from MODIFIER) represents a set of MODIFIERs that are applied in sequence. Playing Music Note-playing processes play notes using a notation similar to C++ stream I/O <ref> [4] </ref>. NP is a predefined object with overloaded &lt; and &lt;= operators. &lt; plays a note and advances (in time) by its duration; &lt;= plays a note and remains at the same time.
+References-found: 4
+

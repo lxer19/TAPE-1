@@ -1,0 +1,16 @@
+URL: http://www.cs.columbia.edu/~library/theses/elhadad.ps.gz
+Refering-URL: http://www.cs.columbia.edu/home/phd_prog/alumni.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: Using Argumentation to Control Lexical Choice: A Functional Unification Implementation  
+Author: Michael Elhadad 
+Degree: Submitted in partial fulfillment of the requirements of the degree of Doctor of Philosophy in the Graduate School of Arts and Sciences  
+Date: 1993  
+Affiliation: Columbia University  
+Abstract-found: 0
+Intro-found: 1
+Reference: [Abraham 79] <author> Abraham, Werner. </author> <title> BUT. </title> <journal> Studia Linguistica XXXIII(II):89-119, </journal> <year> 1979. </year>
+Reference-contexts: Such a distinction between a semantic and a pragmatic analysis of connectors is criticized in <ref> [Abraham 79, p.104] </ref> [Lang 84, pp172ff] and [Ducrot et al 80]. Lang (1984) presents a general semantics for conjunction that does not distinguish between pragmatic (or contextual) and semantic levels.
+Reference: [Ait-Kaci 84] <editor> Ait-Kaci, </editor> <publisher> H. </publisher>
+Reference-contexts: Optimization of this function has not been performed but I have good hope that it can be, using a unification algorithm based on the union-find algorithm, as described in <ref> [Ait-Kaci 84] </ref>. Before this bottleneck is optimized, an easier potential optimization is to extract sub-fds from the total-fd when 295 60 moving from lexical choice to syntactic realization. 7.2. System Architecture This section presents the overall architecture of the ADVISOR II system. <p> Experience with the current implementation has also identified an efficiency bottleneck related to the data-structures used for representing feature structures and paths. A different algorithm for unification and different data-structures for feature structures need to be developed to overcome this limitation. <ref> [Ait-Kaci 84] </ref> has proposed an algorithm for unification on Y-terms (a data-structure very close to functional descriptions) based on the union-find algorithm which behaves more efficiently. Similar ideas have been presented in [Huet 76] and [Escalada-Imaz & Ghallab 88].
+References-found: 2
+

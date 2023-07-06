@@ -1,0 +1,10 @@
+URL: ftp://ftp.cs.washington.edu/tr/1993/05/UW-CSE-93-05-06.PS.Z
+Refering-URL: http://www.cs.washington.edu/homes/pardo/papers.d/thread.html
+Root-URL: 
+Title: Tools and Techniques for Building Fast Portable Threads Packages  
+Author: David Keppel 
+Abstract: University of Washington Technical Report UWCSE 93-05-06 ABSTRACT Threads are units of concurrent execution that can be viewed as abstract data types (ADTs) with operations to initialize and run them. It is common to improve performance by hard-coding allocation and scheduling policies, but that has led to the development of many threads packages, each with policies tuned for a particular set of applications. Further, the machine-dependence of threads packages restricts the availability of applications built on top of them. This paper examines techniques for building threads packages and discusses tradeoffs between performance, flexibility, and portability. It then introduces QuickThreads, a simple threads toolkit with a portable interface. This paper shows how QuickThreads can be used to implement a basic uniprocessor threads package and discusses the implementation of portable threads packages tuned to the needs of particular applications. For example, QuickThreads can be used to build barrier synchronization that runs in O(lg 2 processors) time units instead of the traditional O(lg 2 threads). This paper also reports on the performance and implementation of QuickThreads and describes some experiences using it to reimplement and port existing mul tiprocessor threads packages.
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

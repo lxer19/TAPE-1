@@ -1,0 +1,11 @@
+URL: http://www.ai.univie.ac.at/~juffi/Ilp-Vu/ilp-vu-ue3.ps.gz
+Refering-URL: http://www.ai.univie.ac.at/~juffi/Ilp-Vu/ilp-vu-ss96.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: 3. Ubung VU 509.140: Inductive Logic Programming bis 15.5.1996 1. L osen Sie mit Hilfe
+Author: gleicher Gr oe (.B. ), entsprechen-der Gr oe, .B. steigender Gr oe (.B. , entsprechender Gr oe, .B. 
+Note: aber steigendem Noise Level (.B. 0, 5, 10, 20, 50)  5000) und deren Komplexit at. Was f allt auf? Was w are  500, 1000), aber gleichbleibendem Noise Level &gt; 0 (.B. 10)  5000) und deren Komplexit at. Was f allt auf? Was  Verwendung dieses Pr adikats gelernten Theorien.  
+Abstract: d) F ugen Sie dem Hintergrundwissen eines noise-freien Training Sets (ca. 2=3 so gro wie das in (a) gefundene Set) zwei zus atzliche Pr adikate between_r(X,Y,Z) und between_c(X,Y,Z) hinzu, die wahr sind, wenn gilt X &lt; Y &lt; Z oder Z &lt; Y &lt; X. Das Pr adikat mu nat urlich (wie alle anderen Pr adikate) extensional definiert werden. Vergleichen Sie die Genauigkeiten der mit und ohne 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

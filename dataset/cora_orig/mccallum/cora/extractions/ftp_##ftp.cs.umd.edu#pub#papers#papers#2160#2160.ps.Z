@@ -1,0 +1,17 @@
+URL: ftp://ftp.cs.umd.edu/pub/papers/papers/2160/2160.ps.Z
+Refering-URL: http://www.cs.umd.edu/TRs/TR.html
+Root-URL: 
+Title: Reflections on Authoring, Editing, and Managing Hypertext  
+Author: Ben Shneiderman 
+Date: (1989).  
+Note: This report appeared in Barrett, Ed (Editor), The Society of Text, MIT Press,  
+Address: College Park, MD 20742  Cambridge, MA,  
+Affiliation: Department of Computer Science University of Maryland  
+Abstract: This chapter offers recommendations for potential authors of hypertext documents based on the experience of designing a hypertext system and of creating a series of substantial hypertext databases on personal computers and larger workstations. Advice on choosing projects, identifying useful author tool features, and structuring knowledge is presented. Additional issues such as the design of the root document, article size, and conversion from existing databases are covered. While hypertext has exciting potentials, the dangers of poor design must be overcome to create attractive and effective products. Ben Shneiderman is a Professor of Computer Science, Head of the Human-Computer Interaction Laboratory, and a Member of the University of Maryland Institute for Advanced Computer Studies, all at the University of Maryland, College Park. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Shneiderman, Ben and Kearsley, Greg, </author> <title> Hypertext Hands-On!, </title> <publisher> Addison-Wesley Publ., </publisher> <address> Reading, MA, </address> <year> 1989. </year>
+Reference-contexts: Researchers are developing strategies for exporting entire databases in book formats with links indicated by bold face and a page number. In constructing Hypertext Hands-On! <ref> (Shneiderman and Kearsley, 1989) </ref>, we had to build the book version of the hypertext database one step at a time, indicating page numbers by hand. Automation of this process is a natural next step.
+Reference: <author> Weldon, L. J., Mills, C. B., Koved, L., and Shneiderman, B., </author> <title> The structure of information in online and paper technical manuals, </title> <booktitle> Proc. Human Factors Society - 29th Annual Conference, </booktitle> <address> Santa Monica, CA, </address> <year> (1985), </year> <pages> 1110-1113. 2 2 </pages>
+References-found: 2
+

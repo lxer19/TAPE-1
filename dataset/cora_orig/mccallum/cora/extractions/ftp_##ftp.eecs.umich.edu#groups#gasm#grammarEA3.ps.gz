@@ -1,0 +1,28 @@
+URL: ftp://ftp.eecs.umich.edu/groups/gasm/grammarEA3.ps.gz
+Refering-URL: http://www.eecs.umich.edu/gasm/papers.html
+Root-URL: http://www.eecs.umich.edu
+Title: Dynamic Interpretations of Constraint-Based Grammar Formalisms  
+Author: Lawrence S. Moss David E. Johnson 
+Keyword: Key words: Constraint-based formalism, evolving algebra  
+Date: April 4, 1995  
+Address: Bloomington, IN 47405 USA.  Yorktown Heights, NY 10598 USA.  
+Affiliation: Mathematics and Computer Science Departments, Indiana University,  Mathematical Sciences Department, Thomas J. Watson Research Center, IBM Research Division,  
+Abstract: We present a rendering of some common grammatical formalisms in terms of evolving algebras. Though our main concern in this paper is on constraint-based formalisms, we also discuss the more basic case of context-free grammars. Our aim throughout is to highlight the use of evolving algebras as a specification tool to obtain grammar formalisms. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> E. Borger. </author> <title> Annotated bibliography on evolving algebras. </title> <editor> In E. Borger, editor, </editor> <title> Specification and Validation Methods. </title> <publisher> Oxford University Press, </publisher> <year> 1994. </year> <note> Paper available by anonymous ftp from: apollo.di.unipi.it in the directory pub/Papers/boerger. </note>
+Reference: <author> B. Carpenter. </author> <title> The Logic of Typed Feature Structures. </title> <booktitle> Cambridge Tracts in Theoretical Computer Science 32. </booktitle> <publisher> Cambridge University Press, </publisher> <year> 1992. </year>
+Reference: <author> A. Dawar and K. Vijay-Shankar. </author> <title> A three-valued interpretation of negation in feature structure descriptions. </title> <journal> Computational Linguistics, </journal> <volume> 16(1) </volume> <pages> 11-21, </pages> <year> 1990. </year>
+Reference: <author> Y. Gurevich and L.S. Moss. </author> <title> Algebraic operational semantics and occam. </title> <booktitle> In Proceedings of 3rd Workshop on Computer Science Logic, </booktitle> <publisher> Springer-Verlag LNCS volume 440, </publisher> <year> 1990. </year>
+Reference: <author> Y. Gurevich. </author> <title> Evolving algebras: A tutorial introduction. </title> <journal> Bulletin of the European Association for Theoretical Computer Science, </journal> <volume> 43 </volume> <pages> 264-286, </pages> <year> 1991. </year>
+Reference: <author> Y. Gurevich. </author> <title> Evolving algebras 1993: Lipari guide. </title> <editor> In E. Borger, editor, </editor> <title> Specification and Validation Methods. </title> <publisher> Oxford University Press, </publisher> <year> 1994. </year>
+Reference: <author> D. E. Johnson and L. S. Moss. </author> <title> Grammar formalisms viewed as evolving algebras. </title> <journal> Linguistics and Philosophy, </journal> <note> to appear, </note> <year> 1995. </year>
+Reference: <author> M. Johnson. </author> <title> Attribute-Value Logic and the Theory of Grammar. </title> <booktitle> CSLI Lecture Notes Number 16, </booktitle> <publisher> CSLI, </publisher> <year> 1988. </year>
+Reference: <author> B. Keller. </author> <title> Feature Logics, Infinitary Descriptions, and Grammar. </title> <booktitle> CSLI Lecture Notes Number 44, </booktitle> <publisher> CSLI, </publisher> <year> 1993. </year>
+Reference: <author> M. A. Moshier. </author> <title> Extensions to Unification Grammar for the Description of Programming Languages. </title> <type> PhD thesis, </type> <institution> University of Michigan, </institution> <year> 1988. </year>
+Reference: <author> M. A. Moshier and W. C. </author> <title> Rounds. A logic for partially specified data structures. </title> <booktitle> In Proceedings of 14th ACM Symposium on Principles of Programming Languages 156-167. </booktitle>
+Reference: <author> L. S. Moss and D. E. Johnson. </author> <title> Evolving algebras and mathematical models of language. In Applied Logic: How, What, </title> <booktitle> and Why?, </booktitle> <pages> 143-176. </pages> <publisher> Kluwer Academic Publishers, </publisher> <address> Dordrecht, </address> <note> to appear 1995. </note>
+Reference: <author> W. C. </author> <title> Rounds. Feature logic. </title> <editor> In J. van Benthem and A. ter Meulen (eds.), </editor> <booktitle> Handbook of Logic and Language. </booktitle> <publisher> North Holland, </publisher> <address> Amsterdam, </address> <note> to appear. </note>
+Reference: <author> S. M. Shieber. </author> <title> Constraint-Based Grammar Formalisms. </title> <publisher> Bradford Books, MIT Press, </publisher> <address> Cambridge, Massachusetts 1992. </address>
+References-found: 14
+

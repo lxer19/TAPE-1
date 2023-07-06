@@ -1,0 +1,18 @@
+URL: ftp://ftp.cs.unc.edu/pub/publications/techreports/91-048.ps.Z
+Refering-URL: ftp://ftp.cs.unc.edu/pub/publications/techreports/FILE.html
+Root-URL: http://www.cs.unc.edu
+Title: Space resection by collinearity 1 Space resection by collinearity Mathematics behind the optical ceiling head-tracker  
+Author: Ronald Azuma Mark Ward 
+Date: November 1991  
+Address: Chapel Hill  
+Affiliation: University of North Carolina at  
+Abstract-found: 0
+Intro-found: 0
+Reference: [Foley90] <author> James D. Foley, Andries van Dam, Steven K. Feiner, John F. Hughes. </author> <title> Computer Graphics: Principles and Practice, Second Edition. </title> <publisher> Addison-Wesley, </publisher> <address> USA, </address> <year> 1990. </year>
+Reference: [Press88] <author> William H. Press, Brian P. Flannery, Saul A. Teukolsky, William T. Vetterling. </author> <title> Numerical Recipies in C. </title> <publisher> Cambridge University Press, </publisher> <address> USA, </address> <year> 1988. </year>
+Reference: [Shoe89] <author> Ken Shoemake, </author> <title> "Animating Rotation with Quaternion Curves," </title> <note> SIGGRAPH '89 course notes #23 (Math for SIGGRAPH) </note>
+Reference: [Ward92] <author> Mark Ward, Ronald Azuma, Robert Bennett, Stefan Gottschalk, Henry Fuchs, </author> <title> "A demonstrated optical tracker with scalable work area for head-mounted display systems," </title> <booktitle> to appear in Proceedings of 1992 Symposium on Interactive 3D Graphics, </booktitle> <address> Cambridge, MA 1992 </address>
+Reference-contexts: As the user moves and tilts his head, the HMD changes the images based on his head position and orientation, generating the illusion of being inside a virtual world. At SIGGRAPH 91, UNC demonstrated an electro-optical system that can track a users head inside a roomsized volume <ref> [Ward92] </ref>. It consists of a head-mounted unit, a 10 by 12 ceiling, and supporting hardware and software. The head-mounted unit has four camera-like devices, which we will call photodiode units, aimed toward the ceiling. Each photodiode unit contains a flat 10x10 mm 2 detector that is sensitive to infrared light.
+
+References-found: 4
+

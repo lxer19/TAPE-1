@@ -1,0 +1,36 @@
+URL: http://www.fzi.de/sim/people/trautw/Projekte/Ringe/Paper.ps.gz
+Refering-URL: http://www.fzi.de/sim/people/trautw/index.ok.html
+Root-URL: http://www.fzi.de
+Title: 6 8. References On the Potential of Asynchronous Pipelined Processors, [2] C.A.R. Hoare, Communicating Sequential
+Author: [] Ran Ginosar, Nick Michell, L. Lavagno, K. Kreutzer, A. Sangiovanni-Vincentelli, [] Charles E. Leiserson, James B. Saxe, [] Alain J. Martin, [] Alain J. Martin, Teresa H.-Y. Meng, Robert W. Brodersen, David G. Messerschmitt, [] David A. Patterson, John L. Hennessy, [] J. Bruna, A. Altman, [] S.S. Patil, J.B. Dennis, [] R. David, [] C. Mead, L. Conway, [] J. Sparso, J. Staunstrup, M. Dantzer-Sorensen, [] D. Misunas, Petri 
+Date: 1990  1989  32:6, June 1989  6, June 1971  8, August 1977  October 1987  August 1991  
+Note: Comm. of the ACM, Aug. 1978, Vol 21 No 8 [3]  Elsevier Science Publishers B.V. (North-Holland),  [8]  IEEE Transactions on Computer-Aided Design, Vol. 8, No. 11, No-vember  Morgan Kaufmann Publishers, 1990 [10] I.E. Sutherland, Micropipelines, Communication of the ACM,  Elsevier Science Publishers B. V. (North-Holland) [12] J. Staunstrup,  Networks, IEEE Transactions on Computers, Vol. C-20, No.  CACM, August 1973, Vol. 16, No. 8 [19] intel, 80287 80-Bit HCMOS NUMERIC PROCESSOR EXTENSION, January 1986, Order Number: 210920-004 [20] National Semiconductor Corporation, NS32532-20/NS32532-25/NS32532-30 High-Performance 32-Bit Microprocessor,  [22] Cypress Semiconductor, Applications Handbook,  [23] Texas Instruments, The TTL Data Book, Volume 1, 1985  
+Affiliation: University of Utah, Department of Computer Science  
+Pubnum: Technical Report UUCS-90-015,  C-26, No.  MC68882 BRE509/D  
+Abstract: 7] Alain J. Martin, Steven M. Burns, T.K. Lee, Drazen Borkovic, Pieter J. Hazewindus, The First Asynchronous Microprocessor: The Test Results, Computer Architecture, April 1989 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Ran Ginosar, Nick Michell, </author> <title> On the Potential of Asynchronous Pipelined Processors, </title> <type> Technical Report UUCS-90-015, </type> <institution> University of Utah, Department of Computer Science </institution>
+Reference: [2] <author> C.A.R. Hoare, </author> <title> Communicating Sequential Processes, </title> <journal> Comm. of the ACM, Aug. 1978, </journal> <volume> Vol 21 No 8 </volume>
+Reference: [3] <author> L. Lavagno, K. Kreutzer, A. Sangiovanni-Vincentelli, </author> <title> Algorithms for synthesis of hazard-free asynchronous circuits, </title> <booktitle> 28th ACM/IEEE Design Automation Conference, Paper 19.2 </booktitle>
+Reference: [4] <author> Charles E. Leiserson, James B. Saxe, </author> <title> Retiming Synchronous Circuitry, </title> <journal> Algorithmica, 1991, </journal> <volume> 6 </volume> <pages> 5-35 </pages>
+Reference: [5] <author> Alain J. Martin, </author> <title> Compiling communicating processes into delay-insensitive VLSI circuits, </title> <booktitle> Distributed Computing (1986) 1 </booktitle> <pages> 226-234 </pages>
+Reference: [6] <author> Alain J. Martin, </author> <title> Synthesis of Asynchronous VLSI Circuits, Formal Methods for VLSI Design, </title> <publisher> Elsevier Science Publishers B.V. (North-Holland), </publisher> <year> 1990 </year>
+Reference: [7] <author> Alain J. Martin, Steven M. Burns, T.K. Lee, Drazen Borkovic, Pieter J. Hazewindus, </author> <title> The First Asynchronous Microprocessor: The Test Results, </title> <booktitle> Computer Architecture, </booktitle> <month> April </month> <year> 1989 </year>
+Reference: [8] <author> Teresa H.-Y. Meng, Robert W. Brodersen, David G. Messerschmitt, </author> <title> Automatic Synthesis of Asynchronous Circuits from High-Level Specifications, </title> <journal> IEEE Transactions on Computer-Aided Design, </journal> <volume> Vol. 8, No. 11, </volume> <month> No-vember </month> <year> 1989 </year>
+Reference: [9] <author> David A. Patterson, John L. Hennessy, </author> <title> Computer Architecture a Quantitative Approach, </title> <publisher> Morgan Kaufmann Publishers, </publisher> <year> 1990 </year>
+Reference: [10] <author> I.E. Sutherland, </author> <title> Micropipelines, </title> <journal> Communication of the ACM, </journal> <volume> 32:6, </volume> <month> June </month> <year> 1989 </year>
+Reference: [11] <author> J. Staunstrup, </author> <title> M.R. Greenstreet, Synchronized Transitions, Formal Methods for VLSI Design, </title> <publisher> Elsevier Science Publishers B. V. (North-Holland) </publisher>
+Reference: [12] <author> J. Staunstrup, </author> <title> M.R. Greenstreet, From High-Level Descriptions to VLSI Circuits, </title> <note> BIT 28 (1988) </note>
+Reference: [13] <author> J. Bruna, A. Altman, </author> <title> A Theory of Asynchronous Control Networks, </title> <journal> IEEE Transactions on Computers, </journal> <volume> Vol. C-20, No. 6, </volume> <month> June </month> <year> 1971 </year>
+Reference: [14] <author> S.S. Patil, J.B. Dennis, </author> <title> The Description and Realization of Digital Systems, </title> <booktitle> IEEE Computer Conference, </booktitle> <year> 1972 </year>
+Reference: [15] <author> R. David, </author> <title> Modular Design of Asynchronous Circuits Defined by Graphs, </title> <journal> IEEE Transactions on Computers, </journal> <volume> Vol. C-26, No. 8, </volume> <month> August </month> <year> 1977 </year>
+Reference: [16] <author> C. Mead, L. Conway, </author> <title> Introduction to VLSI Systems, </title> <booktitle> Addison-Wesley Series in Computer Science, </booktitle> <year> 1980 </year>
+Reference: [17] <author> J. Sparso, J. Staunstrup, M. Dantzer-Sorensen, </author> <title> Design of delay insensitive circuits using multi-ring structures, email </title>
+Reference: [18] <author> D. Misunas, </author> <title> Petri Nets and Speed Independent Design, </title> <journal> CACM, August 1973, </journal> <volume> Vol. 16, No. 8 [19] intel, </volume> <booktitle> 80287 80-Bit HCMOS NUMERIC PROCESSOR EXTENSION, </booktitle> <month> January </month> <year> 1986, </year> <title> Order Number: </title> <type> 210920-004 </type>
+Reference: [20] <institution> National Semiconductor Corporation, NS32532-20/NS32532-25/NS32532-30 High-Performance 32-Bit Microprocessor, </institution> <month> October </month> <year> 1987 </year>
+Reference: [21] <author> MOTOROLA SEMICONDUCTOR, </author> <title> HCMOS Enhanced Floating-Point Coprocessor, </title> <publisher> MC68882 BRE509/D </publisher>
+Reference: [22] <editor> Cypress Semiconductor, </editor> <booktitle> Applications Handbook, </booktitle> <month> August </month> <year> 1991 </year>
+
+References-found: 21
+

@@ -1,0 +1,29 @@
+URL: ftp://ftp.cs.indiana.edu/pub/techreports/TR361.ps.Z
+Refering-URL: http://www.cs.indiana.edu/trindex.html
+Root-URL: 
+Email: gem@cogsci.indiana.edu rwyckoff@copper.ucs.indiana.edu  
+Phone: (812) 855-6486 (812) 855-6966  
+Author: Sushil Louis Gary McGraw yfl Richard O. Wyckoff 
+Date: August 1, 1992  
+Address: Bloomington, Indiana 47405  
+Note: Research on Concepts and Cognition  louis@cs.indiana.edu  To appear in Journal of Theoretical and Experimental Artificial Intelligence  
+Affiliation: Department of Computer Science Center for  Indiana University,  
+Abstract: CBR Assisted Explanation of GA Results Computer Science Technical Report number 361 CRCC Technical Report number 63 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Bareiss, R. </author> <booktitle> (1991) Proceedings of the Case-Based Reasoning Workshop, </booktitle> <publisher> Morgan Kaufmann, Inc. </publisher>
+Reference: [2] <author> Bramlette, M.F. and R. Cusic. </author> <title> (1989) "A Comparative Evaluation of Search Methods Applied to Parametric Design of Aircraft." </title> <booktitle> In Proceedings of the Third International Conference on Genetic Algorithms. </booktitle> <publisher> Morgan Kauffman, </publisher> <pages> 213-218. </pages>
+Reference: [3] <author> De Jong, K.A. </author> <title> (1975) "An Analysis of the Behavior of a class of Genetic Adaptive Systems." </title> <type> Doctoral Dissertation, </type> <institution> Department of Computer and Communication Sciences, University of Michigan, </institution> <address> Ann Arbor. </address> <month> 22 </month>
+Reference: [4] <author> De Jong, K.A. and W.M. Spears. </author> <title> (1989) "Using Genetic Algorithms to Solve NP-complete Problems." </title> <booktitle> In Proceedings of the Third International Conference on Genetic Algorithms. </booktitle> <publisher> Morgan Kauffman, </publisher> <pages> 124-132. </pages>
+Reference: [5] <author> Goldberg, D.E. </author> <title> (1989) Genetic Algorithms in Search, Optimization and Machine Learning. </title> <publisher> Addison-Wesley. </publisher>
+Reference: [6] <author> Goldberg, D.E. </author> <title> (1989) "Genetic Algorithms and Walsh Functions: Part II, Deception and its Analysis." </title> <booktitle> Complex Systems 3: </booktitle> <pages> 153-171. </pages>
+Reference: [7] <author> Holland, J.H. </author> <booktitle> (1975) Adaptation In Natural and Artificial Systems. </booktitle> <address> Ann Arbor: </address> <publisher> The University of Michigan Press. </publisher>
+Reference: [8] <author> Jones, D.R. and M.A. Beltramo. </author> <title> (1991) "Solving Partitioning Problems with Genetic Algorithms." </title> <booktitle> In Proceedings of the Fourth International Conference on Genetic Algorithms. </booktitle> <publisher> Morgan Kauffman, </publisher> <pages> 442-449. </pages>
+Reference: [9] <author> Koza, J.R. </author> <title> (forthcoming) Genetic Programming, </title> <publisher> MIT Press. </publisher>
+Reference: [10] <author> Louis, S.J., McGraw, G.E. and Wyckoff, R.O. </author> <title> (1992) "Automating Explanation of Genetic Algorithm Results (two paradigms collide)." </title> <booktitle> In Proceedings of the Florida Artificial Intelligence Research Symposium (FLAIRS-92), </booktitle> <address> April 1992, Ft. Lauderdale, FL. </address>
+Reference: [11] <author> Louis, S.J. and G.J.E. Rawlins. </author> <title> (1991) "Using Genetic Algorithms to Design Structures." </title> <booktitle> In Proceedings of the Fourth International Conference on Genetic Algorithms. </booktitle> <publisher> Morgan Kauffman, </publisher> <pages> 53-60. </pages>
+Reference: [12] <editor> Rawlins, G.J.E. (ed.) </editor> <booktitle> (1991) Foundations of Genetic Algorithms, Mor-gan Kauffman, </booktitle> <pages> 1-10. </pages>
+Reference: [13] <editor> Riesbeck, C.K. and R.C. Schank. </editor> <booktitle> (1989) Inside Case-Based Reasoning, </booktitle> <publisher> Lawrence Erlbaum Associates. </publisher>
+Reference: [14] <author> Shahookar, K. and D. Mazumder. </author> <title> (1990) "A genetic approach to standard cell placement using meta-genetic parameter optimization." </title> <journal> IEEE Trans. Computer-Aided Design, </journal> <volume> 9, </volume> <month> May </month> <year> 1990, </year> <pages> 500-511. 23 </pages>
+References-found: 14
+

@@ -1,0 +1,22 @@
+URL: ftp://theory.lcs.mit.edu/pub/people/shaih/01perm.ps.gz
+Refering-URL: http://theory.lcs.mit.edu/~shaih/mypapers.html
+Root-URL: 
+Title: Zero-One Permanent is #P -Complete, A Simpler Proof  
+Author: Amir Ben-Dor Shai Halevi 
+Note: This research was supported by United States-Israel Binational Science Foundation grant 88-00282 This research was supported by the Miriam and Aharon Gutwirth memorial fellowship  
+Date: February 22, 1995  
+Address: Haifa, Israel 32000  
+Affiliation: Dept. of Computer Science Technion  
+Abstract-found: 0
+Intro-found: 1
+Reference: [Tod89] <author> Toda S., </author> <title> "On the Computational Power of PP and P", </title> <booktitle> Proc. 30th IEEE Symp. on Foundations of Computer Science (1989), </booktitle> <pages> pp. 514-519. </pages>
+Reference: [Val79a] <author> Valiant L.G., </author> <title> "The Complexity of Computing the Permanent", </title> <journal> Theoretical Computer Science, </journal> <volume> Vol. 8 (1979), </volume> <publisher> North-Holland Publishing Company, </publisher> <pages> pp. 189-201. 14 </pages>
+Reference-contexts: We use P erm (G) to denote this sum. 3 3 Main Result We present another proof for the following result (that was proved in <ref> [Val79a] </ref> combined with [Zan91]). Theorem 1: 01-Perm is #P-Complete (with respect to many-one reductions). Proof sketch: Let be a 3-CNF formula with n variables and m clauses. We denote by S () the number of satisfying assignments of .
+Reference: [Val79b] <author> Valiant L.G., </author> <title> "The Complexity of Enumeration and Reliability Problems", </title> <journal> SIAM J. Comput., </journal> <volume> Vol 8, No. 3 (1979), </volume> <pages> pp. 410-421. </pages>
+Reference-contexts: any prime p 6= 2, deciding whether P erm (A) 0 (mod p) is also NP-Hard with respect to the same reductions. 2 Finally, we prove that polynomially bounded functions can not be #P-Complete (under some "reasonable" complexity assumptions). 2 Preliminaries We define the notions #P and #P-Hardness as usual <ref> [Val79b] </ref>. Definition 1: Let f be a function f : ? ! N . <p> It was shown in <ref> [Val79b] </ref> that the problem of counting the number of satisfying assignments for a 3-CNF formula is #P-Complete, with respect to many-one reductions. Let us denote this problem by #3-SAT.
+Reference: [VV85] <author> Valiant L.G., Vazirani V.V., </author> <title> "NP is as easy as detecting unique solutions", </title> <booktitle> Proc. 17th ACM Symp. ot Theory of Computing (1985), </booktitle> <pages> pp. 458-463. </pages>
+Reference-contexts: This is done by presenting an algorithm that computes P erm (A) modulo p using an oracle that decides whether P erm (A) 0 (mod p) (and using the Chinese Remainder Theorem). It was shown in <ref> [VV85] </ref> that computing P erm (A) modulo k for any fixed k that is not a power of two is NP-Hard (with respect to randomized polynomial reductions). <p> It was shown in <ref> [VV85] </ref> that computing P erm (A) modulo k for any fixed k that is not a power of two is NP-Hard (with respect to randomized polynomial reductions).
+Reference: [Zan91] <author> Zanko V., </author> <title> "#P-Completeness via Many-One Reductions", </title> <journal> International J. of Found. of Comp. Sci., </journal> <volume> Vol 2, No. 1 (1991), </volume> <pages> pp. 77-82. </pages>
+Reference-contexts: Finally, we reduce the last permanent problem to the 01-permanent problem. The reductions we present in the second part are all many-one. A different and somewhat more complicated many-one reduction was presented in <ref> [Zan91] </ref>. In the rest of the paper we consider the problem of deciding whether P erm (A) 0 (mod p) for a given matrix A and integer p. We show that this problem is #P-Hard, even when the integer p is presented in unary. <p> We use P erm (G) to denote this sum. 3 3 Main Result We present another proof for the following result (that was proved in [Val79a] combined with <ref> [Zan91] </ref>). Theorem 1: 01-Perm is #P-Complete (with respect to many-one reductions). Proof sketch: Let be a 3-CNF formula with n variables and m clauses. We denote by S () the number of satisfying assignments of .
+References-found: 5
+

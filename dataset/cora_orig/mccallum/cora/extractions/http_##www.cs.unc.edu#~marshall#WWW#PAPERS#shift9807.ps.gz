@@ -1,0 +1,38 @@
+URL: http://www.cs.unc.edu/~marshall/WWW/PAPERS/shift9807.ps.gz
+Refering-URL: http://www.cs.unc.edu/~marshall/WWW/index.html
+Root-URL: http://www.cs.unc.edu
+Email: marshall@cs.unc.edu, alley@cs.unc.edu, 919-962-1887  
+Title: Development of triadic neural circuits for visual image stabilization under eye movements  
+Author: Vinay S. Gupta Richard K. Alley Jonathan A. Marshall 
+Address: 3175, Sitterson Hall  Chapel Hill, NC 27599-3175, U.S.A.  
+Affiliation: Department of Computer Science, CB  University of North Carolina,  
+Date: 02 July 1998  
+Abstract: Human visual systems maintain a stable internal representation of a scene even though the image on the retina is constantly changing because of eye movements. Such stabilization can theoretically be effected by dynamic shifts in the receptive field (RF) of neurons in the visual system. This paper examines how a neural circuit can learn to generate such shifts. The shifts are controlled by eye position signals and compensate for the movement in the retinal image caused by eye movements. The development of a neural shifter circuit (Olshausen, Anderson, & Van Essen, 1992) is modeled using triadic connections. These connections are gated by signals that indicate the direction of gaze (eye position signals). In simulations, a neural model is exposed to sequences of stimuli paired with appropriate eye position signals. The initially 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Andersen, R.A. </author> <title> (1989) Visual and eye movement functions of the posterior parietal cortex. </title> <journal> Ann. Rev. Neurosci. </journal> <volume> 12 </volume> <pages> 377-403. </pages>
+Reference: [2] <author> Andersen, R.A., Bracewell, R.M., Barash, S., Gnadt, J.W., & Fogassi, L. </author> <title> (1990) Eye position effects on visual, memory, and saccade-related activity in areas LIP and 7a of macaque. </title> <journal> Journal of Neuroscience 10 </journal> <pages> 1176-1196. </pages>
+Reference: [3] <author> Andersen, R.A., Essick, G.K., & Siegel, </author> <title> R.M. (1985) Encoding of spatial location by posterior parietal neurons. </title> <booktitle> Science 230 </booktitle> <pages> 456-458. </pages>
+Reference: [4] <author> Andersen, R.A. & Mountcastle, </author> <title> V.B. (1983) The influence of the angle of gaze upon the excitability of the light-sensitive neurons of the posterior parietal cortex. </title> <journal> The Journal of Neuroscience 3/3:532-548. 25 </journal>
+Reference: [5] <author> Anderson, C.H. & Van Essen, </author> <title> D.C. (1987) Shifter circuits: A computational strategy for dynamic aspects of visual processing. </title> <booktitle> Proceedings of the National Academy of Science of the USA 84 </booktitle> <pages> 6297-6301. </pages>
+Reference: [6] <author> Duhamel, J.R., Colby, C.L., & Goldberg, </author> <title> M.E. (1992) The updating of the representation of visual space in parietal cortex by intended eye movements. </title> <booktitle> Science 255 </booktitle> <pages> 90-92. </pages>
+Reference: [7] <author> Freeman, W.T. & Adelson, </author> <title> E.H. (1991) The design and use of steerable filters. </title> <journal> IEEE Transactions on Pattern Analysis and Machine Intelligence 13 </journal> <pages> 891-906. </pages>
+Reference: [8] <author> Galetti, C. & Battaglini, </author> <title> P.P. (1989) Gaze-dependent visual neurons in area V3a of monkey prestriate cortex. </title> <journal> Journal of Neuroscience 9 </journal> <pages> 1112-1125. </pages>
+Reference: [9] <author> Galetti, C., </author> <month> Battaglini, </month> <pages> P.P., </pages> & <editor> Aicardi, G. </editor> <booktitle> (1988) `Real-motion' cells in visual area V2 of behaving macaque monkeys. Experimental Brain Research 69 </booktitle> <pages> 279-288. </pages>
+Reference: [10] <author> Galetti, C., Squatrito, S., </author> <month> Battaglini, </month> <pages> P.P., </pages> & <address> Maioli, </address> <month> M.G. </month> <title> (1984) `Real-motion' cells in the primary visual cortex of macaque monkeys. </title> <booktitle> Brain Research 301 </booktitle> <pages> 95-110. </pages>
+Reference: [11] <author> Grossberg, S. </author> <title> (1982) Studies of Mind and Brain. </title> <address> Boston: </address> <publisher> Reidel Press. </publisher>
+Reference: [12] <author> Grossberg, S. & Kuperstein, M. </author> <title> (1986) Neural Dynamics of Adaptive Sensory-Motor Control: Ballistic Eye Movements. </title> <publisher> Amsterdam: Elsevier. </publisher>
+Reference: [13] <author> Gupta, </author> <title> V.S. & Marshall, J.A. (1995) Development of triadic neural circuits for anticipatory receptive field shifts under intended eye movements. </title> <institution> Investigative Ophthalmology & Visual Science 36:378. </institution>
+Reference: [14] <author> Hebb, D. </author> <title> (1949) The Organization of Behavior. </title> <address> New York: </address> <publisher> Wiley. </publisher> <pages> 26 </pages>
+Reference: [15] <author> Kohonen, T. </author> <title> (1984) Self-Organization and Associative Memory. </title> <address> New York: </address> <publisher> Springer--Verlag. </publisher>
+Reference: [16] <author> Kusunoki, M., Colby, C.L., & Goldberg, </author> <title> M.E. (1994) Perisaccadic changes in the excitability of visual neurons in monkey parietal cortex. </title> <journal> Society for Neuroscience Abstracts 20:773. </journal>
+Reference: [17] <author> Marshall, J.A. </author> <title> (1995) Adaptive perceptual pattern recognition by self-organizing neural networks: Context, uncertainty, multiplicity, and scale. </title> <booktitle> Neural Networks 8 </booktitle> <pages> 335-362. </pages>
+Reference: [18] <author> Moran, J. & Desimone, R. </author> <title> (1985) Selective attention gates visual processing in the extrastriate cortex. </title> <booktitle> Science 229 </booktitle> <pages> 782-784. </pages>
+Reference: [19] <author> Nigrin, A. </author> <title> (1993) Neural Networks for Pattern Recognition. </title> <address> Cambridge, MA: </address> <publisher> MIT Press. </publisher>
+Reference: [20] <author> Olshausen, B., Anderson, C., & Van Essen, D. </author> <title> (1992) A neural model of visual attention and invariant pattern recognition. </title> <type> CNS Memo 18, </type> <institution> California Institute of Technology. </institution>
+Reference: [21] <author> Prokopowicz, </author> <title> P.N. (1994) The development of perceptual integration across eye movements in visual robots. </title> <type> Technical Report #1, </type> <institution> The Intelligent Perception and Action Lab, Northwestern University. </institution>
+Reference: [22] <author> Prueitt, </author> <title> P.S. (1993) Network models in behavioral and computational neuroscience. In Non-Animal Models in Biomedical and Psychological Research, Testing, </title> <booktitle> and Education, </booktitle> <address> New Gloucester, PsyETA. </address>
+Reference: [23] <author> Sparks, </author> <title> D.L. (1986) Translation of sensory signals into commands for control of saccadic eye movements: Role of primate superior colliculus. </title> <journal> Journal of Physiology 66 </journal> <pages> 118-171. </pages>
+Reference: [24] <author> Wilson, J.R. </author> <title> (1989) Synaptic organization of individual neurons in the macaque lateral geniculate nucleus. </title> <journal> Journal of Neuroscience 9/8:2931-2953. 27 </journal>
+References-found: 24
+

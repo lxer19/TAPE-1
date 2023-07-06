@@ -1,0 +1,19 @@
+URL: ftp://ftp.icsi.berkeley.edu/pub/techreports/1992/tr-92-064.ps.gz
+Refering-URL: http://www.icsi.berkeley.edu/techreports/1992.html
+Root-URL: http://www.icsi.berkeley.edu
+Title: Competitive Analysis of Financial Games minimize the competitive ratio, defined as sup E P OPT
+Author: R. El-Yaniv A. Fiat R. Karp G. Turpin 
+Note: to convert. His goal is to  Supported by NSF Grant No. CCR-9005448  
+Address: ICSI  TR-92-064  
+Affiliation: University of Toronto  Tel-Aviv University  UC Berkeley and  University of Toronto  
+Abstract: In the unidirectional conversion problem an on-line player is given the task of converting dollars to yen over some period of time. Each day, a new exchange rate is announced, and the player must decide how many dollars rate sequences, P OPT (E) is the number of yen obtained by an optimal off-line algorithm, and P X (E) is the number of yen obtained by the on-line algorithm X. We also consider a continuous version of the problem, in which the exchange rate varies over a continuous time interval. The on-line player's a priori information about the fluctuation of exchange rates distinguishes different variants of the problem. For three variants we show that a simple threat-based strategy is optimal for the on-line player and determine its competitive ratio. We also derive and analyze an optimal policy for the on-line player when he knows the probability distribution of the maximum value that the exchange rate will reach. Finally, we consider a bidirectional conversion problem, in which the player may trade dollars for yen or yen for dollars. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [Cover91] <author> T.M. </author> <title> Cover. "Universal Portfolios," </title> <journal> Mathematical Finance, </journal> <volume> Vol 1, No. </volume> <month> 1 (January </month> <year> 1991), </year> <pages> 1-29. </pages>
+Reference-contexts: Despite the obvious significance and appeal of investment problems, we have found only two previous references concerned with the competitive analysis of on-line financial decision-making. The paper <ref> [Cover91] </ref> deals with the problem of portfolio selection for investment in the stock market. Here, the (on-line) player must determine the proportion of his wealth invested in each of the stocks in the market.
+Reference: [Ragh91] <author> P. Raghavan. </author> <title> A statistical adversary for on-line algorithms. On-Line Algorithms, </title> <booktitle> DIMACS Series in Discrete Mathematics and Theoretical Computer Science, </booktitle> <pages> 79-83, </pages> <year> 1991. </year>
+Reference-contexts: Note that the on-line portfolio selection strategy is very robust; it does not assume anything about the behavior of future events. The paper <ref> [Ragh91] </ref> analyzes the competitive performance of an on-line investment algorithm against a "statistical adversary," whose request sequence is required to satisfy certain distributional requirements.
+Reference: [ST85] <author> D.D. Sleator and R.E. Tarjan. </author> <title> Amortized efficiency of list update and paging rules. </title> <journal> Communication of the ACM, </journal> <volume> 28 </volume> <pages> 202-208, </pages> <year> 1985. </year>
+Reference-contexts: An alternate approach in such situations and the one we explore here is to use competitive analysis (first applied to on-line algorithms by Sleator and Tarjan in <ref> [ST85] </ref>). In this approach, the performance of an on-line strategy is measured against that of an optimal off-line strategy having full knowledge of future events.
+References-found: 3
+

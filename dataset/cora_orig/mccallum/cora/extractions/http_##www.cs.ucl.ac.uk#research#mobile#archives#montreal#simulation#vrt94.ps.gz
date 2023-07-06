@@ -1,0 +1,22 @@
+URL: http://www.cs.ucl.ac.uk/research/mobile/archives/montreal/simulation/vrt94.ps.gz
+Refering-URL: http://www.cs.ucl.ac.uk/research/mobile/archives/montreal/simulation/
+Root-URL: http://www.cs.ucl.ac.uk
+Title: EFFICIENCY IMPROVEMENT AND VARIANCE REDUCTION  
+Author: Pierre L'Ecuyer 
+Address: Montreal, C.P. 6128, Succ. A Montreal, H3C 3J7, CANADA  
+Affiliation: Departement d'IRO Universite de  
+Abstract: We give an overview of the main techniques for improving the statistical efficiency of simulation estimators. Efficiency improvement is typically (but not always) achieved through variance reduction. We discuss methods such as common random numbers, antithetic variates, control variates, importance sampling, conditional Monte Carlo, stratified sampling, and some others, as well as the combination of certain of those methods. We also survey the recent literature on this topic. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Anantharam, V. </author> <year> 1992. </year> <title> On fast simulation of the time to saturation of slotted ALOHA. </title> <journal> Journal of Applied Probability, </journal> <volume> 29 </volume> <pages> 682-690. </pages>
+Reference: <author> Andradottir, S., D. P. Heyman., and T. J. Ott. </author> <year> 1993a. </year> <title> Potentially unlimited variance reduction in importance sampling of Markov chains. </title> <type> Technical Report 93-5, </type> <institution> Department of Industrial Engineering, University of Wisconsin-Madison. </institution>
+Reference: <author> Andradottir, S., D. P. Heyman., and T. J. Ott. </author> <year> 1993b. </year> <title> Variance reduction through smoothing and control variates for Markov chain simulations. </title> <journal> ACM Transactions on Modeling and Computer Simulation, </journal> <volume> 3(3) </volume> <pages> 167-189. </pages>
+Reference: <author> Avramidis, A. N., K. W. Bauer Jr.., and J. R. Wil-son. </author> <year> 1991. </year> <title> Simulation of stochastic activity networks using path control variates. </title> <journal> Journal of Naval Research, </journal> <volume> 38 </volume> <pages> 183-201. </pages>
+Reference: <author> Avramidis, A. N., and J. R. Wilson. </author> <year> 1993. </year> <title> A splitting scheme for control variates. </title> <journal> Operations Research Letters, </journal> <volume> 14 </volume> <pages> 187-198. </pages>
+Reference: <author> Avramidis, A. N., and J. R. Wilson. </author> <year> 1994. </year> <title> Integrated variance reduction strategies for simulation. </title> <note> Operations Research. To appear. </note>
+Reference-contexts: Special cases of that correlation-induction frame-work include AV and the latin hypercube sampling (LHS) method <ref> (Avramidis and Wilson 1994) </ref>, which we now describe. Select a finite subset as above and for each k 2 , generate a random permutation of the integers f1; : : :; ng (independently for the different indices k), and let i;k denote the ith element of that permutation.
+Reference: <author> Bauer Jr., K. W., and J. R. Wilson. </author> <year> 1992. </year> <title> Control-variate selection criteria. </title> <journal> Naval Research Logistics, </journal> <volume> 39 </volume> <pages> 307-321. </pages>
+Reference: <author> Bratley, P., B. L. Fox., and L. E. Schrage. </author> <year> 1987. </year>
+Reference-contexts: Roughly, if Z contains much less information than X, then the CMC estimator X cm = E [X j Z] should have much less variability than X. More specifically, one has <ref> (Bratley, Fox, and Schrage 1987) </ref> E [X cm ] = E [X] and Var [X cm ] = Var [X] E [Var [X j Z]], so the variance can only decrease.
+References-found: 8
+

@@ -1,0 +1,21 @@
+URL: ftp://ftp.cse.ucsc.edu/pub/tr/ucsc-crl-97-18.ps.Z
+Refering-URL: ftp://ftp.cse.ucsc.edu/pub/tr/README.html
+Root-URL: http://www.cse.ucsc.edu
+Title: Unloading Java Classes That Contain Static Fields  
+Author: C. E. McDowell E. A. Baldwin 
+Keyword: Java, class unloading, garbage collection  
+Address: Santa Cruz, CA 95064 USA  
+Affiliation: Baskin Center for Computer Engineering Information Sciences University of California, Santa Cruz  
+Date: August 25, 1997  
+Pubnum: 97-18  
+Abstract: In Java the definition of a "program" is a bit fuzzy. A Java applet is essentially a Java application (i.e. program) that can be executed by a Java enabled Web browser (i.e. an OS). An applet running inside of a browser was intended to be analogous to a conventional application running under on OS, hence the netcentric "browser is your OS" model. However, as currently implemented this analogy breaks down with regard to the system resources allocated for classes and in particular for static fields in classes (i.e. class variables) when the class was loaded as part of an applet. Without class unloading, a long running Java application such as a browser is like an OS that does not release memory resources allocated for application code space when the application terminates. With class unloading, as currently implemented, the semantics of static fields in classes are broken. In this paper we detail the problem and provide a solution. The solution combines restricting when classes can be unloaded, with a greater use of non-default class loaders. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [Bal97] <author> E. A. Baldwin. </author> <title> Memory Management in Embedded Java. </title> <institution> M.S. Thesis University of California, Santa Cruz, </institution> <year> 1997. </year>
+Reference-contexts: But a class may also be considered reachable when there are no explicit Class type variables referencing the Class object. In our implementation of class unloading which we added to JDK1.0.1 <ref> [Bal97, Mon97] </ref>, ClassB is directly reachable from ClassA if the source for ClassA contains a reference to ClassB as a class. This is not a variable of type Class but the actual use of the class name, for example in a declaration. <p> is not possible to analyze a complete program at load time to determine which classes might appear to be unloadable but then get reloaded later on. 3 An example In JDK1.1.2, class unloading is done at the same time as garbage collection, although this may not be the best policy <ref> [Bal97] </ref>. The following example demonstrates how both a class that is loaded by a call to forname (ClassOne in the example) and a class that is loaded by an explicit use of the class as a type (ClassTwo in the example) are unloaded.
+Reference: [GJS96] <author> J. Gosling, B. Joy, and G. Steele. </author> <title> The Java Language Specification. </title> <publisher> Addison Wesley, </publisher> <year> 1996. </year>
+Reference-contexts: The other way for a class to be loaded is some form of loading where the class name only appears as a String such as with the method forname in class java.lang.Class (see JLS section 20.3.8 <ref> [GJS96] </ref>), or the use of method loadClass from a custom class loader extending class ClassLoader.
+Reference: [Mon97] <author> B. R. Montague. JN: </author> <title> OS for an embedded Java network computer. </title> <journal> IEEE Micro, </journal> <volume> 17(3) </volume> <pages> 54-60, </pages> <month> May/June </month> <year> 1997. </year>
+Reference-contexts: But a class may also be considered reachable when there are no explicit Class type variables referencing the Class object. In our implementation of class unloading which we added to JDK1.0.1 <ref> [Bal97, Mon97] </ref>, ClassB is directly reachable from ClassA if the source for ClassA contains a reference to ClassB as a class. This is not a variable of type Class but the actual use of the class name, for example in a declaration.
+References-found: 3
+

@@ -1,0 +1,32 @@
+URL: http://www.cs.berkeley.edu/~halstead/papers/optometry/Paper.ps.gz
+Refering-URL: http://www.cs.berkeley.edu/~halstead/papers/papers.html
+Root-URL: 
+Title: A Spline Surface Algorithm for Reconstruction of Corneal Topography from a Videokeratographic Reflection Pattern  
+Author: Mark A. Halstead, M.Sc. Brian A. Barsky, Ph.D. Stanley A. Klein, Ph.D. Robert B. 
+Note: Mandell, O.D. Ph.D. F.A.A.O.  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> Klyce SD. </author> <title> Computer-assisted corneal topography, high-resolution graphic presentation and analysis of keratoscopy. </title> <booktitle> Invest Ophthalmol Vis Sci 1984; 25 </booktitle> <pages> 1426-35. </pages>
+Reference: [2] <author> Koch DD, Foulks GN, Moran T. </author> <title> The corneal EyeSys system: accuracy analysis and reproducibility of first-generation prototype. </title> <booktitle> Refract Corneal Surg 1989; 5 </booktitle> <pages> 424-9. </pages>
+Reference: [3] <editor> Mammone RJ, Gersten M, Gormley DJ, Koplin RS, Lubkin VL. </editor> <title> 3-D corneal modeling system. </title> <journal> IEEE Trans Biomedical Eng 1990; 37 </journal> <pages> 66-73. </pages>
+Reference: [4] <author> Wang J, Rice DA, </author> <title> Klyce SD. A new reconstruction algorithm for improvement of corneal topographical analysis. </title> <booktitle> Refract Corneal Surg 1989; 5 </booktitle> <pages> 379-87. </pages>
+Reference: [5] <author> Warnicki JW, Rehkopf PG, Curtin SA. </author> <title> Corneal topography using computer analyzed rasterographic images. </title> <journal> Am J Opt 1988; 27 </journal> <pages> 1125-40. </pages>
+Reference: [6] <author> Wilson SE, </author> <title> Klyce SD. </title> <booktitle> Advances in the analysis of corneal topography. Surv Ophthalmol 1991; 35 </booktitle> <pages> 269-77. </pages>
+Reference: [7] <author> Klyce SD, Dingeldein SA. </author> <title> Corneal topography. In: Masters BR. Noninvasive Diagnostic Techniques in Ophthalmology. </title> <address> New York: </address> <publisher> Springer-Verlag, </publisher> 1990 61-77. 
+Reference: [8] <editor> Mandell RB. </editor> <booktitle> The enigma of the corneal contour CLAO J 1992; 18 </booktitle> <pages> 267-73. 17 </pages>
+Reference: [9] <editor> Bibby MM, Townsley MG. </editor> <title> Analysis and description of corneal shape. </title> <booktitle> CL Forum 1976; 1(8) </booktitle> <pages> 27-35. </pages>
+Reference: [10] <author> Doss JD, Hutson RL, Rowsey JJ, Brown DR. </author> <title> Method for calculation of corneal profile and power distribution. </title> <booktitle> Arch Ophthalmol 1981; 99 </booktitle> <pages> 1261-5. </pages> <note> [11] van Saarloos PP, </note> <author> Constable I. </author> <title> Improved method for calculation of corneal topography for any photokeratoscope geometry. </title> <booktitle> Optom Vis Sci 1991; </booktitle> 68:960-6. 
+Reference: [12] <author> Roberts C. </author> <title> Characterization of the inherent error in a spherically-biased corneal topography system in mapping a radially aspheric surface. </title> <booktitle> Refract Corneal Surg 1994; 10 </booktitle> <pages> 103-11. </pages>
+Reference: [13] <author> Klein SA, Mandell RB, Barsky BA. </author> <title> Representing corneal shape. Vision Science and its Applications. </title> <address> Washington, DC: </address> <publisher> Optical Society of Am,1995. </publisher>
+Reference: [14] <author> Mandell RB, Klein SA, Shie CH, Barsky BA, Yang Z. </author> <note> Axial and instantaneous radii in videokeratography. Invest Opthalmol Vis Sci 1994; 35 Suppl.:2079. </note>
+Reference: [15] <author> Barsky BA, Mandell RB, Klein SA. </author> <note> Corneal shape illusion in keratoconus. Invest Opthal-mol Vis Sci 1995; 36 Suppl.:5308. </note>
+Reference: [16] <author> Maguire LJ, Bourne WD. </author> <title> Corneal topography of early keratoconus. </title> <address> Am J Ophthalmol 1989; 108 </address> <pages> 107-12. </pages>
+Reference: [17] <author> Mandell RB, Barsky BA, Klein SA. </author> <title> Taking a new angle on keratoconus. </title> <booktitle> Contact Lens Spect 1994; 9(4) </booktitle> <pages> 44-7. </pages>
+Reference: [18] <author> Belin MW, Litoff D, Strods SJ. </author> <title> The PAR technology corneal topography system. </title> <booktitle> Refract Corneal Surg 1992; 8 </booktitle> <pages> 88-96. 18 </pages>
+Reference: [19] <author> Bartels RH, Beatty JC, Barsky BA. </author> <title> An Introduction to Splines for Use in Computer Graphics and Geometric Modeling. </title> <address> San Francisco: </address> <publisher> Morgan Kaufmann Publishers Inc., </publisher> <year> 1987. </year>
+Reference: [20] <author> Cohen E, </author> <title> Lyche T, Riesenfeld RF. Discrete B-splines and subdivision techniques in computer-aided geometric design and computer graphics. </title> <booktitle> Comp Graph Image Proc 1980; 14(2) </booktitle> <pages> 87-111. </pages>
+Reference: [21] <author> Halstead MA, Barsky BA, Klein SA, Mandell RB. </author> <title> Geometric modeling of the cornea using videokeratography. </title> <editor> In: Daelhen M, Lyche T, Schumaker LL, eds. </editor> <title> Mathematical Methods for Curves and Surfaces. Nashville: </title> <publisher> Vanderbilt University Press, </publisher> <year> 1995. </year>
+Reference: [22] <author> Klein SA, Halstead MA, Barsky BA, Mandell RB. </author> <title> Corneal topography for general surfaces. </title> <note> Invest Opthalmol Vis Sci 1994; 35 Suppl.:2079. </note>
+Reference: [23] <author> Gill PE, Murray W, Wright MH. </author> <title> Practical Optimization. </title> <address> San Diego: </address> <publisher> Academic Press, </publisher> <year> 1993. </year> <title> X X fi =0 =0 i j ij i i ij </title>
+References-found: 22
+

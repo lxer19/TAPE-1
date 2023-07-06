@@ -1,0 +1,19 @@
+URL: ftp://ftp.cim.mcgill.ca/pub/techrep/CIM-97-11.ps.gz
+Refering-URL: ftp://ftp.cim.mcgill.ca/pub/techrep/README.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: Robot Visualization System (RVS) User Manual  
+Author: C.J. Wu, J. Angeles, P. Montagnier 
+Address: Montreal, Quebec, Canada Postal Address: 3480 University Street, Montreal, Quebec, Canada H3A 2A7  
+Affiliation: Centre for Intelligent Machines (CIM) Department of Mechanical Engineering McGill University,  
+Pubnum: TR-CIM-97-11  
+Email: email: wuchu@cim.mcgill.ca  
+Phone: Telephone: (514) 398-8282 FAX: (514) 398-7348  
+Date: September, 1997  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> J. </author> <title> Angeles, Fundamentals of Robotic Mechanical Systems: Theory, Methods, and Algorithms, first ed., </title> <publisher> Springer-Verlag, </publisher> <year> 1997. </year>
+Reference-contexts: The ordering of the braces is important because it shows the location of the links between each other. The first link is defined first; then, the second link and so on. The notation to represent the DH parameters <ref> [1] </ref>, follows, a is the link length. b is the link offset. al (ff) is the link twist. th () is the joint angle. In addition, the joint limits can be provided.
+Reference: [2] <author> J. Angeles and J. Darcovich, </author> <title> The Animation of Vibration in Landing Gear Systems, first ed., </title> <type> Technical Report, </type> <institution> Dept. of Mechanical Engineering, Centre for Intelligent Machines, McGill University, </institution> <year> 1993. </year>
+Reference: [3] <author> J. J. Craig, </author> <title> Introduction to Robotics Mechanics & Control, second ed., </title> <publisher> Addison-Wesley, </publisher> <year> 1986. </year> <month> 43 </month>
+References-found: 3
+

@@ -1,0 +1,21 @@
+URL: http://www.cs.wustl.edu/~schmidt/RT-ORB-std.ps.gz
+Refering-URL: http://www.cs.wustl.edu/~schmidt/TAO-status.html
+Root-URL: http://www.cs.wustl.edu
+Title: Realtime CORBA  In collaboration with:  OMG Document Number orbos/98-01-08 Object-Oriented Concepts, Inc.  
+Author: Alcatel Tri-Pacific Humboldt-University 
+Date: January 19, 1998  
+Note: Version 1.0 Initial RFP Submission  
+Affiliation: Hewlett-Packard Company Lucent Technologies, Inc. Sun Microsystems, Inc.  France Telecom Mitre  Washington University Deutsche Telekom AG Motorola, Inc.  
+Abstract-found: 0
+Intro-found: 1
+Reference: <institution> In addition to documents referring to background information on OMGs Object Management Architecture, </institution> <note> the following documents are referenced in this document: </note>
+Reference: [1] <editor> [CORBA 2.1] The Common Object Request Br oker: </editor> <booktitle> Architecture and Specification, Revision 2.1, </booktitle> <month> August </month> <year> 1997. </year>
+Reference: [2] <institution> [ORB Portability] ORB Portability Joint Submission, </institution> <note> OMG Document orbos/97-05-15. </note>
+Reference: [3] <institution> [RFP Real Time] Realtime Request For Proposal, </institution> <note> OMG Document orbos/97-09-31. -5 Realtime CORBA Initial Submission orbos/98-01-08 January 1998 </note>
+Reference: [4] <author> [ODP Reference] ODP Reference Model: </author> <title> Architecture, ITU-T|ISO/IEC Recommendation X.903|International Standard 10746-3 </title>
+Reference: [5] <author> D. C. Schmidt, </author> <title> Acceptor and Connector: Design P atterns for Initializing Communication Services, in Pattern Languages of Program Design (R. </title> <editor> Martin, F. Buschmann, and D. Riehle, eds.), </editor> <address> Reading, MA: Addison-W esley, </address> <year> 1997. </year>
+Reference: [6] <author> D. C. Schmidt, </author> <title> Reactor: An Object Beha vioral Pattern for Concurrent Ev ent Demultiplexing and Ev ent Handler Dispatching, in Pattern Languages of Program Design (J. </title> <editor> O. Coplien and D. C. Schmidt, </editor> <booktitle> eds.), </booktitle> <pages> pp. 529545, </pages> <address> Reading, MA: </address> <publisher> Addison-Wesley, </publisher> <year> 1995. </year>
+Reference: [7] <author> [RT White P aper] Realtime CORBA White Paper, </author> <month> December </month> <year> 1996 </year>
+
+References-found: 8
+

@@ -1,0 +1,15 @@
+URL: ftp://www.cs.unm.edu/pub/cs_tech_reports/1995/CS95-6.ps.Z
+Refering-URL: http://www.cs.unm.edu/~patrik/
+Root-URL: http://www.cs.unm.edu
+Email: patrik@cs.unm.edu http://www.cs.unm.edu/~patrik  
+Title: A ChangeDetection Method Inspired by the Immune System: Theory, Algorithms and Techniques  
+Author: Patrik Dhaeseleer 
+Date: November 1, 1995  
+Address: Albuquerque, New Mexico, 87131  
+Affiliation: Department of Computer Science University of New Mexico  
+Pubnum: Technical Report No. CS95-6  
+Abstract: This report gives an overview of the tools developed for the changedetection method based on the immune system, introduced by Forrest et al. in [6] and [7]. Some general theoretical results are given. Consequences of the detector generating algorithms from [8] and [5] are examined and some preliminary results with these algorithms are analyzed. Finally, guidelines are given for choosing the various parameters of the matching rule when applying this method to a real data stream. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

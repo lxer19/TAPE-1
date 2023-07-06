@@ -1,0 +1,38 @@
+URL: ftp://dimacs.rutgers.edu/pub/dimacs/TechnicalReports/TechReports/1998/98-45.ps.gz
+Refering-URL: http://dimacs.rutgers.edu/TechnicalReports/1998.html
+Root-URL: http://www.cs.rutgers.edu
+Email: E-mail: feltz@math.niu.edu  
+Title: Goodness-of-Fit Tests on the Line and the Circle 1  
+Author: by Carol J. Feltz Gerald A. Goldin 
+Address: USA  New Jersey USA  60115, USA.  
+Affiliation: Northern Illinois University,  Rutgers University,  Division of Statistics, Northern Illinois University, DeKalb, IL  
+Note: Partition-Based  2 Address for correspondence:  DIMACS is a partnership of Rutgers University, Princeton University, AT&T Labs-Research, Bell Labs, Bellcore and NEC Research Institute. DIMACS is an NSF Science and Technology Center, funded under contract STC-91-19999; and also receives support from the New Jersey Commission on Science and Technology.  
+Abstract: DIMACS Technical Report 98-45 October 1998 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Ahmad, I. </author> <year> (1993). </year> <title> Modification of some goodness-of-fit statistics to yield asymptotically normal null distributions. </title> <journal> Biometrika 80, </journal> <pages> 466-472. </pages>
+Reference: <author> Ajne, B. </author> <year> (1968). </year> <title> A simple test for uniformity of a circular distribution. </title> <journal> Biometrika 55, </journal> <pages> 343-354. </pages>
+Reference: <author> Barr, D. R. and Shudde, R. H. </author> <year> (1973). </year> <title> A note on Kuiper's V n statistic. </title> <journal> Biometrika 60, </journal> <volume> 663. </volume>
+Reference: <author> Beran, R. J. </author> <year> (1968). </year> <title> Testing for uniformity on a compact homogeneous space. </title> <journal> Journal of Applied Probability 5, </journal> <pages> 177-195. </pages>
+Reference: <author> Beran, R. J. </author> <year> (1969). </year> <title> Asymptotic theory of a class of tests for uniformity of a circular distribution. </title> <journal> Ann. Math. </journal> <volume> Statist.40, </volume> <pages> 1196-1206. </pages>
+Reference: <author> Cressie, N. </author> <title> (1977) On some properties of the scan statistic on the circle and the line. </title>
+Reference: <author> J. </author> <title> Appl. </title> <journal> Prob. </journal> <volume> 14, </volume> <pages> 272-283. </pages>
+Reference: <author> Feltz, C. J. and Goldin, G. A. </author> <year> (1992). </year> <title> Generalization of the Kolmogorov-Smirnov goodness-of-fit test, using group invariance. Journal of Nonparametric Statistics 1, </title> <type> 357-370. DIMACS Tech. Report No. </type> <pages> 91-25. </pages>
+Reference-contexts: Our approach extends previous work generalizing the Kolmogorov-Smirnov (K-S) and Kuiper goodness-of-fit tests, suggesting additional, powerful tests that can be tailored to the known symmetries of a situation <ref> (Feltz and Goldin, 1992) </ref>. The result is also a conceptual unification of many seemingly disparate or ad hoc tests discussed in the literature. Finally, we explore the first few of the natural series of distribution-free tests following from our analysis, using numerical simulation. <p> Ahmad (1993) modified Watson's statistic (1.4), to obtain asymptotically normal null distributions. Our earlier work <ref> (Feltz and Goldin, 1992) </ref> included a series of consistent generalizations D (k) n of the K-S test on R 1 , which we called k-point tests (k = 1; 2; 3; : : :). - 4 - The case k = 1 is the K-S test (1.1), and the case k
+Reference: <author> Gine, E. M. </author> <year> (1975). </year> <title> Invariant tests for uniformity on compact Riemannian manifolds based on Sobolev norms. </title> <journal> Ann. </journal> <volume> Statist.3, </volume> <pages> 1243-1266. </pages>
+Reference: <author> Hermans, M. and Rasson, J. P. </author> <year> (1985). </year> <title> A new Sobolev test for uniformity on the circle. </title> <journal> Biometrika 72, </journal> <pages> 698-702. </pages>
+Reference: <author> Huffer, F. </author> <year> (1988). </year> <title> Some results concerning random arcs on the circle. </title> <journal> Journal of Applied Probability 25, </journal> <pages> 833-838. </pages> - <note> 12 - Kokic, </note> <author> P. N. </author> <year> (1987). </year> <title> On tests of uniformity for randomly distributed arcs on a circle. </title> <journal> Australian Journal of Statistics 29, </journal> <pages> 179-187. </pages>
+Reference: <author> Kuiper, N. H. </author> <year> (1960). </year> <title> Tests concerning random points on a circle. </title> <journal> Proc. Kon. Ned. Akad. van Wet. </journal> <volume> A 63, </volume> <pages> 38-47. </pages>
+Reference: <author> Prentice, M. J. </author> <year> (1978). </year> <title> On invariant tests of uniformity for directions and orientations. </title> <journal> Ann. </journal> <volume> Statist.6, </volume> <pages> 169-176. </pages>
+Reference: <author> Rao, J. S. </author> <year> (1976). </year> <title> Some tests based on arc-lengths for the circle. </title> <journal> Sankhya Ser. </journal> <volume> B 38, </volume> <pages> 329-338. </pages>
+Reference: <author> Rothman, E. D. </author> <year> (1972). </year> <title> Tests for uniformity of a circular distribution. </title> <journal> Sankhya Ser. </journal> <volume> A 34, </volume> <pages> 23-32. </pages>
+Reference: <author> Rukhin, A. L. </author> <year> (1972). </year> <title> Some statistical decisions about distributions on a circle for large samples. </title> <journal> Sankhya Ser. </journal> <volume> A 34, </volume> <pages> 243-250. </pages>
+Reference: <author> Stephens, M. A. </author> <year> (1963). </year> <title> The distribution of the goodness-of-fit statistic U 2 n , Biometrika 50, </title> <type> 303-313. </type>
+Reference: <author> Stephens, M. A. </author> <year> (1965). </year> <title> The goodness-of-fit statistic V N : distribution and signifi cance points, </title> <journal> Biometrika 52, </journal> <pages> 309-321. </pages>
+Reference: <author> Stephens, M. A. </author> <year> (1969). </year> <title> A goodness-of-fit statistic for the circle, with some compar isons, </title> <journal> Biometrika 56, </journal> <pages> 161-168. </pages>
+Reference: <author> Watson, G. S. </author> <year> (1961). </year> <title> Goodness-of-fit tests on a circle. </title> <journal> Biometrika 48, </journal> <pages> 109-114. </pages>
+Reference: <author> Watson, G. S. </author> <year> (1967a). </year> <title> Another test for the uniformity of a circular distribution. </title> <journal> Biometrika 54, </journal> <pages> 675-677. </pages>
+Reference: <author> Watson, G. S. </author> <year> (1967b). </year> <title> Some problems in the statistics of directions. </title> <journal> Bull. Int. Statist. Inst., </journal> <note> cited in Beran (1969). </note>
+
+References-found: 22
+

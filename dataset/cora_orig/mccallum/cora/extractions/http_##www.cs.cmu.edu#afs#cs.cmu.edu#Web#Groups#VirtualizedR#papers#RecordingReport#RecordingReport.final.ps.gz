@@ -1,0 +1,14 @@
+URL: http://www.cs.cmu.edu/afs/cs.cmu.edu/Web/Groups/VirtualizedR/papers/RecordingReport/RecordingReport.final.ps.gz
+Refering-URL: 
+Root-URL: 
+Title: Synchronous Capture of Image Sequences from Multiple Cameras  
+Author: P. J. Narayanan, Peter Rander, Takeo Kanade 
+Date: December 1995 1995  
+Address: Pittsburgh, Pennsylvania 15213  
+Affiliation: The Robotics Institute Carnegie Mellon University  Carnegie Mellon University  
+Pubnum: CMU-RI-TR-95-25  
+Abstract: Several applications today need to digitally capture every frame of a video stream or a camera. These range from psychological studies to surveillance to video processing. Some applications also need to capture the frames from multiple video streams synchronously and to correlate them with one another. A video stream of color data, though, represents a sustained bandwidth of about 26 Mbytes per second from the digitizing hardware to a secondary storage device without compression. This rate is well beyond the capabilities of most affordable systems today. We present a system that can synchronously capture every frame -- or any user-specified subset of them -- from multiple cameras at full resolution and store them on a regular secondary storage device. The outputs of the cameras are recorded on tape using conventional VCRs. The Vertical Interval Time Code (VITC) is inserted onto each stream before recording. Each tape is played back, repeatedly under computer control if necessary, off-line on an editing VCR to grab the frames using a commercial digitizer. The VITC data is used to directly identify the frames while the tape is played back. We believe this is the first system in the world that can capture every frame from multiple video streams synchronously, fully scalable in the number of streams and the duration of capture. Finally, the system is inexpensive, costing $500 per channel. We present the system, its components, and the process of verifying the capturing process. We then discuss a few computer vision research projects made feasible by such a system. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

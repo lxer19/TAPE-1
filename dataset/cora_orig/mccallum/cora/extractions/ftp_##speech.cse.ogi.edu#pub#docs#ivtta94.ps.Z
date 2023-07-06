@@ -1,0 +1,17 @@
+URL: ftp://speech.cse.ogi.edu/pub/docs/ivtta94.ps.Z
+Refering-URL: http://www.cse.ogi.edu/CSLU/publications/publications.html
+Root-URL: http://www.cse.ogi.edu
+Title: NOISE SUPPRESSION IN CELLULAR COMMUNICATIONS  
+Author: Hynek Hermansky, Eric A. Wan, and Carlos Avendano 
+Address: P.O. Box 91000, Portland, OR 97291  
+Affiliation: Oregon Graduate Institute of Science Technology Department of Electrical Engineering and Applied Physics  
+Abstract: FIR Wiener-like filters are applied to time trajectories of cubic-root compressed short-term power spectrum of noisy speech recorded over cellular communications. Informal listenings indicate that the technique brings a noticeable improvement in quality of noisy speech in the overlap-add analysis-synthesis system while not causing any significant degradation on clean speech. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> S.F. Boll: </author> <title> Suppression of acoustic noise in speech using spectral subtraction, </title> <journal> IEEE ASSP-27, </journal> <pages> pp. 113-120, </pages> <month> Apr. </month> <year> 1979. </year>
+Reference: [2] <author> H. Hermansky, N. Morgan, A. Bayya, and P. Kohn: </author> <title> Compensation for the effect of the communication channel in auditory-like analysis of speech (RASTA-PLP) Proc. </title> <booktitle> EUROSPEECH '91, </booktitle> <pages> pp. 1367-1370, </pages> <address> Genova, </address> <year> 1991. </year>
+Reference: [3] <author> H. G. Hirsch, P. Meyer, and H. Ruehl: </author> <title> Improved speech recognition using high-pass filtering of sub-band envelopes, </title> <booktitle> Proc. EUROSPEECH '91, </booktitle> <pages> pp. 413-416, </pages> <address> Genova, </address> <year> 1991. </year>
+Reference: [4] <author> H. Hermansky, N. Morgan, and H.G. Hirsch: </author> <title> Recognition of speech in additive and convolutional noise based on RASTA spectral processing, </title> <booktitle> Proc. ICASSP-93, </booktitle> <pages> pp. </pages> <address> II-83, II-86, </address> <year> 1993. </year>
+Reference: [5] <author> H. Hermansky, and N. Morgan: </author> <title> RASTA processing of speech, </title> <journal> IEEE Trans. </journal> <note> Speech and Audio , October 1994. </note>
+References-found: 5
+

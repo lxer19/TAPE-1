@@ -1,0 +1,23 @@
+URL: http://robotics.eecs.berkeley.edu/~clairet/liegroups.ps
+Refering-URL: http://robotics.eecs.berkeley.edu/~clairet/liegroups.html
+Root-URL: http://www.cs.berkeley.edu
+Title: Control of Systems on Lie Groups  
+Author: Claire Tomlin S. Sastry 
+Date: Fall, 1994  
+Address: Berkeley, 94720  
+Affiliation: Department of Electrical Engineering University of California,  
+Note: Notes for the Course EE290B, taught by Professor  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> M.L. Curtis. </author> <title> Matrix Groups. </title> <publisher> Springer-Verlag, </publisher> <year> 1979. </year>
+Reference-contexts: If X is a smooth vector field and r 2 R then rX is smooth, where rX (f) = r (X (f)). Definition 17 (Integral Curve) Let c : <ref> [0; 1] </ref> ! M be a curve on the differential manifold M , and let X be a smooth vector field on M. <p> We now discuss the conditions under which the exponential map is surjective onto the Lie group. Definition 20 (Path Connected) For any two points x and y of a topological space X, a path in X from x to y is a continuous map f : <ref> [0; 1] </ref> ! X such that f (0) = x and f (1) = y. <p> Proposition 11 If G is a path connected Lie group and H is a subgroup which contains an open neighbourhood U of e in G, then H = G. Proof: See Curtis <ref> [1] </ref>. We may thus conclude that if G is a path connected Lie group, then exp : L (G) ! G is surjective. If G is not path connected, exp (L (G)) is the identity component G 0 of G. <p> example. 3.1 Frenet-Serret Equations: A Control System on SE (3) In this section, arc-length parameterization of a curve describing the path of a rigid body in R 3 is used to derive the state equation of the motion of this left invariant system. 24 Consider a curve ff (s) : <ref> [0; 1] </ref> ! R 3 ; representing the motion of a rigid body in 3-space.
+Reference: [2] <author> V. Guillemin, A. Pollack. </author> <title> Differential Topology. </title> <publisher> Prentice-Hall, </publisher> <year> 1974. </year>
+Reference: [3] <author> J.R. Munkres. </author> <title> Topology, a first course. </title> <publisher> Prentice-Hall, </publisher> <year> 1975. </year> <month> 33 </month>
+Reference: [4] <author> R.M. Murray, Z.X. Li, S.S. Sastry. </author> <title> A Mathematical Introduction to Robotic Manipulation. </title> <publisher> CRC Press, </publisher> <year> 1994. </year>
+Reference: [5] <author> A. Sarti, G. Walsh, S.S. Sastry. </author> <booktitle> Steering left-invariant control systems on matrix Lie groups . Proceedings of the 1993 IEEE Conference on Decision and Control, </booktitle> <year> 1993. </year>
+Reference: [6] <author> M. Spivak. </author> <title> A Comprehensive Introduction to Differential Geometry, </title> <booktitle> Vol 1. </booktitle> <address> Publish or Perish, </address> <year> 1979. </year>
+Reference: [7] <author> V.S. Varadarajan. </author> <title> Lie Groups, Lie Algebras, and Their Representations. </title> <publisher> Prentice-Hall, </publisher> <year> 1974. </year>
+Reference: [8] <author> G. Walsh, A. Sarti, S.S. Sastry. </author> <booktitle> Algorithms for steering on the group of rotations . Proceedings of the 1993 IEEE Automatic Control Conference, </booktitle> <year> 1993. </year>
+Reference-contexts: The second chapter introduces control systems with left-invariant vector fields on matrix Lie groups. The examples are restricted to SO (3) and SE (3), although a section about the Wei-Norman formula discusses how one may deal with the higher dimension case. Some recent work by Walsh, Sarti, and Sastry <ref> [8] </ref> about steering algorithms on SO (3) is also described. 2 Mathematical Preliminaries This chapter describes some of the main topics in the mathematics of matrix Lie groups. <p> The simple structure of the group is exploited to solve for the control inputs directly, instead of using the Wei-Norman formula of the previous section to transform the problem. The algorithms and results are described in detail in the paper by Walsh, Sarti, and Sastry <ref> [8] </ref>. A satellite is a rigid body floating in space. There are rotors or momentum wheels attached to its body which create linearly independent momentum fields which rotate the satellite to any configuration in SO (3).
+References-found: 8
+

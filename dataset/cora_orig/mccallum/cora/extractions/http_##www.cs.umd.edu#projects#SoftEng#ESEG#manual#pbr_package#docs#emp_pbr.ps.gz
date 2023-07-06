@@ -1,0 +1,12 @@
+URL: http://www.cs.umd.edu/projects/SoftEng/ESEG/manual/pbr_package/docs/emp_pbr.ps.gz
+Refering-URL: http://www.cs.umd.edu/projects/SoftEng/ESEG/manual/pbr_package/node33.html
+Root-URL: 
+Email: 1  
+Title: The Empirical Investigation of Perspective-Based Reading  
+Author: Victor R. Basili Scott Green Oliver Laitenberger Filippo Lanubile Forrest Shull Sivert Srumgrd Marvin V. Zelkowitz 
+Keyword: perspective-based reading, reading technique, requirement specification, defect detection, experimental software engineering  
+Abstract: We consider reading techniques a fundamental means of achieving high quality software. Due to the lack of research in this area, we are experimenting with the application and comparison of various reading techniques. This paper deals with our experiences with a family of reading techniques known as Perspective-Based Reading (PBR), and its application to requirements documents. The goal of PBR is to provide operational scenarios where members of a review team read a document from a particular perspective, e.g., tester, developer, user. Our assumption is that the combination of different perspectives provides better coverage of the document, i.e., uncovers a wider range of defects, than the same number of readers using their usual technique. To test the effectiveness of PBR, we conducted a controlled experiment with professional software developers from the National Aeronautics and Space Administration / Goddard Space Flight Center (NASA/GSFC) Software Engineering Laboratory (SEL). The subjects read two types of documents, one generic in nature and the other from the NASA domain, using two reading techniques, a PBR technique and their usual technique. The results from these experiments, as well as the experimental design, are presented and analyzed. Teams applying PBR are shown to achieve significantly better coverage of documents than teams that do not apply PBR. We thoroughly discuss the threats to validity so that external replications can benefit from the lessons learned and improve the experimental design if the constraints are different from those posed by subjects borrowed from a development organization. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

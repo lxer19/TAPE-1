@@ -1,0 +1,21 @@
+URL: ftp://info.mcs.anl.gov/pub/tech_reports/reports/P350.ps.Z
+Refering-URL: http://www.mcs.anl.gov/publications/abstracts/abstracts93.htm
+Root-URL: http://www.mcs.anl.gov
+Title: Chapter 1 Deterministic Parallel Fortran  
+Author: K. Mani Chandy Ian Foster 
+Date: 1993  
+Address: Argonne, Ill.,  
+Affiliation: Mathematics and Computer Science Division, Argonne National Laboratory,  
+Note: Preprint MCS-P350-0193,  
+Abstract: We describe Fortran M, message-passing extensions to Fortran 77 that provide deterministic execution and information hiding while preserving desirable properties of message passing. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> K. M. Chandy and I. Foster, </author> <title> On communicating processes, </title> <type> Preprint MCS-P346-0193, </type> <institution> Mathematics and Computer Science Division, Argonne National Laboratory, Argonne, Ill., </institution> <year> 1993. </year>
+Reference-contexts: sum (i)) location (i) enddo end process computesum (N, B, sum) real B (N), sum intent (in) N,B intent (out) sum sum = 0.0 sum = sum + B (i) enddo end 5 Theoretical Foundations Fortran M is supported by a theory of parallel and sequential composition of communicating processes <ref> [1] </ref>.
+Reference: [2] <author> I. Foster, </author> <title> Fortran M as a language for building earth system models, </title> <booktitle> Preprint MCS-P345-0193, Argonne National Laboratory, and Proc. 5th ECMWF Workshop on Parallel Processing in Meteorology, ECMWF, </booktitle> <address> Reading, U.K., </address> <year> 1992. </year>
+Reference-contexts: Hence, Fortran M can be used as a general-purpose modular framework for building earth system models on parallel computers <ref> [2] </ref>. 4 Data Parallelism The basic paradigm underlying Fortran M is task parallelism: the parallel execution of (possibly dissimilar) tasks. However, Fortran M also provides some support for data-parallel computation. Programs can use data distribution statements to create distributed arrays. Semantically, distributed arrays are indistinguishable from nondistributed arrays.
+Reference: [3] <author> I. Foster and K. M. Chandy, </author> <title> Fortran M: A language for modular parallel programming, </title> <type> Preprint MCS-P237-0992, </type> <institution> Mathematics and Computer Science Division, Argonne National Laboratory, Argonne, Ill., </institution> <year> 1992. </year>
+Reference-contexts: It appears particularly useful for irregular and dynamic problems, and for multidisciplinary applications that may require coordination of multiple data-parallel computations. This paper provides an introduction to Fortran M. The reader is referred to <ref> [3] </ref> for a detailed language description, a discussion of compiler techniques, and a survey of related fl This work was supported by the National Science Foundation under Contract NSF CCR-8809615 and by the Office of Scientific Computing, U.S. <p> That is, the program is deterministic. This example is easily extended to incorporate parallel ocean and atmosphere models <ref> [3] </ref>. The atmosphere and ocean processes use process do-loops to create multiple subprocesses Deterministic Parallel Fortran 7 A T M O C N channel (ssti, ssto) channel (uvi, uvo) uviuvo ssti ssto Fig. 2.
+Reference: [4] <author> G. Fox, S. Hiranandani, K. Kennedy, C. Koelbel, U. Kremer, C. Tseng, and M. Wu, </author> <title> Fortran D language specification, </title> <type> Technical Report TR90-141, </type> <institution> Department of Computer Science, Rice University, Houston, Texas, </institution> <year> 1990. </year>
+References-found: 4
+

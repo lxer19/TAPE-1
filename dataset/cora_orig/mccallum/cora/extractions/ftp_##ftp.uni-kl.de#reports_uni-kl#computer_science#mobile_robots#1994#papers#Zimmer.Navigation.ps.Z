@@ -1,0 +1,17 @@
+URL: ftp://ftp.uni-kl.de/reports_uni-kl/computer_science/mobile_robots/1994/papers/Zimmer.Navigation.ps.Z
+Refering-URL: http://www.gmd.de/People/Uwe.Zimmer/Publications/Publications.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Email: email: uzimmer@informatik.uni-kl.de  
+Phone: Phone: 49 631 205 2624 Fax: 49 631 205 2803 Telex: 4 5627  
+Title: Navigation on Topologic Feature-Maps  
+Author: Uwe R. Zimmer, Cornelia Fischer Ewald von Puttkamer 
+Date: August 1-7, 1994  
+Address: 94, Fukuoka, Japan  67663 Kaiserslautern Germany  unikl d  
+Affiliation: IIZUKA  University of Kaiserslautern Computer Science Department Research Group Prof. E. v. Puttkamer  
+Abstract: Based on the idea of using topologic feature-maps instead of geometric environment maps in practical mobile robot tasks, we show an applicable way to navigate on such topologic maps. The main features regarding this kind of navigation are: handling of very inaccurate position (and orientation) information as well as implicit modelling of complex kinematics during an adaptation phase. Due to the lack of proper a-priori knowledge, a reinforcement based model is used for the translation of navigator commands to motor actions. Instead of employing a backpropagation network for the central associative memory module (attaching action-probabilities to sensor situations resp. navigator commands) a much faster dynamic cell structure system based on dynamic feature maps is shown. Standard graphsearch heuristics like A* are ap plied in the planning phase. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Benjamin J. Kuipers, Y. T. </author> <month> Byun </month>
+Reference-contexts: A related but symbol-oriented appr oach called Qualitative T opologic Maps is presented by Kuipers and Byun in <ref> [1] </ref>. The map from fi gure 2 represents a typical result of an exploration phase (in this case manual exploration).
+References-found: 1
+

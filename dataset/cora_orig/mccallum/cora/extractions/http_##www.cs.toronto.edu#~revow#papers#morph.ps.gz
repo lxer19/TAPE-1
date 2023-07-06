@@ -1,0 +1,27 @@
+URL: http://www.cs.toronto.edu/~revow/papers/morph.ps.gz
+Refering-URL: http://www.cs.toronto.edu/~revow/
+Root-URL: 
+Title: Honest assessments of automatic learning algorithm performance.  
+Author: Michael Revow 
+Date: February 12, 1998  
+Address: 112 Adelaide St. East, Toronto, ON., Canada. M5C 1K9.  
+Affiliation: Sciences and Engineering Research Council of Canada and the Institute for Robotics and Intelligent Systems.  Morphometrix,  1 Department of Computer Science, University of Toronto. 2 Morphometrix Technologies Inc.  
+Note: Ph.D. 1 Daniel Maclean Ph.D. 2 This research was funded by grants from the Natural  Address reprint requests to: D Maclean,  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> C Bishop. </author> <title> Neural networks for pattern recognition. </title> <address> New York, </address> <publisher> Oxford University Press, </publisher> <year> 1995. </year>
+Reference: [2] <author> L. Breiman. </author> <title> Bagging predictors. </title> <type> Technical Report 421, </type> <institution> Department of Statistics, University of California, </institution> <month> September </month> <year> 1994. </year>
+Reference: [3] <author> B. V. Dasarathy. </author> <title> Nearest neighbor Norms: NN Pattern classification techniques. </title> <publisher> Los Alamitos, </publisher> <address> Ca, </address> <publisher> IEEE Computer Society Press, </publisher> <year> 1991. </year>
+
+Reference: [5] <author> R. O. Duda and P. E. Hart. </author> <title> Pattern classification and scene analysis. </title> <address> New York, </address> <publisher> John Wiley & Sons, </publisher> <year> 1973. </year>
+Reference: [6] <author> B. Efron and R Tibshirani. </author> <title> Cross-validation and the bootstrap: Estimating the error rate of a prediction rule. </title> <type> Technical Report 176, </type> <institution> Division of Biostatistics. Stanford university. </institution> <note> http://utstat.toronto.edu/tibs/research.html, 1995. </note>
+Reference: [7] <author> B. Efron and R.J. Tibshirani. </author> <title> An introduction to the bootstrap. </title> <address> New York, </address> <publisher> Chapman and Hall, </publisher> <year> 1993. </year>
+Reference: [8] <author> J.H. Friedman. </author> <title> On bias, variance, 0/1 loss, and the curse-of-dimensionality. </title> <type> Technical report, </type> <institution> Department of statistics, Stanford university, </institution> <note> http://stat.stanford.edu/~jhf, 1996. </note>
+Reference: [9] <author> D.G. Lowe. </author> <title> Similarity metric earning for a variable-kernel classifier. </title> <booktitle> Neural computation, 1995; 7(1) </booktitle> <pages> 72-85. </pages>
+Reference: [10] <author> R.M. Neal. </author> <title> Bayesian learning for neural networks. </title> <address> New York, </address> <publisher> Springer-Verlag, </publisher> <year> 1996. </year>
+Reference: [11] <author> B. Palcic and C. MacAuley. </author> <title> In Compendium on the Computerized Cytology and Histology Laboratory, </title> <editor> GL Wied et al, editor, Chicago, </editor> <booktitle> Tutorials of Cytology, </booktitle> <year> 1994, </year> <pages> pages 157-165. </pages>
+Reference: [12] <author> L. Prechelt. </author> <title> Some notes on neural learning algorithm benchmarking. </title> <journal> Neurocomputing, 1995, </journal> <volume> 9(3) </volume> <pages> 343-347. </pages>
+Reference: [13] <author> C. E. Rasmussen, R. M. Neal, G. E. Hinton, D. van Camp, M. Revow, Z. Ghahramani, R. Kustra, and R. Tibshirani. </author> <note> The DELVE Manual. http://www.cs.toronto.edu/~delve. </note>
+Reference: [14] <author> B. D. Ripley. </author> <title> Pattern recognition and neural networks. Cambride, </title> <publisher> Camp-bridge university press, </publisher> <year> 1996. </year> <month> 20 </month>
+References-found: 13
+

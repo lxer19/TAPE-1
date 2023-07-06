@@ -1,0 +1,16 @@
+URL: ftp://coast.cs.purdue.edu/pub/doc/network/sessext.ps.Z
+Refering-URL: http://www.cs.purdue.edu/coast/archive/data/categ30.html
+Root-URL: http://www.cs.purdue.edu
+Title: The ``Session Tty'' Manager  
+Author: S.M. Bellovin ulysses!smb 
+Address: Murray Hill, NJ 07974  
+Affiliation: AT&T Bell Laboratories  
+Abstract: In many UNIX systems, it is possible for a program to retain access to the login terminal after the user has logged out. This poses obvious security risks and can also confuse the modem control signals. We solve this for System V by adding a layer of indirection known as the session tty driver. At login time, a session device is linked to the physical terminal. User programs have access to the session device only, and may not open the physical line. Upon logout or carrier drop, the link is severed. New login sessions are given new session devices, and are thus insulated from persistent processes. Use of session devices is controlled by a new system process known as the session manager; by means of suitable plumbing primitives, a ``reconnect after line drop'' facility can easily be implemented. 
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> Ritchie, </author> <title> D.M. ``A Stream Input-Output System''. </title> <journal> AT&T Bell Laboratories Technical Journal, </journal> <volume> vol. 63, no. 8, part 2 (October 1984), </volume> <pages> pp. 1897-1910. </pages>
+Reference-contexts: Again, depending on certain as-yet unresolved questions, use of tty lines for two-way traffic may become significantly cleaner and easier. The implementation discussed here is for System V Release 3, as it heavily relies on streams <ref> [1] </ref> and on several other unique features, such as multiplexor devices and clone devices. 2 Some features not in the standard system, such as a streams-based terminal line discipline, are also used.
+Reference: 2. <institution> DoD Computer Security Center. DoD Trusted Computer System Evaluation Criteria, </institution> <year> 1983, </year> <note> CSC-STD-001-83. - 16 - done with aps - 17 </note> - 
+Reference-contexts: Today, detecting logout is insufficient; the process using the drive may be running in the background. Sessions, however, persist until the last process is gone. Session-based ttys are also useful to B2-level secure UNIX systems <ref> [2] </ref> . Such systems require the existence of a trusted path a mechanism invoked by the user that will reliably connect that user to a trusted program.
+References-found: 2
+

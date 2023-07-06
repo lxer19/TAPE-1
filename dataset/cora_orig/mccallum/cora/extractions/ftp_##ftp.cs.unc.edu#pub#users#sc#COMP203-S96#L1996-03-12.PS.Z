@@ -1,0 +1,11 @@
+URL: ftp://ftp.cs.unc.edu/pub/users/sc/COMP203-S96/L1996-03-12.PS.Z
+Refering-URL: http://www.cs.unc.edu/~sc/teaching/COMP203-S1996/lectures.html
+Root-URL: http://www.cs.unc.edu
+Title: COMP 203 Parallel and Distributed Computing Class Notes for March 12, 1996 Topics: 1. DAG
+Author: Chun-Fa Chang Kyle Wilson b. 
+Note: (1) Program inputs are represented by  or equal to 2; operations are allowed at most two operands.  
+Abstract: Data flow in a parallel computation can be represented as a Directed Acyclic Graph (DAG), in which vertices represent data and program operations, and edges represent the passing of data to another operation. The DAG thus specifies operations and precedence constraints on operations. (It merely defines a partial order, rather than a total order, on the set of necessary operations, however.) Many different DAGs can produce the same results from the same inputs. Consider the following two examples for the summation of 8 elements. The left DAG has linear running time and the right one has logarithmic running time. The construction of a DAG can be either static or dynamic. In the static case, the flow of data is in no way determined by the data itself. The DAG represents a basic block of code. In the dynamic case, conditionals or function calls are allowed, reshaping the graph at runtime. We will consider the static case for some DAG G = (V,E). The rules for the DAG model are as follows: 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

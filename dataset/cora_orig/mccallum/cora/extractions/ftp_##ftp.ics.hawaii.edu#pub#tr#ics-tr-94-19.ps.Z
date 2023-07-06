@@ -1,0 +1,24 @@
+URL: ftp://ftp.ics.hawaii.edu/pub/tr/ics-tr-94-19.ps.Z
+Refering-URL: ftp://ftp.ics.hawaii.edu/pub/tr/INDEX.html
+Root-URL: 
+Email: Chin@Hawaii.Edu  matt@uhunix.uhcc.hawaii.edu  
+Title: Understanding Location Descriptions in the LEI System  
+Author: David N. Chin Matthew McGranaghan Tung-Tse Chen 
+Keyword: ous descriptions.  
+Address: 2565 The Mall Honolulu, HI 96822  2424 Maile Way, Porteus Hall 445 Honolulu, HI 96822  2565 The Mall Honolulu, HI 96822  
+Affiliation: Dept. of Info. Computer Sciences University of Hawaii  Dept. of Geography University of Hawaii  Dept. of Info. Computer Sciences University of Hawaii  
+Abstract: Biological specimens have historically been labeled with English descriptions of the location of collection. To perform spatial, statistical, or historic studies, these descriptions must be converted into geodetic coordinates. A study of the sublanguage used in the descriptions shows much less frequent than typical usage of observer-relative relations such as left of, but shows problems with name ambiguity, finding the referents of generic terms like the stream, ordinal numbering of river forks and valley branches, object-oriented prepositions (behind), fuzzy boundaries (how close is at, how far is still north of), etc. The LEI system implements a semi-automated understanding of such location descriptions. Com- ponents of LEI include a language analyzer, a geographical reasoner, an object-oriented geographic knowledge base derived from US Geo- logical Survey digital maps with user input, and a graphical user interface. LEI parses prepositional phrases into spatial relations, converts these into areas, then computes polygon overlays to find the intersection, and returns the minimum bounding rectangle. The user is consulted on unknown words/phrases and ambigu 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Andre, E., G. Bosch, G. Herzog, and T. </author> <title> Rist (1986). Coping with the Intrinsic and Deictic Uses of Spatial Prepositions. </title> <editor> In Ph. Jorrand and V. Sgureg (Eds.), </editor> <booktitle> Artificial Intelligence II, Proceedings of AIMSA-86, </booktitle> <pages> pp. 375-382. </pages>
+Reference: <author> Chin, D. N. </author> <year> (1992). </year> <title> PAU: Parsing and Understanding with Uniform Syntactic, Semantic, and Idiomatic Representations. </title> <booktitle> In Computational Intelligence, </booktitle> <volume> 8(3), </volume> <pages> pp. 456-476. </pages>
+Reference: <author> Davis, E. </author> <year> (1986). </year> <title> Representing and Acquiring Geographic Knowledge. </title> <publisher> Morgan Kaufman, </publisher> <address> Los Altos, CA. </address>
+Reference: <author> Frank, A. </author> <year> (1991). </year> <title> Qualitative Reasoning about Cardinal Directions. </title> <editor> In D. Mark and D. White (Eds), </editor> <booktitle> Proceedings of Autocarto 10, </booktitle> <pages> pp. 148-167. </pages>
+Reference: <author> Freeman, J. </author> <year> (1975). </year> <title> The Modeling of Spatial Relations. </title> <booktitle> In Computer Graphics and Image Processing, </booktitle> <volume> 4, </volume> <pages> pp. 156-171. </pages>
+Reference: <author> Herskovits, A. </author> <year> (1986). </year> <title> Language and Spatial Cognition. </title> <publisher> Cambridge University Press, </publisher> <address> Cambridge. </address> <note> 6 Kuipers, </note> <author> B. J. </author> <year> (1985). </year> <title> Modeling Human Knowledge of Routes: Partial Knowledge and Individual Variation. </title> <booktitle> In the Proceedings of the Third National Conference on Artificial Intelligence, </booktitle> <pages> pp. 216-219. </pages>
+Reference: <author> Mark, </author> <title> D.M. and A.U. Frank (1991). (Eds.), Cognitive and Linguistic Aspects of Geographic Space, </title> <publisher> Klewer Academic Publishers, </publisher> <address> Boston. </address>
+Reference: <author> Peuquet, D. and Z. </author> <month> Ci-Xiang </month> <year> (1987). </year> <title> An Algorithm to Determine the Directional Relationship between Arbitrarily-Shaped Polygons in the Plane. </title> <booktitle> In Pattern Recognition 20(1), </booktitle> <pages> pp. 65-74. </pages>
+Reference: <author> Takeda K., D. N. Chin, and I. </author> <title> Miyamoto (1992). MERA: Meta Language for Software Engineering. </title> <booktitle> In the Proceedings of the 4th International Conference on Software Engineering and Knowledge Engineering, </booktitle> <address> Capri, Italy, </address> <month> June, </month> <pages> pp. 495-502. </pages>
+Reference: <author> Talmy, L. </author> <year> (1983). </year> <title> How Language Structures Space. </title> <editor> In H. Pick and L. Acredolo, Eds., </editor> <title> Spatial Orientation: Theory, Research, </title> <publisher> and Application Plenum Press, </publisher> <address> New York, </address> <pages> pp. 225-282. 7 </pages>
+References-found: 10
+

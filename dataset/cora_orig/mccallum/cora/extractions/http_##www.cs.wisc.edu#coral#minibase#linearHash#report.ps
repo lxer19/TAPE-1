@@ -1,0 +1,20 @@
+URL: http://www.cs.wisc.edu/coral/minibase/linearHash/report.ps
+Refering-URL: http://www.cs.wisc.edu/coral/minibase/linearHash/
+Root-URL: http://www.cs.wisc.edu
+Email: whuang@cs.wisc.edu  
+Author: Huang 
+Date: May 12, 1995  
+Address: Madison, WI 73706  
+Affiliation: Computer Sciences Department University of Wisconsin  
+Note: Weiqing  
+Abstract: CS764 Project Report Linear Hashing in MINIREL 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Litwin, W. </author> <title> Linear Hashing : A New Tool for File and Table Addressing. </title> <booktitle> IEEE 1980. </booktitle>
+Reference: [2] <author> Larson, P.-A. </author> <title> Linear Hashing with Separators ADynamic Hashing Scheme Achieving One-Access Retrieval. </title> <journal> ACM Transactions on Database Systems, </journal> <volume> Vol. 13, No. 3. </volume> <month> September </month> <year> 1988. </year>
+Reference: [3] <author> Ramakrishnan, R. </author> <title> Relational Databases: </title> <booktitle> Design and Implementation. Course Notes of CS564. Chapter 4. </booktitle> <month> Nov. </month> <year> 1994. </year>
+Reference-contexts: I tested the performance and found out that 40% of the pages are overflow pages. This means on average, a record access needs 1.2 disk I/O. The result is the same as that in <ref> [3] </ref>. However, we could also try to use the overall capacity of the index as the trigger condition. I wish I had time to implement this.
+Reference: [4] <author> Mohan,C. ARIES/LHS: </author> <title> A Concurrency Control and Recovery Method Using Write-Ahead Logging for Linear Hashing with Separators. </title> <institution> IBM Research Report, IBM Almaden Research Center. </institution> <month> Nov. </month> <year> 1990. </year> <month> 12 </month>
+Reference-contexts: Concurrency control and recovery are also supported and because of the special structure of the index, some techniques have been used to improve the concurrency. <ref> [4] </ref> Our component is dependent on several other components in MINIREL including Buffer Manager, Space Manager, Lock Manager and Recovery Manager.
+References-found: 4
+

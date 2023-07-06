@@ -1,0 +1,33 @@
+URL: http://http.cs.berkeley.edu/~asah/papers/other/to-read/CU-CS-603-92.ps.gz
+Refering-URL: http://http.cs.berkeley.edu/~asah/papers/other/to-read/
+Root-URL: http://www.cs.berkeley.edu
+Title: Evaluating Models of Memory Allocation  
+Author: Benjamin Zorn Dirk Grunwald 
+Date: July 1992  
+Address: Campus Box #430  Boulder 80309-0430  Boulder  
+Affiliation: Department of Computer Science  University of Colorado,  ffi University of Colorado at  
+Pubnum: CU-CS-603-92  
+Abstract: Technical Report CU-CS-603-92 Department of Computer Science Campus Box 430 University of Colorado Boulder, Colorado 80309 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Thomas Ball and James R. Larus. </author> <title> Optimally profiling and tracing programs. </title> <booktitle> In Conference Record of the Nineteenth ACM Symposium on Principles of Programming Languages, </booktitle> <pages> pages 59-70, </pages> <month> January </month> <year> 1992. </year>
+Reference: [2] <author> L. A. Belady. </author> <title> A study of replacement algorithms for virtual storage computers. </title> <journal> IBM Systems Journal, </journal> <volume> 5(2) </volume> <pages> 78-101, </pages> <year> 1966. </year>
+Reference: [3] <author> G. Bozman, W. Buco, T. P. Daly, and W. H. </author> <title> Tetzlaff. </title> <journal> Analysis of free-storage algorithms|revisited. IBM Systems Journal, </journal> <volume> 23(1) </volume> <pages> 44-64, </pages> <year> 1984. </year>
+Reference: [4] <author> Gerald Bozman. </author> <title> The software lookasize buffer reduces search overhead with linked lists. </title> <journal> Communications of the ACM, </journal> <volume> 27(3) </volume> <pages> 222-227, </pages> <month> March </month> <year> 1984. </year>
+Reference: [5] <author> R. P. Brent. </author> <title> Efficient implementation of a first-fit strategy for dynamic storage allocation. </title> <journal> ACM Transactions on Programming Languages and Systems, </journal> <volume> 11(3) </volume> <pages> 388-403, </pages> <month> July </month> <year> 1989. </year>
+Reference: [6] <author> Raj Jain. </author> <title> The Art of Computer Systems Performance Evaluation. </title> <publisher> Wiley Professional Computing. John Wiley and Sons, Inc., </publisher> <address> New York, </address> <year> 1991. </year> <month> 25 </month>
+Reference: [7] <author> Raj Jain and Imrich Chlamtac. </author> <title> The P^2 algorithm for dynamic calculation of quantiles and his-tograms without storing observations. </title> <journal> Communications of the ACM, </journal> <volume> 28(10) </volume> <pages> 1076-1085, </pages> <month> October </month> <year> 1985. </year>
+Reference-contexts: We conclude that the introduction of the variance in these models results in less accurate models. 5.4.2 Approximations of the CDF While we considered the actual CDF and found it to be our most accurate model, we also considered using Jain's piecewise parabolic algorithm <ref> [7] </ref> to approximate the actual CDF.
+Reference: [8] <author> Chris Kingsley. </author> <title> Description of a very fast storage allocator. Documentation of 4.2 BSD Unix malloc implementation, </title> <month> February </month> <year> 1982. </year>
+Reference: [9] <author> Donald E. Knuth. </author> <title> Fundamental Algorithms, </title> <booktitle> volume 1 of The Art of Computer Programming, chapter 2, </booktitle> <pages> pages 435-451. </pages> <publisher> Addison Wesley, </publisher> <address> Reading, MA, 2nd edition, </address> <year> 1973. </year>
+Reference: [10] <author> David G. Korn and Kiem-Phong Vo. </author> <title> In search of a better malloc. </title> <booktitle> In Proceedings of the Summer 1985 USENIX Conference, </booktitle> <pages> pages 489-506, </pages> <year> 1985. </year>
+Reference: [11] <author> James R. Larus. </author> <title> Abstract execution: A technique for efficiently tracing programs. </title> <journal> Software| Practice and Experience, </journal> 20(12) 1241-1258, December 1990. 
+Reference: [12] <author> B. H. Margolin, R. P. Parmelee, and M. Schatzoff. </author> <title> Analysis of free-storage algorithms. </title> <journal> IBM Systems Journal, </journal> <volume> 10(4) </volume> <pages> 283-304, </pages> <year> 1971. </year>
+Reference: [13] <author> R. L. Mattson, J. Gecsei, D. R. Slutz, and I. L. Traiger. </author> <title> Evaluation techniques for storage hierarchies. </title> <journal> IBM Systems Journal, </journal> <volume> 9(2) </volume> <pages> 78-117, </pages> <year> 1970. </year>
+Reference: [14] <author> Rodney R. Oldehoeft and Stephen J. Allan. </author> <title> Adaptive exact-fit storage management. </title> <journal> Communications of the ACM, </journal> <volume> 28(5) </volume> <pages> 506-511, </pages> <month> May </month> <year> 1985. </year>
+Reference: [15] <author> Alan Jay Smith. </author> <title> Cache memories. </title> <journal> ACM Computing Surveys, </journal> <volume> 14(3) </volume> <pages> 473-530, </pages> <month> September </month> <year> 1982. </year>
+Reference: [16] <author> Paul R. Wilson, Michael S. Lam, and Thomas G. Moher. </author> <title> Caching considerations for generation garbage collection: a case for large and set associative caches. </title> <type> Technical Report UIC-EECS-90-5, </type> <institution> Software Systems Lab, University of Illinois at Chicago, Chicago, IL, </institution> <month> December 90. </month>
+Reference: [17] <author> Benjamin Zorn and Dirk Grunwald. </author> <title> Empirical measurements of six allocation-intensive C programs. </title> <type> Technical Report CS-CS-604-92, </type> <institution> Department of Computer Science, University of Colorado, Boulder, Boulder, CO, </institution> <month> July </month> <year> 1992. </year>
+Reference: [18] <author> Benjamin G. Zorn. </author> <title> The effect of garbage collection on cache performance. </title> <type> Technical Report CU-CS-528-91, </type> <institution> Department of Computer Science, University of Colorado, Boulder, Boulder, CO, </institution> <month> May </month> <year> 1991. </year>
+References-found: 18
+

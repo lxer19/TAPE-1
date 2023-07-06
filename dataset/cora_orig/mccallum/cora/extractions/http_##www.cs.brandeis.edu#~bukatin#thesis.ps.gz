@@ -1,0 +1,15 @@
+URL: http://www.cs.brandeis.edu/~bukatin/thesis.ps.gz
+Refering-URL: http://www.cs.brandeis.edu/~bukatin/papers.html
+Root-URL: http://www.cs.brandeis.edu
+Title: Mathematics of Domains A Dissertation Preliminary Draft  
+Author: by Michael A. Bukatin 
+Note: Draft Vesrion of February 19, 1998 not public yet  
+Abstract-found: 0
+Intro-found: 1
+Reference: <institution> 27 Bibliography </institution>
+Reference: [1] <author> A. Edalat. </author> <title> Domain theory and integration. </title> <booktitle> Theoretical Computer Science, 151 (1995), </booktitle> <pages> 163-193. </pages>
+Reference: [2] <author> A. Edalat. </author> <title> Domains for Computation in Mathematics, Physics and Exact Real Arithmetics. </title> <note> To appear in ... Available via URL http://theory.doc.ic.ac.uk/papers/Edalat/survey.ps.Z </note>
+Reference: [3] <author> J. E. Stoy. </author> <title> Denotational Semantics: The Scott-Strachey Approach to Programming Language Semantics. </title> <publisher> MIT Press, </publisher> <address> Cambridge, Massachusetts, </address> <year> 1977. </year>
+Reference: [4] <author> K. R. Wagner. </author> <title> Solving Recursive Domain Equations with Enriched Categories. </title> <type> PhD Thesis, </type> <institution> School of Computer Science, Carnegie Mellon University, Pittsburg, </institution> <year> 1994. </year> <note> Available via URL ftp://reports.adm.cs.cmu.edu/usr/anon/1994/CMU-CS-94-159.ps 28 </note>
+References-found: 5
+

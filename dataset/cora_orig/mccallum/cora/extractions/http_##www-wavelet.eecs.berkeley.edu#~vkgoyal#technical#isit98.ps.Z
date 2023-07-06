@@ -1,0 +1,19 @@
+URL: http://www-wavelet.eecs.berkeley.edu/~vkgoyal/technical/isit98.ps.Z
+Refering-URL: http://www-wavelet.eecs.berkeley.edu/~vkgoyal/technical/isit98.html
+Root-URL: 
+Email: v.goyal@ieee.org  jelena@bell-labs.com  Martin.Vetterli@de.epfl.ch  
+Title: Multiple Description Transform Coding: Robustness to Erasures Using Tight Frame Expansions  
+Author: Vivek K Goyal Jelena Kovacevic Martin Vetterli 
+Date: August 16 August 21  
+Address: 1998, Cambridge, MA, USA,  Berkeley, CA 94720  Murray Hill, NJ 07974  Berkeley, CA 94720  
+Affiliation: ISIT  University of California, Berkeley  Bell Laboratories  University of California, Berkeley  
+Abstract: We propose the use of a tight frame expansion for generalized multiple description coding. This method is conceptually very similar to using a block channel code, except it is done on continuous-valued data prior to quantization. A sketch of the distortion analysis is given. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> V. A. Vaishampayan. </author> <title> Design of multiple description scalar quantizers. </title> <journal> IEEE Trans. Inform. Th., </journal> <volume> 39(3) </volume> <pages> 821-834, </pages> <year> 1993. </year>
+Reference: [2] <author> M. T. Orchard et al. </author> <title> Redundancy rate-distortion analysis of multiple description coding using pairwise correlating transforms. </title> <booktitle> In Proc. IEEE Int. Conf. on Image Proc., </booktitle> <month> Oct. </month> <year> 1997. </year>
+Reference: [3] <author> V. K. Goyal and J. Kovacevic. </author> <title> Optimal multiple description transform coding of Gaussian vectors. </title> <booktitle> In Proc. IEEE Data Compr. Conf., </booktitle> <pages> pp. 388-397, </pages> <month> Mar. </month> <year> 1998. </year>
+Reference: [4] <author> I. Daubechies, </author> <title> Ten Lectures on Wavelets, </title> <publisher> SIAM, </publisher> <year> 1992. </year>
+Reference: [5] <author> V. K. Goyal, M. Vetterli, and N. T. Thao. </author> <title> Quantized over-complete expansions in R n : Analysis, synthesis and algorithms. </title> <journal> IEEE Trans. Inform. Th., </journal> <volume> 44(1) </volume> <pages> 16-31, </pages> <year> 1998. </year> <title> 1 Extensions to where 0 is not a frame are suggested by [3]. 2 Better reconstructions are possible when the boundedness of the quantization error is exploited [5]. </title>
+References-found: 5
+

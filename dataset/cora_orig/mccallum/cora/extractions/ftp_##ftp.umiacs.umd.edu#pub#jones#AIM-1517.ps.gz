@@ -1,0 +1,19 @@
+URL: ftp://ftp.umiacs.umd.edu/pub/jones/AIM-1517.ps.gz
+Refering-URL: http://www.umiacs.umd.edu/users/jones/aiMemoAbs.html
+Root-URL: 
+Title: Verb Classes and Alternations in Bangla, German, English, and Korean  
+Author: Douglas A. Jones, Robert C. Berwick, Franklin Cho, Zeeshan Khan, Karen T. Kohl, Naoyuki Nomura, Anand Radhakrishnan, Ulrich Sauerland, and Brian Ulicny 
+Note: Copyright c Massachusetts Institute of Technology, 1994  
+Date: 1517 August 31,1994  137  
+Affiliation: MASSACHUSETTS INSTITUTE OF TECHNOLOGY CENTER FOR BIOLOGICAL AND COMPUTATIONAL LEARNING and the ARTIFICIAL INTELLIGENCE LABORATORY  
+Pubnum: A.I. Memo No.  CBCL Memo No.  
+Abstract: In this report, we investigate the relationship between the semantic and syntactic properties of verbs. Our work is based on the English Verb Classes and Alternations of (Levin, 1993). We explore how these classes are manifested in other languages, in particular, in Bangla, German, and Korean. Our report includes a survey and classification of several hundred verbs from these languages into the cross-linguistic equivalents of Levin's classes. We also explore ways in which our findings may be used to enhance WordNet in two ways: making the English syntactic information of WordNet more fine-grained, and making WordNet multilingual. This report describes research done at the Artificial Intelligence Laboratory of the Massachusetts Institute of Technology. This research is supported by NSF grant 9217041-ASC and ARPA under the HPCC program, as well as by a generous grant from the NEC Corporation. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Katz, Boris, & Beth Levin. </author> <year> 1988. </year> <title> "Exploiting lexical regularities in designing natural language systems". </title> <type> AI Memo 1041, </type> <institution> Massachusetts Institute of Technology Artificial Intelligence Laboratory, </institution> <address> Cambridge. </address>
+Reference: <author> Levin, Beth (ed.) </author> <year> 1985. </year> <title> Lexical Semantics in Review . Number 1 in Lexicon Working Papers. </title> <publisher> Cambridge: MIT. </publisher>
+Reference: <author> Levin, Beth. </author> <year> 1993. </year> <title> English Verb Classes and Alternations: A Preliminary Investigation. </title> <publisher> Chicago: University of Chicago Press. </publisher>
+Reference: <author> Miller, G. </author> <year> 1985. </year> <title> WORDNET: A Dictionary Browser. </title> <booktitle> In Proceedings of the First International Conference on Information in Data, </booktitle> <institution> University of Waterloo Centre for the New OED, Waterloo, </institution> <address> Ontario. </address>
+
+References-found: 4
+

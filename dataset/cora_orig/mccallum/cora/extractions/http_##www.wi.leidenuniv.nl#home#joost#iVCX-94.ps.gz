@@ -1,0 +1,21 @@
+URL: http://www.wi.leidenuniv.nl/home/joost/iVCX-94.ps.gz
+Refering-URL: http://www.wi.leidenuniv.nl/home/joost/
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: Figure 1: The architecture of a Kohonen network. Each input neuron is fully connected with
+Author: L(), L(), L i L i L ii L ij L ji and L i L ij L j ; 
+Date: 2; 4; 8.  2; 2.  
+Pubnum: L(0), L(1), L(2), L(4), and L(8).  1;  L(0), L(1), L(2), L(4), L(8) and L(16).  L(0), L(1), L(2), L(4), L(8) and L(16).  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> J.J. Koenderink and A.J van Doorn. </author> <title> The structure of images. </title> <journal> Biological Cybernetics, </journal> <volume> 50 </volume> <pages> 363-370, </pages> <year> 1984. </year>
+Reference: [2] <author> J.J. Koenderink and A.J van Doorn. </author> <title> Receptive field families. </title> <journal> Biological Cybernetics, </journal> <volume> 63 </volume> <pages> 291-297, </pages> <year> 1990. </year>
+Reference: [3] <author> L. M. J. Florack, B. M. ter Haar Romeny, J. J. Koenderink, and M. A. Viergever. </author> <title> Scale and the differential structure of images. </title> <journal> Image and Vision Computing, </journal> <volume> 10(6) </volume> <pages> 376-388, </pages> <note> July/August 1992. Special Issue: Information Processing in Medical Imaging. </note>
+Reference: [4] <author> B.M. ter Haar Romeny, L.M.J. Florack, J.J. Koenderink, and M.A. Viergever. </author> <title> Scale-space: its Natural Operators and Differential Invariants, </title> <booktitle> volume 511 of Lecture Notes in Computer Science, </booktitle> <pages> pages 239-255. </pages> <publisher> Springer-Verlag, </publisher> <year> 1991. </year>
+Reference: [5] <author> L.C. Baxter and J.M. Coggins. </author> <title> Supervized pixel classification using a feature space derived from an artificial visual system. </title> <type> Technical report, </type> <institution> University of North Car-olina, Department of Computer Science, </institution> <year> 1991. </year>
+Reference: [6] <author> T. Kohonen. </author> <title> Self-Organization and Associative Memory. </title> <publisher> Springer-Verlag, </publisher> <year> 1984. </year>
+Reference: [7] <author> H. Bertsch. </author> <title> Die selbstlernende topologische Merkmalskarte zur Bildsegmentierung und Klassifikation. </title> <type> Technical report, </type> <institution> Deutsches Krebsforschungszentrum Heidelberg, Abteilung Medizinische und Biologische Informatik, </institution> <year> 1988. </year>
+Reference: [8] <author> R. Hecht Nielsen. </author> <title> Neurocomputing. </title> <publisher> Addison-Wesley, </publisher> <year> 1990. </year>
+Reference: [9] <author> J. Hertz, A. Krogh, and R.G. Palmer. </author> <title> Introduction to the Theory of Neural Computation. </title> <publisher> Addison-Wesley, </publisher> <year> 1991. </year>
+
+References-found: 9
+

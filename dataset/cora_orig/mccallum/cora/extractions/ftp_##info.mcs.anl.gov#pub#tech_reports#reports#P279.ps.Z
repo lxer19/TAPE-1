@@ -1,0 +1,37 @@
+URL: ftp://info.mcs.anl.gov/pub/tech_reports/reports/P279.ps.Z
+Refering-URL: http://www.mcs.anl.gov/publications/abstracts/abstracts92.htm
+Root-URL: http://www.mcs.anl.gov
+Title: A Dirichlet Problem with Infinite Multiplicity  
+Author: Man Kam Kwong 
+Keyword: Key Words and Phrases. Nonlinear boundary value problems, semilinear elliptic equations, Dirichlet problems, multiplic ity of solutions.  
+Web: 35J25.  
+Note: Dedicated to Professor V. Lakshmitkantham on his 65th birthday AMS(MOS) Subject Classification. Primary 34B15. Secondary  This work was supported by the Applied Mathematical Sciences subprogram of the Office of Energy Research, U.S. Department of Energy, under Contract W-31-109-Eng-38.  
+Address: Argonne, IL 60439-4801  
+Affiliation: Mathematics and Computer Science Division Argonne National Laboratory  
+Abstract: We construct examples of strictly convex functions f on (1; 1) satisfying f 0 (1) &lt; n 2 &lt; f 0 (1) such that the Dirichlet problem u 00 + f(u) = h(x) in [0; ], u(0) = u() = 0, has an infinite number of solutions, for any choice of h(x). Kaper and Kwong earlier have presented examples with five solutions to settle a conjecture raised by Lazer and McKenna. Here, we also give a sufficient condition for the number of solutions to be finite. Bounds for the number of solutions of a Dirichlet problem are of interest in the study of boundary value problems of semilinear elliptic equations. 
+Abstract-found: 1
+Intro-found: 0
+Reference: [1] <author> Ambrosetti, A., and Prodi, G., </author> <title> On the inversion of some differentiable mappings with singularities between Banach spaces, </title> <journal> Ann. Math. Pura Appl., </journal> <volume> 93 (1973), </volume> <pages> 231-247. </pages>
+Reference: [2] <author> Chen, Chiun-Chuan, and Lin, Chang-Shou, </author> <title> Uniqueness of the ground state solution of u + f (u) = 0 in R n ; n 3 (to appear in Comm. Partial Diff. </title> <publisher> Eq.). </publisher>
+Reference: [3] <author> Chen, C. N., </author> <title> Multiple solutions for a class of nonlinear Sturm-Liouville problems on the halfline, </title> <journal> J. Diff. Eq., </journal> <volume> 85 (1990), </volume> <pages> 236-275. </pages>
+Reference: [4] <author> Chen, C. N., </author> <title> Uniqueness and bifurcation for solutions of nonlinear Sturm-Liouville eigenvalue problems (to appear in Arch. Rational Mech. </title> <publisher> Anal.). </publisher>
+Reference: [5] <author> Coffman, C. V., </author> <title> On the positive solutions of boundary value problems for a class of nonlinear differential equations, </title> <journal> J. Diff. Eq., </journal> <volume> 3 (1967), </volume> <pages> 92-111. </pages>
+Reference: [6] <author> Clemons, C. B., </author> <title> Uniqueness results for semilinear elliptic equations, </title> <type> Ph.D. dissertation, </type> <institution> University of Maryland, </institution> <year> 1990. </year>
+Reference: [7] <author> Clemons, C. B., and Jones, C. K. R. T., </author> <note> A geometric proof of the Kwong-McLeod uniqueness result (to appear in SIAM J. Math. Anal.). </note>
+Reference: [8] <author> Dancer, E. N., </author> <title> The effect of domain shape on the number of positive solutions of certain nonlinear equations, </title> <journal> J. Diff. Eq., </journal> <volume> 74 (1988), </volume> <pages> 120-156. </pages>
+Reference: [9] <author> Dolph, C. L., </author> <title> Nonlinear integral equations of the Hammerstein type, </title> <journal> Trans. Amer. Math. Soc., </journal> <volume> 60 (1949), </volume> <pages> 289-307 </pages>
+Reference: [10] <author> Hammerstein, A., </author> <title> Nichtlineare Integralgleichungen nebst Anwendun-gen, </title> <journal> Acta Mat., </journal> <volume> 54 (1930), </volume> <pages> 117-176 </pages>
+Reference: [11] <author> Kaper, H. G., and Kwong, Man Kam, </author> <title> On a conjecture concerning the multiplicity of a Dirichlet problem, </title> <type> Preprint MCS-P211-0191, </type> <institution> Mathematics and Computer Science Division, Argonne National Laboratory, Argonne, </institution> <note> Illinois (to appear in SIAM J. Math. Anal.). </note>
+Reference: [12] <author> Kwong, Man Kam, </author> <title> Uniqueness of positive solutions of u u + u p = 0 in R n , Arch. Rational Mech. </title> <journal> Anal., </journal> <volume> 105 (1989), </volume> <pages> 243-266. 9 </pages>
+Reference: [13] <author> Kwong, Man Kam, </author> <title> On the Kolodner-Coffman method for the unique-ness problem of Emden-Fowler BVP, </title> <journal> ZAMP (J. Applied Math. and Phy.), </journal> <volume> 41 (1990), </volume> <pages> 79-104. </pages>
+Reference: [14] <author> Kwong, Man Kam, </author> <title> Uniqueness results for Emden-Fowler boundary value problems, Nonlinear Analysis, </title> <journal> TMA, </journal> <volume> 16 (1991), </volume> <pages> 435-454. </pages>
+Reference: [15] <author> Kwong, Man Kam, </author> <title> On the unboundedness of the number of solutions of a Dirichlet problem, </title> <type> Preprint MCS-P216-0191, </type> <institution> Mathematics and Computer Science Division, Argonne National Laboratory, Argonne, </institution> <note> Illinois (to appear in Nonlinear Analysis, TMA). </note>
+Reference: [16] <author> Kwong, Man Kam, and Li, Yi, </author> <title> Uniqueness of radial solutions of semi-linear elliptic equations, </title> <type> Preprint MCS-P156-0590, </type> <institution> Mathematics and Computer Science Division, Argonne National Laboratory, Argonne, </institution> <note> Illinois (to appear in Trans. Amer. Math. Soc.). </note>
+Reference: [17] <author> Kwong, Man Kam, and Zhang, L., </author> <title> Uniqueness of the positive solution of u + f (u) = 0 in an annulus, Diff. and Integral Eq., </title> <booktitle> 4 (1991), </booktitle> <pages> 583-599. </pages>
+Reference: [18] <author> Lazer, A. C., and McKenna, P. J., </author> <title> Large-amplitude periodic oscillation in suspension bridges: Some new connections with nonlinear analysis, </title> <journal> SIAM Review, </journal> <volume> 32 (1990), </volume> <pages> 537-578 </pages>
+Reference: [19] <author> Lazer, A. C., and McKenna, P. J., </author> <title> On a conjecture related to the number of solutions of a nonlinear Dirichlet problem, </title> <booktitle> Proc. </booktitle> <institution> Royal Soc. of Edinburgh, </institution> <month> 95A </month> <year> (1983), </year> <pages> 275-283. </pages>
+Reference: [20] <author> McLeod, K., and Serrin, J., </author> <title> Uniqueness of positive radial solutions of u + f (u) = 0 in R n , Arch. Rational Mech. </title> <journal> Anal., </journal> <volume> 99 (1987), </volume> <pages> 115-145. </pages>
+Reference: [21] <author> Ni, W. M., </author> <title> Uniqueness of solutions of nonlinear Dirichlet problems, </title> <journal> J. Diff. Eq., </journal> <volume> 50 (1983), </volume> <pages> 289-304. </pages>
+Reference: [22] <author> Ni, W. M., and Nussbaum, R., </author> <title> Uniqueness and nonuniqueness for positive radial solutions of u + f (u; r) = 0, </title> <journal> Comm. Pure and Appl. Math., </journal> <volume> 38 (1985), </volume> <pages> 69-108. </pages>
+References-found: 22
+

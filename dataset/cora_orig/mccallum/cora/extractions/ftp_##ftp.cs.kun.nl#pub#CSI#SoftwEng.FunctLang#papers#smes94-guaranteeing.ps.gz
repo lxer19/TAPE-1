@@ -1,0 +1,20 @@
+URL: ftp://ftp.cs.kun.nl/pub/CSI/SoftwEng.FunctLang/papers/smes94-guaranteeing.ps.gz
+Refering-URL: http://www.cs.kun.nl/~clean/Clean.Papers.html
+Root-URL: 
+Title: aaaaaaa Guaranteeing Safe Destructive Updates through a Type System with Uniqueness Information for Graphs  
+Author: Sjaak Smetsers, Erik Barendsen, Marko van Eekelen, Rinus Plasmeijer 
+Affiliation: University of Nijmegen  
+Abstract: In this paper we present a type system for graph rewrite systems: uniqueness typing. It employs usage information to deduce whether an object is `unique' at a certain moment, i.e. is only locally accessible. In a type of a function it can be specified that the function requires a unique argument object. The correctness of type assignment guarantees that no external access on the original object will take place in the future. The presented type system is proven to be correct. We illustrate the power of the system by defining an elegant quicksort algorithm that performs the sorting in situ on the data structure.
+Abstract-found: 1
+Intro-found: 1
+Reference: <editor> Achten, P.M., J.H.G. van Groningen and M.J. </editor> <booktitle> Plasmeijer (1993). High level specification of i/o in functional languages, Proc. of International Workshop on Functional Languages, </booktitle> <address> Glasgow, UK, </address> <publisher> Springer Verlag,. </publisher>
+Reference: <author> Bakel, S, van, S. Smetsers and S. </author> <title> Brock (1992). Partial type assignment in left-linear term rewriting systems, </title> <booktitle> Proc. of 17th Colloqium on Trees and Algebra in Programming (CAAP'92), Rennes, </booktitle> <address> France, </address> <publisher> Springer Verlag, LNCS 581, </publisher> <pages> pp. 300-322. </pages>
+Reference: <author> Barendregt, H.P., M.C.J.D. van Eekelen, J.R.W. Glauert, J.R. Kennaway, M.J. </author> <title> Plas-meijer and M.R. Sleep (1987). Term graph reduction, </title> <booktitle> Proc. of Parallel Architectures and Languages Europe (PARLE), </booktitle> <address> Eindhoven, The Netherlands, </address> <publisher> Springer Verlag, LNCS 259 II, </publisher> <pages> pp. 141-158. </pages>
+Reference: <author> Barendsen, Erik and Sjaak Smetsers (1992). </author> <title> Graph rewriting and copying, </title> <institution> Technical Report 92-20 , University of Nijmegen. </institution>
+Reference: <author> Guzman, Juan C. and Paul. </author> <month> Hudak </month> <year> (1991). </year> <title> Single-threaded polymorphic lambda calculus, </title> <booktitle> Proc. of Logic in Computer Science (LICS'90), </booktitle> <address> Phildelphia, </address> <publisher> IEEE Computer Society Press,, </publisher> <pages> pp. 333-345. </pages>
+Reference: <author> Johnsson, Thomas. </author> <year> (1990). </year> <title> Discussion summary: which analysis?, </title> <booktitle> Proc. of Functional Languages: Optimization For Parallelism, </booktitle> <address> Dagstuhl, Germany, </address> <publisher> Dagstuhl seminar, </publisher> <pages> pp. 4-5. </pages>
+Reference: <author> Milner, R.A. </author> <year> (1978). </year> <title> Theory of type polymorphism in programming, </title> <journal> Journal of Computer and System Sciences. </journal>
+Reference: <author> Mycroft, A. </author> <year> (1981). </year> <title> Abstract interpretation and optimising transformations for applicative programs, </title> <type> Dissertation, </type> <institution> University of Edinburgh. </institution>
+Reference: <author> Wadler, P. (n.d.). </author> <title> Linear types can change the world!, </title> <booktitle> Proc. of Working Conference on Programming Concepts and Methods. </booktitle> <pages> 20 </pages>
+References-found: 9
+

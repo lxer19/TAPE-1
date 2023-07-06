@@ -1,0 +1,25 @@
+URL: http://www.neci.nj.nec.com/homepages/mic/ps/improve.ps.gz
+Refering-URL: http://www.neci.nj.nec.com/homepages/mic/publications.html
+Root-URL: 
+Email: email: mic@research.nj.nec.com  
+Title: Experiments with Multi-ProbCut and a New High-Quality Evaluation Function for Othello  
+Author: Michael Buro 
+Keyword: selective game-tree search, table based evaluation function, linear regression, Othello  
+Address: 4 Independence Way Princeton NJ 08540, USA  
+Affiliation: NEC Research Institute  
+Abstract: This paper presents ideas concerning game-tree evaluation that recently improved the author's already strong Othello program LOGISTELLO considerably. Two main ingredients of this program have been refined: First, a new evaluation function for Othello is described. While it is still table-based (and therefore fast) like its predecessors a novel procedure for estimating the table entries now allows modeling pattern interactions which leads to much higher evaluation quality. Second, Multi-ProbCut is introduced generalizing the formerly used selective search procedure ProbCut in that it allows forward cuts at various heights after shallow searches of increasing depths. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [Buro 1994] <author> M. Buro. </author> <title> Techniken fur die Bewer-tung von Spielsituationen anhand von Beispielen, </title> <type> Ph.D. thesis (in German), </type> <institution> University of Paderborn, Germany. </institution>
+Reference-contexts: In what follows the latest program improvements are described. First, a new table estimation technique is presented which significantly improved the evaluation function quality at no additional run time cost. Then the selective search procedure ProbCut <ref> [Buro 1994] </ref> is generalized enabling the program to cut off even more variations in advance that probably have no impact on the move decision. 2 LOGISTELLO's previous evaluation function The details of LOGISTELLO's previous evaluation function recently have been described in [Buro 1997].
+Reference: [Buro 1995a] <author> M. Buro. ProbCut: </author> <title> An Effective Selective Extension of the Alpha-Beta Algorithm, </title> <journal> ICCA Journal 18(2), </journal> <pages> 71-76. </pages>
+Reference-contexts: By contrast the original minimax algorithm searches the entire game-tree up to a certain depth and even its efficient improvement | the fffi algorithm | is only allowed to prune backwards because it has to compute the correct minimax value. The selective search procedure ProbCut presented in <ref> [Buro 1995a] </ref> permits pruning of subtrees that are unlikely to affect the minimax value and uses the time saved for analysis of crucial variations. The idea is to take advantage of the fact that values returned by minimax searches of different depths are highly correlated.
+Reference: [Buro 1995b] <author> M. Buro. </author> <title> Statistical Feature Combination for the Evaluation of Game Positions, </title> <type> JAIR 3, </type> <pages> 373-382. </pages>
+Reference: [Buro 1997] <author> M. Buro. </author> <title> An Evaluation Function for Othello Based on Statistics, </title> <type> NEC Research Institute Technical Report #31. </type>
+Reference-contexts: Then the selective search procedure ProbCut [Buro 1994] is generalized enabling the program to cut off even more variations in advance that probably have no impact on the move decision. 2 LOGISTELLO's previous evaluation function The details of LOGISTELLO's previous evaluation function recently have been described in <ref> [Buro 1997] </ref>. In what follows a brief outline of the techniques used is given allowing the comparison of the major aspects with the new method.
+Reference: [Lee & Mahajan 1988] <author> K.F.Lee & S.Mahajan. </author> <title> A Pattern Classification Approach to Evaluation Function Learning, </title> <booktitle> Artificial Intelligence 36, </booktitle> <pages> 1-25. </pages>
+Reference: [Lee & Mahajan 1990] <author> K.F.Lee & S.Mahajan. </author> <title> The Development of a World Class Othello Program, </title> <booktitle> Artificial Intelligence 43, </booktitle> <pages> 21-36. </pages>
+Reference: [Press et al. 1992] <author> W.H.Press, S.A.Teukolsky, W.T.Vetterling, B.P.Flannery. </author> <title> Numerical Recipes, </title> <publisher> Cambridge University Press, 2nd edition. </publisher>
+Reference: [Rosenbloom 1982] <author> P.S. Rosenbloom. </author> <title> A World-Championship-Level Othello Program, </title> <booktitle> Artificial Intelligence 19: </booktitle> <pages> 279-320. 9 </pages>
+References-found: 8
+

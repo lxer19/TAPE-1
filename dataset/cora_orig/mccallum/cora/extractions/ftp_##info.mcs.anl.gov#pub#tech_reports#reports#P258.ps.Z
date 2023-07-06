@@ -1,0 +1,15 @@
+URL: ftp://info.mcs.anl.gov/pub/tech_reports/reports/P258.ps.Z
+Refering-URL: http://www.mcs.anl.gov/publications/abstracts/abstracts91.htm
+Root-URL: http://www.mcs.anl.gov
+Title: An Algorithm for Finding Optimal Integration Lattices of Composite Order  
+Author: J. N. Lyness T. Sorevik 
+Keyword: Multidimensional Quadrature, Lattice Rules, Good Lattices, Number Theoretic rules, Figure of merit, Hypercube, Periodic Functions.  
+Web: 65D30, 65D32  
+Note: Subject Classification AMS(MOS);  
+Address: Argonne, IL 60439  
+Affiliation: Mathematics and Computer Science Division Argonne National Laboratory  
+Abstract: In this paper we describe a search algorithm that can be used to determine good lattices of order N when N = N L N R has two nontrivial integer factors. This algorithm is based on relationships between an integer lattice fl R of order N R and its various sublattices all of order N. Using this we have determined all the four dimensional good lattices of order 599 or less. Our list has 23 entries. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

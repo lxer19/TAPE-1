@@ -1,0 +1,28 @@
+URL: http://www.cse.ogi.edu/~walidt/docs/logic/CATS-abs.ps.gz
+Refering-URL: http://www.cse.ogi.edu/~walidt/docs/logic/
+Root-URL: http://www.cse.ogi.edu
+Email: moggi@disi.unige.it  
+Title: Towards a framework for programming languages (and program logics) how to structure semantic descriptions to
+Author: Eugenio Moggi 
+Note: which category should be used to interpret a given programming language? (see [MC88, OT92])  (see [Mos90, CM93]) and important advances have been made in related areas:  it should be  
+Address: Benedetto XV 3, 16132 Genova, Italy  
+Affiliation: DISI, Univ. di Genova, v.  
+Pubnum: [Mog91, CM93]).  
+Abstract: Metalanguages based on typed -calculus are a well-established tool for describing the semantics of programming languages. Among them the leading example is Scott's LCF , a predicate logic on top of a typed -calculus, which is directly inspired by the domains used in denotational semantics. LCF was introduced by Dana Scott in 1969 (see [Sco93]). Since then various issues regarding the semantic description of programming languages have become clearer: The above scenario suggests a substantial rethinking of metalanguages (and LCF in particular). We will outline a possible metalanguage, which we call LCF ++, structured in three components: and we will explain how these three components should interact. As a sample application of (a sugared version of) such a metalanguage, we will consider the incremental description of a parallel language (following the methodology proposed in [CM93]). 
+Abstract-found: 1
+Intro-found: 0
+Reference: [CM93] <author> P. Cenciarelli and E. Moggi. </author> <title> A syntactic approach to modularity in denota-tional semantics. </title> <booktitle> In Proceedings of the Conference on Category Theory and Computer Science, </booktitle> <address> Amsterdam, </address> <month> Sept. </month> <year> 1993, 1993. </year> <type> CWI Tech. Report. </type>
+Reference: [CP92] <editor> R.L. Crole and A.M. Pitts. </editor> <title> New foundations for fixpoint computations: Fix hyperdoctrines and the fix logic. </title> <journal> Information and Computation, </journal> <volume> 98, </volume> <year> 1992. </year>
+Reference: [FMRS90] <author> P. Freyd, P. Mulry, G. Rosolini, and D. Scott. </author> <title> Extensional pers. </title> <booktitle> In 5th LICS Conf. IEEE, </booktitle> <year> 1990. </year>
+Reference: [Fre91] <author> P. Freyd. </author> <title> Algebraically complete categories. </title> <editor> In A. Carboni, C. Pedicchio, and G. Rosolini, editors, </editor> <booktitle> Conference on Category Theory '90, volume 1488 of LNM. </booktitle> <publisher> Springer Verlag, </publisher> <year> 1991. </year>
+Reference: [Hyl91] <author> J.M.E. Hyland. </author> <title> First steps in synthetic domain theory. </title> <editor> In A. Carboni, C. Pedic-chio, and G. Rosolini, editors, </editor> <booktitle> Conference on Category Theory '90, volume 1488 of LNM. </booktitle> <publisher> Springer Verlag, </publisher> <year> 1991. </year>
+Reference: [Luo94] <author> Z. Luo. </author> <title> Computation and Reasoning: A Type Theory for Computer Science. </title> <booktitle> International Series of Monographs on Computer Science. </booktitle> <publisher> Oxford University Press, </publisher> <year> 1994. </year>
+Reference: [MC88] <author> A.R. Meyer and S.S. Cosmodakis. </author> <title> Semantic paradigms: </title> <booktitle> Notes for an invited lecture. In 3rd LICS Conf. IEEE, </booktitle> <year> 1988. </year>
+Reference: [Mog91] <author> E. Moggi. </author> <title> Notions of computation and monads. </title> <journal> Information and Computation, </journal> <volume> 93(1), </volume> <year> 1991. </year>
+Reference: [Mos90] <author> P. Mosses. </author> <title> Denotational semantics. </title> <editor> In J. van Leeuwen, editor, </editor> <booktitle> Handbook of Theoretical Computer Science. </booktitle> <publisher> North Holland, </publisher> <year> 1990. </year>
+Reference: [OT92] <author> P.W. O'Hearn and R.D. Tennent. </author> <title> Semantics of local variables. </title> <booktitle> In Applications of Categories in Computer Science, number 177 in L.M.S. Lecture Notes Series. </booktitle> <publisher> Cambridge University Press, </publisher> <year> 1992. </year>
+Reference: [Sco93] <author> D.S. Scott. </author> <title> A type-theoretic alternative to CUCH, </title> <journal> ISWIM, OWHY. Theoretical Computer Science, </journal> <volume> 121, </volume> <year> 1993. </year>
+Reference: [Sim92] <author> A.K. Simpson. </author> <title> Recursive types in kleisli categories. </title> <note> available via FTP from theory.doc.ic.ac.uk, </note> <year> 1992. </year>
+Reference: [Tay91] <author> P. Taylor. </author> <title> The fixed point property in synthetic domain theory. </title> <booktitle> In 6th LICS Conf. IEEE, </booktitle> <year> 1991. </year>
+References-found: 13
+

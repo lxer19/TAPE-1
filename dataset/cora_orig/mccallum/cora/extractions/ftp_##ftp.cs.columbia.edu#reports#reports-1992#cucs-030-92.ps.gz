@@ -1,0 +1,34 @@
+URL: ftp://ftp.cs.columbia.edu/reports/reports-1992/cucs-030-92.ps.gz
+Refering-URL: http://www.cs.columbia.edu/~library/1992.html
+Root-URL: http://www.cs.columbia.edu
+Title: THE MONTE CARLO ALGORITHM WITH A PSEUDO-RANDOM GENERATOR  
+Author: J. F. Traub H. Wo zniakowski 
+Note: Typeset by A  
+Date: December, 1989  
+Address: CUCS-030-92  
+Affiliation: Department of Computer Science, Columbia University  Department of Computer Science, Columbia University and Institute of Informatics, University of Warsaw  M S-T E X  
+Abstract: We analyze the Monte Carlo algorithm for the approximation of multivariate integrals when a pseudo-random generator is used. We establish lower and upper bounds on the error of such algorithms. We prove that as long as a pseudo-random generator is capable of producing only finitely many points, the Monte Carlo algorithm with such a pseudo-random generator fails for L 2 or continuous functions. It also fails for Lipschitz functions if the number of points does not depend on the number of variables. This is the case if a linear congruential generator is used with one initial seed. On the other hand, if a linear congruential generator of period m is used for each component with independent uniformly distributed initial seeds, then the Monte Carlo algorithm with such a pseudo-random generator using n function values behaves as for the uniform distribution and its expected error is roughly n 1=2 as long as the number n of function values is less than m 2 . 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Bach, E. </author> <title> Realistic Analysis of Some Randomized Algorithms, </title> <booktitle> Proceedings of the 19th ACM Symposium on Theory of Computing (1987), </booktitle> <pages> 453-461. </pages>
+Reference: <author> Bakhvalov, N. S. </author> <title> On approximate computation of integrals (in Russian), </title> <journal> Vestnik MGV, Ser. Math. Mech. Astron. Phys. Chem. </journal> <volume> 4 (1959), </volume> <pages> 3-18. </pages>
+Reference: <author> Blum, M. and Micali, S. </author> <title> How to generate cryptographically strong sequences of pseudo-random bits, </title> <journal> SIAM Journal on Computing 13 (1984), </journal> <pages> 850-863. </pages>
+Reference: <author> Davis, P. J. and Rabinowitz, P. </author> <title> Methods of numerical integration, </title> <publisher> Academic Press, </publisher> <address> New York, </address> <year> 1984. </year>
+Reference: <author> Haber, S. </author> <title> A modified Monte Carlo quadrature, </title> <journal> Math. Comp. </journal> <volume> 20 (1966), </volume> <pages> 361-368. </pages>
+Reference: <author> Halton, J. H. </author> <title> On the efficiency of certain quasi-random sequences of points in evaluating multi-dimensional integrals, </title> <journal> Numer. Math. </journal> <volume> 2 (1960), </volume> <pages> 84-90. </pages>
+Reference: <author> Hammersley, J. M. and Handscomb, D. C. </author> <title> Monte Carlo Methods, </title> <publisher> Methuen, </publisher> <address> London,, 1964.. </address>
+Reference: <author> Granovskii, B. L. and Ermakov, S. M. </author> <title> The Monte Carlo method, </title> <journal> J. Soviet Math. </journal> <volume> 7 (1977), </volume> <pages> 161-192. </pages>
+Reference: <author> Kalos, P. A. and Whitlock, P. A. </author> <title> Monte Carlo methods, </title> <journal> vol. </journal> <volume> 1, </volume> <publisher> Wiley, </publisher> <address> New York, </address> <year> 1986. </year>
+Reference: <author> Karloff, H. J. and Raghavan, P. </author> <title> Randomized Algorithms and Pseudorandom Numbers, </title> <booktitle> Proceedings of the 20th ACM Symposium on Theory of Computing (1988), </booktitle> <pages> 310-321. </pages>
+Reference: <author> Knuth, D. E. </author> <booktitle> The Art of Computer Programming, vol. 2 Second Edition, </booktitle> <publisher> Addison Wesley, </publisher> <address> Reading, Mass., </address> <year> 1981. </year>
+Reference: <author> Kuczynski, J. and Wozniakowski, H. </author> <title> Estimating the Largest Eigenvalue by the Power and Lanczos Algorithms with a Random Start, </title> <type> Report, </type> <institution> Dept. of Computer Science, Columbia University, 1989.. </institution>
+Reference: <author> Lehmer, D. H. </author> <title> Mathematical models in large-scale computing units, </title> <booktitle> Proc. 2nd Sympos. on Large-Scale Digital Calculating Machinery (Cambridge, </booktitle> <address> Mass., </address> <year> 1949) (1951), </year> <pages> 141-146, </pages> <publisher> Harvard Univ. Press, Cam-bridge, Mass.. </publisher>
+Reference: <author> Niederreiter, H. </author> <title> Quasi-Monte Carlo methods and pseudo-random numbers, </title> <journal> Bull. Amer. Math. Soc. </journal> <volume> 84 (1978), </volume> <pages> 957-1041. </pages>
+Reference: <author> Niederreiter, H. </author> <title> Quasi-Monte Carlo methods for multidimensional numerical integration, in Numerical Integration III, </title> <booktitle> International Series of Numerical Mathematics 85, </booktitle> <editor> 157-171 (H. Bra and G. Hammerlin eds.), </editor> <publisher> Birhauser Verlag, </publisher> <address> Basel, </address> <year> 1988. </year>
+Reference: <author> Niederreiter, H. </author> <title> Recent Trends in Random Number and Random Vector Generation, </title> <booktitle> Fifth Internat. Conf. on Stochastic Programming (1989), </booktitle> <address> Ann Arbor, Mich.,. </address>
+Reference: <author> Novak, E. </author> <title> Deterministic and Stochastic Error Bounds in Numerical Analysis, </title> <booktitle> vol. 1349, Lectures Notes in Math. </booktitle> <publisher> Springer Verlag, </publisher> <address> Berlin, </address> <year> 1988. </year> <title> THE MONTE CARLO ALGORITHM WITH A PSEUDO-RANDOM GENERATOR 21 Sobol, </title> <editor> I. M. </editor> <title> Die Monte Carlo-Methode, </title> <publisher> Deutsch Verlag, </publisher> <address> Frankfurt, </address> <year> 1985. </year>
+Reference: <author> Sukharev, A. G. </author> <title> Optimal numerical integration formulas for some classes of functions of several variables, </title> <journal> Sov. Math. Dokl. </journal> <volume> 20 (1979), </volume> <pages> 472-475. </pages>
+Reference: <author> Traub, J. F., Wasilkowski, G. W. and Wozniakowski, H. </author> <title> Information-Based Complexity, </title> <publisher> Academic Press, </publisher> <address> New York, </address> <year> 1988. </year>
+Reference: <author> Yao, A. </author> <title> Theory and application of trapdoor functions, </title> <booktitle> Proceedings of the 23rd IEEE Symposium on Foundation of Computer Science (1982). </booktitle>
+References-found: 20
+

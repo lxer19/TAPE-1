@@ -1,0 +1,15 @@
+URL: http://www.cs.unm.edu/~steveah/publications/cacm96.ps.gz
+Refering-URL: http://www.cs.unm.edu/~steveah/
+Root-URL: http://www.cs.unm.edu
+Email: forrest@cs.unm.edu  
+Title: Computer Immunology immune system is comprised of cells and molecules. 1 Recognition of foreign protein,
+Author: Stephanie Forrest Steven A. Hofmeyr Anil Somayaji 
+Date: March 21, 1996  
+Note: Communications of the ACM (to appear)  The  Currently on leave at the MIT Artificial Intelligence Laboratory. in http://www.cs.unm.edu/~steveah/imm-html/immune-system.html.  
+Address: Albuquerque, NM 87131-1386  
+Affiliation: Dept. of Computer Science University of New Mexico  
+Abstract: Natural immune systems protect animals from dangerous foreign pathogens, including bacteria, viruses, parasites, and toxins. Their role in the body is analogous to that of computer security systems in computing. Although there are many differences between living organisms and computer systems, this article argues that the similarities are compelling and could point the way to improved computer security. Improvements can be achieved by designing computer immune systems that have some of the important properties illustrated by natural immune systems. These include multi-layered protection, highly distributed detection and memory systems, diversity of detection ability across individuals, inexact matching strategies, and sensitivity to most new foreign patterns. We first give an overview of how the immune system relates to computer security. We then illustrate these ideas with two examples. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

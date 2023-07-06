@@ -1,0 +1,15 @@
+URL: ftp://ftp.cs.buffalo.edu/pub/tech-reports/94-38.ps.Z
+Refering-URL: ftp://ftp.cs.buffalo.edu/pub/tech-reports/README.html
+Root-URL: 
+Title: A Fully Polynomial Time Approximation Scheme in Scheduling Deteriorating Jobs  
+Author: Jin-Yi Cai Pu Cai Yixin Zhu 
+Abstract: We consider a scheduling problem with a single machine and a set of jobs which have to be processed sequentially. While waiting for processing, jobs may deteriorate, causing the processing requirement of each job to grow after a fixed waiting time t 0 . We prove that the problem of minimizing the makespan|completion time for all jobs|is NP-hard. A fully polynomial time approximation scheme is developed for a special case where the job requirement grows linearly at a job specific rate after t 0 .
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Baker, K. and G. Scudder, </author> <title> "Sequencing With Earliness and Tardiness Penalties: A Review," </title> <booktitle> Operations Research 38 (1990), </booktitle> <pages> 22-38. </pages>
+Reference: [2] <author> Browne, S. and U. Yechiali, </author> " <title> Scheduling Deteriorating Jobs on a Single Processor," </title> <booktitle> Operations Research 38 (1990), </booktitle> <pages> 495-498. </pages>
+Reference: [3] <author> Chu, C., </author> <title> "Efficient heuristics to minimize total flow time with release dates," </title> <journal> Operations Research Letters 12 (1992), </journal> <pages> 321-329. </pages>
+Reference: [4] <author> Cormen, T., C. Leiserson, R. Rivest. </author> <title> Introduction to Algorithm The MIT Press, </title> <address> Cambridge, Massachusetts. </address> <year> 1990. </year>
+Reference: [5] <author> Mosheiov, G., </author> <title> "V-shaped Policies for Scheduling Deteriorating Jobs," </title> <booktitle> Operations Research 39 (1991), </booktitle> <pages> 495-498. 11 </pages>
+References-found: 5
+

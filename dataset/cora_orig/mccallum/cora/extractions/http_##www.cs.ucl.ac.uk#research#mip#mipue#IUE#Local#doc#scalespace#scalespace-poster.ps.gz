@@ -1,0 +1,22 @@
+URL: http://www.cs.ucl.ac.uk/research/mip/mipue/IUE/Local/doc/scalespace/scalespace-poster.ps.gz
+Refering-URL: http://www.cs.ucl.ac.uk/research/mip/mipue/
+Root-URL: http://www.cs.ucl.ac.uk
+Email: Go  
+Title: Scale-Space Implementati on the Project  
+Author: Julia A. Schnab el Simon R. Arridge Depa rtment 
+Keyword: rch/mip/mi  
+Web: 6BT http://www.cs.ucl.ac.uk/resea  
+Address: College London  Street, London W  
+Affiliation: of Computer Science, Universit  er  
+Abstract-found: 0
+Intro-found: 0
+Reference: 1. <author> Alva rez, P Lions, and J.-M. </author> <title> rel. Image selective smo othing and edge detection b y nonlinea r diffusion. </title>
+Reference: <author> I I. </author> <note> SIAM Journal on , 1992. </note>
+Reference: <author> D.H. </author> <title> erly . Geometric Metho ds r Analysis of Ridges in N-Dimensional Images . PhD thesis, </title> <institution> Universit y No rth Ca rolina at Chap el Hill, </institution> <year> 1994. </year>
+Reference: <author> B.B. Kimia, A.R. annenbaum, and S.W. Zuck er. Shap es, sho cks, and defo rmations I: </author> <booktitle> The comp onents of o-dimensional shap e and the reaction-diffusion space. </booktitle> <month> IJCV , </month> <year> 1995. </year>
+Reference: <author> J.J. enderink and A.J. </author> <title> van Do Receptive-field families. </title> <journal> Biological Cyb ernetics , 297, </journal> <volume> 5. </volume> <editor> Niessen, B.M. ter Haa r Romeny , Flo rack, and M.A. Viergever. </editor> <title> A general frame w fo geometry-driven diffusion equations. </title> <address> IJCV , pages 1-21, </address> <note> 6. . erona and J. </note>
+Reference: <author> Malik. </author> <title> Scale-space and edge detection using anisotropic diffusion. </title> <booktitle> IEEE T-P AMI , 1990. </booktitle>
+Reference: <author> G. Sapiro and A. annenbaum. </author> <title> Affine inva riant scale-space. </title> <month> IJCV , </month> <year> 1993. </year>
+Reference: <author> B.M. ter Haa r Romeny , Flo rack, J.J. enderink, and M.A. Viergever. </author> <title> Scale-space: Its natural op erato rs and differential inva riants. In Info rmation Pro cessing in Medical Imaging: </title> <editor> Pro c. </editor> <booktitle> International Conference (IPMI'91) , pages 239-255. </booktitle> <month> 9. </month> <title> Whitak er. </title> <type> Geometry-Limited Diffusion . PhD thesis, </type> <institution> Universit y No rth Ca rolina at Chap el Hill, </institution> <year> 1994. </year>
+References-found: 8
+

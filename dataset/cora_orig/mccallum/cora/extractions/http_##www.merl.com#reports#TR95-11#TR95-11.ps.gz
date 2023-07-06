@@ -1,0 +1,17 @@
+URL: http://www.merl.com/reports/TR95-11/TR95-11.ps.gz
+Refering-URL: http://www.merl.com/reports/TR95-11/index.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: Appendices for Data Plane section of API Baseline Document  ATM Forum Service Aspects Applications API Subworking  
+Author: Randy Osborne 
+Address: Cambridge, Massachusetts 02139  
+Note: Submitted as contribution 95-0473 to  Group,  Copyright c Mitsubishi Electric Research Laboratories, 1995 201 Broadway,  
+Date: April 1995  April 10 April 14, 1995, Denver  
+Affiliation: MITSUBISHI ELECTRIC RESEARCH LABORATORIES CAMBRIDGE RESEARCH CENTER  
+Pubnum: TR-95-11  
+Abstract: This work may not be copied or reproduced in whole or in part for any commercial purpose. Permission to copy in whole or in part without payment of fee is granted for nonprofit educational and research purposes provided that all such whole or partial copies include the following: a notice that such copying is by permission of Mitsubishi Electric Research Laboratories of Cambridge, Massachusetts; an acknowledgment of the authors and individual contributions to the work; and all applicable portions of the copyright notice. Copying, reproduction, or republishing for any other purpose shall require a license with payment of fee to Mitsubishi Electric Research Laboratories. All rights reserved. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <institution> Druschel - "Experiences with a High-Speed Network Adaptor: </institution> <note> A Software Perspective", </note> <author> Peter Druschel, Larry Peterson, and Bruce Davie, </author> <title> SIGCOMM 94 Osborne - "A Hybrid Deposit Model for Low Overhead Communication in High Speed LANs", </title> <editor> R. Osborne, </editor> <booktitle> Proc. of IFIP 4th International Workshop on Protocols for High-speed Networks, August 1994 Thekkath - "Separating Data and Control Transfer in Distributed Operating Systems", </booktitle> <address> C. </address>
+Reference: <author> Thekkath, H. Levy, and E. Lazowska, </author> <title> Sixth Int'l Conference in Architectural Support for Programming Languages and Operating Systems, October 1994 vonEicken - "Active Messages: A Mechanism for Integrated Communication and Computation", </title> <editor> T. Von Eicken et al, </editor> <booktitle> Intl Symposium on Computer Architecture, </booktitle> <month> May </month> <year> 1992 </year> <month> MERLTR-95-11 April </month> <year> 1995 </year>
+References-found: 2
+

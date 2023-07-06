@@ -1,0 +1,40 @@
+URL: ftp://ftp.cs.columbia.edu/reports/reports-1994/cucs-030-94.ps.gz
+Refering-URL: http://www.cs.columbia.edu/~library/1994.html
+Root-URL: http://www.cs.columbia.edu
+Email: bhat@cs.columbia.edu nayar@cs.columbia.edu  
+Title: Stereo in the Presence of Specular Reflection  
+Author: Dinkar N. Bhat and Shree K. Nayar 
+Note: 1 This work is supported in part by ARPA contract DACA-76-92-C-007 and in part by the David and Lucile Packard Fellowship.  
+Date: December, 1994  
+Address: New York, N.Y. 10027  
+Affiliation: Department of Computer Science Columbia University  
+Pubnum: CUCS-030-94  
+Abstract-found: 0
+Intro-found: 1
+Reference: [ Barnard and Fischler, 1982 ] <author> S. T. Barnard and M. A. Fischler. </author> <title> Computational stereo. </title> <journal> ACM Computing Surveys, </journal> <volume> 14(4) </volume> <pages> 553-572, </pages> <month> December </month> <year> 1982. </year>
+Reference: [ Blake, 1985 ] <author> A. Blake. </author> <title> Specular stereo. </title> <booktitle> Proceedings of the Ninth International Joint Conference on Artificial Intelligence, </booktitle> <pages> pages 973-976, </pages> <year> 1985. </year>
+Reference: [ Brelstaff and Blake, 1988 ] <author> G. Brelstaff and A. Blake. </author> <title> Detecting specular reflections using lambertian constraints. </title> <booktitle> Proceedings of the IEEE Computer Society International Conference on Computer Vision, </booktitle> <pages> pages 297-302, </pages> <year> 1988. </year>
+Reference: [ Ching et al., 1993 ] <author> Wee-Soon Ching, Peng-Seng Toh, Kap-Luk, and Meng-Hwa Er. </author> <title> Robust vergence with concurrent detection of occlusion and specular highlights. </title> <booktitle> Proceedings of the IEEE Computer Society International Conference on Computer Vision, </booktitle> <pages> pages 384-394, </pages> <year> 1993. </year>
+Reference: [ Dhond and Aggarwal, 1991 ] <author> U. R. Dhond and J. K. Aggarwal. </author> <title> A cost-benefit analysis of a third camera for stereo correspondence. </title> <journal> International Journal of Computer Vision, </journal> <volume> 6 </volume> <pages> 39-58, </pages> <year> 1991. </year>
+Reference: [ Diner and Fender, 1993 ] <author> D. B. Diner and D. H. Fender. </author> <title> Human Engineering in Stereoscopic Viewing Devices. </title> <publisher> Plenum Press, </publisher> <year> 1993. </year>
+Reference: [ Hannah, 1989 ] <author> M. J. Hannah. </author> <title> A system for digitial stereo image matching. </title> <journal> Photogram-metric Engg. and Remote Sensing, </journal> <volume> 55(12) </volume> <pages> 1765-1770, </pages> <year> 1989. </year>
+Reference: [ Healey and Binford, 1988 ] <author> G. Healey and T. O. Binford. </author> <title> Local shape from specularity. Computer Vision, </title> <journal> Graphics, and Image Processing, </journal> <volume> 42 </volume> <pages> 62-86, </pages> <year> 1988. </year>
+Reference: [ Ito and Ishii, 1986 ] <author> M. Ito and A. Ishii. </author> <title> Range and shape measurement using three-view stereo analysis. </title> <booktitle> Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition, </booktitle> <pages> pages 9-14, </pages> <year> 1986. </year>
+Reference: [ Kaplan, 1959 ] <author> W. Kaplan. </author> <title> Advanced Calculus. </title> <publisher> Addison-Wesley, </publisher> <year> 1959. </year>
+Reference: [ Matthies, 1992 ] <author> L. Matthies. </author> <title> Stereo vision for planetary rovers: Stochastic modeling to near real-time implementation. </title> <journal> International Journal of Computer Vision, </journal> <volume> 8(1) </volume> <pages> 71-91, </pages> <year> 1992. </year>
+Reference: [ Nayar et al., 1991 ] <author> S. K. Nayar, K. Ikeuchi and T. Kanade. </author> <title> Surface reflection: Physical and geometrical perspectives. </title> <journal> IEEE Transactions on Pattern Analysis and Machine Intelligence, </journal> <volume> 13(7) </volume> <pages> 611-634, </pages> <month> July </month> <year> 1991. </year>
+Reference: [ Nayar et al., 1993 ] <author> S. K. Nayar, Xi-Sheng Fang and T. Boult. </author> <title> Removal of specularities using color and polarization. </title> <booktitle> Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition, </booktitle> <pages> pages 583-590, </pages> <year> 1993. </year> <month> 33 </month>
+Reference: [ Okutomi and Kanade, 1993 ] <author> M. Okutomi and T. Kanade. </author> <title> A multiple-basline stereo. </title> <journal> IEEE Transactions on Pattern Analysis and Machine Intelligence, </journal> <volume> 15(4), </volume> <month> April </month> <year> 1993. </year>
+Reference: [ Oren and Nayar, 1994 ] <author> M. Oren and S. K. Nayar. </author> <title> Generalization of the lambertian model and implications for machine vision. </title> <booktitle> Proceedings of the European Conference on Computer Vision, </booktitle> <pages> pages 269-280, </pages> <year> 1994. </year>
+Reference: [ Panton, 1978 ] <author> D. A. Panton. </author> <title> A flexible approach to digital stereo mapping. </title> <journal> Photogram-metric Engg. and Remote Sensing, </journal> <volume> 44(12) </volume> <pages> 1499-1512, </pages> <year> 1978. </year>
+Reference: [ Pietikainen and Harwood, 1986 ] <author> M. Pietikainen and D. Harwood. </author> <title> Depth from three camera stereo. </title> <booktitle> Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition, </booktitle> <pages> pages 2-8, </pages> <year> 1986. </year>
+Reference: [ Press et al., 1989 ] <author> W. H. Press, B. P. Flannery, S. A. Teukolsky, and W. T. Vetterling. </author> <title> Numerical Recipes in C. </title> <publisher> Cambridge University Press, </publisher> <year> 1989. </year>
+Reference: [ Rodriguez and Aggarwal, 1988 ] <author> J. J. Rodriguez and J. K. Aggarwal. </author> <title> Quantization error in stereo imaging. </title> <booktitle> Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition, </booktitle> <pages> pages 153-158, </pages> <year> 1988. </year>
+Reference: [ Smith, 1986 ] <author> G. B. Smith. </author> <title> Stereo integral equation. </title> <booktitle> Proceedings of the AAAI, </booktitle> <pages> pages 689-694, </pages> <year> 1986. </year>
+Reference: [ Torrance and Sparrow, 1967 ] <author> K. E. Torrance and E. M. </author> <title> Sparrow. Theory for off-specular reflection from roughened surfaces. </title> <journal> Journal of the Optical Society of America, </journal> <volume> 57 </volume> <pages> 1105-1114, </pages> <year> 1967. </year>
+Reference: [ Verri and Torre, 1986 ] <author> A. Verri and V. Torre. </author> <title> Absolute depth estimate in stereopsis. </title> <journal> Journal of the Optical Society of America, </journal> <volume> 3 </volume> <pages> 297-299, </pages> <month> March </month> <year> 1986. </year>
+Reference: [ Wolff and Angelopoulou, 1994 ] <author> L.B. Wolff and E. Angelopoulou. </author> <title> 3-d stereo using photometric ratios. </title> <booktitle> Proceedings of the European Conference on Computer Vision, </booktitle> <pages> pages 247-258, </pages> <year> 1994. </year>
+Reference: [ Yachida et al., 1986 ] <author> M. Yachida, Y. Kitamura and M. Kimachi. </author> <title> Trinocular vision: New approach for correspondence problem. </title> <booktitle> Proceedings of the Eighth International Conference on Pattern Recognition, </booktitle> <pages> pages 27-31, </pages> <year> 1986. </year>
+Reference: [ Zheng and Chellappa, 1991 ] <author> Qinfen Zheng and R. Chellappa. </author> <title> Estimation of illuminant direction, albedo, and shape from shading. </title> <journal> IEEE Transactions on Pattern Analysis and Machine Intelligence, </journal> <volume> 13(7) </volume> <pages> 680-702, </pages> <month> July </month> <year> 1991. </year> <month> 34 </month>
+References-found: 25
+

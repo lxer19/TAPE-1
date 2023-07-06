@@ -1,0 +1,18 @@
+URL: http://ptolemy.eecs.berkeley.edu/papers/scheduling_framework.ps.Z
+Refering-URL: http://ptolemy.eecs.berkeley.edu/papers/publications.html/pubs_1993.html
+Root-URL: http://www.cs.berkeley.edu
+Title: System Design, Optimization, and Intelligent Code Gen eration for Standard Digital Signal Processors, ISCAS, Portland,
+Author: D. Genin, J. De Moortel, D. Desmet, E. Van de Velde, [] L. J. Hendren, G. R. Gao, E. R. Altman, C. Mukherjee, [] P. N. Hilfinger, [] W. H. Ho, E. A. Lee, D. G. Messerschmitt, [] S. [] E. A. Lee, [] E. A. Lee, D. G. Messerschmitt, [] D. R. O Hallaron, [] J. Pino, S. Ha E. A. Lee, J. T. Buck, [] D. B. Powell, E. A. Lee, W. C. S. Ritz, M. Pankert, H. Meyr, 
+Address: Berkeley,  C. Berkeley,  University,  
+Affiliation: Computer Science Division, EECS Dept., Uni versity of California at  Dept. of EECS, U.  School of Computer Science, Carnegie Mellon  School of Computer Science, Carnegie-Mellon University,  
+Date: February 1992.  July 1989.  May 1988.  September 1987.  May 1991.  March 1992.  August 1992.  
+Note: Conclusion 20 of 20 [4]  Lecture Notes in Computer Science,  Silage Reference Manual, Draft Release 2.0,  in Gabriel, Masters Degree Report,  Synchronous Dataow, Proceedings of the IEEE,  ICASSP, San Francisco, California,  May 1991, PhD Thesis. [15]  Berkeley, CA,  
+Pubnum: Technical Report, Memorandum Number CMU-CS-91-141,  Memorandum CMU-CS-91-101,  
+Abstract: 16] S. Ritz, M. Pankert, H. Meyr, Optimum Vectorization of Scalable Synchronous Dataow Graphs, Technical Report IS2/DSP93.1a, Aachen University of Technology, Germany, January 1993. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> S. S. Bhattacharyya, E. A. Lee, </author> <title> Scheduling Synchronous Dataow Graphs For Efficient Looping, </title> <note> To appear in Journal of VLSI Signal Processing. </note>
+Reference: [2] <author> S. S. Bhattacharyya, S. Ha, E. A. Lee, </author> <title> Single Appearance Schedules for Synchronous Dataow Programs, </title> <type> Technical Report, </type> <note> Memorandum No. </note> <institution> UCB/ERL M93/4, Dept. of EECS, </institution> <address> U. C. Berkeley. </address>
+
+References-found: 2
+

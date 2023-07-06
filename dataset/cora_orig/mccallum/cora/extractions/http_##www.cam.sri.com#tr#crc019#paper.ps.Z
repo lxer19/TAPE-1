@@ -1,0 +1,20 @@
+URL: http://www.cam.sri.com/tr/crc019/paper.ps.Z
+Refering-URL: http://www.cam.sri.com/tr/ABSTRACTS.html
+Root-URL: 
+Title: LEXICAL ACQUISITION IN THE CORE LANGUAGE ENGINE 1  
+Author: David M. Carter 
+Date: 1989  
+Note: ACL, Manchester,  
+Web: URL: http://www.cam.sri.com/tr/crc019/paper.ps.ZEuropean  
+Abstract: The SRI Core Language Engine (CLE) is a general-purpose natural language front end for interactive systems. It translates English expressions into representations of their literal meanings. This paper presents the lexical acquisition component of the CLE, which allows the creation of lexicon entries by users with knowledge of the application domain but not of linguistics or of the detailed workings of the system. It is argued that the need to cater for a wide range of types of back end leads naturally to an approach based on eliciting grammaticality judgments from the user. This approach, which has been used to define a 1200-word core lexicon of English, is described and evaluated. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Alshawi, Hiyan, David M. Carter, Jan van Eijck, Robert C. </author> <title> Moore, </title> <publisher> Douglas B. </publisher>
+Reference: <author> Moran, Fernando C.N. Pereira, Arnold G. Smith and Steve G. Pulman. </author> <year> 1988a. </year> <title> Interim Report on the SRI Core Language Engine. </title> <type> Report CCSRC-005, </type> <institution> SRI International Cambridge Research Centre, </institution> <address> Cambridge, England. </address>
+Reference: <author> Alshawi, Hiyan, David M. Carter, Jan van Eijck, Robert C. </author> <title> Moore, </title> <publisher> Douglas B. </publisher>
+Reference: <author> Moran and Steve G. Pulman. </author> <year> 1988b. </year> <title> Overview of the Core Language Engine. </title> <booktitle> Proceedings of the International Conference on Fifth Generation Computer Systems, Tokyo, </booktitle> <pages> pp. </pages> <note> 1108-1115; also Report CCSRC-008, </note> <institution> SRI International Cam-bridge Research Centre, </institution> <address> Cambridge, England. </address>
+Reference: <author> Gross, Maurice. </author> <year> 1975. </year> <institution> Methodes en Syntaxe, Hermann, Paris. </institution>
+Reference: <author> Grosz, Barbara J., Douglas E. Appelt, Paul Martin, and Fernando C.N. Pereira. </author> <year> 1987. </year> <title> TEAM: An Experiment in the Design of Transportable Natural-Language Interfaces. </title> <journal> Artificial Intelligence, </journal> <volume> 32 </volume> <pages> 173-243. </pages>
+Reference-contexts: This situation contrasts with that obtaining in, for example, the TEAM system <ref> (Grosz et al, 1987) </ref>. Whereas the CLE is intended to interface to a range of back end systems, TEAM was designed specifically as a front end for databases of a particular kind.
+References-found: 6
+

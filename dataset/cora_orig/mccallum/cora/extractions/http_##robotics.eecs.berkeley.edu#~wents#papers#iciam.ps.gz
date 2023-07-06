@@ -1,0 +1,25 @@
+URL: http://robotics.eecs.berkeley.edu/~wents/papers/iciam.ps.gz
+Refering-URL: http://robotics.eecs.berkeley.edu/~wents/publications.html
+Root-URL: 
+Title: Visualization of Orbits and Pattern Evocation for the Double Spherical Pendulum  
+Author: Jerrold E. Marsden Jurgen Scheurle Jeffrey M. Wendlandt 
+Note: this version:  Proceedings of the ICIAM Conference, Hamburg,  Research partially supported by NSF, DOE, and NATO. Research partially supported by DFG and NATO.  
+Date: April, 1995;  August 2, 1995  July, 1995  
+Address: Pasadena, CA 91125.  Bundesstrasse 55, D-20146 Hamburg, Germany  Berkeley, CA 94720  
+Affiliation: Control and Dynamical Systems, California Institute of Technology,  Institut fur Angewandte Mathematik  Mechanical Engineering, University of California,  
+Abstract: This paper explores pattern evocation and the visualization of orbits of the double spherical pendulum. Pattern evocation is a phenomenon where patterns emerge when the flow of a dynamical system is viewed in a frame that rotates relative to the inertial frame. The paper begins with a summary of the theory on pattern evocation for mechanical systems with symmetry. The result of this theory is that if the motion in the reduced space is periodic (respectively, quasiperi-odic or almost periodic), then when viewed in a suitably chosen rotating frame with constant velocity, the motion in the unreduced space is periodic (respectively, quasiperiodic or almost periodic). The motion of the system viewed in this rotating frame may have a particular pattern or symmetry. Examples of this theory are demonstrated for the double spherical pendulum. A differential-algebraic model is created for the double spherical pendulum and is integrated with the simulation package MEXX as well as a custom energy-momentum integrator. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Gonzales, O. and J.C. </author> <title> Simo [1994] On the stability of Symplectic and Energy-Momentum Algorithms for Nonlinear Hamiltonian Systems with Symmetry. </title> <type> preprint. </type>
+Reference: <author> Kunin, I., F. Hussain, X. Zhou, and S.J. </author> <month> Prishepionok </month> <year> [1992]. </year> <title> Centroidal frames in dynamical systems I. Point vortices, </title> <journal> Proc. Roy. Soc. Lon. </journal> <volume> A 439, </volume> <pages> 441-463. </pages> <note> 15 Lubrich, </note> <author> Ch, U. Nowak, U. Pohle and Ch. </author> <title> Engstler [1992] MEXX Numerical Software for the Integration of Constrained Mechanical Multibody Systems. </title> <institution> Konrad-Zuse-Zentrum fur Informationstechnik Berlin (ZIB), </institution> <note> Available through anonymous ftp at elib.zib-berlin.de in pub/elib/codelib. </note>
+Reference: <author> Marsden, J.E. </author> <year> [1992], </year> <booktitle> Lectures on Mechanics London Mathematical Society Lecture note series, </booktitle> <volume> 174, </volume> <publisher> Cambridge University Press. </publisher>
+Reference: <author> Marsden, J.E. and J. </author> <title> Scheurle [1993a] Lagrangian reduction and the double spherical pendulum, </title> <booktitle> ZAMP 44, </booktitle> <pages> 17-43. </pages>
+Reference: <author> Marsden, J.E. and J. </author> <title> Scheurle [1993b] The reduced Euler-Lagrange equations, </title> <journal> Fields Institute Comm. </journal> <volume> 1, </volume> <pages> 139-164. </pages>
+Reference: <author> Marsden, J.E. and J. </author> <title> Scheurle [1995] Pattern evocation and geometric phases in mechanical systems with symmetry, Dyn. and Stab. </title> <journal> of Systems. </journal> <note> (to appear). </note>
+Reference: <author> McLaughlin, R.I. and C. </author> <title> Scovel [1995] Equivariant constrained symplectic integration. </title> <journal> J. of Nonl. Sci. </journal> <volume> 5, </volume> <pages> 233-256. </pages>
+Reference: <author> Melbourne, I., M. Dellnitz, and M. </author> <title> Golubitsky [1993] The structure of symmetric attractors. </title> <journal> Arch. Rat. Mech. and An. </journal> <volume> 123, </volume> <pages> 75-98. </pages>
+Reference: <author> Simo, J.C. and O. </author> <title> Gonzalez [1993] Assessment of energy-momentum and symplectic schemes for stiff dynamical systems. </title> <booktitle> ASME Winter Annual Meeting , New Orleans. </booktitle>
+Reference: <author> Simo, J.C. and N. </author> <title> Tarnow [1992] The discrete energy-momentum method. Conserving algorithms for nonlinear elastodynamics, </title> <booktitle> ZAMP 43, </booktitle> <pages> 757-792. </pages> <note> 16 Tarnow, </note> <author> N. </author> <title> [1993] Energy-momentum Conserving Algorithms for Hamiltonian Systems in the Non--linear Dynamics of Solids Thesis, </title> <publisher> Stanford University 11, </publisher> <pages> 123-223. </pages>
+Reference: <author> Wendlandt, J.M. </author> <title> [1995] Pattern Evocation and Energy-Momentum Integration of the Double Sper-hical Pendulum. </title> <type> MA Thesis, </type> <institution> Mathematics, UC Berkeley. </institution> <month> 17 </month>
+References-found: 11
+

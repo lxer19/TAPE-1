@@ -1,0 +1,19 @@
+URL: ftp://ftp.cs.uu.nl/pub/RUU/CS/techreps/CS-1994/1994-48.ps.gz
+Refering-URL: http://www.cs.ruu.nl/docs/research/publication/TechList1.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: A logical framework for default reasoning. side-effect problems in linear time and branching time intention
+Author: [] J.-J. Ch. Meyer and W. van der Hoek. D. Poole. Rao and M.P. Georgeff. J. Allen, R. Fikes, and E. Rao and M.P. Georgeff. 
+Date: September 1993.  
+Address: Stanford CA,  Amsterdam, 1991.  
+Note: Press, 1994. To appear. [35] R.C. Moore. Reasoning about knowledge and action. Technical Report 191, SRI International, 1980. [36] R.C. Moore. A formal theory of knowledge and action. Technical Report 320, SRI International, 1984. [37] A. Nait-Abdallah. The Logic of Partial Information. To appear, 1994. [38]  Artificial Intelligence, 36:27-47, 1988. [39] A.S. Rao and M.P. Georgeff. Asymmetry thesis and  In Proceedings of the Twelfth International Joint Conference on Artificial Intelligence (IJCAI91), pages 498-504, 1991. [40] A.S.  Sandewall, editors, Proceedings of the Second International Conference on Principles of Knowledge Representation and Reasoning, pages 473 484, San Mateo CA, 1991. Mogan Kaufmann. [41] A.S.  In Proceedings of the Thirteenth International Joint Conference on Artificial Intelligence (IJCAI'93), pages 318-324, 1993. [42] R. Reiter. A logic for default reasoning. Artificial Intelligence, 13:81-132, 1980. [43] Y. Shoham. Agent-oriented programming. Artificial Intelligence, 60:51-92, 1993. [44] E. Spaan. Complexity of Modal Logics. PhD thesis, Universiteit van Amsterdam, 1993. [45] S.R. Thomas. PLACA, An Agent Oriented Programming Language. PhD thesis,  Appeared as technical report STAN-CS-93-1487. [46] M. Truszczynski. Modal interpretations of default logic. In Proceedings of the Twelfth International Joint Conference on Artificial Intelligence, pages 393-398, 1991. [47] F. Veltman.  [48] G.H. von Wright. Norm and Action. Routledge Kegan Paul, London, 1963.  
+Affiliation: Epistemic Logic for AI and Computer Science. Cambridge University  Department of Computer Science, Stanford University,  versity of  
+Pubnum: Technical Report LP-91-02, ILLC, Uni  
+Abstract: Our papers are available at http://www.cs.ruu.nl/~bernd 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> P. Besnard. </author> <title> An Introduction to Default Logic. </title> <publisher> Springer-Verlag, </publisher> <address> Berlin-Heidelberg, </address> <year> 1989. </year>
+Reference: [2] <author> G. Brewka. </author> <title> Nonmonotonic Reasoning: Logical Foundations of Commonsense. </title> <publisher> Cam-bridge University Press, </publisher> <address> Cambridge, </address> <year> 1991. </year>
+
+
+References-found: 2
+

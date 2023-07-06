@@ -1,0 +1,13 @@
+URL: ftp://softlib.rice.edu/pub/CRPC-TRs/reports/CRPC-TR94479.ps.gz
+Refering-URL: http://www.crpc.rice.edu/CRPC/softlib/TRs_online.html
+Root-URL: 
+Title: Evaluating Two Loop Transformations for Reducing Multiple-Writer False Sharing  
+Author: Fran~cois Bodin Elana D: Granston Thierry Montaut bodin@irisa:fr granston@cs:rice:edu montaut@irisa:fr 
+Address: 35042 Rennes, Cedex, France  Street, Houston, Texas 77005, USA  
+Affiliation: IRISA, Campus de Beaulieu,  Rice University, Center for  
+Note: From the 7th Annual Workshop on Languages and Compiler for Parallel Computing, Ithaca, New York, August, 1994. Abridged version to be published by Springer-Verlag.  Research on Parallel Computation 6100 S. Main  
+Abstract: To simplify the programming of hierarchical and distributed-memory parallel systems, the notion of shared virtual memory (SVM) has been proposed. This abstraction provides the programmer with the illusion of a flat global address space and coherence is maintained at the page level. The success of this abstraction depends on the efficiency of page management. This in turn depends on the efficiency of handling false sharing and the resulting ping-pong effects that it can cause. In this paper, we evaluate two loop transformations for attacking this problem. The first is a simple, new, compile-time technique for reducing the ping-pong effects that result from multiple-writer false sharing. The second is our previously-proposed technique for eliminating multiple-writer false sharing itself. These techniques have been implemented in the Fortran-S compiler, which generates code that runs on the iPSC/2 under the KOAN SVM. Preliminary performance results are presented. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

@@ -1,0 +1,25 @@
+URL: http://langmuir.eecs.berkeley.edu/~kc/research/japan.iaw.proc.ps.gz
+Refering-URL: http://langmuir.eecs.berkeley.edu/~kc/research/IAW.html
+Root-URL: 
+Title: Refraction and Reflection of Ion Acoustic Solitons by Space Charge Sheath  
+Author: K. L. Cartwright and C. K. Birdsall 
+Date: 23057.  
+Note: Acknowledgments: This research is supported by ONR grant number N00014-90-J-1198 and ONR-AASERT  
+Address: Berkeley, CA 94720-1774  
+Affiliation: Electronics Research Laboratory University of California,  
+Abstract: Experiments have shown[1],[2] that ion acoustic solitons tunnel through the space charge sheath in front of a grid without time delay. They are absorbed resonantly when the spatial width of the wave is close to the characteristic gradient scale length of the sheath. The reflection and transmission coefficients found in these experiments have compared well with theory in the long wavelength limit[3]. However, to achieve this comparison, two parameters were added that were not in the original theory. These parameters allow for the absorption of wave energy by the space charge sheath. The goal of our numerical simulations, designed to reproduce the experimental results, is to uncover the mechanism of this energy loss and large speed of propagation through the sheath. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Y. Nishida, </author> <title> Phys. </title> <type> Fluids 27, </type> <month> 2176 </month> <year> (1984) </year>
+Reference: [2] <author> Y. Nishida, K. Yoshida, and T. </author> <title> Nagasawa, </title> <journal> Phys. </journal> <volume> Fluids B 5 (3), </volume> <month> March </month> <year> 1993 </year>
+Reference-contexts: It is clarly seen from Figure 10 that the transmission rate of the wave decresaes and reflection rate incresase as the width of the wave is the order of the sheath width. This is also seen in the experiment by Nishida et.al. <ref> [2] </ref>, Figure 11.
+Reference: [3] <author> T. Watanabe, C. Matsuoka, and N. Yajima, </author> <title> J.Phys. </title> <journal> Soc. Japan. </journal> <volume> 60, </volume> <month> 2197 </month> <year> (1991). </year>
+Reference: [4] <author> M. Yamada and M. Raether, </author> <title> "Evolution of the ion-acoustic instability in a direct-current discharge plasma," </title> <journal> Phys. </journal> <volume> Fluids 18(3), </volume> <month> March </month> <year> 1975. </year> <pages> 2 3 </pages>
+Reference-contexts: In the sheath, electric potential energy is higher than the electron thermal energy (pressure) which drives the acoustic wave. In plasma, the ions and electrons oscillate in phase with little self E. However, the electric field in the sheath drives ions and electrons in opposite directions. Yamada and Raether <ref> [4] </ref> show that the direct influence of an electric field in a plasma causes a significant modification of the dispersion relation which should not be neglected. Yamada and Raether then neglect the electric field term because it leads to substantial simplification of the dispersion relation.
+Reference: [5] <author> G. A. Emmert, R. M. Wieland, A. T. Mense, and J. N. Davidson, </author> <title> "Electric sheath and presheath in a collisionless, finite ion temperature plasma," </title> <journal> Phys. </journal> <volume> Fluids 23(4), </volume> <month> April </month> <year> 1980. </year>
+Reference: [6] <author> R. R. Weynants, A. M. Messiaen, and P. E. Vandenplas, </author> <title> "Nonquasineutral theory of ion-acoustic resonances in bounded nonuniform plasma and comparison with experiments," </title> <journal> Phys. </journal> <volume> Fluids 16(10), </volume> <month> October </month> <year> 1973. </year>
+Reference: [7] <author> J. L. Cooney, M. T. Gavin, J. E. Williams, D. W. Aossey, and K. E. Lonngren, </author> " <title> Soliton Propagation, collision, and reflection at a sheath in a positive ion-negative ion plasma," </title> <journal> Phys. </journal> <volume> Fluids B 3 (12), </volume> <month> December </month> <year> 1991. </year>
+Reference: [8] <author> R. W. Hockney, and J. W. Eastwood, </author> <title> Computer Simulation Using Particles, </title> <publisher> McGraw-Hill, </publisher> <address> New York, </address> <year> 1981. </year>
+Reference: [9] <author> M. A. Lieberman, and A. J. Lichtenberg, </author> <title> Principles of Plasma Discharges and Materials Processing, </title> <publisher> Wiley, </publisher> <address> New York, </address> <year> 1994. </year> <month> 4 </month>
+References-found: 9
+

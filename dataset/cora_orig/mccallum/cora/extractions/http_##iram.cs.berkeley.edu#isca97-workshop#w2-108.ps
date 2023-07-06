@@ -1,0 +1,21 @@
+URL: http://iram.cs.berkeley.edu/isca97-workshop/w2-108.ps
+Refering-URL: http://iram.cs.berkeley.edu/isca97-workshop/
+Root-URL: 
+Email: weems@cs.umass.edu  
+Title: Considerations Leading to an Asynchronous SIMD Architectural Approach for Exploiting Mixed Logic and Memory  
+Author: Charles Weems 
+Address: Amherst, MA 01003-4610  
+Affiliation: Computer Science Department University of Massachusetts  
+Abstract: There is currently a great deal of interest in the architecture community over the possibility of developing processor architectures that have direct access to the internal bandwidth that is available within memory chips [1, 2]. In this paper we begin by examining some economic factors that affect the likely potential for such access, and their implications for the technology that may become available to architects as a result. An architectural concept is then discussed that has the potential to take advantage of that technology. 
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> David A.Patterson, </author> <title> Microprocessors in 2020, </title> <publisher> Scientific American, </publisher> <month> Sept., </month> <year> 1995, </year> <pages> pp. 48-51. </pages>
+Reference: 2. <author> D.C. Burger, S. Kaxiras, and J.R. Goodman. </author> <title> "DataScalar Architectures," </title> <booktitle> To appear in the 24th International Symposium on Computer Architecture (ISCA), </booktitle> <month> June, </month> <year> 1997. </year>
+Reference: 3. <author> Tom Blank, </author> <title> The MasPar MP-1 Architecture, </title> <booktitle> Proceedings of IEEE CompCon, </booktitle> <month> February, </month> <year> 1990. </year>
+Reference-contexts: While much effort has gone into extracting parallelism at the instruction level of sequential programs, the level of parallelism and the regularity of access implied by the access restrictions inside a RAM body argue for explicit data parallelism. Certainly, SIMD arrays such as the Maspar <ref> [3] </ref> and CAAPP [4] have featured a heavy dependence on a large block of on-chip wide-access memory. At the other end of the data-parallel spectrum, we have the vector supercomputers which also relied on very wide data paths to memory. However, all of these machines have now exited the marketplace.
+Reference: 4. <author> Charles C. Weems, Steven Levitan, Allen R. Hanson, Edward M. Riseman, J. Gregory Nash, </author> <title> David Shu,"The Image Understanding Architecture", </title> <journal> International Journal of Computer Vision, </journal> <volume> 2(3) </volume> <pages> 252-282, </pages> <year> 1989. </year>
+Reference-contexts: While much effort has gone into extracting parallelism at the instruction level of sequential programs, the level of parallelism and the regularity of access implied by the access restrictions inside a RAM body argue for explicit data parallelism. Certainly, SIMD arrays such as the Maspar [3] and CAAPP <ref> [4] </ref> have featured a heavy dependence on a large block of on-chip wide-access memory. At the other end of the data-parallel spectrum, we have the vector supercomputers which also relied on very wide data paths to memory. However, all of these machines have now exited the marketplace.
+Reference: 5. <author> Martin Herbordt, </author> <title> "Performance Evaluation of Massively Parallel Array Architectures," </title> <institution> Computer Science Ph.D. Dissertation, University of Massachusetts, </institution> <address> Amherst, MA, </address> <month> August, </month> <year> 1994. </year>
+Reference-contexts: Memory blocks within RAM bodies and possibly multiple RAM bodies on a chip can be divided among multiple processor blocks or aggregated to serve a single block depending on the results of performance studies for the particular technologies being used <ref> [5] </ref>. Higher clock speeds imply greater memory bandwidth requirements to supply the processors with data. But as the previous discussion notes, almost all of the available pin bandwidth on the chip can be devoted to memory. It thus becomes a matter of balancing the processor throughput against the available bandwidth.
+References-found: 5
+

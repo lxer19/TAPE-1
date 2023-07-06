@@ -1,0 +1,15 @@
+URL: http://osl-www.cs.umass.edu/~stefanov/space-character.ps
+Refering-URL: http://spa-www.cs.umass.edu/memoranda.html
+Root-URL: 
+Title: The character of the instruction scheduling problem  
+Author: Darko Stefanovic 
+Date: March 1997  
+Affiliation: Department of Computer Science University of Massachusetts  
+Abstract: Here I present some measurements that serve to characterize the nature of the problem of basic block instruction scheduling, as it is encountered in practice. Finding optimal schedules is known to be NP-hard [Hennessy and Gross, 1983]; but it is worth knowing how hard the task is in an average sense, where the average is with respect to an input space of problems (basic blocks) found in the everyday practice of compiling. The space I consider is the set of all basic blocks in all of SPEC95 benchmarks, produced by compiling on the Digital Alpha architecture [Bhandarkar, 1996]. It is also worth knowing how close a heuristic scheduler comes to the optimum, especially when one wants to design a new heuristic scheduler; I present one such evaluation for a scheduler made available by Digital and show that it is almost optimal (with respect to its own cost measure).
+Abstract-found: 1
+Intro-found: 1
+Reference: [Bhandarkar, 1996] <author> Bhandarkar, D. P. </author> <year> (1996). </year> <title> Alpha implementations and architecture : complete reference and guide. </title> <publisher> Digital Press, </publisher> <address> Boston, Mass. </address>
+Reference-contexts: 0.0423 60 9 10809 79020734 7310.642 0.0201 336 11 6465 2824527921 436895.270 0.0109 3600 Table 2: Search space size measures (all of SPEC95). 4 <br>- tion). 5 4 Assessment of the DEC scheduler The DEC scheduler is a basic block instruction scheduler for the Alpha architecture and its 21064 implementation <ref> [Bhandarkar, 1996] </ref>. It was made available by Digital together with a basic block execution simulator: the simulator calculates how many cycles the presented sequence of instructions takes to execute without reordering. This scheduler is not, as far as I know, the same as that found in Digital's compilers.
+Reference: [Hennessy and Gross, 1983] <author> Hennessy, J. and Gross, T. </author> <month> (July </month> <year> 1983). </year> <title> Postpass code optimization of pipeline constraints. </title> <journal> ACM Transactions on Programming Languages and Systems, 5(3):422448. </journal> <volume> 7 8 </volume>
+References-found: 2
+

@@ -1,0 +1,13 @@
+URL: http://www.cs.ucdavis.edu/~blackj/ps/223_3.ps.gz
+Refering-URL: http://www.cs.ucdavis.edu/~blackj/hw.html
+Root-URL: http://www.cs.ucdavis.edu
+Title: Homework #3  Problem 1 Text Problem 5.30  
+Author: John R. Black 
+Keyword: processor requires total time t total t local n(4t local t c  
+Date: Spring 1996  14 May 1996  
+Note: ECS 223: Parallel Algorithms  Each processor must initially set C[i; j] to 0 (line 6), and then perform 3 reads, 1 write, and 1 multiply-and-add, n times (line 8). This means each  
+Abstract: We analyze a matrix-multiplication algorithm (program 5.7, page 202) when running on an n 2 -processor CREW PRAM. Reading or writing memory takes time t local and an add-and-multiply takes time t c . Since this is linear in n, the processor-time-product is fi(n 3 ). Whether this is cost-optimal depends on which sequential algorithm we employ: using the analogous matrix multiplying algorithm (which is fi(n 3 )) the above algorithm is cost-optimal. However since better algorithms do exist for the serial case (such as Strassen's algorithm with its asymtotic complexity of about fi(n 2:8 )) then strictly speaking our algorithm is not cost-optimal. 
+Abstract-found: 1
+Intro-found: 0
+References-found: 0
+

@@ -1,0 +1,13 @@
+URL: ftp://ftp.cs.purdue.edu/pub/jorg/97.PS.ps.Z
+Refering-URL: http://www.cs.purdue.edu/homes/jorg/jorgs_papers.html
+Root-URL: http://www.cs.purdue.edu
+Title: The Platonic Spheroids  
+Author: Jorg Peters and Leif Kobbelt 
+Keyword: Table 1 patches interpolates max Gauss name curvature  
+Note: Tetroid 4 Tetrahedron 3:24 Hexoid 6 Cube 1:92 Octoid 8 Octahedron 1:69 Dodecoid 20 Icosahedron 1:25  
+Abstract: We present a gallery of simple curvature continuous surfaces that possess the topological structure of the Platonic solids. These sphere-like surfaces consist of one cubic triangular or biquadratic quadrilateral patch per vertex of the solid and interpolate the vertices of the dual solid. Constructing low degree polynomial curvature continuous surfaces is a difficult problem. Existing parametric solutions [3, 6, 5] require both a large number of patches and high degree. A recent implicit curvature continuous construction requires only algebraic degree 4, but consists of many pieces [4]. On the other hand the existence of low degree (rational) curvature continues representations of shapes such as the sphere hints at the existence of elegant solutions for restricted geometric shapes. This paper describes a small family of polynomial surfaces that approximate the sphere and have the symmetry structure of Platonic polyhedra. These spheroids embody a remarkably simple construction principle: pick a Platonic polyhedron and its dual; associate with each 3-valent vertex of the dual a triangular patch of degree 3, or with each 4-valent vertex a quadrilateral patch of degree bi-2. The Bernstein-Bezier control points of the spheroid patches are the face centroids, edge midpoints and scaled vertices of the dual. By symmetry, the spheroid interpolates the vertices of the Platonic and by scaling those of the dual Platonic. Using their simple, explicit parametrization the two highly symmetric platonic spheroids can be proven strictly convex. The table below collects basic spheroid properties. x1. Polynomial curvature continuous surfaces
+Abstract-found: 1
+Intro-found: 0
+Reference: <institution> Jorg Peters Dept of Computer Sciences Purdue University W-Lafayette IN 47907-1398 jorg@cs.purdue.edu http://www.cs.purdue.edu/people/jorg Leif Kobbelt Computer Graphics Group Computer Sciences Department University of Erlangen-N"urnberg Am Weichselgarten 9 kobbelt@immd9.informatik.uni-erlangen.de </institution>
+References-found: 1
+

@@ -1,0 +1,30 @@
+URL: http://www.ai.mit.edu/projects/cbcl/web-pis/poggio/sparse-representation.ps.gz
+Refering-URL: http://www.ai.mit.edu/projects/cbcl/web-pis/poggio/memos.html
+Root-URL: 
+Title: A Sparse Representation for Function Approximation  
+Author: Tomaso Poggio and Federico Girosi 
+Address: Cambridge MA 02139 USA  
+Affiliation: Center for Biological and Computational Learning and Artificial Intelligence Laboratory Massachusetts Institute of Technology  
+Abstract: We derive a new general representation for a function as a linear combination of local correlation kernels at optimal sparse locations (and scales) and characterize its relation to PCA, regularization, sparsity principles and Support Vector Machines. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> N. Aronszajn. </author> <title> Theory of reproducing kernels. </title> <journal> Trans. Amer. Math. Soc., </journal> <volume> 686 </volume> <pages> 337-404, </pages> <year> 1950. </year>
+Reference: [2] <author> B.E. Boser, I.M. Guyon, and V.N. Vapnik. </author> <title> A training algorithm for optimal margin classifier. </title> <booktitle> In Proc. 5th ACM Workshop on Computational Learning Theory, </booktitle> <pages> pages 144-152, </pages> <address> Pittsburgh, PA, </address> <month> July </month> <year> 1992. </year>
+Reference: [3] <author> S. Chen, , D. Donoho, and M. Saunders. </author> <title> Atomic decomposition by basis pursuit. </title> <type> Technical Report 479, </type> <institution> Department of Statistics, Stanford University, </institution> <month> May </month> <year> 1995. </year>
+Reference: [4] <author> S. Chen. </author> <title> Basis Pursuit. </title> <type> PhD thesis, </type> <institution> Department of Statistics, Stanford University, </institution> <month> November </month> <year> 1995. </year>
+Reference: [5] <author> C. Cortes and V. Vapnik. </author> <title> Support vector networks. </title> <journal> Machine Learning, </journal> <volume> 20 </volume> <pages> 1-25, </pages> <year> 1995. </year>
+Reference: [6] <author> F. Girosi. </author> <title> An equivalence between sparse approximation and Support Vector Machines. A.I. </title> <type> Memo 1606, </type> <institution> MIT Artificial Intelligence Laboratory, </institution> <year> 1997. </year> <note> (available at the URL: http://www.ai.mit.edu/people/girosi/svm.html). </note>
+Reference: [7] <author> F. Girosi, T. Poggio, and B. Caprile. </author> <title> Extensions of a theory of networks for approximation and learning: outliers and negative examples. A.I. </title> <type> Memo 1220, </type> <institution> Artificial Intelligence Laboratory, Massachusetts Institute of Technology, </institution> <year> 1990. </year>
+Reference: [8] <author> S. Mukherjee, E. Osuna, and F. Girosi. </author> <title> Nonlinear prediction of chaotic time series using support vector machines. </title> <booktitle> In IEEE Workshop on Neural Networks and Signal Processing (in press), </booktitle> <address> Amelia Island, FL, </address> <month> September </month> <year> 1997. </year>
+Reference: [9] <author> B.A. </author> <title> Olshausen and D.J. Field. Emergence of simple-cell receptive field properties by learning a sparse code for natural images. </title> <journal> Nature, </journal> <volume> 381 </volume> <pages> 607-609, </pages> <year> 1996. </year>
+Reference: [10] <author> M. Oren, C. Papageorgiou, P. Sinha, E. Osuna, and T. Poggio. </author> <title> Pedestrian detection using wavelet templates. </title> <booktitle> In Proc. Computer Vision and Pattern Recognition, </booktitle> <pages> pages 193-199, </pages> <address> Puerto Rico, </address> <month> June 16-20 </month> <year> 1997. </year>
+Reference: [11] <author> P. S. Penev and J. J. Atick. </author> <title> Local feature analysis: A general statistical theory for object representation. Neural Systems, </title> <journal> 7:477, </journal> <volume> 500, </volume> <year> 1996. </year>
+Reference: [12] <author> T. Poggio and F. Girosi. </author> <title> Notes on PCA, Regularization, Support Vector Machines and Sparsity. </title> <journal> A.I. </journal> <note> Memo (in press), </note> <institution> MIT Artificial Intelligence Laboratory, </institution> <year> 1997. </year>
+Reference: [13] <author> L. Sirovich and M. Kirby. </author> <title> A low dimensional procedure for identifying human faces. </title> <journal> Journal of Optical Society A, </journal> <volume> 4:519, </volume> <year> 1987. </year> <month> 10 </month>
+Reference: [14] <author> M. Turk and A. Pentland. </author> <title> Eigenfaces for recognition. </title> <journal> Journal of Cognitive Neuroscience, </journal> <volume> 3(1) </volume> <pages> 71-86, </pages> <year> 1991. </year>
+Reference: [15] <author> V. Vapnik. </author> <title> The Nature of Statistical Learning Theory. </title> <publisher> Springer, </publisher> <address> New York, </address> <year> 1995. </year>
+Reference: [16] <author> V. Vapnik, S.E. Golowich, and A. Smola. </author> <title> Support vector method for function approximation, regression estimation, </title> <booktitle> and signal processing. In Advances in Neural Information Processings Systems 9, </booktitle> <pages> pages 281-287, </pages> <address> San Mateo, CA, 1997. </address> <publisher> Morgan Kaufmann Publishers. </publisher>
+Reference: [17] <author> V. N. Vapnik. </author> <title> Estimation of Dependences Based on Empirical Data. </title> <publisher> Springer-Verlag, </publisher> <address> Berlin, </address> <year> 1982. </year>
+Reference: [18] <author> G. Wahba. </author> <title> Splines Models for Observational Data. </title> <booktitle> Series in Applied Mathematics, </booktitle> <volume> Vol. 59, </volume> <publisher> SIAM, </publisher> <address> Philadelphia, </address> <year> 1990. </year> <month> 11 </month>
+References-found: 18
+

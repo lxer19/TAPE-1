@@ -1,0 +1,13 @@
+URL: ftp://ftp.cs.wisc.edu/math-prog/tech-reports/94-01.ps.Z
+Refering-URL: 
+Root-URL: 
+Title: P c -Matrices and the Linear Complementarity Problem  
+Author: Menglin Cao and Michael C. Ferris 
+Address: Wisconsin, 1210 West Day-ton Street, Madison, Wisconsin 53706  
+Affiliation: Computer Sciences Department, University of  
+Abstract: We introduce a new matrix class P c , which consists of those matrices M for which the solution set of the corresponding linear complementarity problem is connected for every q 2 IR n . We consider Lemke's pivotal method from the perspective of piecewise linear homotopies and normal maps and show that Lemke's method processes all matrices in P c " Q 0 . We further investigate the relationship of the class P c to other known matrix classes and show that column sufficient matrices are a subclass of P c , as are 2 fi 2 P 0 -matrices. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <editor> In R. W. Cottle and C. E. Lemke, editors, </editor> <booktitle> Nonlinear Programming, </booktitle> <pages> pages 73-143, </pages> <address> Providence, RI, </address> <year> 1976. </year> <journal> American Mathematical Society, </journal> <note> SIAM-AMS Proceedings. 9 M. </note> <author> S. Gowda. </author> <title> Applications of degree theory to linear complementarity problems. </title> <journal> Mathematics of Operations Research, </journal> <volume> 18 </volume> <pages> 868-879, </pages> <year> 1993. </year> <note> 10 C. </note> <author> E. Lemke. </author> <title> Bimatrix equilibrium points and mathematical programming. </title> <journal> Management Science, </journal> 11:681-689, 1965. <volume> 11 </volume> K. G. Murty. Linear Complementarity, Linear and Nonlinear Programming. Helderman-Verlag, Berlin, 1988. 12 S. M. Robinson. Normal maps induced by linear transformations. Mathematics of Operations Research, 17:691-714, 1992.
+References-found: 1
+

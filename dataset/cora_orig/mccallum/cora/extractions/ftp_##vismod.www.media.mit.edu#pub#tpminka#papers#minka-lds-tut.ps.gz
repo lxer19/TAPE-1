@@ -1,0 +1,14 @@
+URL: ftp://vismod.www.media.mit.edu/pub/tpminka/papers/minka-lds-tut.ps.gz
+Refering-URL: http://www.media.mit.edu/~tpminka/papers/tutorial.html
+Root-URL: http://www.media.mit.edu
+Title: From Hidden Markov Models to Linear Dynamical Systems  
+Author: Thomas P. Minka 
+Abstract: Hidden Markov Models (HMMs) and Linear Dynamical Systems (LDSs) are based on the same assumption: a hidden state variable, of which we can make noisy measurements, evolves with Markovian dynamics. Both have the same independence diagram and consequently the learning and inference algorithms for both have the same structure. The only difference is that the HMM uses a discrete state variable with arbitrary dynamics and arbitrary measurements while the LDS uses a continuous state variable with linear-Gaussian dynamics and measurements. We show how the forward-backward equations for the HMM, specialized to linear-Gaussian assumptions, lead directly to Kalman filtering and Rauch-Tung-Streibel smoothing. We also investigate the most general possible modeling assumptions which lead to efficient recursions in the case of continuous state variables. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Zoubin Ghahramani and Geoffrey E. Hinton. </author> <title> Parameter estimation for linear dynamical systems. </title> <type> Technical Report CRG-TR-96-2, </type> <institution> University of Toronto, </institution> <year> 1996. </year> <note> http://www.cs.utoronto.ca/~zoubin/. </note>
+Reference: [2] <author> Thomas P. Minka. </author> <title> Old and new matrix algebra useful for statistics. </title> <note> http://vismod.www.media.mit.edu/~tpminka/papers.html, 1997. </note>
+Reference: [3] <author> Judea Pearl. </author> <title> Probabilistic Reasoning in Intelligent Systems. </title> <publisher> Morgan Kaufmann, </publisher> <address> San Fran-cisco, CA, </address> <year> 1988. </year>
+Reference: [4] <author> L. R. Rabiner. </author> <title> A tutorial on hidden Markov models and selected applications in speech recognition. </title> <journal> Proc. IEEE, </journal> <volume> 77(2) </volume> <pages> 257-286, </pages> <month> Feb. </month> <year> 1989. </year> <month> 10 </month>
+References-found: 4
+

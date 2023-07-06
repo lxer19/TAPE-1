@@ -1,0 +1,18 @@
+URL: http://www.cs.unc.edu/Research/brainlab/PAPERS/curve9709.ps.gz
+Refering-URL: http://www.cs.unc.edu/Research/brainlab/
+Root-URL: http://www.cs.unc.edu
+Title: Curved trajectory prediction using a self-organizing neural network  
+Author: Jonathan A. Marshall Viswanath Srikanth 
+Keyword: Curve, target tracking, neural network, disfacilitation, vision, visual learning, motion perception.  
+Note: submitted for publication. Readers' comments are invited.]  
+Address: 3175, Sitterson Hall  Chapel Hill, NC 27599-3175, U.S.A.  
+Affiliation: Department of Computer Science, CB  University of North Carolina,  
+Email: marshall@cs.unc.edu,  
+Phone: 919-962-1887, fax 919-962-1799  
+Date: September 1997  [September 1997,  
+Abstract: Existing neural network models are capable of tracking linear trajectories of moving visual objects. This paper describes an additional neural mechanism, disfacilitation, that enhances the ability of a visual system to track curved trajectories. The added mechanism combines information about an object's trajectory with information about changes in the object's trajectory, to improve the estimates for the object's next probable location. Computational simulations are presented that show how the neural mechanism can learn to track the speed of objects and how the network operates to predict the trajectories of accelerating and decelerating objects. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Tsukahara N, Toyama K, Kosaka K, </author> <title> Udo M (1965) `Disfacilitation' of red nucleus neurones. Experientia 21 544-545. Woodward DJ, Kirilov AB, Myre CD, Sawyer SF (1995) Neurostriatal circuitry as a scalar memory: Modeling and ensemble neuron recording. </title> <booktitle> Models of Information Processing in the Basal Ganglia, </booktitle> <editor> JC Houk, J Davis (eds), </editor> <publisher> MIT Press, </publisher> <pages> 315-336. 24 </pages>
+References-found: 1
+

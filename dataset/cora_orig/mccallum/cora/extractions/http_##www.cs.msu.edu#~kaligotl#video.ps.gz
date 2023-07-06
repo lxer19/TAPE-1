@@ -1,0 +1,19 @@
+URL: http://www.cs.msu.edu/~kaligotl/video.ps.gz
+Refering-URL: http://www.cs.msu.edu/~kaligotl/papers.html
+Root-URL: http://www.cs.msu.edu
+Title: Videocon A Video Only Conferencing System  CPS 812 Advanced Operating Systems  
+Author: Chakrapani Kaligotla Tharuna Niranjan Instructor: Dr. Matt W. Mutka 
+Date: Spring 1995  April 21, 1995  
+Affiliation: Department of Computer Science Michigan State University  
+Abstract: Desktop computers are increasingly being used as communication deivces. Advances in digital media are making the integration of video into desktop computers practical, both technically and economically. At the convergence of these technologies is computer- integrated video conferencing. This project is aimed at building a prototype video only conferencing system called Videocon, to gain hands-on experience with implementing a multimedia application. Videocon is implemented using TCP/IP as the transport protocol and was mainly tested on Ethernet. It was found that Ethernet is incapable of supporting more than four users in conference. Efficient transport protocols need to be designed, which can deliver the high bandwidth of the underlying network to the applications. High bandwidth networks with low overhead transport protocols are needed for multimedia application like Videoconferencing. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Stephen E. Deering and David R. Cheriton, </author> <title> "Multicast Routing in Datagram Internets and Extended LANs", </title> <journal> ACM Transactions on Computer Systems, </journal> <volume> Volume 8, Number 2, </volume> <month> May </month> <year> 1990, </year> <pages> pp. 85-110. </pages>
+Reference-contexts: More information on TCP/IP multicast support is available in <ref> [1] </ref>, [2] and Solaris 2.3 Documen tation. 13 5 Conclusions Multimedia applications like videoconferencing are getting very popular mainly because they facilitate geographically separated users to work as a team. This greatly enhances the productivity and quality of work at the same time reducing the cost of travelling.
+Reference: [2] <author> Gary R. Wright and Richard W. Stevens, </author> <title> "TCP/IP Illustrated Vol-1 and Vol -2", </title> <publisher> Addison-Wesley, </publisher> <year> 1994. </year>
+Reference-contexts: More information on TCP/IP multicast support is available in [1], <ref> [2] </ref> and Solaris 2.3 Documen tation. 13 5 Conclusions Multimedia applications like videoconferencing are getting very popular mainly because they facilitate geographically separated users to work as a team. This greatly enhances the productivity and quality of work at the same time reducing the cost of travelling.
+Reference: [3] <institution> XIL Programmer's and Reference Manual. </institution>
+Reference: [4] <author> Richard W. Stevens, </author> <title> "UNIX Network Programming", </title> <publisher> Prentice-Hall Inc., </publisher> <address> Englewood Cliffs. </address>
+Reference: [5] <editor> Motif Progtammer's Reference Manual, </editor> <publisher> O'Reilly & Associates, Inc. </publisher> <pages> 15 </pages>
+References-found: 5
+

@@ -1,0 +1,77 @@
+URL: http://www.cs.man.ac.uk/~petera/markt97.ps.gz
+Refering-URL: http://www.cs.man.ac.uk/~petera/
+Root-URL: http://www.cs.man.ac.uk
+Title: Constructive Type Theory Notes for Marktoberdorf 1997  
+Author: Peter Aczel 
+Note: 0-1  
+Date: July 12, 1997 Preface  
+Affiliation: Manchester  
+Abstract: These notes do not give a fully accurate representation of the planned lectures. Nevertheless they should provide useful background material which I hope will supplement the bibliography. The notes focus only on non-dependent type theory, which will be the topic of the first few lectures. The remaining lectures will extend the material to encompass constructive type theory with dependent types. The first part of these notes looks at aspects of the non-dependent part of constructive type theory from the foundational point of view, starting with a quote from Godel's Dialectica paper. The second part of these notes consists of material prepared for an MSc course at Manchester University on the simply typed lambda calculus. It includes sections on Deduction and the untyped lambda calculus. Unfortunately I have not had time to adjust the presentation to properly serve the purposes of the Summer School. Nevertheless I hope that it may prove useful as a metatheoretical counterpart to the foundational first part. 
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> M. Beeson, </author> <title> "Foundations of Constructive Mathematics", </title> <publisher> Springer-Verlag, </publisher> <year> 1985. </year>
+Reference: 2. <author> E. Bishop and D. </author> <title> Bridges, "Constructive Analysis", </title> <publisher> Springer-Verlag, </publisher> <year> 1985. </year>
+Reference: 3. <author> J. Girard, Y. Lafont and P. Taylor, </author> <title> "Proofs and Types", </title> <booktitle> Cambridge Tracts in Theoretical Computer Science 7, </booktitle> <publisher> Cambridge University Press, </publisher> <year> 1989. </year>
+Reference: 4. <author> J. Lambek and P.J. Scott, </author> <title> "Introduction to higher order categorical logic", </title> <booktitle> Cambridge Studies in Advanced Mathematics 7, </booktitle> <publisher> Cambridge University Press, </publisher> <year> 1986. </year>
+Reference: 5. <author> Z. Luo, </author> <title> "Computation and Reasoning: A Type Theory for Computer Science", </title> <publisher> Oxford University Press, </publisher> <year> 1994. </year>
+Reference: 6. <author> Z. Luo and R. Pollack, </author> <title> "LEGO Proof Development System: User's Manual", ECS-LFCS-92-211, </title> <type> LFCS Report Series, </type> <institution> CS Department, Edinburgh, </institution> <year> 1992. </year>
+Reference: 7. <author> P. Martin-Lof, </author> <title> "Intuitionistic Type Theory", </title> <type> Bibliopolis, </type> <institution> Napoli, </institution> <year> 1984. </year>
+Reference: 8. <author> B. Nordstrom, K. Petersson and J. Smith, </author> <title> "Programming in Martin-Lof's Type Theory, An Inroduction", </title> <booktitle> Monographs on Computer Science 7, </booktitle> <publisher> Oxford University Press, </publisher> <year> 1990. </year>
+Reference: 9. <author> B. Nordstrom and K. Petersson and J. Smith, </author> <title> "Martin-Lof's Type Theory." </title> <note> A chapter in Handbook of Logic in Computer Science, written in 1994, to appear. (Available by ftp from ftp://ftp.cs.chalmers.se/pub/cs-reports/papers/smith/hlcs.ps.gz) </note>
+Reference: 10. <author> A. Ranta, </author> <title> "Type Theoretical Grammar", </title> <publisher> Oxford University Press, </publisher> <year> 1994. </year>
+Reference: 11. <author> S. Thompson, </author> <title> "Type Theory and Functional Programming", </title> <publisher> Addison Wes-ley, </publisher> <year> 1991. </year>
+Reference: 12. <author> A. S. Troelstra and D. van Dalen, </author> <title> "Constructivism in Mathematics, An Introduction", </title> <journal> Vols. </journal> <volume> 1, 2, </volume> <booktitle> Studies in Logic, </booktitle> <publisher> North-Holland, </publisher> <year> 1988. </year>
+
+Reference: 1. <institution> The computable functions of type 0 are the natural numbers. </institution>
+
+Reference: 1. <institution> Frege's syntactically based distinction between function and object and his classification of functions into the number and kind of the argument places leading to his hierarchy of levels of functions. </institution>
+Reference: 2. <institution> Russell's predicative theory of types with its ramified hierachy. </institution>
+Reference: 3. <editor> Ramsey's `simplification' of Russell's full theory, </editor> <title> with the impredicative `Axiom of Reducability', into an impredicative simple type theory. </title>
+Reference: 4. <editor> Church's simple type theory, </editor> <title> the simply typed lambda calculus. </title>
+Reference: 5. <institution> The Church/Curry untyped lambda calculus and combinatory logic. </institution>
+Reference: 6. <institution> The Brouwer/Heyting/Kolmogorov explanations of Intuitionistic Logic. </institution>
+
+Reference: 8. <institution> The Gentzen/Prawitz analysis of logic: natural deduction and normalisa-tion of proofs, sequent calculus and cut-elimination. </institution>
+Reference: 9. <institution> De Bruijn's Automath. </institution>
+Reference: 10. <institution> Kreisel/Goodman theories of constructions. </institution>
+Reference: 11. <institution> Dana Scott's `Constructive Validity' paper. </institution>
+Reference: 12. <institution> The Curry-Howard correspondence between formulae and types. </institution>
+Reference: 13. <institution> Bishop's Constructive Mathematics. </institution>
+Reference: 14. <institution> Martin-Lof's dependent type theories and his meaning explanations. </institution>
+Reference: 15. <institution> Girard's system F and the Coquand/Huet calculus of constructions. </institution>
+Reference: 16. <institution> Categorical Logic. </institution>
+
+Reference: 1. <institution> Show that the theorems of an inference system form the smallest set X of statements such that, </institution> <note> for each step, if the premisses are in X then so is the conclusion. </note>
+
+Reference: 1. <institution> Leave out outermost parentheses. </institution>
+
+Reference: 1. <institution> Every constant is a term and every variable is a term. </institution>
+Reference: 2. <institution> If M 1 ; M 2 are terms then so is (M 1 M 2 </institution> ). 
+
+Reference: 1. <editor> Show that (fij) j (wfi)+(ext); i.e. </editor> <title> both sides have the same theorems. </title>
+Reference: 2. <editor> Show that (a) (fi) ` (wj), </editor> <address> (b) (fi) j (wfi) + (wext). </address>
+Reference: 3. <institution> If Y = z:((x:z(xx))(x:z(xx))) show that for any term M (wfi) ` M(Y M ) = Y M: </institution>
+
+Reference: 1. <author> CL + (ext) ` M = N =) (fij) ` M LC = N LC . 2. </author> <title> (fij) ` M = N =) CL + (ext) ` M CL = N CL </title> . 
+
+Reference: 1. <editor> Show that a term is normal in the (fi) calculus iff it has the form x 1 x n :aN 1 N k where n; k 0, </editor> <title> x 1 ; : : : ; x n are variables, a is a constant or variable and N 1 ; : : : ; N k are normal terms. What happens in the (fij) calculus? </title>
+Reference: 2. <institution> Show that every normalisable term has a unique normal form. </institution>
+Reference: 3. <institution> Show that every strongly normalisable term is normalisable. </institution>
+Reference: 4. <institution> Show that if M is strongly normalisable then the set of its contraction paths M contr M 0 contr M 00 is finite. [Hint: Use Konig's Lemma] </institution>
+
+
+
+Reference: 1. <institution> If M is a term of ST T 0 then let M be the untyped term obtained by erasing `: A' from each abstraction subterm x : A:N . Show that ` I ST T M : A () 9M 0 [M = M 0 and ` I ST T 0 M 0 : A]: </institution>
+
+Reference: 1. <institution> There is at least one set in C. </institution>
+Reference: 2. <institution> V ar X for all X 2 C. </institution>
+
+Reference: 2. <author> X S =) (X ! w Y ) (X ! Y ). For each set X of terms let S fl be the set of terms that have the form xN 1 N k where x 2 V ar, </author> <title> k 0 and N 1 ; : : : ; N k 2 S. Definition 4.11 Call a set S of terms a regular set if the following conditions hold. </title>
+Reference: 1. <institution> S fl S, </institution>
+Reference: 2. <author> If M x 2 S, </author> <title> with x 62 var(M ) then M 2 S, </title>
+Reference: 3. <institution> S 2 S SAT . Definition 4.12 Call (S 0 ; S) pre-adapted if the following conditions hold. </institution>
+Reference: 1. <author> S 0 S T , 3. (S 0 ! S) S. </author> <title> Lemma 4.13 If (S 0 ; S) is pre-adapted then S 0 X; Y S =) S 0 (X ! Y ) S: Proof: An easy consequence of the Lemma 4.4. ffi Lemma 4.14 (Regular Set Lemma) If S is a regular set of terms then 1. (S fl ; S) is pre-adapted, Marktoberdorf 1997 4-6 Constructive Type Theory DRAFT Section 4 </title>
+Reference: 2. <institution> The collection C(S) = fY 2 S SAT j S fl Y Sg is an ST T -collection, </institution>
+Reference: 3. <editor> Every ST T -term is in S. </editor> <title> Lemma 4.15 The set N of normalisable terms is a regular set. The Normalisation Theorem is an immediate consequence of the previous two lemmas. Exercise 4.16 The left-most redex of a non-normal term is that redex that starts furthest to the left among all redexes. The left-most contraction is the contraction of the left-most redex. A left-most reduction is a sequence of leftmost contractions. Show that every ST T -term has a left-most reduction to its normal form. [Hint: Apply the Regular Set Lemma. </title> <note> Marktoberdorf 1997 4-7 </note>
+References-found: 50
+

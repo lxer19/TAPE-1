@@ -1,0 +1,14 @@
+URL: ftp://ftp.cs.unc.edu/pub/users/manocha/PAPERS/INTERSECT/IJCGA.ps.Z
+Refering-URL: http://www.cs.unc.edu/~geom/intersect.html
+Root-URL: http://www.cs.unc.edu
+Title: A NEW APPROACH FOR SURFACE INTERSECTION  
+Author: DINESH MANOCHA and JOHN F. CANNY 
+Address: Berkeley, CA 94720, U.S.A.  Berkeley, CA 94720, U.S.A.  
+Affiliation: Computer Science Division, University of California at Berkeley,  Computer Science Division, University of California at Berkeley,  
+Date: 4 (1991) 491-516  Received 7 June 1991 Revised 6 September 1991  
+Note: International Journal of Computational Geometry Applications Vol. 1, No.  c World Scientific Publishing Company  Supported by IBM Graduate Fellowship, David and Lucile Packard Fellowship and National Science Foundation Presidential Young Investigator Award IRI-8958577). Supported in part by David and Lucile Packard Fellowship and National Science Foundation Presidential Young Investigator Award IRI-8958577).  
+Abstract: Evaluating the intersection of two rational parametric surfaces is a recurring operation in solid modeling. However, surface intersection is not an easy problem and continues to be an active topic of research. The main reason lies in the fact that any good surface intersection technique has to balance three conflicting goals of accuracy, robustness and efficiency. In this paper, we formulate the problems of curve and surface intersections using algebraic sets in a higher dimensional space. Using results from Elimination theory, we project the algebraic set to a lower dimensional space. The projected set can be expressed as a matrix determinant. The matrix itself, rather than its symbolic determinant, is used as the representation for the algebraic set in the lower dimensional space. This is a much more compact and efficient representation. Given such a representation, we perform matrix operations for evaluation and use results from linear algebra for geometric operations on the intersection curve. Most of the operations involve evaluating numeric determinants and computing the rank, kernel and eigenval-ues of matrices. The accuracy of such operations can be improved by pivoting or other numerical techniques. We use this representation for inversion operation, computing the intersection of curves and surfaces and tracing the intersection curve of two surfaces in lower dimension. Keywords: Curve, Surface, Intersection, Solid Modeling, Resultants, matrix operations 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

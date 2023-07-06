@@ -1,0 +1,20 @@
+URL: ftp://iridia.ulb.ac.be/pub/gbonte/papers/bontempi.jicae.ps.Z
+Refering-URL: http://iridia.ulb.ac.be/~gbonte/Papers.html
+Root-URL: 
+Email: email: gianluca@idsia.ch  email: bersini@ulb.ac.be  
+Phone: Phone: +41 91 9119834 Phone secretary: +41 91 -9119838 Fax: +41 91 9119839  Phone: +32 2 -650.27.33 Phone secretary: +32 2 -650.27.29 Fax: +32 2 -650.27.15  
+Title: Multi-model and multi-value architectures in data analysis: an application to a real industrial problem  
+Author: GIANLUCA BONTEMPI HUGUES BERSINI 
+Date: IRIDIA-CP 194/6  IRIDIA-CP 194/6  
+Address: C.so Elvezia 36 6900 Lugano Switzerland  50, av. Franklin Roosevelt 1050 Bruxelles Belgium  50, av. Franklin Roosevelt 1050 Bruxelles Belgium  
+Affiliation: IDSIA Istituto Dalle Molle di Studi sull'Intelligenza Artificiale  Universite Libre de Bruxelles  Universite Libre de Bruxelles  
+Abstract-found: 0
+Intro-found: 1
+Reference: <author> Bottou L., Vapnik V. </author> <title> Local learning algorithms, </title> <booktitle> Neural Computation , vol. </booktitle> <volume> 4, </volume> <pages> pp. 888-900, </pages> <editor> 1992 Breiman L., Friedman J.H., Olshen R.A., Stone C.J. </editor> <title> Classification and Regression Trees Belmont, </title> <booktitle> CA:Wadsworth International Group, 1984 Brown, </booktitle> <editor> M. and C.J. </editor> <title> Harris Neurofuzzy adaptive modelling and control. </title> <publisher> Prentice Hall, </publisher> <address> Hemel Hempstead, </address> <year> 1994. </year>
+Reference-contexts: to many scientific fields ranging from statistics (Cleveland, Devline, Grosse, 1988), machine learning ( Breiman, Friedman, Olshen and Stone, 1984), (Friedman, 1991), (Quinlan, 1986), system identification ( Johansen, Foss, 1993) (Billings, Voon, 1987) ( Chen, 4 Billings, 1990) to neural networks (Moody, Darken, 1989) ( Jacobs, Jordan, Nowlan, Hinton, 1995) <ref> (Bottou, Vapnik, 1992) </ref> ( Atkeson, Moore, Schal, 1995), and fuzzy logic ( Yager, 1993) ( Takagi, Sugeno, 1985). Its usefulness has been recognized in most practical disciplines like engineering, control (Murray-Smith, 1994) and time series analysis (Tong, 1983).
+
+
+Reference: <author> Yager R.R., </author> <title> Filev D.P. Unified structure and parameter identification of fuzzy models , IEEE Transactions on Systems, </title> <journal> Man and Cybernetics, </journal> <volume> vol. 23, no. 4, </volume> <year> 1993 </year>
+Reference-contexts: machine learning ( Breiman, Friedman, Olshen and Stone, 1984), (Friedman, 1991), (Quinlan, 1986), system identification ( Johansen, Foss, 1993) (Billings, Voon, 1987) ( Chen, 4 Billings, 1990) to neural networks (Moody, Darken, 1989) ( Jacobs, Jordan, Nowlan, Hinton, 1995) (Bottou, Vapnik, 1992) ( Atkeson, Moore, Schal, 1995), and fuzzy logic <ref> ( Yager, 1993) </ref> ( Takagi, Sugeno, 1985). Its usefulness has been recognized in most practical disciplines like engineering, control (Murray-Smith, 1994) and time series analysis (Tong, 1983). <p> In the next two sections we describe these two approaches. 2.4 Fuzzy Inference Systems for Multi-model Fuzzy inference systems are an example of multi-model formalism ( Takagi Sugeno, 1985) <ref> (Yager, Filev, 1993) </ref>.
+References-found: 2
+

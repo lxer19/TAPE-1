@@ -1,0 +1,13 @@
+URL: ftp://ftp.cs.unc.edu/pub/users/sc/COMP203-S96/L1996-02-29.PS.Z
+Refering-URL: http://www.cs.unc.edu/~sc/teaching/COMP203-S1996/lectures.html
+Root-URL: http://www.cs.unc.edu
+Title: COMP203: Parallel and Distributed Sumedh Barde (barde@cs) TOPICS: Architecture and system software issues in message-passing
+Author: Jun Chen (chenju@cs) 
+Note: 1.1 Notation:  
+Date: Feb 29, 1996  
+Pubnum: Computing  
+Abstract: Network performance is limited by wiring density, power dissipation, transmission speed and delay of propagation etc. In this lecture, we discus how the network behaves as the load applied to the network changes and how we choose suitable parameters to measure the same. 1 Model Figure 1 shows the network model we consider. The nodes (marked N) all sit on the network and inject messages into the network. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

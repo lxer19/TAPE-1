@@ -1,0 +1,14 @@
+URL: http://www.cscs.ch/~wylie/doc/ECSP-TN-46.ps.gz
+Refering-URL: 
+Root-URL: 
+Email: bjnw@ed.ac.uk  
+Title: Tff Transputer Activity Tachometer Experience with a Simple Multicomputer Software Monitoring Concurrent Visualisation System ECSP-TN-46
+Author: Brian J N Wylie 
+Note: such a perturbing effect to render it useless.  
+Date: 10 August 1990  
+Abstract: It has generally been difficult to determine exactly which processes within a particular distributed computation are responsible for slowing down the whole computation through being overloaded with work. There are also typically extremely complex inter-process interactions. One would also like to know precisely the state of each process and how far it has progressed with its particular task. The PULSARS demonstration program [Wylie90] is an exception to these restrictions, but it may be unique in that all the relevent information is visible in the program display in general, this will not be possible. When monitoring an application, it is desirable that the subject should not be unduly perturbed by the actions of the monitor. Hardware techniques for interference-free monitoring are an obvious solution, and several are being developed. They do tend to be inherently expensive and inflexible, however. Presentation and interpretation of the copious data from fine monitors additionally remains a challenging activity. In the absence of such a tool, the needs of the users of the transputer-based Computing Surfaces at Edinburgh were great, such that any monitoring tool may well prove beneficial. There were also a considerable body of skeptics who believed that a fully-software implementation would have 
+Abstract-found: 1
+Intro-found: 1
+Reference: <editor> Geraint Jones, et al, </editor> <title> Measuring the busyness of a transputer, </title> <booktitle> occam User Group newletter, </booktitle> <volume> No. 12, </volume> <month> January </month> <year> 1990, </year> <note> pp57-64. </note> <author> Brian Wylie, PULSARS: </author> <title> Dynamic Process Contention Modelling & Monitoring, </title> <address> EPCC-TN-36, </address> <month> January </month> <year> 1990. </year>
+References-found: 1
+

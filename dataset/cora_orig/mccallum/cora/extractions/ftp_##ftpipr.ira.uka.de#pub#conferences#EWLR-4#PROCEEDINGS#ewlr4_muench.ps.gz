@@ -1,0 +1,19 @@
+URL: ftp://ftpipr.ira.uka.de/pub/conferences/EWLR-4/PROCEEDINGS/ewlr4_muench.ps.gz
+Refering-URL: http://wwwipr.ira.uka.de/~kaiser/events/ewlr4program.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: MULTIMEDIA MEETS MACHINE LEARNING  
+Author: STEFAN M UNCH 
+Keyword: Key Words. Multimedia, Multimodality, Haptic Output, Man-Machine-Systems, Human-Computer Interaction, Classification, User Modelling  
+Address: Kaiserstr. 12, D-76128 Karlsruhe, Germany.  
+Affiliation: Institute for Real-Time Computer Systems Robotics, University of Karlsruhe,  
+Abstract: The application of Machine Learning techniques to multimedia and multimodal systems, resp., seems to be a promising approach in order to enhance the systems' capabilities. Especially in multimodal systems which support human-computer interaction (HCI) via several input/output channels in parallel, intelligent mechanisms are needed in order to process the user's inputs and to select the best output modality. In this paper, we will deal with a multi-agent system which introduces some kind of haptic feedback to the user interface. The main task of the system is to predict the next user action in order to launch the haptic feedback selectively and to adapt this capability over time to both, the user's behavior and the application's user interface structure. Therefore, a statistical interaction model is generated and managed based on stochastic classification methods. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Akamatsu, M. and S. </author> <title> Sato (1994). A multi-modal mouse with tactile and force feedback. </title> <journal> Int. Journal of Human-Computer Studies 40, </journal> <pages> 443-453. </pages>
+Reference-contexts: This so-called ForceMouse, based on an idea by <ref> (Akamatsu and Sato, 1994) </ref>, can not only generate the usual input parameters but also provide haptic output to the user.
+Reference: <author> Bevan, M. </author> <year> (1995). </year> <title> Force-feedback technology. VR NEWS Virtual Reality Worldwide 4(6), </title> <type> 23-29. </type>
+Reference-contexts: multimedia and virtual reality (VR) research, but haptic displays are still not available and have not been investigated in standard interaction tasks: "Whereas synthetic visual and audio images are omnipresent nowadays, opportunities to reach out and feel nonexistent objects possessing texture, shape and inertia are, to put it mildly, not." <ref> (Bevan, 1995) </ref> In order to study the effect of haptic feedback in simple interaction tasks, we have equipped a standard mouse with a pin in one button and two magnets in its base, see fig. 2.
+Reference: <author> Geist, A. et al. </author> <year> (1994). </year> <title> PVM: Parallel Virtual Machine| </title>
+Reference-contexts: By using PVM (Parallel Virtual Machine) as the underlying software package for interprocess communication, such a system is relatively easy to realize and might be extended with other components with minimal effort <ref> (Geist et al., 1994) </ref>. The system is composed of four main components, which will be described in more detail in the following sections. The control tool ForceAgent is the center of the system.
+References-found: 3
+

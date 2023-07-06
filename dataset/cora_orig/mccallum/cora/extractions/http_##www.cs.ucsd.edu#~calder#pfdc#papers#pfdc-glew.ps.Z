@@ -1,0 +1,13 @@
+URL: http://www.cs.ucsd.edu/~calder/pfdc/papers/pfdc-glew.ps.Z
+Refering-URL: http://www.cs.ucsd.edu/~calder/pfdc/program.html
+Root-URL: http://www.cs.ucsd.edu
+Title: Performance Monitoring Hardware Design Issues for Dynamically Scheduled Processors  
+Author: Andy Glew 
+Address: Wisconsin  
+Affiliation: University of  
+Note: Andy Glew Page 1 of 8  Intel MRL 1  
+Abstract-found: 0
+Intro-found: 1
+Reference: <author> Borkenhagen, R. Eickemeyer, S. Kunkel, S. Levenstein, G. Uhlmann, </author> <title> A Commercial Multi-threaded RISC Processor, </title> <booktitle> International SolidState Circuits Conference, </booktitle> <year> 1998. </year> <editor> [Path96] Thomas Ball and James Larus, </editor> <title> Efficient Path Profiling, MICRO-29, December 1996 Andy Glew Page 8 of 8 [Path98] Glenn Ammons and James Larus, Improving Data-flow Analysis with Path Profiles, </title> <note> PLDI '98 (June 1998) [ProfileMe97] Jeff Dean, </note> <author> Jamey Hicks, Carl Waldspurger, William E. Weihl, and George Chrysos. ProfileMe: </author> <title> Hardware Support for Instruction-Level Profiling on Out-of-Order Processors. </title> <booktitle> In Proceedings of the 30 th Annual Symposium on Microarchitecture, </booktitle> <institution> Research Triangle Park, North Carolina, </institution> <month> December, </month> <year> 1997. </year>
+References-found: 1
+

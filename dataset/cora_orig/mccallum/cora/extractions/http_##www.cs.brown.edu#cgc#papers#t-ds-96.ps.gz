@@ -1,0 +1,37 @@
+URL: http://www.cs.brown.edu/cgc/papers/t-ds-96.ps.gz
+Refering-URL: http://www.cs.brown.edu/people/rt/papers/recent-papers/recent-papers.html
+Root-URL: http://www.cs.brown.edu
+Email: rt@cs.brown.edu  
+Title: Data Structures  
+Author: Roberto Tamassia 
+Date: January 2, 1996  
+Address: 115 Waterman Street Providence, RI 02912-1910  
+Affiliation: Department of Computer Science Brown University  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> A. V. Aho, J. E. Hopcroft, and J. D. Ullman. </author> <title> Data Structures and Algorithms. </title> <publisher> Addison-Wesley, </publisher> <address> Reading, MA, </address> <year> 1983. </year>
+Reference: [2] <author> Y.-J. Chiang and R. Tamassia. </author> <title> Dynamic algorithms in computational geometry. </title> <journal> Proc. IEEE, </journal> <volume> 80(9) </volume> <pages> 1412-1434, </pages> <month> Sept. </month> <year> 1992. </year>
+Reference-contexts: Recent papers surveying the state-of-the art in data structures include <ref> [2, 4, 12, 18] </ref>. The LEDA project [11] aims at developing a C++ library of efficient and reliable implementations of sophisticated data structures. 4
+Reference: [3] <author> T. H. Cormen, C. E. Leiserson, and R. L. Rivest. </author> <title> Introduction to Algorithms. </title> <publisher> The MIT Press, </publisher> <address> Cambridge, Mass., </address> <year> 1990. </year>
+Reference: [4] <author> Z. Galil and G. F. </author> <title> Italiano. Data structures and algorithms for disjoint set union problems. </title> <journal> ACM Computing Surveys, </journal> <volume> 23(3) </volume> <pages> 319-344, </pages> <year> 1991. </year>
+Reference-contexts: Recent papers surveying the state-of-the art in data structures include <ref> [2, 4, 12, 18] </ref>. The LEDA project [11] aims at developing a C++ library of efficient and reliable implementations of sophisticated data structures. 4
+Reference: [5] <author> G. H. Gonnet and R. Baeza-Yates. </author> <title> Handbook of Algorithms and Data Structures. </title> <publisher> Addison Wesley, </publisher> <year> 1991. </year>
+Reference: [6] <author> E. Horowitz and S. Sahni. </author> <title> Fundamentals of Data Structures. </title> <publisher> Computer Science Press, </publisher> <address> Potomac, Maryland, </address> <year> 1983. </year>
+Reference: [7] <author> D. E. Knuth. </author> <title> Fundamental Algorithms, </title> <booktitle> volume 1 of The Art of Computer Programming. </booktitle> <publisher> Addison-Wesley, </publisher> <address> Reading, MA, </address> <year> 1968. </year>
+Reference: [8] <author> D. E. Knuth. </author> <title> Sorting and Searching, </title> <booktitle> volume 3 of The Art of Computer Programming. </booktitle> <publisher> Addison-Wesley, </publisher> <address> Reading, MA, </address> <year> 1973. </year>
+Reference: [9] <author> H. R. Lewis and L. Denenberg. </author> <title> Data Structures and Their Algorithms. </title> <publisher> Harper Collins, </publisher> <year> 1991. </year>
+Reference: [10] <author> K. Mehlhorn. </author> <title> Data Structures and Algorithms. </title> <publisher> Springer-Verlag, </publisher> <year> 1984. </year> <pages> Volumes 1-3. </pages>
+Reference: [11] <author> K. Mehlhorn and S. Naher. LEDA: </author> <title> a platform for combinatorial and geometric computing. </title> <journal> CACM, </journal> <volume> 38 </volume> <pages> 96-102, </pages> <year> 1995. </year> <note> http://www.mpi-sb.mpg.de/guide/staff/uhrig/leda.html. </note>
+Reference-contexts: Recent papers surveying the state-of-the art in data structures include [2, 4, 12, 18]. The LEDA project <ref> [11] </ref> aims at developing a C++ library of efficient and reliable implementations of sophisticated data structures. 4
+Reference: [12] <author> K. Mehlhorn and A. Tsakalidis. </author> <title> Data structures. </title> <editor> In J. van Leeuwen, editor, </editor> <booktitle> Algorithms and Complexity, volume A of Handbook of Theoretical Computer Science. </booktitle> <publisher> Elsevier, </publisher> <address> Amsterdam, </address> <year> 1990. </year>
+Reference-contexts: Recent papers surveying the state-of-the art in data structures include <ref> [2, 4, 12, 18] </ref>. The LEDA project [11] aims at developing a C++ library of efficient and reliable implementations of sophisticated data structures. 4
+Reference: [13] <author> J. Nievergelt and K. H. Hinrichs. </author> <title> Algorithms and Data Structures: With Applications to Graphics and Geometry. </title> <publisher> Prentice-Hall, </publisher> <address> Englewood Cliffs, NJ, </address> <year> 1993. </year>
+Reference: [14] <author> M. H. Overmars. </author> <title> The design of dynamic data structures, </title> <booktitle> volume 156 of Lecture Notes in Computer Science. </booktitle> <publisher> Springer-Verlag, </publisher> <year> 1983. </year>
+Reference: [15] <author> F. P. Preparata and M. I. Shamos. </author> <title> Computational Geometry: An Introduction. </title> <publisher> Springer-Verlag, </publisher> <address> New York, NY, </address> <year> 1985. </year> <month> 5 </month>
+Reference: [16] <author> R. Sedgewick. </author> <title> Algorithms in C++. </title> <publisher> Addison Wesley, </publisher> <address> Reading, MA, </address> <year> 1992. </year>
+Reference: [17] <author> R. E. Tarjan. </author> <title> Data Structures and Network Algorithms, </title> <booktitle> volume 44 of CBMS-NSF Regional Conference Series in Applied Mathematics. Society for Industrial Applied Mathematics, </booktitle> <year> 1983. </year>
+Reference: [18] <author> J. S. Vitter and P. Flajolet. </author> <title> Average-case analysis of algorithms and data structures. </title> <editor> In J. van Leeuwen, editor, </editor> <booktitle> Algorithms and Complexity, volume A of Handbook of Theoretical Computer Science, </booktitle> <pages> pages 431-524. </pages> <address> Else-vier, Amsterdam, </address> <year> 1990. </year>
+Reference-contexts: Recent papers surveying the state-of-the art in data structures include <ref> [2, 4, 12, 18] </ref>. The LEDA project [11] aims at developing a C++ library of efficient and reliable implementations of sophisticated data structures. 4
+Reference: [19] <author> D. Wood. </author> <title> Data Structures, Algorithms, and Performance. </title> <publisher> Addison Wesley, </publisher> <year> 1993. </year>
+References-found: 19
+

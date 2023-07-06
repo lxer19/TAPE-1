@@ -1,0 +1,23 @@
+URL: http://vis-www.cs.umass.edu/vislib/Text/iuw94/terrain.ps.gz
+Refering-URL: http://vis-www.cs.umass.edu/vislib/Text/iuw94/files.html
+Root-URL: 
+Title: Terrain reconstruction from oblique views  
+Author: Howard Schultz 
+Address: Amherst  
+Affiliation: Department of Computer Science University of Massachusetts,  
+Abstract: When a disparity map is computed from widely separated images the perspective distortion may result in a large number of false matches and poor reconstruction accuracy. This paper describes three image matching algorithms designed specifically to process images taken from widely varying viewpoints. They include a new match score, and modifications to standard subpixel and hierarchical matching techniques. The algorithms are incorporated into a stereo analysis package and the system is tested by processing a sequence of simulated images with base-to-height ratios that varied between 0.25 and 2.25, and a single pair of high altitude images with a base-to-height ratio of 0.63. Analysis of the simulated data showed that when these algorithms are implemented the reconstruction accuracy remains independent of the base-to-height ratio. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> P. Anandan. </author> <title> A computational framework and an algorithm for the measurement of visual motion. </title> <journal> International Journal of Computer Vision, </journal> <volume> 2 </volume> <pages> 283-310, </pages> <year> 1989. </year>
+Reference: [2] <author> S. D. Cochran and G. Medioni. </author> <title> 3-d surface description from binocular stereo. </title> <journal> IEEE Trans. on Pattern Analysis and Machine Intelligence, </journal> <volume> PAMI-14(10):981-994, </volume> <month> Octo-ber </month> <year> 1992. </year>
+Reference: [3] <author> R. Collins, A. Hanson, and E. Riseman. </author> <title> Site model acquistion under the umass radius project. </title> <booktitle> In Arpa Image Understanding Workshop, </booktitle> <address> Monteray CA, </address> <month> November </month> <year> 1994. </year>
+Reference: [4] <author> O. Faugeras. </author> <title> Three-Dimensional Com puter Vision, A Geometric Viewpoint. </title> <publisher> The MIT Press, </publisher> <address> Cambridge, MA, </address> <year> 1993. </year>
+Reference: [5] <author> C. Jaynes, F. Stolle, and R. Collins. </author> <title> Task driven perceptual organization for extraction of rooftop polygons. </title> <booktitle> In Arpa Image Understanding Workshop, </booktitle> <address> Monteray CA, </address> <month> November </month> <year> 1994. </year>
+Reference: [6] <author> L. Matthies and S. A. Shaffer. </author> <title> Error mod eling in stereo navigation. </title> <journal> IEEE Journal of Robotics and Automation, </journal> <volume> RA-3(3):239-248, </volume> <month> June </month> <year> 1987. </year>
+Reference: [7] <author> H. Mostafavi. </author> <title> Image correlation with goe metric distortion. part ii: Effects on local accuracy. </title> <journal> IEEE Transactions on Aerospace and Electronic Systems, </journal> <volume> AES-14(3):494-500, </volume> <month> May </month> <year> 1978. </year>
+Reference: [8] <author> T. Schenk, J. Li, and C. K. Toth. </author> <title> Hier archical approach to reconstruct surfaces by using iteratively rectified imagery. </title> <booktitle> In Proc. SPIE. Close-Range Photogramme-try Meets Machine Vision, </booktitle> <pages> pages 464-470, </pages> <address> Zurich, </address> <year> 1990. </year>
+Reference: [9] <author> H. Schultz. </author> <title> Terrain reconstruction. </title> <type> Tech nical Report UM-CS, </type> <institution> University of Mas-sachusetts, Department of Computer Science, </institution> <address> Amherst, MA, </address> <note> 1994 in preparation. </note>
+Reference: [10] <editor> C. C. Slama, editor. </editor> <booktitle> Manual of Photogram metry, fourth Edition. American Society of Photogrammetry, </booktitle> <address> Falls Church, VA, </address> <year> 1980. </year>
+Reference: [11] <author> Q. Tian and M. N. Huhns. </author> <title> Algorithms for subpixel registration. Computer Vision, </title> <journal> Graphics and Image Processing, </journal> <volume> 35 </volume> <pages> 220-233, </pages> <year> 1986. </year>
+References-found: 11
+

@@ -1,0 +1,16 @@
+URL: ftp://ftp.cs.umd.edu/pub/papers/papers/3707/3707.ps.Z
+Refering-URL: http://www.cs.umd.edu/TRs/TR.html
+Root-URL: 
+Phone: 2  3  
+Title: A Delay Damage Model Selection Algorithm for NARX Neural Networks  
+Author: Tsungnan Lin ;fl ,C. Lee Giles ; Bill G. Horne S.Y. Kung 
+Keyword: Recurrent neural networks, tapped-delay lines, long-term dependencies, time series, automata, memory, temporal sequences, gradient descent training, latching, NARX networks, auto-regressive, pruning, embedding theory.  
+Note: Current address: Epson  
+Address: 4 Independence Way, Princeton, NJ 08540  Princeton, NJ 08540  College Park, MD 20742  Palo Alto Laboratory, 3145 Porter Drive, Suite 104, Palo Alto, CA 94304  
+Affiliation: 1 NEC Research Institute,  Department of Electrical Engineering, Princeton University,  UMIACS, University of Maryland,  U. of Maryland  
+Pubnum: Technical Report CS-TR-3707 and UMIACS-TR-96-77  
+Abstract: Recurrent neural networks have become popular models for system identification and time series prediction. NARX (Nonlinear AutoRegressive models with eXogenous inputs) neural network models are a popular subclass of recurrent networks and have been used in many applications. Though embedded memory can be found in all recurrent network models, it is particularly prominent in NARX models. We show that using intelligent memory order selection through pruning and good initial heuristics significantly improves the generalization and predictive performance of these nonlinear systems on problems as diverse as grammatical inference and time series prediction. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

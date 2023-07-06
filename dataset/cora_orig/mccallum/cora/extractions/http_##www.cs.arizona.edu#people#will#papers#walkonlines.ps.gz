@@ -1,0 +1,18 @@
+URL: http://www.cs.arizona.edu/people/will/papers/walkonlines.ps.gz
+Refering-URL: http://www.cs.arizona.edu/people/will/papers.html
+Root-URL: http://www.cs.arizona.edu
+Title: Approximating shortest paths in arrangements of lines  
+Author: Prosenjit Bose William Evans David Kirkpatrick Michael McAllister Jack Snoeyink 
+Affiliation: Department of Computer Science University of British Columbia  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> H. Alt, B. Chazelle, and R. </author> <title> Seidel (editors). </title> <journal> Computational geometry. </journal> <volume> Dagstuhl-Seminar-Report; 109, </volume> <year> 1995. </year>
+Reference-contexts: This is a special case of a more general question concerning the identification of problems defined on arrangements that can be solved more efficiently than by reduction to the associated graph. This particular instance was posed by Marc van Kreveld at the Fourth Dagstuhl Seminar on Computational Geometry <ref> [1] </ref>. Computing the shortest path without computing the arrangement seems difficult; in particular, we have not succeeded in answering van Kreveld's question.
+Reference: [2] <author> E. W. Dijkstra. </author> <title> A note on two problems in connexion with graphs. </title> <journal> Numerische Mathematik, </journal> <volume> 1 </volume> <pages> 269-271, </pages> <year> 1959. </year>
+Reference-contexts: One approach to solve this problem is to compute the arrangement A and use Dijkstra's algorithm <ref> [2] </ref> to find the shortest path between x and y on this arrangement. The time complexity of this approach depends on the complexity of the arrangement of lines, which may be fi (n 2 ).
+Reference: [3] <author> D. G. Kirkpatrick and R. Seidel. </author> <title> The ultimate planar convex hull algorithm? SIAM J. </title> <journal> Comput., </journal> <volume> 15 </volume> <pages> 287-299, </pages> <year> 1986. </year>
+Reference-contexts: The time complexity of this approach depends on the complexity of the arrangement of lines, which may be fi (n 2 ). A straightforward reduction from the convex hull size verification problem <ref> [3] </ref> gives an (n log n) lower bound (for fixed order algebraic decision trees) on the time required even to verify that a given path is optimal.
+Reference: [4] <author> J. O'Rourke. </author> <title> Computational Geometry in C. </title> <publisher> Cambridge University Press, </publisher> <year> 1994. </year> <month> 10 </month>
+Reference-contexts: In this case, the path along the upper cell from w to z is no longer than Q (w; z). This follows from the fact that the minimum perimeter convex set containing a set of points is the convex hull of those points (see for example <ref> [4] </ref>).
+References-found: 4
+

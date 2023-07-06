@@ -1,0 +1,26 @@
+URL: http://www.cs.arizona.edu/people/bkmoon/papers/amia97.ps.gz
+Refering-URL: http://www.cs.arizona.edu/people/bkmoon/papers.html
+Root-URL: http://www.cs.arizona.edu
+Email: frenato,bkmoon,humphrie,als,saltzg@cs.umd.edu frmiller,ademarzg@pds.path.jhu.edu  
+Title: Best Application  The Virtual Microscope  
+Author: Renato Ferreira Bongki Moon, Ph.D. Jim Humphries Alan Sussman, Ph.D. Joel Saltz, M.D., Ph.D. Robert Miller, M.D. Angelo Demarzo, M.D. 
+Address: College Park, MD 20742 Baltimore, MD 21287  
+Affiliation: UMIACS and Dept. of Computer Science Department of Pathology University of Maryland Johns Hopkins Medical Institutions  
+Date: October, 1997.  
+Note: Paper Award, American Medical Informatics Association, 1997 AMIA Annual Fall Symposium, Nashville, TN,  
+Abstract: We present the design of the Virtual Microscope, a software system employing a client/server architecture to provide a realistic emulation of a high power light microscope. We discuss several technical challenges related to providing the performance necessary to achieve rapid response time, mainly in dealing with the enormous amounts of data (tens to hundreds of gigabytes per slide) that must be retrieved from secondary storage and processed. To effectively implement the data server, the system design relies on the computational power and high I/O throughput available from an appropriately configured parallel computer. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Ronald S. Weinstein, A.K. Bhattacharyya, Anna. R. Graham, and John R. Davis. Telepathology: </author> <title> A ten-year progress report. </title> <booktitle> Human Pathology, </booktitle> <volume> 28(1) </volume> <pages> 1-7, </pages> <month> January </month> <year> 1997. </year>
+Reference: [2] <author> Michael Weinstein and Jonathan I. Epstein. </author> <title> Telepathology diagnosis of prostate needle biopsies. </title> <booktitle> Human Pathology, </booktitle> <volume> 28(1) </volume> <pages> 22-29, </pages> <month> January </month> <year> 1997. </year>
+Reference: [3] <author> S. Olsson and C. Busch. </author> <title> A national telepathology trial in Sweden: Feasibility and assessment. </title> <journal> Arch Anat Cytol Pathol, </journal> <volume> 43 </volume> <pages> 234-241, </pages> <year> 1995. </year>
+Reference: [4] <author> Ken Arnold and James Gosling. </author> <title> The Java Programming Language. The Java Series. </title> <publisher> Addison-Wesley, </publisher> <year> 1996. </year>
+Reference: [5] <author> Chialin Chang, Bongki Moon, Anurag Acharya, Carter Shock, Alan Sussman, and Joel Saltz. </author> <title> Titan: A high performance remote-sensing database. </title> <booktitle> In Proceedings of the 1997 International Conference on Data Engineering, </booktitle> <pages> pages 375-384. </pages> <publisher> IEEE Computer Society Press, </publisher> <month> April </month> <year> 1997. </year>
+Reference: [6] <author> Bongki Moon and Joel H. Saltz. </author> <title> Scalability analysis of declustering methods for multidimensional range queries. </title> <journal> IEEE Transactions on Knowledge and Data Engineering, </journal> <note> 1997. To appear. </note>
+Reference: [7] <author> Bongki Moon, H.V. Jagadish, Christos Faloutsos, and Joel H. Saltz. </author> <title> Analysis of the clustering properties of Hilbert space-filling curve. </title> <institution> Technical Report CS-TR-3611 and UMIACS-TR-96-20, University of Maryland, Department of Computer Science and UMIACS, </institution> <month> March </month> <year> 1996. </year> <note> Submitted to IEEE Transactions on Knowledge and Data Engineering, </note> <month> March </month> <year> 1996. </year>
+Reference: [8] <author> William B. Pennebaker and Joan L. Mitchell. </author> <title> JPEG Still Data Compression Standard. </title> <publisher> Van Nostrand Reinhold, </publisher> <year> 1993. </year>
+Reference-contexts: Compression will also reduce the amount of I/O required for the server to respond to a query, but will increase the amount of computation required to produce an image to return to the user. Many different compression algorithms have been proposed in the literature (e.g. JPEG <ref> [8] </ref>), but the Virtual Microscope requires both a high degree of compression and a low loss of information. This reduces the search for compression techniques to a small number of methods, and we are using a wavelet compression technique [9].
+Reference: [9] <author> John J. Benedetto and Michael W. Frazier. </author> <title> Wavelets: </title> <booktitle> Mathematics and Applications. Studies in Advanced Mathematics. </booktitle> <publisher> CRC Press, </publisher> <year> 1994. </year>
+Reference-contexts: JPEG [8]), but the Virtual Microscope requires both a high degree of compression and a low loss of information. This reduces the search for compression techniques to a small number of methods, and we are using a wavelet compression technique <ref> [9] </ref>. Besides reducing storage and I/O requirements, the wavelet compression technique has other useful performance characteristics.
+References-found: 9
+

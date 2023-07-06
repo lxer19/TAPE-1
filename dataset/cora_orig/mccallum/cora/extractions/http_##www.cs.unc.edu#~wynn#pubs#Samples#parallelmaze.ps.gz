@@ -1,0 +1,12 @@
+URL: http://www.cs.unc.edu/~wynn/pubs/Samples/parallelmaze.ps.gz
+Refering-URL: http://www.cs.unc.edu/~wynn/pubs/
+Root-URL: http://www.cs.unc.edu
+Title: Parallel Maze-Solving Algorithm  
+Author: Andrew C. Chung, Loc H. Ton, William C. Wynn, 
+Date: June 7, 1997  
+Affiliation: Department of Computer Science University of California, Davis  
+Abstract: In this paper we present a parallel algorithm for finding a path through a maze. The algorithm has been designed to run on a multicomputer and uses the concept of a work pool to facilitate in the maze search process. The algorithm has been implemented on a network-of-workstations using Parallel Virtual Machine (PVM) and Glenda. Our performance tests have shown favorable results when the task size is moderately large. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

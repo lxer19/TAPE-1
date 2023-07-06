@@ -1,0 +1,15 @@
+URL: ftp://ftpipr.ira.uka.de/pub/papers/1994/spie94dk.ps.gz
+Refering-URL: ftp://ftpipr.ira.uka.de/.public_html/papersna.html
+Root-URL: 
+Title: A distributed multisensor blackboard system for an autonomous robot  
+Author: D. Kappey, P. Pokrandt and J. Schloen 
+Keyword: Sensor blackboard, distributed multisensor system, sensor systems for robots  
+Address: Kaiserstr. 12, 76128 Karlsruhe, F.R.G.  
+Affiliation: Institute for Real-time Computer Systems and Robotics University of Karlsruhe,  
+Date: 31. 10. 94 04. 11. 1994  
+Note: SPIE Conference Sensor Fusion VII  Boston, Massachusetts, USA  
+Abstract: Sensoric data enable a robotic system to react to events occurring in its environment. Much work has been done on the development of various sensors and algorithms to extract information from an environment. On the other hand, only little work has been done in the field of multisensor communication. This paper presents a shared memory based communication protocol that has been developed for the autonomous robot system KAMRO. This system consists of two PUMA 260 manipulators and an omnidirectionally driven mobile platform. The proposed approach is based on logical sensors, which can be used to dynamically build hierarchical sensor units. The protocol uses a distributed blackboard structure for the transmission of sensor data and commands. To support asynchronous coupling of robots and sensors, it not only transfers single sensor values, but also offers functions to estimate future values. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

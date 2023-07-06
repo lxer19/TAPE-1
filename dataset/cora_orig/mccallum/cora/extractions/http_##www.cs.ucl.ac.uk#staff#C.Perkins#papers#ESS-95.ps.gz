@@ -1,0 +1,22 @@
+URL: http://www.cs.ucl.ac.uk/staff/C.Perkins/papers/ESS-95.ps.gz
+Refering-URL: http://www.cs.ucl.ac.uk/staff/C.Perkins/papers/
+Root-URL: http://www.cs.ucl.ac.uk
+Email: Email: fcspjamtg@ohm.york.ac.uk  
+Title: A NEW MARKOV MODEL FOR DEPENDABILITY AND TEMPORAL EVALUATION OF HARD REAL-TIME SYSTEMS  
+Author: CS Perkins and AM Tyrrell 
+Address: Heslington, York, YO1 5DD, UK  
+Affiliation: Department of Electronics, University of York  
+Abstract: We present a new reliability model for hard real-time systems. This model uses a generic high-level formalism based upon a Markov chain with a lattice structure which represents the progress of a computation, allowing both functional and time correctness of the system to be modelled. This is an improvement on traditional system reliability models which typically focus on functional correctness, and do not adequately model the temporal properties of such systems. We provide an example of the application of this model to a recovery block system, and show that a number of important metrics may readily be derived from these results. We note an unusual feature of the failure profile data, from which we hope to derive measures of the independence of the alternates in a recovery block system. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Csenki, A. </author> <year> (1993). </year> <title> Reliability analysis of recovery blocks with nested clusters of failure points. </title> <journal> IEEE Transactions on Reliability, </journal> <volume> 42(1) </volume> <pages> 34-43. </pages>
+Reference-contexts: A generic acceptance test will be fallible, that is, it will not correctly classify all systems, and will take a finite amount of time. For reasons of simplicity and tractability of the analysis, the test modelled here will, however, be assumed infallible <ref> (Csenki, 1993) </ref>, and will take unit time. The study of systems with fallible acceptance tests is the subject of current research. This combined alternate and acceptance test model is illustrated in figure 4. Several such systems may be combined in order to model a complete recovery block.
+Reference: <author> Eckhardt, D. E. and Lee, L. D. </author> <year> (1985). </year> <title> A theoretical basis for the analysis of multiversion software subject to coincident errors. </title> <journal> IEEE Transactions on Software Engineering, SE-11(12):1511-1517. </journal>
+Reference: <author> Knight, J. C. and Leveson, N. G. </author> <year> (1986). </year> <title> An experimental evaluation of the assumption of independence in multiversion programming. </title> <journal> IEEE Transactions on Software Engineering, SE-12(1):96-109. </journal>
+Reference: <author> Laprie, J.-C. and Kanoun, K. </author> <year> (1992). </year> <title> X-Ware reliability and availability modeling. </title> <journal> IEEE Transactions of Software Engineering, </journal> <volume> 18(2) </volume> <pages> 130-147. </pages>
+Reference: <author> Musa, J. D. </author> <year> (1979). </year> <title> Validity of execution-time theory of software reliability. </title> <journal> IEEE Transactions on Reliability, R-28(3):181-191. </journal>
+Reference: <author> Perkins, C. S. and Tyrrell, A. M. </author> <year> (1995). </year> <title> Reliability models for hard real-time systems. </title> <booktitle> In Proceedings of the 2nd IMA Conference on the Mathematics of Dependable Systems, </booktitle> <institution> University of York. </institution>
+Reference: <author> Randell, B. </author> <year> (1975). </year> <title> System structure for software fault tolerance. </title> <journal> IEEE Transactions on Software Engineering, </journal> <month> SE-1:220-231. </month> <title> BIOGRAPHY Mr Perkins received a BEng degree in Electronic Engineering in 1992. Since that time he has been a DPhil research student at the University of York, Department of Electronics. His research interests are in the fields of software reliability modelling and fault tolerant design. He is an associate member of the IEE. </title>
+Reference-contexts: This will enable timing properties for the entire fault tolerant structure, and hence the complete system, to be derived. APPLICATION EXAMPLE The recovery block <ref> (Randell, 1975) </ref> is a technique which uses multiple versions of a program block to attempt to ensure success in the presence of system failures. The first version is known as the primary and the second and subsequent versions are known as alternates.
+References-found: 7
+

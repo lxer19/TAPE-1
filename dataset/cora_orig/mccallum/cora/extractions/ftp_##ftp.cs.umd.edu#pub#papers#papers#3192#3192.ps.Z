@@ -1,0 +1,27 @@
+URL: ftp://ftp.cs.umd.edu/pub/papers/papers/3192/3192.ps.Z
+Refering-URL: http://www.cs.umd.edu/TRs/TR.html
+Root-URL: 
+Title: Definitions of Dependence Distance  
+Author: William Pugh 
+Note: This work is supported by an NSF PYI grant CCR-9157384 and by a Packard Fellowship.  
+Address: College Park, MD 20742  
+Affiliation: Institute for Advanced Computer Studies Dept. of Computer Science Univ. of Maryland,  
+Date: December, 1992  Revised April, 1993  
+Pubnum: UMIACS-TR-93-133  CS-TR-3192  
+Abstract: Data dependence distance is widely used to characterize data dependences in advanced optimizing compilers. The standard definition of dependence distance assumes that loops are normalized (have constant lower bounds and a step of 1); there is not a commonly accepted definition for unnormalized loops. We have identified several potential definitions, all of which give the same answer for normalized loops. There are a number of subtleties involved in choosing between these definitions, and no one definition is suitable for all applications. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [Ban90] <author> U. Banerjee. </author> <title> Unimodular transformations of double loops. </title> <booktitle> In Proc. of the 3rd Workshop on Programming Languages and Compilers for Parallel Computing, </booktitle> <pages> pages 192-219, </pages> <address> Irvine, CA, </address> <month> August </month> <year> 1990. </year>
+Reference-contexts: Alternatively, we could retain the use of integers by marking non-integral distances as unknown (the only known examples that produce non-integral distances using definition c are artificially contrived). Some loop transformations, such as loop skewing, loop interchange and unimodular transformations <ref> [Ban90] </ref>, are most naturally treated as transformations of the iteration space of the loops. Having information about the dependence in terms of the iteration space makes it easier to determine when these transformations are legal and what their effects are.
+Reference: [Fea91] <author> Paul Feautrier. </author> <title> Dataflow analysis of array and scalar references. </title> <journal> International Journal of Parallel Programming, </journal> <volume> 20(1), </volume> <month> February </month> <year> 1991. </year>
+Reference-contexts: Of course, another approach is to abandon dependence distance all together. A number of researchers have noted that dependence distance and directions are inadequate dependence abstractions for some transformations <ref> [Wol91, Pug91, Fea91, MAL93] </ref>. However, no alternative has yet gained acceptance. 4
+Reference: [MAL93] <author> Dror E. Maydan, Saman P. Amarasinghe, and Monica S. Lam. </author> <title> Array data-flow analysis and its use in array privatization. </title> <booktitle> In ACM '93 Conf. on Principles of Programming Languages, </booktitle> <month> January </month> <year> 1993. </year>
+Reference-contexts: Of course, another approach is to abandon dependence distance all together. A number of researchers have noted that dependence distance and directions are inadequate dependence abstractions for some transformations <ref> [Wol91, Pug91, Fea91, MAL93] </ref>. However, no alternative has yet gained acceptance. 4
+Reference: [Pug91] <author> William Pugh. </author> <title> Uniform techniques for loop optimization. </title> <booktitle> In 1991 International Conference on Supercomputing, </booktitle> <pages> pages 341-352, </pages> <address> Cologne, Germany, </address> <month> June </month> <year> 1991. </year>
+Reference-contexts: Of course, another approach is to abandon dependence distance all together. A number of researchers have noted that dependence distance and directions are inadequate dependence abstractions for some transformations <ref> [Wol91, Pug91, Fea91, MAL93] </ref>. However, no alternative has yet gained acceptance. 4
+Reference: [Wol91] <author> Michael Wolfe. </author> <title> Experiences with data dependence abstractions. </title> <booktitle> In Proc. of the 1991 International Conference on Supercomputing, </booktitle> <pages> pages 321-329, </pages> <month> June </month> <year> 1991. </year>
+Reference-contexts: Of course, another approach is to abandon dependence distance all together. A number of researchers have noted that dependence distance and directions are inadequate dependence abstractions for some transformations <ref> [Wol91, Pug91, Fea91, MAL93] </ref>. However, no alternative has yet gained acceptance. 4
+Reference: [ZC91] <author> Hans Zima and Barbara Chapman. </author> <title> Supercompilers for Parallel and Vector Computers. </title> <publisher> ACM Press, </publisher> <year> 1991. </year> <month> 5 </month>
+Reference-contexts: The dependence distance can be used to derive information such which loop (s) carries the dependence and whether or not the dependence prevents loop interchange. This paper assumes some familiarity with data dependences and data dependence distances. A good overview is provided by <ref> [ZC91] </ref>. Let s be an array reference contained in several loops. We use s (i) to refer to the iteration of s when the loop variables of the surrounding loops have the value i (i is a vector).
+References-found: 6
+

@@ -1,0 +1,17 @@
+URL: http://www.cs.colostate.edu/~ftppub/TechReports/1994/tr-101.ps.Z
+Refering-URL: http://www.cs.colostate.edu/~ftppub/
+Root-URL: 
+Title: Remapping Subpartitions of Hyperspace Using Iterative Genetic Search  
+Affiliation: Department of Computer Science  Colorado State University  
+Abstract: Keith Mathias and Darrell Whitley Technical Report CS-94-101 January 7, 1994 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Battle, D. and Vose, M. </author> <title> (1990) "Isomorphisms of Genetic Algorithms." In, Foundations of Genetic Algorithms. </title> <editor> G. Rawlins, ed. </editor> <publisher> Morgan Kaufmann. </publisher>
+Reference: [2] <author> Liepins, G. and Vose, M. </author> <title> (1990) "Representation Issues in Genetic Algorithms." </title> <journal> Journal of Experimental and Theoretical Artificial Intelligence, </journal> <volume> 2 </volume> <pages> 101-115. </pages>
+Reference: [3] <author> Mathias, K. and Whitley, D., </author> <title> (1993) "Remapping Hyperspace During Genetic Search: Canonical Delta Folding." Foundations of Genetic Algorithms 2. </title> <editor> D. Whitley, ed. </editor> <publisher> Morgan Kaufmann. </publisher>
+Reference: [4] <author> Schraudolph, N., Belew, R., </author> <title> (1990) "Dynamic Parameter Encoding for Genetic Algorithms." </title> <type> CSE Technical Report #CS 90-175. </type>
+Reference: [5] <author> Shaefer, C., </author> <title> (1987) "The ARGOT Strategy: Adaptive Representative Genetic Optimizer Technique." </title> <booktitle> Genetic Algorithms and their Applications: Proc. of the 2 nd Int'l. Conf. </booktitle> <editor> J. Greffenstette, </editor> <publisher> ed. </publisher>
+Reference: [6] <author> Whitley, D. </author> <title> (1989) "The GENITOR Algorithms and Selective Pressure: Why Rank Based Allocation of Reproductive Trials is Best." </title> <booktitle> Proc. of the 3 rd Int'l. Conf. on Genetic Algorithms. </booktitle> <publisher> Morgan Kaufmann. </publisher>
+Reference: [7] <author> Whitley, D., Mathias, K., Fitzhorn, P. </author> <title> (1991) "Delta Coding: An Iterative Search Strategy for Genetic Algorithms." </title> <booktitle> Proc. of the 4 th Int'l. Conf. on Genetic Algorithms. </booktitle> <address> Washington, D.C., </address> <publisher> Morgan Kaufmann. </publisher> <pages> 10 </pages>
+References-found: 7
+

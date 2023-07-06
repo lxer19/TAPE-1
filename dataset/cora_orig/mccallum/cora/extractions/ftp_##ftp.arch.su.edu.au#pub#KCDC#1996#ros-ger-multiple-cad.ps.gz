@@ -1,0 +1,15 @@
+URL: ftp://ftp.arch.su.edu.au/pub/KCDC/1996/ros-ger-multiple-cad.ps.gz
+Refering-URL: http://www.arch.su.edu.au/~mary/VDSjournal/index.html
+Root-URL: 
+Email: Email: john@arch.su.edu.au  Email: mike@arch.su.edu.au  
+Phone: Tel: 61-2-351 2328 Fax: 61-2-351 3031  Tel: 61-2-351 4898 Fax: 61-2-351 3031  
+Title: MODELLING MULTIPLE VIEWS OF DESIGN OBJECTS IN A COLLABORATIVE CAD ENVIRONMENT  
+Author: M. A. ROSENMAN J. S. GERO 
+Keyword: conceptual modelling, multiple abstraction representation, CAD modelling, collaborative design, functional representation  
+Address: Sydney NSW 2006 Australia  Sydney NSW 2006 Australia  
+Affiliation: Key Centre of Design Computing Department of Architectural and Design Science, University of  Key Centre of Design Computing Department of Architectural and Design Science, University of  
+Abstract: Collaboration between designers in different disciplines is an increasingly important aspect in complex design situations, as exemplified in the AEC domain. CAD systems are essential for handling this complexity but current CAD modelling technology is directed towards the production of a single product model. In the AEC environment, many disciplines are involved, each with its own concept of the design object. Each such concept must be accommodated in any representation. This paper presents the ideas behind the representation of multiple concepts from an underlying description of a design such that the inter and intra-discipline views of that design can be formed dynamically. These ideas are based upon an assumption that different concepts of an object are based on different functional contexts. Functional subsystems are introduced as an adjunct to design prototypes. An example shows how these functional subsystems are related to the design elements and how they allow for the formation of the various concepts. Thus the representation of the functional properties of design objects is the underlying basis for the formation of different concepts. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

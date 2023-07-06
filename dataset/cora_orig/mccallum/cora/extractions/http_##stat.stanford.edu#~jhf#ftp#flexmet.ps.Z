@@ -1,0 +1,28 @@
+URL: http://stat.stanford.edu/~jhf/ftp/flexmet.ps.Z
+Refering-URL: http://playfair.stanford.edu/~jhf/
+Root-URL: 
+Title: Flexible Metric Nearest Neighbor Classiflcation  
+Author: Jerome H. Friedman 
+Date: November 11, 1994  
+Abstract: The K-nearest-neighbor decision rule assigns an object of unknown class to the plurality class among the K labeled "training" objects that are closest to it. Closeness is usually deflned in terms of a metric distance on the Euclidean space with the input measurement variables as axes. The metric chosen to deflne this distance can strongly efiect performance. An optimal choice depends on the problem at hand as characterized by the respective class distributions on the input measurement space, and within a given problem, on the location of the unknown object in that space. In this paper new types of K-nearest-neighbor procedures are described that estimate the local relevance of each input variable, or their linear combinations, for each individual point to be classifled. This information is then used to separately customize the metric used to deflne distance from that object in flnding its nearest neighbors. These procedures are a hybrid between regular K-nearest-neighbor methods and treestructured recursive partitioning techniques popular in statistics and machine learning.
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Andrews, D. F. and Herzberg, A. M. </author> <year> (1985). </year> <title> Data. A Collection of Problems for Many Fields for the Student and Research Worker. </title> <publisher> Springer-Verlag. </publisher>
+Reference: <author> Breiman, L., Friedman, J. H., Olshen, R. A., and Stone, C. J. </author> <year> (1984). </year> <title> Classiflcation and Regression Trees. </title> <publisher> Wadsworth. </publisher>
+Reference: <author> Chow, W. S. and Chen, Y. C. </author> <year> (1992). </year> <title> A new fast algorithm for efiective training of neural classiflers. </title> <booktitle> Pattern Recognition 25, </booktitle> <pages> 423-429. </pages>
+Reference: <author> Cover, T. M. </author> <year> (1968). </year> <title> Rates of convergence for nearest neighbor procedures. </title> <booktitle> Proc. Hawaii Inter. Conf. on Systems Sciences (pp. </booktitle> <pages> 413-415). </pages> <address> Honolulu: </address> <publisher> Western Periodicals. </publisher>
+Reference: <author> Fix, E. and Hodges, J. L. </author> <year> (1951). </year> <title> Discriminatory analysis nonparametric discrimination: consistency properties. </title> <type> Report No. 4. </type> <institution> Randolf Field Texas: U. S. Air Force School of Aviation Medicine. </institution>
+Reference: <author> Friedman J. H. </author> <year> (1977). </year> <title> A recursive partitioning decision rule for nonparametric classifl-cation. </title> <journal> IEEE Trans. Computers C26, </journal> <pages> 404-408. </pages>
+Reference: <author> Friedman J. H. </author> <year> (1985). </year> <title> Classiflcation and multiple response regression through projection pursuit. </title> <type> Technical Report LCS012, </type> <institution> Dept. of Statistics, Stanford Univ. </institution>
+Reference: <author> Friedman J. H. </author> <year> (1991). </year> <title> Multivariate adaptive regression splines (with discussion). </title> <journal> Ann. Statist. </journal> <volume> 19, </volume> <pages> 1-141. </pages>
+Reference: <author> Hastie, T. and Tibshirani, R. </author> <year> (1995). </year> <title> Flexible discriminant analysis. </title> <journal> J. Amer. Statist. Assoc. </journal> <note> (to appear). </note>
+Reference: <author> John, G. H., Kohavi, R., and Peger, K. </author> <year> (1994). </year> <title> Irrelevant features and the subset selection problem. </title> <booktitle> Proc. Eleventh Inter. Conf. on Machine Learning (pp. </booktitle> <pages> 121-129). </pages> <address> New Brunswick, NJ. </address> <publisher> Morgan Kaufmann. </publisher>
+Reference: <author> Kohonen, T. </author> <year> (1990). </year> <title> The self-organizing map. </title> <booktitle> Proceedings of the IEEE 78, </booktitle> <pages> 1464-1480. </pages>
+Reference: <author> Langley, P. </author> <year> (1994). </year> <title> Selection of relevant features in machine learning. </title> <booktitle> Proc. AAAI Fall Symp. on Relevance (1994). </booktitle> <address> New Orleans, LA. </address> <publisher> AAAI Press. </publisher>
+Reference: <author> Lippmann, R. </author> <year> (1989). </year> <title> Pattern classiflcation using neural networks. </title> <journal> IEEE Communications Magazine 11, </journal> <pages> 47-64. </pages>
+Reference: <author> McLachlan, G. J. </author> <year> (1992). </year> <title> Discriminant Analysis and Statistical Pattern Recognition. </title> <publisher> Wiley. </publisher>
+Reference: <author> Morgan, J. N. and Sonquist, J. A. </author> <year> (1963). </year> <title> Problems in the analysis of survey data, and a proposal. </title> <journal> J. Amer. Statist. Assoc. </journal> <volume> 58, </volume> <pages> 415-435. </pages>
+Reference: <author> Parzen, E. </author> <year> (1962). </year> <title> On estimation of a probability density function and mode. </title> <journal> Ann. Math. Stat. </journal> <volume> 33, </volume> <pages> 1065-1076. </pages>
+Reference: <author> Quinlan, J. R. </author> <year> (1993). </year> <title> C4.5: Programs for machine learning. </title> <publisher> Morgan Kaufmann. </publisher> <pages> 32 </pages>
+References-found: 17
+

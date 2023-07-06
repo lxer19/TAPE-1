@@ -1,0 +1,13 @@
+URL: ftp://taikan.c.u-tokyo.ac.jp/pub/user/nakahara/nips8.ps.Z
+Refering-URL: http://www.cs.cmu.edu/Web/Groups/NIPS/NIPS95/Papers.html
+Root-URL: 
+Email: nakahara@vermeer.c.u-tokyo.ac.jp  doya@hip.atr.co.jp  
+Title: Dynamics of Attention as Near Saddle-Node Bifurcation Behavior  
+Author: Hiroyuki Nakahara Kenji Doya 
+Address: 3-8-1 Komaba, Meguro Tokyo 153, Japan  2-2 Hikaridai, Seika, Soraku Kyoto 619-02, Japan  
+Affiliation: General Systems Studies University of Tokyo  ATR Human Information Processing Research Laboratories  
+Abstract: In consideration of attention as a means for goal-directed behavior in non-stationary environments, we argue that the dynamics of attention should satisfy two opposing demands: long-term maintenance and quick transition. These two characteristics are contradictory within the linear domain. We propose the near saddle-node bifurcation behavior of a sigmoidal unit with self-connection as a candidate of dynamical mechanism that satisfies both of these demands. We further show in simulations of the `bug-eat-food' tasks that the near saddle-node bifurcation behavior of recurrent networks can emerge as a functional property for survival in non stationary environments.
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

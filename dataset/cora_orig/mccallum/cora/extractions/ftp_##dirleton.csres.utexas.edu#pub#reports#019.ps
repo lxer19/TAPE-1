@@ -1,0 +1,31 @@
+URL: ftp://dirleton.csres.utexas.edu/pub/reports/019.ps
+Refering-URL: http://www.cli.com/reports/
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Phone: (512) 322-9951  
+Title: A User's Manual for an Interactive Enhancement to the Boyer-Moore Theorem Prover  
+Author: Matt Kaufmann 
+Address: 1717 W. 6th St. Suite 290 Austin, Texas 78703  
+Affiliation: Computational Logic Inc.  
+Date: #19 May 1988  
+Pubnum: Technical Report  
+Abstract-found: 0
+Intro-found: 1
+Reference: 1. <author> Matt Kaufmann, </author> <title> ``A User's Manual for an Interactive Enhancement to the Boyer-Moore Theorem Prover'', </title> <type> Tech. report 60, </type> <institution> Institute for Computing Science, University of Texas at Austin, </institution> <month> August </month> <year> 1987. </year>
+Reference: 2. <author> Robert S. Boyer and J Strother Moore, </author> <title> A Computational Logic, </title> <publisher> Academic Press, </publisher> <address> New York, </address> <year> 1979. </year>
+Reference-contexts: Recall though the convention from <ref> [2] </ref> that a term &lt;exp&gt; may be used as a formula by identifying it with the negation of [EXP = F]. A goal consists of: CONC, HYPS, DEPENDS-ON, and GOAL-NAME CONC is called the conclusion of the goal, and is a Boyer-Moore term. <p> The GOVERNORS are, roughly speaking, the IF-tests accumulated on the way to diving down to the current subterm. More precisely, the GOVERNORS is a list of all terms which govern the current subterm, in the sense of the definition of governs on the top of page 45 of <ref> [2] </ref>. For example, the GOVERNORS of (PLUS X Y) in the term displayed above is the one-element list ((NOT (EQUAL X Y))). NOTE: the GOVERNORS are defined only with respect to the IF-structure of the term.
+Reference: 3. <author> Robert S. Boyer and J Strother Moore, </author> <title> ``The User's Manual for A Computational Logic'', </title> <type> Tech. report 18, </type> <institution> Computational Logic, Inc., </institution> <month> February </month> <year> 1988. </year>
+Reference-contexts: The user can check the current setting of the time limit by invoking the Lisp function time-limit. The user can also run a list of events in the same manner as with DO-EVENTS (see <ref> [3] </ref>) but where one proceed even upon failure, and running out of time causes such an individual event's failure. The time limit may be set to NIL, which is how it is initialized. Such a setting indicates that there is not any time limit set. <p> Otherwise, if there is an (ENABLE-THEORY T) hint (respectively, a (DISABLE-THEORY T) hint), consider it enabled (respectively, disabled). Otherwise, simply check whether it is enabled or disabled according to the global database. 26 The notion of satellite is discussed in <ref> [3] </ref>. 49 Thus, for example, one may wish to give a hint which enables several relevant theories but disables certain events (possibly from those theories); then the latter take precedence over the former hints for the individual events in question, which is what one would hope to be the case.
+Reference: 4. <author> M. J. Gordon, A. J. Milner, and C. P. </author> <title> Wadsworth, </title> <publisher> Edinburgh LCF, Springer-Verlag, </publisher> <address> New York, </address> <year> 1979. </year>
+Reference: 5. <author> Guy L. Steele Jr., </author> <title> Common Lisp: The Language, </title> <publisher> Digital Press, </publisher> <year> 1984. </year>
+Reference-contexts: See p. 443 of the Common Lisp manual <ref> [5] </ref> for a discussion of the Common Lisp function DRIBBLE. Those using an appropriate environment may instead prefer to run their Lisp under Emacs. 4 1.2 Organization: goals, states, and the state stack This section gives an informal introduction to the organization of the system.
+Reference: 6. <author> R.S. Boyer and J S. Moore, Metafunctions: </author> <title> Proving Them Correct and Using Them Efficiently as New Proof Procedures, </title> <publisher> Academic Press, </publisher> <year> 1981, </year> <pages> pp. 103-185. </pages> <note> Table of Contents </note>
+Reference-contexts: besides DIVE which change the current subterm are UP, TOP, NX, and BK, all of which are of course explained by the help facility (and in the final appendix). 11 An exception is that both commands print explicit value terms using the quote notation, which is explained in detail in <ref> [6] </ref>. So for example, (LIST 'A 'B) is printed as '(A B) with both commands. 15 We continue with our description of the fields of a STATE.
+
+
+Reference: 3. <institution> Interactive definitions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20 </institution>
+Reference-contexts: The user can check the current setting of the time limit by invoking the Lisp function time-limit. The user can also run a list of events in the same manner as with DO-EVENTS (see <ref> [3] </ref>) but where one proceed even upon failure, and running out of time causes such an individual event's failure. The time limit may be set to NIL, which is how it is initialized. Such a setting indicates that there is not any time limit set. <p> Otherwise, if there is an (ENABLE-THEORY T) hint (respectively, a (DISABLE-THEORY T) hint), consider it enabled (respectively, disabled). Otherwise, simply check whether it is enabled or disabled according to the global database. 26 The notion of satellite is discussed in <ref> [3] </ref>. 49 Thus, for example, one may wish to give a hint which enables several relevant theories but disables certain events (possibly from those theories); then the latter take precedence over the former hints for the individual events in question, which is what one would hope to be the case.
+
+
+
+References-found: 7
+

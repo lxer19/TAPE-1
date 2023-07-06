@@ -1,0 +1,14 @@
+URL: ftp://ftp.cs.unc.edu/pub/users/manocha/PAPERS/VISIBILITY/hom.ps.gz
+Refering-URL: http://www.cs.unc.edu/~geom/chron.html
+Root-URL: http://www.cs.unc.edu
+Email: fzhangh,dm,hudson,hoffg@cs.unc.edu  
+Title: Visibility Culling using Hierarchical Occlusion Maps  
+Author: Hansong Zhang Dinesh Manocha Tom Hudson Kenneth E. Hoff III 
+Web: http://www.cs.unc.edu/fzhangh,dm,hudson,hoffg  
+Address: Chapel Hill, NC 27599-3175  
+Affiliation: Department of Computer Science University of North Carolina  
+Abstract: We present hierarchical occlusion maps (HOM) for visibility culling on complex models with high depth complexity. The culling algorithm uses an object space bounding volume hierarchy and a hierarchy of image space occlusion maps. Occlusion maps represent the aggregate of projections of the occluders onto the image plane. For each frame, the algorithm selects a small set of objects from the model as occluders and renders them to form an initial occlusion map, from which a hierarchy of occlusion maps is built. The occlusion maps are used to cull away a portion of the model not visible from the current viewpoint. The algorithm is applicable to all models and makes no assumptions about the size, shape, or type of occluders. It supports approximate culling in which small holes in or among occluders can be ignored. The algorithm has been implemented on current graphics systems and has been applied to large models composed of hundreds of thousands of polygons. In practice, it achieves significant speedup in interactive walkthroughs of models with high depth complexity. CR Categories and Subject Descriptors: I.3.5 [Computer Graphics]: Computational Geometry and Object Modeling Key Words and Phrases: visibility culling, interactive display, image pyramid, occlusion culling, hierarchical data structures 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

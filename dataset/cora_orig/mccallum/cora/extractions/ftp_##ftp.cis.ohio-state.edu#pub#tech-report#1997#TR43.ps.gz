@@ -1,0 +1,14 @@
+URL: ftp://ftp.cis.ohio-state.edu/pub/tech-report/1997/TR43.ps.gz
+Refering-URL: http://www.cis.ohio-state.edu/rsrg/RSRG-instruction.html
+Root-URL: 
+Email: murali@cs.wvu.edu long,weide-@cis.ohio-state.edu wheym@otterbein.edu  
+Title: Teaching the Essential Role of Mathematical Modeling in Understanding and Reasoning About Objects  
+Author: Murali Sitaraman Bruce W. Weide, Timothy J. Long Wayne Heym 
+Note: Copyright 1997 by the authors. All rights reserved.  
+Address: Morgantown, WV 26506 Columbus, OH 43210 Westerville, OH 43081  
+Affiliation: Computer Science and Computer and Mathematical Electrical Engineering Information Science Sciences West Virginia University The Ohio State University Otterbein College  
+Abstract: Technical report OSU-CISRC-9/97-TR43 September 1997 Abstract Recognizing the advantages of object-based software, CS instructors have increasingly emphasized design and reuse of objects in CS1/CS2. But unless students also learn how to understand objects and operations abstractly, and how to reason about the behavior of object-based programs, they can't possibly write correct nontrivial software. We describe how we present formal yet simple mathematical models of objects and operations and how we use them to teach reasoning about object-based program behavior. The techniques we teach are both suitable for introductory courses and scalable to indus-trialstrength software. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

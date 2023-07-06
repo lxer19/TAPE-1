@@ -1,0 +1,22 @@
+URL: http://www.iihe.ac.be/FtpServer/pub/internet-drafts/draft-ietf-avt-germ-00.ps
+Refering-URL: http://www.iihe.ac.be/FtpServer/pub/internet-drafts/
+Root-URL: http://www.iihe.ac.be
+Title: Internet Engineering Task Force AVT WG GeRM: Generic RTP Multiplexing Status of format for generic
+Author: INTERNET-DRAFT Mark Handley 
+Web: ftp.is.co.za (Africa), ftp.nordu.net  
+Note: this Memo This document is an Internet-Draft. Internet-Drafts are working documents of the Internet Engineering Task Force (IETF), its areas, and its working groups. Note that other groups may also distribute working documents as Internet-Drafts. To view the entire list of current Internet-Drafts, please check the 1id-abstracts.txt listing contained in the Internet-Drafts Shadow Directories on  (Northern Europe), ftp.nis.garr.it (Southern Europe), munnari.oz.au (Pacific Rim), ftp.ietf.org (US East Coast), or ftp.isi.edu (US West Coast). Distribution of this document is unlimited. This document describes GeRM, an RTP payload  Force. Comments are solicited and should be addressed to the working group's mailing list at rem-conf@es.net and/or the author.  
+Date: November 11, 1998 Expires: May, 1999  
+Pubnum: draft-ietf-avt-germ-00.ps ISI  
+Abstract: Internet-Drafts are draft documents valid for a maximum of six months and may be updated, replaced, or obsoleted by other documents at any time. It is inappropriate to use Internet-Drafts as reference material or to cite them other than as work in progress. Abstract 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> H. Schulzrinne, S. Casner, R. Frederick and V. Jacobson RTP: </author> <title> A Transport Protocol for Real-Time Applications RFC 1889. </title>
+Reference-contexts: 1 Introduction When RTP <ref> [1] </ref> is used for end-to-end communication, each RTP data stream in a session should be send separately to a different UDP port. This allows heterogeneous treatment of the streams by the network.
+Reference: [2] <author> R. Braden, Ed., L. Zhang, S. Berson, S. Herzog, S. Jamin, </author> <title> Resource ReSerVation Protocol (RSVP) Version 1 Functional Specification, </title> <note> RFC 2205 Mark Handley Expires May, 1999 [Page 6] INTERNET-DRAFT draft-ietf-avt-germ-00.ps November 11, </note> <year> 1998 </year>
+Reference-contexts: This allows heterogeneous treatment of the streams by the network. For example, in a multimedia conference, we may be willing to pay to make an RSVP <ref> [2] </ref> reservation for the audio, but unable to reserve sufficient bandwidth for the video. Thus in the general case, we argue that multiplexing multiple RTP streams together should be avoided. However, there are circumstances when this general rule may not make a great deal of sense.
+Reference: [3] <author> S. Casner, V. Jacobson, </author> <title> Compressing IP/UDP/RTP Headers for Low-Speed Serial Links, Internet Draft. </title>
+Reference-contexts: However, there are circumstances when this general rule may not make a great deal of sense. If a stream is very low bandwidth, but needs low latency, the overhead of RTP packetisation may be too large. On slow modem links this can be overcome by using IP/UDP/RTP header compression <ref> [3] </ref>, but this is a hop-by-hop compression scheme, and so is unsuitable for congested high-speed backbone links. MPEG 4 is an example of a codec that produces multiple elementary streams that comprise a single video stream. Many of these elementary streams are very low bandwidth.
+Reference: [4] <author> M. Handley, </author> <title> Guidelines for writers of RTP payload format specifications, Internet Draft. </title> <note> Mark Handley Expires May, 1999 [Page 7] </note>
+Reference-contexts: Instead a network-aware multiplexing layer is required that can combine multiple elementary stream data units into a single RTP packet in a way that does not reduce resilience to packet loss <ref> [4] </ref>. Another example is that of IP telephony gateways. In such a gateway, incoming PSTN calls are pack-etised over RTP and transmitted to a remote gateway, where they are turned back into PSTN calls again. Between any pair of gateways there may be many simultaneous telephone calls.
+References-found: 4
+

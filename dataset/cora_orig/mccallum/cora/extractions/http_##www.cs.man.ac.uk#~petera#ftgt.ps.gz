@@ -1,0 +1,12 @@
+URL: http://www.cs.man.ac.uk/~petera/ftgt.ps.gz
+Refering-URL: http://www.cs.man.ac.uk/~petera/
+Root-URL: http://www.cs.man.ac.uk
+Title: A direct constructive treatment of the Fundamental Theorem of Galois Theory DRAFT The Fundamental Theorem
+Author: Peter Aczel G r fx E j g G g() xg: F G r G F 
+Note: These  It follows that the correspondences are anti-monotone and that for all F and all G  
+Date: September 29, 1998  
+Abstract: This is the basic structure theorem at the heart of Galois Theory. We start with a classical account of the result and then explain how this needs to be modified to get a constructive result. We will restrict attention to fields of characteristic 0. Let E be a field (of characteristic 0). We write Aut E for the group of automorphisms of E. The fundamental theorem concerns correspondences each way between the subfields of E and the subgroups of Aut E . To each subfield F of E is associated the subgroup F 4 of Aut E given by F 4 = fg 2 Aut E j 8x 2 F g(x) = xg: When we want to make explicit the dependence of F 4 on E we will write it Gal(E : F ) and call it the Galois group of E : F . To each subgroup G of Aut E is associated the subfield G r of E given by G r4r = G r and F 4r4 = F 4 : If F is a subfield of E and K is a subfield of F then we will also call the subfield F of E a K-subfield of E. Call a subfield F of E a Galois subfield of E if F = G r for some finite subgroup G of Aut E . It will be convenient to state the Fundamental Theorem using some special notation for some posets that are partially ordered by the subset relation. Definition 0.1 Let E be a field. * G(E) is the poset of finite subgroups of Aut E . * F (E) is the poset of subfields of E of the form G r where G 2 G(E). Let K 2 F (E). 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

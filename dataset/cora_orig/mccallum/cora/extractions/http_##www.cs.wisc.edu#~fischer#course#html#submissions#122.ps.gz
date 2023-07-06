@@ -1,0 +1,19 @@
+URL: http://www.cs.wisc.edu/~fischer/course/html/submissions/122.ps.gz
+Refering-URL: http://www.cs.wisc.edu/~fischer/course/html/submissions/
+Root-URL: http://www.cs.wisc.edu
+Title: "Data structural bootstrapping, linear path compression, and catenable heap ordered double ended queues." "Fully persistent
+Author: . A. L. Buchsbaum, R. Sundar and R. E. Tarjan. J. R. Driscoll, D. D. Sleator and R. E. Tarjan. J. R. Driscoll, N. Sarnak, D. D. Sleator and R. E. Tarjan. J. . P. Hudak. 
+Web: T1-T53.  
+Date: 38 (1989), pages 86-124.  December 1986.  
+Note: In Proceedings 33rd IEEE Symposium on Foundations of Computer Science, 1992, pages 40-49. 6.  Proceedings 2nd ACM-SIAM Symposium on Discrete Algorithms, 1991 pages 89-99. 7.  Comp. Sys. Sci.  9. J. Fasel and P. Hudak. "A gentle introduction to Haskell." ACM SIGPLAN Notices 27(5), 1992, pages  ACM Computing Surveys 21(3), 1989, pages 359-411. 11. D. Turner. "An Overview of Miranda." ACM SIGPLAN Notices,  10  
+Abstract: 8. P. Hudak, S. P. Jones, P. Wadler, editors. "Report on the programming language Haskell: A non-strict, purely functional language, version 1.2." ACM SIGPLAN Notices 25(5), pages R1-R164, 1992. 
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> K. R. Abrahamson. </author> <title> "Multiparadigm programming using Astarte." </title> <type> Manuscript, </type> <institution> Department of Mathematics, East Carolina University, Greenville, NC, USA. </institution> <year> 1995. </year>
+Reference: 2. <author> R. Bird and P. Wadler. </author> <title> Introduction to Functional Programming. </title> <publisher> Prentice-Hall, </publisher> <address> New York, </address> <year> 1988. </year>
+Reference: 3. <author> A. L. Buchsbaum and R. E. Tarjan. </author> <title> "Confluently persistend deques via data-structural bootstrapping." </title> <editor> J. </editor> <booktitle> Algorithms 18 (1995), </booktitle> <pages> pages 513-547. </pages>
+
+
+
+References-found: 3
+

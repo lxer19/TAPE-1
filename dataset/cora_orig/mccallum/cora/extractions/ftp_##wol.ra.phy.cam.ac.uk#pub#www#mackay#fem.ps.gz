@@ -1,0 +1,24 @@
+URL: ftp://wol.ra.phy.cam.ac.uk/pub/www/mackay/fem.ps.gz
+Refering-URL: http://131.111.48.24/mackay/README.html
+Root-URL: 
+Title: A Free Energy Minimization Algorithm for Decoding and Cryptanalysis three binary vectors: s of length
+Author: David J.C. MacKay m t m (s) g m const: () where g m log[P (n m )=P (n m )] if m and g m log[P (n m 
+Keyword: Index: approximate inference, combinatorial optimization, error correction, stream cipher.  
+Note: As submitted to Electronics Letters, except including an appendix giving pseudocode. Submitted November 23, 1994; published 16th  Consider  I assume that  1)=P (n m 0)] if m 1.  
+Address: Madingley Road, Cambridge CB3 0HE  
+Affiliation: Cavendish Laboratory,  
+Pubnum: 2  
+Email: mackay@mrao.cam.ac.uk  
+Date: March 1995 (vol. 31 no.6)  (1)  
+Abstract: where A is a binary matrix. Our task is to infer s given z and A, and given assumptions about the statistical properties of s and n. This problem arises in the decoding of a noisy communication z which was transmitted using an error-correcting code based on parity checks of the original signal s, and in the inference of the sequence of a linear feedback shift register (LFSR) from a noisy observation of the sequence [1]. P (zjA) I assume the decoder's aim is to find the most probable s. For large N an exhaustive search over the 2 N possible sequences s is not feasible. One way to attack such a combinatorial problem is to create a related continuous optimization problem in which the discrete variables are replaced by real variables [2, 3, 4]. Here I derive a continuous representation in terms of a free energy approximation [5] to the awkward posterior distribution (3).
+Abstract-found: 1
+Intro-found: 0
+Reference: [1] <author> W. Meier and O. Staffelbach. </author> <title> Fast correlation attacks on certain stream ciphers. </title> <journal> J. Cryptology, </journal> <volume> 1 </volume> <pages> 159-176, </pages> <year> 1989. </year>
+Reference: [2] <author> J. J. Hopfield and D. W. Tank. </author> <title> Neural computation of decisions in optimization problems. </title> <journal> Biological Cybernetics, </journal> <volume> 52 </volume> <pages> 1-25, </pages> <year> 1985. </year>
+Reference: [3] <author> A. Blake and A. Zisserman. </author> <title> Visual Reconstruction. </title> <publisher> MIT Press, </publisher> <address> Cambridge Mass., </address> <year> 1987. </year>
+Reference: [4] <author> S. V. B. Aiyer, M. Niranjan, and F. Fallside. </author> <title> A theoretical investigation into the performance of the Hopfield model. </title> <journal> IEEE Trans. on Neural Networks, </journal> <volume> 1(2) </volume> <pages> 204-215, </pages> <year> 1990. </year>
+Reference: [5] <author> R. P. </author> <title> Feynman. Statistical Mechanics. </title> <editor> W. A. </editor> <publisher> Benjamin, Inc., </publisher> <year> 1972. </year>
+Reference: [6] <author> D. J. C. MacKay. </author> <title> A free energy minimization framework for inference problems in modulo 2 arithmetic. </title> <editor> In B. Preneel, ed., </editor> <booktitle> Proceedings of 1994 K.U. Leuven Workshop on Cryptographic Algorithms, Lecture Notes in Computer Science. </booktitle> <publisher> Springer-Verlag, </publisher> <year> 1995. </year>
+Reference: [7] <author> R. J. Anderson. </author> <title> Searching for the optimum correlation attack. </title> <booktitle> In Proceedings of 1994 K.U. Leuven Workshop on Cryptographic Algorithms, </booktitle> <year> 1995. </year> <month> 6 </month>
+References-found: 7
+

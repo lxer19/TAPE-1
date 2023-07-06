@@ -1,0 +1,13 @@
+URL: http://www.neci.nj.nec.com/homepages/giles/papers/Pulse_encodings.rnn.1994.ICNN.ps.Z
+Refering-URL: http://www.neci.nj.nec.com/homepages/giles/papers/
+Root-URL: http://www.neci.nj.nec.com
+Title: Training Recurrent Neural Networks with Temporal Input Encodings  
+Author: C.W. Omlin a;b C.L. Giles a;c B.G. Horne a L.R. Leerink d T. Lin a 
+Date: 2006  
+Address: 4 Independence Way, Princeton, NJ 08540  Troy, NY 12180  College Park, MD 20742  Sydney, Sydney, NSW  
+Affiliation: a NEC Research Institute,  b CS Department, Rensselaer Polytechnic Institute,  c UMIACS, University of Maryland,  d EE Department, The University of  
+Abstract: We investigate the learning of deterministic finite-state automata (DFA's) with recurrent networks with a single input neuron, where each input symbol is represented as a temporal pattern and strings as sequences of temporal patterns. We empirically demonstrate that obvious temporal encodings can make learning very difficult or even impossible. Based on preliminary results, we formulate some hypotheses about 'good' temporal encoding, i.e. encodings which do not significantly increase training time compared to training of networks with multiple input neurons. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

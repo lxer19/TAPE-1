@@ -1,0 +1,20 @@
+URL: http://www.cs.virginia.edu/~nr/noweb/guide.ps
+Refering-URL: http://www.cs.virginia.edu/~nr/noweb/
+Root-URL: http://www.cs.virginia.edu
+Email: email  
+Title: The noweb Hacker's Guide  
+Author: Norman Ramsey 
+Address: Charlottesville, VA 22903, USA; send  
+Note: Author's current address is  to nr@cs.virginia.edu.  
+Date: September 1992 (Revised August 1994, December 1997)  
+Affiliation: Department of Computer Science Princeton University  Department of Computer Science, University of Virginia,  
+Abstract:  
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Aho, A. V., B. W. Kernighan, and P. J. </author> <title> Weinberger (1988). The AWK Programming Language. </title> <address> Reading, MA: </address> <publisher> Addison-Wesley. 18 Fraser, </publisher> <editor> C. W. and D. R. Hanson (1995). </editor> <title> A Retargetable C Compiler: Design and Implementation. </title> <address> Redwood City, CA: Benjamin/Cummings. </address>
+Reference-contexts: This one-line sed command makes noweb treat two chunk names as identical if they differ only in their representation of whitespace: sed -e '/^@use /s/[ "t][ "t]*/ /g' -e '/^@defn /s/[ "t][ "t]*/ /g' This little filter, a Bourne shell script written in awk <ref> (Aho, Kernighan, and Weinberger 1988) </ref>, makes the definition of an empty chunk (&lt;<&gt;>=) stand for a continuation of the previous chunk definition. awk 'BEGIN - lastdefn = "@defn " - /^@defn $/ print lastdefn; next - /^@defn / - lastdefn = $0 - print-'"$@" To share programs with colleagues who don't
+Reference: <author> Kernighan, B. W. and R. </author> <title> Pike (1984). The UNIX Programming Environment. </title> <address> Englewood Cliffs, NJ: </address> <publisher> Prentice-Hall. </publisher>
+Reference-contexts: This back end is useful primarily for trying to convert other literate programs to noweb form. It might also be used to capture and edit the output of an automatic definition recognizer. Standard commands The standard commands are all written as Bourne shell scripts <ref> (Kernighan and Pike 1984) </ref>. They assemble Unix pipelines using markup and the filters and back ends described above. They are documented in man pages, and there is no sense in repeating that material here. I do show two sample pipelines in Figures 1 and 2.
+
+References-found: 2
+

@@ -1,0 +1,39 @@
+URL: ftp://playfair.stanford.edu/pub/donoho/dens.ps.Z
+Refering-URL: http://www.mathsoft.com/wavelets.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: Density estimation by wavelet thresholding  
+Author: David L. Donoho Iain M. Johnstone Gerard Kerkyacharian Dominique Picard 
+Keyword: to attain exactly optimal rates of convergence for quadratic error (p 0 2). Key Words and Phrases: Minimax Estimation, Adaptive Estimation, Density Estimation, Spatial Adaptation, Wavelet Orthonormal bases, Besov Spaces.  
+Note: Paris-Sud (Orsay) for supporting a visit by IMJ.  
+Date: April 1993  
+Abstract: Density estimation is a commonly used test case for non-parametric estimation methods. We explore the asymptotic properties of estimators based on thresholding of empirical wavelet coefficients. Minimax rates of convergence are studied over a large range of Besov function classes B s;p;q and for a range of global L 0 p error measures, 1 p 0 &lt; 1. A single wavelet threshold estimator is asymptotically minimax within logarithmic terms simultaneously over a range of spaces and error measures. In particular, when p 0 &gt; p, some form of non-linearity is essential, since the minimax linear estimators are suboptimal by polynomial powers of n. A second approach, using an approximation of a Gaussian white noise model in a Mallows metric, is used Acknowledgements: We thank Alexandr Sakhanenko for helpful discussions and references to his work on Berry Esseen theorems used in Section 5. This work was supported in part by NSF DMS 92-09130. The second author would like to thank Universite de 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Bergh J., Lofstrom, J. </author> <title> (1976) Interpolation spaces An Introduction Springer. </title> <address> New York. </address>
+Reference-contexts: Linear estimators have the following distinguishing property. If f; g are two probability densities and ff 2 <ref> [0; 1] </ref>, then E fff+(1ff)g ^ f L = ffE f ^ f L + (1 ff)E g ^ f L : The following results will show that the rate of convergence of linear procedures may be strictly slower than that of non-linear ones. <p> j &gt; q Now use Bennett's inequality (see for example Pollard, 1984) to bound P jS n j &gt; an log n 2 expf (1=2)a log nB (M q where the function B () = 2 2 [(1 + ) log (1 + ) ] is continuous and decreasing on <ref> [0; 1] </ref> with B (0+) = 1.
+Reference: [2] <author> Bretagnolle, J. and Carol-Huber, C. </author> <title> (1979) Estimation des densites: risque minimax, </title> <journal> Z. Wahrscheinlichkeitstheorie und Verw. </journal> <pages> Gebiete 47 119-137. </pages>
+Reference: [3] <author> Daubechies, I. </author> <title> (1992) Ten Lectures on Wavelets SIAM: </title> <address> Philadelphia. </address>
+Reference: [4] <author> Devroye, L. </author> <title> (1985) Nonparametric Density Estimation. </title> <publisher> Wiley, </publisher> <address> New York. </address> <month> 26 </month>
+Reference: [5] <author> Donoho, D. L. and Johnstone, I. </author> <title> M (1990) Minimax risk over ` p -balls. </title> <type> Technical Re--port, </type> <institution> Department of Statistics, University of California, Berkeley. </institution>
+Reference: [6] <author> Donoho, D. L. and Johnstone, I. </author> <title> M (1992) Minimax Estimation via Wavelet shrinkage. </title> <type> Technical Report, </type> <institution> Department of Statistics, Stanford University. </institution>
+Reference: [7] <author> Donoho, D. L. and Johnstone, I. </author> <title> M (1993) Adapting to unknown smoothness via Wavelet shrinkage. </title> <type> Technical Report, </type> <institution> Department of Statistics, Stanford University. </institution>
+Reference: [8] <author> Donoho, D.L., Johnstone, I.M., Kerkyacharian, G. and Picard, D. </author> <title> (1993) Wavelet Shrinkage: </title> <type> Asymptopia? Manuscript. </type>
+Reference: [9] <author> Doukhan, P. and Leon, J. </author> <title> (1990) Deviation quadratique d'estimateur de densite par projection orthogonale. </title> <note> Note aux Comptes Rendus Acad. Sciences Paris (A) 310 424-430. </note>
+Reference: [10] <author> Feller, W. </author> <title> (1971) An introduction to probability theory and its applications. , Vol 2. </title> <publisher> Wiley, </publisher> <address> New York. </address>
+Reference: [11] <author> M. Frazier, B. Jawerth, and G. </author> <title> Weiss (1991) Littlewood-Paley Theory and the study of function spaces. </title> <booktitle> NSF-CBMS Regional Conf. Ser in Mathematics, </booktitle> <volume> 79. </volume> <publisher> American Math. Soc.: </publisher> <address> Providence, RI. </address>
+Reference: [12] <author> Johnstone, I.M., Kerkyacharian, G. and Picard, D. </author> <title> (1992) Estimation d'une densite de probabilite par methode d'ondelettes. </title> <journal> Comptes Rendus Acad. </journal> <note> Sciences Paris (A) 315 211-216. </note>
+Reference: [13] <author> Kerkyacharian, G. and Picard, D. </author> <title> (1992a) Density estimation in Besov Spaces. </title> <journal> Statistics and Probability Letters 13 15-24 </journal>
+Reference: [14] <author> Kerkyacharian, G. and Picard, D. </author> <title> (1992b) Density Estimation by Kernel and Wavelets methods optimality of Besov spaces. To appear in Stat. and Prob. Letters. </title> <type> Technical Report, </type> <institution> Universite de Paris VII. </institution>
+Reference: [15] <author> Kerkyacharian, G. and Picard, D. </author> <title> (1992c) Linear Wavelet Methods and other periodic kernel methods. Submitted. </title> <type> Technical Report, </type> <institution> Universite de Paris VII. </institution>
+Reference: [16] <author> Meyer, Y. </author> <title> (1990a) Ondelettes. </title> <publisher> Paris: Hermann. </publisher>
+Reference: [17] <author> Nemirovskii, </author> <title> A.S. (1985) Nonparametric estimation of smooth regression functions. </title> <journal> Izv. Akad. Nauk. SSR Teckhn. Kibernet. 3, 50-60 (in Russian). J. Comput. Syst. Sci. </journal> <volume> 23, 6, </volume> <pages> 1-11, </pages> <note> (1986) (in English). </note>
+Reference: [18] <author> Nemirovskii, </author> <title> A.S., Polyak, B.T. and Tsybakov, A.B. (1985) Rate of convergence of nonparametric estimates of maximum-likelihood type. </title> <booktitle> Problems of Information Transmission 21, </booktitle> <pages> 258-272. </pages>
+Reference: [19] <author> Peetre, J. </author> <title> (1975) New Thoughts on Besov Spaces. </title> <journal> Duke Univ Math. Ser. </journal> <volume> 1. </volume>
+Reference: [20] <author> Petrov, V. V. </author> <title> (1975) Sums of Independent Random Variables. </title> <publisher> Springer, </publisher> <address> New York. </address> <month> 27 </month>
+Reference: [21] <author> Pollard D. </author> <title> (1984) Convergence of stochastic processes.Springer. </title> <address> New York. </address>
+Reference: [22] <author> Sakhanenko, A. I. </author> <title> (1991) Berry-Esseen type estimates for Large Deviation Probabilities. </title> <journal> Siberian Mathematical Journal, </journal> <volume> 32, 647 - 656. </volume> <booktitle> Translation of Sibirskii Matem-aticheskii Zhurnal , 32 (4),133-142. </booktitle>
+Reference: [23] <author> Scott, D. W. </author> <title> (1992) Multivariate Density Estimation. </title> <publisher> Wiley, </publisher> <address> New York. </address>
+Reference: [24] <author> Silverman, B.W. </author> <title> (1986) Density Estimation for Statistics and Data Analysis. </title> <publisher> Chapman and Hall, London. </publisher>
+Reference: [25] <author> Walter, G. G. </author> <title> (1990) Approximation of the Delta function by wavelets. </title> <type> Preprint, </type> <address> U. Wisonsin - Milwaukee. </address> <month> 28 </month>
+References-found: 25
+

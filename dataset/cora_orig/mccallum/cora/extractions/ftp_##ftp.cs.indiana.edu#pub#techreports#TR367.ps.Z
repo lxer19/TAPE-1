@@ -1,0 +1,30 @@
+URL: ftp://ftp.cs.indiana.edu/pub/techreports/TR367.ps.Z
+Refering-URL: http://www.cs.indiana.edu/ftp/techreports/index.html
+Root-URL: http://www.cs.indiana.edu
+Email: chaynes@cs.indiana.edu  
+Title: Infer: A Statically-typed Dialect of Scheme Preliminary Tutorial and Documentation Version 0.1 Limited distribution draft  
+Author: Christopher T. Haynes Christopher T. Haynes. 
+Note: 1 This work was supported in part by NSF Grants CCR 87-02117 and DCR 85-21497. Copywrite c 1992 by  
+Date: March 3, 1993  
+Address: Lindley Hall  Bloomington, IN 47405 USA  
+Affiliation: Computer Science Department  Indiana University  
+Pubnum: [812]855-3376  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> Cleaveland, </author> <title> J.C., An Introduction to Data Types, </title> <publisher> Addison-Wesley, </publisher> <year> 1986. </year>
+Reference: [2] <editor> Clinger, W., and Rees, J., </editor> <title> "Revised 4 report on the algorithmic language Scheme," </title> <booktitle> Lisp Pointers 4 :3, </booktitle> <pages> pp. 1-55, </pages> <year> 1991. </year> <note> Also available as a technical report from Indiana University, </note> <institution> MIT, and the University of Oregon. </institution>
+Reference: [3] <author> Duba, B., Harper, R., and MacQueen, D., </author> <title> "Typing first-class continuations in ML," </title> <booktitle> Proceedings of the Seventeenth Annual Symposium on Principles of Programming Languages, </booktitle> <year> 1991, </year> <note> 163-173; revised version in preparation. </note>
+Reference: [4] <author> Dybvig, R. K., </author> <title> The Scheme Programming Language, </title> <publisher> Prentice-Hall, </publisher> <year> 1987. </year>
+Reference: [5] <author> Dybvig, R. K., </author> <title> "Writing hygienic macros in Scheme with syntax-case," </title> <type> Technical Report 356, </type> <institution> Indiana University Computer Science Department, </institution> <month> June </month> <year> 1992. </year>
+Reference: [6] <author> Harper, R., Milner, R., and Tofte, M., </author> <title> The definition of Standard ML, </title> <publisher> MIT Press, </publisher> <year> 1990. </year>
+Reference: [7] <author> Hieb, R., Dybvig, R. K., and Bruggeman, C., </author> <title> "Syntactic Abstraction in Scheme," </title> <type> Technical Report 355, </type> <institution> Indiana University Computer Science Department, </institution> <month> June </month> <year> 1992. </year>
+Reference: [8] <editor> IEEE Std 1178-1990, </editor> <title> IEEE Standard for the Scheme Programming Language, </title> <publisher> Institute of Electrical and Electronics Engineers, Inc., </publisher> <address> New York, N.Y., </address> <year> 1991. </year>
+Reference: [9] <author> Paulson, L., </author> <title> ML for the Working Programmer, </title> <publisher> Cambridge University Press, </publisher> <year> 1991. </year>
+Reference: [10] <author> Remy, D., </author> <title> "Type inference for records in a natural extension of ML," </title> <type> Technical Report 1431, </type> <institution> Inria-Rocquencourt, </institution> <month> May </month> <year> 1991. </year>
+Reference: [11] <author> Springer, G., and Friedman, </author> <title> D.P., Scheme and the Art of Programming, </title> <publisher> MIT Press/McGraw Hill, </publisher> <year> 1989. </year> <month> 38 </month>
+Reference: [12] <author> Tofte. M., </author> <title> "Type inference for polymor-phic references," </title> <booktitle> Information and Computation 89 :1, </booktitle> <year> 1990. </year> <note> [[published reference?]] </note>
+Reference: [13] <author> Wand, M., </author> <title> "Finding the source of type errors," </title> <booktitle> Conf. Rec. of the 13th ACM Symp. on Principles of Programming Languages, </booktitle> <year> 1986, </year> <pages> 38-43. </pages>
+Reference: [14] <author> Wand, M., </author> <title> "Complete type inference for simple objects," </title> <booktitle> Proceedings of the Second Symposium on Logic in Computer Science, </booktitle> <year> 1987. </year>
+Reference: [15] <author> Wand, M., </author> <title> "Corrigendum: Complete type inference for simple ojbects," </title> <booktitle> Proceedings of the Third Symposium on Logic in Computer Science, </booktitle> <year> 1988. </year> <month> 39 </month>
+References-found: 15
+

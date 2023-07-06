@@ -1,0 +1,12 @@
+URL: ftp://ftp.cs.umd.edu/pub/papers/papers/1775/1775.ps.Z
+Refering-URL: http://www.cs.umd.edu/TRs/TR.html
+Root-URL: 
+Title: A Study of File Manipulation by Novices Using Commands vs. Direct Manipulation  
+Author: Sepeedeh Margono and Ben Shneiderman* 
+Address: College Park, MD 20742  
+Affiliation: Dept. of Computer Science University of Maryland  
+Abstract: There are three basic interactive styles of control in human interfaces with computers: command, menu, and direct manipulation. In the past few years, these three styles have become the subject of many studies. However , few comparisons have been done between interfaces that use direct manipulation and command styles. This experiment compares file manipulation operations on the Apple Macintosh, which has a direct manipulation interface, with the IBM PC with MS-DOS, which has the command interface. After a brief training period, novices accomplished file manipulation tasks more rapidly, with fewer errors and greater satisfaction with the Apple Macintosh. Problems arising for both versions are discussed and suggestions for improvements are made. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

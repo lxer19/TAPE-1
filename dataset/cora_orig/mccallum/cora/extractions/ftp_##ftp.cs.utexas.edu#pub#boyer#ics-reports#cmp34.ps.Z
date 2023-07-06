@@ -1,0 +1,16 @@
+URL: ftp://ftp.cs.utexas.edu/pub/boyer/ics-reports/cmp34.ps.Z
+Refering-URL: ftp://ftp.cs.utexas.edu/pub/boyer/ics-reports/index.html
+Root-URL: 
+Phone: (512) 471-1901  
+Title: Message Flow Modulator Final Report  
+Author: Donald I. Good Ann E. Siebert Lawrence M. Smith 
+Address: 2100 Main Building  Austin, Texas 78712  
+Affiliation: Institute for Computing Science  The University of Texas at Austin  
+Date: 34 December 1982  
+Pubnum: Technical Report  
+Abstract-found: 0
+Intro-found: 0
+Reference: [Craigen 82] <institution> Dan Craigen. </institution>
+Reference-contexts: Flow Controller, 12/23/81 The MFM is similar in function to the LSI guard being developed by I. P. Sharp <ref> [Craigen 82] </ref>. The key difference is that the LSI guard is intended to review and sanitize messages manually. An attempt was made to design a high level flow controller system that could be refined into either the LSI guard or the MFM.
+References-found: 1
+

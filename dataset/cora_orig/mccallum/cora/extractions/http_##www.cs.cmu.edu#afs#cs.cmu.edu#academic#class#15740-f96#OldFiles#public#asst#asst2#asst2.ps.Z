@@ -1,0 +1,13 @@
+URL: http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15740-f96/OldFiles/public/asst/asst2/asst2.ps.Z
+Refering-URL: http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15740-f96/OldFiles/public/asst/asst2/
+Root-URL: http://www.cs.cmu.edu
+Email: Randy.Bryant@cs.cmu.edu  
+Title: Homework Assignment You may work in a group of up to 3 people in solving
+Note: Due: Thurs., Oct. 10, 1:00PM 1. Policy  copy document for this assignment. You should also provide us with a  can do this by either: Sending it as email to  Formatted text is preferred to hand written. 3. Introduction mips.h Macros defining the pMIPS instruction format. These are generally consistent with the MIPS architecture.  
+Date: 740, Fall 1996  Assigned: Sept. 26  
+Pubnum: CS  2  
+Abstract: Putting it in an AFS directory to which we have read access. [You are on your honor not to The purpose of this assignment is to gain a deeper understanding of how pipelined processors are implemented. Our method of doing this will be to create a C program that simulates pMIPS, a pipelined implementation of a subset of the MIPS architecture. Although C is not an ideal language for describing and simulating hardware designs, one can get a high level view of how the hardware operates by using an appropriate coding style. You can pick up the entire files by copying and untarring the file files.tar. The source files include the following: go snooping around looking for versions of this file from other groups].
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

@@ -1,0 +1,22 @@
+URL: http://www.cs.colostate.edu/~vision/ps/spie95.ps.gz
+Refering-URL: http://www.cs.colostate.edu/~vision/html/publications.html
+Root-URL: 
+Email: goss@cs.colostate.edu  ross@cs.colostate.edu  stevensm@cs.colostate.edu  fuegi@cs.colostate.edu  
+Title: Three-dimensional visualization environment for multisensor data analysis, interpretation, and model-based object recognition  
+Author: Michael E. Goss J. Ross Beveridge Mark R. Stevens Aaron D. Fuegi 
+Keyword: computer graphics, visualization, range data, ladar, multisensor fusion, automatic target recognition  
+Address: Fort Collins, CO 80523  
+Affiliation: Computer Science Department Colorado State University  
+Abstract: Model-based object recognition must solve three-dimensional geometric problems involving the registration of multiple sensors and the spatial relationship of a three-dimensional model to the sensors. Observation and verification of the registration and recognition processes requires display of these geometric relationships. We have developed a prototype software system which allows a user to interact with the sensor data and model matching system in a three-dimensional environment. This visualization environment combines range imagery, color imagery, thermal (infrared) imagery, and CAD models of objects to be recognized. We are currently using imagery of vehicles travelling off-road (a challenging environment for the object recognizer). Range imagery is used to create a partial three-dimensional representation of a scene. Optical imagery is mapped onto this partial 3D representation. Visualization allows monitoring of the recognizer as it solves for the type and position of the object. The object is rendered from its associated CAD model. In addition to its usefulness in development of the object recognizer, we foresee eventual use of this technology in a fielded system for operator verification of automatic target recognition results. 
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> J. K. Aggarwal and N. Nandhakumar. </author> <title> Multisensor fusion for automatic scene interpretation. </title> <editor> In Ramesh C. Jain and Anil K. Jain, editors, </editor> <title> Analysis and Interpretation of Range Images. </title> <publisher> Springer-Verlag, </publisher> <year> 1990. </year>
+Reference: 2. <author> Steven K. Rodgers, Carl W. Tong, Matthew Kabrisky, and James P. Mills. </author> <title> Multisensor fusion of ladar and passive infared imagery for target segmentation. </title> <journal> Optical Engineering, </journal> <volume> 28(8) </volume> <pages> 881-886, </pages> <month> August </month> <year> 1989. </year>
+Reference: 3. <author> Jacques G. Verly, Dan E. Dudgeon, and Richard T. Lacoss. </author> <title> Model-based automatic target recognition system for the UGV/RSTA ladar. </title> <booktitle> In Proceedings: Image Understanding Workshop, </booktitle> <pages> pages 559-583. ARPA, </pages> <month> November </month> <year> 1994. </year>
+Reference: 4. <author> Anthony N. A. Schwickerath and J. Ross Beveridge. </author> <title> Object to multisensor coregistration with eight degrees of freedom. </title> <booktitle> In Proceedings: Image Understanding Workshop, </booktitle> <pages> pages 481-490. ARPA, </pages> <month> November </month> <year> 1994. </year>
+Reference: 5. <author> R. Nevatia, K. Price, and G. Medioni. </author> <title> USC image understanding research: 1993-1994. </title> <booktitle> In Proceedings: Image Understanding Workshop, </booktitle> <pages> pages 69-80. ARPA, </pages> <month> November </month> <year> 1994. </year>
+Reference: 6. <author> Hillel Rom and Gerard Medioni. </author> <title> Part decomposition and description of 3D shapes. </title> <booktitle> In Proceedings: Image Understanding Workshop, </booktitle> <pages> pages 1505-1522. ARPA, </pages> <month> November </month> <year> 1994. </year>
+Reference: 7. <author> U. S. </author> <note> Army Ballistic Research Laboratory. BRL-CAD User's Manual, release 4.0 edition, </note> <month> December </month> <year> 1991. </year>
+Reference: 8. <author> J. Ross Beveridge, Durga P. Panda, and Theodore Yachik. </author> <title> November 1993 Fort Carson RSTA data collection final report. </title> <type> Technical Report CS-94-118, </type> <institution> Computer Science Dept., Colorado State University, </institution> <month> January </month> <year> 1994. </year>
+References-found: 8
+

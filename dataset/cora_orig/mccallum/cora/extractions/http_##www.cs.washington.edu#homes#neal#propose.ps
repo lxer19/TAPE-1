@@ -1,0 +1,24 @@
+URL: http://www.cs.washington.edu/homes/neal/propose.ps
+Refering-URL: http://www.cs.washington.edu/homes/neal/pr-pub.html
+Root-URL: 
+Email: neal@cs.washington.edu  
+Title: Fast, adaptive, and empirically-tested goal recognition.  
+Author: Neal Lesh 
+Address: Seattle, WA 98105  
+Affiliation: Department of Computer Science and Engineering University of Washington  
+Abstract: Current plan recognition research cannot be directly incorporated into real world applications because plan recognizers typically run in exponential time, require a complete plan library as input, and make strong assumptions about the actor's behavior. The objective of the research outlined in this paper is to produce a fast and adaptive goal recognizer that performs well in real domains. Additionally, the goal recognizer must learn its own model of the actor's behavior, instead of receiving a complete plan library. Our recognizer is designed to work on "noisy" streams of executed actions, which represent the ongoing behavior of a suboptimal, forgetful human actor who works on multiple goals at once, abandons plans, executes plans that might not achieve their goal, executes spurious actions, and learns new actions and plans. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> M. Bauer, S. Biundo, D. Dengler, J. Kohler, and Paul G. </author> <title> Phi-a logic-based tool for intelligent help systems. </title> <booktitle> In Proceedings of the 13th International Joint Conference on Artificial Intelligence. </booktitle> <year> 1993. </year>
+Reference: <author> S. Carberry. </author> <title> Incorporating default inferences into plan recognition. </title> <booktitle> In Proc. 8th Nat. Conf. on A.I., </booktitle> <volume> volume 1, </volume> <pages> pages 471-8, </pages> <month> july </month> <year> 1990. </year>
+Reference: <author> E. Charniak and R. Goldman. </author> <title> A probablistic model of plan recognition. </title> <booktitle> In Proc. 9th Nat. Conf. on A.I., </booktitle> <volume> volume 1, </volume> <pages> pages 160-5, </pages> <month> July </month> <year> 1991. </year>
+Reference: <author> Oren Etzioni. </author> <title> STATIC: A problem-space compiler for prodigy. </title> <booktitle> In Proc. 9th Nat. Conf. on A.I., </booktitle> <year> 1991. </year>
+Reference: <author> H. Kautz. </author> <title> A Formal Theory Of Plan Recognition. </title> <type> PhD thesis, </type> <institution> University of Rochester, </institution> <year> 1987. </year>
+Reference-contexts: Using BOCE, we are able to compute the consistency of over a million goals in under 18 cpu-seconds, per observed action on a SPARC-10 with code written in Lisp. Model acquisition Most plan recognizers require, as input, a complete plan library, often encoded as a plan hierarchy <ref> (Kautz 1987) </ref>. The prevalent Complete Plan Library assumption states that the actor will only execute plans in the given plan library. Our goal recognizer does not need a plan library, per se, but instead uses what we call an actor model.
+Reference: <author> Neal Lesh and Oren Etzioni. </author> <title> A sound and fast goal recog-nizer. </title> <booktitle> In Proc. 15th Int. Joint Conf. on A.I., </booktitle> <year> 1995. </year>
+Reference: <author> T. Mitchell. </author> <title> Generalization as search. </title> <journal> Artificial Intelligence, </journal> <volume> 18 </volume> <pages> 203-226, </pages> <month> March </month> <year> 1982. </year>
+Reference-contexts: To solve this problem, we incorporate RIGS into a second algorithm, BOCE, based on the Candidate Elimination algorithm <ref> (Mitchell 1982) </ref> from Machine Learning. Rather than require a goal set, BOCE takes as input a set of predicates which can be composed into goals. BOCE has an internal goal bias, or assumptions about what type of goals people have.
+Reference: <author> M. Pollack. </author> <title> Plans as Complex Mental Attitudes, </title> <address> pages 77-101. </address> <publisher> MIT Press, </publisher> <address> Cambridge, MA, </address> <year> 1990. </year>
+Reference: <author> D. Smith and M. Peot. </author> <title> Postponing threats in partial-order planning. </title> <booktitle> In Proc. 11th Nat. Conf. on A.I., </booktitle> <pages> pages 500-506, </pages> <month> June </month> <year> 1993. </year>
+References-found: 9
+

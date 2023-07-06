@@ -1,0 +1,27 @@
+URL: http://theory.lcs.mit.edu/~rivest/revocation.ps
+Refering-URL: http://theory.lcs.mit.edu/~rivest/publications.html
+Root-URL: 
+Email: rivest@theory.lcs.mit.edu  
+Author: Ronald L. Rivest 
+Address: Cambridge, Mass. 02139  
+Affiliation: MIT Laboratory for Computer Science,  
+Note: rivest  
+Web: http://theory.lcs.mit.edu/  
+Abstract: Can We Eliminate Certificate Revocation Lists? Abstract. We briefly consider certificate revocation lists (CRLs), and ask whether they could, and should, be eliminated, in favor of other mechanisms. In most cases, the answer seems to be "yes." We suggest some possible replacement mechanisms.
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> Carl M. Ellison. </author> <title> SPKI certificate documentation. </title> <note> (See http://www.clark.net/pub/cme/html/spki.html), 1998. </note>
+Reference-contexts: Authorizing a key (or all keys with a given label or name) to do something. The SPKI/SDSI effort <ref> [1, 6] </ref> explores some of these varieties of certificates. In any case, a certificate typically specifies the issuer, the subject, an issue date, and an expiration date. Certificates are an essential component of any infrastructure to support digital signatures.
+Reference: 2. <author> Loren M. Kohnfelder. </author> <title> Towards a practical public-key cryptosystem. B.S. Thesis, supervised by L. </title> <type> Adleman, </type> <month> May </month> <year> 1978. </year>
+Reference-contexts: 1 Introduction The notion of a "digital certificate" was introduced by Kohnfelder in his 1978 MIT bachelor's thesis <ref> [2] </ref>. The idea, now common, was that a certificate is a digitally signed statement binding the key-holder's name to a public key. The signer (or issuer) is often called a certificate authority (CA).
+Reference: 3. <author> Alfred J. Menezes, Paul C. van Oorschot, and Scott A. Vanstone. </author> <title> Handbook of Applied Cryptography. </title> <publisher> CRC Press, </publisher> <year> 1997. </year>
+Reference: 4. <author> Silvio Micali. </author> <title> Efficient certificate revocation. </title> <type> Technical Report TM-542b, </type> <institution> MIT Laboratory for Computer Science, </institution> <month> March 22, </month> <year> 1996. </year>
+Reference-contexts: Proposition 3.The simplest form of "recency evidence" is just a (more-) recently-issued certificate. While this may seem to require an on-line CA, we note that a two-level scheme such as the elegant one suggested by Micali <ref> [4] </ref> can be used to allow an on-line agent to re-validate certificates previously issued by an off-line CA. Naor and Nissim [5] and Kocher [this proceedings] have related proposals. This structure seems to give the right sort of behavior.
+Reference: 5. <author> Moni Naor and Kobbi Nissim. </author> <title> Certificate revocation and certificate update. </title> <booktitle> In Proceedings 7th USENIX Security Symposium (San Antonio, </booktitle> <address> Texas), </address> <month> Jan </month> <year> 1998. </year>
+Reference-contexts: While this may seem to require an on-line CA, we note that a two-level scheme such as the elegant one suggested by Micali [4] can be used to allow an on-line agent to re-validate certificates previously issued by an off-line CA. Naor and Nissim <ref> [5] </ref> and Kocher [this proceedings] have related proposals. This structure seems to give the right sort of behavior. If Bob is willing to take a month-old employment certificate, even if it might now be inaccurate, fine.
+Reference: 6. <author> Ronald L. Rivest and Butler Lampson. </author> <title> SDSI-a simple distributed security infrastructure. </title> <note> (see SDSI web page at http://theory.lcs.mit.edu/ cis/sdsi.html). </note>
+Reference-contexts: Authorizing a key (or all keys with a given label or name) to do something. The SPKI/SDSI effort <ref> [1, 6] </ref> explores some of these varieties of certificates. In any case, a certificate typically specifies the issuer, the subject, an issue date, and an expiration date. Certificates are an essential component of any infrastructure to support digital signatures.
+Reference: 7. <author> Stuart Stubblebine. </author> <title> Recent-secure authentication: Enforcing revocation in distributed systems. </title> <booktitle> In Proceedings 1995 IEEE Symposium on Research in Security and Privacy, </booktitle> <pages> pages 224-234, </pages> <month> May </month> <year> 1995. </year> <title> (Oakland). This article was processed using the L A T E X macro package with LLNCS style </title>
+Reference-contexts: We suggest that such a framework would be an improvement over the use of CRL's. Acknowledgments I'd like to thank Stuart Stubblebine for useful comments and suggestions. The reader might profitably refer to some of his very relevant related work <ref> [7] </ref>.
+References-found: 7
+

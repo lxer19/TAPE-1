@@ -1,0 +1,25 @@
+URL: http://ai.iit.nrc.ca/DEIL/turney.ps.Z
+Refering-URL: http://ai.iit.nrc.ca/DEIL/abstracts.html
+Root-URL: 
+Title: IJCAI-95 Workshop on Data Engineering for Inductive Learning 1 Data Engineering for the Analysis of
+Author: Peter Turney 
+Keyword: data engineering, preprocessing data, semiconductor manufacturing, manufacturing data, decision tree induction.  
+Address: Ottawa, Ontario, Canada  
+Affiliation: Knowledge Systems Laboratory Institute for Information Technology National Research Council Canada  
+Note: Semiconductor Manufacturing Data  
+Email: peter@ai.iit.nrc.ca  
+Phone: 613-993-8564 (voice) 613-952-7151 (fax)  
+Date: April 3, 1995  
+Web: K1A 0R6  
+Abstract: We have analyzed manufacturing data from several different semiconductor manufacturing plants, using decision tree induction software called Q-YIELD. The software generates rules for predicting when a given product should be rejected. The rules are intended to help the process engineers improve the yield of the product, by helping them to discover the causes of rejection. Experience with Q-YIELD has taught us the importance of data engineering preprocessing the data to enable or facilitate decision tree induction. This paper discusses some of the data engineering problems we have encountered with semiconductor manufacturing data. The paper deals with two broad classes of problems: engineering the features in a feature vector representation and engineering the definition of the target concept (the classes). Manufacturing process data present special problems for feature engineering, since the data have multiple levels of granularity (detail, resolution). Engineering the target concept is important, due to our focus on understanding the past, as opposed to the more common focus in machine learning on predicting the future. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Breiman, L., Friedman, J., Olshen, R., & Stone, C. </author> <year> (1984). </year> <title> Classification and regression trees. </title> <address> California: </address> <publisher> Wadsworth. </publisher>
+Reference-contexts: In statistics, induction with discrete classes is called classification or discrimination. Induction with a continuous dependent variable is called regression or curve-fitting. Although decision tree induction is usually applied to classification, it can be applied to regression, as demonstrated by CART <ref> (Breiman et al., 1984) </ref>. Our goal is to produce easily understood rules, to assist the process engineers. <p> The same issues arise in setting the threshold as arose in setting the threshold on the yield. Some open questions are: 1. Can we automate the selection of a threshold in the definition of a target class? 2. Should we use regression trees instead of classification trees <ref> (Breiman et al., 1984) </ref>? Is there a way to make regression trees easier to understand? X T X X Y Y U U Semiconductor Manufacturing Data April 3, 1995 IJCAI-95 Workshop on Data Engineering for Inductive Learning 9 We have not investigated these issues. 3.2 Grey Cases As we described in
+Reference: <author> Famili, A. and Turney, P.D. </author> <year> (1991), </year> <title> Intelligently helping the human planner in industrial process planning, </title> <booktitle> Artificial Intelligence for Engineering Design, Analysis, and Manufacturing, </booktitle> <volume> Vol. 5, No. 2, </volume> <pages> pp. 109-124. </pages>
+Reference: <author> Famili, A. and Turney, P.D. </author> <year> (1992), </year> <title> Application of machine learning to industrial planning and decision making, </title> <booktitle> in Artificial Intelligence Applications in Manufacturing, </booktitle> <editor> edited by A. Famili, S. Kim, and D. Nau, </editor> <publisher> MIT Press, </publisher> <address> Cambridge, MA, </address> <pages> pp. 1-16. </pages>
+Reference: <author> Lavrac, N., & Dzeroski, S. </author> <year> (1994). </year> <title> Inductive Logic Programming: Techniques and Applications. </title> <address> New York: </address> <publisher> Ellis Horwood. </publisher>
+Reference-contexts: Is there an algorithm that can handle the raw data, without preprocessing the data to either reduce or increase the level of granularity? This appears to be an ideal problem for Inductive Logic Programming <ref> (Lavrac & Dzeroski, 1994) </ref>. 3. Are there better ways of changing granularity? The issue of granularity is an interesting research problem. It will be a common problem in any discrete industrial manufacturing process (a discrete process involves individual components, in contrast to a continuous process, such as petroleum refining).
+Reference: <author> Van Zant, P. </author> <year> (1986). </year> <title> Microchip Fabrication: A Practical Guide to Semiconductor Processing. </title> <institution> California: Semiconductor Services. </institution>
+References-found: 5
+

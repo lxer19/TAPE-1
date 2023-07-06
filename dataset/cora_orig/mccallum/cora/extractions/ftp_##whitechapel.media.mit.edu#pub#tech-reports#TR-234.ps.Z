@@ -1,0 +1,38 @@
+URL: ftp://whitechapel.media.mit.edu/pub/tech-reports/TR-234.ps.Z
+Refering-URL: http://www-white.media.mit.edu/cgi-bin/tr_pagemaker/
+Root-URL: http://www.media.mit.edu
+Email: email: popat@media.mit.edu, picard@media.mit.edu  
+Phone: Telephone: 617/253-0335 Fax: 617/253-8874  
+Title: Novel cluster-based probability model for texture synthesis, classification, and compression  
+Author: Kris Popat and Rosalind W. Picard 
+Address: Cambridge, Massachusetts 02139-4307  
+Affiliation: Massachusetts Institute of Technology, Media Laboratory  
+Abstract: We present a new probabilistic modeling technique for high-dimensional vector sources, and consider its application to the problems of texture synthesis, classification, and compression. Our model combines kernel estimation with clustering, to obtain a semiparametric probability mass function estimate which summarizes | rather than contains | the training data. Because the model is cluster based, it is inferable from a limited set of training data, despite the model's high dimensionality. Moreover, its functional form allows recursive implementation that avoids exponential growth in required memory as the number of dimensions increases. Experimental results are presented for each of the three applications considered. 
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> K. Popat and R. </author> <title> Picard, "Cluster-based probability model applied to image restoration and compression," </title> <type> Perceptual Computing Group Technical Report #TR 233, </type> <institution> M.I.T. Media Laboratory, </institution> <year> 1993. </year>
+Reference: 2. <author> Y. Linde, A. Buzo, and R. M. Gray, </author> <title> "An algorithm for vector quantizer design," </title> <journal> IEEE Trans. Comm., </journal> <volume> vol. COM-28, </volume> <pages> pp. 84-95, </pages> <month> Jan. </month> <year> 1980. </year>
+Reference: 3. <author> R. O. Duda and P. E. Hart, </author> <title> Pattern classification and scene analysis. </title> <publisher> Wiley, </publisher> <year> 1973. </year>
+Reference: 4. <author> T. Poggio and F. Girosi, </author> <title> "Networks for approximation and learning," </title> <booktitle> Proceedings of the IEEE, </booktitle> <volume> vol. 78, </volume> <pages> pp. 1481-1497, </pages> <month> Sept. </month> <year> 1990. </year>
+Reference: 5. <author> T. Poggio and F. Girosi, </author> <title> "Extension of a theory of networks for approximation and learning: Dimensionality reduction and clustering," A.I. </title> <type> Memo #1167, </type> <institution> Artificial Intelligence Laboratory, Massachusetts Institute of Technology, </institution> <year> 1990. </year>
+Reference: 6. <author> M. Powell, </author> <title> "Radial basis functions for multivariate interpolation: A review," in Algorithms for Approximation (J. </title> <editor> Ma son and M. Cox, eds.), </editor> <publisher> Oxford, U.K.: Clarendon Press, </publisher> <year> 1987. </year>
+Reference: 7. <author> D. Broomhead and D. Lowe, </author> <title> "Radial basis functions, multi-variable functional approximation and adaptive networks," Memorandum No. </title> <type> 4148, </type> <institution> Royal Signals and Radar Establishment, Great Malvern, Worc., U.K., </institution> <year> 1988. </year>
+Reference: 8. <author> S. Chen, C. Cowen, and P. Grant, </author> <title> "Orthogonal least squares learning algorithm for radial basis function networks," </title> <journal> IEEE Trans. Neural Networks, </journal> <volume> vol. 2, </volume> <pages> pp. 302-308, </pages> <month> March </month> <year> 1991. </year>
+Reference: 9. <author> G. Watson, </author> <title> "Data fitting by positive sums of exponentials," in Algorithms for Approximation (J. </title> <editor> Mason and M. Cox, eds.), </editor> <publisher> Oxford, U.K.: Clarendon Press, </publisher> <year> 1987. </year>
+Reference: 10. <author> T. M. Cover and J. A. Thomas, </author> <title> Elements of Information Theory. </title> <publisher> Wiley, </publisher> <year> 1991. </year>
+Reference: 11. <author> M. D. Richard and R. P. Lippmann, </author> <title> "Neural network classifiers estimate Bayesian a posteriori probabilities," </title> <journal> Neural Computation, </journal> <volume> vol. 3, </volume> <pages> pp. 461-483, </pages> <year> 1991. </year>
+Reference: 12. <author> R. Haralick, </author> <title> "Statistical and structural approaches to texture," </title> <journal> Proc. IEEE, </journal> <volume> vol. 67, </volume> <pages> pp. 786-804, </pages> <month> May </month> <year> 1979. </year>
+Reference: 13. <author> G. R. Cross and A. K. Jain, </author> <title> "Markov random field texture models," </title> <journal> IEEE Trans. Patt. Analy. and Mach. Intell., </journal> <volume> vol. PAMI-5, no. 1, </volume> <pages> pp. 25-39, </pages> <year> 1983. </year>
+Reference: 14. <author> R. Chellappa and R. L. Kashyap, </author> <title> "Texture synthesis using 2-D noncausal autoregressive models," </title> <journal> IEEE Trans. Acoustics, Speech, and Signal Process., </journal> <pages> pp. 194-203, </pages> <month> February </month> <year> 1985. </year>
+Reference: 15. <author> R. L. Kashyap and P. M. Lapsa, </author> <title> "Synthesis and estimation of random fields using long-correlation models," </title> <journal> IEEE Trans. Patt. Analy. and Mach. Intell., </journal> <volume> vol. PAMI-6, no. 6, </volume> <pages> pp. 800-809, </pages> <year> 1984. </year>
+Reference: 16. <author> A. Gagalowicz and S. D. Ma, </author> <title> "Sequential synthesis of natural textures," Comp. Vis., Graph., </title> <journal> and Img. Proc., </journal> <volume> vol. 30, </volume> <pages> pp. 289-315, </pages> <year> 1985. </year>
+Reference: 17. <author> A. Gagalowicz and C. Tournier-Lasserve, </author> <title> "Third-order model for non-homogeneous natural textures," </title> <booktitle> in Proc. Int. Conf. on Pattern Recog., </booktitle> <year> 1986. </year>
+Reference: 18. <author> P. Brodatz, </author> <title> Textures: A Photographic Album for Artists and Designers. </title> <address> New York: </address> <publisher> Dover, </publisher> <year> 1966. </year>
+Reference: 19. <author> G. G. Langdon and J. Rissanen, </author> <title> "Compression of black-white images with arithmetic coding," </title> <journal> IEEE Trans. Comm., </journal> <volume> vol. </volume> <pages> COM-29, pp. 858-867, </pages> <month> June </month> <year> 1981. </year>
+Reference: 20. <author> M. Rabbani and P. W. Jones, </author> <title> Digital image compression techniques. </title> <publisher> Bellingham, </publisher> <address> Washington: </address> <publisher> SPIE Optical Engi neering Press, </publisher> <year> 1991. </year>
+Reference: 21. <author> J. Rissanen and G. G. Langdon, </author> <title> "Arithmetic coding," </title> <journal> IBM J. Res. Develop., </journal> <volume> vol. 23, </volume> <pages> pp. 149-162, </pages> <month> March </month> <year> 1979. </year>
+Reference: 22. <author> J. Rissanen and G. G. Langdon, </author> <title> "Universal modeling and coding," </title> <journal> IEEE Trans. Inform. Theory, </journal> <volume> vol. IT-27, </volume> <pages> pp. 12-23, </pages> <year> 1981. </year>
+Reference: 23. <author> K. Popat, </author> <title> "Scalar quantization with arithmetic coding," </title> <type> Master's thesis, </type> <institution> Dept. of Elec. Eng. and Comp. Science, M.I.T., </institution> <address> Cambridge, Mass., </address> <year> 1990. </year>
+Reference: 24. <author> J. H. Shapiro and A. S. Willsky, </author> <title> "Notes for course 6.432, Stochastic Processes, Detection, and Estimation," </title> <booktitle> 1988. </booktitle> <pages> 13 </pages>
+References-found: 24
+

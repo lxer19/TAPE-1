@@ -1,0 +1,33 @@
+URL: ftp://ftp.statsci.com/pub/WAVELETS/papers/varbias.ps.gz
+Refering-URL: http://www.mathsoft.com/wavelets.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: Understanding WaveShrink: Variance and Bias Estimation  
+Author: Andrew G. Bruce Hong-Ye Gao 
+Keyword: (pub/WAVELETS)  
+Address: 1700 Westlake Ave. N, Suite 500 Seattle, WA 98109.9891, USA  
+Affiliation: StatSci Division of MathSoft, Inc.  
+Note: No. 36  Acknowledgements: This work was supported by ONR contract N00014 93-C-0106 and by NSF Grant DMI-94-61370.  
+Email: E-mail: andrew@statsci.com gao@statsci.com  
+Phone: Tel: (206) 283-8802  
+Web: ftp: ftp.statsci.com  
+Date: Last revised November 10, 1995  
+Abstract: Research Report 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Bickel, P. J. </author> <year> (1981). </year> <title> Minimax Estimation of the Mean of a Normal Distribution When the Parameter Space Is Restricted. </title> <journal> The Annals of Statistics, </journal> <volume> 9 </volume> <pages> 1301-1309. </pages>
+Reference: <author> Bickel, P. J. </author> <year> (1983). </year> <title> Minimax Estimation of a Normal Mean Subject to Doing Well at a Point, </title> <address> pages 511-528. </address> <publisher> Academic Press, </publisher> <address> New York. </address>
+Reference: <author> Brillinger, D. R. </author> <year> (1994a). </year> <title> Some River Wavelets. </title> <journal> Environmetrics, </journal> <volume> 5 </volume> <pages> 211-220. </pages>
+Reference: <author> Brillinger, D. R. </author> <year> (1994b). </year> <title> Uses of Cumulants in Wavelet Analysis. </title> <booktitle> In Proc. SPIE, Advanced Signal Processing, </booktitle> <volume> volume 2296, </volume> <pages> pages 2-18. </pages>
+Reference: <author> Brillinger, D. R. </author> <year> (1995). </year> <title> Some Uses of Cumulants in Wavelet Analysis. </title> <journal> J. Nonparametric Statistics, </journal> <volume> 4. </volume>
+Reference: <author> Bruce, A. G. and Gao, H.-Y. </author> <year> (1994). </year> <note> S+WAVELETS Users Manual. </note> <institution> StatSci Division of MathSoft, Inc., </institution> <address> 1700 Westlake Ave. N, Seattle, WA 98109-9891. </address>
+Reference: <author> Bruce, A. G. and Gao, H.-Y. </author> <year> (1995). </year> <title> WaveShrink: Shrinkage Functions and Thresholds. </title> <booktitle> In Proceedings of the 1995 SPIE Symposium, Wavelet Applications in Signal and Image Processing, </booktitle> <address> San Diego, CA. </address>
+Reference: <author> Cohen, A., Daubechies, I., and Vial, P. </author> <year> (1993). </year> <title> Wavelets on the Interval and Fast Wavelet Transforms. </title> <journal> Applied and Computational Harmonic Analysis, </journal> <volume> 1 </volume> <pages> 54-81. </pages>
+Reference: <author> Daubechies, I. </author> <year> (1992). </year> <title> Ten lectures on wavelets. </title> <institution> Society for industrial and applied mathematics, </institution> <address> Philadelphia, PA. </address>
+Reference: <author> Dennis, J. E. and Mei, H. H. W. </author> <year> (1979). </year> <title> Two new unconstrained optimization algorithms which use function and gradient values. </title> <journal> Journal of Optimization Theory and Applications, </journal> <volume> 28(4) </volume> <pages> 453-483. </pages>
+Reference: <author> Donoho, D., Johnstone, I., Kerkyacharian, G., and Picard, D. </author> <year> (1995). </year> <title> Wavelet Shrinkage: </title> <journal> Asymptopia? Journal of the Royal Statistical Society, Series B, </journal> <volume> 57 </volume> <pages> 301-369. </pages> <note> (with discussion). </note>
+Reference: <author> Donoho, D. L. and Johnstone, I. M. </author> <year> (1994). </year> <title> Ideal Spatial Adaptation via Wavelet Shrinkage. </title> <journal> Biometrika, </journal> <volume> 81 </volume> <pages> 425-455. </pages>
+Reference-contexts: These formulas complement the tools of simulation and asymptotic analysis, providing a new way of understanding WaveShrink. We compare the pros and cons of the shrinkage schemes: soft shrinkage versus hard shrinkage. Even though soft and hard shrink asymptotically have the same convergence rates <ref> (Donoho and Johnstone, 1994) </ref>, we show that their finite sample behavior is very different. Our results also provide answers to the questions raised by Marron and Fan in their discussion of Donoho et al. (1995).
+Reference: <author> Mallat, S. </author> <year> (1989). </year> <title> A theory for multiresolution signal decomposition: the wavelet representation. </title> <journal> IEEE Transactions on Pattern Analysis and Machine Intelligence, </journal> <volume> 11(7) </volume> <pages> 674-693. </pages> <note> Statistical Sciences (1993). S-PLUS User's Manual, Version 3.2. </note> <institution> StatSci, A Division of MathSoft, Inc., </institution> <address> 1700 Westlake Ave., Suite 500, Seattle, WA 98109-9891. </address>
+Reference: <author> U.S. </author> <title> Bureau of the Census (1995). X-12-ARIMA Reference Manual: Pre-Release Version 0.2. </title> <type> Technical report, </type> <institution> Statistical Research Division, Room 3000-4, </institution> <address> Washington, DC 20233-9100. </address>
+References-found: 14
+

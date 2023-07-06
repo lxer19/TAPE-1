@@ -1,0 +1,16 @@
+URL: ftp://ftp.cs.columbia.edu/reports/reports-1989/cucs-423-89.ps.gz
+Refering-URL: http://www.cs.columbia.edu/~library/1989.html
+Root-URL: http://www.cs.columbia.edu
+Title: Cost Function Error in Asynchronous Parallel Simulated Annealing Algorithms  
+Author: M. D. Durand 
+Note: This work is supported in part by NSF grant NSF-ASC-8808327 and DOE grant DOE-W-31-109-Eng-38.  
+Date: June, 1989  
+Affiliation: Columbia University  
+Pubnum: CUCS-423-89  
+Abstract: Reducing synchronization constraints in parallel simulated annealing algorithms can improve performance. However, this introduces error in the global cost function. Previous work in parallel simulated annealing suggests that if the amount of error in the cost function is controlled, good quality results can still be obtained. In this paper, we present a model of error in asynchronous parallel simulated annealing algorithms to partition graphs and use it to predict the behavior of three different synchronization strategies. These three approaches were implemented on a 20-processor Encore, a shared memory, MIMD multiprocessor, and tested on a variety of graphs. As predicted, the strategy which allows controlled error yields solutions comparable to those of the serial algorithm with greatly improved running time. Speedups from 5 to 11 (depending on the density of the graphs) using 16 processors were obtained. In contrast, the more synchronized version exhibited unacceptably high running times, whereas the version characterized by uncontrolled error yielded significantly poorer results. This confirms behavior seen in parallel simulated annealing algorithms to perform placement in VLSI circuit layout systems. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> A. Casotto, F. Romeo and A. </author> <note> Sangiovanni-Vincentelli. </note>
+Reference-contexts: In their implementation of parallel placement, Kravitz and Rutenbar [12] prevent error from occuring by scheduling simultaneously only those moves which will not interact. Casotto et al. <ref> [1, 2] </ref> allowed error to occur, but used scheduling heuristics to reduce the likelihood that interacting moves would be considered simultaneously. <p> As stated in section 2, this will result in error in the cost function used to evaluate the current state. Previous work has shown that for placement parallel simulated annealing is relatively tolerant of error in implementations which use shared global data structures <ref> [3, 1] </ref>, but intolerant of error in implementations in which each processor has a private copy of the global state information [3, 14, 15, 9]. The reason is that in the latter case, error is allowed to accumulate.
+References-found: 1
+

@@ -1,0 +1,18 @@
+URL: http://www.is.cs.cmu.edu/papers/speech/1996/ICSLP96-wang-lafferty-waibel.ps.gz
+Refering-URL: http://www.is.cs.cmu.edu/ISL.speech.publications.html
+Root-URL: 
+Email: yyw@cs.cmu.edu lafferty@cs.cmu.edu waibel@cs.cmu.edu  
+Title: WORD CLUSTERING WITH PARALLEL SPOKEN LANGUAGE CORPORA  
+Author: Ye-Yi Wang John Lafferty Alex Waibel 
+Affiliation: Carnegie Mellon University  
+Abstract: In this paper we introduce a word clustering algorithm which uses a bilingual, parallel corpus to group together words in the source and target language. Our method generalizes previous mutual information clustering algorithms for monolingual data by incorporating a statistical translation model. Preliminary experiments have shown that the algorithm can effectively employ the constraints implicit in bilingual data to extract classes which are well-suited to machine translation tasks. 
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> P. F. Brown, S. A. Della-Pietra, V. J Della-Pietra, and R. L. Mercer. </author> <title> The mathematics of statistical machine translation: Parameter estimation. </title> <journal> Computational Linguistics, </journal> <volume> 19(2) </volume> <pages> 263-311, </pages> <year> 1993. </year>
+Reference: 2. <author> P. F. Brown, V. J. Della-Pietra, P. V. deSouza, J. C. Lai, and R. L. Mercer. </author> <title> Class-based n-gram models of natural language. </title> <journal> Computational Linguistics, </journal> <volume> 18(4) </volume> <pages> 467-479, </pages> <year> 1992. </year>
+Reference: 3. <author> Reinhard Kneser and Hermann Ney. </author> <title> Improved clustering techniques for class-based statistical language modeling. </title> <booktitle> In The Proceedings of EUROSPEECH 93, </booktitle> <year> 1993. </year>
+Reference: 4. <author> Fernando Pereira, Naftali Tishby, and Lillian Lee. </author> <title> Dis-tributational clusteering of english words. </title> <booktitle> In Proceedings of the 31th Annual Meeting of the ACL, </booktitle> <pages> pages 183-190, </pages> <year> 1993. </year>
+Reference: 5. <author> Klaus Ries, Finn Dag But, and Ye-Yi Wang. </author> <title> Improved language modeling by unsupervised acquisition of structure. </title> <booktitle> In Proceedings of the 1995 International Conference on Acoustics, Speech, and Signal Processing, </booktitle> <year> 1995. </year>
+Reference: 6. <author> B. Suhm, P.Geutner, T. Kemp, A. Lavie, L. Mayfield, A. McNair, I. Rogina, T. Schultz, T. Sloboda, W. Ward, M. Woszczyna, and A. Waibel. </author> <title> JANUS: Towards multilingual spoken language translation. </title> <booktitle> In Proceedings of the ARPA Speech Spoken Language Technology Workshop, </booktitle> <address> Austin, TX, </address> <year> 1995, 1995. </year>
+References-found: 6
+

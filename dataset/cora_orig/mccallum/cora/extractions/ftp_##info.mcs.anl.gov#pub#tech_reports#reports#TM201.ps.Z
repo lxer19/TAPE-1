@@ -1,0 +1,25 @@
+URL: ftp://info.mcs.anl.gov/pub/tech_reports/reports/TM201.ps.Z
+Refering-URL: http://www.mcs.anl.gov/publications/abstracts/abstracts95.htm
+Root-URL: http://www.mcs.anl.gov
+Title: Users Guide to the Argonne SP Scheduling System  
+Author: by David A. Lifka,* Mark W. Henderson, and Karen Rayl 
+Note: This work was supported by the Mathematical, Information, and Computational Sciences Division subprogram of the Office of Computational and Technology Research, U.S. Department of Energy, under Contract W-31-109-Eng-38. Also affiliated with the  
+Date: May 1995  
+Web: ANL/MCS-TM-201  
+Address: 9700 South Cass Avenue Argonne, IL 60439  
+Affiliation: ARGONNE NATIONAL LABORATORY  Mathematics and Computer Science Division  Illinois Institute of Technology.  
+Pubnum: Technical Memorandum No. 201  
+Abstract-found: 0
+Intro-found: 0
+Reference: [1] <author> Ralph Butler and Ewing Lusk. </author> <title> User's guide to the p4 parallel programming system. </title> <type> Technical Report ANL-92/17, </type> <institution> Argonne National Laboratory, </institution> <month> October </month> <year> 1992. </year>
+Reference-contexts: The MPICH implementation also has a portable method of starting jobs, called mpirun. On the ANL SP system mpirun interfaces with the SP scheduler to schedule and start jobs. 10 2.4.5 p4 The p4 system <ref> [1] </ref>, is a portable message-passing system that runs on a wide variety of parallel computers and workstations. It is in use at approximately 200 sites around the world.
+Reference: [2] <author> William Gropp and Ewing Lusk. </author> <title> Scalable Unix tools on parallel processors. </title> <booktitle> In Proceedings of the Scalable High-Performance Computing Conference, IEEE, </booktitle> <pages> pages 55-62, </pages> <year> 1994. </year>
+Reference-contexts: The user can then click on those nodes in this X interface to open xterms on those nodes. This program was based on the GUI tools that were developed as part of the Scalable Unix Tools project <ref> [2] </ref>. The MPI Implementation, MPICH, has tools like this as well as tools to automate the submission and execution of jobs using the SP scheduler [4]. Here is a snapshot of xspusage: 4 Following is a snapshot of xspusage in small mode.
+Reference: [3] <author> Message Passing Interface Forum. </author> <title> Document for a standard message-passing interface. </title> <type> Technical Report Technical Report No. </type> <institution> CS-93-214 (revised), University of Tennessee, </institution> <month> April </month> <year> 1994. </year> <note> Available on netlib. </note>
+Reference-contexts: The current draft is now in the public-comment stage <ref> [3] </ref>. Argonne has an implementation of MPI called MPICH [4], which runs on the Argonne SP system. MPI programs can be treated like MPL programs described in the preceding section but have the added capability of being ported to other platforms.
+Reference: [4] <author> William D. Gropp and Ewing Lusk. </author> <title> A test implementation of the MPI draft message-passing standard. </title> <type> Technical Report ANL-92/47, </type> <institution> Argonne National Laboratory, </institution> <month> December </month> <year> 1992. </year>
+Reference-contexts: This program was based on the GUI tools that were developed as part of the Scalable Unix Tools project [2]. The MPI Implementation, MPICH, has tools like this as well as tools to automate the submission and execution of jobs using the SP scheduler <ref> [4] </ref>. Here is a snapshot of xspusage: 4 Following is a snapshot of xspusage in small mode. This mode is useful if you just want to watch for a large group of nodes to become available. <p> The current draft is now in the public-comment stage [3]. Argonne has an implementation of MPI called MPICH <ref> [4] </ref>, which runs on the Argonne SP system. MPI programs can be treated like MPL programs described in the preceding section but have the added capability of being ported to other platforms. The MPICH implementation also has a portable method of starting jobs, called mpirun.
+Reference: [5] <author> William D. Gropp, Ewing Lusk, and Steven C. Pieper. </author> <title> Users guide for the ANL IBM SP1. </title> <type> Technical Report ANL/MCS-TM-198, </type> <institution> Argonne National Laboratory, </institution> <month> October </month> <year> 1994. </year> <month> 33 </month>
+Reference-contexts: Task farm jobs, or those that use the SP as if it were a large cluster of network-connected IBM RS6000s, are also supported. If you are not sure how to classify a program, please consult the ANL SP Users Guide <ref> [5] </ref>. If you are still having trouble, contact spsupport@mcs.anl.gov or your local support staff. 2.4.1 MPL MPL is the new IBM switch software that replaces EUI/EUIH. To use MPL, it is preferable to use mpcc and mpxlf instead of xlc and xlf to compile and link your programs.
+References-found: 5
+

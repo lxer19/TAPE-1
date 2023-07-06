@@ -1,0 +1,32 @@
+URL: ftp://ftp.cs.man.ac.uk/pub/robotics/sab3.ps.Z
+Refering-URL: http://www.cs.man.ac.uk/robotics/lopapers.html
+Root-URL: 
+Email: e-mail:B.O.McGonigle@ed.ac.uk  e-mail:u.nehmzow@cs.man.ac.uk  
+Title: Achieving Rapid Adaptations in Robots by Means of External Tuition an externally supervised teaching process
+Author: Ulrich Nehmzow and Brendan McGonigle 
+Note: In  
+Address: GB Edinburgh EH8 9LE  GB Manchester M13 9PL  
+Affiliation: Laboratory for Cognitive Neuroscience at the Department of Psychology University of Edinburgh  Department of Computer Science University of Manchester  
+Abstract:  
+Abstract-found: 1
+Intro-found: 1
+Reference: [Brooks 85] <author> Rodney Brooks, </author> <title> A Robust Layered Control System for a Mobile Robot, </title> <publisher> MIT AI memo 864, </publisher> <year> 1985. </year>
+Reference: [Colombetti & Dorigo 93] <author> M. Colombetti & M. Dorigo, </author> <title> Robot Shaping: Developing Situated Agents through Learning, </title> <institution> International Computer Science Institute, Berkely, </institution> <type> Technical Report no. 40, </type> <month> April </month> <year> 1993. </year>
+Reference-contexts: Nehmzow and B. McGonigle, March 1994 This method of providing external feedback to accelerate a learning process is known as "shaping" in the field of animal learning, but is as yet relatively rarely used in robotics (see, for example, <ref> [Colombetti & Dorigo 93, Shepanski & Macy 87] </ref>). Rather, the predominant methods used for controller design have rested either on complete knowledge installation (an approach we consider unsuitable for all but the most basic behaviours), or self-tuition.
+Reference: [Hertz et al. 91] <author> John Hertz, Anders Krogh and Richard Palmer, </author> <title> Introduction to the Theory of Neural Computation, </title> <publisher> Addison Wesley, </publisher> <year> 1991. </year>
+Reference-contexts: If distinct junctions give rise to identical sensory stimuli, only one and the same action at these distinct junctions can be learned. Secondly, the capacity of the network (see <ref> [Hertz et al. 91] </ref> for more details) influences the maximum complexity of a learnable maze.
+Reference: [Kaelbling 90] <author> Leslie Kaelbling, </author> <title> Learning in Embedded Systems, </title> <type> Stanford Technical Report TR-90-04, </type> <month> June </month> <year> 1990. </year>
+Reference: [Kohonen 88] <author> Teuvo Kohonen, </author> <title> Self-Organization and Associative Memory, 2nd edition, </title> <publisher> Springer Verlag 1988. </publisher>
+Reference: [Maes & Brooks 90] <author> Pattie Maes and Rodney Brooks, </author> <title> Learning to Coordinate Behaviours, </title> <booktitle> Proc. AAAI 1990. </booktitle>
+Reference: [Mahadevan & Connell 91] <author> Sridhar Mahadevan and Jonathan Connell, </author> <title> Automatic Programming of Behaviour-Based Robots using Reinforcement Learning, </title> <booktitle> Proc. AAAI 1991. </booktitle>
+Reference: [McGonigle 91] <author> Brendan McGonigle, </author> <title> Incrementing Intelligent Systems by Design, </title> <editor> in J.A. Meyer & S. Wil-son (eds.), </editor> <booktitle> From Animals to Animats, </booktitle> <publisher> MIT Press 1991. </publisher>
+Reference: [Malcolm et al. 89] <author> Chris Malcolm, Tim Smithers and John Hallam, </author> <title> An Emerging Paradigm in Robot Architecture, </title> <editor> in T. Kanade, F.C.A. Groen and L.O. Hertzberger (eds.), </editor> <booktitle> Intelligent Autonomous Systems 2, </booktitle> <address> Amsterdam 1989; ISBN 90-800410-1-7. </address>
+Reference: [Nehmzow et al. 89] <author> Ulrich Nehmzow, John Hallam and Tim Smithers, </author> <title> Really Useful Robots, </title> <editor> in T. Kanade, F.C.A. Groen and L.O. Hertzberger (eds.), </editor> <booktitle> Intelligent Autonomous Systems 2, </booktitle> <address> Amsterdam 1989; ISBN 90-800410-1-7. </address>
+Reference: [Nehmzow 91] <author> Ulrich Nehmzow, </author> <title> Experiments in Competence Acquisition for Autonomous Mobile Robots, </title> <type> PhD thesis, </type> <institution> Edinburgh University, </institution> <year> 1991. </year>
+Reference: [Nehmzow et al. 93] <author> Ulrich Nehmzow, Tim Smithers and Brendan McGonigle, </author> <title> Increasing Behavioural Repertoire in a Mobile Robot, </title> <editor> in J.A. Meyer, H. Roit-blat and S. Wilson (eds.), </editor> <booktitle> From Animals to Animats 2, </booktitle> <publisher> MIT Press 1993. </publisher>
+Reference: [Waterman 89] <author> Talbot H. Waterman, </author> <title> Animal Navigation, </title> <publisher> Scientific American Library, W.H. Freeman, </publisher> <year> 1989. </year>
+Reference: [Rumelhart & McClelland 86] <editor> David Rumelhart, James McClelland and the PDP Research Group, </editor> <booktitle> Parallel Distributed Processing, </booktitle> <volume> Vol. 1, </volume> <publisher> p.61, MIT Press 1986. </publisher>
+Reference: [Shepanski & Macy 87] <author> J.F. Shepanski & S.A. Macy, </author> <title> Manual Training Techniques of Autonomous Systems Based on Artificial Neural Networks, </title> <booktitle> Proc. IEEE First Intern. Conf. on Neural Networks, </booktitle> <address> San Diego 1987. </address>
+Reference-contexts: Nehmzow and B. McGonigle, March 1994 This method of providing external feedback to accelerate a learning process is known as "shaping" in the field of animal learning, but is as yet relatively rarely used in robotics (see, for example, <ref> [Colombetti & Dorigo 93, Shepanski & Macy 87] </ref>). Rather, the predominant methods used for controller design have rested either on complete knowledge installation (an approach we consider unsuitable for all but the most basic behaviours), or self-tuition.
+References-found: 15
+

@@ -1,0 +1,24 @@
+URL: ftp://ftp.cs.washington.edu/tr/1995/04/UW-CSE-95-04-01.PS.gz
+Refering-URL: http://www.cs.gatech.edu/people/home/jmankoff/collab-immers-env.html
+Root-URL: 
+Title: Mobisaic An Information System for a Mobile Wireless Computing Environment  
+Author: Geoffrey M. Voelker and Brian N. Bershad 
+Date: 95-04-01  
+Address: Seattle, WA 98195  
+Affiliation: Department of Computer Science and Engineering University of Washington  
+Pubnum: Technical Report  
+Abstract: Mobisaic is a World Wide Web information system designed to serve users in a mobile wireless computing environment. Mobisaic extends the Web by allowing documents to both refer and react to potentially changing contextual information, such as one's current location in the wireless network. Mobisaic relies on client-side processing of HyperText Markup Language documents that support two new concepts: Dynamic Uniform Resource Locators (URLs) and Active Documents. A dynamic URL is one whose results depend upon the state of the user's mobile context at the time it is resolved. An active document automatically updates its contents in response to changes in a user's mobile context. This paper describes the design of Mobisaic, the mechanism it uses for representing a user's mobile context, and the extensions made to the syntax and function of Uniform Resource Locators and HyperText Markup Language documents to support mobility. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [Andreessen and Bina 94] <author> Marc Andreessen and Eric Bina. </author> <title> "NCSA Mosaic: A Global Hypermedia System" In Internet Research, </title> <booktitle> 4(1) </booktitle> <pages> 7-17, </pages> <month> Spring </month> <year> 1994. </year>
+Reference: [Bartlett 94] <author> Joel F. Bartlett. </author> <title> "W4 | the Wireless World Wide Web." </title> <booktitle> In Proceedings of the Workshop on Mobile Computing Systems and Applications, </booktitle> <month> December, </month> <year> 1994. </year>
+Reference: [Berners-Lee et al. 92] <author> Tim Berners-Lee, Robert Cailliau, Jean-Francois Groff, and Bernard Pollermann. </author> <title> "World-Wide Web: The Information Universe" In Electronic Networking: </title> <journal> Research, Applications, and Policy, </journal> <volume> 2(1): </volume> <pages> 52-58, </pages> <month> Spring </month> <year> 1992. </year>
+Reference: [DellaFera et al. 88] <author> C. Anthony DellaFera, Mark W. Eichen, Robert S. French, David C. Jedinsky, John T. Kohl, and William E. Sommerfeld. </author> <title> "The Zephyr Notification Service." </title> <booktitle> In Proceedings of the USENIX 1988 Winter Conference, </booktitle> <month> Winter </month> <year> 1988. </year>
+Reference: [Oki et al. 93] <author> Brian Oki, Manfred Pfluegl, Alex Siegel, and Dale Skeen. </author> <booktitle> "The Information Bus | An Architecture For Extensible Distributed Systems" In Proceedings of the Fourteenth ACM Symposium on Operating System Principles, </booktitle> <month> December </month> <year> 1993. </year> <month> 11 </month>
+Reference: [Kaashoek et al. 94] <author> M. Frans Kaashoek, Tom Pinckney, and Joshua A. Tauber. </author> <title> "Dynamic Documents: </title> <booktitle> Mobile Wireless Access to the WWW." In Proceedings of the Workshop on Mobile Computing Systems and Applications, </booktitle> <month> December, </month> <year> 1994. </year>
+Reference: [Schilit and Theimer 94] <author> Bill N. Schilit and Marvin M. Theimer. </author> <title> "Disseminating Active Map Information to Mobile Hosts" IEEE Network, </title> <month> September, </month> <year> 1994. </year>
+Reference: [Schilit et al. 93A] <author> Bill N. Schilit, Norman Adams, Rich Gold, Michael Tso, and Roy Want. </author> <booktitle> "The ParcTab mobile computing system." In Proceedings of the Fourth Workshop on Workstation Operating Systems, </booktitle> <pages> pp. 34-39, </pages> <month> October </month> <year> 1993. </year>
+Reference: [Schilit et al. 93B] <author> Bill N. Schilit, Marvin Theimer, and Brent B. Welch. </author> <title> "Customizing mobile applications." </title> <booktitle> In Proceedings of the USENIX Symposium on Mobile & Location-Independent Computing, </booktitle> <pages> pp. 129-139, </pages> <month> August </month> <year> 1993. </year>
+Reference: [Watson 94] <author> Terri Watson. </author> <title> "Application Design for Wireless Computing." </title> <booktitle> In Proceedings of the Workshop on Mobile Computing Systems and Applications, </booktitle> <month> December, </month> <year> 1994. </year> <month> 12 </month>
+References-found: 10
+

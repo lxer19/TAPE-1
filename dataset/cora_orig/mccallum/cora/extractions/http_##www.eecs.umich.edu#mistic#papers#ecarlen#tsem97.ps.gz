@@ -1,0 +1,31 @@
+URL: http://www.eecs.umich.edu/mistic/papers/ecarlen/tsem97.ps.gz
+Refering-URL: http://www.eecs.umich.edu/mistic/publications.html
+Root-URL: http://www.eecs.umich.edu
+Title: Statistical Model for Spatial Correlation in Thin Film Deposition and Reactive Growth  
+Author: Edwin T. Carlen and Carlos H. Mastrangelo, Member, IEEE 
+Date: 3, AUGUST 1998 1  
+Note: IEEE TRANSACTIONS ON SEMICONDUCTOR MANUFACTURING, VOL. 11, NO.  
+Abstract: This paper presents a statistical method for the estimation of thickness variations present across a wafer lot in LPCVD and reactivelygrown films. The method uses experimental thickness data to construct a unified Karhunen-LoOEeve expansion based model that captures both deterministic and random thickness variations. The model uses a set of quadratic interpolation functions fitted to mean spatial data to approximate the deterministic nonuniformity and a few normalized random variables to represent run-to-run fluctuations. This model therefore retains the spatial correlations present between different deposition and growth steps in a process necessary for the estimation of parametric yield and permits the calculation of distribution functions over different lot populations (wafer, die, point, etc.). Models for spatial correlations in LPCVD oxide, nitride, polycrystalline silicon, and thermal oxide growth were constructed from a data set of 35,000 thickness measurements recorded from a total of 40, 25-wafer runs. In each case, the model gives good predictions ( 90-95% confidence ) with just one or two random variables. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> D. Moore and H. Walker, </author> <title> Yield Simulation for Integrated Circuits. </title> <address> New York: </address> <publisher> Kluwer, </publisher> <year> 1987. </year>
+Reference: [2] <author> B. E. Stine, D. S. Boning, and J. E. Chung, </author> <title> Analysis and decomposition of spatial variation in integrated circuit processes and devices, </title> <journal> IEEE Trans. on Semiconductor Manufacturing, </journal> <volume> vol. 10, no. 1, </volume> <month> February </month> <year> 1997. </year>
+Reference: [3] <author> W. Maly and A. J. Strojwas, </author> <title> Statistical simulation of the IC manufacturing process, </title> <journal> IEEE Trans. on Comp.-Aided Design, </journal> <volume> vol. CAD-1, no. 7, </volume> <pages> pp. 120131, </pages> <month> July </month> <year> 1982. </year>
+Reference: [4] <author> P. Feldman and S. </author> <title> Director, Integrated circuit quality optimization using surface integrals, </title> <journal> IEEE Trans. on Comp.-Aided Design, </journal> <volume> vol. 12, no. 12, </volume> <pages> pp. 18681879, </pages> <year> December1993. </year>
+Reference: [5] <author> J. C. Zhang and M. A. Styblinski, </author> <title> Yield and Variability Optimization of Integrated Circuits. </title> <address> Boston: </address> <publisher> Kluwer, </publisher> <year> 1995. </year>
+
+Reference: [7] <author> R. Ghanem and P. Spanos, </author> <title> Stochastic Finite Elements: A Spectral Approach. </title> <address> New York: </address> <publisher> Springer-Verlag, </publisher> <year> 1991. </year>
+Reference: [8] <author> Y. K. Lin, </author> <title> Probabilistic Theory of Structural Dynamics. </title> <address> New York: </address> <publisher> McGraw-Hill, </publisher> <year> 1967. </year>
+Reference: [9] <author> G. I. Schuffeller and M. Shinozuka, </author> <title> Stochastic Methods in Structural Dynamics. </title> <address> Boston: Martinus Nijoff, </address> <year> 1987. </year>
+Reference: [10] <author> M. Hasanuzzaman and C. H. Mastrangelo, </author> <title> Process compilation of thin-film microdevices, </title> <journal> IEEE Trans. on Comp.-Aided Design, </journal> <volume> vol. 30, </volume> <pages> pp. 14381453, </pages> <year> 1996. </year>
+Reference: [11] <author> E. Carlen and C. Mastrangelo, </author> <title> An experimental methodology for the estimation of spatially correlated parametric yield in thin film devices, </title> <booktitle> in Proc. Intl. Conf. on Sim. of Semiconductor Proc. and Dev., </booktitle> <month> Sept. </month> <pages> 8-10, </pages> <year> 1997. </year>
+Reference: [12] <author> S. Crary, </author> <title> I-OPT design of experiments software, </title> <institution> University of Michigan Report, </institution> <year> 1994. </year>
+Reference: [13] <author> W. Krzanowski, </author> <title> Principles of Multivariate Analysis. </title> <address> New York: </address> <publisher> Oxford University Press, </publisher> <year> 1988. </year>
+Reference: [14] <author> R. A. Johnson and D. W. Wichern, </author> <title> Applied Multivariate Statistical Analysis. </title> <address> New Jersey: </address> <publisher> Prentice Hall, </publisher> <year> 1982. </year>
+Reference: [15] <author> S. Watanabe, </author> <title> Karhunen-loOEeve expansion and factor analysis theoretical remarks and applications, in Trans. </title> <booktitle> Fourth Prague Conf. Inform. Theory, </booktitle> <pages> pp. 635660, </pages> <year> 1965. </year>
+Reference: [16] <author> I. R. Miller, J. E. Freund, and R. Johnson, </author> <title> Probability and Statistics for Engineers. </title> <address> New Jersey: </address> <publisher> Prentice Hall, </publisher> <year> 1990. </year>
+Reference: [17] <author> E. Carlen and C. Mastrangelo, </author> <title> Statistical multi-lot characterization of spatial thickness variations in LPCVD oxide, </title> <editor> nitride, polysilicon, and thermal oxide films, </editor> <booktitle> in Proc. SPIE Symposium on Microelectronic Manufacturing, </booktitle> <month> Oct. </month> <pages> 1-2, </pages> <year> 1997. </year>
+Reference: [18] <author> M. A. Munem and D. J. Foulis, </author> <title> Calculus with Analytical Geometry. </title> <address> New York: </address> <publisher> Worth Publishers, Inc., </publisher> <year> 1978. </year>
+Reference: [19] <author> I. N. Gibra, </author> <title> Probability and Statistical Inference for Scientists and Engineers. </title> <address> New Jersey: </address> <publisher> Prentice-Hall, </publisher> <year> 1973. </year>
+References-found: 18
+

@@ -1,0 +1,23 @@
+URL: http://www.cs.colostate.edu/~anderson/pubs/zlatko-mwscs96.ps.Z
+Refering-URL: http://www.cs.colostate.edu/~anderson/EEG/eeg.html
+Root-URL: 
+Email: agarwal@eecs.uic.edu  anderson@cs.colostate.edu  
+Phone: 3  
+Title: EEG SIGNAL COMPRESSION WITH ADPCM SUBBAND CODING  
+Author: Zlatko Sijercic Gyan C. Agarwal Charles W. Anderson 
+Affiliation: Department of Electrical Engineering and Computer Science, University of Illinois at  Computer Science Department, Colorado State University,  
+Web: sijercic@sugar-land.wireline.slb.com  
+Address: TX 77478 USA  Chicago, Chicago, IL 60680 USA  Fort Collins, CO 80523 USA  
+Note: 1 Schlumberger Wireline Testing, Sugar Land,  2  
+Abstract:  
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> H. Hinrichs, </author> <title> "EEG Data Compression with Source Coding Techniques", </title> <journal> Journal of Biomedical Engineering, </journal> <volume> vol. 13, </volume> <pages> pp. 417-423, </pages> <month> Sept. </month> <year> 1991. </year>
+Reference-contexts: The application of more advanced, although computation-ally expensive, predictors obtained even better results with lesser amount of distortion. 1 Note that it is difficult to directly compare our results and those in <ref> [1] </ref> since our original data was quantized with 8 bits/sample while Hinrichs [1] had 12 bits/sample. ADPCM with 4.5 bits/sample and (c) subband AD PCM with 2.75 bit/sample. signal: (a) Original signal 8 bits/sample, (b) AD-PCM coded/decoded with 4 bits/sample, (c) AD PCM coded/decoded with 3 bits/sample. <p> The application of more advanced, although computation-ally expensive, predictors obtained even better results with lesser amount of distortion. 1 Note that it is difficult to directly compare our results and those in <ref> [1] </ref> since our original data was quantized with 8 bits/sample while Hinrichs [1] had 12 bits/sample. ADPCM with 4.5 bits/sample and (c) subband AD PCM with 2.75 bit/sample. signal: (a) Original signal 8 bits/sample, (b) AD-PCM coded/decoded with 4 bits/sample, (c) AD PCM coded/decoded with 3 bits/sample.
+Reference: [2] <author> F. M. Dyro, </author> <title> "The EEG Handbook", Little, </title> <publisher> Brown and Company, </publisher> <address> Boston MA, </address> <year> 1989. </year>
+Reference: [3] <author> Z. Sijercic and G. Agarwal, </author> <title> "Tree Structured Filter Bank for Time-Frequency Decomposition of EEG Signals", </title> <booktitle> in Proc. of 17th Annual Int. Conference IEEE Engineering in Medicine and Biology Society, </booktitle> <address> Mon-treal, Canada, </address> <month> September, </month> <year> 1995. </year>
+Reference: [4] <author> T.Q. Nguyen, T.I.Laakso and R.D.Koilpillai, </author> <title> "Eigen-filter Approach for the Design of Allpass Filters Approximating a Given Phase Response," </title> <journal> IEEE Transactions on Signal Processing, </journal> <volume> vol. 42, </volume> <pages> pp. 2257-2263, </pages> <month> Sept. </month> <year> 1994. </year>
+Reference: [5] <author> L. Ljung, </author> <title> "System Identification Toolbox User's Guide," The MathWorks, </title> <publisher> Inc., </publisher> <address> Natick MA, </address> <year> 1995. </year>
+Reference-contexts: Introduction of predictors of higher orders further decreased differential error and thus reduced distortions caused by the quantizer. This approach, however, introduced more time consuming operations and required more complicated prediction algorithms <ref> [5] </ref>. In our case the decrease of distortion together with reduction of data rate was not dramatic since our original signal was highly oversam-pled. 5. CONCLUSION To summarize, we presented a simple coding method for EEG signals based on octave-band filter bank subband decomposition.
+References-found: 5
+

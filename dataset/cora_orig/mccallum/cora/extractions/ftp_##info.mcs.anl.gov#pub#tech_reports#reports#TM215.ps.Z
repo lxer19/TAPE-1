@@ -1,0 +1,19 @@
+URL: ftp://info.mcs.anl.gov/pub/tech_reports/reports/TM215.ps.Z
+Refering-URL: http://www.mcs.anl.gov/publications/abstracts/abstracts96.htm
+Root-URL: http://www.mcs.anl.gov
+Title: STALK Programmers Guide  
+Author: by David Levine; Michael F acello; P hilip Hallstrom; Greg Reeder; Brian W alenz; and F red Stevens 
+Date: 215  
+Web: ANL/MCS-TM-215  
+Address: 9700 South Cass Avenue Argonne, IL 60439  
+Affiliation: ARGONNE NATIONAL LABORATORY  Mathematics and Computer Science Division  
+Pubnum: Technical Memorandum No.  
+Abstract: July 1996 This work was supported by the Mathematical, Information, and Computational Sciences Division subprogram of the Office of Computational and Technology Research, U.S. Department of Energy, under Contract W-31-109-Eng-38, and by the Office of Health and Environmental Research, U.S. Department of Energy, under Contract W-31-109-Eng-38. fl Mathematics and Computer Science Division, Argonne National Laboratory, Argonne, Illinois 60439. y Computer Science Department, University of Illinois, Champaign, Illinois. z Science and Engineering Research Semester Program, Argonne National Laboratory, Argonne, Illinois 60439. x Center for Mechanistic Biology and Biotechnology, Argonne National Laboratory, Argonne, Illinois 60439. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [Le95a] <author> D. Levine. </author> <title> Users Guide to the PGAPack Parallel Genetic Algorithm Library. </title> <institution> Argonne National Laboratory, ANL-95/18, </institution> <month> January </month> <year> 1996. </year>
+Reference: [Le95b] <author> D. Levine. </author> <title> A public-domain parallel genetic algorithm library. </title> <note> Available by anonymous ftp from info.mcs.anl.gov in the directory pub/pgapack, file pgapack.tar.Z </note>
+Reference: [LeFaHaReWaSt95] <author> D. Levine, M. Facello, P. Hallstrom, G. Reeder, B. Walenz, and F. Stevens. </author> <title> STALK Users Guide. </title> <institution> ANL/MCS-TM-214, Argonne National Laboratory, </institution> <year> 1996. </year> <month> 16 </month>
+Reference-contexts: Makefile Called by compile to actually compile the above files. In addition the user will need the appropriate MPI and PGAPack header (mpif.h and pgapackf.h) and library files (libmpi.a and libpgaO.a). 2.6 Compilation This section discusses compiling stalk.ga. For execution information see the STALK users guide <ref> [LeFaHaReWaSt95] </ref>. The source files, header files, and compilation files for stalk.ga are in the directory /home/STALK/source.ga. The subdirectory RCS there is a symbolic link to /home/STALK/source.RCS. This directory contains the source code in "revision control system" format.
+References-found: 3
+

@@ -1,0 +1,22 @@
+URL: file://ftp.cis.ohio-state.edu/pub/communication/papers/wsc97-simulation.ps.Z
+Refering-URL: http://www.cis.ohio-state.edu/~kesavan/publications.html
+Root-URL: 
+Title: SIMULATION OF MODERN PARALLEL SYSTEMS: A CSIM-BASED APPROACH  
+Author: Dhabaleswar K. Panda, Debashis Basak Donglai Dai, Ram Kesavan, Rajeev Sivaram, Mohammad Banikazemi and Vijay Moorthy 
+Address: Columbus, OH 43210-1277  
+Affiliation: Department of Computer and Information Science The Ohio State University  
+Note: To be presented in 1997 Winter Simulation Conference (Invited Paper)  
+Abstract: Components of modern parallel systems are becoming quite complex with many features and variations. An integrated modeling of these components (interconnection network, messaging layer, programming model, and computation-communication characteristics of applications) is essential to derive design guidelines for next generation parallel systems. Most of the current simulation-based modeling platforms do not support such integrated modeling. This paper presents our effort at The Ohio State University towards integrated modeling of parallel systems. Basic features of our CSIM-based Wormhole-routed Multiprocessor Simulator (WORMulSim) are outlined. A set of techniques used in our simulator to model different network components (such as switches, links, wormhole/cut-through switching techniques, routing protocols, network interfaces), messaging layer with basic communication primitives, distributed shared memory programming model, and computation-communication characteristics of applications are presented. Some sample performance measures of our simulator on current generation workstations are reported to demonstrate the feasibility of integrated modeling with low computational overhead. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Duato, J., S. Yalamanchili, and L. Ni. </author> <year> 1997. </year> <title> Interconnection Networks: An Engineering Approach. </title> <publisher> The IEEE Computer Society Press. </publisher>
+Reference-contexts: Many routing algorithms have been proposed for this. A routing algorithm provides the next link that a worm should take, given the worm header and the link on which the worm arrives at a router as input. Various routing algorithms have been proposed in the recent years <ref> (Duato et al., 1997) </ref> and WORMulSim supports a number of them (such as Dally's e-cube, Glass and Ni's turn model, Chien and Kim's planar adaptive, Duato's fully adaptive, and Autonet's up*/down* routing algorithms).
+Reference: <author> Hennessy, J. and D. Patterson. </author> <year> 1996. </year> <title> Computer Architecture: A Quantitative Approach. 2nd Ed. </title> <publisher> Morgan Kaufmann. </publisher> <editor> MPI: </editor> <title> A Message-Passing Interface Standard. </title> <month> Mar </month> <year> 1994. </year> <title> Message Passing Interface Forum. </title>
+Reference: <author> Schwetman H. D. </author> <year> 1998. </year> <title> Using CSIM to Model Complex Systems. </title> <booktitle> In Proceedings of the 1988 Winter Simulation Conference, </booktitle> <pages> 246-253. </pages>
+
+
+Reference: <author> He received a B.S. </author> <title> degree in Electrical Engineering from Isfahan University of Technology, Iran and an M.S. degree in Electrical Engineering from The Ohio State University in 1996. Email: </title> <publisher> banikaze@cis.ohio-state.edu. </publisher>
+Reference-contexts: The time delays for these operations are determined by WORMulSim in a dynamic and integrated manner during execution, as described in earlier sections. The computation time of each application is estimated as follows. We first compile the source code of each application by the DLXcc compiler <ref> (Hen-nessy, 1996) </ref> using the optimization level equivalent to O2 of gcc. Next, we examine the generated object code instruction by instruction on each processor and instrument the program (by inserting instructions in each basic block of the code) to count the instructions executed between two successive communication operations.
+Reference: <author> VIJAY MOORTHY received a B.E. </author> <title> degree in Computer Science & Engineering from Regional Engineering College, Trichy, India in 1996. He is currently an M.S. </title> <institution> student at The Ohio State University. Email: moorthy@cis.ohio-state.edu. </institution> <month> 8 </month>
+References-found: 5
+

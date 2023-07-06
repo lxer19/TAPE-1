@@ -1,0 +1,22 @@
+URL: http://www.cs.unm.edu/~jotto/cplant/docs/puma_isug95.ps.Z
+Refering-URL: http://www.cs.unm.edu/~jotto/cplant/cplant.html
+Root-URL: http://www.cs.unm.edu
+Title: The Puma Operating System For Massively Parallel Computers  
+Author: Lance Shuler, Chu Jong, Rolf Riesen, David van Dresser Arthur B. Maccabe, Lee Ann Fisk T. Mack Stallcup 
+Keyword: SUNMOS, Puma, operating systems, message passing  
+Address: New Mexico  
+Affiliation: Sandia National Laboratories  The University of  Intel SSD  
+Abstract: This paper describes the Puma operating system, the successor to the Sandia and University of New Mexico operating system (SUNMOS). Puma is a multiprocessor operating system that is made up of two basic structures, the quintessential kernel (Q-kernel) and the process control thread (PCT). Together, they provide the user with a flexible, lightweight, high performance, message passing environment for massively parallel computers. In this paper, we discuss the structure of Puma and its unique message passing design based on portals. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Accetta, M.J., et.al. </author> <title> Mach: A New Kernel Foundation for UNIX Development. </title> <booktitle> Proceedings of the Summer 19865 USENIX Conference, </booktitle> <pages> pp. 93-113, </pages> <month> July </month> <year> 1986. </year>
+Reference: [2] <author> Burns, C.M., Kuhn, R.H., and Werme, E.J., </author> <title> Low Copy Message Passing on the Alliant CAMPUS/800. </title> <booktitle> Proceedings of Supercomputing'92, </booktitle> <pages> pp. 760-769, </pages> <month> November </month> <year> 1992. </year>
+Reference: [3] <author> Cheriton, </author> <title> D.R., The V Kernel: A Software Base for Distributed Systems. </title> <journal> IEEE Software, </journal> <volume> 1(2) </volume> <pages> 19-42, </pages> <month> April </month> <year> 1984. </year>
+Reference: [4] <author> Cheriton, </author> <title> D.R., The V Distributed System. </title> <journal> Communications of the ACM, </journal> <month> March </month> <year> 1988. </year>
+Reference: [5] <author> Maccabe, Arthur B., and Wheat, Stephen R., </author> <title> Message passing in PUMA. </title> <institution> Sandia National Laboratories Technical Report SAND93-0935, </institution> <year> 1993. </year>
+Reference: [6] <author> Renesse, R. van, and Tanenbaum, </author> <title> A.S., Short Overview of Amoeba. </title> <booktitle> Proceedings of the USENIX Workshop on Micro-kernels and Other Kernel Architectures, </booktitle> <pages> pp. 1-10, </pages> <month> April </month> <year> 1992. </year>
+Reference: [7] <author> Rozier, M., et.al., </author> <title> The Chorus Distributed Operating System. </title> <journal> Computing Systems, </journal> <volume> 1(4), </volume> <year> 1988. </year>
+Reference: [8] <author> Wheat, Stephen R., Maccabe, Arthur B., Riesen, Rolf, van Dresser, David W., and Stallcup, T. Mack. PUMA: </author> <title> An operating system for massively parallel systems. </title> <booktitle> Proceedings of the Twenty-Seventh Annual Hawaii International Conference on System Sciences, </booktitle> <pages> pages 56-65. </pages> <publisher> IEEE Computer Society Press, </publisher> <year> 1994. </year>
+Reference: [9] <author> Zajcew, R., et.al., </author> <title> An OSF/1 UNIX for Massively Parallel Multicomputers. </title> <booktitle> Proceedings of the Winter 1993 USENIX Conference, </booktitle> <pages> pp. 449-468, </pages> <month> January </month> <year> 1993. </year>
+References-found: 9
+

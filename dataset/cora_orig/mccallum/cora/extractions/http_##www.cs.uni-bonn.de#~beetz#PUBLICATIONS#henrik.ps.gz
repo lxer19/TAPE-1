@@ -1,0 +1,33 @@
+URL: http://www.cs.uni-bonn.de/~beetz/PUBLICATIONS/henrik.ps.gz
+Refering-URL: http://www.cs.uni-bonn.de/~beetz/publications.html
+Root-URL: http://cs.uni-bonn.de
+Email: email: beetz, grosskre@cs.uni-bonn.de  
+Title: Causal Models of Mobile Service Robot Behavior  
+Author: Michael Beetz and Henrik Grosskreutz 
+Address: Roemerstr. 164, D-53117 Bonn, Germany,  
+Affiliation: University of Bonn, Dept. of Computer Science III,  
+Abstract: Temporal projection, the process of predicting what will happen when a robot executes its plan, is essential for autonomous service robots to successfully plan their missions. This paper describes a causal model of the behavior exhibited by the mobile robot Rhino when running concurrent reactive plans for performing office delivery jobs. The model represents aspects of robot behavior that cannot be represented by most action models used in AI planning: it represents the temporal structure of continuous control processes, several modes of their interferences, and various kinds of uncertainty. This enhanced expressiveness enables xfrm (McD92; BM94), a robot planning system, to predict, and therefore forestall, various kinds of behavior flaws including missed deadlines whilst exploiting incidental opportunities. The proposed causal model is experimentally validated using the robot and its simulator. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> J. Allen and G. Ferguson. </author> <title> Actions and events in interval temporal logic. </title> <type> Technical Report 521, </type> <institution> University of Rochester, Computer Science Department, </institution> <year> 1994. </year>
+Reference: <author> M. Beetz, W. Burgard, D. Fox, and A. Cremers. </author> <title> Integrating active localization into high-level control systems. </title> <booktitle> submitted to Robotics and Autonomous Systems, </booktitle> <year> 1998. </year>
+Reference: <author> M. Beetz and D. McDermott. </author> <title> Improving robot plans during their execution. </title> <editor> In Kris Hammond, editor, </editor> <booktitle> Second International Conference on AI Planning Systems, </booktitle> <pages> pages 3-12, </pages> <publisher> Morgan Kaufmann, </publisher> <year> 1994. </year>
+Reference: <author> M. Beetz and D. McDermott. </author> <title> Fast probabilistic plan debugging. </title> <booktitle> In Proceedings of the 1997 European Conference on Planning, </booktitle> <month> pages ???-???, </month> <year> 1997. </year>
+Reference: <author> D. Draper, S. Hanks, and D. Weld. </author> <title> Probabilistic planning with information gathering and contingent execution. </title> <editor> In K. Hammond, editor, </editor> <booktitle> Proc. 2nd. Int. Conf. on AI Planning Systems. </booktitle> <publisher> Morgan Kaufmann, </publisher> <year> 1994. </year>
+Reference: <author> T. Dean and M. Wellmann. </author> <title> Planning and Control. </title> <publisher> Mor-gan Kaufmann Publishers, </publisher> <address> San Mateo, CA, </address> <year> 1991. </year>
+Reference: <author> D. Fox, W. Burgard, and S. Thrun. </author> <title> The dynamic window approach to collision avoidance. </title> <journal> IEEE Robotics & Automation Magazine, </journal> <volume> 4(1) </volume> <pages> 23-33, </pages> <month> March </month> <year> 1997. </year>
+Reference: <author> K. Forbus. </author> <title> Qualitative process theory. </title> <journal> Artificial Intelligence, </journal> <volume> 24 </volume> <pages> 85-168, </pages> <year> 1984. </year>
+Reference: <author> P. Hayes. </author> <title> The second naive physics manifesto. </title> <editor> In J. </editor> <publisher> R. </publisher>
+Reference: <editor> Hobbs and R. C. Moore, editors, </editor> <booktitle> Formal Theories of the Commonsense World, </booktitle> <pages> pages 1-36. </pages> <publisher> Ablex, </publisher> <address> Norwood, NJ, </address> <year> 1985. </year>
+Reference: <author> G. Hendrix. </author> <title> Modeling simultaneous actions and continuous processes. </title> <journal> Artificial Intelligence, </journal> <volume> 4 </volume> <pages> 145-180, </pages> <year> 1973. </year>
+Reference: <author> S. Hanks, D. Madigan, and J. Gavrin. </author> <title> Probabilistic temporal reasoning with endogenous change. </title> <booktitle> In Proceedings of the 11 th Conference on Uncertainty in Artificial Intelligence, </booktitle> <month> pages ???-???, </month> <year> 1995. </year>
+Reference: <author> Leslie Pack Kaelbling, Anthony R. Cassandra, and James A. Kurien. </author> <title> Acting under uncertainty: Discrete bayesian models for mobile-robot navigation. </title> <booktitle> In Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems, </booktitle> <year> 1996. </year>
+Reference: <author> N. Kushmerick, S. Hanks, and D. Weld. </author> <title> An algorithm for probabilistic planning. </title> <journal> Artificial Intelligence, </journal> <volume> 76 </volume> <pages> 239-286, </pages> <year> 1995. </year>
+Reference: <author> D. McDermott. </author> <title> A reactive plan language. </title> <institution> Research Report YALEU/DCS/RR-864, Yale University, </institution> <year> 1991. </year>
+Reference: <author> D. McDermott. </author> <title> Transformational planning of reactive behavior. </title> <institution> Research Report YALEU/DCS/RR-941, Yale University, </institution> <year> 1992. </year>
+Reference: <author> D. McDermott. </author> <title> An algorithm for probabilistic, totally-ordered temporal projection. </title> <institution> Research Report YALEU/DCS/RR-1014, Yale University, </institution> <year> 1994. </year>
+Reference: <author> D. McAllester and D. </author> <title> Rosenblitt. </title> <journal> Systematic nonlinear planning. </journal> <pages> pages 634-639, </pages> <year> 1991. </year>
+Reference: <author> R. Parr and S. Russell. </author> <title> Approximating optimal policies for partially observable stochastic domains. </title> <booktitle> In Proc. of the Fourteenth International Joint Conference on Artificial Intelligence, </booktitle> <year> 1995. </year>
+Reference: <author> S. Thrun, A. Bucken, W. Burgard, D. Fox, T. Frohlinghaus, D. Hennig, T. Hofmann, M. Krell, and T. Schimdt. </author> <title> Map learning and high-speed navigation in RHINO. </title> <editor> In D. Kortenkamp, R.P. Bonasso, and R. Murphy, editors, </editor> <title> AI-based Mobile Robots: Case studies of successful robot systems. </title> <publisher> MIT Press, </publisher> <address> Cambridge, MA, </address> <year> 1998. </year> <note> to appear. </note>
+References-found: 20
+

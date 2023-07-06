@@ -1,0 +1,27 @@
+URL: http://www.cs.ucsb.edu/~murat/IWOOS91.ps
+Refering-URL: http://www.cs.ucsb.edu/~murat/
+Root-URL: http://www.cs.ucsb.edu
+Email: probert@cs.ucsb.edu bruno@cs.ucsb.edu murat@cs.ucsb.edu  
+Title: SPACE: A New Approach to Operating System Abstraction an extensible operating system being developed for
+Author: D. Probert J. L. Bruno M. Karaorman 
+Note: SPACE is  can coexist and interact.  
+Address: Santa Barbara  
+Affiliation: Department of Computer Science University of California at  
+Abstract:  
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> E. W. Dijkstra, </author> <title> "The Structure of the THE Multiprogramming System," </title> <journal> CACM, </journal> <volume> Volume 11, Number 5 (May 1968), </volume> <pages> pp 341-346. </pages>
+Reference-contexts: Loaders became compilers, libraries and dynamic linkers. Filesystems acquired database mechanisms. Interactive computing evolved, changing job control languages into command interpreters. Terminal handlers became window systems. To control the complexity, operating systems, beginning with the THE system <ref> [1] </ref>, were developed as layers of abstractions. As operating systems continued to grow, and become more unwieldy, O/S functionality was divided between a single, central portion (the kernel) and separate (user-mode) processes and programs (e.g. UNIX [2]).
+Reference: [2] <author> D. M. Ritchie and K. Thompson, </author> <title> "The UNIX Time-Sharing System," </title> <journal> CACM Volume 21, </journal> <volume> Number 2 (February 1978), </volume> <pages> pp 120-126. </pages>
+Reference-contexts: To control the complexity, operating systems, beginning with the THE system [1], were developed as layers of abstractions. As operating systems continued to grow, and become more unwieldy, O/S functionality was divided between a single, central portion (the kernel) and separate (user-mode) processes and programs (e.g. UNIX <ref> [2] </ref>). The choice of which abstractions to place in the kernel is a fundamental one. Normally only a single abstraction of each type is supported, and the abstractions are generally difficult to extend or replace. Attempting to extend a kernel abstraction to user-mode (e.g.
+Reference: [3] <author> A. Tevanian, et. al., </author> <title> "A UNIX Interface for Shared Memory and Memory Mapped Files Under Mach," </title> <type> Technical Report, </type> <address> CMU (July 1987) </address>
+Reference-contexts: UNIX [2]). The choice of which abstractions to place in the kernel is a fundamental one. Normally only a single abstraction of each type is supported, and the abstractions are generally difficult to extend or replace. Attempting to extend a kernel abstraction to user-mode (e.g. Mach external pagers <ref> [3] </ref>) encounters significant constraints and inefficiencies. 3 Abstractions in SPACE The SPACE operating system is taking a new approach to O/S abstractions by moving the standard O/S primitives outside the kernel, and implementing them in terms of the SPACE primitives: spaces, domains, and portals.
+Reference: [4] <author> M. Karaorman, J. L. Bruno, </author> <title> "Introducing Concur-rency to a Sequential Object-Oriented Language", </title> <type> Technical Report, </type> <institution> Department of Computer Science, UC Santa Barbara, </institution> <year> 1990. </year>
+Reference: [5] <author> M. Karaorman, J. L. Bruno, </author> <title> "Concurrent Programming with Eiffel", </title> <booktitle> Proc. of Ninth International Eiffel User Conference, </booktitle> <address> Santa Barbara, CA, </address> <month> August </month> <year> 1991. </year>
+Reference: [6] <author> B. Meyer, </author> <title> Object-Oriented Software Construction, </title> <publisher> Prentice Hall, </publisher> <address> New York, </address> <year> 1988. </year>
+Reference-contexts: Many OOPL implementations (e.g. Eiffel <ref> [6] </ref> and C++[7]) provide protection only through the compilers. However in building larger systems it is necessary to use the architectural features of the hardware to control access to objects. We refer to such objects as protected objects.
+Reference: [7] <author> B. Stroustrup, </author> <title> The C++ Programming Language, </title> <publisher> Addison-Wesley, </publisher> <year> 1986. </year>
+Reference: [8] <author> P. Dasgupta, et. al., </author> <title> "The Design and Implementation of the Clouds Distributed Operating System," </title> <type> Technical Report, </type> <institution> School of Information and Computer Science, Georgia Institute of Technology. </institution>
+Reference-contexts: The unprotected objects are accessible from the unprotected domain, and thus can be passed to protected methods by pointer reference. Acknowledgements The original notions for SPACE were inspired by the ideas about associating general semantics with segments in Clouds/Ra <ref> [8] </ref>. (Clouds also helped inspire the name SPACE ). Domains were developed as a solution to object copying in Clouds.
+References-found: 8
+

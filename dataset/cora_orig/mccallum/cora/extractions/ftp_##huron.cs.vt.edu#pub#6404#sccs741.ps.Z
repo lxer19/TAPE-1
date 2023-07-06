@@ -1,0 +1,20 @@
+URL: ftp://huron.cs.vt.edu/pub/6404/sccs741.ps.Z
+Refering-URL: http://ei.cs.vt.edu/~cs6404/
+Root-URL: http://www.cs.vt.edu
+Email: A.B.White  
+Title: Characteristics of HPC Scientific and Engineering Applications  Summary  
+Author: G.C.Fox K.A.Hawick 
+Date: January 1996  
+Address: 111 College Place, Syracuse, NY 13244-4100  MS B287, C-ACL,  NM 87545  
+Affiliation: Northeast Parallel Architectures Center,  Advanced Computing Lab,  Los Alamos National Laboratory,  
+Abstract: This document summarises the discussions, conclusions and recommendations of Working Group 2 of the Second Pasadena Workshop on System Software on Tools for High Performance Computing Environments. The group discussed the outlook for High Performance Computing(HPC) in the context of the disappointingly low uptake of HPC by industry and commerce. We identified a number of novel applications areas not hitherto able to exploit HPC as well as a number of applications and algorithmic characteristics, such as irregular data structures, code size, complexity, real-time to solution, data storage requirements and data access rates, indicating their potential for studying the relevance of high performance computing systems. We also identified a number of important non-technical issues such as the need for collaborative enterprise models between industry, developers, and customer end-users to further the successful uptake of HPC technology and to reap the potential economic benefits of so doing. fl Report of Working Group 2: Second Pasadena Workshop on System Software on Tools for High Performance Computing Environments, January 10-12 1995 y Group Chair z Group Secretary, Present address: UK Meteorological Office, London Road, Bracknell, Berkshire, England. x Group Co-Chair 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Fox, G.C., Williams, R., and Messina, P., </author> <title> "Parallel Computing Works!", </title> <publisher> Published by Morgan Kaufmann, </publisher> <year> 1994. </year>
+Reference-contexts: A Applications Categories These application categories <ref> [1] </ref> have been developed for their relevance to scientific and engineering as well as industrial and commercial HPCC activities. Another good list of applications categories is given in [3].
+Reference: [2] <author> Messina, P., </author> <booktitle> "Proceedings of the first Pasadena Workshop on System Software and Tools for High Performance Computing Environments" </booktitle>
+Reference-contexts: What particular system software and tools will attract independent software vendors to participate in the commercialization of these applications and algorithms? More broadly, the group's charter was to consider possible national initiatives in HPC software from an applications perspective and taking into account the findings of the 1st Pasadena Workshop <ref> [2] </ref>. The group's charter directed us to scientific and engineering applications although the group took a broader view and in fact a major recommendation of the group is to build HPC software from a broad end-user base with a viable commercial market.
+Reference: [3] <author> Thomas Sterling, Paul Messina, Paul H. Smith, </author> <booktitle> Proceedings of Workshop on "Enabling Technologies for Peta(FL)OPS Computing" [4] "The National HPCC Software Exchange", </booktitle> <institution> a project of the members of the Center for Research on Paralle Computation (CRPC) at Caltech, Rice, Syracuse and Tennessee Universities, Argonne and Los Alamos National Laboratories. </institution> <note> On the World Wide Web at: http://www.netlib.org/nse/home.html 20 </note>
+Reference-contexts: A Applications Categories These application categories [1] have been developed for their relevance to scientific and engineering as well as industrial and commercial HPCC activities. Another good list of applications categories is given in <ref> [3] </ref>. These categories form the basis for a "roadmap of HPCC applications", an online information resource available on the World Wide Web as part of the National HPCC Software Exchange [4].
+References-found: 3
+

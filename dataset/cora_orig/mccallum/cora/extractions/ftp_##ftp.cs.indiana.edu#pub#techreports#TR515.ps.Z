@@ -1,0 +1,12 @@
+URL: ftp://ftp.cs.indiana.edu/pub/techreports/TR515.ps.Z
+Refering-URL: http://www.cs.indiana.edu/ftp/techreports/index.html
+Root-URL: http://www.cs.indiana.edu
+Title: Message-Efficient Uniform Timed Reliable Broadcast  
+Author: Yu Ma and Scott D. Stoller 
+Date: 21 September 1998  
+Abstract-found: 0
+Intro-found: 1
+Reference: [Babaoglu and Toueg] <author> Ozalp Babaoglu and Sam Toueg, </author> <title> Non-Blocking Atomic Commitment. Chapter 6 of Sape Mullender, editor, Distributed Systems , 2 nd edition. </title> <publisher> Addison-Wesley, </publisher> <year> 1993. </year> <note> An extended version appeared as: </note> <author> Ozalp Babaoglu and Sam Toueg, </author> <title> Understanding Non-Blocking Atomic Commitment. </title> <institution> University of Bologna, Laboratory for Computer Science, </institution> <type> Technical Report UBLCS-93-2, </type> <year> 1993. </year>
+Reference-contexts: As shown by Babaoglu and Toueg, the heart of the atomic commitment problem is equivalent to uniform timed reliable broadcast (UTRB), which is a broadcast primitive that provides the following guarantees <ref> [Babaoglu and Toueg] </ref>: B1 (Validity): If a correct process broadcasts a message m, then all correct processes eventually deliver m. B2 (Integrity): For any message m, each process delivers m at most once, and only if some process actually broadcasts m. <p> Local overhead of communication is captured by a parameter t: after a process sends a set of at most N-1 messages to different processes, t time units elapse before more messages can be sent. It is easy to devise a time-optimal UTRB protocol, e.g., UTRB1 of <ref> [Babaoglu and Toueg] </ref>, which works as follows. Each process relays every message it receives to all other processes before delivering the message; thus, if any process delivers a message, then that message must have been sent to all processes. <p> Let f denote the total number of processes that crash during an execution of the protocol, then the worst-case time complexity of UTRB1 is only (f+1)d, but the worst-case number of messages is (N-1) 2 What about a message-optimal algorithm then? The most message-efficient algorithm in the literature is UTRB2 <ref> [Babaoglu and Toueg] </ref>, which uses three types of messages: MSG announces a broadcast, DLV causes a delivery, and REQ requests help. The initial broadcaster constructs a list of processes called cohorts that will cooperate in performing the broadcast. The first process on this list is the broadcaster itself.
+References-found: 1
+

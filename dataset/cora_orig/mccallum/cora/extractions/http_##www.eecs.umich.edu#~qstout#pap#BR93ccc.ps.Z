@@ -1,0 +1,17 @@
+URL: http://www.eecs.umich.edu/~qstout/pap/BR93ccc.ps.Z
+Refering-URL: http://www.eecs.umich.edu/~qstout/papers.html
+Root-URL: http://www.eecs.umich.edu
+Title: Perfect Dominating Sets on Cube-Connected Cycles  
+Author: Douglas Van Wieren Marilynn Livingston Quentin F. Stout 
+Keyword: Cube-Connected Cycles, Dominating Sets, Perfect Dominating Sets, Parallel Architecture, Parallel Algorithms.  
+Address: Ann Arbor  
+Affiliation: Advanced Computer Architecture Laboratory Electrical Engineering and Computer Science University of Michigan,  
+Note: In Congressus Numerantium 97 (1993), pp. 51-70.  
+Abstract: Cube-connected cycles are a family of cubic graphs with relatively small diameters and regular structure, making them attractive models for parallel architecture design. The existence of perfect dominating sets for any structural model of parallel computation is both useful for the construction of efficient algorithms for that structure and indicative of practical design constraints. This paper gives a simple algorithmic method for constructing perfect dominating sets on cube-connected cycles where they exist, and proves nonexistence for all other cases. Specifically, standard perfect dominating sets (distance equal to 1) are shown to exist for cube-connected cycles of order k, k not equal to 5. Moreover, the existence of perfect dominating sets for all distances greater than 1 is disproved (with the trivial exception | the distance equaling or exceeding the diameter of the graph). 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Nathan Jacobson. </author> <title> Basic Algebra . W. </title> <editor> H. </editor> <publisher> Freemand and Company, </publisher> <address> New York, </address> <note> second edition, </note> <year> 1985. </year>
+Reference: [2] <author> Nathan Jacobson. </author> <title> Basic Algebra I. </title> <editor> W. H. </editor> <publisher> Freemand and Company, </publisher> <address> New York, </address> <note> second edition, </note> <year> 1989. </year>
+Reference: [3] <author> Marilynn Livingston and Quentin F. Stout. </author> <title> Perfect Dominating Sets. </title> <booktitle> Proceedings of the Twenty-first Southeastern Conference on Combinatorics, Graph Theory, </booktitle> <address> and Computing (Boca Raton, </address> <year> 1990). </year> <journal> Congressus Numerantium, </journal> <pages> pages 187-203, </pages> <year> 1990. </year> <month> 18 </month>
+References-found: 3
+

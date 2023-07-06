@@ -1,0 +1,16 @@
+URL: http://www.stern.nyu.edu/~aweigend/Research/Papers/BEFORENYU/clearning2.ps.Z
+Refering-URL: http://www.stern.nyu.edu/~aweigend/Research/Papers/BEFORENYU/
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: System Identification Using Clearning  
+Author: Claudia Perlich Matthias Brehler Andreas S. Weigend 
+Address: Boulder, CO 80309  Boulder, CO 80309  Boulder, CO 80309-0430  
+Affiliation: Department of Computer Science University of Colorado  Department of Electrical Engineering University of Colorado  Department of Computer Science and Institute of Cognitive Science  
+Abstract: The method of clearning was introduced in 1995 by [Weigend et al:, 1996]. Clearning acknowledges the fact that most real world data are noisy by simultaneously cleaning the data and learning the underlying structure. The hopes tied to the algorithm were that clearning allows us to find a better model and to make better predictions using this better model. By cleaning the data we also might discover properties of the data as for instance the signal-to-noise ratio. We investigated the performance of clearning focusing on finding a better model and identifying the underlying system for some examples. The paper also discusses the question if a better model can improve the performance of prediction and if the often used sum of squared error of the output is a good measure for generalization performance.
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Boggs, P. T., R. H. Byrd, J. E. Rogers and R. B. Schnabel. </author> <year> 1992. </year> <title> User's reference guide for odrpack version 2.00 software for weighted orthorgonal distance regression. </title> . 
+Reference: <author> Carroll, R. J., D. Ruppert and L. A. Stefanscki. </author> <year> 1995. </year> <title> Measurement Error in Nonlinear Models. </title> <publisher> Chapman & Hall, London. </publisher>
+Reference: <author> Press, W. H., B. P. Flannery, S. A. Teukolsky and W. T. Vetterling. </author> <year> 1988. </year> <title> Numerical Recipes: </title> <booktitle> The Art of Scientific Computing. </booktitle> <publisher> Cambridge University Press, </publisher> <address> Cambridge U.K. </address>
+Reference: <author> Weigend, A. S., H. Zimmermann and R. Neuneier. </author> <year> 1996. </year> <title> Clearning. In Neural Networks in Financial Engineering, </title> <editor> P. Refenes, Y. Abu-Mostafa, J. E. Moody and A. S. Weigend (eds). </editor> <publisher> World Scientific. </publisher>
+References-found: 4
+

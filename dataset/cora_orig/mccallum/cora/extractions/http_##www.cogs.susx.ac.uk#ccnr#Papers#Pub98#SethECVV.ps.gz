@@ -1,0 +1,30 @@
+URL: http://www.cogs.susx.ac.uk/ccnr/Papers/Pub98/SethECVV.ps.gz
+Refering-URL: http://www.cogs.susx.ac.uk/ccnr/Papers/pub98.html
+Root-URL: http://www.cogs.susx.ac.uk/ccnr/Papers/pub98.html
+Email: anils@cogs.susx.ac.uk  
+Title: The Evolution of Complexity and the Value of Variability  
+Author: Anil K Seth 
+Note: Implications are drawn for the emergence of complexity in general, and also for artificial evolution as a design methodology.  
+Address: Brighton BN1 9SB, UK  
+Affiliation: Centre for Computational Neuroscience and Robotics and School of Cognitive and Computing Sciences, University of Sussex,  
+Abstract: The hypothesis that environmental variability promotes the evolution of organism complexity is explored and illustrated, in two contexts. A coevolutionary `Iterated Prisoner's Dilemma' (IPD) ecology, populated by strategies determined by variable length genotypes, provides a quantitative demonstration, and an example from evolutionary robotics (ER) provides a more qualitative and naturalistic exploration. In the ER example, the above hypothesis is illustrated in real environments, and the organism complexity is seen in robots exhibiting relatively complex behaviours and neural dynamics. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Adami, C., and Cerf, N. </author> <year> 1997. </year> <title> A practical lower bound on the complexity of symbolic sequences. </title> <type> Technical Report adap-org/9605002, </type> <institution> Los Alamos National Laboratory. </institution>
+Reference: <author> Ashby, W. </author> <year> 1952. </year> <title> Design for a brain: the origin of adaptive behaviour. </title> <publisher> Chapman Hall. </publisher>
+Reference: <author> Axelrod, R. </author> <year> 1984. </year> <title> The Evolution of Cooperation. </title> <publisher> New York : Basic Books. </publisher>
+Reference: <author> Dawkins, R. </author> <year> 1986. </year> <title> The Blind Watchmaker. </title> <publisher> Longman. </publisher>
+Reference: <author> Dewey, J. </author> <year> 1929. </year> <title> Experience and nature. </title> <address> New York: </address> <publisher> Dover (rev. edn.). </publisher>
+Reference: <author> Floreano, D., and Mondada, F. </author> <year> 1996. </year> <title> Evolution of homing navigation in a real mobile robot. </title> <journal> IEEE transactions on systems, man, and cybernetics: part B; cybernetics 26(3) </journal> <pages> 396-407. </pages>
+Reference: <author> Godfrey-Smith, P. </author> <year> 1996. </year> <title> Complexity and the function of mind in nature. </title> <publisher> Cambridge University Press. </publisher>
+Reference: <author> Harvey, I.; Husbands, P.; Cliff, D.; Thompson, A.; and Jakobi, N. </author> <year> 1997. </year> <title> Evolutionary robotics: the sussex approach. </title> <booktitle> Robotics and Autonomous Systems 20 </booktitle> <pages> 205-224. </pages>
+Reference: <author> Jakobi, N. </author> <year> 1997. </year> <title> Evolutionary robotics and the radical envelope of noise hypothesis. Journal of Adaptive Behaviour 6(2). </title> <publisher> (forthcoming). </publisher> <address> K-Team. </address> <year> 1993. </year> <title> Khepera: the user's manual. </title> <type> Technical report, </type> <institution> LAMI-EPFL. </institution>
+Reference: <author> Kauffman, S. </author> <year> 1993. </year> <title> The origins of order. Self-organisation and selection in evolution. </title> <publisher> Oxford University Press. </publisher>
+Reference: <author> Kolmogorov, A. </author> <year> 1965. </year> <title> Three approaches to the definition of the concept `quantity of information'. </title> <journal> Problems Inform. </journal> <volume> Transmission 1 </volume> <pages> 1-7. </pages>
+Reference: <author> Langton, C. </author> <year> 1995. </year> <title> Artificial Life; an Overview. </title> <publisher> MIT : Bradford Books. </publisher>
+Reference: <author> Lindgren, K. </author> <year> 1991. </year> <title> Evolutionary phenomena in simple dynamics. </title> <editor> In Langton, C.; Farmer, J.; Rasmussen, S.; and Taylor, C., eds., </editor> <booktitle> Artificial Life II. </booktitle> <publisher> Addison-Wesley. </publisher>
+Reference: <author> Schuster, P. </author> <year> 1996. </year> <title> How does complexity arise in evolution? Technical report, </title> <note> TBI working paper 96-05-026. </note>
+Reference: <author> Seth, A. </author> <year> 1997. </year> <title> Interaction, uncertainty, and the evolution of complexity. </title> <editor> In Husbands, P., and Harvey, I., eds., </editor> <booktitle> Proceedings of the 4th European Conference on Artificial Life, </booktitle> <pages> 521-530. </pages> <publisher> MIT Press. </publisher>
+Reference: <author> Stanley, E.; Ashlock, D.; and Smucker, M. </author> <year> 1995. </year> <title> Iterated prisoner's dilemma with choice and refusal of partners: Evolutionary results. </title> <editor> In Moran, F.; Moreno, A.; Merelo, J.; and Chacon, P., eds., </editor> <booktitle> Advances in Artificial Life : Lecture Notes in Artificial Intelligence. </booktitle> <publisher> Springer-Verlag. </publisher>
+References-found: 16
+

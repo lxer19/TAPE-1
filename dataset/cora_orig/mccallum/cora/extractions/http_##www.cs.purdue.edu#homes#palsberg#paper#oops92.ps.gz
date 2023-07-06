@@ -1,0 +1,15 @@
+URL: http://www.cs.purdue.edu/homes/palsberg/paper/oops92.ps.gz
+Refering-URL: http://www.cs.purdue.edu/homes/palsberg/publications.html
+Root-URL: http://www.cs.purdue.edu
+Email: palsberg@daimi.aau.dk mis@daimi.aau.dk  
+Title: Object-Oriented Typing  
+Author: Jens Palsberg Michael I. Schwartzbach 
+Address: Ny Munkegade  
+Affiliation: Computer Science Department Aarhus University  
+Note: In ACM SIGPLAN OOPS Messenger, 3(2):31-38, 1992. Three Discussions on  DK-8000 -Arhus C, Denmark  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> Jens Palsberg and Michael I. Schwartzbach. </author> <title> Types, Inheritance and Assignments. </title> <booktitle> Workshop held at ECOOP'91 in Geneva, </booktitle> <address> Switzerland, </address> <month> July </month> <year> 1991. </year> <note> The collection of position papers is available from Computer Science Department, Aarhus University as PB-357. 12 </note>
+Reference-contexts: Schwartzbach, Alan Snyder, Clemens Szyperski, Andrew Watson, and Alan Wills. Most participants contributed a short position paper; they are collected in <ref> [1] </ref> The three discussions were entitled "Classes versus Types", "Static versus Dynamic Typing", and "Type Inference". All these topics were assumed to be volatile and controversial; indeed, a broad range of diverging opinions were represented. However, much superficial disagreement seemed to be rooted in confusions about terminology.
+References-found: 1
+

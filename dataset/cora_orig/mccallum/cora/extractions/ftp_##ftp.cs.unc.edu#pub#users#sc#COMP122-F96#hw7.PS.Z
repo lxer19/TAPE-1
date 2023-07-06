@@ -1,0 +1,13 @@
+URL: ftp://ftp.cs.unc.edu/pub/users/sc/COMP122-F96/hw7.PS.Z
+Refering-URL: http://www.cs.unc.edu/~sc/teaching/COMP122-F1996/homework.html
+Root-URL: http://www.cs.unc.edu
+Title: COMP 122: Algorithms and Analysis Problem Set Practice problems Problems to hand in H-1 Consider
+Author: P n 
+Note: Handed out:  Due back:  P-2 Exercise 17.1-2 (page 333). P-3 Exercise 24.1-1 (page 503). P-4 Exercise 24.2-2 (page 510). P-5 Exercise 24.2-4 (page 510).  2 integer P[2::n] n is the number of vertices 3 C f2; ng Set of candidate vertices 4 for i 2 to n do 6 enddo 7 do n 2 times  9 C C fvg 10 for each w 2 C do 11 P[w] min(P[w]; P[v] D[v][w]) 12 enddo 13 enddo  
+Date: Fall 1996  10 Oct 1996  15 Oct 1996  
+Pubnum: 7  
+Abstract: P-1 Prove or give a counter-example: provided that each coin in the series is worth at least twice the next lower denomination, that the series includes a 1-unit coin, and that an unlimited supply of coins of each denomination is available, the greedy algorithm for making change always finds an optimal solution. i=1 d(v i-1 ; v i ). A shortest path from u to v is a path from u to v of minimum length. Vertex 1 is designated the source, and we want to find the shortest path from the source to each of the other vertices of the graph. The following greedy algorithm claims to find the lengths of these shortest paths. The distance function is given as a two-dimensional array D, such that D[u][v] = d(u; v) if (u; v) 2 E, and D[u][v] = 1 otherwise. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

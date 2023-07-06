@@ -1,0 +1,17 @@
+URL: http://www.eecs.umich.edu/~abajaj/homepage/682projrep.ps.gz
+Refering-URL: http://www.eecs.umich.edu/~abajaj/
+Root-URL: http://www.eecs.umich.edu
+Email: sraja-@eecs.umich.edu  
+Title: Implementing a replicated database system using state machines  
+Author: Anurag Bajaj Vijay Chander Sivaramakrishnan Rajagopalan -abajaj, cvijay, 
+Address: 1301 Beal Avenue,  Ann Arbor, MI 48109.  
+Affiliation: (EECS  Dept. of EECS,  The University of Michigan,  
+Pubnum: 682 Project Report)  
+Abstract-found: 0
+Intro-found: 0
+Reference: 1. <author> Mullender S. </author> <title> (editor), Distributed Systems (second edition), </title> <publisher> Addison Wesley. </publisher>
+Reference: 2. <author> Birman K., Cooper R., Gleeson B., </author> <title> Programming with Process Groups: Group and Multicast semantics, </title> <type> Technical report (TR-91-1185), </type> <institution> Cornell University, </institution> <address> Ithaca, NY, USA. </address>
+Reference: 3. <author> Birman K., Schiper A., Stephenson P., </author> <title> Lightweight Causal and Atomic Group Multicast, </title> <journal> ACM Transactions on Computer Systems, </journal> <volume> Vol 9, no. 3, </volume> <pages> pp 272-314. </pages>
+
+References-found: 3
+

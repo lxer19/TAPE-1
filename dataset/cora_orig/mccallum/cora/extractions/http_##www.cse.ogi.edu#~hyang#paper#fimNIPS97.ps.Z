@@ -1,0 +1,21 @@
+URL: http://www.cse.ogi.edu/~hyang/paper/fimNIPS97.ps.Z
+Refering-URL: http://www.cse.ogi.edu/~hyang/paper.html
+Root-URL: http://www.cse.ogi.edu
+Email: hyang@cse.ogi.edu  
+Title: NIPS*97 Multiplicative Updating Rule for Blind Separation Derived from the Method of Scoring  
+Author: Howard Hua Yang 
+Address: PO Box 91000, Portland, OR 97291, USA  
+Affiliation: Department of Computer Science Oregon Graduate Institute  
+Abstract: For blind source separation, when the Fisher information matrix is used as the Riemannian metric tensor for the parameter space, the steepest descent algorithm to maximize the likelihood function in this Riemannian parameter space becomes the serial updating rule with equivariant property. This algorithm can be further simplified by using the asymptotic form of the Fisher information matrix around the equilibrium.
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> S. Amari. </author> <title> Natural gradient works efficiently in learning. Accepted by Neural Computation, </title> <year> 1997. </year>
+Reference: [2] <author> S. Amari. </author> <title> Neural learning in structured parameter spaces natural Riemannian gradient. </title> <booktitle> In Advances in Neural Information Processing Systems, </booktitle> <volume> 9, </volume> <editor> ed. M. C. Mozer, M. I. Jordan and T. Petsche, </editor> <publisher> The MIT Press: </publisher> <address> Cambridge, MA., </address> <pages> pages 127-133, </pages> <year> 1997. </year>
+Reference: [3] <author> S. Amari, A. Cichocki, and H. H. Yang. </author> <title> A new learning algorithm for blind signal separation. </title> <booktitle> In Advances in Neural Information Processing Systems, </booktitle> <volume> 8, </volume> <editor> eds. David S. Touretzky, Michael C. Mozer and Michael E. Hasselmo, </editor> <publisher> MIT Press: </publisher> <address> Cambridge, MA., </address> <pages> pages 757-763, </pages> <year> 1996. </year>
+Reference: [4] <author> J.-F. Cardoso. </author> <title> Infomax and maximum likelihood for blind source separation. </title> <journal> IEEE Signal Processing Letters, </journal> <month> April </month> <year> 1997. </year>
+Reference: [5] <author> J.-F. Cardoso and B. Laheld. </author> <title> Equivariant adaptive source separation. </title> <journal> IEEE Trans. on Signal Processing, </journal> <volume> 44(12) </volume> <pages> 3017-3030, </pages> <month> December </month> <year> 1996. </year>
+Reference: [6] <author> S. M. Kay. </author> <title> Fundamentals of Statistical Signal Processing: Estimation Theory. </title> <publisher> PTR Prentice Hall, </publisher> <address> Englewood Cliffs, </address> <year> 1993. </year>
+Reference: [7] <author> D. T. Pham. </author> <title> Blind separation of instantaneous mixture of sources via an ica. </title> <journal> IEEE Trans. on Signal Processing, </journal> <volume> 44(11) </volume> <pages> 2768-2779, </pages> <month> November </month> <year> 1996. </year>
+Reference: [8] <author> H. H. Yang and S. Amari. </author> <title> Adaptive on-line learning algorithms for blind separation: Maximum entropy and minimum mutual information. </title> <journal> Neural Computation, </journal> <volume> 9(7) </volume> <pages> 1457-1482, </pages> <year> 1997. </year>
+References-found: 8
+

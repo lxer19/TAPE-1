@@ -1,0 +1,12 @@
+URL: ftp://ftp.cs.man.ac.uk/pub/TR/UMCS-98-6-1-merino.ps.Z
+Refering-URL: ftp://ftp.cs.man.ac.uk/pub/TR/UMCS-98-6-1.html
+Root-URL: http://www.cs.man.ac.uk
+Title: 9HULI"LQJfl3URWRFROVflZLWKfl([HFXWDEOHfl/LQHDUfl/RJLF  
+Author: P. Merino and J.M. Troya 
+Address: 8QLYHUVLW"flRIfl0DODJDfl*floaefl0DODJDfl*fl63$,1  
+Affiliation: 'HSWRjfl/HQJXDMHVfl"&LHQFLDVflGHflODfl&RPSXWDFLRQ  
+Abstract: This paper describes a new formalism for the specification and automatic verification of temporal properties where the counting and the distinction of the events are critical in deciding the correctness of systems. The specification formalism is based on giving an operational interpretation to a fragment of Linear Logic, which is specially suitable to express counting and changes between states. This operational semantics gives us a natural way to implement a model checking algorithm in a similar way to the automata-theoretic approach to verification. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

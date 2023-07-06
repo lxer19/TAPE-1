@@ -1,0 +1,15 @@
+URL: http://c.gp.cs.cmu.edu:5103/afs/cs/project/cmcl/archive/Nectar-papers/91ncl.ps.gz
+Refering-URL: http://c.gp.cs.cmu.edu:5103/afs/cs.cmu.edu/project/nectar/WWW/sys_papers.html
+Root-URL: http://www.cs.cmu.edu
+Title: A Symmetrical Communication Interface for Distributed-Memory Computers  
+Author: Peter A. Steenkiste 
+Note: 2. The communication model Abstract The programming model presented to Nectar programmers consists of tasks and buffers. Tasks are  
+Address: Pittsburgh, Pennsylvania 15213  
+Affiliation: Department of Computer Science Carnegie Mellon University  
+Abstract: We describe the features of the Nectar communication We describe a communication interface that presents 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> remote receive is handled entirely by the CABs. </author> <title> Buffers and buffered messages are located in CAB memory where </title>
+
+References-found: 1
+

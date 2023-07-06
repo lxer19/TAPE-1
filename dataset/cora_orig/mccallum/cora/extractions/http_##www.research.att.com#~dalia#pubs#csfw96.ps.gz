@@ -1,0 +1,21 @@
+URL: http://www.research.att.com/~dalia/pubs/csfw96.ps.gz
+Refering-URL: http://www.research.att.com/~dalia/
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: Broadcast protocols for distributed systems. IEEE Transactions on Parallel and Dis tributed Systems Total ordering
+Author: [] P. M. Melliar-Smith, L. E. Moser, and V. Agrawala. [] L. E. Moser and P. M. Melliar-Smith. [] M. K. Reiter. [] M. K. Reiter. M. K. Reiter, M. K. Franklin, J. B. Lacy, and R. N. Wright. [] R. L. Rivest, A. Shamir, and L. Adleman. [] V. L. Voydock and S. T. Kent. 
+Note: In Proceedings of the 9th International Workshop on Distributed Algorithms, Springer Verlag,  Proceedings of the 2nd ACM Conference on Computer and Communications Security, pages 68-80,  (Lecture Notes in Computer Science 938), pages 99-110, Springer Verlag, 1995. [14]  In Proceedings of the 3rd ACM Conference on Computer and Communications Security, pages  [15] R. L. Rivest. RFC 1321: The MD5  puting Surveys 15(2):135-171, June 1983.  
+Date: January 1990.  September 1995.  November 1994.  38-47, March 1996.  February 1978.  
+Pubnum: 1(1):17-25,  21(2):120-126,  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> D. Atkins, M. Graff, A. K. Lenstra, and P. C. Ley-land. </author> <title> The magic words are squeamish ossifrage. </title> <booktitle> In Proceedings of Asiacrypt '94, </booktitle> <pages> pages 219-229, </pages> <year> 1994. </year>
+Reference: [2] <author> D. Bayer, S. Haber and W.S. Stornetta. </author> <title> Improving the efficiency and reliability of digital time-stamping. </title> <journal> Journal of Cryptology 3(2) </journal> <pages> 99-111, </pages> <year> 1991. </year>
+Reference: [3] <author> K. P. Birman. </author> <title> The process group approach to reliable distributed computing. </title> <journal> Communications of the ACM 36(12) </journal> <pages> 37-53, </pages> <month> December </month> <year> 1993. </year>
+Reference: [4] <author> G. Bracha and S. Toueg. </author> <title> Asynchronous consensus and broadcast protocols. </title> <journal> Journal of the ACM 32(4) </journal> <pages> 824-840, </pages> <month> October </month> <year> 1985. </year>
+Reference: [5] <author> D. Dolev and D. Malki. </author> <title> The Transis approach to high availability cluster communication. </title> <journal> Communications of the ACM 39(4), </journal> <note> 1996. To appear. </note>
+Reference: [6] <author> M. J. Fischer, N. A. Lynch, and M. S. Paterson. </author> <title> Impossibility of distributed consensus with one faulty process. </title> <journal> Journal of the ACM 32(2) </journal> <pages> 374-382, </pages> <month> April </month> <year> 1985. </year>
+Reference: [7] <author> M. K. Franklin and M. Yung. </author> <title> The varieties of secure distributed computation. </title> <booktitle> In Proceedings of Sequences II, Methods in Communications, Security and Computer Science, </booktitle> <pages> pages 392-417, </pages> <month> June </month> <year> 1991. </year>
+Reference: [8] <author> J. B. Lacy, D. P. Mitchell and W. M. </author> <title> Schell. </title> <booktitle> Cryp-toLib: Cryptography in software. In Proceedings of the 4th USENIX Security Workshop, </booktitle> <pages> pages 1-17, </pages> <month> October </month> <year> 1993. </year>
+
+References-found: 8
+

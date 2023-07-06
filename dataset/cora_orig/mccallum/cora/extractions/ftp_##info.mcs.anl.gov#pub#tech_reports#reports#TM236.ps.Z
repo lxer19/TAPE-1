@@ -1,0 +1,23 @@
+URL: ftp://info.mcs.anl.gov/pub/tech_reports/reports/TM236.ps.Z
+Refering-URL: http://www.mcs.anl.gov/publications/abstracts/abstracts98.htm
+Root-URL: http://www.mcs.anl.gov
+Title: Second Argonne Theory Institute on Differentiation of Computational Approximations to Functions  edited by  
+Author: held Christian H. Bischof, Peter Eberhard, and Paul D. Hovland 
+Note: This work was supported by the Mathematical, Information, and Computational Sciences Division subprogram of the Office of Computational and Technology Research, U.S. De partment of Energy, under Contract W-31-109-Eng-38.  
+Date: May 18-20, 1998  June 1998  
+Web: ANL/MCS-TM-236  
+Address: 9700 South Cass Avenue Argonne, Illinois 60439  
+Affiliation: ARGONNE NATIONAL LABORATORY  at Argonne National Laboratory  Mathematics and Computer Science Division  
+Pubnum: Technical Memorandum No. 236  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> C. Duval, P. Erhard, C. Faure, and J. C. Gilbert. </author> <title> Application of the automatic differentiation tool odyssee to a system of thermohydraulic equations. </title> <editor> In J.-A. Desideri, P. Le Tallec, E. O~nate, J. Periaux, and E. Stein, editors, </editor> <booktitle> Proc. of ECCOMAS'96, volume Numerical Methods in Engineering'96, </booktitle> <pages> pages 795-802. </pages> <publisher> John Wiley & Sons, </publisher> <month> September </month> <year> 1996. </year>
+Reference-contexts: A first study has demonstrated the feasibility on a mockup of this code called Thyc-1D (see <ref> [1, 2] </ref> for more details). Two difficulties have been encountered in differentiating Thyc-1D and Thyc-3D. First, the program has black-box subroutines, whose code is not available.
+
+Reference: [1] <author> B. </author> <month> Mohammadi </month> <year> (1997), </year> <title> Practical Applications to Fluid Flows of Automatic Differentiation for Design Problems, </title> <booktitle> VKI lecture series, </booktitle> <pages> 1997-05. 17 </pages>
+Reference-contexts: A first study has demonstrated the feasibility on a mockup of this code called Thyc-1D (see <ref> [1, 2] </ref> for more details). Two difficulties have been encountered in differentiating Thyc-1D and Thyc-3D. First, the program has black-box subroutines, whose code is not available.
+Reference: [2] <author> B. </author> <month> Mohammadi </month> <year> (1997), </year> <title> A New Optimal Shape Design Procedure for Inviscid and Viscous Turbulent Flows, </title> <journal> Int. J. for Numerical Meth. in Fluid, </journal> <volume> vol. 25, </volume> <pages> 183-203. </pages>
+Reference-contexts: A first study has demonstrated the feasibility on a mockup of this code called Thyc-1D (see <ref> [1, 2] </ref> for more details). Two difficulties have been encountered in differentiating Thyc-1D and Thyc-3D. First, the program has black-box subroutines, whose code is not available.
+
+References-found: 3
+

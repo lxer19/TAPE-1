@@ -1,0 +1,14 @@
+URL: http://www.cs.tu-berlin.de/techreports/kit/documents/Quantz/mindsmachines94.ps.gz
+Refering-URL: http://www.cs.tu-berlin.de/techreports/
+Root-URL: 
+Email: jjq and birte@cs.tu-berlin.de  
+Title: Knowledge-Based Disambiguation for Machine Translation Minds and Machines 4: 39-57, 1994  
+Author: J. Joachim Quantz, Birte Schmitz 
+Keyword: Anaphora Resolution, Description Logics, Disambiguation, Machine Translation  
+Address: Projekt KIT, FR 5-12, Franklinstr. 28/29, W-1000 Berlin 10, Germany  
+Affiliation: Technische Universitat Berlin,  
+Abstract: The resolution of ambiguities is one of the central problems for Machine Translation. In this paper we propose a knowledge-based approach to disambiguation which uses Description Logics (DL) as representation formalism. We present the process of anaphora resolution implemented in the Machine Translation system FAST and show how the DL system BACK is used to support disambiguation. The disambiguation strategy uses factors representing syntactic, semantic, and conceptual constraints with different weights to choose the most adequate antecedent candidate. We show how these factors can be declaratively represented as defaults in BACK. Disambiguation is then achieved by determining the interpretation that yields a qualitatively minimal number of exceptions to the defaults, and can thus be formalized as exception minimization. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

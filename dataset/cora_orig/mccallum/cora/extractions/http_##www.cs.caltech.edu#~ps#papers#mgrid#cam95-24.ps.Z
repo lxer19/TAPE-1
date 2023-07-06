@@ -1,0 +1,15 @@
+URL: http://www.cs.caltech.edu/~ps/papers/mgrid/cam95-24.ps.Z
+Refering-URL: http://www.cs.caltech.edu/~ps/papers/mgrid/
+Root-URL: http://www.cs.caltech.edu
+Title: Table 5 MG iterations for the annulus grid with 8448 unknowns. MG Unmodified Boundaries Modified
+Phone: 158 5 (5) 8 (50) 156 6 8  2 575 5 (5) 7 (20) 575 5 7 4 47 5 (5) 7 (20) 47 5 7  2 159 4 (4) 6 (11) 159 4 7 4 15 4 (4) 6 (12) 15 4 7  
+Author:  
+Address: BC Mixed BC  BC Mixed BC  
+Note: 4  Dir  Dir  
+Abstract: Baker Triangulation Results for Annulus MG Unmodified Boundaries Modified Boundaries levels nodes Dir BC Mixed BC nodes Dir BC Mixed BC 2 2175 5 (5) 8 (48) 2175 5 8 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> R.E. Bank and J. Xu. </author> <title> A hierarchical basis multigrid method for unstructured meshes. </title> <editor> In W. Hackbusch and G. Wittum, editors, </editor> <title> Tenth GAMM-Seminar Kiel on Fast Solvers for Flow Problems. </title> <address> Vieweg-Verlag, Braunschweig. </address> <note> To appear. </note>
+
+References-found: 1
+

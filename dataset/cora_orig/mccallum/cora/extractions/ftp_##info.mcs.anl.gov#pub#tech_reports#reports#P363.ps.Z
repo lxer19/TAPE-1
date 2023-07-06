@@ -1,0 +1,21 @@
+URL: ftp://info.mcs.anl.gov/pub/tech_reports/reports/P363.ps.Z
+Refering-URL: http://www.mcs.anl.gov/publications/abstracts/abstracts93.htm
+Root-URL: http://www.mcs.anl.gov
+Title: Quadrature over Curved Surfaces by Extrapolation  
+Author: J. N. Lyness 
+Address: 9700 South Cass Avenue Argonne, IL 60439  
+Affiliation: Mathematics and Computer Science Division Argonne National Laboratory  
+Abstract: In this paper we describe and justify a method for integrating over curved surfaces. This method does not require that the Jacobian be known explicitly. This is a natural extension of extrapolation (or Romberg integration) for planar squares or triangles. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> F. L. Bauer, H. Rutishauser, and E. </author> <title> Stiefel (1963). New aspects in numerical quadrature, </title> <journal> Proc. Symp. Appl. Math. </journal> <volume> 15, </volume> <publisher> American Mathematical Society, Providence, R.I., </publisher> <pages> 199-218. </pages>
+Reference: <author> R. </author> <title> Courant (1956). Differential and Integral Calculus, Volume 2, </title> <publisher> Interscience Publishers, Inc., </publisher> <address> New York. </address>
+Reference: <author> K. </author> <title> Georg (1991). Approximation of integrals for boundary element methods, </title> <journal> SIAM J. Sci. Stat. Comput. </journal> <volume> 12, </volume> <pages> 443-453. </pages>
+Reference: <author> K. Georg and J. </author> <title> Tausch (1993). Some error estimates for the numerical approximation of surface integrals, </title> <journal> Math. Comp. </journal> <note> (to appear). </note>
+Reference: <author> J. N. </author> <title> Lyness (1978). Quadrature over a simplex, </title> <journal> SIAM J. Numer. Anal. </journal> <volume> 15, </volume> <pages> 122-133 and 870-877. </pages>
+Reference: <author> J. N. Lyness and K. K. </author> <title> Puri (1973). The Euler-Maclaurin expansion for the simplex, </title> <journal> Math. Comp. </journal> <volume> 27, </volume> <pages> 273-293. </pages>
+Reference: <author> C. Schwab and W. L. </author> <title> Wendland (1992). On numerical cubatures of singular surface integrals in boundary element methods, </title> <journal> Numer. Math. </journal> <volume> 62, </volume> <pages> 343-369. </pages>
+Reference: <author> A. H. </author> <title> Stroud (1971). Approximate Calculation of Multiple Integrals, </title> <publisher> Prentice-Hall, Inc., </publisher> <address> Englewood Cliffs, New Jersey. </address>
+Reference: <author> P. Verlinden and R. </author> <title> Cools (1993). Proof of a conjectured asymptotic expansion for the approximation of surface integrals, </title> <note> Report TW189, KU Leuven 1993. 15 </note>
+References-found: 9
+

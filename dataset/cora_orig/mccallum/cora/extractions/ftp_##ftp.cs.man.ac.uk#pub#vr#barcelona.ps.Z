@@ -1,0 +1,16 @@
+URL: ftp://ftp.cs.man.ac.uk/pub/vr/barcelona.ps.Z
+Refering-URL: http://aig.cs.man.ac.uk/publications/publications.html
+Root-URL: http://www.cs.man.ac.uk
+Email: email: rhubbold@cs.man.ac.uk  
+Title: Design Issues for Virtual Reality Systems  
+Author: Roger Hubbold, Alan Murta, Adrian West, Toby Howard 
+Date: August 1993  
+Address: Oxford Road Manchester M13 9PL England  
+Affiliation: Advanced Interfaces Group Department of Computer Science University of Manchester  
+Abstract: In this paper we describe a number of issues which are central to the design of a software architecture for a distributed, generic, virtual reality system. These include support for diverse and demanding applications, the management of time to provide high-quality interaction with tightly controlled closed-loop feedback, and the need for continuity of the experience presented to the user. These issues are being addressed in the design of a generic VR system called AVIARY. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> A.J. West, T.L.J. Howard, R.J. Hubbold, A.D. Murta, D.N. Snowdon, and D.A. Butler. </author> <month> AVIARY </month>
+Reference-contexts: In the Advanced Interfaces Group at the University of Manchester we have been attempting to clarify and address this area. We are currently implementing a software kernel in a newly established laboratory to take our ideas further, as documented elsewhere <ref> [1, 2] </ref>. In this paper we wish to raise some problems that we consider important, and which will need to be addressed if VR is to progress. <p> Whilst this approach is useful in smaller systems, for more ambitious environments it is rather limited and difficult to manage. The diversity of applications for which VR seems appropriate suggests that a variety of world models are required <ref> [1] </ref>. It is not possible to provide all features within a single world, not only due to the contradictions that would ensue, but also because of the performance implications of such an approach. <p> greater flexibility in the handling of virtual time (allowing multiple rates of flow within the system, for example), and separates world behaviour from specific performance-related metrics imposed by the underlying hardware. 8 5 The AVIARY system AVIARY is the generic VR support environment being developed by our group in Manchester <ref> [1, 2] </ref>. This system will allow us to explore many of the design issues addressed within this paper. The AVIARY system supports: A hierarchical world model constructed using object-oriented methods. <p> The system as a whole will permit us to further develop the AVIARY prototype in its support for a range of `real world' applications. A low-cost, high-performance graphics subsystem is being designed and built by some of our engineering colleagues <ref> [1] </ref>. This is intended to provide a cost-effective method for driving several headsets, permitting experiments with multiple users.
+References-found: 1
+

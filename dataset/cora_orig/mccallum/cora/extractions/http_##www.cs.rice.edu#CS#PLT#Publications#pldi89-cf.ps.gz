@@ -1,0 +1,28 @@
+URL: http://www.cs.rice.edu/CS/PLT/Publications/pldi89-cf.ps.gz
+Refering-URL: http://www.cs.rice.edu/CS/PLT/Publications/
+Root-URL: 
+Title: The Semantics of Program Dependence  
+Author: Robert Cartwright, Matthias Felleisen 
+Note: Revision of a paper that appeared in Sigplan '89  
+Address: Houston, TX 77251-1892  
+Affiliation: Department of Computer Science Rice University  
+Abstract: Optimizing and parallelizing compilers for procedural languages rely on various forms of program dependence graphs (pdgs) to express the essential control and data dependences among atomic program operations. In this paper, we provide a semantic justification for this practice by deriving two different forms of program dependence graph|the output pdg and the def-order pdg|and their semantic definitions from non-strict generalizations of the denotational semantics of the programming language. In the process, we demonstrate that both the output pdg and the def-order pdg (with minor technical modifications) are conventional data-flow programs. In addition, we show that the semantics of the def-order pdg dominates the semantics of the output pdg and that both of these semantics dominate|rather than preserve|the semantics of sequential execution.
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> Aho, A., R. Sethi, and J. Ullman. Compilers|Principles, </author> <title> Techniques, and Tools. </title> <publisher> Addison-Wesley, </publisher> <address> Reading, Mass., </address> <year> 1985. </year>
+Reference: 2. <author> Ferrante, J. and K. Ottenstein. </author> <title> A program form based on data dependency in predicate regions. </title> <booktitle> In Proc. 10th ACM Symposium on Principles of Programming Languages, </booktitle> <year> 1983, </year> <pages> 217-236. </pages>
+Reference: 3. <author> Ferrante, J., K. Ottenstein, and J. Warren. </author> <title> The program dependence graph and its use in optimization. </title> <journal> ACM Trans. Program. Lang. Syst. </journal> <volume> 9(3), </volume> <year> 1987, </year> <pages> 319-349. </pages>
+Reference: 4. <author> Horwitz, S., J. Prins, and T. Reps. </author> <title> On the adequacy of program dependence graphs representing programs. </title> <booktitle> In Proc. 15th ACM Symposium on Principles of Programming Languages, </booktitle> <year> 1988, </year> <pages> 146-157. </pages>
+Reference: 5. <author> Horwitz, S., J. Prins, and T. Reps. </author> <title> Integrating non-interfering versions of pro grams. </title> <booktitle> In Proc. 15th ACM Symposium on Principles of Programming Languages, </booktitle> <year> 1988, </year> <pages> 133-145. </pages>
+Reference: 6. <author> Jtrring, U. and W. L. Scherlis. </author> <title> Compilers and staging transformations. </title> <booktitle> In Proc. 13th ACM Symposium on Principles of Programming Languages, </booktitle> <year> 1986, </year> <pages> 86-96. </pages>
+Reference: 7. <author> Kuck, D. J., R. H. Kuhn, D. A. Padua, and M. Wolfe. </author> <title> Dependence graphs and compiler optimizations. </title> <booktitle> In Proc. 8th ACM Symposium on Principles of Programming Languages, </booktitle> <year> 1981, </year> <pages> 207-218. 21 </pages>
+Reference: 8. <author> Ottenstein, K. J. </author> <title> An intermediate program form based on a cyclic data-dependence graph. </title> <type> Technical Report No 81-1, </type> <institution> Department of Computer Science, Michigan Tech. University, </institution> <year> 1981. </year>
+Reference: 9. <author> Schmidt, D.A. </author> <title> Denotational Semantics: A Methodology for Language Development. </title> <publisher> Allyn and Bacon, </publisher> <address> Newton, Mass., </address> <year> 1986. </year>
+Reference: 10. <author> Selke, R. P. </author> <title> A Rewriting Semantics for Program Dependence Graphs. </title> <booktitle> In Proc. 16th ACM Symposium on Principles of Programming Languages, </booktitle> <year> 1989, </year> <pages> 12-24 </pages>
+Reference: 11. <author> Wand, M. </author> <title> Loops in combinator-based compilers. </title> <booktitle> In Proc. 10th Symposium on Prin ciples of Programming Languages, </booktitle> <year> 1983, </year> <pages> 190-196. </pages>
+Reference: 12. <author> Wand, M. </author> <title> Semantics-directed machine architecture. </title> <booktitle> In Proc. 9th Symposium on Principles of Programming Languages, </booktitle> <year> 1982, </year> <pages> 234-241. </pages>
+Reference: 13. <author> Wand, M. </author> <title> Deriving target code as a representation of continuation semantics. </title> <journal> ACM Trans. Program. Lang. Syst. </journal> <volume> 4(3), </volume> <year> 1982, </year> <pages> 496-517. </pages>
+Reference: 14. <author> Warren, J. </author> <title> A hierarchical basis for reordering transformations. </title> <booktitle> In Proc. 11th ACM Symposium on Principles of Programming Languages, </booktitle> <year> 1984, </year> <pages> 272-282. </pages>
+Reference: 15. <author> Wolfe, M. J. </author> <title> Optimizing Supercompilers for Supercomputers. </title> <publisher> Ph. </publisher> <address> D. </address> <institution> dissertation, University of Illinois, </institution> <year> 1982. </year>
+References-found: 15
+

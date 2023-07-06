@@ -1,0 +1,19 @@
+URL: http://www.math.rutgers.edu/~sontag/FTP_DIR/tn950112.ps.gz
+Refering-URL: http://www.math.rutgers.edu/~sontag/papers.html
+Root-URL: 
+Title: Changing Supply Functions in Input/State Stable Systems  
+Author: Eduardo Sontag, Andrew Teel 
+Date: 1999 1  
+Note: IEEE TRANSACTIONS ON AUTOMATIC CONTROL, VOL. XX, NO. Y, MONTH  
+Abstract: We consider the problem of characterizing possible supply functions for a given dissipative nonlinear system, and provide a result that allows some freedom in the modification of such functions. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Hill, D.J., and P. Moylan, </author> <title> "Dissipative dynamical systems: Basic input-output and state properties," </title> <journal> J. Franklin Institute 5(1980): </journal> <pages> 327-357. </pages>
+Reference: [2] <author> Jiang, Z.-P., A. Teel, and L. Praly, </author> <title> "Small-gain theorem for ISS systems and applications," Math of Control, Signals, </title> <booktitle> and Systems 7(1994): </booktitle> <pages> 104-130. </pages>
+Reference: [3] <author> Praly, L., and Z.-P. Jiang, </author> <title> "Stabilization by output feedback for systems with ISS inverse dynamics," </title> <journal> Systems & Control Letters 21(1993): </journal> <pages> 19-34. </pages>
+Reference: [4] <author> Sontag, E.D., </author> <title> "Smooth stabilization implies coprime factorization," </title> <journal> IEEE Transactions on Automatic Control AC-34(1989): </journal> <pages> 435-443. </pages>
+Reference: [5] <author> Sontag, E.D., </author> <title> "State-space and i/o stability for nonlinear systems," Feedback Control, Nonlinear Systems, and Complexity (B.A. </title> <editor> Fran-cis and A.R. Tannenbaum, eds.), </editor> <booktitle> Lecture Notes in Control and Information Sciences, </booktitle> <publisher> Springer-Verlag, </publisher> <address> Berlin, </address> <year> 1995, </year> <pages> pp. 215-235. </pages>
+Reference: [6] <author> Sontag, E.D., and Y. Wang, Sontag, E.D., and Y. Wang, </author> <title> "On characterizations of the input-to-state stability property," Systems and Control Letters 24 (1995): 351-359. (Preliminary version in "Notions equivalent to input-to-state stability," </title> <booktitle> in Proc. IEEE Conf. Decision and Control, </booktitle> <address> Orlando, Dec. 1994, </address> <publisher> IEEE Publications, </publisher> <year> 1994, </year> <pages> pp. 3438-3447.) </pages>
+Reference: [7] <author> Willems, </author> <title> J.C., "Mechanisms for the stability and instability in feedback systems," </title> <booktitle> Proc. IEEE 64 (1976): </booktitle> <pages> 24-35. </pages>
+References-found: 7
+

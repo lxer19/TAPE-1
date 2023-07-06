@@ -1,0 +1,23 @@
+URL: ftp://ftp.cs.toronto.edu/pub/zoubin/tr-96-1.ps.gz
+Refering-URL: http://www.cs.utoronto.ca/~zoubin/
+Root-URL: 
+Email: Email: zoubin@cs.toronto.edu  
+Title: The EM Algorithm for Mixtures of Factor Analyzers  
+Author: Zoubin Ghahramani Geoffrey E. Hinton 
+Address: 6 King's College Road Toronto, Canada M5S 1A4  
+Affiliation: Department of Computer Science University of Toronto  
+Abstract: Technical Report CRG-TR-96-1 May 21, 1996 (revised Feb 27, 1997) Abstract Factor analysis, a statistical method for modeling the covariance structure of high dimensional data using a small number of latent variables, can be extended by allowing different local factor models in different regions of the input space. This results in a model which concurrently performs clustering and dimensionality reduction, and can be thought of as a reduced dimension mixture of Gaussians. We present an exact Expectation-Maximization algorithm for fitting the parameters of this mixture of factor analyzers.
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Bregler, C. and Omohundro, S. M. </author> <year> (1994). </year> <title> Surface learning with applications to lip-reading. </title> <editor> In Cowan, J. D., Tesauro, G., and Alspector, J., editors, </editor> <booktitle> Advances in Neural Information Processing Systems 6, </booktitle> <pages> pages 43-50. </pages> <publisher> Morgan Kaufman Publishers, </publisher> <address> San Francisco, CA. </address>
+Reference: <author> Duda, R. O. and Hart, P. E. </author> <year> (1973). </year> <title> Pattern Classification and Scene Analysis. </title> <publisher> Wiley, </publisher> <address> New York. </address>
+Reference: <author> Everitt, B. S. </author> <year> (1984). </year> <title> An Introduction to Latent Variable Models. </title> <publisher> Chapman and Hall, London. </publisher>
+Reference-contexts: We close with a discussion in section 4. 2 Factor Analysis In maximum likelihood factor analysis (FA), a p-dimensional real-valued data vector x is modeled using a k-dimensional vector of real-valued factors, z, where k is generally much smaller than p <ref> (Everitt, 1984) </ref>. The generative model is given by: x = flz + u; (1) where fl is known as the factor loading matrix (see Figure 1). The factors z are assumed to be N (0; I) distributed (zero-mean independent normals, with unit variance).
+Reference: <author> Hinton, G., Revow, M., and Dayan, P. </author> <year> (1995). </year> <title> Recognizing handwritten digits using mixtures of Linear models. </title> <editor> In Tesauro, G., Touretzky, D., and Leen, T., editors, </editor> <booktitle> Advances in Neural Information Processing Systems 7, </booktitle> <pages> pages 1015-1022. </pages> <publisher> MIT Press, </publisher> <address> Cambridge, MA. </address>
+Reference: <author> Hinton, G. E., Dayan, P., and Revow, M. </author> <year> (1996). </year> <title> Modeling the manifolds of Images of handwritten digits. </title> <note> Submitted for Publication. 7 Kambhatla, </note> <author> N. and Leen, T. K. </author> <year> (1994). </year> <title> Fast non-linear dimension reduction. </title> <editor> In Cowan, J. D., Tesauro, G., and Alspector, J., editors, </editor> <booktitle> Advances in Neural Information Processing Systems 6, </booktitle> <pages> pages 152-159. </pages> <publisher> Morgan Kaufman Publishers, </publisher> <address> San Francisco, CA. </address>
+Reference: <author> Rubin, D. and Thayer, D. </author> <year> (1982). </year> <title> EM algorithms for ML factor analysis. </title> <journal> Psychometrika, </journal> <volume> 47(1) </volume> <pages> 69-76. </pages>
+Reference-contexts: The expectations (2) and (4) form the basis of the EM algorithm for maximum likelihood factor analysis <ref> (see Appendix A and Rubin & Thayer, 1982) </ref>: E-step: Compute E (zjx i ) and E (zz 0 jx i ) for each data point x i , given fl and .
+Reference: <author> Schwenk, H. and Milgram, M. </author> <year> (1995). </year> <title> Transformation invariant autoassociation with application to handwritten character recognition. </title> <editor> In Tesauro, G., Touretzky, D., and Leen, T., editors, </editor> <booktitle> Advances in Neural Information Processing Systems 7, </booktitle> <pages> pages 991-998. </pages> <publisher> MIT Press, </publisher> <address> Cambridge, MA. </address>
+Reference: <author> Sung, K.-K. and Poggio, T. </author> <year> (1994). </year> <title> Example-based learning for view-based human face detection. MIT AI Memo 1521, </title> <note> CBCL Paper 112. 8 </note>
+References-found: 8
+

@@ -1,0 +1,18 @@
+URL: http://stat.stanford.edu/~jhf/ftp/dart.doc.ps.Z
+Refering-URL: http://playfair.stanford.edu/~jhf/
+Root-URL: 
+Email: jhf@stat.stanford.edu  
+Title: DART/HYESS Users Guide  recursive covering approach to local learning  
+Author: Jerome H. Friedman 
+Note: ments the  described in Friedman (1996a).  
+Date: December 20, 1996  
+Address: Stanford University  
+Affiliation: Department of Statistics and Stanford Linear Accelerator Center  
+Abstract:  
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Friedman, J. H. </author> <year> (1994). </year> <title> Flexible metric nearest neighbor classification. </title> <type> Technical Report, </type> <institution> Dept. of Statistics, Stanford University. (ftp://stat.stanford.edu/pub/friedman/flexmet.ps.Z) </institution>
+Reference: [2] <author> Friedman, J. H. </author> <year> (1996a). </year> <title> Local learning based on recursive covering. </title> <type> Technical Report, </type> <institution> Dept. of Statistics, Stanford University. (ftp://stat.stanford.edu/pub/friedman/dart.ps.Z) </institution>
+Reference: [3] <author> Friedman, J. H. </author> <year> (1996b). </year> <title> DART/HYESS Fortran program. </title> <address> (ftp://stat.stanford.edu/pub/friedman/progs/dart.for.Z) 12 </address>
+References-found: 3
+

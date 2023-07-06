@@ -1,0 +1,12 @@
+URL: ftp://ftp.cs.unc.edu/pub/publications/techreports/97-018.ps.Z
+Refering-URL: http://www.cs.unc.edu/~eriksonc/Research/Paper/Index.html
+Root-URL: http://www.cs.unc.edu
+Title: Power Plant Walkthrough: An Integrated System for Massive Model Rendering  
+Author: Daniel Aliaga, Jonathan Cohen, Hansong Zhang, Rui Bastos, Tom Hudson, Carl Erikson TR# - 
+Address: Chapel Hill  
+Affiliation: Computer Science Department University of North Carolina at  
+Abstract: Computer Aided Design (CAD) and architectural models typically contain hundreds of thousands to millions of 3D primitives. In order to display these models at interactive rates, the number of primitives to be rendered must be reduced. This paper presents an experimental system which combines multiple simplification algorithms into a single framework for the rapid display of massive geometric models. We combine textured-box culling, levels-of-detail and occlusion culling into a single runtime system. We tested our framework on a 13 million triangles CAD model of a power plant and achieved highly interactive frame rates (speedups ranging from 50 to 100x) at the expense of some loss of image quality. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

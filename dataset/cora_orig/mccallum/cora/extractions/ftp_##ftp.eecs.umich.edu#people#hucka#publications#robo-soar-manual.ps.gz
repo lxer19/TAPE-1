@@ -1,0 +1,16 @@
+URL: ftp://ftp.eecs.umich.edu/people/hucka/publications/robo-soar-manual.ps.gz
+Refering-URL: http://ai.eecs.umich.edu/people/hucka/publications.html
+Root-URL: http://www.cs.umich.edu
+Title: Robo-Soar and Its Implementation of several modules and communicating processes written in a mixture of
+Author: Michael Hucka Robo-Soar code by: Eric S. Yager, Michael Hucka and Christopher Tuck 
+Note: camera-based vision system, and consists  has also been rewritten in  intends to work with this system. Contents  
+Address: Ann Arbor, MI 48109-2110  
+Affiliation: Artificial Intelligence Laboratory The University of Michigan  
+Date: March 24, 1997 18 51 DRAFT 1  May, 1990  
+Abstract: some experience writing Soar programs. This paper obviously cannot hope to be as detailed as the source code text for Robo-Soar; rather, it should serve as a starting point for anyone who
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> John E. Laird, Eric S. Yager, Michael Hucka, and Christopher Tuck. Robo-soar: </author> <title> An integration of external interaction, planning, and learning using Soar. </title> <note> 1990. In press. </note>
+Reference-contexts: vision system continually watches the workspace, noting whenever blocks move in the scene or the emergency light turns on March 24, 1997 - 18 : 51 DRAFT 5 or off, and updating working memory to reflect any changes. 2.2 The main tasks The following discussion is taken almost entirely from <ref> [1] </ref>. Robo-Soar's main tasks of aligning blocks and monitoring an emergency light are deliberate goals. These are represented as operators in Soar, and Robo-Soar's initial problem space consists of just two operators: align-blocks, and turn-out-light.
+References-found: 1
+

@@ -1,0 +1,21 @@
+URL: ftp://ftp.isi.edu/confctrl/docs/draft-ietf-mmusic-sap-00.ps
+Refering-URL: http://north.east.isi.edu/~mjh/papers.html
+Root-URL: http://www.isi.edu
+Title: Internet Engineering Task Force MMUSIC WG SAP: Session Announcement Protocol Status of SAP the session
+Author: INTERNET-DRAFT Mark Handley 
+Web: ftp.is.co.za (Africa), nic.nordu.net (Europe), munnari.oz.au  
+Note: this Memo This document is an Internet-Draft. Internet-Drafts are working documents of the Internet Engineering Task Force (IETF), its areas, and its working groups. Note that other groups may also distribute working documents as Internet-Drafts. To learn the current status of any Internet-Draft, please check the ``1id-abstracts.txt'' listing contained in the Internet-Drafts Shadow Directories on  (Pacific Rim), ds.internic.net (US East Coast), or ftp.isi.edu (US West Coast). Distribution of this document is unlimited. This document describes the  that should be taken into account by the implementors of session directory tools. It is a companion document to draft ietf-mmusic-sdp.  
+Date: 19th Nov 1996  
+Pubnum: draft-ietf-mmusic-sap-00.ps ISI  
+Abstract: Internet-Drafts are draft documents valid for a maximum of six months and may be updated, replaced, or obsoleted by other documents at any time. It is inappropriate to use Internet-Drafts as reference material or to cite them other than as ``work in progress.'' Abstract This document is a product of the Multiparty Multimedia Session Control (MMUSIC) working group of the Internet Engineering Task Force. Comments are solicited and should be addressed to the working group's mailing list at confctrl@isi.edu and/or the author. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> M.Handley, V. Jacobson, ``SDP: </author> <title> Session Description Protocol'', </title> <type> INTERNET-DRAFT, </type> <month> Nov </month> <year> 1996. </year>
+Reference: [2] <author> D. Mills, </author> <title> ``Network Time Protocol version 2 specification and implementation", </title> <booktitle> RFC1119, 1st Sept 1989. </booktitle>
+Reference-contexts: This field is included after the authentication header, and the digital signature in the authentication header encompasses the timeout so that a session cannot be maliciously deleted by modifying its timeout in an announcing proxy. The value is an unsigned quantity giving the NTP time <ref> [2] </ref> in seconds at which time the session is timed out. It is in network byte order. P: Encryption Padding This bit indicates that the payload was padded prior to encryption. The last byte of the decrypted payload indicates how many padding bytes were added.
+Reference: [3] <author> P. Deutsch, </author> <title> ``GZIP file format specification version 4.3'', </title> <booktitle> RFC 1952, </booktitle> <month> May </month> <year> 1996. </year>
+Reference-contexts: Note the encryption algorithm is not specified in the packet - this is communicated to permitted receivers out-of-band along with the corresponding decryption key. C - Compressed bit This bit indicates that the payload was compressed using the gzip compression algorithm <ref> [3] </ref>. Authentication Length: A 8 bit unsigned quantity giving the number of 32 bit words following the main SAP header that contain authentication data (and padding bytes if present). If it is zero, no authentication header is present.
+Reference: [4] <author> H. Schulzrinne, </author> <title> ``RTP Profile for Audio and Video Conferences with Minimal Control'', </title> <type> RFC 1890, </type> <note> January 1996 Handley [Page 11] </note>
+Reference-contexts: In normal usage, a -decryption-key,keyid,algorithm,mode- tuple will be conveyed in advance to the intended group recipients. This process takes place out-of-band and is not described in this draft. However, if keys are to be communicated as plain text, the use of MD5 as described in <ref> [4] </ref> is recommended to manipulate the key prior to use. Session announcements may then be made to the appropriate session announcement address, encrypted so that they can be decrypted with the group key.
+References-found: 4
+

@@ -1,0 +1,22 @@
+URL: http://www.cs.cmu.edu/~akalai/PAPERS/spie98/spie98.ps.gz
+Refering-URL: http://www.cs.cmu.edu/~akalai/
+Root-URL: 
+Title: Improved Rendering of Parallax Panoramagrams for a Time-Multiplexed Autostereoscopic Display  
+Author: Adam Kalai a,* and Mel Siegel b 
+Keyword: stereoscopy, stereo cameras, 3D-TV, disparity, occlusion, view interpolation  
+Address: Pittsburgh PA 15213  
+Affiliation: a Department of Computer Science and b The Robotics Institute School of Computer Science, Carnegie Mellon University,  
+Abstract: Parallax-barrier panoramagrams (PPs) can present high-quality autostereoscopic images viewable from different perspectives. The limiting factor in constructing PP computer displays is the display resolution. First, we suggest a new PP display based on time multiplexing in addition to the usual space multiplexing; the barriers move horizontally in front of the display plane. The time multiplexing increases the horizontal resolution. In addition, it permits us to use wider barriers than are acceptable for static displays. We then analyze these displays, showing that wide-barrier PPs have advantages relating to depth-resolution and smoothness, and we present a novel algorithm for rendering the images on a computer. 
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> Eichenlaub, Jesse, Hollands, Dan, and Hutchkins, Jamie, </author> <title> A Prototype Flat Panel Hologram-Like Display That Produces Multiple Perspective Views at Full Resolution, Stereoscopic Displays and Virtual Reality Systems II, </title> <booktitle> SPIE Proceedings 2409, </booktitle> <year> 1995, </year> <pages> 102-112. </pages>
+Reference: 2. <author> Dodgson, N. A., and Moore, J. R., </author> <title> Design and Implementation of an Autostereoscopic Camera System, </title> <type> Technical Report No. 398, </type> <institution> University of Cambridge Computer Laboratory, </institution> <month> June, </month> <year> 1996. </year>
+Reference: 3. <author> Okoshi, Takanori, </author> <title> Three-Dimensional Imaging Techniques, </title> <publisher> Academic Press, </publisher> <year> 1976. </year>
+Reference: 4. <author> ONeill, Graeme, </author> <title> Into the Third Dimension, Time Magazine (Australia), </title> <note> October 18th, 1993. 5. </note> <author> [Isono, H., Yasudah, M., Takemori, D., Kanayama, C., Yamada, C., and Chiba, K. </author> <title> 50-inch autostereoscopic full-color 3-D TV display system. </title> <booktitle> Proc. SPIE, </booktitle> <volume> 1457 </volume> <pages> 318-321, </pages> <year> 1991. </year>
+Reference: 6. <author> Love, Shaun, </author> <title> 3D Hardcopy, in Stereo Computer Graphics, </title> <editor> Editor: McAllister, </editor> <publisher> Princeton, Princeton University Press, </publisher> <year> 1993. </year>
+Reference: 7. <author> McKee, S. P. </author> <year> 1983. </year> <title> The spatial requirements for fine stereoacuity. </title> <journal> Vision Res 23 </journal> <pages> 191-98. </pages>
+Reference: 8. <author> Tilton, Homer, </author> <title> Moving-Slit Methods, in Stereo Computer Graphics, </title> <editor> Editor: McAllister, </editor> <publisher> Princeton, Princeton University Press, </publisher> <year> 1993. </year>
+Reference: 9. <editor> Valyus, N. A., Stereoscopy. </editor> <address> London, New York: </address> <publisher> Focal Press, </publisher> <year> 1962. </year>
+Reference: 10. <author> Ware, C., Arthur, K, and Booth, Kellog, </author> <title> Fish Tank Virtual Reality, </title> <address> InterCHI, </address> <year> 1993, </year> <pages> 37-42. </pages>
+References-found: 9
+

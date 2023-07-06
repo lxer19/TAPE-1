@@ -1,0 +1,17 @@
+URL: http://www.cs.toronto.edu/~mackay/ra-its.ps.gz
+Refering-URL: http://www.cs.toronto.edu/~mackay/README.html
+Root-URL: http://www.cs.toronto.edu
+Email: mackay@mrao.cam.ac.uk  
+Title: Decoding Times of Repeat-Accumulate Codes turbo code community the widespread practice when decoding is to
+Author: David J. C. MacKay 
+Note: In the  is reached. Distinguishing  
+Date: October 8, 1998 Draft 3.1  
+Address: Madingley Road, Cambridge, CB3 0HE, United Kingdom.  
+Affiliation: Department of Physics, University of Cambridge Cavendish Laboratory,  
+Abstract: Repeat-Accumulate codes (RA codes) are turbo-like codes with near-Shannon limit performance. This paper shows histograms of decoding times of RA codes. Please forgive the cocky language in which it is written. Using a fixed number of decoding iterations is wasteful of computer time because the number of iterations required to reach a valid state is a random variable with considerable variance. To get really good performance, the `fixed number' crew have to use a large number of iterations; most of their computer time is then actually spent chuntering away in a steady state, in order to eke out a small fraction more decoding successes. It seems a pity not to detect whether a valid state has been reached because no distinction is then made between the two possible failure modes of a sum-product decoder: detected block errors and undetected errors. A detected error occurs when the decoder fails to reach a valid state before a maximum number of iterations is reached. An undetected error occurs when the decoder finds a valid state that corresponds to a codeword different from the one transmitted. I have ridden this hobby horse for some time, but it seems only Brendan Frey has implemented a turbo decoder that detects when it can stop. This week, I implemented RA codes and | it goes without saying | my decoder halts when a valid state is reached. This paper shows some results primarily to emphasize that it is possible to decode RA codes in this way. These results also give an indication of the potential computational savings for those who simulate RA codes the old-fashioned way, if they will but see the light. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> D. Divsalar, H. Jin, and R. J. </author> <title> McEliece. Coding theorems for `turbo-like' codes. </title> <year> 1998. </year>
+
+References-found: 1
+

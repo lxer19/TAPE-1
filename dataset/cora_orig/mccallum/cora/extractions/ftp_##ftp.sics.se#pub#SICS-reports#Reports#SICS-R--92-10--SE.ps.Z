@@ -1,0 +1,27 @@
+URL: ftp://ftp.sics.se/pub/SICS-reports/Reports/SICS-R--92-10--SE.ps.Z
+Refering-URL: http://www.sics.se/libindex.html
+Root-URL: 
+Title: SICS T92:10 Using SICStus Objects in the Design of Graphical User Interfaces  
+Author: Thomas Sjland 
+Date: August 1992  
+Affiliation: SICS  
+Abstract: SICS Technical Report ISSN 1100-3154 Swedish Institute of Computer Science Box 1263, S-164 28 Kista, SWEDEN 
+Abstract-found: 1
+Intro-found: 0
+Reference: [ALPES90] <author> J.A.S. Allegria, A. Natali, N. Preston, C. Ruggieri, </author> <title> ALPES Final Report, Advanced Logic Programming Environments, </title> <institution> (ESPRIT P973), CRIL Frankrike, DEIS, Univ. of Bologna, Italy, ENIDATA, Italy, LRI, Univ. of Paris-Orly och LSI, Univ. of Toulouse, France, Techn. Univ. of Munich, Germany, Universidade Nova de Lisboa, Portugal, </institution> <year> 1990 </year>
+Reference: [AlAnFlFrNiSu91] <author> J. Almgren, S. Andersson, L. Flood, C. Frisk, H. Nilsson, J. Sundberg, </author> <title> SICStus Prolog Library Manual, </title> <type> SICS technical report T91:12B, </type> <month> September </month> <year> 1991 </year>
+Reference: [CaWiJAnSAnBoNiSj91] <author> M. Carlsson, J. Widn, J. Andersson, S. Andersson, K. Boortz, H. Nilsson, T. Sjland, </author> <note> SICStus Prolog User's Manual , SICS technical report T91:11B, </note> <month> September </month> <year> 1991 </year>
+Reference: [Haridi91] <author> S. Haridi, </author> <title> SICS, Expert Systems for Improved Crop Management, report for the UN, </title> <address> Egy/88/024, </address> <month> September </month> <year> 1991 </year>
+Reference: [Fromherz91] <author> M. P. J. Fromherz, </author> <title> Explore/L An ObjectOriented Logic Language, </title> <institution> Institut fr Informatik der Universitt Zrich, Nr 91.06, </institution> <month> June </month> <year> 1991 </year>
+Reference: [KIWIS91] <author> M. Ahlsn, A D'Atri, P Johannesson, E. Laenens, N. Leone, P. Rullo, P. Rossi, F. Staes, L. Tarantino, L. Van Beirensdonck, F. van Cadsand, W. Van Santvliet, J. Vanslembrouck, B. Verdonk, D. Vermeir (ed.), </author> <title> The KIWIS Knowledge Base Management System, </title> <type> Report 91-23, </type> <institution> Universitaire Instelling Antwerpen, Belgium, </institution> <month> March </month> <year> 1991 </year>
+Reference: [McCabe89] <author> F. G. McCabe, </author> <title> Logic and Objects, </title> <type> Ph.D. thesis, </type> <institution> Dept. of Computing, Imperial College of Science and Technology, </institution> <year> 1989 </year>
+Reference: [Moss90] <author> C. Moss, </author> <title> An Introduction to Prolog++, </title> <type> Chris Moss, </type> <institution> Res. </institution> <type> rep. </type> <institution> DOC 90/10 Imperial College of Science, Technology and Medicine, </institution> <address> London, </address> <year> 1990 </year>
+Reference: [Sahlin90] <author> D. Sahlin, </author> <title> Jmfrelse mellan Ada och C++, SICS, </title> <booktitle> 1990, (in Swedish) </booktitle>
+Reference: [Sjland92] <author> T. Sjland, </author> <title> Objektorientering i SICStus Prolog, </title> <type> SICS technical report T92:01, </type> <note> January 1992 (in Swedish) 34 </note>
+Reference: [Shriver87] <editor> Eds. B.Shriver and P. Wegner, </editor> <booktitle> Research Directions in ObjectOriented Programming, </booktitle> <publisher> MIT Press 1987 </publisher>
+Reference: [Vasey, Spencer et.al.90] <author> P. Vasey, C. Spencer, D. Westwood, A. Westwood, </author> <title> Prolog++, version 1.0 Programming Reference Manual, </title> <publisher> Logic Programming Associates Ltd., </publisher> <address> London, England, </address> <year> 1990 </year>
+Reference: [Vermeir et.al.89] <institution> E Laenens, Philips Applications & Software Services, Eindhoven, </institution> <address> The Netherlands, D. </address> <institution> Vermeir, B. Verdonk, Dept. of Computer Science, Univ. of Antwerp, Belgien, </institution> <month> LOCO, </month> <title> a Logic-based Language for Complex Objects. </title> <booktitle> I Proc. of ESPRIT'89 Technical Conf., Project 2424, </booktitle> <month> pp.604-616 , </month> <year> 1989 </year>
+Reference: [Vermeir et.al.91a] <author> D. </author> <type> Vermeir, </type> <institution> Dept. of Mathematics and Computer Science, Univ. of Antwerp, </institution> <note> A simple interface from LOCO to X-Windows, report from ESPRIT project 2424, </note> <year> 1991 </year>
+Reference: [Vermeir et.al.91b] <author> E. Laenens, D. </author> <type> Vermeir, </type> <institution> Univ. of Antwerp, </institution> <note> Belgien, </note> <author> N. Leone, P. Rullo, </author> <title> CRAI Italien, Efficient query evaluation in a language combining object-oriented and logic programming, report from ESPRIT project 2424, </title> <year> 1991 </year>
+References-found: 15
+

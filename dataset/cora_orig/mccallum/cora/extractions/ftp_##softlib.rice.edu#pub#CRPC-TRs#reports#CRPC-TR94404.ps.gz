@@ -1,0 +1,40 @@
+URL: ftp://softlib.rice.edu/pub/CRPC-TRs/reports/CRPC-TR94404.ps.gz
+Refering-URL: http://www.crpc.rice.edu/CRPC/softlib/TRs_online.html
+Root-URL: 
+Title: t AD .0004377 .0005021 .0005797 .0005536 .0001747 .0002190 relative work ratio (t AD /t DD)
+Phone: 1 3 4 5 8 16 NIV 3 3 3 3 2 3  4056 2948 4312 5300 24610 5604 DD iters 1000 1000 850 1000 650 850  AD iters 575 710 425 425 650 850  NIV 1 2 4 6 8 12 48  174 261 435 609 783 1131 4263  
+Author: t DD . . . . . . (t AD /t DD 
+Date: 254 360 593 2034 2230 2298 3846  
+Web: iterations.  
+Address: (secs) 10376 9994 10156 9700 35430 10130  
+Affiliation: AD time  
+Note: Experiment  DD time (secs)  from 1 to 48. Flow solver was executed for 50  DD time  AD time  
+Abstract: 14 Table 2: Timing Results for 6 of 17 experimental studies 
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> J.S-. Sobieski, </author> <title> Multidisciplinary Optimization for Engineering Systems: Achievements and Potential, </title> <type> NASA TM 101566, </type> <institution> NASA, </institution> <month> Mar. </month> <year> 1989. </year>
+Reference: 2. <author> S. Dollyhigh, J.S-. Sobieski, </author> <title> Recent Experience with Multidisciplinary Analysis and Optimization in Advanced Aircraft Design, </title> <booktitle> In Third Air Force/NASA Symposium on Recent Advances in Multidisciplinary Analysis and Optimization. A Collection of Technical Papers, </booktitle> <address> San Francisco, CA, </address> <pages> pp. 404411. </pages> <month> Sept. </month> <year> 1990. </year>
+Reference: 3. <author> P.G. Coen, </author> <title> Recent Results from the High-speed Airframe Integration Research Project, </title> <type> AIAA Paper 92 4717, </type> <month> Sept. </month> <year> 1992. </year>
+Reference: 4. <author> P.G. Coen, J.S-. Sobieski and S. Dollyhigh, </author> <title> Preliminary Results From the High-Speed Airframe Integrated Research Project, </title> <booktitle> AIAA 921004, </booktitle> <month> Feb. </month> <year> 1992. </year>
+Reference: 5. <author> J. Sobieszczanski-Sobieski, J.-F. Barthelemy and K.M. Riley, </author> <title> Sensitivity of Optimum Solutions to Problem Parameters, </title> <journal> AIAA Journal, </journal> <volume> Vol. 20, No. 9, </volume> <pages> pp. 1291 1299, </pages> <month> Sep. </month> <year> 1982. </year>
+Reference: 6. <author> J.-F. Barthelemy, J. Sobieszczanski-Sobieski, </author> <title> Optimum Sensitivity Derivatives of Objective Functions in Nonlinear Programming, </title> <journal> AIAA Journal, </journal> <volume> Vol. 21, No. 6, </volume> <pages> pp. 913915, </pages> <month> June </month> <year> 1983. </year>
+Reference: 7. <author> L. Green, C. Bischof, A. Carle, A. Griewank, K. Haigler and P. Newman, </author> <title> Automatic Differentiation of Advanced CFD Codes With Respect to Wing Geometry Parameters for MDO, </title> <booktitle> Abstracts from Second U.S. National Congress on Computation Mechanics, </booktitle> <address> Wash-ington, D.C., p. 136, </address> <month> August 1618, </month> <year> 1993. </year>
+Reference: 8. <author> C. Bischof, G. Corliss, L. Green, A. Griewank, K. Haigler and P. Newman, </author> <title> Automatic Differentiation of Advanced CFD Codes for Multidisciplinary Design, </title> <booktitle> Computing Systems in Engineering 3(6), 1993. Also presented at the Symposium on High-Performance Computing for Flight Vehicles, </booktitle> <address> Arlington, VA, </address> <month> Dec. </month> <pages> 7 9, </pages> <year> 1992. </year>
+Reference: 9. <author> L. Green, P. Newman and K. Haigler, </author> <title> Sensitivity Derivatives for Advanced CFD Algorithm and Viscous Modeling Parameters via Automatic Differentiation, </title> <booktitle> AIAA 933321, </booktitle> <year> 1993. </year>
+Reference: 10. <author> V.M. Korivi, A.C. Taylor III, P.A. Newman, G.J.-W. Hou and H.E. Jones, </author> <title> An Approximately-Factored Incremental Strategy for Calculating Consistent Discrete Aerodynamic Sensitivity Derivatives, </title> <booktitle> In Fourth AIAA/USAF/NASA/OAI Symposium on Multidisciplinary Analysis and Optimization, </booktitle> <address> Cleveland, OH, </address> <booktitle> AIAA 924746CP, </booktitle> <pages> pp. 465478, </pages> <month> Sept. </month> <year> 1992. </year>
+Reference: 11. <author> P.A. Newman, G.J.-W. Hou, H.E. Jones, A.C. Taylor III-and V.M. Korivi, </author> <title> Observations on Computational Methodologies For Use In Large-Scale Gradient-Based Multidisciplinary Design, </title> <booktitle> In Fourth AIAA/USAF/ NASA/OAI Symposium on Multidisciplinary Analysis and Optimization, </booktitle> <address> Cleveland, OH, </address> <booktitle> AIAA 924753CP, </booktitle> <pages> pp. 531542, </pages> <month> Sept. </month> <year> 1992. </year>
+Reference: 12. <author> L.B. Rall, </author> <title> Automatic Differentiation: Techniques and Applications, </title> <booktitle> Volume 120 of Lecture Notes in Computer Science, </booktitle> <publisher> Springer Verlag, </publisher> <address> Berlin, Germany, </address> <year> 1981. </year>
+Reference: 13. <author> C.H. Bischof, A. Carle, G.F. Corliss, A. Griewank and P. Hovland, ADIFOR: </author> <title> Generating Derivative Codes from Fortran Programs, </title> <journal> Scientific Programming, </journal> <volume> 1(1), </volume> <pages> pp. 1 29, </pages> <year> 1992. </year>
+Reference: 14. <author> C.H. Bischof, A. Carle, G.F. Corliss and A. Griewank, ADIFOR: </author> <title> Automatic Differentiation in a Source Translator Environment, </title> <editor> In P. Wang, ed., </editor> <booktitle> International Symposium on Symbolic and Algebraic Computing 92, ACM, </booktitle> <address> Washington, D.C., </address> <pages> pp. 294302, </pages> <year> 1992. </year>
+Reference: 15. <author> C.H. Bischof and A. Griewank, ADIFOR: </author> <title> A Fortran System for Portable Automatic Differentiation, </title> <booktitle> in Fourth AIAA/USAF/NASA/OAI Symposium on Multidisciplinary Optimization, Cleveland, Ohio, AIAA 92 4744CP, </booktitle> <pages> pp. 433441, </pages> <month> Sept. </month> <year> 1992. </year>
+Reference: 16. <author> A. Griewank, </author> <title> On Automatic Differentiation, </title> <editor> In M. Iri and K. Tanabe, eds., </editor> <booktitle> Mathematical Programming: Recent Developments and Applications, </booktitle> <publisher> Kluwer Academic Publishers, </publisher> <address> Boston, MA, </address> <pages> pp. 83108, </pages> <year> 1989. </year>
+
+
+
+
+
+
+
+
+References-found: 16
+

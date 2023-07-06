@@ -1,0 +1,30 @@
+URL: ftp://whitechapel.media.mit.edu/pub/tech-reports/TR-305.ps.Z
+Refering-URL: http://www-white.media.mit.edu/cgi-bin/tr_pagemaker/
+Root-URL: http://www.media.mit.edu
+Email: E-mail: kbrussel@media.mit.edu, thad@media.mit.edu, sandy@media.mit.edu  
+Title: Unencumbered Virtual Environments  
+Author: Kenneth Russell Thad Starner Alex Pentland 
+Keyword: Doom.  
+Address: Room E15-383, 20 Ames Street, Cambridge MA 02139, USA  
+Affiliation: The Media Laboratory, Massachusetts Institute of Technology  
+Pubnum: Perceptual Computing Section,  
+Abstract: Bulky head-mounted displays, data gloves, and severely limited movement have become synonymous with virtual environments. In this paper we describe an interactive virtual environment (IVE) that uses only a large field of view screen and passive sensors, in this case a video camera and microphone. Special clothing and modifications to the environment are not necessary (i.e. chroma-key backdrops are not required). Such a system has many advantages: ease of access when entering and exiting the environment, more active participation, and social context. These attributes are demonstrated in SURVIVE, a multi-player gesture-driven adaption of id Software's game 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Aukstakalnis, S. &Blatner, D. </author> <title> Silicon Mirage. </title> <publisher> Peach-pit Press, </publisher> <year> 1992. </year>
+Reference-contexts: In order to allow a user to navigate a three dimensional space, most commercial systems encumber the user with head-mounted displays, electromagnetic or sonic position sensors, gloves, and/or body suits <ref> [ 1 ] </ref> . While such systems can be extremely accurate, they limit the freedom of the user due to the tethers associated with the sensors and displays. Furthermore, the user must don or remove the equipment each time he wants to enter or exit the environment.
+Reference: [2] <editor> Blumberg, B., et. al, </editor> <booktitle> in Proc. Conference on Simulation and Adaptive Behavior (SAB-94), </booktitle> <address> Brighton, U.K., </address> <year> 1994 </year>
+Reference: [3] <author> Darrell T., Maes P., Blumberg B., and Pentland A. </author> <title> A Novel Environment for Situated Vision and Behavior, </title> <booktitle> IEEE Workshop on Visual Behaviors, CVPR conference Seattle, </booktitle> <month> June </month> <year> 1994 </year>
+Reference-contexts: These systems often modify the environment with specially colored or illuminated backdrops, require the user to wear special clothes, or involve special equipment like range finders or active floor tiles [ 6; 7; 8 ] . In the tradition of previous IVE's <ref> [ 3; 9 ] </ref> , we demonstrate a virtual environment, SURVIVE (Simulated Urban Recreational Violence Interactive Virtual Environment), which tracks the user in "three dimensions" without modifying the user or the physical environment and uses only off-the-shelf computers, a video camera, a microphone, and a video projector. sensing subsystem (IVE).
+Reference: [4] <author> Friedmann M., Starner T., and Pentland A. </author> <title> Device Synchronization using an Optimal Linear Filter, </title> <booktitle> ACM Conference on Interactive 3D Graphics, </booktitle> <year> 1992. </year>
+Reference: [5] <author> Kalman, R. E. & Bucy, R. S. </author> <title> New results in linear filtering and prediction theory. </title> <journal> In Transaction ASME (Journal of basic engineering), </journal> <volume> 83D, </volume> <pages> 95-108. </pages> <year> (1961). </year>
+Reference: [6] <author> Krueger M.W., </author> <title> Artificial Reality II, </title> <publisher> Addison Wesley, </publisher> <year> 1990. </year>
+Reference-contexts: Some systems avoid this problem by passively or actively "watching" the user. These systems often modify the environment with specially colored or illuminated backdrops, require the user to wear special clothes, or involve special equipment like range finders or active floor tiles <ref> [ 6; 7; 8 ] </ref> .
+Reference: [7] <author> Krueger M.W., </author> <title> Small Planet, </title> <booktitle> SIGGRAPH-93 Visual Proceedings, Machine Culture, ACM SIGGRAPH, </booktitle> <pages> pp. 141, </pages> <year> 1993. </year>
+Reference-contexts: Some systems avoid this problem by passively or actively "watching" the user. These systems often modify the environment with specially colored or illuminated backdrops, require the user to wear special clothes, or involve special equipment like range finders or active floor tiles <ref> [ 6; 7; 8 ] </ref> .
+Reference: [8] <author> Vincent V.J., Mandala: </author> <title> Virtual Village, </title> <booktitle> SIGGRAPH-93 Visual Proceedings, Tomorrow's Realities, ACM SIGGRAPH 1993, </booktitle> <pages> pp. 207, </pages> <year> 1993. </year>
+Reference-contexts: Some systems avoid this problem by passively or actively "watching" the user. These systems often modify the environment with specially colored or illuminated backdrops, require the user to wear special clothes, or involve special equipment like range finders or active floor tiles <ref> [ 6; 7; 8 ] </ref> .
+Reference: [9] <editor> Maes, P., et al., </editor> <title> Alive: An Artificial LIfe Interactive Video Environment, </title> <booktitle> SIGGRAPH Visual Proceedings, </booktitle> <address> Orlando, </address> <year> 1993. </year>
+Reference-contexts: These systems often modify the environment with specially colored or illuminated backdrops, require the user to wear special clothes, or involve special equipment like range finders or active floor tiles [ 6; 7; 8 ] . In the tradition of previous IVE's <ref> [ 3; 9 ] </ref> , we demonstrate a virtual environment, SURVIVE (Simulated Urban Recreational Violence Interactive Virtual Environment), which tracks the user in "three dimensions" without modifying the user or the physical environment and uses only off-the-shelf computers, a video camera, a microphone, and a video projector. sensing subsystem (IVE).
+References-found: 9
+

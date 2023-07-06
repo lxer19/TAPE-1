@@ -1,0 +1,13 @@
+URL: ftp://kant.irmkant.rm.cnr.it/pub/econets/miglino.sim-real.ps.Z
+Refering-URL: http://kant.irmkant.rm.cnr.it/public.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Email: email: orazio@caio.irmkant.rm.cnr.it  email: henrik@caio.irmkant.rm.cnr.it  email: stefano@kant.irmkant.rm.cnr.it  
+Title: Evolving Mobile Robots in Simulated and Real Environments  
+Author: Orazio Miglino*, Henrik Hautop Lund**, Stefano Nolfi*** 
+Address: Palermo, Italy  Denmark  Rome, Italy  
+Affiliation: *Department of Psychology, University of  **Department of Computer Science, Aarhus University,  ***Institute of Psychology, National Research Council,  
+Abstract: The problem of the validity of simulation is particularly relevant for methodologies that use machine learning techniques to develop control systems for autonomous robots, like, for instance, the Artificial Life approach named Evolutionary Robotics. In fact, despite that it has been demonstrated that training or evolving robots in the real environment is possible, the number of trials needed to test the system discourage the use of physical robots during the training period. By evolving neural controllers for a Khepera robot in computer simulations and then transferring the obtained agents in the real environment we will show that: (a) an accurate model of a particular robot-environment dynamics can be built by sampling the real world through the sensors and the actuators of the robot; (b) the performance gap between the obtained behaviors in simulated and real environment may be significantly reduced by introducing a "conservative" form of noise; (c) if a decrease in performance is observed when the system is transferred in the real environment, successful and robust results can be obtained by continuing the evolutionary process in the real environment for few generations. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

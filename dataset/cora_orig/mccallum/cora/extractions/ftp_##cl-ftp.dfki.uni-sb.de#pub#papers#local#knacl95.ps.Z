@@ -1,0 +1,24 @@
+URL: ftp://cl-ftp.dfki.uni-sb.de/pub/papers/local/knacl95.ps.Z
+Refering-URL: http://cl-www.dfki.uni-sb.de/cl/papers/cl-abstracts.html
+Root-URL: 
+Email: kasper@ling.ohio-state.edu  fkieferjnetterg@dfki.uni-sb.de  vijay@cis.udel.edu  
+Title: Compilation of HPSG to TAG  
+Author: Robert Kasper Bernd Kiefer Klaus Netter K. Vijay-Shanker 
+Address: 222 Oxley Hall Columbus, OH 43210 U.S.A.  Stuhlsatzenhausweg 3 66123 Saarbrucken Germany  19716 U.S.A  
+Affiliation: Dept. of Linguistics Ohio State University  Deutsches Forschungszentrum fur Kunstliche Intelligenz, GmbH  CIS Dept. University of Delaware Newark, DE  
+Date: 1995  
+Note: In: Proceedings of the 33rd Annual Meeting of the Association for Computational Linguistics, pp. 92-99, Cambridge, Massachusetts,  
+Abstract: We present an implemented compilation algorithm that translates HPSG into lex-icalized feature-based TAG, relating concepts of the two theories. While HPSG has a more elaborated principle-based theory of possible phrase structures, TAG provides the means to represent lexicalized structures more explicitly. Our objectives are met by giving clear definitions that determine the projection of structures from the lexicon, and identify "maximal" pro jections, auxiliary trees and foot nodes.
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Robert Kasper. </author> <title> On Compiling Head Driven Phrase Structure Grammar into Lexicalized Tree Adjoining Grammar. </title> <booktitle> In Proceedings of the 2 nd Workshop on TAGs, </booktitle> <address> Philadelphia, </address> <year> 1992. </year>
+Reference: <author> A. K. Joshi, K. Vijay-Shanker and D. Weir. </author> <title> The convergence of mildly context-sensitive grammatical formalisms. </title> <editor> In P. Sells, S. Shieber, and T. Wasow, eds., </editor> <booktitle> Foundational Issues in Natural Language Processing. </booktitle> <publisher> MIT Press, </publisher> <year> 1991. </year>
+Reference: <author> Carl Pollard and Ivan Sag. </author> <title> Head Driven Phrase Structure Grammar. </title> <publisher> CSLI, Stanford & University of Chica-go Press, </publisher> <year> 1994. </year>
+Reference: <author> O. Rambow. </author> <title> Formal and Computational Aspects of Natural Language Syntax. </title> <type> Ph.D. thesis. </type> <institution> Univ. of Philadelphia. </institution> <address> Philadelphia, </address> <year> 1994. </year>
+Reference: <author> O. Rambow, K. Vijay-Shanker and D. Weir. </author> <title> D-Tree Grammars. In: </title> <publisher> ACL-95. </publisher>
+Reference: <author> Y. Schabes, A. Abeille, and A. K. Joshi. </author> <title> Parsing Strategies with `Lexicalized' Grammars: Application to Tree Adjoining Grammars. </title> <journal> COLING-88, </journal> <pages> pp. 578-583. </pages>
+Reference: <author> Y. Schabes, and A. K. Joshi. </author> <title> Parsing with lexicalized tree adjoining grammar. </title> <editor> In M. Tomita, ed., </editor> <booktitle> Current Issues in Parsing Technologies. </booktitle> <publisher> Kluwer Academic Publishers, </publisher> <year> 1990. </year>
+Reference: <author> K. Vijay-Shanker. </author> <title> Using Descriptions of Trees in a TAG. </title> <journal> Computational Linguistics, </journal> <volume> 18(4) </volume> <pages> 481-517, </pages> <year> 1992. </year>
+Reference: <author> K. Vijay-Shanker and A. K. Joshi. </author> <title> Feature Structure Based Tree Adjoining Grammars. In: </title> <journal> COLING-88. </journal> <volume> 99 </volume>
+References-found: 9
+

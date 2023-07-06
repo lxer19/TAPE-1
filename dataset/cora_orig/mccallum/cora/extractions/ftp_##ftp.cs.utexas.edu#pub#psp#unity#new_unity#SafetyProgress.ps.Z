@@ -1,0 +1,17 @@
+URL: ftp://ftp.cs.utexas.edu/pub/psp/unity/new_unity/SafetyProgress.ps.Z
+Refering-URL: http://www.cs.utexas.edu/users/psp/newunity.html
+Root-URL: 
+Title: A Logic for Concurrent Programming  
+Author: Jayadev Misra 
+Keyword: Overview  
+Note: This material is based in part upon work supported by the Texas Advanced Research Program under Grant No. 003658-219 and by the National Science Foundation Award CCR-9111912.  
+Address: Austin, Texas 78712  
+Affiliation: Department of Computer Sciences The University of Texas at Austin  
+Email: misra@cs.utexas.edu  
+Phone: (512) 471-9547  
+Date: April 12, 1994  
+Abstract: The UNITY-logic, a fragment of linear temporal logic, was introduced in [5]. In this paper, we describe several recent modifications to this logic. In particular, the operator co replaces unless, for expressing safety properties and, transient predicates form the basis for the progress properties. Our experience suggests that these modifications simplify both the theory and practice of this logic. The UNITY-logic, a fragment of linear temporal logic, was introduced in [5]. Experience gained in applying this logic in practice has led us to modify some of its operators. In particular, we had adopted unless as the primary operator for expressing safety properties, for many years. We suggest a new operator, co, to take its place. Our experience, see, Staskauskas([42],[41],[43]), suggests that the simplicity of formal manipulations is at least as important as the expressive power of an operator. Theoretically, unless and co are equally expressive, while the latter has more pleasing derived rules that allow simpler manipulations. Similarly, we suggest transient predicate as the basis for a theory of progress, replacing ensures as the basic operator. This paper is in two parts. We study safety properties in part I of this paper. Lamport gives the following informal meaning for safety: "bad things do not happen". Roughly, a safety property constrains the permitted actions-and, therefore, the permitted state changes-of a program. For instance, requiring that an integer x be nondecreasing in a program prevents any action of the program from decreasing x. Clearly, an action that causes no state change-a skip-implements any safety property. We will be particularly interested in several special kinds of safety properties, such as invariant, that a predicate remain true at all times during a program's execution; stable predicate, that a predicate remain true once it becomes true, and constant, that an expression never change value. A safety property allows us to state that the program does no harm. Such properties impose an "upper bound" on the set of allowable execution sequences of the program. A trivial program such as skip, for instance, satisfies all the safety properties, because it includes a single execution sequence. Several formal aspects of program design and refinement are seriously affected by the absence of a "lower bound," that the program is required to have certain execution sequences. Thus, safety properties alone are insufficient as a basis of program design. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

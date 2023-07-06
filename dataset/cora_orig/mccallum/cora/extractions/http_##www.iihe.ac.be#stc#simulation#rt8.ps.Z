@@ -1,0 +1,14 @@
+URL: http://www.iihe.ac.be/stc/simulation/rt8.ps.Z
+Refering-URL: http://www.iihe.ac.be/stc/simulation/
+Root-URL: http://www.iihe.ac.be
+Title: OSISIM Project How to write a DBM using the QNAP2 language  
+Author: Atika COHEN and Radouane MRABET 
+Date: December 15, 1993  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <institution> Atika Cohen and Radouane Mrabet Internal Structure for Basic Models Technical Repport, IIHE/HELIOS-B-115-92, </institution> <month> October </month> <year> 1992 </year>
+Reference-contexts: Each basic model implements uniform and well-defined sets of functions, while having clearly specified interfaces. Because models can be developed by different modelers, it is necessary to follow the same methodology. In a previous study <ref> [1] </ref>, we defined a unified structure of basic models which are called Detailed Basic Models (DBMs), without any implementation strategy in mind. <p> We recommend this second method to all DBMs modelers. 3. A Detailed Basic Model (DBM) 3.1. Structure of a DBM Let us remember that the internal structure of DBM consists of three blocks : the Behavior Engine block (BE), the interfaces block, and the measurements block <ref> [1] </ref>. In the Behavior Engine block (BE) we find the modelisation of the behavior of a DBM which is, in terms of QNAP2, an open network of stations. The number of stations and the topology of the network depend on what is modeled and how it is modeled.
+Reference: [2] <institution> Atika Cohen and Radouane Mrabet AMS : Atelier for modelling and simulation Technical Repport, IIHE/HELIOS-B-113-92, </institution> <month> August </month> <year> 1992 </year>
+
+References-found: 2
+

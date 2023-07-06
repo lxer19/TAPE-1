@@ -1,0 +1,32 @@
+URL: ftp://ftp.cs.man.ac.uk/pub/robotics/salford.ps.Z
+Refering-URL: http://www.cs.man.ac.uk/robotics/index.html
+Root-URL: http://www.cs.man.ac.uk
+Email: u.nehmzow@cs.man.ac.uk  
+Title: Applications of Robot Training: Clearing, Cleaning, Surveillance Robot training, as opposed to robot programming or
+Author: Ulrich Nehmzow 
+Address: Manchester M13 9PL  
+Affiliation: Department of Computer Science University of Manchester  
+Abstract-found: 0
+Intro-found: 1
+Reference: [Colombetti & Dorigo 93] <author> M. Colombetti & M. Dorigo, </author> <title> Robot Shaping: Developing Situated Agents through Learning, </title> <institution> International Computer Science Institute, Berkely, </institution> <type> Technical Report no. 40, </type> <month> April </month> <year> 1993. </year>
+Reference: [Critchlow 85] <author> Arthur Critchlow, </author> <title> Introduction to Robotics, </title> <publisher> Macmillan 1985. </publisher>
+Reference: [Kaelbling 92] <author> Leslie Kaelbling, </author> <title> An Adaptable Mobile Robot, </title> <editor> in F. Varela and P. Bourgine (eds), </editor> <title> Toward a Practice of Autonomous Systems, </title> <publisher> MIT Press, </publisher> <year> 1992. </year>
+Reference: [Kaelbling 90] <author> Leslie Kaelbling, </author> <title> Learning in Embedded Systems, </title> <type> PhD thesis, </type> <institution> Stanford University, </institution> <year> 1990. </year>
+Reference: [Kohonen 88] <author> Teuvo Kohonen, </author> <title> Self Organization and Associative Memory, </title> <publisher> Springer Verlag, </publisher> <address> Berlin, Heidel-berg, New York, 2nd edition, </address> <year> 1988. </year>
+Reference: [Minsky & Papert 88] <author> M. Minsky and S. Papert, </author> <title> Perceptrons, </title> <publisher> MIT Press, </publisher> <year> 1988. </year>
+Reference: [Maes & Brooks 90] <author> Pattie Maes and Rodney Brooks, </author> <title> Learning to Coordinate Behaviours, </title> <booktitle> Proc. AAAI 1990. </booktitle>
+Reference: [Mahadevan & Connell 91] <author> Sridhar Mahadevan and Jonathan Connell, </author> <title> Automatic Programming of Behaviour-Based Robots using Reinforcement Learning, </title> <note> Proc. AAAI 1991. </note> <author> [Martin & Nehmzow 95] Paul Martin and Ulrich Nehmzow, </author> <title> "Programming" by Teaching: Neural Network Control in the Manchester Mobile Robot, </title> <booktitle> Intern. Conf. "Intelligent Autonomous Vehicles", </booktitle> <address> Helsinki, </address> <month> June </month> <year> 1995. </year>
+Reference: [McClelland & Rumelhart 88] <author> J. McClelland and D. Rumelhart, </author> <title> Explorations in Parallel Distributed Processing, </title> <publisher> MIT Press 1988. </publisher>
+Reference: [Nehmzow 91] <author> Ulrich Nehmzow, </author> <title> Experiments in Competence Acquisition for Autonomous Mobile Robots, </title> <type> PhD thesis, </type> <institution> Edinburgh University, </institution> <year> 1991. </year>
+Reference: [Nehmzow & McGonigle 94] <author> Ulrich Nehmzow & Bren-dan McGonigle, </author> <title> Achieving Rapid Adaptations in Robots by Means of External Tuition, </title> <editor> in D. CLiff, P. Husbands, J.A. Meyer and S. Wilson (eds.), </editor> <booktitle> From Animals to Animats 3, </booktitle> <publisher> MIT Press 1994. </publisher>
+Reference: [Nehmzow 94] <author> U. Nehmzow, </author> <title> Acquisition of Smooth, Continuous Obstacle Avoidance in Mobile Robots, </title> <editor> in: H. Cruse, H. Ritter and J. Dean (eds.). </editor> <booktitle> Proc. Workshop "Prerational Intelligence in Robotics", </booktitle> <institution> ZIF, University of Bielefeld, </institution> <year> 1994. </year>
+Reference-contexts: This generates continous, smooth steering and translational velocities, depending on the strength of the association between current sensory stimulus and motor response (see also <ref> [Nehmzow 94] </ref>): the robot moves fast in situations which have been trained frequently and therefore have strong associations between sensing and c c c c Q Q Q T T T T T T A A A A A e e H H H J J J J J J T
+Reference: [Nehmzow 95] <author> U. Nehmzow, </author> <title> Flexible Control of Mobile Robots through Autonomous Competence Acquisition, </title> <booktitle> Measurement and Control, </booktitle> <volume> Vol. 28, </volume> <month> March </month> <year> 1995. </year>
+Reference: [Shepanski & Macy 87] <author> J.F. Shepanski and S.A. Macy, </author> <title> Manual Training Techniques of Autonomous Systems Based on Artificial Neural Networks, </title> <booktitle> IEEE 1st International Conference on Neural Networks, </booktitle> <address> San Diego 1987. </address>
+Reference-contexts: For controller architectures employing Q-learning, several thousand learning steps are not uncommon ([Kaelbling 92, Sutton 91]). Some researchers abandon experiments with robots for this reason, and resort to simulation ([Kaelbling 90]. Similarly, Multilayer Perceptrons | albeit having been used in robot control related applications (see, for instance, <ref> [Shepanski & Macy 87] </ref>) | show slow convergence rate and typically require several several hundred learning steps. The Pattern Associator, the associative memory used here, learns extremely fast; within a few learning steps meaningful associations between inputs and outputs develop.
+Reference: [Schmidt 95] <author> Dietmar Schmidt, </author> <title> Roboter als Werkzeuge fur die Werkstatt, </title> <publisher> Spektrum der Wissenschaft, </publisher> <month> March </month> <year> 1995, </year> <pages> pp. 96-100. </pages>
+Reference-contexts: Frequent re-programming of robots is time-consuming (a matter of several hours for small changes of existing code, to several weeks for development of new code in a teach-in robot | <ref> [Schmidt 95] </ref>) and prone to error. For low volume and infrequent tasks other ways of achieving the desired robot behaviour have to be sought.
+Reference: [Spektrum 95] <author> Spektrum der Wissenschaft, </author> <month> March </month> <year> 1995, </year> <pages> pp. 96-115. </pages>
+Reference: [Sutton 91] <author> R. Sutton, </author> <title> Reinforcement Learning Architectures for Animats, </title> <editor> in J.A. Meyer and S. Wilson (eds), </editor> <booktitle> From Animals to Animats, </booktitle> <publisher> MIT Press 1991. </publisher>
+References-found: 17
+

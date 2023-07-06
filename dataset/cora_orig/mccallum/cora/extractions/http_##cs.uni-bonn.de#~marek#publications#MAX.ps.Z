@@ -1,0 +1,18 @@
+URL: http://cs.uni-bonn.de/~marek/publications/MAX.ps.Z
+Refering-URL: http://cs.uni-bonn.de/~marek/index-en.html
+Root-URL: http://cs.uni-bonn.de
+Email: grigorie@cse.psu.edu.  marek@theory.cs.uni-bonn.de.  yao@cs.princeton.edu.  
+Title: An Exponential Lower Bound on the Size of Algebraic Decision Trees for MAX  
+Author: D. Grigoriev M. Karpinski A. C. Yao 
+Note: The research of this author is supported in part by NSF grant CCR-9424358.  The research of this author is supported in part by the DFG Grant KA 673/4-1, and by the ESPRIT BR Grants 7097 and EC-US 030 and by the Volkswagen-Stiftung.  The research of this author is supported in part by National Science Foundation under grant CCR-9301430.  
+Address: Park, Pennsylvania 16802;  Bonn, 53117 Bonn;  Princeton, New Jersey 08544;  
+Affiliation: Departments of Computer Science and Mathematics, Pennsylvania State University, University  Department of Computer Science, University of  Department of Computer Science, Princeton University,  
+Abstract: We prove an exponential lower bound on the size of any fixed-degree algebraic decision tree for solving MAX, the problem of finding the maximum of n real numbers. This complements the n1 lower bound of Rabin [R72] on the depth of algebraic decision trees for this problem. The proof in fact gives an exponential lower bound on size for the polyhedral decision problem MAX= of testing whether the j-th number is the maximum among a list of n real numbers. Previously, except for linear decision trees, no nontrivial lower bounds on the size of algebraic decision trees for any familiar problems are known. We also establish an interesting connection between our lower bound and the maximum number of minimal cutsets for any rank-d hypergraphs on n vertices. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [B83] <author> M. Ben-Or, </author> <title> Lower Bounds for Algebraic Computation Trees, </title> <booktitle> Proc. 15th ACM STOC (1983), </booktitle> <pages> pp. 80-86. </pages>
+Reference-contexts: To our knowledge, no lower bound better than n 1 is known before this paper. Remark 3 We consider in the paper standard ternary decision trees (cf. [SY82], <ref> [B83] </ref>) branching according to the signs &gt;; =; &lt;.
+Reference: [BFMUW87] <editor> A. Borodin, F. Fich, F. Meyer auf der Heide, E. Upfal, and A. </editor> <publisher> Wigderson, </publisher>
+Reference-contexts: Notice that this tree is nonlinear. Remark 4 A more refined way to model space requirement is to consider branching programs (see e.g., [BFKLT81], <ref> [BFMUW87] </ref>) in which "equivalent" nodes are permitted to be merged together. Very little is known about branching programs with algebraic decision elements (however, see [Y82]). 2 Summary of Results Consider an input n-tuple of real numbers (x 1 ; : : : ; x n ) 2 IR n .
+References-found: 2
+

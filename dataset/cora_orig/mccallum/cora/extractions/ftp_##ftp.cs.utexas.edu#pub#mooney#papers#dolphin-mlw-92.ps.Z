@@ -1,0 +1,25 @@
+URL: ftp://ftp.cs.utexas.edu/pub/mooney/papers/dolphin-mlw-92.ps.Z
+Refering-URL: http://www.cs.utexas.edu/users/ml/ilp.html
+Root-URL: http://www.cs.utexas.edu
+Title: Chunking in soar: The anatomy of a general learn ing mechanism. Machine Learning, 1(1). Learning
+Author: Laird, J., Rosenbloom, P., and Newell, A. (). Langley, P. (). :-. Mitchell, T., Utgoff, T., and Banerji, R. (). Michalski, R., Mitchell, T., and Car-bonell, J., gan Kaufmann. Mitchell, T. M., Keller, R., and Kedar-Cabelli, S. (). Muggleton, S. H. and Feng, C. (). Pazzani, M. and Kibler, D. Prieditis, A. and Mostow, J. (). Prolearn: Quinlan, J. (). Quinlan, J. R. Shavlik, J. (). Tadepalli, P. (). Yoo, J. and Fisher, D. (). Fisher, D., Pazzani, M., and Langley, P., mann. 
+Affiliation: Learning.  Artificial intelligence.  
+Address: Palo Alto, CA: Mor  telligence. Seattle, WA.  Evanston, IL.  Detroit, MI.  Palo Alto, CA: Morgan Kauf  
+Note: Minton, S. (1989).  editors, Machine Learning: An Artificial Intelligence Approach.  In Proceedings of National Conference on Artificial In  (1991). Determinate literals in inductive logic programming. In Proceedings of the Eighth International Workshop on Machine  In Proceedings of the Eleventh International Joint conference on  editors, Concept Formation: Knowledge and Experience in Un-spervised Learning.  
+Date: 9(2):217-260.  
+Pubnum: Science,  
+Abstract: gers University. Also appears as tech. report ML- TR-7. Minton, S. (1988). Quantitative results concerning the utility of explanation-based learning. In Proceedings of National Conference on Artificial Intelli gence, pages 564-569. St. Paul, MN. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Bratko, I. </author> <year> (1990). </year> <booktitle> Prolog Programming for Artificial Intelligence. </booktitle> <address> New York , NY: </address> <publisher> Addison-Wesley. </publisher>
+Reference: <author> Chase, M., Zweben, M., Piazza, R., Burger, J., Maglio, P., and Hirsh, H. </author> <year> (1989). </year> <title> Approximating learned search control knowledge. </title> <booktitle> In Proceedings of the Sixth International Workshop on Machine Learning, </booktitle> <pages> pages 40-42. </pages> <address> Ithaca, NY. </address>
+Reference: <author> Chien, S. </author> <year> (1989). </year> <title> Using and refining simplifications: Explanation-based learning of plans in intractible domains. </title> <booktitle> In Proceedings of the Eleventh International Joint conference on Artificial intelligence. </booktitle> <address> Detroit, MI. </address>
+Reference: <author> Cohen, W. W. </author> <year> (1990). </year> <title> Learning approximate control rules of high utility. </title> <booktitle> In Proceedings of the Seventh International Conference on Machine Learning, </booktitle> <pages> pages 268-276. </pages> <address> Austin, TX. </address>
+Reference: <author> DeJong, G. and Mooney, R. </author> <year> (1986). </year> <title> Explanation-based learning: An alternative view. </title> <journal> Machine Learning, </journal> <volume> 1(2) </volume> <pages> 145-176. </pages>
+Reference: <author> Dietterich, T. </author> <year> (1986). </year> <title> Learning at the knowledge level. </title> <journal> Machine Learning, </journal> <volume> 1 </volume> <pages> 287-316. </pages>
+Reference: <author> Ellman, T. </author> <year> (1988). </year> <title> Approximate theory formation: An explanation-based approach. </title> <booktitle> In Proceedings of National Conference on Artificial Intelligence, </booktitle> <pages> pages 564-569. </pages> <address> St. Paul, MN. </address>
+Reference: <author> Flann, N. and Dietterich, T. </author> <year> (1989). </year> <title> A study of explanation-based methods for inductive learning. </title> <journal> Machine Learning, </journal> <volume> 4 </volume> <pages> 187-226. </pages>
+
+
+References-found: 8
+

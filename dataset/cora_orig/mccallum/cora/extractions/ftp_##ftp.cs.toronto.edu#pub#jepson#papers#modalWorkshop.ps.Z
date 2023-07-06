@@ -1,0 +1,14 @@
+URL: ftp://ftp.cs.toronto.edu/pub/jepson/papers/modalWorkshop.ps.Z
+Refering-URL: http://www.cs.toronto.edu/~jepson/papers-available.html
+Root-URL: http://www.cs.toronto.edu
+Title: The Modal Workshop Commentary on `The perception of shading  
+Author: and reflectance,' by E. Adelson and A. Pentland Allan D. Jepson 
+Note: W. Richards. See Sinha Adelson, ICCV'93 for material related to the target chapter.  
+Date: March 14, 1995  
+Affiliation: University of Toronto  
+Abstract: Adelson and Pentland 1 discuss the issue of selecting a particular interpretation for a given image from the set of interpretations which are consistent with the image data. Indeed, the authors argue that there are often several alternative interpretations for any single image and that it is the perceptual system's job to choose one or more preferred interpretations from within this set of possibilities. To motivate their approach to this selection problem the authors present an elegant metaphor of a workshop whose task involves minimizing the overall cost of reconstructing the scene. The interpretation that minimizes this cost over the set of consistent interpretations is chosen as the `percept' for the image. This same issue of selecting a low cost or preferred interpretation from the set of possible interpretations is addressed in each of the other chapters in this book, although the currencies used in the other chapters are not workshop dollars. Rather the other chapters consider cost functions based on probability estimates or, in some cases, concepts built on top of probability, such as utility and risk. In view of the fact that this selection problem appears throughout this book, it is useful to reformulate Adelson's and Pentland's workshop metaphor in terms of the common Bayesian framework used elsewhere. The specific problem domain addressed by the target chapter, namely that of interpreting shape, pigmentation, and lighting from images, provides an excellent concrete example of many of the issues brought out in other chapters. Moreover, the reformulation of the workshop raises a few points about Bayesian models which have not been highlighted so far. My intention with the reformulation presented below is to keep the general spirit of their metaphor, as developed in their fee schedule, but not necessarily the details of the reported algorithm. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> M. Leyton. </author> <title> A process grammar for shape. </title> <journal> Artificial Intelligence, </journal> <volume> 34(2) </volume> <pages> 213-247, </pages> <year> 1988. </year>
+References-found: 1
+

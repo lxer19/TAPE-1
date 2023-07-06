@@ -1,0 +1,21 @@
+URL: http://theory.stanford.edu/~dabo/papers/backups.ps.gz
+Refering-URL: http://theory.stanford.edu/~dabo/publications.html
+Root-URL: 
+Email: dabo@cs.princeton.edu rjl@cs.princeton.edu  
+Title: A Revocable Backup System (extended abstract)  
+Author: Dan Boneh Richard J. Lipton 
+Address: Princeton, NJ 08544  
+Affiliation: Department of Computer Science Princeton University  
+Abstract: We present a system which enables a user to remove a file from both the file system and all the backup tapes on which the file is stored. The ability to remove files from all backup tapes is desirable in many cases. Our system erases information from the backup tape without actually writing on the tape. This is achieved by applying cryptography in a new way: a block cipher is used to enable the system to "forget" information rather than protect it. Our system is easy to install and is transparent to the end user. Further, it introduces no slowdown in system performance and little slowdown in the backup procedure. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> S. </author> <title> Bellovin, </title> <journal> private communications. </journal>
+Reference-contexts: This way when the file is moved or copied, the new file will have the same attributes. The size of the key-file can be reduced by incor porating the ideas used in Lamport's one-time password scheme [3, pp. 230-232]. We thank Steven Bellovin <ref> [1] </ref> for pointing this out. Let f be a one way permutation. The idea is to only store the oldest accessible key in the key-file. The more recent keys can be obtained by repeatedly applying f to this key.
+Reference: [2] <author> M. </author> <title> Blaze, "A Cryptographic File System for Unix", </title> <note> available at http://www.cert-kr.or.kr/ doc/CryptoFile-System.ps.asc.html </note>
+Reference-contexts: Clearly the encryption keys have to be backed up as well. We have devised several methods for backuping the encryption keys while still preserving the fundamental properties described above. It is interesting to compare our system to the cryptographic file system implemented by Blaze <ref> [2] </ref>. In a cryptographic file system the files are always stored in an encrypted form. Whenever a file needs to be accessed it is decrypted on the fly using the owner's key.
+Reference: [3] <author> C. Kaufman, R. Perlman, M. Speciner, </author> <title> "Net work Security", </title> <publisher> Prentice Hall, </publisher> <year> 1995. </year>
+Reference-contexts: This attribute would indicate that the file is to be securely backed up. This way when the file is moved or copied, the new file will have the same attributes. The size of the key-file can be reduced by incor porating the ideas used in Lamport's one-time password scheme <ref> [3, pp. 230-232] </ref>. We thank Steven Bellovin [1] for pointing this out. Let f be a one way permutation. The idea is to only store the oldest accessible key in the key-file. The more recent keys can be obtained by repeatedly applying f to this key.
+Reference: [4] <author> A. Shamir, </author> <title> "How to share a secret", </title> <journal> CACM, </journal> <volume> Vol. 22, </volume> <month> Nov. </month> <year> 1979, </year> <pages> pp. 612-613. </pages>
+Reference-contexts: Since the storage-server is providing a commercial service it is in its best interest to be trustworthy and indeed "forget" all old private keys. To increase the security and reliability of the scheme one can use k out of l secret sharing techniques <ref> [4] </ref>. This means that a given site will employ l storage-servers and exactly k of them are required to recover the daily master-key. Now an old master-key can not be recovered even if k 1 of the storage-severs are untrustworthy.
+References-found: 4
+

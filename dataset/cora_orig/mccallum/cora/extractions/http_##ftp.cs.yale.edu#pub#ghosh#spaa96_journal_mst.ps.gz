@@ -1,0 +1,20 @@
+URL: http://ftp.cs.yale.edu/pub/ghosh/spaa96_journal_mst.ps.gz
+Refering-URL: http://ftp.cs.yale.edu/pub/ghosh/
+Root-URL: http://www.cs.yale.edu
+Title: Figure 6: Plot of log vs the number of iterations of SSOS and ISSOS on
+Note: 2 0:038, n 7:923. w 10. Spike(2560; 0). ISSOS is the simulation of SSOS with IOUs. 26  
+Abstract-found: 0
+Intro-found: 1
+Reference: [A94] <author> O. Axelsson. </author> <title> Iterative Solution Methods. </title> <publisher> Cambridge University Press, </publisher> <year> 1994. </year>
+Reference: [AA+93] <author> W. Aiello, B. Awerbuch, B. Maggs, and S. Rao. </author> <title> Approximate load balancing on dynamic and asynchronous networks. </title> <booktitle> Proc. of 25th ACM Symp on Theory of Computing, </booktitle> <pages> 632-641, </pages> <year> 1993. </year>
+Reference: [AL94] <author> B. Awerbuch and T. Leighton. </author> <title> Improved approximation algorithms for the multi-commodity flow problem and local competitive routing in dynamic networks. </title> <booktitle> Proc. 26th ACM Symp. on Theory of Computing, </booktitle> <pages> 487-496, </pages> <year> 1994. </year>
+Reference: [BB+93] <author> R. Barrett, M. Berry, T. Chan, J. Demmel, J. Donato, J. Dongarra, V. Eijkhout, R. Pozo, C. Romine and H. van der Vorst. </author> <title> Templates for the solution of linear systems: Building blocks for iterative methods, </title> <publisher> SIAM, </publisher> <address> Philadelphia, Penn, </address> <year> 1993. </year> <note> http://netlib2.cs.utk.edu /linalg/html templates/Templates.html. </note>
+Reference: [Boi90] <author> J. E. Boillat. </author> <title> Load balancing and Poisson equation in a graph. </title> <journal> Concurrency: Practice and Experience, </journal> <pages> 289-313, </pages> <year> 1990. </year>
+Reference: [Bo+91] <author> J. Boillat, F. Bruge and P. Kropf. </author> <title> A dynamic load balancing algorithm for molecular dynamics simulation on multiprocessor systems J. </title> <journal> Comp. Physics, </journal> <pages> 1-14, </pages> <year> 1991. </year>
+Reference: [Cyb89] <author> G. Cybenko. </author> <title> Dynamic load balancing for distributed memory multiprocessors. </title> <journal> Journal of Parallel and Distributed Computing, </journal> <pages> 279-301, </pages> <year> 1989. </year>
+Reference: [FLD93] <author> R. Ferraro, P. Liewer and V. Decyk. </author> <title> Dynamic load balancing for a 2D oncurrent plasma PIC code. </title> <journal> J. Comp. Physics, </journal> <pages> 329-340, </pages> <year> 1993. </year>
+Reference: [GH89] <author> B. Goldberg and P. Hudak. </author> <title> Implementing functional programs on a hypercube multiprocessor. </title> <booktitle> Proc. of the 4th Conf. on Hypercubes, Concurrent Computers, and Applications, </booktitle> <volume> Vol 1, </volume> <pages> 489-503, </pages> <year> 1989. </year>
+Reference: [GLM + 95] <author> B. Ghosh, F. T. Leighton, B. M. Maggs, S. Muthukrishnan, C. G. Plaxton, R. Rajara-man, A. Richa, R. E. Tarjan, and D. Zuckerman. </author> <title> Tight analyses of two local load balancing algorithms. </title> <booktitle> Proc. of the 27th Ann. ACM Symp. on the Theory of Computing, </booktitle> <pages> 548-558, </pages> <year> 1995. </year>
+
+References-found: 10
+

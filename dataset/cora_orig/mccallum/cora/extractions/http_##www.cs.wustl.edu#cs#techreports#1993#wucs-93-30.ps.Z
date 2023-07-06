@@ -1,0 +1,21 @@
+URL: http://www.cs.wustl.edu/cs/techreports/1993/wucs-93-30.ps.Z
+Refering-URL: http://www.cs.wustl.edu/cs/cs/publications.html
+Root-URL: 
+Title: AN OPTIMAL NONBLOCKING MULTICAST VIRTUAL CIRCUIT SWITCH  
+Author: Jonathan S. Turner wucs-- 
+Note: 0 This work was supported by the National Science Foundation (grant DCI 8600947), Ascom Timeplex, Bell Communications Research, Bell Northern Research, Goldstar Information and Communications, Italtel SIT, NEC, NTT and SynOptics.  
+Address: Campus Box 1045  One Brookings Drive St. Louis, MO 63130-4899  
+Affiliation: Department of Computer Science  Washington University  
+Date: March 23, 1994  
+Abstract: This paper describes an architecture for a multicast virtual circuit switch using cell recycling. This is the first nonblocking switch architecture that is optimal in both the switching network complexity and the amount of memory required for multicast address translation. Furthermore, it is optimal in the amount of effort required for multicast connection modification. This architecture makes it both technically and economically feasible to construct the large switching systems that will ultimately be needed for wide scale deployment of Broadband ISDN to residential users. In particular, we estimate that systems with tens of thousands of of 620 Mb/s ports can be produced for a per port cost of under $500. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Bianchi, Giusseppe and Jonathan Turner. </author> <title> "Improved Queueing Analysis of Shared Buffer Switching Networks," </title> <booktitle> Proceedings of Infocom, </booktitle> <month> March </month> <year> 1993. </year>
+Reference: [2] <author> Cantor, D. G. </author> <title> "On Non-Blocking Switching Networks," </title> <journal> Networks, </journal> <volume> vol. 1, </volume> <year> 1971, </year> <pages> pp. 367-377. </pages>
+Reference: [3] <author> Lee, Tony T. </author> <title> "Non-Blocking Copy Networks for Multicast Packet Switching," </title> <journal> IEEE Journal on Selected Areas in Communications, </journal> <pages> 1455-1467, 12/88. </pages>
+Reference: [4] <author> Turner, Jonathan S, </author> <title> "Fluid Flow Loading Analysis of Packet Switching Networks," </title> <booktitle> Proceedings of the International Teletraffic Congress, </booktitle> <month> June </month> <year> 1988. </year>
+Reference: [5] <author> Turner, Jonathan S., </author> <title> "Broadcast Packet Switching Network," </title> <institution> United States Patent #4,734,907, </institution> <month> March, </month> <year> 1988. </year>
+Reference: [6] <author> Turner, Jonathan S., </author> <title> "Design of a Broadcast Packet Network," </title> <journal> IEEE Transactions on Communications, </journal> <month> June, </month> <year> 1988. </year>
+Reference: [7] <author> Turner, Jonathan S., </author> <title> "Resequencing Cells in an ATM Switch," </title> <type> Technical Report WUCS-91-21, </type> <institution> Department of Computer Science, Washington University, St. Louis, Missouri. </institution>
+References-found: 7
+

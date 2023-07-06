@@ -1,0 +1,19 @@
+URL: ftp://ftp.eng.auburn.edu/pub/techreports/cse/94/TR-94-01.ps.Z
+Refering-URL: ftp://ftp.eng.auburn.edu/pub/techreports/README.html
+Root-URL: 
+Email: mccreary@eng.auburn.edu  
+Title: Incremental Graph Parsing  
+Author: C.L.McCreary S.S. Roth 
+Keyword: modular decomposition, graph parsing, graph theory  
+Address: 36849  
+Affiliation: Department of Computer Science and Engineering Auburn University, Alabama  
+Abstract: A Program Dependence Graph is a useful representation of the dependencies within a code module, with the nodes representing code segments and the edges showing dependency constraints. Through this representation, inherent parallelism in the program structure can be exploited by various heuristics. This paper presents an incremental graph decomposition algorithm which parses the graph into a structure called a Parse Tree that aids in the analysis. The algorithm presented executes in O(n 2 ) time. 
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> Buer, H. and R.H. Mohring. </author> <title> A Fast Algorithm for the Decomposition of Graphs and Posets. </title> <journal> Mathematics of Operations Research. </journal> <volume> Vol. 8, No. 2, </volume> <month> May </month> <year> 1983, </year> <pages> pp. 170-184. </pages>
+Reference-contexts: Clans are similar to other structures developed for undirected graph decomposition such as autonomous sets <ref> [1] </ref> and modules [3]. The algorithm takes O (n 2 ) time to create the resulting hierarchy of clans from a DAG which represents the PDG. Benefits of this algorithm include the clear representation of dependencies within the code, and therefore a more obvious indication of opportunities for parallelization. <p> The clan hierarchy repre-sented in a parse tree can provide this representation in a time O (n 2 ), a time equal to or better than the times taken to create the similar structures of <ref> [1] </ref> and [3]. Clan structures are ideal for a parallelization application in that they preserve the original dependencies and resolve cases where it is unclear whether or not to run the cluster concurrently or serially.
+Reference: 2. <author> McCreary, C.L. and D.H. Gill. </author> <title> Automatic Determination of Grain Size for Efficient Parallel Processing. </title> <journal> Communications of the ACM, </journal> <volume> Vol. 32, No. 9, </volume> <month> Sept. </month> <year> 1989, </year> <month> pp.1073-1078. </month>
+Reference: 3. <author> Muller, J.H. and J.Spinrad. </author> <title> Incremental Modular Decomposition. </title> <booktitle> Jounral of the ACM, </booktitle> <month> January </month> <year> 1989, </year> <pages> pp. 1-19. </pages>
+Reference-contexts: Clans are similar to other structures developed for undirected graph decomposition such as autonomous sets [1] and modules <ref> [3] </ref>. The algorithm takes O (n 2 ) time to create the resulting hierarchy of clans from a DAG which represents the PDG. Benefits of this algorithm include the clear representation of dependencies within the code, and therefore a more obvious indication of opportunities for parallelization. <p> The clan hierarchy repre-sented in a parse tree can provide this representation in a time O (n 2 ), a time equal to or better than the times taken to create the similar structures of [1] and <ref> [3] </ref>. Clan structures are ideal for a parallelization application in that they preserve the original dependencies and resolve cases where it is unclear whether or not to run the cluster concurrently or serially.
+References-found: 3
+

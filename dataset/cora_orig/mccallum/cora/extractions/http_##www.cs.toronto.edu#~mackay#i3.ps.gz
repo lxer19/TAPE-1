@@ -1,0 +1,23 @@
+URL: http://www.cs.toronto.edu/~mackay/i3.ps.gz
+Refering-URL: http://www.cs.toronto.edu/~mackay/README.html
+Root-URL: http://www.cs.toronto.edu
+Title: Bayesian Comparison of Models for Images  
+Author: Alex H. Barnett and David J.C. MacKay 
+Address: Cambridge, CB3 0HE. United Kingdom.  
+Affiliation: Cavendish Laboratory  
+Abstract: Probabilistic models for images are analysed quantitatively using Bayesian hypothesis comparison on a set of image data sets. One motivation for this study is to produce models which can be used as better priors in image reconstruction problems. The types of model vary from the simplest, where spatial correlations in the image are irrelevant, to more complicated ones based on a radial power law for the standard deviations of the coefficients produced by Fourier or Wavelet Transforms. In our experiments the Fourier model is the most successful, as its evidence is conclusively the highest. This ties in with the statistical scaling self-similarity (fractal property) of many images. We discuss the invariances of the models, and make suggestions for further investigations. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Barnett, A. H. </author> <title> (1993) Statistical modelling of rough crack surfaces in metals. Internal Report for Non-Destructive Testing Applications Centre, Technology Division, </title> <publisher> Nuclear Electric plc. </publisher>
+Reference-contexts: For this case, N = 2 and m is that of the FP model, m F . This power law spectrum is surprisingly common in much of nature, for instance the rough fracture surfaces of metals <ref> (Barnett 1993) </ref>, which initially led us to investigate the FP model. Also worthy of discussion are the invariances that were considered in regulating the choice of models for this investigation.
+Reference: <author> Daugman, J. G. </author> <title> (1985) Uncertainty relation for resolution in space, spatial frequency, and orientation optimized by two-dimensional visual cortical filters. </title> <journal> J. Opt. Soc. Am. </journal> <volume> A 2 (7): </volume> <pages> 1160-1169. </pages>
+Reference: <author> Gabor, D. </author> <title> (1946) Theory of communication. </title> <journal> J. Inst. Electr. Eng. </journal> <volume> 93: </volume> <pages> 429-457. </pages>
+Reference-contexts: Develop new models that incorporate positivity, since we are dealing with physical in tensities which cannot be negative. 2. Search for new formulations of what `correlation' is, and what makes images recognis-able. Borrow ideas from good image compression techniques, as these rely on identifying correlations. 3. Investigate Gabor functions <ref> (Gabor 1946) </ref>, which are forms of wavelets, and which, as Daugman (1985) discusses, seem to match the receptive fields of neurons in the primary visual cortex.
+Reference: <author> Gregory, P. C., and Loredo, T. J. </author> <title> (1992) A new method for the detection of a periodic signal of unknown shape and period. In Maximum Entropy and Bayesian Methods,, </title> <editor> ed. by G. Erickson and C. Smith. </editor> <address> Kluwer. </address> <note> also in The Astrophysical Journal, </note> <month> Oct 10, </month> <year> 1992. </year>
+Reference: <author> Heil, C. E., and Walnut, D. F. </author> <title> (1989) Continuous and discrete wavelet transforms. </title> <journal> SIAM Review 31 (4): </journal> <pages> 628-666. </pages>
+Reference-contexts: On the right is a sample from the FP model, with m = 1:5 and c = 10, showing structure at all length scales (in fact it is a fractal). 1989) and <ref> (Heil and Walnut 1989) </ref> for more background. Wavelets have the property of being localized in both real and frequency space, so can efficiently represent both dis-continuities and periodic features (see figure 5).
+Reference: <author> Mandelbrot, B. </author> <title> (1982) The Fractal Geometry of Nature. W.H. </title> <publisher> Freeman and Co. </publisher>
+Reference: <author> Press, W., B.P. Flannery, S. T., and Vetterling, W. </author> <title> (1993) Numerical Recipes in C, Second Edition. </title> <publisher> Cambridge. </publisher>
+Reference: <author> Strang, G. </author> <title> (1989) Wavelets and dilation equations: A brief introduction. </title> <journal> SIAM Review 31 (4): </journal> <pages> 614-627. </pages>
+References-found: 8
+

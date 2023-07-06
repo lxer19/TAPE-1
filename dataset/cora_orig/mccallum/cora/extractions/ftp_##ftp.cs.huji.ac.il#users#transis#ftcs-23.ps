@@ -1,0 +1,17 @@
+URL: ftp://ftp.cs.huji.ac.il/users/transis/ftcs-23.ps
+Refering-URL: http://www.cs.huji.ac.il/labs/transis/abstracts93.html
+Root-URL: http://www.cs.huji.ac.il
+Title: Early Delivery Totally Ordered Multicast in Asynchronous Environments ToTo protocol is genuinely symmetric and fairly
+Author: Danny Dolev Shlomo Kramer, Dalia Malki 
+Note: The  
+Address: Jerusalem, Israel  
+Affiliation: The Hebrew University of  
+Abstract: This paper presents the construction of a multi-cast service, called agreed multicast, that guarantees that messages arrive reliably and in the same total-order to all their destinations. ToTo, a novel protocol, implements the agreed multicast service of Transis, a communication sub-system for the High Availability project, currently developed at the Hebrew University of Jerusalem. This service is desired in distributed systems, and supports high level coordination among groups of processes in distributed applications. 2 messages for forming agreement on the order of delivery. Experimental results show up to O(log(n)) speedup over previous protocols, which match our prediction of the expected speedup. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Y. Amir, D. Dolev, S. Kramer, and D. Malki. </author> <title> Membership Algorithms for Multicast Communication Groups. </title> <booktitle> In 6th Intl. Workshop on Distributed Algorithms proceedings (WDAG-6), (LCNS, </booktitle> <volume> 647), </volume> <pages> pages 292-312, </pages> <month> November </month> <year> 1992. </year>
+Reference-contexts: The ToTo protocol is completely asynchronous. It can operate in a dynamic environment, using the Tran-sis membership service (see <ref> [1] </ref>). The membership service provides information about changes in the system configuration, such as removing and adding machines to the configuration. The service employs timeout to decide that the communication with another machine is detached (due to a machine crash or a communication failure). <p> Note that this does not mean that we make synchronous assumptions. Time is not used as bearing information. In the algorithm, timeouts are measured using local clocks and there is no requirement of synchronization among clocks (see <ref> [1] </ref>). The Flush stage may involve the delivery of agreed multicast messages of the previous membership. This occurs when pending messages wait for a detached machine q to acknowledge their reception. To solve this potential deadlock, the membership protocol must supply the multicast protocols with an intermediate event.
+Reference: [2] <author> Y. Amir, D. Dolev, S. Kramer, and D. Malki. </author> <month> Transis: </month>
+Reference-contexts: In this section we give a brief explanation of the multicast services supplied by Transis and discuss the assumptions made by the ToTo protocol about these services. A detailed description of the Transis environment and services can be found in <ref> [2] </ref>. ToTo can be used in similar environments, that provide similar multicast services. 2.1 Multicast Services Transis contains the communication layer responsible for the reliable delivery of messages in the system ([2]).
+References-found: 2
+

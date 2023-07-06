@@ -1,0 +1,27 @@
+URL: ftp://ftp.eecs.umich.edu/groups/gasm/flashccp.ps
+Refering-URL: http://www.eecs.umich.edu/gasm/papers.html
+Root-URL: http://www.eecs.umich.edu
+Email: email: durand@di.unipi.it  
+Title: Modeling Cache Coherence Protocol A Case Study with FLASH  
+Author: Arnaud Durand 
+Address: Corso Italia 40, I-56125 Italy  
+Affiliation: Universita di Pisa, Dipartimento di Informatica,  
+Abstract: This paper is devoted to the specification of the Stanford FLASH cache coherence protocol within the ASM formalism. Correctness proofs related to data consistency are presented. Corner cases that leads to unlikely situations are exhibited. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [AG96] <author> S. Adve, K. Gharachorloo, </author> <title> Shared Memory Consistency Models: A Tutorial. </title> <journal> IEEE Computer, </journal> <volume> pp.66-76, </volume> <month> December </month> <year> 1996. </year>
+Reference: [BGR95] <author> E. Borger, Y. Gurevich, D. Rosenzweig, </author> <title> The Bakery Algorithm: Yet Another Specification and Verification, </title> <editor> E.Borger (Ed.), </editor> <title> Specification and Validation Methods, </title> <publisher> Oxford University Press, </publisher> <year> 1995, </year> <month> pp.231-243. </month>
+Reference: [GLL90] <author> K. Gharachorloo, D. Lenoski, J. Laudon, P. Gibbons, A. Gupta, J. Hennessy, </author> <title> Memory Consistency and Event Ordering in Scalable Shared-Memory Multi-porcessor. </title> <booktitle> Proc. 17th International Symposium on Computer Architecture, </booktitle> <address> pp.15-26, </address> <year> 1990. </year>
+Reference: [G95] <author> Y.Gurevich, </author> <title> Evolving Algebras 1993: Lipari Guide, </title> <editor> E.Borger (Ed.), </editor> <title> Specification and Validation Methods, </title> <publisher> Oxford University Press, 1995,pp.9-36. </publisher>
+Reference: [G97] <author> Y.Gurevich, </author> <title> May 1997 Draft of the ASM Guide, </title> <type> Technical Report CSE-TR-336-97, </type> <institution> University of Michigan, EECS Department, </institution> <year> 1997. </year>
+Reference: [H95] <author> M. Heinrich, </author> <title> The FLASH protocol Version: </title> <address> 1.4, </address> <year> 1995 </year>
+Reference-contexts: Every node can perform two possible types of actions. he can ask for a shared (exclusive) copy or leaves a shared (exclusive) copy from its local cache. Each of these requests generates different sequences of rules that are described below (see <ref> [H95] </ref>). When a node P wishes to have a shared copy of the line l, it sends a get message for that line to the Home of l.
+Reference: [KOH+94] <author> J. Kuskin, D. Ofelt, M. Heinrich, J. Heinlein, R. Simoni, K. Gharachorloo, J. Chapin, D. Nakahira, J. Baxter, M. Horowitz, A. Gupta, M. Rosenblum, J. Hennessy, </author> <title> The Stanford FLASH Multiprocessor. </title> <booktitle> 21th Int. Symp. on Computer Architecture, Computer Architecture News, </booktitle> <year> 1994, </year> <month> pp.302-312 </month>
+Reference-contexts: In this paper, we describe a first attempt on specification and verification of cache coherence protocol within the ASM framework. The cache coherence protocol of the Stanford FLASH multiprocessor system (see <ref> [KOH+94] </ref>) will be our case study here. It is described informally in Section 2. Main functions and sets used in the ASM model are given in section 3. The specification itself follows in Section 4. Here, we focus on the rules of the protocol.
+Reference: [LLG90] <author> D. Lenoski, J. Laudon, K. Gharachorloo, A. Gupta, J. Hennessy, </author> <title> The directory-based cache coherence protocol for the DASH multiprocessor. </title> <booktitle> Proc. 17th International Symposium on Computer Architecture, </booktitle> <pages> pp. 148-159, </pages> <year> 1990 </year>
+Reference: [LLG92] <author> D. Lenoski, J. Laudon, K. Gharachorloo, W-D Weber, A, Gupta, J. Hennessy, M. Horowitz, M. Lam, </author> <title> The Stanford DASH Multiprocessor. </title> <journal> IEEE Computer, </journal> <volume> pp.63-79, </volume> <month> March 92 </month>
+Reference: [PD96] <author> S. Park, D. Dill, </author> <title> Verification of FLASH Cache Coherence Protocol By Aggregation of Distributed Transactions. </title> <booktitle> Proc. 8th ACM Symposium on Parallel Algorithms and Architectures, </booktitle> <address> pp.288-296, </address> <year> 1996 </year>
+Reference: [PDu97] <author> F. Pong, M. Dubois, </author> <title> Verification Techniques for Cache Coherent Protocols. </title> <journal> ACM Computing Surveys, </journal> <volume> Vol. 29(1), </volume> <month> March </month> <year> 1997. </year>
+Reference: [PBND98] <author> F. Pong, M. Browne, A. Nowatzyk, M. Dubois, </author> <title> Design Verification of the S3.mp Cache Coherent Shared-Memory System. </title> <journal> IEEE Transactions on Computers, </journal> <volume> Vol. 47, no. 1, </volume> <month> Jan. </month> <year> 1998. </year>
+References-found: 12
+

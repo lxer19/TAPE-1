@@ -1,0 +1,15 @@
+URL: http://www.cs.indiana.edu/hyplan/rudesai/papers/frame.ps.gz
+Refering-URL: http://www.cs.indiana.edu/hyplan/rudesai/research.html
+Root-URL: http://www.cs.indiana.edu
+Email: (RUDESAI@Indiana.Edu)  
+Title: Learning Syntactic Frames with Simple Recurrent Networks  
+Author: Rutvik Desai 
+Address: Bloomington, IN 47505 USA  
+Affiliation: Computer and Cognitive Science; Indiana University  
+Abstract-found: 0
+Intro-found: 1
+Reference: <author> Elman, J. L. </author> <year> (1990). </year> <title> Finding structure in time. </title> <journal> Cognitive Science, </journal> <volume> 14, </volume> <pages> 179211. </pages>
+Reference-contexts: Here, I present a preliminary connectionist model which uses a Simple Recurrent Network (SRN) <ref> (Elman, 1990) </ref> to learn to classify similar frames. A brief, simplified description of the experiments follows. The Experiments Hirsh-Pasek and Golinkoff (1997) used an experimental setup where two television screens, set several feet apart, displayed two different visual stimuli.
+Reference: <author> Hirsh-Pasek, K. and Golinkoff, R. M. </author> <year> (1997). </year> <title> The origins of grammar: Evidence from early language comprehension. </title> <address> Cambridge, Mass.: </address> <publisher> MIT Press. </publisher>
+References-found: 2
+

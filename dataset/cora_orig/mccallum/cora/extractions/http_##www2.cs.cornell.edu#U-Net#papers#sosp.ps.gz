@@ -1,0 +1,10 @@
+URL: http://www2.cs.cornell.edu/U-Net/papers/sosp.ps.gz
+Refering-URL: http://www2.cs.cornell.edu/tve/pub.html
+Root-URL: 
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> M. Abbot and L. Peterson. </author> <title> Increasing Network Throughput by Integrating Protocol Layers. </title> <journal> IEEE/ACM Transactions on Networking. </journal> <volume> Vol. 1, No. 5, </volume> <pages> pages 600-610, </pages> <month> Oct. </month> <year> 1993. </year>
+Reference: [2] <author> T.E. Anderson, D.E. Culler, D.A. Patterson, et. </author> <note> al. </note>
+Reference-contexts: A week-long trace of all NFS traffic to the departmental CS fileserver at UC Berkeley has shown that the vast majority of the messages is under 200 bytes in size and that these messages account for roughly half the bits sent <ref> [2] </ref>. Finally, many researchers propose to use networks of workstations to provide the resources for compute intensive parallel applications.
+References-found: 2
+

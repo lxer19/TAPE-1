@@ -1,0 +1,13 @@
+URL: ftp://ftp.cs.utexas.edu/pub/mooney/papers/forte-aaai-92.ps.Z
+Refering-URL: http://www.cs.utexas.edu/users/ml/abstracts.html
+Root-URL: 
+Email: bradley@cs.utexas.edu  mooney@cs.utexas.edu  
+Title: Learning Relations by Pathfinding Figure 1 The local plateau problem.  
+Author: B radley L. Richards Raym ond J. M ooney 
+Address: Austin, Texas 78712  Austin, Texas 78712  
+Affiliation: Dept. of Computer Sciences University of Texas at Austin  Dept. of Computer Sciences University of Texas, Austin  
+Abstract: First-order learning systems (e.g., FOIL, FOCL, FORTE) generally rely on hill-climbing heuristics in order to avoid the combinatorial explosion inherent in learning first-order concepts. However, hill-climbing leaves these systems vulnerable to local maxima and local plateaus. We present a method, called relational pathfinding, which has proven highly effective in escaping local maxima and crossing local plateaus. We present our algorithm and provide learning results in two domains: family relationships and qualitative model building. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

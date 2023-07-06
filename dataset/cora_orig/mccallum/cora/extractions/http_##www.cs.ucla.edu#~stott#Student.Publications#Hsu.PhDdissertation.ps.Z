@@ -1,0 +1,23 @@
+URL: http://www.cs.ucla.edu/~stott/Student.Publications/Hsu.PhDdissertation.ps.Z
+Refering-URL: http://www.cs.ucla.edu/~stott/idb/
+Root-URL: http://www.cs.ucla.edu
+Title: "Language and Methodology for Object-Oriented Database Environments." "Abstract Objects in an Object-Oriented Data Model." In
+Author: P. Wegner and S. Zdonik. J. Zhu and D. Maier. tems, . [ZM] S. Zdonik and D. Maier. 
+Note: [WS83] J. Woodfill and M. Stonebraker. "An Implementation of Hypothetical Relations." In Proc. International Conf. on Very Large Data Bases, pp. 157-166. M. Kaufmann Publishers, 1983. [WZ86]  In Proc. International Conf. on System Sciences, 1986. [Zan83] C. Zaniolo. "The Database Language GEM." In Proc. International Conf. on Management of Data. ACM, 1983. [ZM88]  Readings in Object-Oriented Database Sys tems. Morgan Kaufmann Publisher, Inc, 1990. 159  
+Abstract-found: 0
+Intro-found: 1
+Reference: [AH87] <author> T. Andrews and C. Harris. </author> <title> "Combining Language and Database Advances in an Object-Oriented Development Environment." </title> <booktitle> In Proc. International Conf. on Object-Oriented Programming: Systems, Languages and Applications. ACM, </booktitle> <year> 1987. </year>
+Reference: [Al 93] <author> L. Al-Jadir et al. </author> <title> "Context Versions in an Object-Oriented Model." </title> <booktitle> In Proc. International Conf. on Object-Oriented Programming: Systems, Languages, and Applications, </booktitle> <pages> pp. 24-35. </pages> <address> Sprinter-Verlag, </address> <year> 1993. </year>
+Reference: [Alb93] <author> A. Albano et al. </author> <title> "An Object Data Model with Roles." </title> <booktitle> In Proc. International Conf. on Vary Large Data Bases, </booktitle> <pages> pp. 39-51, </pages> <year> 1993. </year>
+Reference: [And86] <author> P.B. Andrews. </author> <title> An Introduction to Mathematical Logic and Type Theory: To Truth Through Proof. </title> <publisher> Academic Press, </publisher> <year> 1986. </year>
+Reference: [Atk83] <editor> M.P. Atkinson et al. </editor> <title> "An Approach to Persistent Programming." </title> <journal> Computer Journal, </journal> <volume> 26(4), </volume> <month> Nov. </month> <year> 1983. </year>
+Reference: [Atw85] <author> T.M. Atwood. </author> <title> "An Object-Oriented DBMS for Design Support Applications." </title> <booktitle> In COMPINT'85, </booktitle> <pages> pp. 299-307, </pages> <year> 1985. </year>
+Reference: [Bac95] <author> E. Bach et al. </author> <title> Quantification in Natural Languages. </title> <publisher> Kluwer Academic Publishers, </publisher> <year> 1995. </year>
+Reference: [Ban87] <author> J. Banerjee et al. </author> <title> "Data Model Issues for Object-Oriented Applications." </title> <journal> ACM Transaction on Office Information, </journal> <volume> 5(1) </volume> <pages> 3-26, </pages> <month> Jan. </month> <year> 1987. </year>
+Reference: [BC81] <author> J. Barwise and R. Cooper. </author> <title> "Generalized Quantifiers and Natural Language." </title> <journal> Linguistics and Philosophy, </journal> <volume> 4 </volume> <pages> 159-219, </pages> <year> 1981. </year>
+Reference: [BC95] <author> T. Berners-Lee and D. Connolly. </author> <title> "Hypertext Markup Language - 2.0." </title> <type> Technical report, </type> <institution> MIT/W3C, </institution> <month> June </month> <year> 1995. </year>
+Reference: [Ber91] <editor> M. Berstein et al. </editor> <booktitle> "Architectures for Volatile Hypertext." In Proc. International Conf. on Hypertext, </booktitle> <pages> pp. 243-260, </pages> <year> 1991. </year>
+Reference: [Ber92] <author> T. Berners-Lee et al. </author> <title> "The World-Wide Web." Computer Networks and ISDN Systems, </title> <address> 25(4-5):454-459, </address> <month> Nov. </month> <year> 1992. </year>
+
+References-found: 12
+

@@ -1,0 +1,19 @@
+URL: http://www.cs.cmu.edu/~baluja/papers/expectation.nips10.ps.gz
+Refering-URL: http://www.cs.cmu.edu/Web/Groups/NIPS/1998/97abstracts.html
+Root-URL: 
+Email: baluja@cs.cmu.edu  
+Author: Shumeet Baluja 
+Affiliation: Justsystem Pittsburgh Research Center School of Computer Science, Carnegie Mellon University  
+Abstract: In many real world tasks, only a small fraction of the available inputs are important at any particular time. This paper presents a method for ascertaining the relevance of inputs by exploiting temporal coherence and predictability. The method proposed in this paper dynamically allocates relevance to inputs by using expectations of their future values. As a model of the task is learned, the model is simultaneously extended to create task-specific predictions of the future values of inputs. Inputs which are either not relevant, and therefore not accounted for in the model, or those which contain noise, will not be predicted accurately. These inputs can be de-emphasized, and, in turn, a new, improved, model of the task created. The techniques presented in this paper have yielded significant improvements for the vision-based autonomous control of a land vehicle, vision-based hand tracking in cluttered scenes, and the detection of faults in the etching of semiconductor wafers.
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Baluja, S. </author> <year> 1996, </year> <title> Expectation-Based Selective Attention. </title> <type> Ph.D. Thesis, </type> <institution> School of Computer Science, </institution> <address> CMU. </address>
+Reference: <author> Clark, J. & Ferrier, </author> <title> N (1992), Attentive Visual Servoing, in: Active Vision. Blake & Yuille, </title> <publisher> (MIT Press) 137-154. </publisher>
+Reference: <author> Cottrell, G.W., </author> <year> 1990, </year> <title> Extracting Features from Faces using Compression Network, Connectionist Models, </title> <publisher> Mor-gan Kaufmann 328-337. </publisher> <address> Dickmanns, </address> <year> 1992, </year> <title> Expectation-based Dynamic Scene Understanding, in: Active Vision. </title> <editor> A. Blake & A.Yuille, </editor> <publisher> MIT Press. </publisher>
+Reference: <author> Koch, C. & Ullman, S. </author> <title> (1985) Shifts in Selective Visual Attention: Towards the Underlying Neural Circuitry, </title> <booktitle> in: Human Neurobiology 4 (1985) 219-227. </booktitle>
+Reference: <author> Maxion, R. </author> <title> (1995) The Semiconductor Wafer Plasma-Etch Data Set. </title>
+Reference: <author> Nowlan, S. & Platt, J., </author> <year> 1995, </year> <title> A Convolutional Neural Network Hand Tracker. </title> <booktitle> NIPS 7. </booktitle> <publisher> MIT Press. </publisher> <pages> 901-908. </pages>
+Reference: <author> Pomerleau, D.A., </author> <year> 1993. </year> <title> Neural Network Perception for Mobile Robot Guidance, </title> <publisher> Kluwer Academic. </publisher>
+Reference: <author> Thorpe, C., </author> <year> 1991, </year> <title> Outdoor Visual Navigation for Autonomous Robots, </title> <booktitle> in: Robotics and Autonomous Systems 7. </booktitle>
+References-found: 8
+

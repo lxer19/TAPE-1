@@ -1,0 +1,17 @@
+URL: ftp://info.mcs.anl.gov/pub/tech_reports/reports/ANL9340.ps.Z
+Refering-URL: http://www.mcs.anl.gov/publications/abstracts/abstracts93.htm
+Root-URL: http://www.mcs.anl.gov
+Phone: 60439  
+Title: Distribution Category:  Using a Transfer Function to Describe the Load-Balancing Problem  
+Author: Mathematics and by Andrew J. Conley 
+Note: This work was supported by the Office of Scientific Computing, U.S. Department of Energy, under Contract W-31-109-Eng-38, and by the NSF under Cooperative Agreement No. CCR-9120008.  
+Date: November 1993  
+Address: 9700 South Cass Avenue Argonne, IL  
+Affiliation: Computer Science (UC-405) ARGONNE NATIONAL LABORATORY  Mathematics and Computer Science Division  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> A. Heirich and S. Taylor. </author> <title> A parabolic theory of load balance. </title> <institution> Caltech Computer Science Technical Report, </institution> <year> 1993. </year>
+Reference-contexts: Solving Equations (7)-(9) requires the same work as the inner loop calculations of the algorithm introduced by Heirich and Taylor <ref> [1] </ref>. Equations (7)-(9) can be solved analytically in terms of the eigenfunctions, x j;k;p = cos (jl=(L 1)) cos (km=(M 1)) cos (pn=(N 1)), of the discrete Laplacian, where the 4 number of processors on the grid is LM N .
+
+References-found: 1
+

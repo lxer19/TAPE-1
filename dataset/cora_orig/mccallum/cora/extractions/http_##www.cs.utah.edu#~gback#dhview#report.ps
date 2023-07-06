@@ -1,0 +1,15 @@
+URL: http://www.cs.utah.edu/~gback/dhview/report.ps
+Refering-URL: http://www.cs.utah.edu/~gback/dhview/ref1.html
+Root-URL: 
+Email: gback@cs.utah.edu  
+Title: Closed-Loop Calibration of the TREADPORT  
+Author: Godmar Back 
+Note: Some possible ways to do this are discussed at the end of the paper.  
+Date: March 11, 1996  
+Abstract: This write-up describes a closed-loop calibration mechanism for the TREADPORT , a virtual-reality device manufactured by Sarcos. The calibration procedure uses a length constraint imposed upon the endpoint, resulting in only one equation per pose. It is shown that while the simulation yields encouraging results, other problems have to be overcome before the procedure can be made to work in practice. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> John M. Hollerbach and Charles W. Wampler, </author> <title> The Calibration Index and Taxonomy for Robot Kinematic Calibration Methods, 1995 G. Back, </title> <type> Project Report, CS 673 Winter 96, </type> <institution> University of Utah 17 </institution>
+Reference-contexts: The cartesian coordinates can be computed as p = 6 l cos cos l sin 7 The algorithm to determine possible poses proceeds as follows: G. Back, Project Report, CS 673 Winter 96, University of Utah 8 1. Define intervals <ref> [ 0 ; 1 ] </ref> and [ 0 ; 1 ]. These intervals are divided in N and N subintervals, respectively. They form a grid section on the surface of the sphere as shown in figure 5. See appendix A.2 for the Matlab routine that accomplishes that. 2. <p> The cartesian coordinates can be computed as p = 6 l cos cos l sin 7 The algorithm to determine possible poses proceeds as follows: G. Back, Project Report, CS 673 Winter 96, University of Utah 8 1. Define intervals <ref> [ 0 ; 1 ] </ref> and [ 0 ; 1 ]. These intervals are divided in N and N subintervals, respectively. They form a grid section on the surface of the sphere as shown in figure 5. See appendix A.2 for the Matlab routine that accomplishes that. 2. Sphere radius l. <p> It returns the final value of , the Jacobian of the last iteration and the parameter variance estimates, obtained from the diagonal of the parameter covariance matrix. The complete Matlab routine is given in appendix A.4. 2.6 Simulation Results As mentioned in <ref> [1] </ref>, calibrating the gains proved to be difficult. The procedure tends to find the trivial solution in which k 3 = 0 and the DH parameters are completely off. Therefore, we decided to assume that the gains are known.
+References-found: 1
+

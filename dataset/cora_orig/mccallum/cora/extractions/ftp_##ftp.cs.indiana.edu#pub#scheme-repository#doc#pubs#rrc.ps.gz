@@ -1,0 +1,49 @@
+URL: ftp://ftp.cs.indiana.edu/pub/scheme-repository/doc/pubs/rrc.ps.gz
+Refering-URL: http://www.cs.indiana.edu/scheme-repository/doc.publications.html
+Root-URL: http://www.cs.indiana.edu
+Title: [syntax syntax] syntax (a: a) [[@M N]] [[M]]( m:@(@m(a: a))[[N]] 00 0 syntax syntax syntax
+Author:  k:@ k [[@M N k: [[M]] m:@(@m k) [[N [[@M N k: [[M]] m:@(@m k) [[N 
+Note: or better, by [[M 00 This final translation yields terms without fi-redexes nor new -redexes, in one pass. 35  
+Abstract: A.1 Continuations first Making continuations occur first introduces a new opportunity for extraneous -redexes in residual CPS terms. The result of transforming a term can occur (1) in function position where the argument is a static lambda that will be applied to a static continuation; (2) in function position where the argument is a static lambda that will be applied to a dynamic continuation; and (3) not in function position. These cases can be handled by a suitable series of tests on intermediate result or again by duplicating the rules as in Figure 9. Notice how [[:::]] terms correspond to case (1), [[:::]] 0 terms correspond to case (2), and [[:::]] 00 terms correspond to case (3). This suggests that a Clinger-style compiler for n -terms would be proven using a triple induction hypothesis [4]. As usual, the result of transforming a term M into CPS in an empty context is then given by @ [[M ]]( m:m) whereas the result of transforming a term M into CPS in a dynamic context is given by k: @ [[M ]] 0 k
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Andrew W. Appel. </author> <title> Compiling with Continuations. </title> <publisher> Cambridge University Press, </publisher> <year> 1992. </year>
+Reference: [2] <author> Anders Bondorf. </author> <title> Automatic autoprojection of higher-order recursive equations. </title> <booktitle> Science of Computer Programming, </booktitle> <volume> 17 </volume> <pages> 3-34, </pages> <year> 1991. </year>
+Reference: [3] <author> Anders Bondorf and Olivier Danvy. </author> <title> Automatic autoprojection of recursive equations with global variables and abstract data types. </title> <booktitle> Science of Computer Programming, </booktitle> <volume> 16 </volume> <pages> 151-195, </pages> <year> 1991. </year>
+Reference: [4] <author> William Clinger. </author> <title> The Scheme 311 compiler, an exercise in Denotational Semantics. </title> <booktitle> In Conference Record of the 1984 ACM Symposium on Lisp and Functional Programming, </booktitle> <pages> pages 356-364, </pages> <address> Austin, Texas, </address> <month> August </month> <year> 1984. </year>
+Reference: [5] <editor> William Clinger and Jonathan Rees (editors). </editor> <title> Revised 4 report on the algorithmic language Scheme. LISP Pointers, </title> <address> IV(3):1-55, </address> <month> July-September </month> <year> 1991. </year>
+Reference: [6] <author> Charles Consel and Olivier Danvy. </author> <title> Static and dynamic semantics processing. </title> <booktitle> In POPL'91 [36], </booktitle> <pages> pages 14-24. </pages>
+Reference: [7] <author> Charles Consel and Olivier Danvy. </author> <title> For a better support of static data flow. </title> <booktitle> In Proceedings of the Fifth ACM Conference on Functional Programming and Computer Architecture, number 523 in Lecture Notes in Computer Science, </booktitle> <pages> pages 496-519, </pages> <address> Cambridge, Massachusetts, </address> <month> August </month> <year> 1991. </year>
+Reference: [8] <author> Olivier Danvy. </author> <title> Programming with tighter control. </title> <journal> Special issue of the BIGRE journal: Putting Scheme to Work, </journal> (65):10-29, July 1989. 
+Reference: [9] <author> Olivier Danvy. </author> <title> Back to direct style. </title> <editor> In Bernd Krieg-Bruckner, editor, </editor> <booktitle> Proceedings of the Fourth European Symposium on Programming, number 582 in Lecture Notes in Computer Science, </booktitle> <pages> pages 130-150, </pages> <publisher> Rennes, </publisher> <address> France, </address> <month> February </month> <year> 1992. </year>
+Reference: [10] <author> Olivier Danvy and Andrzej Filinski. </author> <title> Abstracting control. </title> <booktitle> In LFP'90 [26], </booktitle> <pages> pages 151-160. </pages>
+Reference-contexts: of the 1990 ACM Conference on Lisp and Functional Programming, Nice, France, June 1990. [27] Proceedings of the 1992 ACM Conference on Lisp and Functional Programming, San Francisco, California, June 1992. 30 Moreover, there is a close relationship between computational monads [30] and "generalized CPS", as suggested in "Abstracting Control" <ref> [10] </ref> and properly formalized by Wadler [44]. Effectively, this implies that CPS-based control operators like shift and reset can by themselves uniformly express a rich class of computational behaviors, including partiality, nondeterminism, and state.
+
+Reference: [[[escape c in M ]]] = : : @ ( @ <institution> [[[M [c c 0 ]]]] [c 0 7! a: </institution> <note> 0 : @ a]) </note>
+
+Reference: [[shift c in M ]] = <author> :let c 0 = a: </author> <title> 0 :@ 0 ( @ a) in @ [[M [c c 0 ]]] ( m:m) </title>
+Reference: [[hM i]] = : @ ( @ <editor> [[M ]] ( m:m)) The CPS transformation now introduces let-expressions. </editor> <title> These could be unfolded by substituting the control abstractions for the identifiers in the translated terms, as we first specified it [10]: [[escape c in M ]] = :( @ [[M [c c 0 ]]] )[c 0 a: 0 : @ a] </title>
+
+Reference: [[shift c in M ]] = :( @ <institution> [[M [c c 0 ]]] ( m:m))[c 0 a: </institution> <note> 0 : @ 0 ( @ a)] </note>
+
+Reference: [[shift c in M ]] = <author> :let c = a: </author> <title> 0 :@ 0 (@ a) in @[[M ]] (m:m) </title>
+
+
+
+
+
+Reference: [[@M N ]] = : @ <author> [[M ]] ( m: </author> @ <title> [[N ]] ( n:@(@m n) (a: @ a))) [[q]] = : @ q </title>
+Reference: [[q(M; N)]] = : @ <author> [[M ]] ( m: </author> @ <title> [[N ]] ( n: @ (q(m; n)))) [[let x = N in M ]] = : @ [[N ]]( n:let x 0 = n in @ [[M [x x 0 </title> ]]] ) 
+
+
+Reference: [[@M N ]] = : @ <author> [[M ]] ( m: </author> @ <title> [[N ]] ( n:@(@m n) (a: @ a))) [[:::]] 0 : syntax ! syntax [[x]] 0 = k:@k x </title>
+
+
+
+
+
+
+
+
+References-found: 18
+

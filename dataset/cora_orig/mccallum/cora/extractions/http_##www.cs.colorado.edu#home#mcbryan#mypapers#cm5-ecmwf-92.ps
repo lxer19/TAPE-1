@@ -1,0 +1,24 @@
+URL: http://www.cs.colorado.edu/home/mcbryan/mypapers/cm5-ecmwf-92.ps
+Refering-URL: http://www.cs.colorado.edu/home/mcbryan/mypapers.html
+Root-URL: http://www.cs.colorado.edu
+Title: 1 PERFORMANCE OF THE SHALLOW WATER EQUATIONS ON THE CM-200 and CM-5 PARALLEL SUPERCOMPUTERS  
+Author: Oliver A. McBryan 
+Note: Research supported by the Air Force Office of Scientific Research, under grant AFOSR-89-0422 and by NSF Grand Challenge Applications Group grant ASC-9217394.  
+Address: Boulder, CO 80309  
+Affiliation: Department of Computer Science University of Colorado  
+Abstract: We describe the implementation of a fluid dynamical benchmark on the 2048 vector node CM-200 parallel computer and on the 1024-node CM-5 computer. The benchmark, the Shallow Water Equations, is frequently used as a model for both oceanographic and atmospheric circulation. We describe the steps involved in implementing the algorithm on the two Thinking Machines Corporation computers and we provide details of performance. We have measured 5.2 Gflops (64-bit arithmetic) and 8.1 Gflops (32-bit) on the CM-200 while the CM-5 delivers 22.1 Gflops (64-bit) and 24 Gflops (32-bit). For comparison, performance of 1530 Mflops was measured for the same algorithm on the CRAY Y-MP/8, and 543 Mflops was measured on the 128-node Intel iPSC/860. 
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> G.-R. Hoffmann, P.N. Swarztrauber, and R.A. Sweet, </author> <title> "Aspects of using multiprocessors for meteorological modeling," in Multiprocessing in Meteorological Models, </title> <editor> ed. D. </editor> <booktitle> Snelling, </booktitle> <pages> pp. 126-195, </pages> <publisher> Springer-Verlag, </publisher> <address> Berlin, </address> <year> 1988. </year>
+Reference-contexts: The filtered values of the variables at the previous timestep are used in computing new values at the next timestep. For a complete description of the discretization we refer to <ref> [1] </ref>. 5. SERIAL FORTRAN IMPLEMENTATION The Fortran code implementing the above algorithm involves a 2D rectangular grid with variables: u (i,j), v (i,j), p (i,j), z (i,j), psi (i,j), h (i,j) .
+Reference: 2. <author> O. McBryan, </author> <title> "New Architectures: Performance Highlights and New Algorithms," </title> <journal> Parallel Computing, </journal> <volume> vol. 7, </volume> <pages> pp. 477-499, </pages> <publisher> North-Holland, </publisher> <year> 1988. </year>
+Reference: 3. <author> O. McBryan and R. Pozo, </author> <title> "Performance Evaluation of the Myrias SPS-2 Computer," </title> <note> CS Dept Technical Report CU-CS-505-90 (to appear in Concurrency: Practice and Experience), </note> <institution> University of Colorado, Boulder, </institution> <year> 1990. </year>
+Reference: 4. <author> O. McBryan and R. Pozo, </author> <title> "Performance Evaluation of the Evans and Sutherland ES-1 Computer," </title> <type> CS Dept Technical Report CU-CS-506-90, </type> <institution> University of Colorado, Boulder, </institution> <year> 1990. </year>
+Reference: 5. <author> O. McBryan, </author> <title> "A Comparison of the Intel iPSC860 and SUPRENUM-1 Parallel Computers," </title> <journal> University of Colorado Tech. Report CU-CS-499-90 and Supercomputer, </journal> <volume> vol. 41, no. 1, </volume> <pages> pp. 6-17, </pages> <year> 1991. </year> <month> - 9 </month> - 
+Reference: 6. <author> R. Sadourny, </author> <title> "The dynamics of finite difference models of the shallow water equations," </title> <journal> JAS, </journal> <volume> vol. 32, </volume> <pages> pp. 680-689, </pages> <year> 1975. </year>
+Reference: 7. <author> G.L. Browning and H.-O. Kreiss, </author> <title> "Reduced systems for the shallow water equations," </title> <journal> JAS, </journal> <volume> vol. 44, </volume> <year> 1987. </year>
+Reference: 8. <author> R. Pozo, </author> <title> "Performance Modeling of Parallel Architectures for Scientific Computing," </title> <type> PhD Thesis, </type> <institution> Department of Computer Science, University of Colorado at Boulder, </institution> <year> 1991. </year>
+Reference: 9. <author> O. McBryan and E. Van de Velde, </author> <title> Hypercube Algorithms and Implementations, </title> <journal> SIAM J. Sci. Stat. Comput., </journal> <volume> 8, </volume> <pages> pp. 227-287, </pages> <year> 1987. </year>
+Reference: 10. <author> O. McBryan, </author> <title> "Software Issues at the User Interface," </title> <booktitle> in Frontiers of Supercomputing II: </booktitle> <institution> A National Reassessment, ed. W.L. Thompson, University of Colorado CS Dept. Tech Report CU-CS-527-91 and MIT Press, </institution> <year> 1992, </year> <note> to appear. </note>
+References-found: 10
+

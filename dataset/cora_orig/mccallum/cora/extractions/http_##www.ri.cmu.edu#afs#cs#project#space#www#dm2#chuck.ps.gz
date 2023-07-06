@@ -1,0 +1,29 @@
+URL: http://www.ri.cmu.edu/afs/cs/project/space/www/dm2/chuck.ps.gz
+Refering-URL: http://www.ri.cmu.edu/afs/cs/project/space/www/dm2/home.html
+Root-URL: 
+Title: Path Planning for the Dual-Use Detachable Mobile Manipulator The wavefront expansion method relies on the
+Author: Charles W. Su DM( DM( DM( 
+Keyword: Mobile Base Path Planing Wavefront Expansion Method for Path Planning  
+Note: Initialization of the Workspace  2 and has not already been assigned a value is given the value 3. This process is  
+Date: May 6, 1994  
+Abstract: This report describes the work done for path planning for the mobile base of the Dual-Use Detachable Mobile Manipulator project. It is intended to be an overview of the work done thus far. In addition it will document all code done and include a users manual for the off-line path planner. This section will describe the theory and the execution of the path planner designed for the mobile base of the . Due to the kinematics of the car-like base, it is not possible to follow any given path. To avoid this problem, the path planner currently has a resolution of two feet by two feet. This allows us to ignore the nonholonomic equations which arise from the kinematics of the base. The mobile base planner assumes a two degree-of-freedom (two translations) and no rotations. The robot is assumed to be able to move in any direction at any given position or time (we will see later that this is not the case for the mobile base). Wave front expansion is a numerical potential field technique for robot path planning. An in depth discussion of this method is available in [1], [2], and [3]. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <institution> 6 Path Planning for the Dual-Use Detachable Mobile Manipulator References </institution>
+Reference: 1. <author> J. Barraquand, B. Langlois, and J.C. Latombe, </author> <title> Numerical Potential Field Techniques for Robot Path Planning, </title> <journal> IEEE Transactions on Systems, Man, and Cybernetics, </journal> <volume> Vol. 22, </volume> <pages> No.2, </pages> <month> March </month> <year> 1992. </year>
+Reference: 2. <author> A. Zelinsky, R.A. Jarvis, J.C. Byrne, and S. Yuta, </author> <title> Planning Paths of Complete Coverage of an Unstructured Environment by a Mobile Robot, </title> <booktitle> Proceeding from ICAR 1993. </booktitle>
+Reference: 3. <author> J.C. Latombe, </author> <title> Robot Motion Planning, </title> <publisher> Kluwer Academic Publishers, </publisher> <year> 1991. </year>
+Reference: 4. <author> F. Ben Amar, Ph. Bidaud, and F. Ben Ouezdou, </author> <title> On Modeling and Motion Planning of Planetary Vehicles, </title> <booktitle> Proceedings of the 1993 IEEE/RSJ International Conference on Intelligent Robots and Systems </booktitle>
+Reference: 5. <author> Y. Yamamoto and X. Yun, </author> <title> Coordinating Locomotion and Manipulation of a Mobile Manipulator, </title> <editor> X. Yun and Y. </editor> <title> Yamamoto, Internal Dynamics of a Wheeled Mobile Robot, </title> <booktitle> Proceedings of the 1993 IEEE/RSJ International Conference on Intelligent Robots and Systems </booktitle>
+Reference: 6. <author> C. Wang and V. Kumar, </author> <title> Velocity Control of Mobile Manipulators, </title>
+Reference: 7. <author> J.E. Borrow and R.M.C. Bodduluri, </author> <title> A General Path Planning Algorithm, </title> <booktitle> Proceedings of the 27th Conference on Decision and Control, </booktitle> <month> December </month> <year> 1988, </year> <pages> pp. 2292-2293 </pages>
+Reference: 8. <author> M. Minami, N. Fujiwara, and K. Kanbara, </author> <title> Inverse Dynamics Calculation Method of Power Wheeled Mobile Manipulators, </title> <booktitle> Proceedings of the 1993 IEEE/RSJ International Conferencs on Intelligent Robots and Systems, </booktitle> <pages> pp. 781-786. </pages>
+Reference: 9. <author> H.A. Vasseur, F.G. Pin, J.R. Taylor, </author> <title> Navigation of a Car-like Mobile Robot using a Decomposition of the Environment in Convex Cells, </title> <booktitle> Proceedings of the 1991 IEEE International Conference on Robotics and Automation, </booktitle> <pages> pp. 1496-501 </pages>
+Reference: 10. <author> J.B. Pomet, B. Thuilot, G. Bastin, and G. Campion, </author> <title> A Hybrid Strategy for the Feedback Stabilization of Nonholonomic Mobile Robots, </title> <booktitle> Proceedings of the 1992 IEEE International Conferencs on Robotics and Automation, </booktitle> <pages> pp 129-134 </pages>
+Reference: 11. <author> B. dAndrea-Novel, G. Bastin, and G. Campion, </author> <title> Dynamic Feedback Linearization of Nonholomic Wheeled Mobile Robots, </title> <booktitle> Proceeding of the 1992 International Conference on Robotics and Automation, </booktitle> <pages> pp 2527-1797. </pages>
+Reference: 12. <author> B. Steer and M. Larcombe, </author> <title> A Goal Seeking and Obstacle Avoiding Algorithm for Autonomous Mobile Robots, </title>
+Reference: 13. <author> Y. Dote, </author> <title> Applications of Modern Control Techniques to Motor Control, </title> <booktitle> Proceedings of the IEEE, </booktitle> <volume> Vol. 76, No. 4, </volume> <month> April </month> <year> 1988, </year> <pages> pp 438-54 </pages>
+Reference: 14. <author> A. Pruski and S. Rohmer, </author> <title> Multivalue Coding: Applications to Autonomous Robot Path Planning with Rotations, </title> <booktitle> Proceedings of the 1991 IEEE International Confer-encs on Robotics and Automations, </booktitle> <pages> pp 694-699 </pages>
+Reference: 15. <author> C.C de Wit and O.J. Sordalen, </author> <title> Exponential Stabilization of Mobile Robots with Nonholonomic Constratins, </title> <journal> IEEE Transactions on Automatic Control, </journal> <volume> Vol 37, No. 11, </volume> <month> November </month> <year> 1992, </year> <pages> pp. 1791-7. </pages>
+References-found: 16
+

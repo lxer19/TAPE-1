@@ -1,0 +1,24 @@
+URL: http://skip.incog.com/inet-95.ps
+Refering-URL: http://skip.incog.com/
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Email: ashar.aziz@Eng.Sun.COM  martin.patterson@France.Sun.COM  
+Title: D Design and Implementation of SKIP  
+Author: Ashar Aziz Martin Patterson 
+Date: June 28, 1995  
+Pubnum: ICG-95-0004  
+Abstract: We present a key-distribution scheme that is particularly well suited for use in conjunction with a session-less datagram protocol such as IP or IPv6. We describe how this scheme can be used for both IP unicast and multicast applications, providing an approach for scalable multicast key distribution. We also describe an implementation of this scheme on the Solaris operating system, and present some findings on the performance of encryption at the IP layer. Note This paper was originally pr esented at the INET 95 confer ence in Hawaii on June 28, 1995, under the title Simple Key Management for Internet Protocols (SKIP). It also appears in the confer ence proceedings under that title. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> W. Diffie and M. Hellman, </author> <title> New Dir ections in Cryptography, </title> <journal> IEEE Trans. Info. Theory, </journal> <volume> IT-22, </volume> <pages> pp. 644-654, </pages> <year> 1976. </year>
+Reference-contexts: Furthermor e, instead of session oriented keys, SKIP uses packet oriented keys that ar e communicated inline with the packets. 2.0 SKIP SKIP utilizes the fact that if each principal 1 in the network has a certified Dif-fie-Hellman <ref> [1] </ref> public key, then each principal shares a mutually authenticated key which is computable based solely on knowledge of the other principals certificate. This works as follows. A principal (say I) has a private key i and a public key g i mod p. <p> This shared secret is implicit. It does not need to be communicated explicitly to either principal. Each principal can compute this secr et based on knowledge of the other principals identity and public key certificate. The shar ed secret is computed using the well known Dif fie-Hellman algorithm <ref> [1] </ref>. 1. The term principal will normally refer to an IP node, in this paper. SKIP 2 June 1995 ICG-95-0004 R F This mutually authenticated long-term secr et is used to derive a key , which is denoted K ij .
+Reference: [2] <author> S. Kent, </author> <title> Privacy Enhanced Mail: Part II: Certificate-Based Key Management, </title> <type> RFC 1422. </type>
+Reference-contexts: This works as follows. A principal (say I) has a private key i and a public key g i mod p. This public key is distributed in the form of a public key certificate <ref> [2] </ref>. Similarly, principal J has a private key j and a certified public key g j mod p. The pair I and J share the mutually authenticated secret g ij mod p. This shared secret is implicit. It does not need to be communicated explicitly to either principal.
+Reference: [3] <author> Alfred Menezes, </author> <title> Elliptic Curve Public Key Cryptosystems, </title> <publisher> Kluwer Academic Publishers, </publisher> <year> 1993. </year>
+Reference-contexts: Examples of cryptographic constr uctions which also pr o-vide the public key agr eement property include constr uctions that employ elliptic curves over finite fields <ref> [3] </ref>.
+Reference: [4] <author> Ronald Rivest, </author> <title> The MD5 MessageDigest Algorithm, </title> <address> RFC-1321, </address> <month> April </month> <year> 1992. </year>
+Reference-contexts: The key K ij becomes a function of this counter n as follows: K ijn = h (K ij , n) where h is a pseudorandom function such as MD5 <ref> [4] </ref>. A simple and stateless way of implementing n is to let n be equal to number of time-units since the more recent of I or Js certificate. For example, ther e can be a master key for a minute, an hour, a day, and so forth.
+Reference: [5] <author> Mogul, J., and S. Deering, S., </author> <title> Path MTU Discovery, </title> <type> RFC 1 191, </type> <institution> DECWRL, Stanford University, </institution> <month> November </month> <year> 1990. </year>
+Reference-contexts: Two possible courses of action are available. Either we allow the SKIP packet to be fragmented by the r outer, or else we use Path MTU Discovery <ref> [5] </ref> to derive the lar gest datagram size which can be passed without fragmentation. 3. TCP/IP throughput was measured usingttcp between a pair of 70Mhz Sun SPARCstation 5s running Solaris 2.4. A third SPARCstation 5 equipped with a Quad Ethernet board was used as a router.
+
+References-found: 5
+

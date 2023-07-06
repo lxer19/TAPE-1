@@ -1,0 +1,14 @@
+URL: http://www.cs.wustl.edu/~schmidt/C++/C++-adts4.ps.gz
+Refering-URL: http://www.cs.wustl.edu/~schmidt/C++/
+Root-URL: 
+Email: www.cs.wustl.edu/~schmidt/ schmidt@cs.wustl.edu  
+Title: Object-Oriented Design and Programming C++ Language Support for Abstract Data Types Objects Using ADTs An
+Author: Douglas C. Schmidt 
+Keyword: integer Values: Whole numbers between MIN and MAX values Operations: add, subtract, multiply, divide, etc. arrays Values: Homogeneous elements, i.e., array of X: Operations: initialize, store, retrieve,  tree search structure Values: Tree elements, i.e., tree of X Operations: insert, delete, find, size, traverse (in-order, post-order, pre-order, level-order), etc.  
+Note: Describing  Operations: and, or, not, nand, etc.  copy, etc. 3  is empty, is full, etc.  4  
+Address: St. Louis  
+Affiliation: Washington University,  
+Abstract-found: 0
+Intro-found: 0
+References-found: 0
+

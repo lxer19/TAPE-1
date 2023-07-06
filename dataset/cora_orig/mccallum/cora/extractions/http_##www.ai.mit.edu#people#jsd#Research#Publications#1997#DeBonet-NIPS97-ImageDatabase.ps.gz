@@ -1,0 +1,26 @@
+URL: http://www.ai.mit.edu/people/jsd/Research/Publications/1997/DeBonet-NIPS97-ImageDatabase.ps.gz
+Refering-URL: http://www.ai.mit.edu/people/jsd/cv/
+Root-URL: 
+Email: EMAIL: jsd@@ai.mit.edu viola@@ai.mit.edu  
+Title: Structure Driven Image Database Retrieval  
+Author: Jeremy S. De Bonet Paul Viola 
+Note: Accepted Advanced in Neural Information Processing 10 (1997).  
+Web: HOMEPAGE: http://www.ai.mit.edu/projects/lv  
+Address: 545 Technology Square  Cambridge, MA 02139  
+Affiliation: Artificial Intelligence Laboratory Learning Vision Group  Massachusetts Institute of Technology  
+Abstract: A new algorithm is presented which approximates the perceived visual similarity between images. The images are initially transformed into a feature space which captures visual structure, texture and color using a tree of filters. Similarity is the inverse of the distance in this perceptual feature space. Using this algorithm we have constructed an image database system which can perform example based retrieval on large image databases. Using carefully constructed target sets, which limit variation to only a single visual characteristic, retrieval rates are quantitatively compared to those of standard methods. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Desimone, R., Albright, T. D., Gross, C. G., and Bruce, C. </author> <year> (1984). </year> <title> Stimulus selective properties of inferior temporal neurons in the macaque. </title> <journal> Journal of Neuroscience, 4:20512062. </journal>
+Reference-contexts: Thus by finding patterns between image regions with particular local properties, more complex and therefore more discriminating features can be extracted. This type of repeated, non-linear, feature detection bears a strong resemblance to the response properties of visual cortex cells <ref> (Desimone et al., 1984) </ref>.
+Reference: <author> Duda, R. and Hart, P. </author> <year> (1973). </year> <title> Pattern Classification and Scene Analysis. </title> <publisher> John Wiley and Sons. </publisher>
+Reference-contexts: This is a diagonal approximation of the Mahalanobis distance <ref> (Duda and Hart, 1973) </ref>. It has the effect of normalizing the vector-space defined by the characteristic signatures, so that characteristic elements which are salient within the group of query images contribute more to the overall similarity of an image.
+Reference: <author> Kelly, M., Cannon, T. M., and Hush, D. R. </author> <year> (1995). </year> <title> Query by image example: the candid approach. </title> <booktitle> SPIE Vol. 2420 Storage and Retrieval for Image and Video Databases III, </booktitle> <pages> pages 238248. </pages>
+Reference: <author> Niblack, V., Barber, R., Equitz, W., Flickner, M., Glasman, E., Petkovic, D., Yanker, P., Falout-sos, C., and Taubin, G. </author> <year> (1993). </year> <title> The qbic project: querying images by content using color, texture, and shape. </title> <booktitle> IS&T/SPIE 1993 International Symposium on Electronic Imaging: Science & Technology, </booktitle> <address> 1908:173187. </address>
+Reference: <author> Pentland, A., Picard, R. W., and Sclaroff, S. </author> <year> (1995). </year> <title> Photobook: Content-based manipulation of image databases. </title> <type> Technical Report 255, </type> <institution> MIT Media Lab. </institution>
+Reference: <author> Picard, R. W. and Kabir, T. </author> <year> (1993). </year> <title> Finding similar patterns in large image databases. </title> <journal> ICASSP, V:161164. QBIC. The ibm qbic project. </journal> <note> Web: http://wwwqbic.almaden.ibm.com/. </note>
+Reference: <author> Rao, R. P. N. and Ballard, D. </author> <year> (1995). </year> <title> Object indexing using an iconic sparse distributed memory. </title> <type> Technical Report TR-559, </type> <institution> University of Rochester. </institution>
+Reference: <author> Santini, S. and Jain, R. </author> <year> (1996). </year> <title> Gabor space and the development of preattentive similarity. </title> <booktitle> In Proceedings of ICPR 96. International Conference on Pattern Recognition, </booktitle> <address> Vienna. </address>
+Reference: <author> Viola, P. </author> <year> (1996). </year> <title> Complex feature recognition: A bayesian approach for learning to recognize objects. </title> <type> Technical Report 1591, </type> <institution> MIT AI Lab. </institution> <month> Virage. </month> <title> The virage project. Web: http://www.virage.com/. von der Malsburg, </title> <address> C. </address> <year> (1988). </year> <title> Pattern recognition by labeled graph matching. Neural Networks, </title> <publisher> 1:141148. </publisher>
+References-found: 9
+

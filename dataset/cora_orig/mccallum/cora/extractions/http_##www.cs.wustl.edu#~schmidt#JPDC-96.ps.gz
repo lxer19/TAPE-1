@@ -1,0 +1,14 @@
+URL: http://www.cs.wustl.edu/~schmidt/JPDC-96.ps.gz
+Refering-URL: http://www.cs.wustl.edu/~schmidt/hsn-general.html
+Root-URL: 
+Email: schmidt@cs.wustl.edu suda@ics.uci.edu  
+Phone: 314 935-6160 (714) 856-4105 1  
+Title: The Performance of Alternative Threading Architectures for Parallel Communication Subsystems  
+Author: Douglas C. Schmidt Tatsuya Suda 
+Address: St. Louis, MO 63130 Irvine, California, 92717  
+Affiliation: Dept. of Comp. Sci. Info. and Comp. Sci. Dept. Washington University University of California, Irvine  
+Abstract: This paper has been submitted to the Journal of Parallel and Distributed Computing. Abstract A communication subsystem consists of protocol tasks and operating system mechanisms that support the configuration and execution of protocol stacks composed of protocol tasks. To parallelize a communication subsystem effectively, careful consideration must be given to the threading architecture. The threading architecture binds processing elements with the protocol tasks and the messages associated with protocol stacks in a communication subsystem. This paper makes two contributions to the study and application of threading architectures. First, it reports performance results from empirical comparisons of two protocol stacks (based on the connec-tionless and connection-oriented transport protocols UDP and TCP) using different threading architectures on a 20 CPU multi-processor platform. The results demonstrate how and why different threading architectures affect performance. Second, the paper provides guidelines based on these results that indicate when and how to apply appropriate threading architectures. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

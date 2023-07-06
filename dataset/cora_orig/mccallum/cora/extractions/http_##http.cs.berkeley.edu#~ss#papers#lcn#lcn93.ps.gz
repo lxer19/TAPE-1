@@ -1,0 +1,9 @@
+URL: http://http.cs.berkeley.edu/~ss/papers/lcn/lcn93.ps.gz
+Refering-URL: http://http.cs.berkeley.edu/~ss/papers.html
+Root-URL: http://www.cs.berkeley.edu
+Title: Abstract:  
+Abstract: Distributed systems in use today depend heavily on network communications between clients and servers. In this report, we describe the design and implementation of the network architecture (hardware, software and protocols) of the RAID-II system. RAID-II is a high speed file server connected to an UltraNetwork. To support high bandwidth network transfers with the RAID-II server, we divided the networking software among the various processors in the system. With the distributed software, the CPU still limits the RAID-II file server to 21Mbytes/second of data bandwidth on our network. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

@@ -1,0 +1,14 @@
+URL: http://www.cs.wustl.edu/~schmidt/ULPAA2-94.ps.gz
+Refering-URL: http://www.cs.wustl.edu/~schmidt/ACE-papers.html
+Root-URL: 
+Email: schmidt@ics.uci.edu and suda@ics.uci.edu  
+Phone: (714) 856-4105 1  
+Title: The ADAPTIVE Service Executive: An Object-Oriented Architecture for Configuring Concurrent Distributed Communication Systems  
+Author: Douglas C. Schmidt and Tatsuya Suda 
+Address: Irvine, CA 92717,  
+Affiliation: Department of Information and Computer Science University of California,  
+Abstract: An earlier version of this paper appeared in the proceedings of the 8 th IFIP International Working Conference on Upper Layer Protocols, Architectures, and Applications in Barcelona, Spain, June 1994. Abstract The ADAPTIVE Service eXecutive (ASX) is an object-oriented framework that enhance the development of distributed applications across a range of operating system platforms. The components in ASX were developed using object-oriented design techniques and C++ language features in order to simplify the use of OS mechanisms that provide interprocess communication, communication port de-multiplexing, explicit dynamic linking, and concurrency. In addition, the ASX components automate many system configuration and reconfiguration steps by dynamically linking network services into applications at run-time and arranging to execute these services on one or more processes or threads. This paper describes the structure and functionality of ASX and presents several examples illustrating key ASX features. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

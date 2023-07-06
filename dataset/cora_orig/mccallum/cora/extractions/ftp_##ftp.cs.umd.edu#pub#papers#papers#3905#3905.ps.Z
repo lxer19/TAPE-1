@@ -1,0 +1,20 @@
+URL: ftp://ftp.cs.umd.edu/pub/papers/papers/3905/3905.ps.Z
+Refering-URL: http://www.cs.umd.edu/TRs/TR.html
+Root-URL: 
+Title: Numerical Evaluation of Hierarchical QoS Routing  
+Author: Sungjoon Ahn, Gayathri Chittiappa, A. Udaya Shankar 
+Date: April 30, 1998  
+Address: College Park  
+Affiliation: Computer Science Department and UMIACS University of Maryland,  
+Pubnum: CS-TR-3905  
+Abstract: We develop a numerical evaluation method for adaptive hierarchical QoS routing, and demonstrate its viability by application to two networks. Our approach models aggregation and delayed feedback in a straightforward way, and is scalable to the large networks needed to evaluate hierarchical routing.
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> R. Guerin, H. Ahmadi, and M. Naghshineh. </author> <title> Equivalent capacity and its application to bandwidth allocation in high-speed networks. </title> <journal> IEEE J. Select. Areas Commun., </journal> <volume> SAC-9(7):968-981, </volume> <month> September </month> <year> 1991. </year>
+Reference-contexts: i ; M i mb i ), which means an on-off source with exponentially-distributed busy period of average duration b i , mean transmission rate m i , and peak transmission rate M i . 2.4 Admission Control The admission control policy is based on the concepts of effective capacity <ref> [1] </ref> and equal allocation [3].
+Reference: [2] <author> I. Matta and A.U. Shankar. </author> <title> Fast time-dependent evaluation of integrated services networks. To appear in Computer Networks and ISDN System Special Issue on Modeling of Wired and Wireless ATM, </title> <note> 1998. Preliminary version in Proc. IEEE ICNP '94, </note> <year> 1994. </year>
+Reference-contexts: The weighting function W R (t) is, in general, a function of the router's view, to be chosen to achieve a high likelihood of successful setup. In this report we use weights defined by <ref> [2] </ref>: W R (t) = H R (t) L R (t) where H R (t) is the path hop length, L R (t) is the path utilization (average of the utilizations of the path's links), and F R (t) is a measure of the feasibility of the path.
+Reference: [3] <author> R. Nagarajan, J. Kurose, and D. Towsley. </author> <title> Local allocation of end-to-end quality-of-service in high-speed networks. In IFIP TC6 Workshop on Modelling and Performance Evaluation of ATM Technology, </title> <institution> page 2.2, </institution> <month> January </month> <year> 1993. </year> <title> 14 Avg. No. of Customers Avg. Path Length Blocking Probability Throughput 15 Avg. No. of Customers Avg. Path Length Blocking Probability Throughput 16 </title>
+Reference-contexts: mb i ), which means an on-off source with exponentially-distributed busy period of average duration b i , mean transmission rate m i , and peak transmission rate M i . 2.4 Admission Control The admission control policy is based on the concepts of effective capacity [1] and equal allocation <ref> [3] </ref>.
+References-found: 3
+

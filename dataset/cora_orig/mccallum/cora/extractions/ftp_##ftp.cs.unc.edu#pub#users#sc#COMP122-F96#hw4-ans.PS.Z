@@ -1,0 +1,14 @@
+URL: ftp://ftp.cs.unc.edu/pub/users/sc/COMP122-F96/hw4-ans.PS.Z
+Refering-URL: http://www.cs.unc.edu/~sc/teaching/COMP122-F1996/homework.html
+Root-URL: http://www.cs.unc.edu
+Title: COMP 122: Algorithms and Analysis Solutions to Problem Set 4 Most of the problems in
+Author: Siddhartha Chatterjee lg n lg n lg n! n n lg n n lg e n 
+Note: P-2 Exercise 9.1-4 (page 175). Prof. Solomon claims that the (n lg  The &lt; relation on pairs is defined as follows:  
+Address: 2  
+Affiliation: lg  
+Date: Fall 1996  
+Abstract: P-1 Exercise 9.1-3 (page 175). Show that there is no comparison sort whose running time is linear for at least half of the n! inputs of length n. What about a fraction of 1=n of the inputs of length n? What about a fraction 1=2 n ? Solution: If the sort runs in linear time for m input permutations, then the height h of the portion of the decision tree consisting of the m corresponding leaves and their ancestors is linear. Use the same argument as in the proof of the lower bound to show that this is impossible for m = n!=2, n!=n, or n!=2 n . We have 2 h m, which gives us h lg m. For all possible m's given here, lg m = (n lg n), hence h = (n lg n). In particular, binary branching. Hence the number of comparisons required to sort n elements is still (n lg n). P-3 Exercise 9.3-2 (page 180).Which of the following sorting algorithms are stable: insertion sort, merge sort, heapsort, and quicksort? Give a simple scheme that makes any sorting algorithm stable. How much additional time and space does your scheme entail? Solution: Insertion sort is stable, and merge sort is stable if the merge is stable. But quicksort and heapsort are not stable. To turn any comparison-based sorting algorithm stable, sort on pairs (a i ; i) rather than on the a i alone. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

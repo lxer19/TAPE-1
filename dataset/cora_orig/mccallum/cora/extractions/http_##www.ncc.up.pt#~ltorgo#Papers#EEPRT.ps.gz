@@ -1,0 +1,15 @@
+URL: http://www.ncc.up.pt/~ltorgo/Papers/EEPRT.ps.gz
+Refering-URL: http://www.ncc.up.pt/~ltorgo/Papers/list_pub.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Email: email ltorgo@ncc.up.pt  
+Phone: Phone (+351) 2 607 8830 Fax (+351) 2 600 3654  
+Title: Error Estimators for Pruning Regression Trees  
+Author: Lus Torgo LIACC FEP R. Campo 
+Web: URL http://www.ncc.up.pt/~ltorgo  
+Address: 823, 2 4150 PORTO PORTUGAL  
+Affiliation: Alegre,  
+Abstract: This paper presents a comparative study of several methods for estimating the true error of treestructured regression models. We evaluate these methods in the context of regression tree pruning. The study is focused on problems where large samples of data are available. We present two novel variants of existent estimation methods. We evaluate several methods that follow different approaches to the estimation problem, and perform experimental evaluation in twelve domains. The goal of this evaluation is to characterise the performance of the methods in the task of selecting the best possible tree among the alternative trees considered during pruning. The results of the comparison show that certain estimators lead to very bad decisions in some domains. Our proposed variant of the holdout method obtained the best results in the experimental comparisons. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

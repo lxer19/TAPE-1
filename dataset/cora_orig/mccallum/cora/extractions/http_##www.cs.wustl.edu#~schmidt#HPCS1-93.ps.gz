@@ -1,0 +1,12 @@
+URL: http://www.cs.wustl.edu/~schmidt/HPCS1-93.ps.gz
+Refering-URL: http://www.cs.wustl.edu/~schmidt/resume.html
+Root-URL: 
+Title: Tools for Generating Application-Tailored Multimedia Protocols on Heterogeneous Multi-Processor Platforms  
+Author: Douglas C. Schmidt Burkhard Stiller Tatsuya Suda Martina Zitterbart 
+Address: Irvine, California, USA Karlsruhe, Germany  
+Affiliation: Info. and Comp. Sci. Dept. Institute of Telematics University of California, Irvine 1 University of Karlsruhe  
+Abstract: An earlier version of this paper appeared in the proceedings of the Second Higher Performance Communication Subsystems Workshop in Williamsburg, Virgina, September 1993. Abstract This paper describes an integrated set of tools for generating application-tailored communication protocol machines. In addition to simplifying the process of generating protocols by automating certain development steps, these tools also facilitate the mapping of platform-independent protocol machines onto several types of multi-processor end-system architectures. An overview of the steps used to generate customized protocol machines is presented and a set of criteria for characterizing tool behavior are defined. Three distinct classes of tools are examined: (1) configuration tools transform high-level application specifications into platform-independent protocol machine configurations by selecting and ordering the requisite protocol functions, (2) synthesis tools compose and statically interconnect platform-dependent object-code and data to form executable protocol machine instantiations, and (3) mapping tools place these executable instantiations onto processing elements in the run-time environment of shared-memory or message-passing target platforms. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

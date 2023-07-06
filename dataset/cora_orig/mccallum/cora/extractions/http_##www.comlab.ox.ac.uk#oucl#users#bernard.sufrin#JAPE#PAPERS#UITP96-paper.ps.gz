@@ -1,0 +1,19 @@
+URL: http://www.comlab.ox.ac.uk/oucl/users/bernard.sufrin/JAPE/PAPERS/UITP96-paper.ps.gz
+Refering-URL: http://www.comlab.ox.ac.uk/oucl/users/bernard.sufrin/jape.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: User Interfaces for Generic Proof Assistants Part I: Interpreting Gestures  
+Author: Bernard Sufrin Richard Bornat 
+Date: April 3, 1998  
+Abstract: JAPE is a generic proof editor which (amongst other things) offers the teacher, user, or logic designer the opportunity of constructing a direct manipulation interface for proofs. In part I of this paper we introduce JAPE, illustrate some aspects of proof development by direct manipulation, and describe some of the infrastructure provided for interpreting the gestures which users make at proofs. In part II we discuss the problem of displaying proofs at appropriate levels of abstraction, and describe the infrastructure JAPE provides for eliding proof steps from the display.' 
+Abstract-found: 1
+Intro-found: 1
+Reference: [Bornat and Sufrin, 1996a] <author> Richard Bornat and Bernard Sufrin 1996a. </author> <title> The Jape Web Sites. </title> <address> http://www.comlab.ox.ac.uk/oucl/users/bernard.sufrin/jape.html ftp://ftp.dcs.qmw.ac.uk/programming/jape/index.html </address>
+Reference-contexts: Several specimen logics accompany the standard distribution of Jape <ref> [Bornat and Sufrin, 1996a] </ref>, and we have selected two of these logics to provide the setting for most of the discussion below.
+Reference: [Bornat and Sufrin, 1996b] <editor> Richard Bornat and Bernard Sufrin 1996b. </editor> <booktitle> Jape's Quiet Interface. Proceedings of this Workshop </booktitle>
+Reference-contexts: For example, Figure 1 shows a partial proof in both tree and box forms. 2 We discuss the relationship between these two views in <ref> [Bornat and Sufrin, 1996b] </ref>. 3 Interpreting Gestures The user's side of the interaction is conducted by making gestures at JAPE: these are made by typing, by mouse-clicks, or by mouse-drags.
+Reference: [Bornat and Sufrin, 1998b] <author> Richard Bornat and Bernard Sufrin 1998b. </author> <title> User Interfaces for Generic Proof Assistants Part II: Displaying Proofs. </title> <note> (Revised Version: Available at the Jape Web sites) </note>
+Reference: [Fitch, 1952] <author> Fitch, </author> <title> F.B. 1952.Symbolic Logic. </title> <publisher> Ronald Press, </publisher> <address> New York </address>
+Reference-contexts: This support is discussed in part II of this paper [Bornat and Sufrin, 1996c]. During a proof, the user is shown a view of the proof tree; this can be literally tree-shaped, or more usefully presented in the boxed style pioneered by Fitch <ref> [Fitch, 1952] </ref>.
+Reference: [Stevens, 1996] <author> Andrew Stevens 1996. </author> <title> Towards Mechanised Revision of Proofs and Theories Proceedings of this Workshop 16 </title>
+References-found: 5
+

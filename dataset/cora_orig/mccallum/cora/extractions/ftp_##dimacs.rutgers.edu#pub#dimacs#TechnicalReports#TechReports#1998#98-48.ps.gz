@@ -1,0 +1,32 @@
+URL: ftp://dimacs.rutgers.edu/pub/dimacs/TechnicalReports/TechReports/1998/98-48.ps.gz
+Refering-URL: http://dimacs.rutgers.edu/TechnicalReports/1998.html
+Root-URL: http://www.cs.rutgers.edu
+Title: Duality for L p Cohomology and Characteristic Classes  
+Author: by Oliver Attie Jonathan Block 
+Address: New Brunswick, New Jersey 08903  Philadelphia, Pennsylvania 19104  
+Affiliation: Dept. of Computer Science Rutgers University  Department of Mathematics University of Pennsylvania  
+Note: Poincare  DIMACS is a partnership of Rutgers University, Princeton University, AT&T Labs-Research, Bell Labs, Bellcore and NEC Research Institute. DIMACS is an NSF Science and Technology Center, funded under contract STC-91-19999; and also receives support from the New Jersey Commission on Science and Technology.  
+Abstract: DIMACS Technical Report 98-48 October 1998 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> L.V. Ahlfors, </author> <title> Zur Theorie der Uberlagerungsflachen, </title> <journal> Acta Math. </journal> <year> (1935) </year>
+Reference-contexts: 1 Introduction The purpose of this article is to prove Poincare duality for L p cohomology. This relates the amenability criteria of Gromov (see [J]) and Block-Weinberger [BW], and of [ABW] to the criterion described in [A1]. Finally, we will give a complete proof of the statement in <ref> [1] </ref> relating the structure set of M fi R to the Pontrjagin classes in uff cohomology. In the following we introduce a fine version of this coarse homology theory and prove that it is Poincare dual to bounded de Rham cohomology described by Gromov [G], Januszkiewicz [J] and Roe [R1].
+Reference: [2] <author> O.Attie, J.Block and S. Weinberger, </author> <title> Characteristic classes and distortion of diffeomor-phisms, </title> <journal> Journal of the A.M.S. </journal> <volume> 5, </volume> <month> 919-921 </month> <year> (1992) </year>
+Reference: [3] <author> O.Attie, </author> <title> Quasi-isometry classification of some manifolds of bounded geometry, </title> <address> Math.Zeit. </address> <month> 216 </month> <year> (1994) </year>
+Reference: [4] <author> J. Block and S. Weinberger, </author> <title> Aperiodic tilings, positive scalar curvature and amenability of spaces, </title> <journal> Journal of the A.M.S. </journal> <year> (1992) </year>
+Reference: [5] <author> J. Block and S. Weinberger, </author> <title> Large scale geometry, </title> <booktitle> Proceedings of the 1993 Georgia Topology Conference </booktitle>
+Reference: [6] <author> J. Cheeger, </author> <title> Finiteness theorems for Riemannian manifolds, </title> <journal> Amer. J. of Math. </journal> <volume> 90, </volume> <month> 62-71 </month> <year> (1970) </year>
+Reference: [7] <author> J. Cheeger, W. Muller and R. Schrader, </author> <title> On the curvature of piecewise flat spaces, </title> <journal> Commun. Math. Phys. </journal> <volume> 92, </volume> <month> 405-484 </month> <year> (1984) </year>
+Reference: [8] <author> J.Dodziuk, </author> <title> Homotopy invariance of L 2 Betti numbers, </title> <booktitle> Topology (1976) </booktitle>
+Reference: [9] <author> J. </author> <title> Eichhorn,Characteristic classes of noncompact manifolds, </title> <booktitle> 1986 Conference on Differential Geometry and its Applications, </booktitle> <address> Brno, Czechoslovakia (1987) </address>
+Reference: [10] <author> S. Gersten, </author> <title> Bounded cocycles and combings of groups (1992), </title> <type> preprint </type>
+Reference: [11] <editor> P.Griffiths and J.Harris, </editor> <booktitle> Algebraic Geometry (1978) </booktitle>
+Reference: [12] <author> M. Gromov, </author> <title> Kaehler hyperbolicity and L 2 -Hodge theory, </title> <journal> J. of Diff. Geom. </journal> <volume> 33, </volume> <month> 237-263 </month> <year> (1991) </year>
+Reference: [13] <author> J.Heitsch and C.Lazarov, </author> <title> A Lefschetz theorem for open manifolds, </title> <journal> Contemp. Math. </journal> <month> 105 </month> <year> (1990) </year>
+Reference: [14] <author> T. Januszkiewicz, </author> <title> Characteristic invariants of noncompact Riemannian manifolds, </title> <type> Topology 23, </type> <month> 289-302 </month> <year> (1984) </year>
+Reference: [15] <editor> C.R.F. Maunder, </editor> <booktitle> Algebraic Topology (1970) </booktitle>
+Reference: [16] <author> J. Roe, </author> <title> An index theorem for open manifolds I, II, </title> <journal> J. of Diff. Geom. </journal> <volume> 28, </volume> <month> 87-135 </month> <year> (1988) </year>
+Reference: [17] <author> J. Roe, </author> <title> Index theory and coarse cohomology on complete Riemannian manifolds, Mem. </title> <publisher> A.M.S. </publisher> <year> (1993) </year>
+Reference: [18] <author> H. Whitney, </author> <title> Geometric Integration Theory (1957) </title>
+References-found: 18
+

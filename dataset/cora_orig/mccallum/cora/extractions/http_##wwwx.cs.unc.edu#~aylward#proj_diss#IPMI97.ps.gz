@@ -1,0 +1,13 @@
+URL: http://wwwx.cs.unc.edu/~aylward/proj_diss/IPMI97.ps.gz
+Refering-URL: http://wwwx.cs.unc.edu/~aylward/index.shtml
+Root-URL: http://www.cs.unc.edu
+Title: Printed in Proceedings of the Information Processing for Medical Imaging Conference, Ed.  Continuous Gaussian Mixture Modeling  
+Author: James Duncan, Stephen Aylward and Stephen Pizer 
+Address: Chapel Hill, NC 27599  
+Affiliation: 1 Department of Radiology 2 Department of Computer Science Medical Image Display and Analysis Group University of North Carolina  
+Note: Vermont, 1997. 14 Pages  
+Abstract: When the projection of a collection of samples onto a subset of basis feature vectors has a Gaussian distribution, those samples have a generalized projective Gaussian distribution (GPGD). GPGDs arise in a variety of medical images as well as some speech recognition problems. We will demonstrate that GPGDs are better represented by continuous Gaussian mixture models (CGMMs) than finite Gaussian mixture models (FGMMs). This paper introduces a novel technique for the automated specification of CGMMs, height ridges of goodness-of-fit. For GPGDs, Monte Carlo simulations and ROC analysis demonstrate that classifiers utilizing CGMMs defined via goodness-of-fit height ridges provide consistent labelings and compared to FGMMs provide better true-positive rates (TPRs) at low false-positive rates (FPRs). The CGMM-based classification of gray and white matter in an inhomogeneous magnetic resonance (MR) image of the brain is demonstrated. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

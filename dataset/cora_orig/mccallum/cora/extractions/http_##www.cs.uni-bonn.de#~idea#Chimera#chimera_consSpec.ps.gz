@@ -1,0 +1,23 @@
+URL: http://www.cs.uni-bonn.de/~idea/Chimera/chimera_consSpec.ps.gz
+Refering-URL: http://www.cs.uni-bonn.de/~idea/differences.html
+Root-URL: http://cs.uni-bonn.de
+Title: Intelligent Database Environment for Advanced Applications IDEA CONSOLIDATED SPECIFICATION OF CHIMERA  
+Author: (CM and CL) Stefano Ceri, Rainer Manthey Contributor(s): Elena Baralis, Elisa Bertino, Christoph Draxler, Ulrike Griefahn, Danilo Montesi, Andrea Sikeler, Letizia Tanca Issued by: Stefano Ceri Authorised by: S. Ceri 
+Address: Piazza L. Da Vinci, 32 20133 Milano ITALY  
+Affiliation: Dipartimento di Elettronica e Informazione Politecnico di Milano  
+Date: June 1993  
+Note: Summary: This document constitutes the consolidated definition of Chimera; it is a revised version of the T21D2 deliverable presented in  Author(s):  Issue number: 1 Status: DEFINITIVE Date of issue: 29.11.1993 Reference: IDEA.DE.2P.006.01 Number of pages: 86 Copyright 1993 POLI ESPRIT Project 6333 Page 1  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> S. Ceri, R. Manthey: </author> <title> First Specification of Chimera (CM and CL), </title> <address> IDEA.DD.2P.004.02, </address> <month> May </month> <year> 1993. </year>
+Reference-contexts: 1 INTRODUCTION This document defines Chimera, the conceptual interface of IDEA. It constitutes a revised version of the first specification of Chimera, issued in June 1993 <ref> [1] </ref>. The major differences between the two specifications have been summarized in a short supplementary document [2].
+Reference: [2] <author> S. Ceri, U. Griefahn, R. Manthey: </author> <title> A Summary of New Features of Chimera, </title> <publisher> IDEA.DE.2P.005.01 </publisher>
+Reference-contexts: 1 INTRODUCTION This document defines Chimera, the conceptual interface of IDEA. It constitutes a revised version of the first specification of Chimera, issued in June 1993 [1]. The major differences between the two specifications have been summarized in a short supplementary document <ref> [2] </ref>. Chimera consists of a conceptual model (also called Chimera Model, short: CM), providing object-oriented modelling facilities, and of a conceptual language (also called Chimera Language, short: CL), providing data definitions, declarative queries, procedural primitives for database manipulation, as well as various forms of rules and constraints.
+Reference: [3] <author> M. Novak, G. Gardarin, and P. Valduriez: Flora, </author> <title> A Functional-Style Language for Object and Relational Algebra, </title> <address> IDEA.DD.4N.001, </address> <month> February </month> <year> 1993. </year>
+Reference: [4] <author> E. Baralis, E. Bertino, F. Cacace, S. Ceri, S. Crespi-Reghizzi, L. Tanca: </author> <title> "Issues in the design of the IDEA Conceptual Interface", </title> <address> IDEA.DD.2P.001.01, </address> <month> July </month> <year> 1992. </year> <title> ESPRIT Project 6333 Page 71 Intelligent Database Environment for Advanced Applications IDEA </title>
+Reference: [5] <author> P. Bayer, S. Bressan, A. Sikeler, B. Wuthrich: </author> <title> "Combining Object-Oriented and Deductive Database Definition and Manipulation Languages", </title> <type> Internal Report ECRC-92, </type> <month> September </month> <year> 1992. </year>
+Reference: [6] <author> P. Dechamboux, M. Lopez, C. Roncancio: </author> <title> "The Data Model of the Peplom DBPL", </title> <address> IDEA.WP.1B.001, </address> <month> October </month> <year> 1992. </year>
+Reference: [7] <author> P. Bayer, J. Fox: </author> <title> "State-of-the-Art Report on Reactive Processing", </title> <address> IDEA.DD.2E.001, </address> <month> June 93. </month>
+
+References-found: 7
+

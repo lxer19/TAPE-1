@@ -1,0 +1,24 @@
+URL: ftp://dimacs.rutgers.edu/pub/dimacs/TechnicalReports/TechReports/1996/96-41.ps.gz
+Refering-URL: http://dimacs.rutgers.edu/TechnicalReports/1996.html
+Root-URL: http://www.cs.rutgers.edu
+Email: (boros@rutcor.rutgers.edu)  (gurvich@rutcor.rutgers.edu)  
+Title: Duchet Kernel Conjecture 1  
+Author: by E. Boros V. Gurvich 
+Address: P.O. Box 5062 New Brunswick, NJ 08903  P.O. Box 5062 New Brunswick, NJ 08903  
+Affiliation: RUTCOR Rutgers University,  DIMACS RUTCOR Rutgers University,  
+Note: A corrected version of the  
+Abstract: DIMACS Technical Report 96-41 September 1996 DIMACS is a partnership of Rutgers University, Princeton University, AT&T Research, Bellcore, and Bell Laboratories. DIMACS is an NSF Science and Technology Center, funded under contract STC-91-19999; and also receives support from the New Jersey Commission on Science and Technology. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> R. Aharoni, </author> <title> R Holzman (1995). Fractional kernels in digraphs. </title> <type> Manuscript. </type> <note> To appear in J. of Combinatorial Theory. </note>
+Reference: [2] <author> A. Apartsin, E. Ferapontova and V. </author> <month> Gurvich </month> <year> (1996). </year> <title> A circular graph counterexample to the Duchet kernel conjecture. </title> <type> RUTCOR Research Report, 18-96, DIMACS Technical Report 96-32, </type> <institution> Rutgers University. </institution> <note> Submitted to Discrete Mathematics. </note>
+Reference: [3] <author> C. Berge and P. </author> <month> Duchet </month> <year> (1983 </year> <month> Jan.). </month> <title> Probleme, </title> <type> Seminaire MSH, </type> <institution> Paris. </institution>
+Reference: [4] <author> C. Berge and P. </author> <month> Duchet </month> <year> (1990). </year> <title> Recent problems and results about kernels in perfect graphs. </title> <booktitle> Discrete Mathematics 86, </booktitle> <pages> pp. 27-31. </pages>
+Reference: [5] <author> E. Boros and V. </author> <title> Gurvich (1994) Perfect graphs are kernel-solvable. </title> <type> Rutcor Research Report 16-94, Dimacs Technical Report 94-32, </type> <institution> Rutgers University. </institution> <note> To appear in Discrete Mathematics. </note>
+Reference: [6] <author> P. </author> <month> Duchet </month> <year> (1980), </year> <title> Graphs noyaux parfaits, </title> <journal> Annals of Discrete Mathematics 9, </journal> <pages> pp. 93-101. </pages>
+Reference: [7] <author> F. </author> <month> Maffray </month> <year> (1988), </year> <title> Kernels of perfect graphs, </title> <type> RUTCOR Research Report, 34-88, </type> <institution> Rutgers University. </institution>
+Reference: [8] <author> H. </author> <month> Meyniel </month> <year> (1984), </year> <title> The graphs whose odd cycles have at least two chords, in: Topics on Perfect Graphs, </title> <journal> Math. Stud. </journal> <note> 88 (C. </note> <editor> Berge and V. Chvatal, eds.), </editor> <year> 1984, </year> <pages> pp. 115-120. </pages>
+Reference: [9] <author> E. </author> <month> Olaru </month> <year> (1972), </year> <title> Beitrage zur Theorie der perfekten Graphen, </title> <journal> Elektronische Informa-tionsverarbeitung und Kybernetik (EIK) 8, </journal> <pages> pp. 147-172. </pages>
+Reference: [10] <author> E. Olaru and H. </author> <title> Sachs (1984), Contributions to a characterization of the structure of perfect graphs, in: Topics on Perfect Graphs (C. </title> <editor> Berge and V. Chvatal, eds.), </editor> <booktitle> Annals of Discrete Mathematics 21, </booktitle> <pages> pp. 121-144. 3 </pages>
+References-found: 10
+

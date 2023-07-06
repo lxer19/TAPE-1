@@ -1,0 +1,20 @@
+URL: http://www.cs.ucla.edu/~stott/Student.Publications/Coleman.MSthesis.ps.Z
+Refering-URL: http://www.cs.ucla.edu/~stott/aglo/
+Root-URL: http://www.cs.ucla.edu
+Note: xiii  
+Abstract: method of Fruchterman and Reingold (1991), and provides a better theoretical foundation for these methods. In addition, we have developed several new layout aesthetics to support new layout styles. Using these aesthetics, we are able to produce pleasing displays for graphs on which these other methods flounder. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [Bra88] <author> Franz J. Brandenburg. </author> <title> Nice drawings of graphs are computationally hard. </title> <editor> In P. Gorny and M. J. Tauber, editors, </editor> <booktitle> Visualization in Human-Computer Interaction, </booktitle> <pages> pages 1-15. </pages> <publisher> Springer-Verlag, </publisher> <month> May </month> <year> 1988. </year>
+Reference: [CE89] <author> Mike Coleman and Paul Eggert. </author> <title> Language-independent software visualization tools. </title> <type> Unpublished, </type> <month> November </month> <year> 1989. </year>
+Reference: [CH83] <author> Vira Chankong and Yacov Y. Haimes. </author> <title> Multiobjective Decision Making. </title> <publisher> Elsevier Science Publishing, </publisher> <address> New York, </address> <year> 1983. </year>
+Reference: [CH88] <author> G. M. Crippen and T. F. </author> <title> Havel. Distance Geometry and Molecular Conformation. </title> <publisher> Research Studies Press, </publisher> <year> 1988. </year>
+Reference: [Dav87] <author> Lawrence Davis, </author> <title> editor. Genetic Algorithms and Simulated Annealing. </title> <booktitle> Research Notes in Artificial Intelligence. </booktitle> <publisher> Morgan Kaufman, </publisher> <year> 1987. </year>
+Reference: [DH89] <author> R. Davidson and D. Harel. </author> <title> Drawing graphs nicely using simulated annealing. </title> <type> Technical Report CS89-13, </type> <institution> Department of Applied Mathematics and Computer Science, Weizmann Institute of Science, </institution> <month> July </month> <year> 1989. </year>
+Reference: [Ead84] <author> Peter Eades. </author> <title> A heuristic for graph drawing. </title> <journal> Congressus Numerantium, </journal> <volume> 42 </volume> <pages> 149-160, </pages> <year> 1984. </year>
+Reference: [ET89] <author> Peter Eades and Roberto Tamassia. </author> <title> Algorithms for drawing graphs: An annotated bibliography. </title> <type> Technical Report CS-89-09, </type> <institution> Brown University DCS, </institution> <year> 1989. </year>
+Reference: [FR91] <author> Thomas M. J. Fruchterman and Edward M. Reingold. </author> <title> Graph drawing by force-directed placement. </title> <journal> Software-Practice and Experience, </journal> <volume> 21(11) </volume> <pages> 1129-1164, </pages> <month> November </month> <year> 1991. </year>
+Reference: [GMW81] <author> Philip E. Gill, Walter Murray, and Margaret H. Wright. </author> <title> Practical Optimization. </title> <publisher> Academic Press, </publisher> <year> 1981. </year>
+
+References-found: 10
+

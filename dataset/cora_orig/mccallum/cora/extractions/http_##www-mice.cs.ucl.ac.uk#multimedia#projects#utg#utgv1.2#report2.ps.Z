@@ -1,0 +1,22 @@
+URL: http://www-mice.cs.ucl.ac.uk/multimedia/projects/utg/utgv1.2/report2.ps.Z
+Refering-URL: http://www-mice.cs.ucl.ac.uk/multimedia/projects/utg/
+Root-URL: http://www.cs.ucl.ac.uk
+Email: Email: j.yang@cs.ucl.ac.uk  
+Title: Accessing MBone Sessions over N-ISDN  
+Author: Jin Yang 
+Date: August 21, 1997  
+Address: UK  
+Affiliation: Computer Science Department, UCL,  
+Pubnum: (Merci project technical report, draft)  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> E. Amir, S. MaCanne, and H. Zhang. </author> <title> An application-level video gateway. </title> <booktitle> In Proceedings of ACM Multimedia '95, </booktitle> <year> 1995. </year>
+Reference-contexts: One approach for rate adaption is to adjust the transmission rate from within the network. In this way, heterogeneity is "locally" accommodated by fine-tuning the transmission rate to exactly match the available capacity on each link in network. Amir et al. developed an application level video gateway <ref> [1] </ref>, called vgw, which, being placed throughout the network, can transcode video streams into a lower bit rate coding, using either the same coding format with different parameters or a different coding scheme. the video gateway engine in this application software is adopted to carry out the video stream filtering work
+Reference: [2] <author> J. Crowcroft, I. Wakeman, M. Handley, and S. Clayman. </author> <title> Internetworking Multimedia. </title> <publisher> UCL Press, </publisher> <year> 1996. </year>
+Reference: [3] <author> M. Handley. </author> <title> Session coordination protocol. </title> <type> Technical report, </type> <institution> UCL, </institution> <year> 1996. </year>
+Reference-contexts: It was also used in vgw. The idea is further deployed in SCP <ref> [3] </ref>. The conference bus is used in vgw for communication between vgw engine and its interface. The same structure is followed in our system: the video filtering engine and audio relay engine interact with their control interface through conference bus (see Figure 14).
+Reference: [4] <author> S. MaCanne. </author> <title> Scalable Compression and transmission of Internet Multicast Video. </title> <type> PhD thesis, </type> <institution> University of California, Berkeley, </institution> <month> December </month> <year> 1996. </year>
+Reference-contexts: In turn, each receiver individually tunes its reception rate by adjusting the number of layers that it receives. For more details see <ref> [4] </ref>. 2 Major components 2.1 Network configuration The network configuration used in the UCL-CS MERCI activity is illustrated in Figure 2. The Windows 95 Dial-Up Network subsystem allows remote/mobile users to designate a computer running Window 95 as a dial-up client.
+Reference: [5] <author> S. MaCanne and V. Jacobson. </author> <title> vic: a flexible framework for packet video. </title> <booktitle> In Proceedings of ACM Multimedia '95, </booktitle> <year> 1995. </year> <month> 13 </month>
+References-found: 5
+

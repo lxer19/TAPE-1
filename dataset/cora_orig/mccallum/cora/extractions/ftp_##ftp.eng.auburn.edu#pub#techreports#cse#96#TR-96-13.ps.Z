@@ -1,0 +1,22 @@
+URL: ftp://ftp.eng.auburn.edu/pub/techreports/cse/96/TR-96-13.ps.Z
+Refering-URL: ftp://ftp.eng.auburn.edu/pub/techreports/README.html
+Root-URL: 
+Title: Computer-aided Software Engineering in a Computer Supported Cooperative Work Environment  
+Author: Jonathan D. Fouss 
+Note: This work is supported, in part, by the U.S.  under contract No. 70NANB5H0117.  
+Date: November 13, 1996  
+Address: 107 Dunstan Hall  Auburn, AL 36849-5347 USA  
+Affiliation: Department of Computer Science Engineering  Auburn University  Department of Commerce, National Institute of Standards and Technology,  
+Pubnum: Technical Report 96-13  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> Chang, K., Y. Gong, S. Gajiwala, and A. Wear, </author> <title> "On Computer Supported Collaborative Writing Tools for Distributed Environments," </title> <booktitle> Proceedings of 1995 ACM Computer Science Conference, </booktitle> <address> Feb. 28-Mar. 2, 1995, Nashville, TN, </address> <pages> pp. 222-229. </pages>
+Reference-contexts: The objective of the computer supported cooperative work (CSCW) project is to provide an environment that supports this process. In particular, this environment provides collaborative tools that support computer-aided design (CAD) and computer-aided software engineering (CASE). <ref> [1] </ref> A CSCW environment has been developed by a team of faculty and students at Auburn University. This system is an expansion of an earlier project that focused on collaborative writing, called Distributed Collaborative Writing Aid (DCWA). The CSCW project has added functionality so that it supports CAD and CASE.
+Reference: [2] <author> Dollar II, Timothy D, </author> <title> A Method for Maintaining Spatial Relationships Among Graphical Objects in a Distributed Collaborative Writing Environment, </title> <institution> Auburn University, Department of Computer Science & Engineering, </institution> <type> Thesis, </type> <month> March 17, </month> <year> 1995. </year>
+Reference: [3] <author> Gong, Y., A. Wear, and K. Chang, </author> <title> "Database Management for Multimedia Distributed Collaborative Writing," </title> <booktitle> Proceedings of 33rd ACM Southeast Conference, </booktitle> <address> March 17-18, 1995, Clemson, SC, </address> <pages> pp. 42-51. </pages>
+Reference: [4] <author> Lee, Byong G., </author> <title> Design and Development of Distributed Collaborative Writing Aid and Its Integration, </title> <institution> Auburn University, Department of Computer Science & Engineering, </institution> <type> Thesis, </type> <month> August 30, </month> <year> 1996. </year>
+Reference-contexts: Through this system group members can work on different parts of the project simultaneously. DCWA does allow multiple group members to view a locked node's contents. This means the group members can discuss that part of project. Communication between members is facilitated by DCWA's video conferencing system. <ref> [4] </ref> 2. Problem One of the objectives of DCWA is to allow groups to collaborate on software development. The intention is to give users a single place to perform all the steps of the typical 3 software engineering development process.
+Reference: [5] <author> Liberty, Jesse and J. Mark Hord, </author> <title> Teach Yourself ANSI C++ in 21 Days, </title> <journal> pp. </journal> <pages> 609-621, </pages> <publisher> SAMS Publishing, </publisher> <address> Indianapolis, IN, </address> <year> 1996. </year>
+Reference-contexts: Three, splitting a program in to several files saves on compiler time. If the program was contained in a single file, the whole program would have to be recompiled whenever a change was made. By splitting the program, only the altered file must be compiled. <ref> [5] </ref> The first part of the approach is to define precisely what is allowed in code nodes. Instead of simply allowing any fragment of code, DCWA specifies that the content of code nodes should be black box functions. <p> It is still 6 possible to use global variables, but they must be first defined in the master file. The user must then redefine the global variables in the code nodes with the EXTERN command. <ref> [5] </ref> To produce the executable, DCWA produces a "make" file. The make file contains all the required information needed to compile the program. The user can edit the make file to make any customizations needed.
+References-found: 5
+

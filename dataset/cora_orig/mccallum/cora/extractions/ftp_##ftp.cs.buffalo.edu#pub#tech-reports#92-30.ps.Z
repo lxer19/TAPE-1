@@ -1,0 +1,14 @@
+URL: ftp://ftp.cs.buffalo.edu/pub/tech-reports/92-30.ps.Z
+Refering-URL: ftp://ftp.cs.buffalo.edu/pub/tech-reports/README.html
+Root-URL: 
+Email: sher@cs.buffalo.edu cheung@cs.buffalo.edu  
+Title: Constructing Noise-Reducing Operators from Training Images  
+Author: David B. Sher Chris Y. Cheung 
+Keyword: and Phrases non-linear operator; noise reduction; image reconstruction; edge relaxation; probabilistic relaxation  
+Address: 226 Bell Hall Amherst, NY 14260-2000  
+Affiliation: SUNY at Buffalo CS Department  
+Abstract: We discuss constructing non-linear noise reduction operators on binary images using a training set of noiseless images. We extract from the training set a probability distribution over local neighborhoods. Our operator changes pixel values when such a change turns a low probability neighborhood into high probability one. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

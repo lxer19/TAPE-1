@@ -1,0 +1,13 @@
+URL: http://www.neci.nj.nec.com/homepages/omlin/papers/kbs.paper.ps.gz
+Refering-URL: http://www.neci.nj.nec.com/homepages/omlin/
+Root-URL: http://www.neci.nj.nec.com
+Title: Dynamic Adaptation of Recurrent Neural Network Architectures Guided by Symbolic Knowledge  
+Author: C.W. Omlin a C.L. Giles b;c 
+Keyword: Key words: Knowledge-based recurrent neural networks, dynamic network adaptation, symbolic knowledge extraction, symbolic knowledge insertion, knowledge refinement.  
+Address: 4 Independence Way, Princeton, NJ 08540, USA  College Park, MD 20742, USA  
+Affiliation: a Computer Science Department, University of Stellenbosch 7600 Stellenbosch, SOUTH AFRICA b NEC Research Institute,  c UMIACS, University of Maryland,  
+Abstract: The success and the time needed to train neural networks with a given learning algorithm depend on the learning task, the initial conditions, and the network architecture. Particularly, the number of hidden units in feedforward and recurrent neural networks is an important factor. We propose a novel method for dynamically adapting the architecture of recurrent neural networks trained to behave like deterministic finite-state automata (DFAs). It differs from other constructive approaches in that our method relies on the continuous extraction and insertion of symbolic knowledge in the form of DFAs. The network architecture (number of neurons and weight configuration) changes during training based on the symbolic information extracted from undertrained networks. We successfully trained recurrent networks to recognize strings of a regular language accepted by a non-trivial, randomly generated deterministic finite-state automaton. Our empirical results indicate that symbolically-driven network adaptation results in networks train faster than networks trained with standard networks growing methods and show comparable generalization performance. Furthermore they generalize better than networks whose architectures remains unchanged during training. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

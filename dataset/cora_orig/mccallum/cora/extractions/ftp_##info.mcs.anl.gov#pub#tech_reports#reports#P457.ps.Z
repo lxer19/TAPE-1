@@ -1,0 +1,15 @@
+URL: ftp://info.mcs.anl.gov/pub/tech_reports/reports/P457.ps.Z
+Refering-URL: http://www.mcs.anl.gov/publications/abstracts/abstracts94.htm
+Root-URL: http://www.mcs.anl.gov
+Title: ASYMPTOTIC CONVERGENCE ANALYSIS OF THE FORWARD-BACKWARD SPLITTING ALGORITHM  
+Author: Ciyou Zhu 
+Keyword: Monotone operator, multivalued equation, variational inequality, splitting algorithm, proximal point algorithm, asymptotic convergence.  
+Note: Currrent address:  
+Date: September 1991; revised April 1993.  
+Address: Baltimore, MD 21218  Argonne, IL 60439.  
+Affiliation: Department of Mathematical Sciences Johns Hopkins University,  Mathematics and Computer Science Division, Argonne National Laboratory,  
+Abstract: The asymptotic convergence of the forward-backward splitting algorithm for solving equations of type 0 2 T (z) is analyzed, where T is a multivalued maximal monotone operator in the n-dimensional Euclidean space. When the problem has a nonempty solution set, and T is split in the form T = T + h with T being maximal monotone and h being co-coercive with modulus greater than 1 2 ; convergence rates are shown, under mild conditions, to be linear, superlinear, or sublinear depending on how rapidly T 1 and h 1 grow in the neighborhoods of certain specific points. As a special case, when both T and h are polyhedral functions, we get R-linear convergence and 2-step Q-linear convergence without any further assumptions on the strict monotonicity on T or on the uniqueness of the solution. As another special case when h = 0; the splitting algorithm reduces to the proximal point algorithm, and we get new results, which complement R. T. Rockafellar's and F. J. Luque's earlier results on the proximal point algorithm. * This work was initiated when the author was at University of Washington and were completed when the author was at the Johns Hopkins University, supported by Eliezer Naddor Postdoctoral Fellowship in Mathematical Sciences during the year 1991-92. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

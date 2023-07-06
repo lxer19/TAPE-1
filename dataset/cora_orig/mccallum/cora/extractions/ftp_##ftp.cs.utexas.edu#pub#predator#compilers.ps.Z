@@ -1,0 +1,23 @@
+URL: ftp://ftp.cs.utexas.edu/pub/predator/compilers.ps.Z
+Refering-URL: http://www.cs.utexas.edu/users/schwartz/pub.htm
+Root-URL: 
+Title: 8 Designing Reusable Classes, Journal of Object-Oriented Programming, June/July 1988. ZPL: An Array Sublanguage, Languages
+Author: [Joh] R.E. Johnson and B. Foote, [Lin] C. Lin and L. Snyder, L. Logrippo, M. Faci, and M. Haj-Hussein, 
+Date: 1992, 325-342.  
+Note: Computing, Springer-Verlag, 1993. [Log92]  Vol. 23, North-Holland,  IEEE Transactions on Software Engineering, March 1979. -Per89] D. E. Perry, The Inscape Environment, Proc. ICSE 1989, 2-12.  
+Abstract-found: 0
+Intro-found: 1
+Reference: [Bat92] <author> D. Batory and S. OMalley, </author> <title> The Design and Implementation of Hierarchical Software Systems with Reusable Components, </title> <journal> ACM TOSEM, </journal> <month> October </month> <year> 1992. </year>
+Reference: [Bat93] <author> D. Batory, V. Singhal, M. Sirkin, and J. Thomas, </author> <title> Scalable Software Libraries, </title> <booktitle> ACM SIGSOFT 1993. </booktitle>
+Reference: [Bat95a] <author> D. Batory, </author> <title> Subjectivity and Software System Generators. </title> <type> Technical Report TR-95-32, </type> <institution> Department of Computer Sciences, University of Texas at Austin, </institution> <month> August </month> <year> 1995. </year>
+Reference: [Bat95b] <author> D. Batory and B.J. Geraci, </author> <title> Validating Component Compositions in Software System Generators, </title> <institution> Department of Computer Sciences, University of Texas at Austin, TR-93-03, </institution> <month> February </month> <year> 1995. </year>
+Reference: [Bax95] <author> I. Baxter, </author> <title> Tutorial on Transformation Systems, </title> <year> 1995. </year>
+Reference: [Big92] <author> T. Biggerstaff, </author> <title> An Assessment and Analysis of Software Reuse, </title> <booktitle> in Advances in Computers, </booktitle> <volume> Volume 34, </volume> <publisher> Academic Press, </publisher> <year> 1992. </year>
+Reference: [Big94] <author> T. Biggerstaff. </author> <title> The Library Scaling Problem and the Limits of Concrete Component Reuse, </title> <booktitle> Third International Conference on Software Reuse, </booktitle> <address> Rio de Janeiro, </address> <month> November 1-4, </month> <year> 1994, </year> <pages> 102 110. </pages>
+Reference: [Bla91] <author> L. Blaine and A. Goldberg, </author> <title> DTRE - A Semi-Automatic Transformation System, in Constructing Programs from Specifications, </title> <publisher> Elsevier Science Publishers, </publisher> <year> 1991. </year>
+Reference: [Cog93] <author> L. Coglianese and R. Szymanski, </author> <title> DSSA-ADAGE: An Environment for Architecture-based Avionics Development, </title> <booktitle> Proceedings of AGARD 1993. </booktitle>
+Reference: [Gam94] <author> E. Gamma, R. Helm, R. Johnson, and J. Vlissides, </author> <title> Design Patterns: Elements of Reusable Object-Oriented Software, </title> <publisher> Addison-Wesley, </publisher> <year> 1994. </year>
+Reference: [Hei93] <author> J.S. Heidemann and G.J. Popek, </author> <title> File-System Development with Stackable Layers, </title> <journal> ACM Transactions on Computer Systems, </journal> <volume> 12(1), </volume> <pages> 58-89. </pages>
+
+References-found: 11
+

@@ -1,0 +1,36 @@
+URL: ftp://ftp.cs.columbia.edu/reports/reports-1992/cucs-032-92.ps.gz
+Refering-URL: http://www.cs.columbia.edu/~library/1992.html
+Root-URL: http://www.cs.columbia.edu
+Title: AVERAGE CASE COMPLEXITY OF LINEAR MULTIVARIATE PROBLEMS PART I: THEORY  
+Author: H. Wo zniakowski 
+Note: Typeset by A  
+Date: November 1991  
+Address: CUCS-032-92  
+Affiliation: Department of Computer Science, Columbia University and Institute of Applied Mathematics, University of Warsaw  M S-T E X  
+Abstract: We study the average case complexity of linear multivariate problems, that is, the approximation of continuous linear operators on functions of d variables. The function spaces are equipped with Gaussian measures. We consider two classes of information. The first class fl std consists of function values, and the second class fl all consists of all continuous linear functionals. Tractability of a linear multivariate problem means that the average case complexity of computing an "-approximation is O ((1=") p ) with p independent of d. The smallest such p is called the exponent of the problem. Under mild assumptions, we prove that tractability in fl all is equivalent to tractability in fl std , and that the difference of the exponents is at most 2. The proof of this result is not constructive. We provide a simple condition to check tractability in fl all . We also address the issue how to construct optimal (or nearly optimal) sample points for linear multivariate problems. We use relations between average case and worst case settings. These relations reduce the study of the average case to the worst case for a different class of functions. In this way we show how optimal sample points from the worst case setting can be used in the average case. In Part II we will apply the theoretical results to obtain optimal or almost optimal sample points, optimal algorithms and average case complexity functions for linear multivariate problems equipped with the folded Wiener sheet measure. Of particular interest will be the multivariate function approximation problem. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Bakhvalov, N. S., </author> <title> On the optimality of linear methods for operator approximation in convex classes of functions, </title> <institution> USSR Comput. Math. Math. Phys. </institution> <month> 11 </month> <year> (1971), </year> <pages> 244-249. </pages>
+Reference: <author> Kimeldorf, G. S. and Wahba, G., </author> <title> A correspondence between Bayesian estimation on stochastic processes and smoothing by splines, </title> <journal> Ann. Math. Stat. </journal> <volume> 41 (1970), </volume> <pages> 495-502. </pages>
+Reference: <author> Kimeldorf, G. S. and Wahba, G., </author> <title> Spline functions and stochastic processes, </title> <journal> Sankhya Ser. </journal> <note> A 32 (1970), 173-180. </note>
+Reference: <author> Kuo, H.-H., </author> <title> Gaussian Measures in Banach Spaces, </title> <booktitle> Lectures Notes in Mathematics, </booktitle> <volume> 463, </volume> <publisher> Springer Verlag, </publisher> <address> Berlin, </address> <year> 1975. </year>
+Reference: <author> Mathe, P., </author> <title> A Minimax Principle in Information-Based Complexity, </title> <booktitle> in progress (1991). </booktitle>
+Reference: <author> Micchelli, C. A. and Rivlin, T. J., </author> <title> A survey of optimal recovery, in Optimal Estimation in Approximation Theory (1977), </title> <editor> 1-54 (C. A. Micchelli and T. J. Rivlin, eds.), </editor> <publisher> Plenum Press, </publisher> <address> New York. </address>
+Reference: <author> Micchelli, C. A. and Wahba, G., </author> <title> Design problems for optimal surface interpolation, in Approximation Theory and Applications (1981.), </title> <editor> 329-347 (Z. Ziegler, ed.), </editor> <publisher> Academic Press, </publisher> <address> New York. </address>
+Reference: <author> Novak, E., </author> <title> Deterministic and Stochastic Error Bounds in Numerical Analysis, </title> <booktitle> vol. 1349, Lectures Notes in Math. </booktitle> <publisher> Springer Verlag, </publisher> <address> Berlin, </address> <year> 1988. </year>
+Reference: <author> Paskov, S., </author> <title> Average Case Complexity of Multivariate Integration for Smooth Functions, </title> <institution> Dept. of Computer Science, Columbia University (1991). </institution>
+Reference: <author> Sacks, J. and Ylvisaker, D., </author> <title> Designs for regression with correlated errors, </title> <journal> Ann. Math. Stat. </journal> <volume> 37 (1966), </volume> <pages> 68-89. </pages>
+Reference: <author> Sacks, J. and Ylvisaker, D., </author> <title> Designs for regression problems with correlated errors; many parameters, </title> <journal> Ann. Math. Stat. </journal> <volume> 39 (1968), </volume> <pages> 49-69. </pages>
+Reference: <author> Sacks, J. and Ylvisaker, D., </author> <title> Designs for regression problems with correlated errors III, </title> <journal> Ann. Math. Stat. </journal> <volume> 41 (1970), </volume> <pages> 2057-2074. </pages>
+Reference: <author> Sacks, J. and Ylvisaker, D., </author> <title> Statistical design and integral approximation, </title> <booktitle> Proc. 12th Bienn. </booktitle> <institution> Semin. Can. Math. Cong. </institution> <year> (1970), </year> <pages> 115-136. </pages>
+Reference: <author> Traub, J.F., Wasilkowski, G.W. and Wozniakowski, H., </author> <title> Information-Based Complexity, </title> <publisher> Academic Press, </publisher> <address> New York, </address> <year> 1988. </year>
+Reference: <author> Traub, J.F., and Wozniakowski, H., </author> <title> Information-Based Complexity: New Questions for Mathematicians, </title> <journal> Math. </journal> <volume> Intelligencer 13 (1991), </volume> <pages> 34-43. </pages>
+Reference: <author> Vakhania, N. N., </author> <title> Probability Distributions on Linear Spaces, </title> <publisher> North-Holland, </publisher> <address> New York, </address> <year> 1981. </year>
+Reference: <author> Wahba, G., </author> <title> On the regression design problem of Sacks and Ylvisaker, </title> <journal> Ann. Math, Stat. </journal> <volume> 42 (1971), </volume> <pages> 1035-1043. </pages>
+Reference: <author> Wahba, G., </author> <title> Spline Models for Observational Data, CBMS 59, </title> <publisher> SIAM, </publisher> <year> 1990. </year>
+Reference: <author> Wasilkowski, G.W., </author> <title> Information of varying cardinality, </title> <editor> J. </editor> <booktitle> Complexity 2 (1986), </booktitle> <pages> 204-228. </pages>
+Reference: <author> Wasilkowski, G.W., </author> <title> Integration and Approximation of Multivariate Functions: Average Case Complexity with Isotropic Wiener measure, </title> <institution> Dept. of Computer Science, University of Kentucky (1991). </institution>
+Reference: <author> Werschulz, A. G., </author> <title> Counterexamples in optimal quadratures, </title> <booktitle> Aequationes Mathematicae 29 (1985), </booktitle> <pages> 183-202. </pages>
+Reference: <author> Ylvisaker, D., </author> <title> Designs on random fields, in A survey of statistical design and linear models (1975), </title> <editor> 593-607 (J. Srivastava, ed.), </editor> <publisher> North-Holland. </publisher>
+References-found: 22
+

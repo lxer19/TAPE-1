@@ -1,0 +1,25 @@
+URL: http://www.cs.toronto.edu/~paullu/Papers/BFSearch.ps.Z
+Refering-URL: http://www.cs.toronto.edu/~paullu/publications.html
+Root-URL: http://www.cs.toronto.edu
+Email: @cs.ualberta.ca  
+Title: A ReExamination of Brute-Force Search  
+Author: Jonathan Schaeffer Paul Lu Duane Szafron Robert Lake 
+Address: Alberta, Edmonton, Alberta CANADA T6G 2H1 -jonathan, paullu, duane, lake  
+Affiliation: Department of Computing Science, University of  
+Abstract: In August 1992, the World Checkers Champion, Dr. Marion Tinsley, defended his title against the computer program Chinook. The best-of-40-game match was won by Tinsley with 4 wins to the program's 2. This was the first time in history that a program played for a human World Championship. Chinook, with its deep search and endgame databases, has established itself as a Grandmaster checker player. However, the match demonstrated that current brute-force game-playing techniques alone will be insufficient to defeat human champions in games as complex as checkers. This paper reexamines brute-force search and uses anecdotal evidence to argue that there comes a point where additional search is not cost effective. This limit, which we believe we are close to in checkers, becomes an obstacle to further progress. The problems of deep brute-force search described in this paper must be addressed before computers will be dominant in games such as checkers and chess. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> T.S. Anantharaman, M.S. Campbell and F-h. Hsu. </author> <title> Singular Extensions: Adding Selectivity to Brute-Force Searching. </title> <journal> Artificial Intelligence, </journal> <volume> vol. 43, no. 1, </volume> <pages> pp. 99-110, </pages> <year> 1990. </year>
+Reference: <author> H.J. Berliner. </author> <title> Some Necessary Conditions for a Master Chess Program. </title> <booktitle> International Joint Conference on Artificial Intelligence, </booktitle> <pages> pp. 77-85, </pages> <year> 1973. </year>
+Reference: <author> H.J. Berliner. </author> <title> The B* Tree Search Algorithm: A Best First Proof Procedure. </title> <journal> Artificial Intelligence, </journal> <volume> vol. 12, no. 1, </volume> <pages> pp. 23-40, </pages> <year> 1979. </year>
+Reference: <author> H.J. Berliner. </author> <title> An Examination of Brute Force Intelligence. </title> <booktitle> International Joint Conference on Artificial Intelligence, </booktitle> <pages> pp. 581-587, </pages> <year> 1981. </year>
+Reference: <author> M. Donskoy and J. Schaeffer. </author> <title> Perspectives on Falling from Grace. Chess, Computers, and Cognition, T.A. </title> <editor> Marsland and J. Schaeffer (editors), </editor> <publisher> Springer-Verlag, </publisher> <pages> pp. 259-268, </pages> <year> 1990. </year> <journal> Also reprinted in the Journal of the International Computer Chess Association, </journal> <volume> vol. 12, no. 3, </volume> <pages> pp. 155-163, </pages> <year> 1989. </year>
+Reference: <author> P. Jansen. </author> <title> Using Knowledge About the Opponent in Game-Tree Search. </title> <type> Ph.D. thesis, </type> <institution> Department of Computer Science, Carnegie-Mellon University, </institution> <year> 1992. </year>
+Reference: <author> D.N.L. Levy. </author> <title> First Among Equals. </title> <journal> Journal of the International Computer Chess Association, </journal> <volume> vol. 14, no. 3, </volume> <pages> pp. 142, </pages> <year> 1991. </year>
+Reference: <author> D.A. McAllester. </author> <title> Conspiracy Numbers for Min-Max Search. </title> <journal> Artificial Intelligence, </journal> <volume> vol. 35, </volume> <pages> pp. 287-310, </pages> <year> 1988. </year>
+Reference: <author> J. Schaeffer, J. Culberson, N. Treloar, B. Knight, P. Lu and D. Szafron. </author> <title> Reviving the Game of Checkers. </title> <booktitle> Heuristic Programming in Artificial Intelligence; The Second Computer Olympiad, </booktitle> <editor> D.N.L. Levy and D.F. Beal (editors), </editor> <publisher> Ellis Horwood, London, </publisher> <pages> pp. 119-136, </pages> <year> 1991. </year>
+Reference: <author> J. Schaeffer, J. Culberson, N. Treloar, B. Knight, P. Lu and D. Szafron. </author> <title> A World Championship Caliber Checkers Program. </title> <journal> Artificial Intelligence, </journal> <volume> vol. 53, no. </volume> <pages> 2-3, pp. 273-290, </pages> <year> 1992. </year>
+Reference: <author> J. Schaeffer, N. Treloar, P. Lu and R. </author> <title> Lake. Man versus Machine for the World Checkers Championship. </title> <journal> AI Magazine, </journal> <volume> vol. 14, no. 2, </volume> <pages> pp. 28-35, </pages> <year> 1993. </year>
+Reference: <author> K. Thompson. </author> <title> Computer Chess Strength. </title> <booktitle> Advances in Computer Chess 3, M.R.B. Clarke (editor), </booktitle> <pages> pp. 55-56, </pages> <publisher> Pergamon Press, </publisher> <year> 1982. </year>
+References-found: 12
+

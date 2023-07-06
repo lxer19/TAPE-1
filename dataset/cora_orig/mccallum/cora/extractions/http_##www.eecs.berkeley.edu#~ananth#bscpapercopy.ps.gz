@@ -1,0 +1,14 @@
+URL: http://www.eecs.berkeley.edu/~ananth/bscpapercopy.ps.gz
+Refering-URL: http://www.eecs.berkeley.edu/~ananth/
+Root-URL: 
+Title: The Common Randomness Capacity of a Pair of Independent Binary Symmetric Channels  
+Author: S. Venkatesan V. Anantharam zx 
+Address: Berkeley.  Cory Hall,  Berkeley, Berkeley, CA 94720.  
+Affiliation: Cornell University and U.C. Berkeley. Univ. of California,  Dept. of EECS, U.C.  
+Note: Research supported by NSF IRI 9005849, IRI 9310670, NCR 9422513, and the AT&T Foundation.  Address all correspondence to the second author: 570  
+Date: 13 August 1995  
+Abstract: We study the following problem: two agents are connected to each other by independent binary symmetric channels of crossover probabilities p and q. They wish to generate common randomness by communicating interactively over the two channels. Neither agent has access to any external random sources, so that any randomness generated must come from the noise on the two channels. We show that it is possible to generate common randomness in this situation at a rate (in bits per step) of R fl (p; q) = min fh(p) + h(q); 2 h(p) h(q)g. We also prove a strong converse which establishes R fl (p; q) as the common randomness "capacity" of this pair of channels. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

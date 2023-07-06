@@ -1,0 +1,22 @@
+URL: http://www.cs.yale.edu/users/toyama/papers/tfusion.ps.gz
+Refering-URL: http://www.cs.yale.edu/users/toyama/toyama.html
+Root-URL: http://www.cs.yale.edu
+Email: E-mail: hager@cs.yale.edu, toyama@cs.yale.edu  
+Phone: Phone: (203) 432-6432, Fax: (203) 432-0593,  
+Title: Tracker fusion for robustness in visual feature tracking  
+Author: Kentaro Toyama and Gregory D. Hager 
+Keyword: tracker fusion, robust tracking, window-based tracking  
+Address: P.O. Box 208285, New Haven, CT, 06520-8285  
+Affiliation: Dept. of Computer Science, Yale University,  
+Abstract: Task-directed vision obviates the need for general image comprehension by focusing attention only on features which contribute useful information to the task at hand. Window-based visual tracking has helped make long strides in research along this paradigm as motion tracking becomes a problem of local search in a small image region. While the gains in speed from such methods allow for real-time feature tracking on off-the-shelf hardware, they lose robustness by giving up a more global perspective: Window-based feature trackers are prone to such problems as distraction, illumination changes, fast features, and so forth. We apply sensor fusion techniques to "tracker fusion," where multiple trackers simultaneously track the same feature while watching for various problematic circumstances and combine their estimates in a meaningful way. By categorizing different situations in which mistracking occurs, finding appropriate trackers to deal with each such situation, and fusing the resulting trackers together, we construct robust feature trackers which maintain the speed of simple window-based trackers, yet afford greater resistance to mistracking. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> A. Blake, R. Curwen, and A. Zisserman. </author> <title> Affile-invariant contour tracking with automatic control of spa-tiotemporal scale. </title> <booktitle> In Proc. Int'l Conf. on Comp. Vision, </booktitle> <pages> pages 421-430, </pages> <address> Berlin, Germany, </address> <month> May </month> <year> 1993. </year>
+Reference: [2] <author> J. L. Crowley, P. Stelmaszyk, T. Skordas, and P. Puget. </author> <title> Measurement and integration of 3-D structures by tracking edge lines. </title> <journal> Int'l Journal of Computer Vision, </journal> <volume> 8(1) </volume> <pages> 29-52, </pages> <year> 1992. </year>
+Reference: [3] <author> D. B. Gennery. </author> <title> Visual tracking of known three-dimensional objects. </title> <journal> Int'l Journal of Computer Vision, </journal> <volume> 7(3) </volume> <pages> 243-270, </pages> <year> 1992. </year>
+Reference: [4] <author> G. D. Hager, S. Puri, and K. Toyama. </author> <title> A framework for real-time vision-based tracking using off-the-shelf hardware. </title> <institution> DCS RR-988, Yale University, </institution> <address> New Haven, CT, </address> <month> September </month> <year> 1993. </year>
+Reference: [5] <author> D. G. Lowe. </author> <title> Robust model-based motion tracking through the integration of search and estimation. </title> <journal> Int'l Journal of Computer Vision, </journal> <volume> 8(2) </volume> <pages> 113-122, </pages> <year> 1992. </year>
+Reference: [6] <author> D. Terzopoulos and Szeliski. </author> <title> Tracking with kalman snakes. </title> <editor> In A. Blake and A. Yuille, editors, </editor> <title> Active Vision. </title> <publisher> MIT Press, </publisher> <address> Cambridge, MA, </address> <year> 1992. </year>
+Reference: [7] <author> K. Toyama and G. D. Hager. </author> <title> Keeping your eye on the ball: Tracking occluding contours of unfamiliar objects without distraction. </title> <booktitle> In Proc. 1995 Int'l Conf. on Intel. Rob. and Sys., </booktitle> <pages> pages 354-359, </pages> <address> Pittsburgh, PA, </address> <month> August </month> <year> 1995. </year>
+References-found: 7
+

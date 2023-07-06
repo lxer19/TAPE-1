@@ -1,0 +1,32 @@
+URL: http://www.stats.bris.ac.uk/~bernard/vwd2.ps.gz
+Refering-URL: http://www.mathsoft.com/wavelets.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Email: Summary  
+Title: Wavelet Decomposition Approaches to Statistical Inverse Problems  
+Author: BY F. ABRAMOVICH Raymond Beverly Sackler AND B. W. SILVERMAN 
+Keyword: Some key words: Exact risk analysis; Near-minimax estimation; Singular Value Decomposition; Spatially adaptive estimation; Statistical linear inverse problems; Vaguelette; Wavelet.  
+Address: 69978, Israel.  BS8 1TW, UK.  
+Affiliation: Department of Statistics Operations Research,  Faculty of Exact Sciences, University of Tel Aviv, Ramat Aviv  Department of Mathematics, University of Bristol, Bristol  
+Abstract: A wide variety of scientific settings involve indirect noisy measurements where one faces a linear inverse problem in the presence of noise. Primary interest is in some function f (t) but data are accessible only about some linear transform corrupted by noise. The usual linear methods for such inverse problems do not perform satisfactorily when f (t) is spatially inhomogeneous. One existing nonlinear alternative is the waveletvaguelette decomposition method, based on the expansion of the unknown f (t) in wavelet series. In the vaguelettewavelet decomposition method proposed here, the observed data are expanded directly in wavelet series. The performances of various methods are compared through exact risk calculations, in the context of the estimation of the derivative of a function observed subject to noise. A result is proved demonstrating that, with a suitable universal threshold somewhat larger than that used for standard denoising problems, both the wavelet-based approaches have an ideal spatial adaptivity property. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> CHUI, C. K. </author> <year> (1992). </year> <title> An Introduction to Wavelets. </title> <address> San Diego: </address> <publisher> Academic Press. </publisher>
+Reference: <author> DAUBECHIES, I. </author> <year> (1992). </year> <title> Ten Lectures on Wavelets. </title> <institution> Philadelphia: Society for Industrial and Applied Mathematics. </institution>
+Reference: <author> DONOHO, D. L. </author> <year> (1995). </year> <title> Nonlinear solution of linear inverse problems by waveletvaguelette decomposition. </title> <journal> Appl. Comput. Harm. Anal. </journal> <volume> 2, </volume> <pages> 10126. </pages>
+Reference: <author> DONOHO, D. L. & JOHNSTONE, I. M. </author> <year> (1994). </year> <title> Ideal spatial adaption by wavelet shrinkage. </title> <journal> Biometrika 81, </journal> <volume> 42555. </volume>
+Reference: <author> DONOHO, D. L. & JOHNSTONE, I. M. </author> <year> (1995). </year> <title> Adapting to unknown smoothness via wavelet shrinkage. </title> <journal> J. Am. Statist. Assoc. </journal> <volume> 90, </volume> <pages> 120024. </pages>
+Reference: <author> DONOHO, D. L. & JOHNSTONE, I. M. </author> <year> (1997). </year> <title> Minimax estimation via wavelet shrinkage. </title>
+Reference: <editor> Ann. Statist. </editor> <volume> 25, </volume> <pages> 00000. </pages>
+Reference: <author> GOLDENSHLUGER, A. & NEMIROVSKI, A. </author> <year> (1997). </year> <title> On spatial adaptive estimation of non-parametric regression. </title> <journal> Math. Methods Statist. </journal> <volume> 6, </volume> <pages> 000-00. </pages>
+Reference: <author> JOHNSTONE, I. M. & SILVERMAN, B. W. </author> <year> (1990). </year> <title> Speed of estimation in positron emission tomography and related inverse problems. </title> <journal> Ann. Statist. </journal> <volume> 18, </volume> <pages> 25180. </pages>
+Reference: <author> JOHNSTONE, I. M. & SILVERMAN, B. W. </author> <year> (1991). </year> <title> Discretization effects in statistical inverse problems. </title> <journal> J. </journal> <volume> Complexity 7, </volume> <pages> 134. </pages>
+Reference: <author> JOHNSTONE, I. M. & SILVERMAN, B. W. </author> <year> (1997). </year> <title> Wavelet threshold estimators for data with correlated noise. </title> <journal> J. R. Statist. Soc. </journal> <volume> B 59, </volume> <pages> 31951. </pages>
+Reference: <author> KOLACZYK, E. D. </author> <year> (1996). </year> <title> A wavelet shrinkage approach to tomographic image reconstruction. </title> <journal> J. Am. Statist. Assoc. </journal> <volume> 91, </volume> <pages> 107990. </pages> <address> 18 LEPSKII O. </address> <year> (1990). </year> <title> On a problem of adaptive estimation in gaussian white noise. </title> <journal> Theory Probab. Applic. </journal> <volume> 35, </volume> <pages> 45466. </pages>
+Reference: <author> MALLAT, S. G. </author> <year> (1989). </year> <title> A theory for multiresolution signal decomposition: the wavelet representation. </title> <journal> IEEE Trans. Pattn. Anal. Mach. Intell. PAMI-11, </journal> <volume> 67493. </volume>
+Reference: <author> MEYER, Y. </author> <year> (1992). </year> <title> Wavelets and Operators. </title> <publisher> Cambridge: Cambridge University Press. </publisher>
+Reference: <author> NASON, G. P. </author> <year> (1993). </year> <title> The wavethresh package: wavelet transform and thresholding, </title> <note> available from the StatLib archive. </note>
+Reference: <author> NASON, G. P. & SILVERMAN, B. W. </author> <year> (1994). </year> <title> The discrete wavelet transform in S. </title> <journal> J. Comp. Graph. Statist. </journal> <volume> 3, </volume> <pages> 16391. </pages>
+Reference: <author> O'SULLIVAN, F. </author> <year> (1986). </year> <title> A statistical perspective on ill-posed inverse problems (with discussion). </title> <journal> Statist. Sci. </journal> <volume> 1, </volume> <pages> 50227. </pages>
+
+References-found: 17
+

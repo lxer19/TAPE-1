@@ -1,0 +1,19 @@
+URL: ftp://dimacs.rutgers.edu/pub/dimacs/TechnicalReports/TechReports/1997/97-54.ps.gz
+Refering-URL: http://dimacs.rutgers.edu/TechnicalReports/1997.html
+Root-URL: http://www.cs.rutgers.edu
+Title: Expressive Powers of Logics (Tutorial Lectures by Phokion Kolaitis)  
+Author: by Eric Allender 
+Address: New Brunswick, New Jersey 08903  
+Affiliation: Dept. of Computer Science Rutgers University  
+Note: Special Year on Logic and Algorithms Tutorial Notes:  (Editor, SYLA Tutorial Notes)  DIMACS is a partnership of Rutgers University, Princeton University, AT&T Labs, Bellcore, and Bell Labs. DIMACS is an NSF Science and Technology Center, funded under contract STC-91-19999; and also receives support from the New Jersey Commission on Science and Technology.  
+Abstract: DIMACS Technical Report 97-54 September 1997 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> A. Chandra and D. Harel. </author> <title> Computable queries for relational databases. </title> <journal> Journal of Computer and System Sciences, </journal> <volume> 21 </volume> <pages> 156-178, </pages> <year> 1980. </year>
+Reference-contexts: Thus FO+LFP contains P-complete problems, although we will see that on all finite structures (rather than just those with order) it is not equal to P. - 12 - Some history FO+LFP on finite structures is due originally to Chandra and Harel <ref> [1] </ref>. On infinite structures, though, it goes back to Kleene's Hyperarithmetic Theory. Theorem 8 (See Chapter 2 in [4]) On the structure N = (N; +; fi) (or even just (N; &lt;)) FO+LFP = SO8. <p> Thus on N the analog of P (i.e., FO+LFP) is equivalent to the analog of NP (i.e., SO8). Note that FO+LFP on N is not closed under complement; SO8 6= SO9 on N. This led Chandra and Harel <ref> [1] </ref> to ask whether FO+LFP on finite structures is closed under complement (and to suspect that it was not). Immerman [3] proved that it was. His proof is based on the Stage Comparison Theorem.
+Reference: [2] <author> S. Cook. </author> <title> Path systems and language recognition. </title> <booktitle> 2nd ACM Symposium on Theory of Computing, </booktitle> <year> 1970, </year> <pages> pp. 70-72. </pages>
+Reference: [3] <author> N. Immerman. </author> <title> Relational Queries Computable in Polynomial Time. </title> <booktitle> Information and Control 68 (1986), </booktitle> <pages> 86-104. </pages> <note> A preliminary version appeared in 14th ACM STOC Symp. </note> <year> (1982), </year> <pages> 147-152. </pages>
+Reference-contexts: Note that FO+LFP on N is not closed under complement; SO8 6= SO9 on N. This led Chandra and Harel [1] to ask whether FO+LFP on finite structures is closed under complement (and to suspect that it was not). Immerman <ref> [3] </ref> proved that it was. His proof is based on the Stage Comparison Theorem. The Stage Comparison Theorem Definition 2 Let '(~x; S) be an S-positive first-order formula and A a structure. Suppose ~a 2 ' 1 (~x). <p> This actually has to be the case since the stage comparison query of TC is the distance query and the distance query is not preserved under extensions while all existential queries are. Theorem 10 (Immerman <ref> [3] </ref>) FO+LFP is closed under complement on the class of all finite structures. Proof: It suffices to show that if '(~x; S) 2 FO then : ' 1 2 FO+LFP.
+
+References-found: 3
+

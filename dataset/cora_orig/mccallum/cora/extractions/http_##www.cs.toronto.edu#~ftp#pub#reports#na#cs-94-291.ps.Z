@@ -1,0 +1,11 @@
+URL: http://www.cs.toronto.edu/~ftp/pub/reports/na/cs-94-291.ps.Z
+Refering-URL: http://www.cs.toronto.edu/NA/reports.html
+Root-URL: 
+Title: A Survey of the Explicit Runge-Kutta Method  
+Author: Wayne H. Enright Desmond J. Higham Brynjulf Owren Philip W. Sharp 
+Date: (Revised April, 1995)  
+Abstract: Research in explicit Runge-Kutta methods is producing continual improvements to the original algorithms, and the aim of this survey is to relate the current state-of-the-art. In drawing attention to recent advances, we hope to provide useful information for those who apply numerical methods. We describe recent work in the derivation of Runge-Kutta coefficients: "classical" general-purpose formulas, "special" formulas for high order and Hamiltonian problems, and "continuous" formulas for dense output. We also give a thorough review of implementation details. Modern techniques are described for the tasks of controlling the local error in a step-by-step integration, computing reliable estimates of the global error, detecting stiffness, and detecting and handling discontinuities and singularities. We also discuss some important software issues.
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

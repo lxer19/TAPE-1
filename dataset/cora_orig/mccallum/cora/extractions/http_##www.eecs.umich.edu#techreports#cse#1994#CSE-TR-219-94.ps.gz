@@ -1,0 +1,28 @@
+URL: http://www.eecs.umich.edu/techreports/cse/1994/CSE-TR-219-94.ps.gz
+Refering-URL: http://www.eecs.umich.edu/home/techreports/cse94.html
+Root-URL: http://www.eecs.umich.edu
+Title: Varieties of learning in A case study in search and learning in algorithm design. Flexible
+Author: D. Steier, J. E. Laird, A. Newell, P. S. Rosenbloom, et al. D. M. Steier. Cypress-Soar: I. Stobie, M. Tambe, and P. S. Rosenbloom. W. J. Wolfe and W. H. Chun, M. Tambe, D. Kalp, A. Gupta, C.L. Forgy, B.G. Milnes, and A. Newell. Soar/PSM-E: M. Tambe, A. Newell, and P. S. Rosenbloom. Unruh and Rosenbloom, A. Unruh and P. S. Rosenbloom. P. S. Rosenbloom. Whitehead and Russell, A. Whitehead and B. Russell. Yost and Newell, G. Yost and A. Newell. 
+Address: 1989.  Ann Arbor, 1992.  
+Affiliation: Computer Science Department, Stanford University.,  University of Michigan,  
+Note: Steier et al., 1987  Soar: 1987. In P. Langley, editor, Proceedings of the Fourth International Workshop on Machine Learning. Kluwer, 1987. Steier, 1987  In Proceedings of IJCAI-87, Milano, Italy, August 1987. Morgan Kaufmann. Steier, 1990 D.M. Steier. Intelligent architectures for integration. In Proceedings of the IEEE Conference on Systems Integration,  Stobie et al., 1993  editors, Mobile Robots VII, pages 52-61, 1993. Proceedings SPIE 1831. Tambe et al., 1988  guages, and systems, pages  Tambe et al., 1990  and learning. In Proceedings of IJCAI-89, pages 681-687, Detroit, 1989. IJCAI. Washington and Rosenbloom, 1989 R. Washington and  Principia Mathematica. The Uni versity Press, Cambridge, 1935.  teenth Annual Conference of the Cognitive Science Society, Chicago, 1991.  
+Pubnum: IJCAI-89, 1989.  
+Degree: thesis, The  
+Date: August 1990.  146-160, July 1988.  58  
+Abstract: Ward, 1991 ] B. Ward. ET-Soar: Toward an ITS for Theory-Based Representations. PhD thesis, Carnegie Mellon University, 1991. Available as Technical Report CMU-CS-91-146. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [ Anderson, 1983 ] <author> J. R. Anderson. </author> <title> The Architecture of Cognition. </title> <publisher> Harvard University Press, </publisher> <address> Cam-bridge, MA, </address> <year> 1983. </year>
+Reference: [ Bell and Newell, 1971 ] <author> C. G. Bell and A. Newell. </author> <title> Computer Structures: Readings and Examples. </title> <publisher> McGraw-Hill, </publisher> <address> New York, </address> <year> 1971. </year>
+Reference: [ Brooks, 1991 ] <author> R. A. Brooks. </author> <title> Intelligence without representation. </title> <journal> Artificial Intelligence, </journal> <volume> 47, </volume> <year> 1991. </year>
+Reference: [ Brown and VanLehn, 1980 ] <author> J. S. Brown and K. VanLehn. </author> <title> Repair Theory: A generative theory of bugs in procedural skills. </title> <journal> Cognitive Science, </journal> <volume> 4 </volume> <pages> 379-426, </pages> <year> 1980. </year>
+Reference: [ Davis, 1980 ] <author> R. Davis. </author> <title> Meta-rules: Reasoning about control. </title> <journal> Artificial Intelligence, </journal> <volume> 15 </volume> <pages> 179-222, </pages> <year> 1980. </year>
+Reference: [ DeJong and Mooney, 1986 ] <author> G. DeJong and R. Mooney. </author> <title> Explanation-based learning: An alternative view. </title> <journal> Machine Learning, </journal> <volume> 1(2) </volume> <pages> 145-176, </pages> <year> 1986. </year>
+Reference: [ Dietterich, 1986 ] <author> T. G. Dietterich. </author> <title> Learning at the knowledge level. </title> <journal> Machine Learning, </journal> <volume> 1 </volume> <pages> 287-315, </pages> <year> 1986. </year>
+Reference: [ Doorenbos and Tambe, 1992 ] <author> R. Doorenbos and A. Tambe, M.and Newell. </author> <booktitle> Learning 10,000 chunks: What's it like out there? In Proceedings of the Tenth National Conference on Artificial Intelligence, </booktitle> <pages> pages 830-836, </pages> <address> Menlo Park, 1992. </address> <publisher> AAAI, AAAI Press. </publisher>
+Reference: [ Doorenbos, 1993 ] <author> R. Doorenbos. </author> <title> Matching 100,000 learned rules. </title> <booktitle> In Proceedings of the Eleventh National Conference on Artificial Intelligence. </booktitle> <publisher> AAAI, AAAI Press, </publisher> <year> 1993. </year>
+Reference: [ Doorenbos, 1994 ] <author> R. Doorenbos. </author> <title> Recent results on matching. </title> <booktitle> In Thirteenth Soar Workshop, </booktitle> <pages> pages 62-72, </pages> <address> Columbus, OH, </address> <year> 1994. </year> <note> Charts presented at the workshop. </note>
+Reference: [ Fikes and Nilsson, 1971 ] <author> R. E. Fikes and N. J. Nilsson. </author> <title> STRIPS: A new approach to the application of theorem proving to problem solving. </title> <journal> Artificial Intelligence, </journal> <volume> 2 </volume> <pages> 189-208, </pages> <year> 1971. </year>
+
+References-found: 11
+

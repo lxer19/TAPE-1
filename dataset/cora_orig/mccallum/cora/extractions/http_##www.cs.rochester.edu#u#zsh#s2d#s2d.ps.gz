@@ -1,0 +1,20 @@
+URL: http://www.cs.rochester.edu/u/zsh/s2d/s2d.ps.gz
+Refering-URL: http://www.cs.rochester.edu/u/zsh/s2d/home.html
+Root-URL: 
+Email: zsh@cs.rochester.edu  
+Title: Translation from Switchboard to DAMSL  
+Author: Shenghuo ZHU 
+Date: December 18, 1997  
+Address: Rochester, NY 14627  
+Affiliation: Department of Computer Science University of Rochester  
+Abstract: This project will explore the relationship between the Switchboard scheme and the DAMSL scheme, and try to translate the data of the Switchboard corpus into the DAMSL scheme. As a result, the amount of annotated data will be increased, which could be useful for many different purposes.
+Abstract-found: 1
+Intro-found: 1
+Reference: [AC97] <author> James Allen and Mark Core. </author> <title> Draft of damsl: Dialog act markup in several layers. </title> <month> March </month> <year> 1997. </year>
+Reference-contexts: Many annotation schemes are developed to define utterance. Some of them are both based the notion of utterance on an analysis of the intentions of the speaker, such as the DAMSL (Discourse Annotation and Markup System of Labeling) scheme and the Switchboard scheme. 1 DAMSL <ref> [AC97] </ref> is an annotation scheme for dialogue. One of its features is a set of multi-dimension utterance-tags, which might be refined to provide further detail on phenomena of interest. Unfortunately, only a few dialogues are encoded in the DAMSL scheme, which make it difficult to do research based on statistics.
+Reference: [JSB97] <author> Dan Jurafsky, Liz Shriberg, and Debra Biasca. </author> <title> Switchboard swbd-damsl shallow-discourse-function annotation coders manual,draft 13. </title> <month> Augest </month> <year> 1997. </year>
+Reference-contexts: But the Switchboard corpus did not provided such information. So, a default rule is introduced: "Response-to" is assigned the value of ID of the nearest utterance of another speaker if the tag "Answer" is "yes". 4 Discussion 4.1 Relative Work <ref> [JSB97] </ref> describes a Shallow-Discourse-Function Annotation project at University of Colorado. Since not all labels of the Switchboard scheme can be mapped exactly into the DAMSL scheme, a new scheme, called SWBD-DAMSL, is designed.
+Reference: [MT95] <author> Marie Meteer and Ann Taylor. </author> <title> Dysfluency annotation stylebook for the switchboard corpus. </title> <year> 1995. </year>
+Reference-contexts: One of its features is a set of multi-dimension utterance-tags, which might be refined to provide further detail on phenomena of interest. Unfortunately, only a few dialogues are encoded in the DAMSL scheme, which make it difficult to do research based on statistics. Meanwhile, Switchboard <ref> [MT95] </ref> is an annotated dialogue corpus with millions of words, which would be a large resource for nature language processing, especially for dialogue understanding.
+References-found: 3
+

@@ -1,0 +1,27 @@
+URL: http://www.iro.umontreal.ca/~saggion/stand2.ps.gz
+Refering-URL: http://www.iro.umontreal.ca/~saggion/
+Root-URL: http://www.iro.umontreal.ca
+Email: fsaggion,lapalmeg@iro.umontreal.ca  
+Phone: Fax: +1-514-343-5834  
+Title: The generation of abstracts by selective analysis  
+Author: Horacio Saggion and Guy Lapalme RALI 
+Address: CP 6128, Succ Centre-Ville Montreal, Quebec, Canada, H3C 3J7  
+Affiliation: Departement d'Informatique et Recherche Operationnelle Universite de Montreal  
+Abstract: We describe work in progress in the generation of user-oriented abstracts which we define as abstracts being indicative in the content of the overall document and informative in the specific information the actual user is interested in. We generate the indicative part of the abstract using indicative sentences of the parent document. Additional information is extracted and integrated to the abstract using text spans covering the topics of the indicative material. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Brandow, R.; Mitze, K.; and Rau, L. </author> <year> 1995. </year> <title> Automatic condensation of electronic publications by sentence selection. </title> <booktitle> Information Processing & Management 31(5) </booktitle> <pages> 675-685. </pages>
+Reference: <author> DeJong, G. </author> <year> 1982. </year> <title> An overview of the frump system. </title>
+Reference-contexts: In the process of automatic abstracting several methodologies have been proposed: inference from raw text <ref> (DeJong 1982) </ref>; rhetorical analysis (Miike et al. 1994; Marcu 1997); semantic analysis of a conceptual text representation and mapping to discourse structure (Rino & Scott 1996); selection of phrases using stylistic information, and instantiation of templates (Paice & Jones 1993); statistical analysis (Kupiec, Pedersen, & Chen 1995; Brandow, Mitze, & Rau
+Reference: <editor> In Lehnert, W., and Ringle, M., eds., </editor> <title> Strategies for Natural Language Processing. </title> <publisher> Lawrence Erlbaum Associates, Publishers. </publisher> <pages> 149-176. </pages>
+Reference: <author> Kupiec, J.; Pedersen, J.; and Chen, F. </author> <year> 1995. </year> <title> A trainable document summarizer. </title> <booktitle> In Proc. of the 18th ACM-SIGIR Conference, </booktitle> <pages> 68-73. </pages>
+Reference: <author> Lehman, A. </author> <year> 1997. </year> <institution> Une structuration de texte con-duisant a la construction d'un systeme de resume automatique. In Actes des Journees Scientifiques et Techniques du Reseau Francophone de l'Ingenierie de la Langue de l'AUPELF-UREF, </institution> <month> 175-182. </month>
+Reference: <author> Marcu, D. </author> <year> 1997. </year> <title> From discourse structures to text summaries. </title> <booktitle> In The Proceedings of the ACL'97/EACL'97 Workshop on Intelligent Scalable Text Summarization, </booktitle> <pages> 82-88. </pages>
+Reference: <author> Miike, S.; Itoh, E.; Ono, K.; and Sumita, K. </author> <year> 1994. </year> <title> A full-text retrieval system with a dynamic abstract generation function. </title> <editor> In Croft, W., and van Rijsber-gen, C., eds., </editor> <booktitle> Proceedings of the 17th Annual International ACM-SIGIR Conference on Research and Development in Information Retrieval, </booktitle> <pages> 152-161. </pages>
+Reference: <author> Paice, C., and Jones, P. </author> <year> 1993. </year> <title> The identification of important concepts in highly structured technical papers. </title> <editor> In Korfhage, R.; Rasmussen, E.; and Willett, P., eds., </editor> <booktitle> Proc. of the 16th ACM-SIGIR Conference, </booktitle> <pages> 69-78. </pages>
+Reference-contexts: the process of automatic abstracting several methodologies have been proposed: inference from raw text (DeJong 1982); rhetorical analysis (Miike et al. 1994; Marcu 1997); semantic analysis of a conceptual text representation and mapping to discourse structure (Rino & Scott 1996); selection of phrases using stylistic information, and instantiation of templates <ref> (Paice & Jones 1993) </ref>; statistical analysis (Kupiec, Pedersen, & Chen 1995; Brandow, Mitze, & Rau 1995); and selection of phrases using heuristic rules and corpus analysis (Sharp 1989; Lehman 1997).
+Reference: <author> Rino, L., and Scott, D. </author> <year> 1996. </year> <title> A discourse model for gist preservation. </title> <editor> In Borges, D., and Kaestner, C., eds., </editor> <booktitle> Proceedings of the 13th Brazilian Symposium on Artificial Intelligence, SBIA'96, Advances in Artificial Intelligence, </booktitle> <pages> 131-140. </pages> <publisher> Springer. </publisher>
+Reference-contexts: In the process of automatic abstracting several methodologies have been proposed: inference from raw text (DeJong 1982); rhetorical analysis (Miike et al. 1994; Marcu 1997); semantic analysis of a conceptual text representation and mapping to discourse structure <ref> (Rino & Scott 1996) </ref>; selection of phrases using stylistic information, and instantiation of templates (Paice & Jones 1993); statistical analysis (Kupiec, Pedersen, & Chen 1995; Brandow, Mitze, & Rau 1995); and selection of phrases using heuristic rules and corpus analysis (Sharp 1989; Lehman 1997).
+Reference: <author> Sharp, B. </author> <year> 1989. </year> <title> Elaboration and testing of new methodologies for automatic abstracting. </title> <type> Ph.D. Dissertation, </type> <institution> The University of Aston in Birmingham. </institution>
+References-found: 10
+

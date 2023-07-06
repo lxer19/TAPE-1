@@ -1,0 +1,37 @@
+URL: http://www.ncc.up.pt/~ltorgo/Papers/KIL.ps.gz
+Refering-URL: http://www.ncc.up.pt/~ltorgo/Papers/list_reports.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: Knowledge Integration and Learning  
+Author: Pavel B. Brazdil Lus Torgo LIACC 
+Address: Rua Campo Alegre, 823 2 o 4100 Porto, Portugal  
+Affiliation: Laboratory of AI and Computer Science University of Porto  
+Date: 1991  
+Note: Jan,  5 500 words  
+Abstract: LIACC - Technical Report 91-1 Abstract. In this paper we address the problem of acquiring knowledge by integration . Our aim is to construct an integrated knowledge base from several separate sources. The objective of integration is to construct one system that exploits all the knowledge that is available and has good performance. The aim of this paper is to discuss the methodology of knowledge integration and present some concrete results. In our experiments the performance of the integrated theory exceeded the performance of the individual theories by quite a significant amount. Also, the performance did not fluctuate much when the experiments were repeated. These results indicate knowledge integration can complement other existing ML methods. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <editor> Bond A.H. and Les Gasser (1988): </editor> <publisher> Distributed Artificial Intelligence , Morgan Kaufmann. </publisher>
+Reference: <author> Cestnik, B., Kononenko, I. and Bratko, I., </author> <year> (1987): </year> <title> "ASSISTANT 86 : A Knowledge-Elicitation Tool for Sophisticated Users", in Progress in Machine Learning, </title> <editor> I.Bratko and N.Lavrac (eds), </editor> <publisher> Sigma Press, </publisher> <address> Wilmslow, England. </address>
+Reference: <author> Brazdil, P. and Clark, P. </author> <year> (1990): </year> <title> "Learning from Imperfect Data", in Machine Learning, Meta-Reasoning and Logics, </title> <editor> P. Brazdil and K.Konolige (eds.), </editor> <publisher> Kluwer Academic Publishers. </publisher>
+Reference: <author> Brazdil, P. and Torgo L. </author> <year> (1990): </year> <title> "Knowledge Acquisition via Knowledge Integration", in Current Trends in Knowledge Acquisition, </title> <editor> B. Wielinga et al. (eds.), </editor> <publisher> IOS Press, Amsterdam. </publisher>
+Reference: <author> Brazdil, P., Muggleton S. </author> <year> (1990): </year> <title> Learning to Relate Terms in Multi-agent Environment, </title> <institution> LIACC, University of Porto. </institution> <note> Submitted to EWSL-91. </note>
+Reference: <author> Cestnik B. </author> <year> (1990): </year> <title> "Estimating Probabilities: A Crucial Task in Machine Learning", </title> <booktitle> in Proc. of ECAI-90, </booktitle> <publisher> ed. </publisher>
+Reference: <editor> L. Aiello, </editor> <publisher> Pitman Publ. </publisher>
+Reference: <author> Clark, P. and Niblett, T. </author> <year> (1987): </year> <title> "Induction in Noisy Domains", in Progress in Machine Learning, </title> <editor> I.Bratko and N.Lavrac (eds), </editor> <publisher> Sigma Press, </publisher> <address> Wilmslow, England. </address>
+Reference: <author> Clark, P. and Niblett, T. </author> <year> (1989): </year> <title> "The CN2 Induction Algorithm", </title> <publisher> Machine Learning 3 , Kluwer Academic Publishers. </publisher>
+Reference: <author> Emde W. </author> <year> (1987): </year> <booktitle> "Non-cumulative Learning in METAXA-3", in Proc. of IJCAI-87 , Milan, Italy, </booktitle> <pages> pp. 208-212. </pages>
+Reference: <author> Emde W. </author> <year> (1989): </year> <title> "An Inference Engine for Representing Multiple Theories", in Knowledge Representation and Organization in Machine Learning , K. </title> <publisher> Morik (ed.), </publisher> <pages> pp. 148-176, </pages> <publisher> Springer Verlag. </publisher>
+Reference: <author> Gaines B. </author> <year> (1989): </year> <title> Knowledge Acquisition: the Continuum Linking Machine Learning and Expertise Transfer, </title> <booktitle> in Proc of Third European Workshop on Knowledge Acquisition for Knowledge-Based Systems, </booktitle> <editor> J.Boose, B.Gaines and J.G.Ganascia (eds), </editor> <address> Paris, </address> <month> July </month> <year> 1989. </year>
+Reference: <author> Gams M. </author> <year> (1989): </year> <title> "New Measurements Highlight the Importance of Redundant Knowledge", </title> <booktitle> in Proceedings of 4th European Working Session on Learning , K. Morik (ed.), </booktitle> <pages> pp. 71-80, </pages> <publisher> Pitman - Morgan Kaufmann. </publisher>
+Reference: <author> Genesereth, M. and Nilsson, N. </author> <title> (1987): </title> <publisher> Logical Foundations of Artificial Intelligence , Morgan Kaufmann Publishers Inc. </publisher>
+Reference: <author> Good I.J. </author> <year> (1965): </year> <title> The Estimation of Probabilities, </title> <publisher> M.I.T. Press, </publisher> <address> Cambridge, Mass. </address>
+Reference: <author> Janikow C.Z. </author> <year> (1989): </year> <title> "The AQ16 Inductive Learning Program: Some Experimental Results with AQ16 and Other Symbolic and Nonsymbolic Programs", </title> <type> Rep. </type> <institution> of AI Center, George Mason University. </institution>
+Reference: <author> Morik K. </author> <year> (1989): </year> <title> "Sloppy Modeling", in Knowledge Representation and Organization in Machine Learning, </title> <editor> K. Morik (ed.), </editor> <booktitle> pp. </booktitle> <pages> 107-134, </pages> <publisher> Springer Verlag. </publisher>
+Reference: <author> Murray K.S. and Porter B.W. </author> <year> (1989): </year> <title> "Controlling Search for the Consequences of New Information During Knowledge Integration", </title> <booktitle> in Proc. of 6th International Workshop on Machine Learning , A.M. </booktitle> <editor> Segre (ed.), </editor> <address> Ithaca, New York, </address> <publisher> Morgan Kaufmann Inc. </publisher>
+Reference: <author> Quinlan J.R. </author> <year> (1986): </year> <title> "The Effect of Noise in Concept Learning", Machine Learning (vol. II) , R.Michalski, </title> <editor> J.Carbonell and T. Mitchell (eds), </editor> <publisher> Morgan Kaufmann Publishers, Inc. </publisher>
+Reference: <author> Shaw M. & Gaines B. </author> <year> (1989): </year> <title> Knowledge Acquisition: Some Foundations, Manual Methods and Future Trends, </title> <booktitle> in Proc. of Third European Workshop on Knowledge Acquisition for Knowledge-Based Systems, </booktitle> <editor> J. Boose, B. Gaines and J.G. Ganascia (eds), </editor> <address> Paris, </address> <month> July </month> <year> 1989. </year>
+Reference: <author> Torgo L. </author> <year> (1990): </year> <title> "IRule1: Incremental Rule Learning System", </title> <note> Working Paper, LIACC, University of Porto (in preparation). </note>
+Reference: <author> Utgoff P.E. </author> <year> (1988): </year> <title> "ID5: An Incremental ID3", </title> <booktitle> in Proc. of 5th International Workshop on Machine Learning , J. </booktitle> <editor> Laird (ed.), Ann Harbour, </editor> <publisher> Morgan Kaufmann Inc. </publisher>
+Reference: <author> Zhang J. and Michalski R. </author> <year> (1989): </year> <title> "Rule Optimization via SG-TRUNC Method", </title> <booktitle> in Proceedings of 4th European Working Session on Learning , K. Morik (ed.), </booktitle> <pages> pp. </pages> <address> 251 -262, </address> <publisher> Pitman - Morgan Kaufmann. </publisher>
+References-found: 23
+

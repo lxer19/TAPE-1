@@ -1,0 +1,21 @@
+URL: ftp://dimacs.rutgers.edu/pub/dimacs/TechnicalReports/TechReports/1996/96-55.ps.gz
+Refering-URL: http://dimacs.rutgers.edu/TechnicalReports/1996.html
+Root-URL: http://www.cs.rutgers.edu
+Email: e-mail: valtr@dimacs.rutgers.edu  e-mail: valtr@kam.ms.mff.cuni.cz  
+Title: by  
+Author: Pavel Valtr ; 
+Address: P.O.Box 1179, Piscataway, NJ 08855, U.S.A.  Malostranske nam. 25, 118 00 Praha 1, Czech Republic  
+Affiliation: DIMACS Center, Rutgers University  Department of Applied Mathematics, Charles University  
+Note: On galleries with no bad points 1  grants No. 193/1996 and 194/1996. 2 DIMACS Postdoctoral Fellow DIMACS is a cooperative project of Rutgers University, Princeton University, AT&T Bell Laboratories and Bellcore. DIMACS is an NSF Science and Technology Center, funded under contract STC-91-19999; and also receives support from the New Jersey Commission on Science and Technology.  
+Abstract: DIMACS Technical Report 96-55 
+Abstract-found: 1
+Intro-found: 1
+Reference: [Ed] <author> H. Edelsbrunner. </author> <title> Algorithms in combinatorial geometry. </title> <publisher> Springer-Verlag, </publisher> <address> Berlin (1987). </address>
+Reference: [KM] <author> G. Kalai and J. Matousek. </author> <title> Guarding galleries where every point sees a large area, </title> <note> to appear in Israel J. Math. </note>
+Reference-contexts: Kavraki, Latombe, Motwani, and Raghavan [KLMR] conjectured that if X has at most h holes then it can be guarded by at most f d (h; ") guards, for some function f d polynomial in h and 1 " . Kalai and Matousek <ref> [KM] </ref> proved a weaker form of the planar version of the conjecture (their function f 2 was not polynomial in h). <p> Following some ideas of Kalai and Matousek, the author [Va] proved the planar version of the conjecture with f 2 (h; ") = (2 + o (1)) 1 " log 1 " log 2 (h + 2). Kalai and Matousek <ref> [KM] </ref> gave an example showing that f 2 (h; " 0 ) = (log h) for some fixed " 0 &gt; 0.
+Reference: [KLMR] <author> L. Kavraki, J-C. Latombe, R. Motwani, and P. Raghavan. </author> <title> Randomized query processing in robot motion planning. </title> <booktitle> Proc. 27th ACM Symp. </booktitle> <institution> Theor. Comput. </institution> <year> (1995), </year> <pages> 353-362. </pages>
+Reference-contexts: 1 Introduction Consider an art gallery (i.e., compact set) X of Lebesgue measure 1 in IR d ; d 2, such that a guard placed anywhere in the gallery sees a region of Lebesgue measure at least ". Kavraki, Latombe, Motwani, and Raghavan <ref> [KLMR] </ref> conjectured that if X has at most h holes then it can be guarded by at most f d (h; ") guards, for some function f d polynomial in h and 1 " . <p> A motivation for the problem coming from the robot path planning can be found in <ref> [KLMR] </ref>. Let X be a set in IR d ; d 2. We say that a point x 2 X sees a point y 2 X in X if the line segment xy is fully contained in X.
+Reference: [Va] <author> P. Valtr. </author> <title> Guarding galleries where no point sees a small area, to appear in Israel J. Math. 1 P is a centerpoint of a compact set X IR d with respect to a locally finite Borel measure if every halfspace in IR d containing P contains a subset of X of measure 1 d+1 (X). The existence of a centerpoint for any compact set X IR d with respect to a locally finite Borel measure follows easily from the existence of a centerpoint for any finite set in IR d with respect to Lebesgue measure (see [Ed]). </title>
+Reference-contexts: Kalai and Matousek [KM] proved a weaker form of the planar version of the conjecture (their function f 2 was not polynomial in h). Following some ideas of Kalai and Matousek, the author <ref> [Va] </ref> proved the planar version of the conjecture with f 2 (h; ") = (2 + o (1)) 1 " log 1 " log 2 (h + 2). <p> This is because the proof in <ref> [Va] </ref> for the uniform (Lebesgue) measure doesn't use any specific properties of the uniform measure, and therefore can be applied for any locally finite Borel measure. We now prove Theorems 2 and 3. Proof of Theorems 2 and 3 (i).
+References-found: 4
+

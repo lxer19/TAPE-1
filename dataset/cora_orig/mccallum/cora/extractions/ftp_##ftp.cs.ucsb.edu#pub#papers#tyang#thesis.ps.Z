@@ -1,0 +1,26 @@
+URL: ftp://ftp.cs.ucsb.edu/pub/papers/tyang/thesis.ps.Z
+Refering-URL: http://www.cs.ucsb.edu/~tyang/papers/PYRROS.html
+Root-URL: http://www.cs.ucsb.edu
+Title: 182 scheduling DAGs on multiprocessors. Journal of Distributed and Parallel Computing, Special issue on scheduling
+Author: T. Yang and A. Gerasoulis, . A. Gerasoulis and T. Yang, . T. Yang and A. Gerasoulis, 
+Note: 14.  To appear in IEEE Transactions on Parallel and  To appear in IEEE Transactions on Parallel and Distributed Systems.  
+Date: Dec. 1992, pp. 276-291.  
+Pubnum: 16, No. 4,  
+Abstract: To appear 13. A. Gerasoulis and T. Yang, Scheduling prorgam task graphs on MIMD architectures. To appear as a book chapter in Algorithm Derivation and Program Transformation, R. Paige, J. Reif, and R. Wachter (Eds), Kluwer Publisher. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> T. Adam, K.M. Chandy and J. R. Dickson, </author> <title> A comparison of list schedules for parallel processing Systems, </title> <journal> CACM, </journal> <month> 17:12 </month> <year> (1974), </year> <pages> 685-690. </pages>
+Reference: [2] <author> I. Ahmad, A. Choudhary, G. Fox, K. Parasuram, R. Ponnusamy, S. Ranka, and R. Thakur, </author> <title> Implementation and scalability of Fortran 90D intrinsic functions on distributed memory machines, </title> <type> NPAC Tech Report, </type> <institution> Syracuse University, </institution> <year> 1993. </year>
+Reference: [3] <author> F. Allen, M. Burke, P. Charles, R. Cytron, and J. Ferrante, </author> <title> An overview of the PTRAN analysis system for multiprocessing, </title> <journal> J. of Parallel and Dist Computing, </journal> <month> Oct 88. </month>
+Reference: [4] <author> F. L. Alvarado, </author> <title> The sparse matrix manipulation system users manual, </title> <institution> University of Wisconsin, </institution> <month> Oct. </month> <year> 1990. </year>
+Reference: [5] <author> M. A. Al-Mouhamed, </author> <title> Lower Bound on the Number of Processors and Time for Scheduling Precedence Graphs with Communication Costs, </title> <journal> IEEE Trans. on Software Engineering, </journal> <volume> vol. 16, no. 12, </volume> <pages> pp. 1390-1401, </pages> <year> 1990. </year>
+Reference: [6] <author> F.D. Anger, J. Hwang, and Y. Chow, </author> <title> Scheduling with sufficient loosely coupled processors, </title> <journal> J. of Parallel and Distributed Computing, </journal> <volume> vol. 9, </volume> <pages> pp. 87-92, </pages> <year> 1990. </year>
+Reference: [7] <author> B. Appelbe, C. McDowell, and K. Smith, Start/Pat: </author> <title> A parallel programming toolkit, </title> <booktitle> IEEE Software 6, </booktitle> <month> 4 (July </month> <year> 1989), </year> <pages> pp. 29-38. </pages>
+Reference: [8] <author> V. Balasundaram and K. Kennedy, </author> <title> A technique for summarizing data access and its use in parallelism enhancing transformations, </title> <booktitle> Proc. of 1989 ACM SIGPLAN, </booktitle> <pages> pp. 41-53. </pages>
+Reference: [9] <author> A. Bakre and A. Gerasoulis, </author> <title> Numerical applications in LINDA on message-passing architectures, </title> <type> Report, </type> <year> 1992. </year>
+Reference: [10] <author> A. Beguelin, J.J. Dongarra, G.A. Geist, R. Manchek, </author> <title> V.S. Sunderam, Graphical development tools for network-based concurrent supercomputing, </title> <booktitle> Proc. of Supercomputing '91, IEEE, </booktitle> <year> 1991, </year> <month> pp.435-444. </month>
+Reference: [11] <author> F. Berman, </author> <title> Experience with an automatic solution to the mapping problem. </title> <editor> In L. Jamieson, D. Gannon an R. Douglass, Eds., </editor> <title> The Characteristics of Parallel Algorithms (MIT press, </title> <year> 1987) </year> <month> 307-334. </month>
+Reference: [12] <author> P. Bhattacharjya, </author> <title> Gauss-Jordan elimination for sparse matrix on message-passing architecture, </title> <type> Report, </type> <year> 1991. </year>
+
+References-found: 12
+

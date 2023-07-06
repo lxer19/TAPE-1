@@ -1,0 +1,14 @@
+URL: http://www.cs.rochester.edu/u/sandhya/papers/mascots93.ps.gz
+Refering-URL: http://www.cs.rochester.edu/u/sandhya/papers/
+Root-URL: 
+Title: EXECUTION-DRIVEN SIMULATION OF SHARED-MEMORY MULTIPROCESSORS  
+Author: S. Dwarkadas, J. R. Jump, R. Mukherjee, and J. B. Sinclair 
+Address: Houston, Texas 77251-1892  
+Affiliation: Department of Electrical and Computer Engineering Rice University  
+Abstract: This paper describes an efficient execution-driven technique for the simulation of shared-memory multiprocessors driven by real programs. Our simulator offers substantial advantages in terms of reduced time and space overheads when compared to instruction-driven or trace-driven simulation techniques, without significant loss of accuracy. The technique produces correctly interleaved address traces at run time without disk access overhead, allowing accurate simulation of a variety of architectural alternatives for programs. We present the results of several validation experiments used to quantify the accuracy and efficiency of the technique for three shared-memory multiprocessors and several parallel algorithms. These experiments show that prediction errors of less than 5% and overheads 5 to 25 times lower than those incurred by cycle-level simulation can be achieved. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Agarwal, A.; Sites, R.L.; and M. Horowitz. </author> <year> 1986. </year> <month> "ATUM: </month>
+Reference-contexts: However, the post-processing phase needed to construct the actual address trace is extremely slow, generating about 3000 addresses per second from the saved template. Link time code modification has been used to generate long traces on sequential RISC machines (Borg et al. 1990). ATUM <ref> (Agarwal et al. 1986) </ref> captures address traces using microcode. While this technique is efficient, long traces must be stored on disk and a processor with user-programmable microcode is needed to run the system.
+References-found: 1
+

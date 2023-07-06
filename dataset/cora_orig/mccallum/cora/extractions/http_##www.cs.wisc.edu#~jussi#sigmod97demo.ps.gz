@@ -1,0 +1,19 @@
+URL: http://www.cs.wisc.edu/~jussi/sigmod97demo.ps.gz
+Refering-URL: http://www.cs.wisc.edu/~jussi/jussi.html
+Root-URL: 
+Email: fmiron,raghu,beyer,guangshu,donjerko,ssl,jussi,wengerg@cs.wisc.edu  
+Phone: Tel: (608)262-6611, Fax: (608)262-9777  
+Title: DEVise: Integrated Querying and Visual Exploration of Large Datasets (DEMO ABSTRACT)  
+Author: M. Livny, R. Ramakrishnan, K. Beyer, G. Chen, D. Donjerkovic, S. Lawande, J. Myllymaki and K. Wenger 
+Address: 1210 W. Dayton St., Madison, Wisconsin 53706  
+Affiliation: Department of Computer Sciences, University of Wisconsin-Madison  
+Abstract: DEVise is a data exploration system that allows users to easily develop, browse, and share visual presentations of large tabular datasets (possibly containing or referencing multimedia objects) from several sources. The DEVise framework, implemented in a tool that has been already successfully applied to a variety of real applications by a number of user groups, makes several contributions. In particular, it combines support for extended relational queries with powerful data visualization features. Datasets much larger than available main memory can be handled|DEVise is currently being used to visualize datasets well in excess of 100MB| and data can be interactively examined at several levels of detail: all the way from meta-data summarizing the entire dataset, to large subsets of the actual data, to individual data records. Combining querying (in general, data processing) with visualization gives us a very versatile tool, and presents several novel challenges. Our emphasis is on developing an intuitive yet powerful set of querying and visualization primitives that can be easily combined to develop a rich set of visual presentations that integrate data from a wide range of application domains. In this demo, we will present a number of examples of the use of the DEVise tool for visualizing and interactively exploring very large datasets, and report on our experience in applying it to several real applications. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> J. A. Blakeley. </author> <title> Data access for the masses through ole-db. </title> <booktitle> In Proceedings of ACM SIGMOD, </booktitle> <address> Montreal, Canada, </address> <year> 1996. </year>
+Reference-contexts: We have developed such query handling software for use at a data site, along with a set of well-defined interfaces that extend OLE-DB <ref> [1] </ref>. (Of course, where remote data sources provide query processing capabilities, the DEVise optimizer seeks to exploit this, like any distributed query optimizer.) * Collaborative Data Analysis: DEVise enables several users to share visual presentations of the data, and to dynamically explore these presentations, independently or concurrently (so that some of
+Reference: [2] <editor> A. Silberschatz and S. Z. et al., editors. </editor> <booktitle> Proc. NSF Workshop on Strategic Directions in Computing, </booktitle> <address> Cambridge, MA, </address> <year> 1996. </year>
+Reference-contexts: As datasets on the Web become increasingly important, such `out-of-the-box' applications of database technology will have a significant impact <ref> [2] </ref>. The main features of DEVise include: * Visual Presentation Capabilities: Users can render their data in a flexible, easy-to-use manner.
+
+References-found: 2
+

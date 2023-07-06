@@ -1,0 +1,27 @@
+URL: file://ftp.cs.utexas.edu/pub/neural-nets/papers/moriarty.icec98.ps.Z
+Refering-URL: http://www.cs.utexas.edu/users/nn/pages/publications/abstracts.html
+Root-URL: http://www.cs.utexas.edu
+Email: moriarty@isi.edu,risto@cs.utexas.edu  
+Title: Hierarchical Evolution of Neural Networks  
+Author: David E. Moriarty and Risto Miikkulainen 
+Address: Austin, TX 78712  
+Affiliation: Department of Computer Sciences The University of Texas  
+Note: In Proceedings of the 1998 IEEE Conference on Evolutionary Computation (ICEC-98, Anchorage, AK). Piscataway, NJ: IEEE, 1998.  
+Abstract: In most applications of neuro-evolution, each individual in the population represents a complete neural network. Recent work on the SANE system, however, has demonstrated that evolving individual neurons often produces a more efficient genetic search. This paper demonstrates that while SANE can solve easy tasks very quickly, it often stalls in larger problems. A hierarchical approach to neuro-evolution is presented that overcomes SANE's difficulties by integrating both a neuron-level exploratory search and a network-level exploitive search. In a robot arm manipulation task, the hierarchical approach outperforms both a neuron-based search and a network-based search. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Andrew G. Barto, Richard S. Sutton, and Charles W. Anderson. </author> <title> Neuronlike adaptive elements that can solve difficult learning control problems. </title> <journal> IEEE Transactions on Systems, Man, and Cybernetics, </journal> <volume> SMC-13:834-846, </volume> <year> 1983. </year>
+Reference: [2] <author> Richard K. Belew, J. McInerney, and N. N. Schraudolph. </author> <title> Evolving networks: Using genetic algorithm with connectionist learning. </title> <editor> In J. D. Farmer, C. Langton, S. Rasmussen, and C. Taylor, editors, </editor> <booktitle> Artificial Life II, </booktitle> <address> Reading, MA, 1991. </address> <publisher> Addison-Wesley. </publisher>
+Reference: [3] <author> Dave Cliff, Inman Harvey, and Phil Husbands. </author> <booktitle> Explorations in evolutionary robotics. Adaptive Behavior, </booktitle> <volume> 2 </volume> <pages> 73-110, </pages> <year> 1993. </year>
+Reference: [4] <author> David E. Goldberg. </author> <title> Genetic Algorithms in Search, Optimization and Machine Learning. </title> <publisher> Addison-Wesley, </publisher> <address> Reading, MA, </address> <year> 1989. </year>
+Reference: [5] <author> John R. Koza and James P. Rice. </author> <title> Genetic generalization of both the weights and architecture for a neural network. </title> <booktitle> In International Joint Conference on Neural Networks, </booktitle> <volume> volume 2, </volume> <pages> pages 397-404, </pages> <address> New York, NY, 1991. </address> <publisher> IEEE. </publisher>
+Reference: [6] <author> David E. Moriarty and Risto Miikkulainen. </author> <title> Efficient reinforcement learning through symbiotic evolution. </title> <journal> Machine Learning, </journal> <volume> 22 </volume> <pages> 11-32, </pages> <year> 1996. </year>
+Reference: [7] <author> David E. Moriarty and Risto Miikkulainen. </author> <title> Evolving neuro-controllers for hand-eye coordination and obstacle avoidance in a robot arm. </title> <booktitle> In From Animals to Animats: Proceedings of the Fourth International Conference on Simulation of Adaptive Behavior (SAB-96), </booktitle> <address> Cape Cod, MA, </address> <year> 1996. </year>
+Reference: [8] <author> Stefano Nolfi, Dario Floreano, Orazio Miglino, and Francesco Mondada. </author> <title> How to evolve autonomous robots: </title> <booktitle> Different approaches in evolutionary robotics. In Artificial Life IV, </booktitle> <address> Cam-bridge, MA, </address> <year> 1994. </year>
+Reference: [9] <author> Stefano Nolfi and D Parisi. </author> <title> Growing neural networks. </title> <booktitle> In Artificial Life III, </booktitle> <address> Reading, MA, 1992. </address> <publisher> Addison-Wesley. </publisher>
+Reference: [10] <author> Patrick van der Smagt. Simderella: </author> <title> A robot simulator for neuro-controller design. </title> <journal> Neurocomputing, </journal> <volume> 6(2), </volume> <year> 1994. </year>
+Reference: [11] <author> Patrick van der Smagt. </author> <title> Visual Robot Arm Guidance using Neural Networks. </title> <type> PhD thesis, </type> <institution> The University of Amsterdam, </institution> <address> Ams-terdam, The Netherlands, </address> <year> 1995. </year>
+Reference: [12] <author> C. J. C. H. Watkins. </author> <title> Learning from Delayed Rewards. </title> <type> PhD thesis, </type> <institution> University of Cambridge, </institution> <address> England, </address> <year> 1989. </year>
+Reference: [13] <author> Darrell Whitley, Stephen Dominic, Rajarshi Das, and Charles W. Anderson. </author> <title> Genetic reinforcement learning for neu-rocontrol problems. </title> <journal> Machine Learning, </journal> <volume> 13 </volume> <pages> 259-284, </pages> <year> 1993. </year>
+References-found: 13
+

@@ -1,0 +1,15 @@
+URL: ftp://www.cs.unm.edu/pub/cs_tech_reports/1995/CS95-3.ps.Z
+Refering-URL: http://www.cs.unm.edu/~patrik/
+Root-URL: http://www.cs.unm.edu
+Email: patrik@cs.unm.edu http://www.cs.unm.edu/~patrik  
+Title: Further Efficient Algorithms for Generating Antibody Strings  
+Author: Patrik Dhaeseleer 
+Date: 11/1/95  
+Address: Albuquerque, New Mexico, 87131  
+Affiliation: Department of Computer Science University of New Mexico  
+Pubnum: Technical Report No. CS95-3,  
+Abstract: In this report we analyze the algorithm described by Helman et al. in [3], intended to improve the performance of the changedetection method developed by Forrest et al. [1, 2]. We present a greedy algorithm that attempts to reduce the size of the detector set based on a counting recurrence similar to that of Helman et al. In addition to counting the number of strings unmatched by self, we can also count the number of holes, i.e. strings for which no detector can be constructed. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

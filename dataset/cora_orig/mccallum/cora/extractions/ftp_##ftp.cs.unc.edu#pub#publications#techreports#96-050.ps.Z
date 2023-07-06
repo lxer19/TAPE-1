@@ -1,0 +1,24 @@
+URL: ftp://ftp.cs.unc.edu/pub/publications/techreports/96-050.ps.Z
+Refering-URL: ftp://ftp.cs.unc.edu/pub/publications/techreports/FILE.html
+Root-URL: http://www.cs.unc.edu
+Email: fi  
+Title: A 2D Finite Element Formulation of Maxwell's Equations for Propagation of TEM waves between PCB Planes.  
+Author: Vernon L. Chi 
+Note: This work was funded in part by NSF under grant number MIP-9208904. UNC is an Equal Opportunity/Affirmative Action Institution.  
+Address: Chapel Hill, NC 27599-3175  
+Affiliation: Microelectronic Systems Laboratory Department of Computer Science University of North Carolina at Chapel Hill  
+Date: 2 December 1996  
+Pubnum: TR96-050  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> Becker, E. B., et. al., </author> <title> "Finite Elements, an Introduction", </title> <publisher> Prentice-Hall, </publisher> <address> Englewood Cliffs, NJ, </address> <year> 1981. </year>
+Reference-contexts: voltage equation, solve eq (A16) for J s , take the transverse divergence of both sides, and substitute eq (A14), r t kr t v + bv = J z : (A17) Appendix B: Finite Element Formulation for a Lossy Planar Structure Let us follow the procedure described in Becker <ref> [1] </ref>, p 140 ff (n.b., we exchange the roles of u and v as used by Becker in this treatment).
+Reference: [2] <author> Silvester, P., </author> <title> "High-Order Polynomial Triangular Finite Elements for Potential Problems", </title> <journal> International Journal of Engineering Science, v. </journal> <volume> 7, no. </volume> <pages> 8, </pages> <address> p. 849, Aug 1969, </address> <publisher> Pergamon Press. </publisher>
+Reference: [3] <author> Sorrentino, R., </author> <title> "Planar Circuits, Waveguide Models, and Segmentation Method", </title> <journal> IEEE Transactions on Microwave Theory and Techniques, v. MTT-33, </journal> <volume> no. 10, </volume> <editor> p. </editor> <volume> 1057, </volume> <month> Oct </month> <year> 1985. </year>
+Reference-contexts: 2J s j! 0 c =j! c : (A15) Add this to eq (A12) to obtain the total transverse voltage gradient, r t v = k J s ; where 1 = R + j!L; (A16) p Note that eq (A14) and eq (A16) are the equations presented by Sorrentino <ref> [3] </ref> as "a two-dimensional form of inhomogeneous telegraphists' equations", suitably generalized to account for conductor and dielectric losses.
+Reference: [4] <author> Matick, R.E., </author> <title> "Transmission Lines for Digital and Communications Networks", </title> <address> Mc-Graw Hill, New York, </address> <year> 1969. </year>
+Reference-contexts: The skin effect model allows calculation of an effective surface impedance which is, paraphrased from Matick <ref> [4] </ref>, Z s = j! p ~ c =j! c .
+Reference: [5] <author> Chi, Vernon L., </author> <title> "Salphasic Distribution of Clock Signals for Synchronous Systems", </title> <journal> IEEE T. Computers, </journal> <volume> vol. 43, no. 5, </volume> <month> May </month> <year> 1994, </year> <pages> 597-602 7 </pages>
+Reference-contexts: 1 Introduction PCSIM was developed as part of a simulation environment to support research in the properties of sinusoidal salphasic clock signal propagation <ref> [5] </ref>. Since lossiness is a critical factor in salphasic behavior, one of the requirements was an accurate representation of losses in both the dielectric and the conductors, including a proper accounting for skin effect.
+References-found: 5
+

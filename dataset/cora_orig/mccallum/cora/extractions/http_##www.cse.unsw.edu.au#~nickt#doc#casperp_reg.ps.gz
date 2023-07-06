@@ -1,0 +1,22 @@
+URL: http://www.cse.unsw.edu.au/~nickt/doc/casperp_reg.ps.gz
+Refering-URL: http://www.cse.unsw.edu.au/~nickt/index.html
+Root-URL: http://www.cse.unsw.edu.au
+Email: -@cse.unsw.edu.au  
+Title: Extending CasPer: A Regression Survey  
+Author: N.K. Treadgold and T.D. Gedeon nickt tom 
+Address: Sydney N.S.W. 2052 AUSTRALIA  
+Affiliation: Department of Information Engineering School of Computer Science Engineering The University of New South Wales  
+Abstract: The CasPer algorithm is a constructive neural network algorithm. CasPer creates cascade network architectures in a similar manner to Cascade Correlation. CasPer, however, uses a modified form of the RPROP algorithm, termed Progressive RPROP, to train the whole network after the addition of each new hidden neuron. Previous work with CasPer has shown that it builds networks which generalise better than CasCor, often using less hidden neurons. This work adds two extensions to CasPer. First, an enhancement to the RPROP algorithm, SARPROP, is used to train newly installed hidden neurons. The second extension involves the use of a pool of hidden neurons, each trained using SARPROP, with the best performing neuron selected for insertion into the network. These extensions are benchmarked on a number of regression problems and are shown to result in CasPer producing networks which generalise better than those produced by the original CasPer algorithm. 
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> S.E. Fahlman and C. Lebiere, </author> <booktitle> The cascade-correlation learning architecture, Advances in Neural Information Processing 2, </booktitle> <editor> D.S. Touretzky, (Ed.) </editor> <address> San Mateo, CA: </address> <publisher> Morgan Kauffman, </publisher> <month> 524-532 </month> <year> (1990). </year>
+Reference: 2. <author> S.E. Fahlman, </author> <title> An empirical study of learning speed in backpropagation networks, </title> <type> Technical Report CMU-CS-88-162, </type> <institution> Carnegie Mellon University (1988). </institution>
+Reference: 3. <author> J. Hwang, S. Lay, R. Maechler, and D. Martin, </author> <title> Regression Modeling in BackPropagation and Projection Pursuit Learning, </title> <journal> IEEE Trans. Neural Networks 5(3), </journal> <month> 342-353 </month> <year> (1994). </year>
+Reference: 4. <author> J. Hwang, S. You, S. Lay, and I. Jou, </author> <title> The Cascade-Correlation Learning: A Projection Pursuit Learning Perspective, </title> <journal> IEEE Trans. Neural Networks 7(2), </journal> <month> 278-289 </month> <year> (1996). </year>
+Reference: 5. <author> T. Kwok and D. Yeung, </author> <title> Experimental Analysis of Input Weight Freezing in Constructive Neural Networks, </title> <booktitle> Proc IEEE Int. Conf. On Neural Networks, </booktitle> <month> 511-516 </month> <year> (1993). </year>
+Reference: 6. <author> T. Kwok and D. Yeung, </author> <title> Use of Bias Term in Projection Pursuit Learning Improves Approximation and Convergence Properties, </title> <journal> IEEE Trans. Neural Networks 7(5), </journal> <month> 1168-1183 </month> <year> (1996). </year>
+Reference: 7. <author> M. Riedmiller and H. Braun, </author> <title> A Direct Adaptive Method for Faster Backpropagation Learning: The RPROP Algorithm, </title> <booktitle> Proc IEEE Int. Conf. on Neural Networks, </booktitle> <month> 586-591 </month> <year> (1993). </year>
+Reference: 8. <author> N.K. Treadgold and T.D. Gedeon, </author> <title> A Cascade Network Employing Progressive RPROP, </title> <booktitle> Int. Work Conf. on Artificial and Natural Neural Networks, </booktitle> <month> 733-742 </month> <year> (1997). </year>
+Reference: 9. <author> N.K. Treadgold, </author> <title> N.K. and T.D. Gedeon, A Simulated Annealing Enhancement to Resilient Backpropagation, </title> <booktitle> Proc. Int. Panel Conf. Soft and Intelligent Computing, </booktitle> <address> Budapest, </address> <month> 293-298 </month> <year> (1996). </year>
+References-found: 9
+

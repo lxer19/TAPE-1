@@ -1,0 +1,25 @@
+URL: http://www.cs.toronto.edu/~frey/bbc.ps.Z
+Refering-URL: http://www.cs.toronto.edu/~frey/index.html
+Root-URL: 
+Title: Bits-back coding software guide  
+Author: Brendan J. Frey 
+Keyword: Index Terms source coding, data compression, bits-back, free energy, expecta tion maximization, Boltzmann distribution.  
+Address: 10 King's College Road, Toronto, Ontario, M5S 1A4, Canada  
+Affiliation: Department of Electrical Engineering, University of Toronto  
+Email: E-mail: frey@cs.toronto.edu  
+Phone: Phone: +1 416 978 7391  
+Date: March 1, 1996  
+Abstract: Abstract | In this document, I first review the theory behind bits-back coding (aka. free energy coding) (Frey and Hinton 1996) and then describe the interface to C-language software that can be used for bits-back coding. This method is a new approach to the problem of optimal compression when a source code produces multiple codewords for a given symbol. It may seem that the most sensible codeword to use in this case is the shortest one. However, in the proposed bits-back approach, random codeword selection yields an effective codeword length that can be less than the shortest codeword length. If the random choices are Boltzmann distributed, the effective length is optimal for the given source code. The software which I describe in this guide is easy to use and the source code is only a few pages long. I illustrate the bits-back coding software on a simple quantized Gaussian mixture problem. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> A. P. Dempster, N. M. Laird and D. B. </author> <title> Rubin 1977. Maximum likelihood from incomplete data via the EM algorithm (with discussion). </title> <journal> Journal of the Royal Statistical Society B 39, </journal> <pages> 1-38. </pages>
+Reference: <author> B. J. Frey and G. E. </author> <title> Hinton 1996. Free energy coding. </title> <booktitle> In Proceedings of the Data Compression Conference 1996, </booktitle> <publisher> IEEE Computer Society Press, </publisher> <year> 1996. </year> <note> 11 G. </note> <author> E. Hinton and R. S. </author> <title> Zemel 1994. Autoencoders, minimum description length, and Helmholtz free energy. </title> <editor> In J. K. Cowan, G. Tesauro and J. </editor> <booktitle> Alspector (editors) Advances in Neural Information Processing Systems 6, </booktitle> <address> San Francisco: </address> <publisher> Morgan Kaufmann Publishers. </publisher>
+Reference-contexts: I refer to 3 this method of communicating extra auxiliary data as bits-back coding <ref> (Frey et al. 1996) </ref>. This procedure can be formalized by defining a distribution that is used to select codewords for a given symbol, x: Q (yjx); (1) where y indexes the possible codewords for the given symbol. <p> Bits-back coding To implement the communication scheme shown in figure 2, we need a general method of achieving bits-back <ref> (Frey et al. 1996) </ref>. In the example given above, there were two codewords and each was selected equally often so that a single bit could be used for bitsback. If the codeword selection distribution is dyadic 1 , Huffman coding (Huffman 1952) may be used.
+Reference: <author> D. A. </author> <title> Huffman 1952. A method for the construction of minimum redundancy codes. </title> <booktitle> Proceedings of the Institute of Radio Engineers 40, </booktitle> <pages> 1098-1101. </pages>
+Reference-contexts: In the example given above, there were two codewords and each was selected equally often so that a single bit could be used for bitsback. If the codeword selection distribution is dyadic 1 , Huffman coding <ref> (Huffman 1952) </ref> may be used. Here, I consider the case of an arbitrary codeword selection distribution. In this more general case, it is not so easy to see how random codeword choices can be made without losing auxiliary data information.
+Reference: <author> J. Rissanen and G. G. </author> <title> Langdon 1976. Arithmetic coding. </title> <journal> IBM Journal of Research and Development 23, </journal> <pages> 149-162. </pages>
+Reference: <author> C. J. </author> <title> Thompson 1988. Classical Equilibrium Statistical Mechanics. </title> <publisher> Oxford: Clarendon Press. </publisher>
+Reference-contexts: the information content (entropy) of the distribution used to select codewords: H (x) y The difference between equations 2 and 3 gives the effective average codeword length, F (x): F (x) E (x) H (x): (4) Since this quantity is analogous to the variational Helmholtz free energy from statistical physics <ref> (Thompson 1988) </ref>, I refer to the effective average codeword length as the free energy. Bits-back coding makes gains over shortest codeword selection by taking into account the existence of multiple codewords of similar length.
+Reference: <author> I. H. Witten, R. M. Neal and J. G. </author> <title> Cleary 1987. Fast arithmetic coding using low-precision division, </title> <journal> Communications of the ACM 30, </journal> <pages> 520-540. 12 </pages>
+References-found: 6
+

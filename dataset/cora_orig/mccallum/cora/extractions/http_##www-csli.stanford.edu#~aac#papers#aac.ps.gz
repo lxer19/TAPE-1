@@ -1,0 +1,23 @@
+URL: http://www-csli.stanford.edu/~aac/papers/aac.ps.gz
+Refering-URL: 
+Root-URL: 
+Email: aac@csli.stanford.edu  
+Title: Augmented and alternative NLP techniques for augmentative and alternative communication  
+Author: Ann Copestake 
+Address: Ventura Hall, Stanford, CA 94305, USA  
+Affiliation: Center for the Study of Language and Information, Stanford University,  
+Abstract: Current communication devices designed for non-speaking users are inadequate to support conversation because the speed with which a user can input information is typically very limited. We describe some practical work on word prediction, and discuss its limitations as a technique for speeding up free text entry. We then outline an alternative approach, currently under development, which combines prediction with a constrained technique for nat ural language generation.
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Alm, Norman, John L. Arnott and Alan F. </author> <title> Newell (1992) `Prediction and conversational momentum in an augmentative communication system', </title> <journal> Communications of the ACM, </journal> <volume> 35(5), </volume> <pages> 47-57. </pages>
+Reference: <author> Baker, B. R. </author> <year> (1982) </year> <month> `Minspeak', </month> <journal> Byte, </journal> <volume> 7(9), </volume> <pages> 186-202. </pages>
+Reference-contexts: The research described here concentrates on the latter aspect, although the utility of various techniques is partially dependent on the interface. Techniques which have been used in augmentative and alternative communication (AAC) often involve the use of alternative symbol systems for input, in particular Minspeak <ref> (Baker, 1982) </ref>. However, the work reported here was prompted by the needs of an individual who has lost the ability to speak due to amyotrophic lateral sclerosis (ALS or Lou Gehrig's disease). Such users would prefer to continue using their original language, rather than to learn an alternative symbol system.
+Reference: <author> Brown, P. F., S.A. DellaPietra, V.J. DellaPietra, J.C. Lai and R.L. </author> <title> Mercer (1992) `An estimate of an upper bound for the entropy of English', </title> <journal> Computational Linguistics, </journal> <volume> 18(1), </volume> <pages> 31-40. </pages>
+Reference: <author> Copestake, A. </author> <title> (1996) `Applying natural language processing techniques to speech prostheses', </title> <booktitle> Proceedings of the AAAI Fall Symposium on developing assistive technology for people with disabilities, </booktitle> <publisher> MIT, </publisher> <address> Cambridge, MA. </address>
+Reference: <author> Darragh, J. J. and I. H. </author> <title> Witten (1992) The reactive keyboard, </title> <publisher> Cambridge University Press. </publisher>
+Reference: <author> Demasco, Patrick W. and Kathleen F. </author> <title> McCoy (1992) `Generating text from compressed input:an intelligent interface for people with severe motor impediments', </title> <journal> Communications of the ACM, </journal> <volume> 35(5), </volume> <pages> 68-78. </pages>
+Reference: <author> Levin, B. </author> <title> (1993) English verb classes and alternations, </title> <publisher> University of Chicago Press, Chicago. </publisher> <editor> Miller, </editor> <title> George (1990) `WordNet: An on-line lexical database', </title> <journal> International Journal of Lexicography, </journal> <volume> 3, </volume> <pages> 235-312. </pages>
+Reference: <author> Newell, Alan F., John L. Arnott, Alistair Y. Cairns, Ian W. </author> <title> Ricketts and Peter Gregor (1995) `Intelligent systems for speech and language impaired people: a portfolio of research' in Ed-wards, </title> <editor> Alistair D. N. (ed.), </editor> <title> Extra-Ordinary Human-Computer Interaction, </title> <publisher> Cambridge University Press, </publisher> <pages> pp. 83-101. </pages>
+Reference: <author> Pustejovsky, J. </author> <title> (1995) The Generative Lexicon, </title> <publisher> MIT Press, </publisher> <address> Cambridge, MA. </address>
+References-found: 9
+

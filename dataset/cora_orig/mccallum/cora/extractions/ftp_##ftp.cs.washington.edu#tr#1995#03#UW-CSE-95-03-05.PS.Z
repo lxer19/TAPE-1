@@ -1,0 +1,19 @@
+URL: ftp://ftp.cs.washington.edu/tr/1995/03/UW-CSE-95-03-05.PS.Z
+Refering-URL: http://www.cs.washington.edu/research/tr/tr-by-title.html
+Root-URL: 
+Title: Fast Median Filtering Algorithms for Mesh Computers  
+Author: Steven L. Tanimoto 
+Address: Seattle, WA 98195  
+Affiliation: Department of Computer Science and Engineering, FR-35 University of Washington  
+Abstract: Technical Report 95-03-05 March, 1995 
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> Huang, T. S. </author> <year> 1981. </year> <title> Two-Dimensional Signal Processing II: Transforms and Median Filters. </title> <publisher> Berlin: Springer-Verlag. </publisher>
+Reference: 2. <author> Gil, J., and Werman, M. </author> <year> 1993. </year> <title> Computing 2-D min, median, and max filters. </title> <journal> IEEE Trans. Pattern Analysis and Machine Intelligence, </journal> <volume> Vol. 15, No. 5, </volume> <month> pp.504-507. </month>
+Reference: 3. <author> Ranka, S., and Sahni, S. </author> <year> 1991. </year> <title> Efficient serial and parallel algorithms for median filtering. </title> <journal> IEEE Trans. Signal Processing, </journal> <volume> Vol. 39, No. 6, </volume> <month> pp.1462-1466. </month>
+Reference: 4. <author> Stout, Q. F. </author> <year> 1983. </year> <title> Sorting, merging, selecting, and filtering on tree and pyramid machines. </title> <booktitle> Proceedings of the 1983 International Conference on Parallel Processing, </booktitle> <address> pp.214-221. </address>
+Reference: 5. <author> Miller, R., and Stout, Q. F. </author> <title> Parallel Algorithms for Regular Architectures. </title> <publisher> MIT Press: To appear. </publisher>
+Reference: 6. <author> Thompson, C. D., and Kung, H.-T. </author> <year> 1977. </year> <title> Sorting on a mesh-connected parallel computer. Communications of the A. </title> <editor> C. M., </editor> <volume> Vol. 20, </volume> <month> pp.263-271. </month>
+Reference: 7. <author> Brownrigg, D. R. </author> <year> 1984. </year> <title> The weighted median filter. </title> <journal> Communications of the Assoc. for Computing Machinery, </journal> <volume> Vol. 27, No. 8, pp.204-208. </volume> <pages> 19 </pages>
+References-found: 7
+

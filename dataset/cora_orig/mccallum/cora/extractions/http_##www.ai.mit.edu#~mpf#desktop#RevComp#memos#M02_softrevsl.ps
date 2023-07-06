@@ -1,0 +1,19 @@
+URL: http://www.ai.mit.edu/~mpf/desktop/RevComp/memos/M02_softrevsl.ps
+Refering-URL: 
+Root-URL: 
+Email: mpf@ai.mit.edu  
+Title: "Useful Control of Reversible Processor Direction in Software." DRAFT  
+Author: Michael Frank 
+Date: Typeset December 19, 1996  
+Address: 3/18/96  
+Affiliation: Started  
+Pubnum: MIT Reversible Computing Project Memo #M2  Revision: 1.5  
+Abstract: A computer that is logically reversible (conserves information) can be designed to be capable of actually operating in a "reverse" mode, in which the computer's state transition function is the inverse of the one that is used during normal "forward" operation. For example, Vieri [2] describes such a machine, Pendulum, that is both logically and operationally reversible. However, in Vieri's original machine, the direction of operation (forward or reverse) was determined by an external signal and could not be controlled by the software running on the processor. In this brief memo we show how Pendulum's ability to run in reverse can be effectively utilized in software via the addition of a few extra instructions. These instructions allow implementation of memory-efficient reversible programs using roughly half the code size that would be required if software control of processor direction were not available. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Michael Frank. </author> <title> Time-symmetric control-flow instructions for less garbage in reversible programs. </title> <note> Online draft memo, February 1996. http://www.ai.mit.edu/~mpf/rc/memos/M01 symmarch.html. </note>
+Reference-contexts: Such operations would exist in symmetric inverse forms, so that the programmer (or compiler) could structure programs in such a way that the program cleans up most of its garbage by selectively undoing earlier operations. The previous memo in this series <ref> [1] </ref> describes in more detail how to build control flow structures in the current scheme using paired forward and reverse control flow instructions.
+Reference: [2] <author> Carlin J. Vieri. Pendulum: </author> <title> A reversible computer architecture. </title> <type> Master's thesis, </type> <institution> MIT Artificial Intelligence Laboratory, </institution> <year> 1995. </year> <month> 3 </month>
+Reference-contexts: 1 Introduction This memo discusses software CPU reversal within the context of a processor like Pendulum <ref> [2] </ref>.
+References-found: 2
+

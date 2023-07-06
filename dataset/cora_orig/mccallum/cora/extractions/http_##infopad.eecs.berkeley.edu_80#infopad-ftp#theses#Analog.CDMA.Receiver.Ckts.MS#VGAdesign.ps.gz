@@ -1,0 +1,10 @@
+URL: http://infopad.eecs.berkeley.edu:80/infopad-ftp/theses/Analog.CDMA.Receiver.Ckts.MS/VGAdesign.ps.gz
+Refering-URL: http://infopad.eecs.berkeley.edu:80/infopad-ftp/theses/Analog.CDMA.Receiver.Ckts.MS/index.html
+Root-URL: http://www.cs.berkeley.edu
+Title: Analog Circuits for an All CMOS Integrated CDMA Receiver 29 CHAPTER 4 VGA Circuit Design  
+Note: 4.1 Introduction  
+Abstract: A portable terminal such as the InfoPad must have variable gain placed in the receive path of its radio. The explanation for this requirement is simple: The portability of the terminal implies that the receiver may be moving at any given time. A moving terminal may be physically very close to the transmitter (and therefore receiving a strong signal), and then move very far away (where it receives a weak signal). Additionally, there may or may not be a direct line of sight (LOS) between transmitter and receiver -- where loss of LOS can cause severe degradation of received signal power. Wireless receivers must include circuitry to automatically adjust to these changes in environment. Simply put, the purpose of the automatic gain control circuit (AGC) is to automatically adjust the gain of the receive path so that the signal processed by the baseband circuitry appears to be of constant power regardless of the actual signal size at the antenna. If the signal level after the AGC is too large, then either the A/D or the AGC itself may begin to clip the waveform, resulting in severe distortion and loss of signal. (Although this is sometimes acceptable in certain phase-modulated systems). On the other hand, if the received signal is still too small after the last AGC stage, the A/D converter may not be able to resolve it (i.e. quantization noise will overwhelm the signal). In other words, the AGC and the A/D combine to detect a signal with a wide dynamic range. While it is true that bits in the A/D may be traded off for gain in the AGC (i.e. increased resolution in the A/D, beyond the minimum required for 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

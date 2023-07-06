@@ -1,0 +1,23 @@
+URL: http://charm.cs.uiuc.edu/manuals/awesime.ps.gz
+Refering-URL: http://charm.cs.uiuc.edu/manuals/
+Root-URL: http://www.cs.uiuc.edu
+Title: A Users Guide to Awesime: An Object Oriented Parallel Programming and Simulation System  
+Author: Dirk Grunwald 
+Date: November 1991  
+Address: Campus Box #430  Boulder 80309-0430  Boulder  
+Affiliation: Department of Computer Science  University of Colorado,  ffi University of Colorado at  
+Pubnum: CU-CS-552-91  
+Abstract: Technical Report CU-CS-552-91 Department of Computer Science Campus Box 430 University of Colorado Boulder, Colorado 80309 
+Abstract-found: 1
+Intro-found: 1
+Reference: [Bershad et al. 88] <author> Bershad, B., Lazowska, E., and Levy, H. </author> <title> PRESTO: A system for object-oriented parallel programming. </title> <journal> Software Practice and Experience, </journal> <volume> 18(8) </volume> <pages> 713-732, </pages> <month> August </month> <year> 1988. </year>
+Reference-contexts: Some subroutine libraries are tightly integrated to the architecture, and the programmer can only control a limited number of execution streams. Others attempt to abstract the architecture, allowing the programmer to manage threads <ref> [Bershad et al. 88, Weiser et al. 89] </ref>, or independent execution streams sharing the same address space. Traditionally, subroutine libraries are difficult to use, because they are not integrated into the programming environment.
+Reference: [Knuth 81] <author> Knuth, D. E. </author> <title> Seminumerical Algorithms, </title> <booktitle> volume 2 of Art of Computer Programming. </booktitle> <publisher> Addison Wesley, </publisher> <address> 2nd edition, </address> <year> 1981. </year>
+Reference-contexts: The central random number generator, ACG, is a variant of a Linear Congruential Generator (Algorithm M) described in <ref> [Knuth 81] </ref>. This result is permuted with a Fibonacci Additive Congruential Generator to get good independence between samples. This is a very high quality random number generator, although it requires a fair amount of memory for each instance of the generator.
+Reference: [L'Ecuyer 88] <author> L'Ecuyer, P. </author> <title> Efficient and portable combined random number generators. </title> <journal> Communications of the ACM, </journal> <volume> 31(6) </volume> <pages> 742-749, </pages> <year> 1988. </year>
+Reference-contexts: If you choose a number in the range of 0 to 31, a seed with more bits is chosen. Other values are modified to give a better distribution of bits. The MLCG class implements a Multiplicative Linear Congruential Generator <ref> [L'Ecuyer 88] </ref>. This generator has a fairly long period, and has been statistically analyzed to show that it gives good inter-sample independence. The MLCG constructor has two parameters, both of which are seeds for the generator.
+Reference: [Schwetman 86] <author> Schwetman, H. </author> <title> CSIM Reference Manual (Revision 9). </title> <institution> Microelectronics and Computer Technology Corperation, 9430 Research Blvd, Auston TX, </institution> <year> 1986. </year>
+Reference: [Weiser et al. 89] <author> Weiser, M., Demers, A., and Hauser, C. </author> <title> The portable common runtime approach to interoperability. </title> <booktitle> In Proceedings of the Twelfth ACM Symposium on Operating Systems Principles, </booktitle> <pages> pages 114-122, </pages> <address> Litchfield Park, AZ, </address> <month> December </month> <year> 1989. </year> <month> 23 </month>
+Reference-contexts: Some subroutine libraries are tightly integrated to the architecture, and the programmer can only control a limited number of execution streams. Others attempt to abstract the architecture, allowing the programmer to manage threads <ref> [Bershad et al. 88, Weiser et al. 89] </ref>, or independent execution streams sharing the same address space. Traditionally, subroutine libraries are difficult to use, because they are not integrated into the programming environment.
+References-found: 5
+

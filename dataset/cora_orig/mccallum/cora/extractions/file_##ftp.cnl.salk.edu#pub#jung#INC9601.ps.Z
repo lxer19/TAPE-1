@@ -1,0 +1,35 @@
+URL: file://ftp.cnl.salk.edu/pub/jung/INC9601.ps.Z
+Refering-URL: http://www.cnl.salk.edu/~scott/icabib.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Email: terryg@salk.edu  
+Title: Independent Component Analysis of Simulated EEG Using a Three-Shell Spherical Head Model 1  
+Author: Dara Ghahremaniy, Scott Makeigzffi, Tzyy-Ping Jungyz, Anthony J. Belly, Terrence J. Sejnowskiyx fdara, scott, jung, tony, 
+Address: P. O. Box 85800 San Diego, CA 92186-5800  P.O. Box 85122 San Diego, CA 92186-5122  La Jolla, CA 92093  La Jolla, CA 92093  
+Affiliation: Institute for Neural Computation  yHoward Hughes Medical Institute Computational Neurobiology Laboratory The Salk Institute,  zNaval Health Research Center  ffi Department of Neurosciences School of Medicine University of California San Diego  xDepartment of Biology University of California San Diego  
+Pubnum: Technical Report No. INC-9601  
+Abstract: 1 This report was supported in part by the Navy Medical Research and Development Command and the Office of Naval Research, Department of the Navy under work unit ONR.Reimb-6429. The views expressed in this article are those of the authors and do not reflect the official policy or position of the Department of the Navy, Department of Defense, or the U.S. Government. Approved for public release, distribution unlimited. 
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> Bell, A.J. & Sejnowski, T.J. </author> <title> An information-maximization approach to blind separation and blind deconvolution, </title> <booktitle> Neural Computation 7, </booktitle> <month> 1129-1159 </month> <year> (1995). </year>
+Reference-contexts: Each signal was recorded by the auxiliary microphone of a Sparc-10 workstation 1 . Before the simulations, each input was made zero-mean 4 and normalized by linear scaling to fit within the <ref> [-1, 1] </ref> interval. 2.3 Source strength adjustment To simulate sources with varied strengths, the vector of input signals, s (t), were scaled relative to one another in steps of -8 dB (Fig. 3) using a 6fi6 diagonal attenuation matrix, A.
+Reference: 2. <author> Makeig, S., Bell, A.J., Jung, T-P. & Sejnowski T.J. </author> <title> Independent component analysis of electroencephalographic data. </title> <booktitle> Advances in Neural Information Processing Systems 8, </booktitle> <publisher> MIT Press (1996). </publisher>
+Reference: 3. <author> Dale, A.M. & Sereno, M.I. </author> <title> Improved localization of cortical activity by combining EEG and MEG with MRI cortical surface reconstruction a linear approach. </title> <journal> J. Cogn. Neurosci. </journal> <volume> 5, </volume> <month> 162-176 </month> <year> (1993). </year>
+Reference: 4. <author> Nunez, </author> <title> P.L. Electric Fields of the Brain . New York: </title> <address> Oxford (1981). </address>
+Reference: 5. <author> Scherg, M. & Von Cramon, D. </author> <title> Evoked dipole source potentials of the human auditory cortex. </title> <address> Electroencephalogr. Clin. Neurophysiol., </address> <month> 65 , 344-60 </month> <year> (1986). </year>
+Reference: 6. <author> Chapman, R.M. & McCrary, J.W. </author> <title> EP component identification and measurement by principal components analysis. Brain and Language 27, </title> <month> 288-301 </month> <year> (1995). </year>
+Reference: 7. <author> Pantev, C., Elbert, T., Makeig, S., Hampson, S., Eulitz, C. & Hoke, M. </author> <title> Relationship of transient and steady-state auditory evoked fields. </title> <journal> Electroencephalogr. Clin. Neurophysiol. </journal> <volume> 88, </volume> <month> 389-396 </month> <year> (1993). </year>
+Reference: 8. <author> Galambos, R., Makeig, S. & Talmachoff P. </author> <title> A 40 Hz auditory potential recorded from the human scalp. </title> <booktitle> Proc. </booktitle> <institution> Natl. Acad. Sci. </institution> <address> USA 78, </address> <month> 2643-2647 </month> <year> (1981). </year>
+Reference: 9. <author> Linsker, R. </author> <title> Local synaptic learning rules suffice to maximise mutual information in a linear network. </title> <booktitle> Neural Computation 4, </booktitle> <month> 691-702 </month> <year> (1992). </year> <month> 13 </month>
+Reference: 10. <author> Nadal, J-P. & Parga, N. </author> <title> Non-linear neurons in the low noise limit: a factorial code maximises information transfer. Network 5, </title> <month> 565-581 </month> <year> (1994). </year>
+Reference: 11. <author> Cover, T.M. & Thomas, J.A. </author> <title> Elements of Information Theory, </title> <publisher> John Wiley (1991). </publisher>
+Reference: 12. <author> Bell, A.J. & Sejnowski, T.J. </author> <title> Learning the higher-order structure of a natural sound. Network: </title> <booktitle> Computation in Neural Systems 7 , 2 (1996). </booktitle>
+Reference: 13. <author> Amari S., Cichocki, A. & Yang, H.H. </author> <title> A new learning algorithm for blind signal separation. </title> <booktitle> In Advances in Neural Information Processing Systems 8, </booktitle> <publisher> MIT Press (1996). </publisher>
+Reference: 14. <author> Bell, A.J. & Sejnowski, T.J. </author> <title> Fast blind separation based on information theory. </title> <booktitle> Proc. Intern. Symp. on Nonlinear Theory and Applications, </booktitle> <address> Las Vegas (1995). </address>
+Reference: 15. <author> Makeig, S., Jung T-P., Bell, A.J., Ghahremani, D., and Sejnowski, T. S. </author> <title> Blind separation of event-related brain responses into independent components. </title> <note> Nature. (submitted) </note>
+Reference: 16. <author> Cardoso, J-F. & Laheld, B. </author> <title> Equivalent adaptive source separation. </title> <journal> IEEE Trans. </journal> <note> Signal Proc. (to appear). </note>
+Reference: 17. <author> Comon, P. </author> <title> Independent component analysis, a new concept? Signal Processing 36, </title> <month> 287-314 </month> <year> (1994). </year>
+Reference: 18. <author> Jutten, C. & Herault, J. </author> <title> Blind separation of sources, part I: an adaptive algorithm based on neuromimetic architecture. </title> <booktitle> Signal Processing 24, </booktitle> <month> 1-10 </month> <year> (1991). </year> <month> 14 </month>
+Reference: 19. <author> Karhumen, J., Oja, E., Wang, L., Vigario, R. & Joutsenalo, J. </author> <title> A class of neural networks for independent component analysis. </title> <journal> IEEE Trans. </journal> <note> Neural Networks (to appear). </note>
+
+References-found: 19
+

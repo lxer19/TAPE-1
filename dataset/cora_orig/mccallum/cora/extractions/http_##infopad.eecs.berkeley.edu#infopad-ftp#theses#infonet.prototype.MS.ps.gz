@@ -1,0 +1,29 @@
+URL: http://infopad.eecs.berkeley.edu/infopad-ftp/theses/infonet.prototype.MS.ps.gz
+Refering-URL: http://infopad.eecs.berkeley.edu/infopad-ftp/theses/
+Root-URL: http://www.cs.berkeley.edu
+Title: InfoPad Network Prototype: Architecture and Implementation 62 "Threads and Input/Output in the Synthesis Kernel," in
+Author: [] M.T. Le, S. Seshan, F.L. Burghardt, J. Rabaey, [] H. Massalin and C. Pu, [] J.K. Ousterhout, D.A. Scelza, and P.S. Sindhu, [] M.D. Schroeder, A.D. Birrell, and R.M. Needham, [] A. S. Tanenbaum, 
+Affiliation: Computer Networks.  
+Address: Englewood Cliffs, N.J.: Prentice-Hall, 1990.  Engelwood Cliffs, N.J.: Prentiss-Hall, 1989.  
+Date: October 24/25, 1994.  5, December 1989.  2, Feb 1980.  1, February 1984.  
+Note: "Software Architecture of the InfoPad System," submitted to Workshop on Mobile and Wireless Information Systems (MOBIDATA), Rutgers University,  ings of the 12th SOSP, Operating Systems Review, Vol. 23, No.  in Communications of the ACM, Vol. 23, No. 2, Feb 1980. [18] D.D. Redell, et al., "Pilot: An Operating System for a Personal Computer," in Communi cations of the ACM, Vol. 23, No.  in ACM Transactions on Computer Systems, Vol. 2, No.  [20] W.R. Stevens, Unix Network Programming, Prentica Hall Software Series,  [22] J. Walrand, Communication Networks, a First Course. Boston, Ma.: Irwin, 1991. [23] W.A. Wulf, et al.,  munications of the ACM, Vol. 17, No. 6, June 1974.  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> M. Accetta, et al., </author> <title> "Mach: A New Kernel Foundation for UNIX Development," </title> <booktitle> in Proceedings of the Summer Usenix, </booktitle> <month> July </month> <year> 1986. </year>
+Reference: [2] <author> T.E. Anderson, B.N. Bershad, E.D. Lazowska, and H.M. Levy, </author> <title> "Scheduler Activations: Effective Kernel Support for the User-level Management of Parallelism," </title> <booktitle> in Proceedings of the 13th SOSP, Operating Systems Review, </booktitle> <volume> Vol. 25, No. </volume> <pages> 5. </pages>
+Reference: [3] <author> B.N. Bershad, et al., </author> <title> "Lightweight Remote Procedure Calls," </title> <journal> in ACM Transactions on Computer Systems, </journal> <volume> Vol. 8, No. 1, </volume> <month> Feb </month> <year> 1990. </year>
+Reference: [4] <author> B.N. Bershad, T.E. Anderson, E.D. Lazowska, and H.M. Levy, </author> <title> "User Level Interprocess Communication for Shared Memory Multiprocessors," </title> <journal> in ACM Transactions on Computer Systems, </journal> <volume> Vol. 8, No. 2, </volume> <month> May </month> <year> 1991. </year>
+Reference: [5] <author> A.D. Birrell, R. Levin, R.M. Needham, and M.D. Schroeder, "Grapevine: </author> <title> An Exercise in Distributed Computing," </title> <journal> in Communications of the ACM, </journal> <volume> Vol. 25, No. 4, </volume> <month> April </month> <year> 1982. </year>
+Reference: [6] <author> A.D. Birrell and B.J. Nelson, </author> <title> "Implementing Remote Procedure Calls," </title> <journal> in ACM Transactions on Computer Systems, </journal> <volume> Vol. 2, No. 1, </volume> <month> February </month> <year> 1984. </year>
+Reference: [7] <author> P. Brinch-Hansen, </author> <title> "The Nucleus of a Multiprogramming System," </title> <journal> in Communications of the ACM, </journal> <volume> Vol. 13, No. 4, </volume> <month> April </month> <year> 1970. </year>
+Reference: [8] <author> F.L. Burghardt, </author> <title> "Measurement and Optimization of Inking Latency in a Pen Pad Based Computer System," </title> <type> EECS266 project report, </type> <institution> University of California at Berkeley, </institution> <month> May </month> <year> 1994. </year>
+Reference: [9] <author> F.L. Burghardt, </author> <title> "Protocols for a Multimedia System: Investigation into Transport Mechanisms for the InfoPad Network," </title> <type> EECS262 project report, </type> <institution> University of California at Berkeley, </institution> <month> May </month> <year> 1994. </year>
+Reference: [10] <author> L.F. Cabrera and D.E. Long, "Swift: </author> <title> Using Distributed Disk Striping to Provide High I/O Data Rates," </title> <booktitle> in Computing Systems, </booktitle> <volume> Vol. 4, No. 4, </volume> <month> Fall </month> <year> 1991. </year>
+Reference: [11] <author> D.R. Cheriton and W. Zwaenepoel, </author> <title> "Distributed Process Groups in the V Kernel," </title> <journal> in ACM Transactions on Computer Systems, </journal> <volume> Vol. 3, No. 2, </volume> <month> May </month> <year> 1985. </year>
+Reference: [12] <author> D.D. Clark, V. Jacobson, J. Romkey, and H. Salwen, </author> <title> "An Analysis of TCP Processing Overhead," </title> <journal> in IEEE Communications Magazine, </journal> <month> June </month> <year> 1989. </year>
+Reference: [13] <author> D.E. Comer and D.L. Stevens, </author> <title> Internetworking with TCP/IP, volumes I-III. </title> <address> Englewood Cliffs, N.J.: </address> <publisher> Prentice-Hall, </publisher> <year> 1991. </year>
+
+Reference: [06/02 23:10:03] <institution> LINK connected to rainier.1601 from visigoth.1088 </institution>
+
+References-found: 14
+

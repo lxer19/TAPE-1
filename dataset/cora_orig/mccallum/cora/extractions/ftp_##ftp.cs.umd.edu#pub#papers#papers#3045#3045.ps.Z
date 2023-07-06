@@ -1,0 +1,21 @@
+URL: ftp://ftp.cs.umd.edu/pub/papers/papers/3045/3045.ps.Z
+Refering-URL: http://www.cs.umd.edu/TRs/TR.html
+Root-URL: 
+Title: WHY BROYDEN'S NONSYMMETRIC METHOD TERMINATES ON LINEAR EQUATIONS  
+Author: DIANNE P. O'LEARY 
+Keyword: Key words. Broyden's method, nonlinear equations, quasi-Newton methods.  
+Date: August 31, 1994  
+Note: AMS(MOS) subject classifications. 65H10,65F10  
+Abstract: The family of algorithms introduced by Broyden in 1965 for solving systems of nonlinear equations has been used quite effectively on a variety of problems. In 1979, Gay proved the then surprising result that the algorithms terminate in at most 2n steps on linear problems with n variables. His very clever proof gives no insight into properties of the intermediate iterates, however. In this work we show that Broyden's methods are projection methods, forcing the residuals to lie in a nested set of subspaces of decreasing dimension. The results apply to linear systems as well as linear least squares problems. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> P. T. Boggs and J. W. Tolle, </author> <title> Convergence properties of a class of rank-two updates, </title> <journal> SIAM J. on Optimization, </journal> <volume> 4 (1994), </volume> <pages> pp. 262-287. </pages>
+Reference-contexts: Thus the results can be applied to a broader class of methods, in the same spirit as the work by Boggs and Tolle <ref> [1] </ref>. 6. Acknowledgement. Thanks to Gene H. Golub for providing the Gerber and Luk reference, and to David Gay and C. G. Broyden for careful reading of a draft of the manuscript.
+Reference: [2] <author> C. G. </author> <title> Broyden, A class of methods for solving nonlinear simultaneous equations, </title> <journal> Mathematics of Computation, </journal> <volume> 19 (1965), </volume> <pages> pp. </pages> <month> 577-593. </month> <title> [3] , Quasi-Newton methods, in Numerical Methods for Unconstrained Optimization, </title> <editor> W. Mur-ray, ed., </editor> <publisher> Academic Press, </publisher> <address> New York, </address> <year> 1972, </year> <pages> pp. 87-106. </pages>
+Reference-contexts: 1. Introduction. In 1965, Broyden introduced a method for solving systems of nonlinear equations g (x fl ) = 0, where g : R n ! R n is differentiable <ref> [2] </ref>. He named it a quasi-Newton method.
+Reference: [4] <author> D. M. Gay, </author> <title> Some convergence properties of Broyden's method, </title> <journal> SIAM J. on Numerical Analysis, </journal> <volume> 16 (1979), </volume> <pages> pp. 623-630. </pages>
+Reference-contexts: This misconception, common to the entire optimization community, was disproved in 1979 by David Gay in a surprising and clever construction <ref> [4] </ref>. He showed that if g (x) = Ax b where A 2 R nfin is nonsingular, then the following result holds.
+Reference: [5] <author> R. R. Gerber and F. T. Luk, </author> <title> A generalized Broyden's method for solving simultaneous linear equations, </title> <journal> SIAM J. on Numerical Analysis, </journal> <volume> 18 (1981), </volume> <pages> pp. 882-890. 5 </pages>
+Reference-contexts: Overdetermined or Rank Deficient Linear Systems. Gerber and Luk <ref> [5] </ref> gave a nice generalization of Gay's results to overdetermined or rank deficient linear systems, and the results in this paper can be generalized this way as well. The matrices F k have dimensions m fi m, where m n is the number of equations. <p> Thus, N (H k ) N (H k+1 ). Now, by writing v k as H T k u k , valid under either 3a or 3b, we can show <ref> [5] </ref> that H k+1 = (I H k g k+1 u T k )H k , and that the determinant of the first factor is u T k s k , nonzero by condition 3. Thus N (H k+1 ) = N (H k ). 4 5. Concluding Notes.
+References-found: 4
+

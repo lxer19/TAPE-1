@@ -1,0 +1,21 @@
+URL: http://www.cs.umd.edu/users/kemal/818G/paper.ps.gz
+Refering-URL: http://www.cs.umd.edu/~kemal/818G/818.html
+Root-URL: 
+Email: kemal@cs.umd.edu  
+Title: Current Trends in Storage Technologies  
+Author: Kemal Kilic 
+Date: December 16, 1997  
+Affiliation: Dept. of Computer Science Univ. of Maryland  
+Abstract: Increasing need for high capacity and fast storage mediums leads researchers to find different technologies. So far many different kinds of technologies emerged. The goals of this study were to look at the current trends in the storage technology and make comments on the future directions of the storage research. Current technologies classified according to the type of medium that they store data on it. In the conclusion part we gave a short discussion on the design issues. from the designer's view.
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <editor> The IEEE Storage System Standards Working Group Overview and Status, John L. Cole, Merritt E. Jones, </editor> <booktitle> 14'th IEEE Symposium on Mass Storage Systems </booktitle>
+Reference: 2. <editor> Overview of the Removable-Media Mass Storage Market, </editor> <booktitle> 13'th IEEE Symposium on Mass Storage Systems </booktitle>
+Reference: 3. <institution> Technology directions for the 21'st Century, </institution> <month> March </month> <year> 1993, </year> <note> http://www.nta.org/Publications/ </note>
+Reference: 4. <institution> NML Storage technology assessment report, </institution> <address> http://www.nta.org/Publications/TechnicalReports /TechnologyAssessments/TechAssessmentFinalReport1994/toc.html </address>
+Reference-contexts: These successes are based on selecting the best technology for the target application. Successful technology selection in the future also depends on the correct pairing of the technology with the application. <ref> [4] </ref> NASA - OSC also predict the technology roadmap for storage describes a hypothetical timeline for major system impacts and changes over the next 3Q years.[6] * 1993-1997: In this period, research will expand in the semiconductor, optical, and molecular storage fields.
+Reference: 5. <institution> Creating Holographic Storage, </institution> <note> April 1996 Cover Story 6. http://www.nml.org/Publications/TechnicalReports/TechnologyAssessments /NASATechnologyDirections/techdirections.html 9 7. http://www.lerc.nasa.gov/WWW/SiC/SiCReview.html </note>
+Reference-contexts: Volumetric storage offers orders-of-magnitude greater density than surface storage. High capacity and high reliability are main advantages of holograms. But this technology has very high cost compared to the existing technologies. <ref> [5] </ref> The goal of an optical recording process (photographic or holographic) is to record the light from an object so that it can be viewed at a later time.
+
+References-found: 5
+

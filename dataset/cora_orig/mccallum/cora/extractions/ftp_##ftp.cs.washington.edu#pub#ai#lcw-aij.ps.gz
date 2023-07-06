@@ -1,0 +1,14 @@
+URL: ftp://ftp.cs.washington.edu/pub/ai/lcw-aij.ps.gz
+Refering-URL: http://www.cs.washington.edu/research/projects/softbots/www/papers.html
+Root-URL: 
+Email: fetzioni, kgolden, weldg@cs.washington.edu  
+Title: Sound and Efficient Closed-World Reasoning for Planning  
+Author: Oren Etzioni Keith Golden Daniel Weld 
+Date: April 2, 1996  
+Address: Seattle, WA 98195  
+Affiliation: Department of Computer Science and Engineering University of Washington  
+Abstract: Closed-world inference is the process of determining that a logical sentence is false based on its absence from a knowledge base, or the inability to derive it. This process is essential for planning with incomplete information. We describe a novel method for closed-world inference and update over the first-order theories of action used by planning algorithms such as nonlin, tweak, and ucpop. We show the method to be sound and efficient, but incomplete. In our experiments, closed-world inference consistently averaged about 2 milliseconds, while updates averaged approximately 1.2 milliseconds. We incorporated the method into the xii planner, which supports our Internet Softbot (software robot). The method cut the number of actions executed by the Softbot by a factor of one hundred, and resulted in a corresponding speedup to xii. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

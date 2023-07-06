@@ -1,0 +1,16 @@
+URL: ftp://theory.cs.uni-bonn.de/pub/reports/cs-reports/1991/8569-cs.ps.gz
+Refering-URL: http://cs.uni-bonn.de/info5/publications/CS-1991-en.html
+Root-URL: http://cs.uni-bonn.de
+Title: Lower Bounds for the Number of Zeros of Multivariate Polynomials over GF [q]  
+Author: Dima Grigoriev and Marek Karpinski and 
+Note: Supported in part by the Leibniz Center for Research in Computer Science, by the DFG Grant KA 673/4-1 and by the SERC Grant GR-E 68297  
+Address: Fontanka 27, St. Petersburg, Russia  5300 Bonn 1  5300 Bonn 1  Berkeley, California  
+Affiliation: Steklov Mathematical Institute  Max-Planck Institute of Mathematics  Dept. of Computer Science University of Bonn  International Computer Science Institute  
+Abstract: We prove lower bounds on the number of zeros of some classes of multivari-ate polynomials over GF [q] in the function of the number of their terms only. The paper was motivated by some algebraic problems arising from the new randomized approximation techniques of [Karpinski, Luby 91] and [Karpin ski, Lhotzky 91] for the number of zeros of polynomials over finite fields. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [KLM 89] <author> Karp, R., Luby, M., Madras, N., </author> <title> "Monte-Carlo Approximation Algorithms for Enumeration Problems", </title> <journal> J. of Algorithms, </journal> <volume> Vol. 10, No. 3, </volume> <month> Sept. </month> <year> 1989, </year> <pages> pp. 429-448. </pages>
+Reference: [KL 91a] <author> Karpinski, M., Luby, M., </author> <title> Approximating the Number of Solutions of a GF [2] Polynomial, </title> <type> Technical Report TR-90-025, </type> <institution> International Computer Science Institute, Berkeley, </institution> <year> 1990, </year> <booktitle> in Proc. 2 nd ACM-SIAM SODA (1991), </booktitle> <pages> pp. 300-303. </pages>
+Reference: [KL 91b] <author> Karpinski, M., and Lhotzky, B., </author> <title> An (*; ffi)-Approximation Algorithm for the Number of Zeros for a Multilinear Polynomial over GF [q], </title> <type> Technical Report TR-91-022, </type> <institution> International Computer Science Institute, Berkeley, </institution> <year> 1991. </year> <month> 5 </month>
+References-found: 3
+

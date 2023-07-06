@@ -1,0 +1,18 @@
+URL: http://www.cs.umd.edu/users/cml/cstyle/ifdefs.ps.gz
+Refering-URL: http://www.cs.umd.edu/users/cml/cstyle/
+Root-URL: 
+Title: #ifdef Considered Harmful, or Portability Experience With C News  Software Tool Die  
+Author: Henry Spencer Zoology Geoff Collyer 
+Affiliation: Computer Systems, University of Toronto  
+Abstract: We believe that a C programmer's impulse to use #ifdef in an attempt at portability is usually a mistake. Portability is generally the result of advance planning rather than trench warfare involving #ifdef. In the course of developing C News on different systems, we evolved various tactics for dealing with differences among systems without producing a welter of #ifdefs at points of difference. We discuss the alternatives to, and occasional proper use of, #ifdef. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> ATT86a. </author> <title> AT&T, System V Interface Definition, </title> <type> 2, </type> <institution> 1986. Cent90a. Computing Science Research Center, AT&T Bell Laboratories, </institution> <address> Murray Hill, New Jersey, </address> <booktitle> UNIX Research System Programmer's Manual, Tenth Edition, </booktitle> <publisher> Saunders College Publishing, </publisher> <year> 1990. </year>
+Reference: <author> Coll87a. Geoff Collyer and Henry Spencer, </author> <title> ``News Need Not Be Slow,'' </title> <booktitle> Proc. Winter Usenix Conf. Washington 1987, </booktitle> <pages> pp. 181-190, </pages> <month> January </month> <year> 1987. </year>
+
+Reference: <author> ODel87a. Mike O'Dell, </author> <title> ``UNIX: The World View,'' </title> <booktitle> Proc. Winter Usenix Conf. Washington 1987, </booktitle> <pages> pp. 35-45, </pages> <month> January </month> <year> 1987. </year>
+Reference: <author> Ritc78a. D. M. Ritchie, </author> <title> ``UNIX Time-Sharing System: A Retrospective,'' </title> <journal> Bell Sys. Tech. J., </journal> <volume> vol. 57, no. 6, </volume> <pages> pp. 1947-1969, </pages> <year> 1978. </year> <booktitle> Also in Proc. Hawaii International Conference on Systems Science, </booktitle> <address> Honolulu, Hawaii, </address> <month> Jan. </month> <year> 1977. </year> <booktitle> 196 Summer '92 USENIX - June 8-June 12, </booktitle> <address> 1992 - San Antonio, TX Spencer,& Collyer #ifdef Considered Harmful </address> ... 
+Reference: <author> Spen88a. Henry Spencer, </author> <title> ``How To Steal Code,'' </title> <booktitle> Proc. Winter Usenix Conf. Dallas 1988, </booktitle> <pages> pp. 335-345, </pages> <month> January </month> <year> 1988. </year>
+
+References-found: 5
+

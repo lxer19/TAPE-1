@@ -1,0 +1,19 @@
+URL: ftp://coast.cs.purdue.edu/pub/doc/tools/chetrry-henderson-nickles-olson-rackow-anl_passwd.ps.Z
+Refering-URL: http://www.cs.purdue.edu/coast/archive/data/categ39.html
+Root-URL: http://www.cs.purdue.edu
+Title: Pass or Fail: A New Test for Password  
+Author: Legitimacy Andrew Cherry, Mark W. Henderson, William K. Nickless, Robert Olson, and Gene Rackow yz 
+Date: September 25, 1992  
+Abstract: While other programs check for bad passwords after the fact, it is important to have good passwords at all times, not just after the latest Crack run. To this end we have modified Larry Wall's Perl password program and added, among other features, the ability to check a sorted list of all the "bad passwords" that Crack will generate, given all the dictionaries that we could get our hands on (107 MB of unique words, so far). The combination of improvements has turned publicly available code into a powerful tool that can aid sites in the maintenance of local security. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Larry Wall and Randal L. Schwartz, </author> <title> Programming Perl, </title> <publisher> O'Reilly & Associates, Inc., </publisher> <year> 1990 </year>
+Reference-contexts: The processes were niced so as to have little effect on normal daily activities. 4 2.1 Added Features to Perl We started with the password program that Larry Wall has in the Perl <ref> [1] </ref> nutshell book, and added some needed features to it. (Perl has the advantage that it runs on all our machines.) 2.1.1 YP/NIS Smarts Since we have an existing YP/NIS setup, we had to work within its constraints.
+Reference: [2] <author> Daniel Klein, </author> <title> "A Survey of, and Improvements to, Password Security," </title> <booktitle> Proceedings of the USENIX Second Security Workshop, </booktitle> <address> Portland, Oregon, </address> <year> 1990, </year> <pages> pp. 5-14 </pages>
+Reference-contexts: We have done some of that for our own use. The current password algorithm was created when speeds of hardware got to the point of doing approximately 800 encryptions a second using the old technology. This was when a DEC PDP11/70 was considered a fast machine <ref> [2] </ref> and before networking and parallel computers.
+Reference: [3] <author> Matt Bishop, </author> <title> "Anatomy of a Proactive Password Changer," </title> <booktitle> Proceedings of USENIX UNIX Security III, </booktitle> <address> Baltimore, Maryland, </address> <year> 1992 </year>
+Reference-contexts: This amount of activity would most likely not go unnoticed. 3 Wouldn't It Be Neat If... We are contemplating adding a feature that was brought out in Matt Bishop's paper on a similar program, passwd+. <ref> [3] </ref> The feature is the distribution of the authority over a set of accounts. We have several schools using our machines for parallel programming classes, and it might make sense to enable the instructor to change student accounts.
+Reference: [4] <editor> Clyde Hoover, npasswd, Posted in comp.sources.unix, </editor> <volume> Vol. 25, </volume> <pages> issues 74-76, </pages> <year> 1991 </year>
+Reference-contexts: Matt's work is good, but we needed to solve this problem and could not wait. (Passwd+ is in beta test at this writing.) By using Perl, we gain a superset of regular expressions that Matt has programmed into passwd+. Another program of interest is the npasswd <ref> [4] </ref> program by Clyde Hoover. It too has similar features to our program. A problem that we see with both passwd+ and npasswd is that they are written in C and therefore not as portable or easily extensible as a Perl version.
+References-found: 4
+

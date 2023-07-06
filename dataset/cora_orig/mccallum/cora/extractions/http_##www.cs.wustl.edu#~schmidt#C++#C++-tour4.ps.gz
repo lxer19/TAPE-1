@@ -1,0 +1,84 @@
+URL: http://www.cs.wustl.edu/~schmidt/C++/C++-tour4.ps.gz
+Refering-URL: http://www.cs.wustl.edu/~schmidt/C++/
+Root-URL: 
+Title: The C++ Programming Language A Tour Through C++ Outline C++ Overview C++ Design Goals Major
+Author:  
+Keyword: tentially inefficient Many native host machine compilers now exist e.g., Borland, DEC, GNU, HP, IBM, Microsoft, Sun, Symantec, etc.  
+Address: po  
+Note: C++ was designed at AT&T Bell Labs by Bjarne Stroustrup in the early 80's The original cfront translated C++ into C for portability However, this was difficult to debug and  C++ is  have not traditionally been required for C++ Note, that there is no language-specific sup  
+Abstract-found: 0
+Intro-found: 0
+Reference: <institution> Type Cast Syntax Default Parameters Declaration Statements Abbreviated Type Names User-Defined Conversions Static Initialization Miscellaneous Differences C++ Overview * C++ was designed at AT&T Bell Labs by Bjarne Stroustrup in the early 80's The original cfront translated C++ into C for portability fl However, </institution> <note> this was difficult to debug and po tentially inefficient Many native host machine compilers now exist fl e.g., Borland, </note> <month> DEC, </month> <title> GNU, HP, IBM, Microsoft, Sun, Symantec, etc. * C++ is a mostly upwardly compatible ex tension of C that provides: </title>
+Reference: 1. <institution> Stronger typechecking </institution>
+Reference: 2. <institution> Support for data abstraction </institution>
+
+Reference: 1. <author> Compiler optimization - e.g., </author> <title> pointers to arbitrary memory locations complicate register allocation and garbage collection </title>
+Reference: 2. <author> Software engineering - e.g., </author> <title> separate compilation complicates inlin ing due to difficulty of interprocedural analysis 4 Major C++ Enhancements </title>
+Reference: 1. <author> C++ supports object-oriented program ming features * e.g., </author> <title> single and multiple inheritance, abstract base classes, and virtual functions </title>
+Reference: 2. <editor> C++ facilitates data abstraction and en capsulation that hides representations behind abstract interfaces * e.g., </editor> <title> the class mechanism and parameterized types </title>
+Reference: 3. <institution> C++ provides enhanced error handling ca pabilities * e.g., exception handling </institution>
+
+Reference: 1. <institution> Concurrency * See "Concurrent C" by Nehrain Gehani </institution>
+Reference: 2. <institution> Persistence * See Exodus system and E programming lan guage </institution>
+
+Reference: 1. <editor> Unique argument types: </editor> <title> double square (double); Complex &square (Complex </title> &); 
+
+Reference: 1. <institution> One for built-in types, e.g., </institution> <note> int, float, char, double, etc. </note>
+
+Reference: 1. <institution> The size must be a compile-time constant, e.g., void foo (int i) f int a[100], b[100]; // OK int c[i]; // Error! g </institution>
+Reference: 2. <institution> Array size cannot vary at run-time </institution>
+Reference: 3. <institution> Legal array bounds run from 0 to size 1 </institution>
+Reference: 4. <institution> No range checking performed at run-time, e.g., f int a[10], </institution> <note> i; for (i = 0; i &lt;= 10; i++) a[i] = 0; </note>
+
+Reference: 1. <author> Static - i.e., </author> <title> it lives throughout life-time of process static can be used for local, global, or class specific objects (note, their scope is different) </title>
+Reference: 2. <author> Automatic - i.e., </author> <title> it lives only during function invocation, on the "run-time stack" </title>
+
+Reference: 1. <institution> Data Abstraction Package a class abstraction so that only the public interface is visible and the implementation details are hidden from clients Allow parameterization based on type </institution>
+Reference: 2. <institution> Single and Multiple Inheritance A derived class inherits operations and at tributes from one or more base classes, possibly providing additional operations and/or attributes </institution>
+Reference: 3. <editor> Dynamic Binding The actual type of an object (and thereby its associated operations) need not be fully known until run-time fl Compare with C++ template feature, </editor> <title> which are instantiated at compile-time 32 C++ Object-Oriented Features (cont'd) * C++'s object-oriented features encourage designs that </title>
+Reference: 1. <institution> Explicitly distinguish general properties of re lated concepts from </institution>
+
+Reference: 1. <institution> Operations that are implemented differently, i.e., overridden </institution>
+Reference: 2. <institution> Additional operations and extra data members </institution>
+
+Reference: 1. <editor> The traditional C bracketed comments, </editor> <title> which may extend over any number of lines, e.g., /* This is a multi-line C++ comment </title> */ 
+
+Reference: 1. <institution> Modularity/abstraction (function call) </institution>
+Reference: 2. <institution> Performance (macro or inline-expansion by-hand) * C++ allows inline function expansion, </institution> <note> which has several advantages: </note>
+Reference: 1. <institution> It combines the efficiency of a macro with the type-security and abstraction of a function call </institution>
+Reference: 2. <institution> It reduces both execution time and code size (potentially) </institution>
+Reference: 3. <editor> It discourages the traditional reliance upon macro preprocessor statements 50 Inline Functions (cont'd) * Here's an example of a common C prob lem with the preprocessor: </editor> <title> Classic C macro, no sanity-checking at macro expansion time #define SQUARE(X) ((X) * (X)) int a = 10; int b = SQUARE (a++); // trouble!!! (a++) * (a++) - C++ inline function template template&lt;class T&gt; inline T square (T x) f return x * x; g int c = square (a++); // OK 51 Inline Functions (cont'd) * Points to consider about inline functions: </title>
+Reference: 1. <institution> Class methods that are defined in their decla ration are automatically expanded inline </institution>
+Reference: 2. <institution> It is difficult to debug code where functions have been inline expanded and/or optimized </institution>
+Reference: 3. <institution> Compilers require more time and space to com pile when there are many inline functions </institution>
+Reference: 4. <institution> Inline functions do not have the pseudo-polymorphic properties of macros However, </institution> <note> inline templates approximate this functionality </note>
+Reference: 5. <institution> Compilers often have limits on the size and type of function that can be inlined. </institution> - <month> e.g., </month> <title> if stack frame is very large: int foo (void) f int local array[1000000]; // : : : This can cause surprising results wrt code size, e.g., int bar (void) f foo (); foo (); g 52 Inline Functions (cont'd) * As an example of inlining in C++, we will discuss a simple run-time function call "trace" facility Provides a rudimentary debugging facility fl e.g., useful for long-running network servers * The goals are to be able to: </title>
+Reference: 1. <institution> Determine the dynamic function calling behav ior of the program, i.e., "tracing" </institution>
+Reference: 2. <institution> Allow for fine-grain control over whether trac ing is enabled, </institution> <month> e.g., </month> <title> At compile-time (remove all traces of Trace and incur no run-time penalty) At run-time (via signals and/or command line options) </title>
+
+Reference: 1. <institution> Type-security </institution>
+Reference: 2. <institution> Extensibility </institution>
+
+Reference: 1. <institution> It ensures that const objects may be passed as parameters </institution>
+
+Reference: 1. <institution> Type-Security Reduce type errors for I/O on built-in and user-defined types </institution>
+
+Reference: 1. <institution> Function parameters </institution>
+Reference: 2. <institution> Function return values </institution>
+Reference: 3. <editor> Other objects * A reference variable creates an alternative name (a.k.a. </editor> <title> "alias") for an object * References may be used instead of point ers to facilitate: </title>
+Reference: 1. <institution> Increased code clarity </institution>
+Reference: 2. <institution> Reduced parameter passing costs </institution>
+Reference: 3. <editor> Better compiler optimizations * References use call-by-value syntax, </editor> <title> but possess call-by-reference semantics 67 References (cont'd) * e.g., consider a swap abstraction: void swap (int x, int y) f int t = x; x = y; y = t; g int main (void) f int a = 10, b = 20; printf ("a = %d, </title> <editor> b = %d"n", a, b); swap (a, b); printf ("a = %d, b = %d"n", </editor> <title> a, b); g * There are several problems with this code </title>
+Reference: 1. <institution> It doesn't swap! </institution>
+Reference: 2. <institution> It requires a function call </institution>
+
+Reference: 1. <institution> Complex c1 = 10.0; </institution>
+Reference: 2. <institution> Complex c2 = (Complex) 10.0; </institution>
+Reference: 3. <institution> Complex c3 = Complex (10.0); </institution>
+
+Reference: 1. <institution> To localize temporary and index variables </institution>
+
+Reference: 1. <author> Constructor Conversions: </author> <title> Create a new object from objects of existing types </title>
+
+References-found: 54
+

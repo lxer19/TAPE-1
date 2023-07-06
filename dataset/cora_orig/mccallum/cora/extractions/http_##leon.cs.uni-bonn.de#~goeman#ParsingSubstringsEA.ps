@@ -1,0 +1,20 @@
+URL: http://leon.cs.uni-bonn.de/~goeman/ParsingSubstringsEA.ps
+Refering-URL: http://leon.cs.uni-bonn.de/~goeman/
+Root-URL: http://cs.uni-bonn.de
+Email: Email: goeman@cs.uni-bonn.de  
+Title: On Parsing and Condensing Substrings of LR Languages in Linear Time  
+Author: Heiko Goeman 
+Web: WWW: http://leon.cs.uni-bonn.de/goeman  
+Address: Romerstrae 164, 53117 Bonn, Germany  
+Affiliation: University of Bonn, Computer Science Department V,  
+Abstract: LR parsers have long been studied as being an efficient method for parsing deterministic context-free grammars. In this article, we present a linear-time algorithm for recognizing substrings of LR languages. The algorithm depends on the LR automaton that is used for the usual parsing of complete sentences. We also present an interesting extension of our substring parser that allows to condense the input string, which increases the speed when reparsing that string for a second time. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> A. V. Aho, J. D. Ullman: </author> <title> The Theory of Parsing, Translation and Compiling. Vol. 1: Parsing. </title> <publisher> Prentice Hall, </publisher> <year> 1972. </year>
+Reference: [2] <author> J. Bates, A. Lavie: </author> <title> Recognizing Substrings of LR(k) Languages in Linear Time. </title> <journal> ACM Transactions on Programming Languages and Systems 16(3), </journal> <pages> 1051-1077, </pages> <year> 1994. </year>
+Reference: [3] <author> G. Clarke, D. T. Barnard: </author> <title> An LR Substring Parser Applied in a Parallel Environment. </title> <journal> Journal of Parallel and Distributed Computing 35, </journal> <pages> 2-17, </pages> <year> 1996. </year>
+Reference: [4] <author> G. V. Cormack: </author> <title> An LR Substring Parser for Noncorrecting Syntax Error Recovery. </title> <booktitle> In ACM SIGPLAN 24(7), </booktitle> <pages> 161-169, </pages> <year> 1989. </year>
+Reference: [5] <author> H. Richter: </author> <title> Noncorrecting Syntax Error Recovery. </title> <booktitle> In ACM Transactions on Programming Languages and Systems 7(3), </booktitle> <pages> 478-489, </pages> <year> 1985. </year>
+Reference-contexts: Practical experience has shown that this substring parser is nearly as fast as the corresponding normal LR parser. The substring parser has primarily been developed in order to generate a new algorithm for syntax error correction and recovery. This algorithm depends on the ideas of Richter <ref> [5] </ref> and divides an incorrect program into several parts such that on one hand each part contains at least one syntax error, but on the other hand a shorter substring of any part does not contain any syntax errors.
+References-found: 5
+

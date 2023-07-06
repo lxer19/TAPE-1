@@ -1,0 +1,23 @@
+URL: ftp://ftp.cs.columbia.edu/reports/reports-1990/cucs-052-90a.ps.gz
+Refering-URL: http://www.cs.columbia.edu/~library/1990.html
+Root-URL: http://www.cs.columbia.edu
+Phone: 0.8064 0.9785 0.1721 1.60 0.8223 0.9555 0.1332 1.20 0.8396 0.9309 0.0913 1.04 0.7153 0.7655 0.0502  
+Title: Number of Iterations Final Change Change in Comparing Solution Quality When Varying the Number of
+Author:  
+Note: 2.00  
+Date: 2016 0.99121 0.15164 3024 0.99311 0.15354  
+Pubnum: 121 0.93091 0.09134 1008 0.98586 0.14629  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> E.Bonomi, J.-L.Lutton, </author> <title> "The N -city Travelling Salesman Problem: Statistical Mechanics and the Metropolis Algorithm", </title> <journal> SIAM Rev., </journal> <volume> 26, </volume> <year> 1986, </year> <month> pp.551-568. </month>
+Reference: [2] <author> M.R.Garey, D.S.Johnson, </author> <title> "Computers and Intractability: A Guide to the Theory of NP-Completeness", </title> <publisher> Freeman Publishing, </publisher> <address> San Francisco, </address> <year> 1979. </year>
+Reference: [3] <author> S.Geman, D.Geman, </author> <title> "Stochastic Relaxation, Gibbs Distributions, and the Bayesian Restoration of Images", </title> <journal> IEEE Proc. Pattern Analysis and Machine Intelligence, </journal> <volume> PAMI-6, </volume> <year> 1984, </year> <pages> pp. 721-741. </pages>
+Reference: [4] <author> D.W.Jepsen, C.D.Gelatt, </author> <title> "Macro Placement by Monte Carlo Annealing", </title> <booktitle> Proc. Int. Conf. on Computer Design, </booktitle> <year> 1983, </year> <pages> pp. 495-498. </pages>
+Reference: [5] <author> L.J.Karcher, "Processing Mortgage-Backed Securities", Simon and Shuster, </author> <year> 1989. </year>
+Reference: [6] <author> S.Kirkpatrick, C.D.Gelatt, M.P.Vecchi, </author> <title> "Optimization by Simulated Annealing", </title> <journal> Science, </journal> <volume> 220, </volume> <year> 1983, </year> <month> pp.671-680. </month>
+Reference: [7] <author> P.J.M. van Laarhoven, E.H.L. Aarts, </author> <title> "Simulated Annealing: Theory and Applications", </title> <publisher> Kluwer Academic, </publisher> <year> 1987. </year>
+Reference: [8] <author> L.Lowell, K.H.Sullivan, "Mortgage Pass-Through Securities", </author> <title> in The Handbook of Mortgage-Backed Securities, </title> <editor> (F.J. Fabozzi ed.), </editor> <publisher> Probus Publishing, </publisher> <address> Chicago, Ill., </address> <year> 1988, </year> <month> pp.69-114. </month>
+Reference: [9] <author> N.Metropolis, A.Rosenbluth, A.Teller, E.Teller, </author> <title> "Equation of State Calculations by Fast Computing Machines", </title> <journal> J. Chem. Physics, </journal> <volume> 21, </volume> <year> 1953, </year> <pages> pp. 1087-1092. </pages>
+
+References-found: 9
+

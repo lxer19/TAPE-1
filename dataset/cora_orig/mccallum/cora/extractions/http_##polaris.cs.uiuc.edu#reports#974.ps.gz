@@ -1,0 +1,20 @@
+URL: http://polaris.cs.uiuc.edu/reports/974.ps.gz
+Refering-URL: http://polaris.cs.uiuc.edu/tech_reports.html
+Root-URL: http://www.cs.uiuc.edu
+Title: LIDEX Simulation Environment User's Manual  
+Author: Jose Eduardo Moreira Wilson Vicente Ruggiero Departamento de Engenharia de Eletricidade, Escola Politecnica da 
+Note: This work was supported in part by the Interamerican Development Bank/University of S~ao Paulo project, and the U. S. Department of Energy under Grant No. DE-FG02-85ER25001. Jose E. Moreira is with Laboratorio de Sistemas Integraveis, and Wilson V. Ruggiero is with Laboratorio  
+Date: February 1990  974  
+Address: S~ao Paulo, Brasil  USA  
+Affiliation: Universidade de  Center for Supercomputing Research and Development University of Illinois at Urbana-Champaign,  de Sistemas Digitais  
+Pubnum: CSRD Report No.  
+Abstract:  
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Stephen C. Johnson. </author> <title> UNIX Programmer's Manual Suplementary Documents, chapter Yacc: Yet Another Compiler-Compiler. </title> <institution> Regents of the University of California, Berkeley, </institution> <address> CA, </address> <year> 1978. </year>
+Reference-contexts: We will now present some formal definitions of the commands. 3 The Commands We here present the syntax and semantics of the various simulation-control commands. The syntax is defined using the YACC notation <ref> [1] </ref>, while the semantics are explained in natural language. 3 definition: path syntax: path : identifier arrayrestr | path "." identifier arrayrestr ; arrayrestr : "(" integer ")" | "(" integer ":" integer ")" | empty ; semantics: A path specifies a set of elements from the described digital systems.
+Reference: [2] <author> Jose Eduardo Moreira and Wilson Vicente Ruggiero. </author> <title> LIDEX Reference Manual. </title> <type> Technical Report 973, </type> <institution> University of Illinois at Urbana-Champaign, Center for Supercomputing Research and Development, Urbana, IL, </institution> <year> 1990. </year>
+Reference: [3] <author> Jose Eduardo Moreira and Wilson Vicente Ruggiero. </author> <title> LIDEX Tutorial. </title> <type> Technical Report 972, </type> <institution> University of Illinois at Urbana-Champaign, Center for Supercomputing Research and Development, Urbana, IL, </institution> <year> 1990. </year>
+
+References-found: 3
+

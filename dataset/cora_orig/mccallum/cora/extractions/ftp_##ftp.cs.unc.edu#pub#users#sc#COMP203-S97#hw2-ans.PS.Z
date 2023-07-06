@@ -1,0 +1,13 @@
+URL: ftp://ftp.cs.unc.edu/pub/users/sc/COMP203-S97/hw2-ans.PS.Z
+Refering-URL: http://www.cs.unc.edu/~sc/teaching/COMP203-S1997/homework.html
+Root-URL: http://www.cs.unc.edu
+Title: COMP 203: Parallel and Distributed Computing Solutions to Problem Set 2 points] The shuffle-exchange network
+Author: Siddhartha Chatterjee c c c c c c c 
+Note: 1. [10 fi 6 60  u  
+Date: Spring 1997  110 111  
+Pubnum: 000 001  
+Abstract: b. Determine the diameter of SE k . Solution: The diameter of SE k is 2k 1. First, consider any two nodes u = u 1 u k and v = v 1 v k in SE k . To construct a path from u to v, we simply cycle through all the bits of u by traversing shuffle edges, making sure to change bits as necessary by traversing exchange edges. Thus, we start by traversing an exchange edge (if necessary) as follows: Now we traverse edges as follows: where the first transformation traverses a shuffle edge and the second traverses an exchange edge if necessary. The resulting path has k 1 shuffle edges and at most k exchange edges, for a total of 2k 1 edges overall. This establishes an upper bound. A lower bound follows by considering any path from 0 0 to 1 1. Any such path must traverse k different exchange edges to change the 0's into 1's, and since exchange edges are nonadjacent, there must be at least k 1 shuffle edges between them. c. Determine the bisection width of SE k . Solution: The bisection width of SE k is fi(2 k =k). The proof is fairly complicated, so pay close attention. As always, we prove a fi bound by proving the corresponding O and upper and lower bounds. To prove that the diameter of SE k is O(2 k =k), we must find an O(2 k =k)-set of edges that bisect the node set of SE k . To do this, it is useful to embed SE k in the complex plane, as follows. Let ! k = e 2i=k denote a u 1 u 2 u k1 u k ! u 1 u 2 u k1 v 1 :
+Abstract-found: 1
+Intro-found: 0
+References-found: 0
+

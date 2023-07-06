@@ -1,0 +1,21 @@
+URL: http://www.math.tau.ac.il/~megiddo/psfiles/unboundl.ps.gz
+Refering-URL: http://www.math.tau.ac.il/~megiddo/pub.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: On the Complexity of Some Geometric Problems in Unbounded Dimension  
+Author: NIMROD MEGIDDO 
+Date: (Received March 15, 1988)  
+Address: 650 Harry Road, San Jose, California 95120-6099, and  TelAviv, Israel  
+Affiliation: IBM Almaden Research Center,  School of Mathematical Sciences, Tel Aviv University,  
+Abstract: This paper examines the complexity of several geometric problems due to unbounded dimension. The problems considered are: (i) minimum cover of points by unit cubes, (ii) minimum cover of points by unit balls, and (iii) minimum number of lines to hit a set of balls. Each of these problems is proven not to have a polynomial approximation scheme unless P = NP. Specific lower bounds on the error ratios attainable in polynomial time are given, assuming P 6= NP. In particular, it is shown that covering by two cubes is in P while covering by three cubes is NP-complete. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Chandrasekaran, R. </author> <year> (1982). </year> <title> The weighted Euclidean 1-center problem. </title> <journal> Operations Research Letters 1, </journal> <pages> 111-112. </pages>
+Reference: [2] <author> Fowler, R. J., Paterson R. M., Tanimoto S. T. </author> <year> (1981). </year> <title> Optimal packing and covering in the plane are NP-complete. </title> <journal> Information Processing Letters 12, </journal> <pages> 133-137. </pages>
+Reference: [3] <author> Garey, M. R., Johnson, D. S. </author> <year> (1979). </year> <title> Computers and Intractability: A Guide to the Theory of NP-completeness, </title> <editor> W. H. </editor> <publisher> Freeman, </publisher> <address> San Francisco. </address>
+Reference: [4] <author> Hassin, R., Megiddo, N. </author> <year> (1990). </year> <title> Approximation algorithms for hitting objects by straight lines. </title> <journal> Disc. Appl. Math., </journal> <note> to appear. </note>
+Reference: [5] <author> Hochbaum, D. S., Maass, W. </author> <year> (1985). </year> <title> Approximation schemes for covering and packing problems in image processing and VLSI. </title> <editor> J. </editor> <booktitle> ACM 32, </booktitle> <pages> 130-136. </pages>
+Reference: [6] <author> Khachiyan, L. G. </author> <year> (1979). </year> <title> A Polynomial algorithm in linear programming. </title> <journal> Soviet Math. Dokl. </journal> <volume> 20, </volume> <pages> 191-194. </pages>
+Reference: [7] <author> Megiddo, N. </author> <year> (1988). </year> <title> On the complexity of polyhedral separability. </title> <booktitle> Discrete & Computational Geometry 3, </booktitle> <pages> 325-327. </pages>
+Reference: [8] <author> Megiddo, N., Supowit, K. J. </author> <year> (1984). </year> <title> On the complexity of some common geometric location problems. </title> <journal> SIAM J. Comput. </journal> <volume> 13, </volume> <pages> 182-196. 8 </pages>
+References-found: 8
+

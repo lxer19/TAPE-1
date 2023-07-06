@@ -1,0 +1,12 @@
+URL: http://www.cri.ensmp.fr/doc/A-270.ps.Z
+Refering-URL: http://www.cri.ensmp.fr/rapports.html
+Root-URL: 
+Title: Interprocedural Array Region Analyses  
+Author: Beatrice Creusillet, Fran~cois Irigoin 
+Address: Paris/CRI  
+Affiliation: Ecole des Mines de  
+Abstract: Many program optimizations require exact knowledge of the sets of array elements that are referenced in or that flow between statements or procedures. Some examples are array privatization, generation of communications in distributed memory machines, or compile-time optimization of cache behavior in hierarchical memory machines. Exact array region analysis is introduced in this article. These regions exactly represent the effects of statements and procedures upon array variables. To represent the flow of these data, we also introduce two new types of array region analyses: IN and OUT regions. The intraprocedural propagation is presented, as well as a general linear framework for interprocedural analyses, that handles array reshapes.
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

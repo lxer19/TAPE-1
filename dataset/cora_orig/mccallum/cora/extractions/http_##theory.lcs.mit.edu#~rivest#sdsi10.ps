@@ -1,0 +1,26 @@
+URL: http://theory.lcs.mit.edu/~rivest/sdsi10.ps
+Refering-URL: http://theory.lcs.mit.edu/~cis/sdsi.html
+Root-URL: 
+Email: rivest@theory.lcs.mit.edu  blampson@microsoft.com  
+Title: SDSI A Simple Distributed Security Infrastructure  
+Author: Ronald L. Rivest Butler Lampson 
+Date: April 30, 1996  
+Address: Cambridge, MA 02139  
+Affiliation: Laboratory for Computer Science Massachusetts Institute of Technology  Microsoft Corporation  
+Abstract: We propose a new distributed security infrastructure, called SDSI (pronounced "Sudsy"). SDSI combines a simple public-key infrastructure design with a means of defining groups and issuing group-membership certificates. SDSI's groups provides simple, clear terminology for defining access-control lists and security policies. SDSI's design emphasizes linked local name spaces rather than a hierarchical global name space.
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Matt Blaze, Joan Feigenbaum, and Jack Lacy. </author> <title> Decentralized trust management. In Proceedings 1996 IEEE Symposium on Security and Privacy, </title> <note> page (to appear), </note> <month> May </month> <year> 1996. </year>
+Reference-contexts: We were also motivated by similar corresponding design efforts, such as that of the IETF "SPKI" (Simple Public-Key Infrastructure) working group (in particular, Carl Ellison's work), the work of Blaze, Feigenbaum, and Lacy <ref> [1] </ref>, and work within the World-Wide Web Consortium's security group. Our proposal borrows freely from these sources, and has benefitted greatly from them. Our goal is to provide ideas and techniques that facilitate the construction of secure systems.
+Reference: [2] <author> D. Clark and D. Wilson. </author> <title> A comparison of commercial and military computer security policies. </title> <booktitle> In IEEE Security Privacy, </booktitle> <year> 1987. </year>
+Reference-contexts: In some cases, a co-signature may be needed by the application program itself. (Following the discussion of Clark and Wilson <ref> [2] </ref>.) 8.6 Access to medical records Similar to the corporate database example, except that here the hospital has the records, but the individual should perhaps be the one to authorize access.
+Reference: [3] <author> Stephen T. Kent. </author> <title> Internet privacy enhanced mail. </title> <journal> Communications of the ACM, </journal> <volume> 36(8) </volume> <pages> 48-60, </pages> <month> August </month> <year> 1993. </year>
+Reference-contexts: 1 Introduction This paper was motivated by the perception that the existing proposals for a public-key infrastructure (such as X.509-based schemes that require global certificate hierarchies <ref> [3] </ref>) are both excessively complex and incomplete. Their complexity arises from a dependence on global name spaces and an attempt to formalize too many things. Their incompleteness can be immediately perceived if one tries to define a security policy (e.g. write a ACL) based on the scheme.
+Reference: [4] <author> National Bureau of Standards. </author> <title> Secure hash standard. </title> <type> Technical Report FIPS Publication 180, </type> <institution> National Bureau of Standards, </institution> <year> 1993. </year>
+Reference-contexts: Numbers. Integers are represented as an octet-string in two's complement notation with the most-significant byte first. A number may be of any length. Hash Values. The hash value H (S) of an S-expression S is obtained by applying a cryptographic hash algorithm, such as MD5 [5] or SHA-1 <ref> [4] </ref>, to S's canonical ASCII representation. SDSI's default hash algorithm is SHA-1. A hash value is represented as a list containing the hash algorithm name and the hash value. ( SHA-1 =67adhNPs8Y+/Uy34NhWp77CvULm= ) Dates and Time.
+Reference: [5] <author> Ronald L. Rivest. </author> <title> The MD5 message-digest algorithm. Internet Request for Comments, </title> <month> April </month> <year> 1992. </year> <note> RFC 1321. </note>
+Reference-contexts: Numbers. Integers are represented as an octet-string in two's complement notation with the most-significant byte first. A number may be of any length. Hash Values. The hash value H (S) of an S-expression S is obtained by applying a cryptographic hash algorithm, such as MD5 <ref> [5] </ref> or SHA-1 [4], to S's canonical ASCII representation. SDSI's default hash algorithm is SHA-1. A hash value is represented as a list containing the hash algorithm name and the hash value. ( SHA-1 =67adhNPs8Y+/Uy34NhWp77CvULm= ) Dates and Time.
+Reference: [6] <author> Ravi S. Sandhu, Edward J. Coyne, Hal L. Feinstein, and Charles E. Youman. </author> <title> Role-based access control models. </title> <journal> IEEE Computer, </journal> <volume> 29(2) </volume> <pages> 38-47, </pages> <month> February </month> <year> 1996. </year>
+Reference-contexts: Each such certificate also has an expiration date and other information. Membership certificates are very useful for dealing with large groups, where it is not reasonable to export the entire group definition. Clean support for "roles". Access control is often conveniently organized around "roles" (see Sandhu et al. <ref> [6] </ref>). SDSI supports roles in two different ways. In the first method, an individual creates a public-key for each role he plays.
+References-found: 6
+

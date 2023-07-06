@@ -1,0 +1,20 @@
+URL: ftp://info.mcs.anl.gov/pub/tech_reports/reports/P511.ps.Z
+Refering-URL: http://www.mcs.anl.gov/publications/abstracts/abstracts95.htm
+Root-URL: http://www.mcs.anl.gov
+Title: Centrifugal Destabilization and Restabilization of Plane Shear Flows  
+Author: A. J. Conley 
+Date: May 25, 1995  
+Address: Argonne, IL 60439  
+Affiliation: Mathematics and Computer Science Division Argonne National Laboratory  
+Abstract: The flow of an incompressible viscous fluid between parallel plates becomes unstable when the plates are tumbled. As the tumbling rate increases, the flow restabilizes. This phenomenon is elucidated by path-following techniques. The solution of the Navier-Stokes equations is approximated by spectral techniques. The linear stability of these solutions is studied. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [Conley & Keller, 1995] <author> A. J. Conley and H. B. Keller. </author> <title> Wavy Taylor vortices in plane Couette flow. </title> <type> Preprint MCS-P495-0195. </type> <institution> Mathematics and Computer Science Division, Argonne National Laboratory, </institution> <year> 1995. </year>
+Reference-contexts: 1 Introduction Recently, studies of plane Couette flow in the presence of a Coriolis force have led to the discovery of new solutions of the Navier-Stokes equations (see [Nagata, 1990] [Conley, 1994] <ref> [Conley & Keller, 1995] </ref>). One observation of these studies has been that, as the Coriolis force is increased, the parallel shear flow bifurcates to a new solution that reconnects to the parallel flow at larger Coriolis force. <p> A similar phenomenon occurs in Couette flow, as can be seen in Fig. 6; a solution bifurcates from Couette flow and rejoins at larger tumbling rates. These results are obtained by the methods described in <ref> [Conley & Keller, 1995] </ref>. In Couette flow it is easy to compute successive bifurcations (at larger Reynolds numbers) to three-dimensional flows which exist with nontumbling plates (see [Conley & Keller, 1995]). It seems that these solutions should exist in Poiseuille flow but would probably be traveling waves. <p> These results are obtained by the methods described in <ref> [Conley & Keller, 1995] </ref>. In Couette flow it is easy to compute successive bifurcations (at larger Reynolds numbers) to three-dimensional flows which exist with nontumbling plates (see [Conley & Keller, 1995]). It seems that these solutions should exist in Poiseuille flow but would probably be traveling waves. This paper has presented analysis of the effect of tumbling plane shear flow. This tumbling rate acts to destabilize plane Poiseuille flow and plane Couette flow.
+Reference: [Conley, 1994] <author> A. J. Conley. </author> <title> New Plane Shear Flows. </title> <type> PhD thesis, </type> <institution> California Institute of Technology, </institution> <year> 1994. </year>
+Reference-contexts: 1 Introduction Recently, studies of plane Couette flow in the presence of a Coriolis force have led to the discovery of new solutions of the Navier-Stokes equations (see [Nagata, 1990] <ref> [Conley, 1994] </ref> [Conley & Keller, 1995]). One observation of these studies has been that, as the Coriolis force is increased, the parallel shear flow bifurcates to a new solution that reconnects to the parallel flow at larger Coriolis force.
+Reference: [Drazin & Reid, 1981] <author> P. G. Drazin and W. H. Reid. </author> <title> Hydrodynamic Stability. </title> <publisher> Cambridge University Press, </publisher> <year> 1981. </year>
+Reference-contexts: contrast, the vortical flow is stable along its full path. (The zero eigenvalue is due to the phase freedom of the solution in the z direction.) 6 Discussion While Eqs. (1.1)-(1.7) (with F y = 8; = 0) are known to have traveling wave solutions for large Reynolds numbers (see <ref> [Drazin & Reid, 1981] </ref>), these flows vary with x and y. In contrast, the vortical flow (stationary waves) calculated here vary with x and z. The vortical flow is stable (at this Reynolds number and wave number) for all values of for which it exists.
+
+References-found: 3
+

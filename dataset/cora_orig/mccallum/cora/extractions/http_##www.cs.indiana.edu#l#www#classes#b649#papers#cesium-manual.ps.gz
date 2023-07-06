@@ -1,0 +1,14 @@
+URL: http://www.cs.indiana.edu/l/www/classes/b649/papers/cesium-manual.ps.gz
+Refering-URL: http://www.cs.indiana.edu/l/www/classes/b649/project.html
+Root-URL: http://www.cs.indiana.edu
+Title: Cesium Programmer's Reference Guide Version 1.0 Beta  
+Author: Guillermo Alvarez Flaviu Cristian 
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> G. Alvarez and F. Cristian. </author> <title> A centralized failure injection environment for the validation of distributed fault-tolerant protocols. </title> <type> Technical Report CS95-458, </type> <institution> Dept. of Computer Science and Engineering, University of California, </institution> <address> San Diego, </address> <month> November </month> <year> 1995. </year> <month> 22 </month>
+Reference-contexts: By using any of these compilers, the tester can get a final executable object file from the same source code used in the testing phase of the development. The relationship between Cesium's capabilities and the validation of fault-tolerant protocols is explained in detail in <ref> [1] </ref>; the reader is strongly encouraged to read that paper, since this manual concentrates on implementation aspects rather than on the fundamental issues of our simulation scheme and its testing power. We proceed to give a brief outline to set the context for the upcoming sections. <p> We provide an assortment of primitives that the tester can use to validate timeliness properties. Property evaluation does not require any instrumentation of the code under test, and does not introduce any perturbation on the protocol's execution times as a result of the monitoring activity. As discussed in <ref> [1] </ref>, testing protocols in a real distributed system poses severe limitations on the testable properties, on the reproducibility of experiments, and on the accuracy of the obtained results.
+Reference: [2] <author> Sun Microsystems, Inc. </author> <title> Java API Documentation, </title> <type> V1.0, </type> <month> February </month> <year> 1996. </year> <note> Available from ftp://ftp.javasoft.com /docs /JDK-1 0-apidocs.tar.Z. </note>
+Reference-contexts: In what follows, we assume a working knowledge of the Java programming language [3], and reference the Java application programmer's interface <ref> [2] </ref> whenever necessary. Cesium itself is written in Java, and requires the Java compiler and virtual machine V1.0 or higher in order to run (a debugger can be useful, but is not required).
+
+References-found: 2
+

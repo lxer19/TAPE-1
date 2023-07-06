@@ -1,0 +1,27 @@
+URL: ftp://ftp.cm.deakin.edu.au/pub/TR/Computing/TR-C95-17.ps.gz
+Refering-URL: http://gollum.cm.deakin.edu.au/techreports.html
+Root-URL: 
+Email: ddp-@deakin.edu.au  
+Title: Tracing Program Side-effects within the RHODOS Environment A Case Study  
+Author: G. Wickham, M. Hobbs and D. De Paoli -gjw, mick, 
+Note: *This work was partly supported by Australian Research Council under Grants A49232429 and the Deakin University Research Grant 0504010151.  
+Address: Geelong Victoria 3217, Australia.  
+Affiliation: School of Computing and Mathematics Deakin University,  
+Date: July 11, 1995  
+Pubnum: RHODOS  
+Abstract: If a program behaves abnormally, or exhibits logical faults, a debugger can be an invaluable tool to determine the exact cause of the error. However, there can be occasions when a debug ger is of marginal use. If a running program corrupts an area of memory that will be used later, then the program may terminate in a procedure which is logically correct. It is then necessary to identify how the memory was corrupted and then fix the problem code. Most debuggers are unable to operate in a manner that will identify the problem code. Furthermore, when a program is run through a debugger, the fault may not appear. This paper, details a technique in which using features of the M68020 processor and the RHODOS Microkernel, it is possible to quickly isolate and correct program faults which corrupt memory. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> D. De Paoli, M. Hobbs, G. Wickham, A. Goscinski. </author> <title> RHODOS A Microkernel based Distributed Operating System: An Overview of the 1993 Version. </title> <type> Technical Report TR C94/ 04, </type> <institution> School of Computing and Mathematics, </institution> <note> Deakin University,. 15 th April 1994. </note>
+Reference: [2] <author> A. Goscinski and G. Gerrity. </author> <title> The Design and Development of a Test Bed for the Study of Distributed Operating Systems, </title> <note> ARC Research Grant 1989-92. RHODOS July 11, 1995 References Page 11 </note>
+Reference: [3] <author> G. Wickham, M. Hobbs and A. Goscinski. </author> <title> Research into the Development of the RHODOS Multi Threaded Microkernel. </title> <type> Technical Report TR C94/05, </type> <institution> School of Computing and Mathematics, Deakin University, </institution> <note> 15 th April 1994. </note>
+Reference: [4] <author> G. Wickham, M. Hobbs and A. Goscinski. </author> <title> The Logical Design of the RHODOS Multi-threaded Microkernel. </title> <type> Technical Report TR C94/06, </type> <institution> School of Computing and Mathematics, Deakin University, </institution> <note> 15 th April 1994. </note>
+Reference: [5] <editor> MC68020 32-bit Microprocessor Users Manual Second Edition, </editor> <publisher> Prentice Hall, </publisher> <year> 1985, </year> <note> (ISBN: 0-13-566860-3). </note>
+Reference-contexts: Shown in Figure 2 is the Special Status Word of the Motorola M68020 microprocessor <ref> [5] </ref>. This word (16 bits) is generated along with the rest of the exception frame when a bus fault occurs. By analysis of the special status word it is possible to determine the exact reason why the bus fault occurred.
+Reference: [6] <author> G. Wickham, D. De Paoli and M. Hobbs, </author> <title> The RHODOS Space Manager 1993, </title> <type> Technical Report TR C94/08, </type> <institution> School of Computing and Mathetmatics, Deakin University, </institution> <note> 27 th April 1994. </note>
+Reference: [7] <author> D. De Paoli and A. Goscinski, </author> <title> An Overview of Process Management in the RHODOS System, </title> <type> Technical Report TR C94/01, </type> <institution> School of Computing and Mathetmatics, Deakin University, </institution> <address> 15 th March 1994. </address>
+Reference-contexts: If the page fault requires more assistance to be resolved then a request message is despatched to the Space Manager. If the exception can not be resolved by the space manager, then the program is terminated by sending a message to the Process Manager <ref> [7] </ref>. 3 Implementation of Address Monitoring The implementation of the address monitoring policy relies on two distinct parts. The first part is required that the page management software be extended to invoke a procedure if address RHODOS July 11, 1995 Implementation of Address Monitoring Page 4 monitoring is active.
+Reference: [8] <author> M. Hobbs, G. Wickham, D. De Paoli and A. Goscinski, </author> <title> Memory Spaces for the RHODOS Multi-threaded Microkernel System, </title> <type> Technical Report TR C95/04, </type> <institution> School of Computing and Mathetmatics, Deakin University, </institution> <note> 20 th January 1995. </note>
+Reference-contexts: Currently RHODOS supports a demand based paging mechanism which has resulted in the memory management unit being only programmed for each page that resulted in a fault from an access. The structures that define memory usage <ref> [8] </ref> within RHODOS are manipulated by a kernel server termed Space Manager. This kernel server formats the structures to provide a lookup-mechanism for the page management code within the microkernel.
+References-found: 8
+

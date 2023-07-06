@@ -1,0 +1,23 @@
+URL: ftp://ftp.cse.ucsc.edu/pub/tr/ucsc-crl-94-10.ps.Z
+Refering-URL: ftp://ftp.cse.ucsc.edu/pub/tr/README.html
+Root-URL: http://www.cse.ucsc.edu
+Title: A Pattern-Weight Formulation of Search Knowledge  
+Author: Robert Levinson Gil Fuchs 
+Keyword: heuristic search, knowledge representation, macro-operators, feature construction, pattern retrieval, reactive planning, subgoals, tile puzzles  
+Address: Santa Cruz, CA 95064  
+Affiliation: Board of Studies in Computer and Information Sciences University of California, Santa Cruz  
+Pubnum: UCSC-CRL-94-10 supersedes UCSC-CRL-89-22 and UCSC-CRL-91-15  
+Email: ARPANET:levinson@cse.ucsc.edu  
+Phone: (408)459-2087  
+Date: February 1994  UUCP:ucbvax!ucsc!cse!levinson  
+Abstract: Pattern-weight pairs (pws) are a new form of search and planning knowledge. Pws are predicates over states coupled with a least upper bound on the distance from any state satisfying that predicate to any goal state. The relationship of pws to more traditional forms of search knowledge is explored with emphasis on macros and subgoals. It is shown how pws may be used to overcome some of the difficulties associated with macro-tables and lead to shorter solution paths without replanning. An algorithm is given for converting a macro-table to a more powerful pw set. Superiority over the Squeeze algorithm is demonstrated. It is also shown how pws provide a mechanism for achieving dynamic subgoaling through the combination of knowledge from multiple alternative subgoal sequences. The flexibility and execution time reasoning provided by pws may have significant use in reactive domains. The main cost associated with pws is the cost of applying them at execution time. An associative retrieval algorithm is given that expedites this matching-evaluation process. 
+Abstract-found: 1
+Intro-found: 1
+Reference: 4. <institution> The pw version of a macro-table when used with DFHC produces significantly shorter solution paths on the average than from the macro table (alone or with Squeeze) by exploiting macro-crossover. </institution>
+Reference-contexts: Still there is room for research progress here. Perhaps, the weights associated with pws should be ranges (lower and upper bounds) and search algorithms built up around them as in B* <ref> [4] </ref>. These ranges associated with patterns provide a useful mechanism of encoding only partial knowledge of a domain. With subgoals and macro-operators more preciseness is required. 8 Conclusions and Ongoing Work Let us summarize what has been learned: 1.
+Reference: 5. <editor> Dynamic subgoaling can be achieved by using the pw sets from multiple macro-tables (and hence multiple subgoal sequences). </editor> <title> By taking advantage of subgoal sequence crossover, solution paths significantly closer to optimal are achieved. </title>
+Reference: 6. <institution> We give an efficient method for organizing pattern-based state evaluation. </institution>
+Reference-contexts: Whereas, while executing a macro little computation is required until the selection of the next macro. However, state evaluation can be done efficiently by using an associative retrieval algorithm that takes advantage of a partial ordering of patterns by more-general-than <ref> [6, 10, 24, 25, 34] </ref>. Suppose for example that pattern R is known to be a generalization of pattern S.
+
+References-found: 3
+

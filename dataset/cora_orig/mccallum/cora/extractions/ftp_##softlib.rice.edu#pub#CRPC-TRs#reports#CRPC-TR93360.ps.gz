@@ -1,0 +1,14 @@
+URL: ftp://softlib.rice.edu/pub/CRPC-TRs/reports/CRPC-TR93360.ps.gz
+Refering-URL: http://www.crpc.rice.edu/CRPC/softlib/TRs_online.html
+Root-URL: 
+Title: T AN OPTIMAL COMMUNICATION PROTOCOL term of a logical protocol unit (LPU) is defined. All
+Author: HE L OGICAL P ROTOCOL U NIT T OWARDS Erich Schikuta 
+Keyword: Processes and communication  
+Note: The  It is obvious that the  
+Address: P.O. Box 1892 Houston TX 77251-1892  
+Affiliation: Center for Research on Parallel Computation Rice University  
+Abstract: The performance of large software systems based on a serverslave architecture depends heavily on the design of the interprocess communication (IPC) protocol. In this paper different approaches of the logical structure of the protocol of the IPC communication are proposed and analyzed. This result is applicable to all types of IPC based systems, as beneath all large industrial applications. It was tested and analyzed with an existing relational data base system. Large software applications in the industry consist mainly of several processes, which run timesliced (virtually parallel) on a hardware system and communicate via the interprocess facilities [Roch85] of the underlying operating system. This design is demanded by the conventional serverslave architecture of centralized software systems. The slave processes are applications which represent the interface to users or other programs. In the following these programs are called user processes. The central server keeps up the connection with the user processes and is actually performing the work of the system (e.g. database access, system control, ...). Therefore a very time consuming part of the server task is the exchanging of information with the user processes. To partition a large program into smaller processes has the advantage of smaller program sizes (smaller main memory requirements), higher performance by workload sharing, logical structuring of tasks, etc.. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

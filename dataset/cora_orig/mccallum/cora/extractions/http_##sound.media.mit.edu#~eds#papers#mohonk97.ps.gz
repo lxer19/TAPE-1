@@ -1,0 +1,27 @@
+URL: http://sound.media.mit.edu/~eds/papers/mohonk97.ps.gz
+Refering-URL: http://sound.media.mit.edu/papers.html
+Root-URL: http://www.media.mit.edu
+Title: PULSE TRACKING WITH A PITCH TRACKER  
+Author: Eric D. Scheirer 
+Address: Cambridge, MA 02139 USA  
+Affiliation: Machine Listening Group, MIT Media Laboratory  
+Abstract: A comparison of two models for processing sound is presented: the perceptually-based pitch model of Meddis and Hewitt [6], and a vocoder model for rhythmic analysis by Scheirer [5]. Similarities in the methods are noted, and it is demonstrated that the pitch model is also adequate for extracting the tempo of acoustic source signals. The implications of this finding for perceptual models and signal processing systems are discussed. 
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> Rosenthal, D. </author> <title> Machine Rhythm: Computer Emulation of Human Rhythm Perception. </title> <type> Ph.D. dissertation, </type> <institution> MIT Media Laboratory, </institution> <year> 1992. </year>
+Reference: 2. <author> Scheirer, E. Bregmans chimerae: </author> <title> Music perception as auditory scene analysis, </title> <booktitle> in Proc. 1996 Int. Conf. Music Perception and Cognition. </booktitle>
+Reference: 3. <author> Large, E, and J.F. Kolen. </author> <title> Resonance and the perception of musical meter. </title> <booktitle> Connection Science 6, </booktitle> <year> 1994. </year>
+Reference: 4. <author> Goto, M., and Y. Muraoka. </author> <title> Music understanding at the beat level: Real-time beat tracking for audio signals, in Readings in Computational Auditory Scene Analysis, </title> <editor> D. Rosenthal and H. Okuno, eds. </editor> <publisher> Lawrence Erlbaum Associates, </publisher> <address> Mahweh, NJ, </address> <year> 1997. </year>
+Reference: 5. <author> Scheirer, E. </author> <title> Using bandpass and comb filters to beat-track digital audio, manuscript in review. </title>
+Reference: 6. <author> Meddis, R., and M. Hewitt. </author> <title> Virtual pitch and phase sensitivity of a computer model of the auditory periphery. I: Pitch identification. </title> <journal> J. Acoust. Soc. </journal> <volume> Am 89 </volume> <pages> 2866-2882, </pages> <year> 1991. </year>
+Reference: 7. <author> Brown, J., and M. Puckette. </author> <title> Calculation of a narrowed autocorrelation function, </title> <journal> J. Acoust. Soc. Am. </journal> <volume> 85: </volume> <pages> 1595-1601, </pages> <year> 1989. </year>
+Reference: 8. <author> Slaney, M. </author> <title> The Auditory Toolbox. Apple Computer Company: </title> <type> Apple Technical Report #45, </type> <year> 1993. </year>
+Reference: 9. <author> Ellis, D. </author> <title> Prediction-Driven Computational Auditory Scene Analysis. </title> <type> Ph.D. dissertation, </type> <institution> MIT Media Laboratory, </institution> <year> 1996. </year>
+Reference: 10. <author> McKenna, </author> <title> T.M, N.M. Weinberger, and D.M. Diamond. Responses of single auditory cortical neurons to tone sequences. </title> <booktitle> Brain Research 481 </booktitle> <pages> 142-153, </pages> <year> 1989. </year>
+Reference: 11. <author> Handel, S. </author> <title> Listening. </title> <publisher> MIT Press: </publisher> <address> Cambridge, MA, </address> <year> 1989. </year>
+Reference: 12. <author> Bregman, A. </author> <title> Auditory Scene Analysis. </title> <publisher> MIT Press: </publisher> <address> Cam-bridge, MA, </address> <year> 1990. </year>
+Reference: 13. <author> Levitin, D., and P. Cook. </author> <title> "Memory for musical tempo: Additional evidence that auditory memory is absolute." </title> <journal> Perception and Psychophysics 58 </journal> <pages> 927-935, </pages> <year> 1996. </year>
+Reference: 14. <author> Hulse, S., and S. </author> <title> Page. "Toward a comparative psychology of music perception". </title> <booktitle> Music Perception 5 </booktitle> <pages> 427-452, </pages> <year> 1988. </year>
+Reference: 15. <author> Todd, </author> <title> N.P. The auditory primal sketch: A multiscale model of rhythmic grouping. </title> <journal> J. New Music Research 23 </journal> <pages> 25-70, </pages> <year> 1994. </year>
+References-found: 15
+

@@ -1,0 +1,29 @@
+URL: http://www.cms.dmu.ac.uk/General/WWW/People/cph/VRPapers/spie92.ps.gz
+Refering-URL: http://www.cms.dmu.ac.uk/General/WWW/People/cph/VRPapers/
+Root-URL: 
+Email: Email: dannenberg@cs.cmu.edu  
+Title: Remote Access to Interactive Media  
+Author: Roger B. Dannenberg 
+Address: Pittsburgh, PA 15213 USA  
+Affiliation: Carnegie Mellon University, School of Computer Science  
+Abstract: Digital interactive media augments interactive computing with video, audio, computer graphics and text, allowing multimedia presentations to be individually and dynamically tailored to the user. Multimedia, and particularly continuous media pose interesting problems for system designers, including those of latency and synchronization. These problems are especially evident when multimedia data is remote and must be accessed via networks. Latency and synchronization issues are discussed, and an integrated system, Tactus, is described. Tactus facilitates the implementation of interactive multimedia computer programs by managing latency and synchronization in the framework of an object-oriented graphical user interface toolkit. 
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> Blattner, M. M. and R. B. Dannenberg, </author> <title> editors, Multimedia Interface Design, </title> <publisher> ACM Press, </publisher> <year> 1992. </year>
+Reference: 2. <author> Anderson, D. P. and R. Kuivila, </author> <title> ``Accurately Timed Generation of Discrete Musical Events'', </title> <journal> Computer Music Journal, </journal> <volume> Vol. 10, No. 3, </volume> <month> Fall </month> <year> 1986, </year> <pages> pp. 48-56. </pages>
+Reference: 3. <author> Anderson, D. P. and R. Kuivila, </author> <title> ``A System for Computer Music Performance'', </title> <journal> ACM Transactions on Computer Systems, </journal> <volume> Vol. 8, No. 1, </volume> <month> February </month> <year> 1990, </year> <pages> pp. 56-82. </pages>
+Reference: 4. <author> Rothstein, J., MIDI: </author> <title> A Comprehensive Introduction, </title> <publisher> A-R Editions, </publisher> <address> Madison, WI, </address> <year> 1992. </year>
+Reference: 5. <author> Anderson, D. P., R. Govindan, G. Homsy, </author> <title> ``Abstractions for Continuous Media in a Network Window System'', </title> <type> Tech. report UCB/CSD 90/596, </type> <institution> Computer Science Division (EECS), U.C. at Berkeley, </institution> <year> 1990. </year>
+Reference: 6. <author> Wayner, P., </author> <title> ``Inside QUICKTIME'', </title> <journal> Byte, </journal> <volume> Vol. 16, </volume> <month> December </month> <year> 1991. </year>
+Reference: 7. <author> Yager, T., </author> <title> ``The Multimedia PC: High-powered Sight and Sound on Your Desk'', </title> <journal> Byte, </journal> <volume> Vol. 17, </volume> <month> February </month> <year> 1992. </year>
+Reference: 8. <author> Palay, A. J., F. Hansen, M. Kazar, M. Sherman, M. Wadlow, T. Neuendorffer, Z. Stern, M. Bader, T. Peters, </author> <title> ``The Andrew Toolkit - An Overview'', </title> <booktitle> Proceedings USENIX Technical Conference, USENIX, Winter 1988, </booktitle> <pages> pp. 9-21. </pages>
+Reference: 9. <author> Kahn, K., </author> <title> ``DIRECTOR Guide'', </title> <type> Tech. </type> <institution> report MIT AI Laboratory Memo 482B, MIT, </institution> <month> December </month> <year> 1979. </year>
+Reference: 10. <author> Gibbs, S., </author> <title> ``Composite Multimedia and Active Objects'', </title> <booktitle> OOPSLA '91 Conference Proceedings, </booktitle> <editor> A. Paepcke,ed., </editor> <publisher> ACM Press, ACM/SIGPLAN, </publisher> <address> New York, </address> <year> 1991, </year> <pages> pp. 97-112. </pages>
+Reference: 11. <author> Accetta, M., R. Baron, W. Bolosky, D. Golub, R. Rashid, A. Tevanian, M. Young, </author> <title> ``Mach: A New Kernel Foundation for UNIX Development'', </title> <booktitle> Proc. of Summer Usenix, Usenix, </booktitle> <month> July </month> <year> 1986. </year> <title> Table of Contents </title>
+Reference: 1. <institution> Introduction 1 1.1. Organization 2 </institution>
+Reference: 2. <author> Issues 2 2.1. </author> <title> Latency 2 2.2. Synchronization 3 2.3. Other Issues 3 2.3.1. Network Congestion 4 2.3.2. Resource Reservation 4 2.3.3. Scheduling 4 </title>
+Reference: 3. <author> The Tactus System 4 3.1. </author> <title> The Application Toolkit 4 3.2. The Tactus Server 6 3.3. Enhancing Interactivity 6 3.4. </title> <type> Discussion 6 </type>
+Reference: 4. <institution> Summary and Conclusions 7 </institution>
+Reference: 5. <institution> Acknowledgments 7 </institution>
+References-found: 16
+

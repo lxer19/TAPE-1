@@ -1,0 +1,31 @@
+URL: http://www.iihe.ac.be/mice-nsc/ftp/imm/imm_overview.ps.gz
+Refering-URL: http://www.iihe.ac.be/mice-nsc/ftp/imm/
+Root-URL: http://www.iihe.ac.be
+Title: References 1. "XTP Protocol Definition Revision 3.6", Protocol Engines, "A Broadcast Protocol for File Transfer
+Author: S.B. Calo M.C. Easton H. Youssef, C. Huitema, F. Kamoun, . Robert Sanders and Alfred Weaver, Clark, David, and Lambert, Mark, . Andrew Tanenbaum, 
+Date: 1991  1988  
+Address: Street Suite D, Santa Bar-bara, California 93101,  Amsterdam, Prentice Hall  
+Affiliation: State  "Computer Networks",  
+Note: 1900  2.Calo 1981.  IEEE Transactions on Communications, vol COM-29, no 11, pp 1701-1707 3. Youss1984.  Systems, pp 367-382, North Holland, 1984.  Communications Review, Sigcomm August 16-19 1988, pp 274-282 5. Stephen Deering,  Communications Review, Sigcomm October 1990 Vol 20 Number 5 pp 67-81 7.  
+Abstract-found: 0
+Intro-found: 1
+Reference: 1. <editor> "XTP Protocol Definition Revision 3.6", </editor> <title> Protocol Engines, </title> <address> 1900 State Street Suite D, Santa Bar-bara, California 93101, </address> <year> 1991 </year> <month> 2.Calo </month> <year> 1981. </year> <title> S.B. Calo M.C. Easton "A Broadcast Protocol for File Transfer to Multiple Sites," </title> <journal> IEEE Transactions on Communications, </journal> <volume> vol COM-29, no 11, </volume> <pages> pp 1701-1707 </pages>
+Reference: 3. <author> Youss1984. H. Youssef, C. Huitema, F. Kamoun, </author> <title> "Performance Evaluation of NADIR Bulk Data Transmission Protocol for Multipoint Satellite Link", </title> <booktitle> Performance of Computer-Communication Systems, </booktitle> <pages> pp 367-382, </pages> <publisher> North Holland, </publisher> <year> 1984. </year>
+Reference: 4. <author> J.S.J. Daka and A.G. </author> <title> Waters A High Performance Broadcast File Transfer Protocol, </title> <journal> Computer Communications Review, </journal> <month> Sigcomm August 16-19 </month> <year> 1988, </year> <pages> pp 274-282 </pages>
+Reference: 5. <author> Stephen Deering, </author> <title> Multicast Routing in Internetworks and Extended LANS </title>
+Reference: 6. <author> Robert Sanders and Alfred Weaver, </author> <title> The Xpress Transfer Protocol (XTP) - A Tutorial, </title> <journal> Computer Communications Review, </journal> <note> Sigcomm October 1990 Vol 20 Number 5 pp 67-81 </note>
+Reference: 7. <author> Clark, David, and Lambert, Mark, "NETBLT: </author> <title> A bulk Data Transfer Protocol", Request for Comment 998, 1987. 8.Dimitri Bertsekas/Robert Gallager, "Data Networks", </title> <publisher> Prentice Hall 1987 </publisher>
+
+Reference: 1. <institution> All data packets sent are of a predetermined length; </institution>
+Reference: 2. <institution> Knowledge of all file positions written to; </institution>
+
+
+Reference: 1. <institution> Computer Communications Review v 6 p 28 </institution>
+
+Reference: 1. <editor> Forward Error Control(FEC) FEC transmits enough extra parity bits to enable the receiver to correct the maximum expected amount of corrupt data without further retransmission. </editor> <title> 2 FEC must be used when the return channel is unavailable or two slow. For highly compressed data files, this strategy amounts to redundant retransmission of the complete file. </title>
+
+Reference: 1. <institution> FAQ of multicasting </institution>
+
+Reference: 1. <institution> ACM 1988 Multicast Routing in yeah I know dont grump </institution>
+References-found: 12
+

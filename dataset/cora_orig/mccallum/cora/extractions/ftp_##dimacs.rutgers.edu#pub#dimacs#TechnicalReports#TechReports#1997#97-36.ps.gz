@@ -1,0 +1,35 @@
+URL: ftp://dimacs.rutgers.edu/pub/dimacs/TechnicalReports/TechReports/1997/97-36.ps.gz
+Refering-URL: http://dimacs.rutgers.edu/TechnicalReports/1997.html
+Root-URL: http://www.cs.rutgers.edu
+Title: FDOD Function and Information Discrepancy Contained in Multiple Probability Distributions 1  
+Author: by Weiwu Fang 
+Affiliation: DIMACS Center, Rutgers University IAM-CAS and APORC  Institute of Applied Mathematics, Chinese Academy of Sciences, Beijing APORC: Asian-Pacific Operations Research Center  
+Note: The  and partially supported by American NSF under grant BIR 94-12594 2 IAM-CAS:  DIMACS is a partnership of Rutgers University, Princeton University, AT&T Labs, Bellcore, and Bell Labs. DIMACS is an NSF Science and Technology Center, funded under contract STC-91-19999; and also receives support from the New Jersey Commission on Science and Technology.  
+Abstract: DIMACS Technical Report 97-36 August 1997 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> J. Aczel and Z.Daroczy, </author> <title> On Measures of Information and Their Characterization, </title> <publisher> Academic Press, </publisher> <address> New York, London, </address> <year> 1975. </year>
+Reference: [2] <author> J. Aczel, </author> <title> Functional Equations in Several Variables : with Applications, </title> <publisher> Cambridge University Press, </publisher> <address> Cambridge, New York, </address> <year> 1989. </year>
+Reference: [3] <author> Robert Ash, </author> <title> Information theory, </title> <publisher> Interscience Pub. </publisher> <address> New York, </address> <year> 1965, 1990. </year>
+Reference: [4] <author> S.C. Chan, A.K. Wong & , D.K. Chiu, </author> <title> A Survey of Multiple Sequence Comparison Methods. </title> <journal> Bulu. Math. Biol. </journal> <volume> 54, </volume> <year> 563-598,1992. </year>
+Reference: [5] <author> Byung Chan Eu, </author> <title> Kinetic Theory and Irreversible Thermodynamics, </title> <publisher> John Wiley and Sons, </publisher> <address> New York, </address> <year> 1992. </year>
+Reference: [6] <author> Weiwu Fang, </author> <title> The Disagreement Degree of Multi-person Judgments in Additive Structure, </title> <journal> Mathematical Social Sciences, </journal> <volume> vol. 28, no. 2, </volume> <pages> 85-111, </pages> <year> 1994. </year>
+Reference: [7] <author> Weiwu Fang, </author> <title> Some Properties of FDOD Function and Kullback Measure, </title> <address> CSIAM'96 VII:9, </address> <year> 1996. </year>
+Reference: [8] <author> Weiwu Fang, </author> <title> On a Global Optimization Problem in the Study of Information Discrepancy, </title> <journal> J. of Global Optimization Vol.11, </journal> <pages> 387-408, </pages> <year> 1997. </year>
+Reference: [9] <author> A. </author> <title> Feinstein, </title> <booktitle> Foundations of Information Theory, </booktitle> <address> McGraw Hill, New York - Toronto, </address> <year> 1958 </year>
+Reference: [10] <author> B. Forte and Z. Daroczy, </author> <title> A Characterization of Shannon's Entropy. Boll. Un. </title> <journal> Mat. Ital. </journal> <volume> (4) 1, </volume> <pages> 631-635, </pages> <year> 1968. </year>
+Reference: [11] <author> C.E. Hecht, </author> <title> Statistical Thermodynamics and Kinetic Theory, </title> <publisher> W.H.Freeman and Company, </publisher> <address> New York, </address> <year> 1990. </year>
+Reference: [12] <author> Pl. Kannappan and P.N. Rathie, </author> <title> An Application of a Functional Equation to Information Theory. </title> <journal> Ann. Polon. Math. </journal> <volume> 26, </volume> <pages> 95-101, </pages> <year> 1972. </year>
+Reference: [13] <author> Pl. Kannappan and C.T. Ng, </author> <title> Measurable Solutions of Functional Equations Related to Information Theory. </title> <journal> Proc. Math. Soc. </journal> <volume> 38,303-310, </volume> <year> 1973. </year>
+Reference: [14] <author> J.N. Kapur and H.K.Kesavan, </author> <title> Entropy Optimization Principles with Applications. </title> <publisher> Academic Press, </publisher> <address> San Diego, </address> <year> 1992. </year> <month> - 31 </month> - 
+Reference: [15] <author> D.H. Krantz,R.D.Luce, P.Suppes, and A. </author> <title> Tversky, </title> <booktitle> Foundations of Measurement, Vol.1, </booktitle> <publisher> Academic Press, </publisher> <address> New York, </address> <year> 1971. </year>
+Reference: [16] <author> S. Kullback, </author> <title> Information Theory and Statistics, </title> <publisher> Wiley, </publisher> <address> New York, </address> <year> 1959 </year>
+Reference: [17] <author> P.M. Lee, </author> <title> On the Conditions of Information Theory. </title> <journal> Ann. Math. Statist. </journal> <volume> 35, </volume> <year> 414-441,1994. </year>
+Reference: [18] <author> M.C. Mackey, </author> <title> Time's Arrow: The origins of Thermodynamic Behavior, </title> <publisher> Springer-Verlag, </publisher> <address> New York, </address> <year> 1991. </year>
+Reference: [19] <author> P. Nath, </author> <title> On the Measures of Errors in Information, </title> <journal> J. Math.Sci. </journal> <volume> 3, </volume> <pages> 1-16, </pages> <year> 1968 </year>
+Reference: [20] <author> A. Renyi, </author> <title> On the Foundations of Information Theory. </title> <journal> Rev. Inst. Internat. Statist. </journal> <volume> 33, </volume> <pages> 1-14, </pages> <year> 1965. </year>
+Reference: [21] <author> F. Roberts and R.D.Luce, </author> <title> Axiomatic Thermodynamics and Extensive Measurement, </title> <booktitle> Syntheses 18, </booktitle> <pages> 311-326, </pages> <year> 1968. </year>
+Reference: [22] <author> Erwin Schrodinger, </author> <title> Statistical Thermodynamics, </title> <publisher> Dover Pub., Inc., </publisher> <address> New York, 1952 or 1989. </address>
+Reference: [23] <author> C.E. Shannon, </author> <title> A Mathematical Theory of Communication, </title> <journal> Bell System Tech. J. </journal> <volume> 27, </volume> <pages> 379-423, 623-656, </pages> <year> 1948. </year>
+References-found: 23
+

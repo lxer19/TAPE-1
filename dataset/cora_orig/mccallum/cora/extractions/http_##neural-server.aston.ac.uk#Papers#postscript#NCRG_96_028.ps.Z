@@ -1,0 +1,22 @@
+URL: http://neural-server.aston.ac.uk/Papers/postscript/NCRG_96_028.ps.Z
+Refering-URL: http://www.ph.tn.tudelft.nl/PRInfo/reports/msg00445.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: A Hierarchical Latent Variable Model for Data Visualization  
+Author: Christopher M. Bishop Michael E. Tipping 
+Note: Accepted for publication in IEEE Transactions on Pattern Analysis and Machine Intelligence  
+Address: Birmingham B4 7ET United Kingdom  St. George House, 1 Guildhall Street Cambridge CB2 3NH, U.K.  Birmingham B4 7ET, U.K.  
+Affiliation: Neural Computing Research Group Dept of Computer Science Applied Mathematics Aston University  Microsoft Research  Neural Computing Research Group Aston University  
+Pubnum: Technical Report NCRG/96/028  
+Email: cmbishop@microsoft.com  M.E.Tipping@aston.ac.uk  
+Phone: Tel: +44 (0)121 333 4631  
+Date: February 17, 1998  
+Web: http://www.ncrg.aston.ac.uk/  
+Abstract: Visualization has proven to be a powerful and widely-applicable tool for the analysis and interpretation of multi-variate data. Most visualization algorithms aim to find a projection from the data space down to a two-dimensional visualization space. However, for complex data sets living in a high-dimensional space it is unlikely that a single two-dimensional projection can reveal all of the interesting structure. We therefore introduce a hierarchical visualization algorithm which allows the complete data set to be visualized at the top level, with clusters and sub-clusters of data points visualized at deeper levels. The algorithm is based on a hierarchical mixture of latent variable models, whose parameters are estimated using the expectation-maximization algorithm. We demonstrate the principle of the approach on a toy data set, and we then apply the algorithm to the visualization of a synthetic data set in 12 dimensions obtained from a simulation of multi-phase flows in oil pipelines, and to data in 36 dimensions derived from satellite images. A Matlab software implementation of the algorithm is publicly available from the world-wide web. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> M. I. Jordan and R. A. Jacobs, </author> <title> "Hierarchical mixtures of experts and the EM algorithm.," </title> <journal> Neural Computation, </journal> <volume> vol. 6, no. 2, </volume> <pages> pp. 181-214, </pages> <year> 1994. </year>
+Reference-contexts: The use of a hierarchy of relatively simple models offers greater ease of interpretation as well as the benefits of analytical and computational simplification. This philosophy for modelling complexity is similar in spirit to the "mixture of experts" approach for solving regression problems <ref> [1] </ref>. The algorithm discussed in this paper is based on a form of latent variable model which is closely related to both principal component analysis (PCA) and factor analysis. At the top level of the hierarchy we have a single visualization plot corresponding to one such model.
+Reference: [2] <author> B. S. Everitt, </author> <title> An Introduction to Latent Variable Models. </title> <publisher> London: Chapman and Hall, </publisher> <year> 1984. </year>
+Reference-contexts: If we had considered a more general model in which conditional distribution p (tjx) is given by a Gaussian with a general covariance matrix (having d independent parameters) then we would obtain standard linear factor analysis <ref> [2, 3] </ref>. In fact our model is more closely related to principal component analysis, as we now discuss.
+References-found: 2
+

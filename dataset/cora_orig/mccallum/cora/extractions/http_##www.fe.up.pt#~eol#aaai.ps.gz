@@ -1,0 +1,26 @@
+URL: http://www.fe.up.pt/~eol/aaai.ps.gz
+Refering-URL: http://www.fe.up.pt/~eol/
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Email: Email: eugenio@eurokom.ie, long@mickey.feup.rccn.pt  
+Title: Towards A Generic Monitor For Cooperation  
+Author: Eugnio Oliveira, Long Qiegang 
+Address: Portugal  
+Affiliation: Faculty of Engineering University of Porto  
+Abstract: This paper introduces a Blackboard-based Monitor which is used to control cooperative agents in multi-agent systems. We argue that this Monitor is generic since it not only supports different styles of cooperation but also supports sophisticated local task scheduling which is necessary for real-time applications. Even more important, all the domain-dependent knowledge needed for making these two kinds of reasoning possible, is dynamically accessed during runtime. These features make our Monitor to be an effective as well as general control frame. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Reid G. Smith, Randall Davis, </author> <title> "Frameworks for Cooperation in Distributed Problem Solving", </title> <journal> IEEE Trans. Syst., Man, Cybern., </journal> <volume> vol. SMC-11, </volume> <month> Jan. </month> <year> 1981 </year>
+Reference: [2] <author> Edmund H. Durfee, Victor R. Lesser, </author> <title> "Using Parial Global Plans to Coordinate Distributed Problem Solvers", </title> <booktitle> Proceedings of IJCAI-87, </booktitle> <year> 1987 </year>
+Reference: [3] <author> Edmund H. Durfee, </author> <title> "A Unified Approach to Dynamic Coordination: Planning Actions and Interactions in a Distributed Problem Solving Network", </title> <type> COINS Technical Report 87-84, </type> <institution> Univ. of Massachusetts at Amherst, </institution> <year> 1987 </year>
+Reference: [4] <author> Rajendra Dodhiawala, N.S. Sridharan, Peter Raulefs, Cynthia Pickering, </author> <title> "Real-Time Systems: A Definition and An Architecture", </title> <booktitle> Proceedings of IJCAI-89, </booktitle> <address> Detroit, </address> <year> 1989 </year>
+Reference: [5] <author> C. Roda, N. Jenning, </author> <title> E.H. Mamdani, "A Cooperation Framework for Industrial Process Control", </title> <booktitle> Proc. of Cooperation Knowledge Based Systems, </booktitle> <address> U.K., </address> <year> 1990 </year>
+Reference: [6] <author> Victor R. Lesser, Daniel D. Corkill, Robert C. Whitehair and Joseph A. Hernandez, </author> <title> "Focus of Control Through Goal Relationships", </title> <booktitle> Proc. IJCAI-89, </booktitle> <address> Detroit, </address> <year> 1989 </year>
+Reference: [7] <author> Daniel D. Corkill, Kevin Q. Gallagher, </author> <title> "Tuning A Blackboard-based Application: A case study using GBB", </title> <booktitle> Proc. AAAI-88, </booktitle> <year> 1988 </year>
+Reference: [8] <author> Barbara Hayes-Roth, Richard Washington and Adam Seiver, </author> <title> "Intelligent Monitoring and Control", </title> <booktitle> Proc. IJCAI-89, </booktitle> <address> Detroit, </address> <year> 1989 </year>
+Reference: [9] <author> Edmund H. Durfee, Victor R. Lesser and Daniel D. Corkill, </author> <title> "Coherent Cooperation Among Communicating Problem Solvers", </title> <journal> IEEE Trans. Computers C-36, </journal> <year> 1987 </year>
+Reference: [10] <author> Randall Davis, Reid G. Smith, </author> <title> "Negotiation as a Metaphor for Distributed Problem Solving", </title> <booktitle> Artifical Intelligence 20, </booktitle> <year> 1983 </year>
+Reference: [11] <author> Edmund H. Durfee, Victor R. Lesser and Daniel D. Corkill, </author> <title> "Coherent Cooperation Among Communicating Problem Solvers", </title> <journal> IEEE Trans. Computers, </journal> <volume> VOL. C-36, NO. 11. </volume> <month> Nov., </month> <year> 1987 </year>
+Reference: [12] <author> Eugnio Oliveira, Long Qiegang, Rui Camacho, </author> " <title> Controlling Cooperative Experts in a Real-Time System", </title> <booktitle> Proc. of the Third International Conference on Software Engineering for Real Time Systems, </booktitle> <address> U.K., </address> <year> 1991 </year>
+Reference: [13] <author> Eugnio Oliveira, R. Camacho, C. Ramos, </author> <title> "A Multi-agent Environment in Robotics", to be published in Robotica, </title> <booktitle> International Journal of Reaserch in Robotics and AI, </booktitle> <publisher> Cambridge University Press, </publisher> <year> 1991 </year> <month> 16 </month>
+References-found: 13
+

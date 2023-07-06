@@ -1,0 +1,22 @@
+URL: http://www.research.att.com/~schapire/papers/SchapireWa94.ps.Z
+Refering-URL: http://www.research.att.com/~schapire/publist.html
+Root-URL: 
+Email: schapire@research.att.com  manfred@cse.ucsc.edu  
+Title: Machine Learning, 22(1/2/3):95-121, 1996. On the Worst-case Analysis of Temporal-difference Learning Algorithms  
+Author: ROBERT E. SCHAPIRE MANFRED K. WARMUTH Editor: Leslie Pack Kaelbling 
+Keyword: machine learning, temporal-difference learning, on-line learning, worst-case analysis  
+Address: 600 Mountain Avenue, Room 2A-424, Murray Hill, NJ 07974  Santa Cruz, CA 95064  
+Affiliation: AT&T Bell Laboratories,  Computer and Information Sciences, University of California,  
+Abstract: We study the behavior of a family of learning algorithms based on Sutton's method of temporal differences. In our on-line learning framework, learning takes place in a sequence of trials, and the goal of the learning algorithm is to estimate a discounted sum of all the reinforcements that will be received in the future. In this setting, we are able to prove general upper bounds on the performance of a slightly modified version of Sutton's so-called TD() algorithm. These bounds are stated in terms of the performance of the best linear predictor on the given training sequence, and are proved without making any statistical assumptions of any kind about the process producing the learner's observed training sequence. We also prove lower bounds on the performance of any algorithm for this learning problem, and give a similar analysis of the closely related problem of learning to predict in a model in which the learner must produce predictions for a whole batch of observations before receiving reinforcement. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Nicol o Cesa-Bianchi, Philip M. Long, and Manfred K. Warmuth. </author> <title> Worst-case quadratic loss bounds for a generalization of the Widrow-Hoff rule. </title> <booktitle> In Proceedings of the Sixth Annual ACM Conference on Computational Learning Theory, </booktitle> <pages> pages 429-438, </pages> <month> July </month> <year> 1993. </year>
+Reference: <author> Peter Dayan. </author> <title> The convergence of T D() for general . Machine Learning, </title> 8(3/4):341-362, May 1992. 
+Reference: <author> Peter Dayan and Terrence J. Sejnowski. </author> <title> T D() convergeswith probability 1. </title> <journal> MachineLearning, </journal> <volume> 14(3) </volume> <pages> 295-301, </pages> <year> 1994. </year>
+Reference: <author> Roger A. Horn and Charles R. Johnson. </author> <title> Matrix Analysis. </title> <publisher> Cambridge University Press, </publisher> <year> 1985. </year>
+Reference: <author> Tommi Jaakkola, Michael I. Jordan, and Satinder P. Singh. </author> <title> On the convergence of stochastic iterative dynamic programming algorithms. </title> <type> Technical Report 9307, </type> <institution> MIT Computational Cognitive Science, </institution> <month> July </month> <year> 1993. </year>
+Reference: <author> Jyrki Kivinen and Manfred K. Warmuth. </author> <title> Additive versus exponentiated gradient updates for learning linear functions. </title> <type> Technical Report UCSC-CRL-94-16, </type> <institution> University of California Santa Cruz, Computer Research Laboratory, </institution> <year> 1994. </year>
+Reference: <author> Richard S. Sutton. </author> <title> Learning to predict by the methods of temporal differences. </title> <journal> Machine Learning, </journal> <volume> 3 </volume> <pages> 9-44, </pages> <year> 1988. </year>
+Reference: <author> C. J. C. H. Watkins. </author> <title> Learning from delayed rewards. </title> <type> PhD thesis, </type> <institution> University of Cambridge, </institution> <address> England, </address> <year> 1989. </year>
+References-found: 8
+

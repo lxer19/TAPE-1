@@ -1,0 +1,21 @@
+URL: ftp://ftp.cs.umass.edu/pub/anw/pub/duff/acc.ps.Z
+Refering-URL: http://www-anw.cs.umass.edu/People/duff/duff_papers.html
+Root-URL: 
+Title: Solving Bellman's Equation by the Method of Continuity  N X  
+Author: Michael Duff P u (i; j)v(j) 
+Keyword: or homotopy). Root-finding procedure Algorithmic conseqences for Bellman's equation Successive Approximation Value Iteration Newton-Kantorovitch Policy Improvement Continuation/Homotopy  
+Note: F (v(i)) max 2  
+Address: Amherst, MA 01003  
+Affiliation: Department of Computer Science University of Massachusetts  
+Email: duff@cs.umass.edu  
+Phone: 413-545-1596  
+Abstract: 5 v(i) = 0: One is naturally led to consider what new computational methods might be suggested by adopting alternative root-finding procedures. This paper summarizes an investigation of the consequences of adopting one particular root-finding scheme called the method of continuity (also known as the method of imbedding 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> J. M. Ortega and W. </author> <title> Rheinboldt Iterative Solution of Nonlinear Equations in Several Variables, </title> <year> 1970. </year>
+Reference-contexts: The optimal value function satisfies Bellman's optimality equation (1), and the optimal policy is greedy with respect to it. 2. The Method of Continuity and an Imbedding for Bellman's Equation Suppose that the nonlinear equation to be solved is F (x) = 0. In the method of continuity <ref> [1] </ref>, one constructs a function G (x; ), where is a real parameter, such that when = 1 , G (x; 1 ) = F (x), and when = 0 , G (x; 0 ) is an equation that is easily solved.
+Reference: [2] <author> M. L. Puterman and S. L. Brumelle, </author> <title> "The Analytic Theory of Policy Iteration,"in Dynamic Programming and Its Applications, M.L. </title> <editor> Puterman ed., </editor> <year> 1978. </year>
+Reference: [3] <author> E. Seneta, </author> <title> Non-Negative Matrices, </title> <year> 1973. </year>
+Reference-contexts: 1 in equation (5) and assuming nonegative rewards, is to solve (M I ffP)v = R; where P P P The existence of a solution for every ff; 0 ff &lt; 1 is guaranteed by utilizing results from the Perron Frobenius theory for irreducible matrices, particularly the "Subinvariance Theorem" of <ref> [3] </ref>.
+References-found: 3
+

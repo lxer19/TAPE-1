@@ -1,0 +1,25 @@
+URL: ftp://ftp.cs.umd.edu/pub/papers/papers/3324/3324.ps.Z
+Refering-URL: http://www.cs.umd.edu/TRs/TR.html
+Root-URL: 
+Email: perlis@cs.umd.edu  
+Title: An Error-Theory of Consciousness  
+Author: Don Perlis AV Williams Bldg 
+Note: Work done with partial support from the Army Research Office (DAAH0494G0238).  
+Address: College Park, MD 20742  
+Affiliation: Institute for Advanced Computer Studies Computer Science Department  University of Maryland  
+Date: July 19, 1994  
+Pubnum: CS-TR-3324  UMIACS-TR-94-91  
+Abstract: I argue that consciousness is an aspect of an agent's intelligence, hence of its ability to deal adaptively with the world. In particular, it allows for the possibility of noting and correcting the agent's own errors. This in turn requires a robust self model as part of its world model, as well as the capability to come to see that world model as residing in its belief base (part of its self model), while then representing the actual world as possibly different, i.e., forming a new world model. This suggests particular computational mechanisms by which consciousness occurs, ones that conceivably could be discovered by neuroscientists, as well as built into artificial systems that may need such capabilities. Consciousness, then, would not be an epiphenomenon at all, but rather a key part of the functional architecture of suitably intelligent agents, hence Note: this paper will appear as a chapter in -"em Toward a Scientific Basis for Consciousness-, edited by Stuart Hameroff et al, MIT Press. amenable to study as much as any other architectural feature.
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> F. Crick. </author> <title> The astonishing hypothesis. </title> <address> Scribners, </address> <year> 1994. </year>
+Reference: [2] <author> D. Dennett. Consciousness explained. Little, Brown, </author> <year> 1991. </year>
+Reference: [3] <author> J. Flavell, F. Green, and E. Flavell. </author> <title> Development of knowledge about the appearance-reality distinction. Society for Research in Child Development Monographs, </title> <booktitle> 51, 1986. </booktitle> <volume> No. 1, Series No. </volume> <pages> 212. </pages>
+Reference: [4] <author> D. Perlis. </author> <title> Putting one's foot in one's head|part II: How. </title> <editor> In E. Dietrich, editor, </editor> <title> From Thinking Machines to Virtual Persons: </title> <booktitle> Essays on the Intentionality of Computers. </booktitle> <publisher> Academic Press. To appear. </publisher>
+Reference: [5] <author> D. Perlis. </author> <booktitle> How can a program mean? In Proceedings of the 10th Int'l Joint Conference on Artificial Intelligence, </booktitle> <pages> pages 163-166, </pages> <year> 1987. </year>
+Reference: [6] <author> D. Perlis. </author> <title> Intentionality and defaults. </title> <journal> International J. of Expert Systems, </journal> <volume> 3 </volume> <pages> 345-354, </pages> <year> 1990. </year> <title> special issue on the Frame Problem, </title> <editor> K. Ford and P. </editor> <publisher> Hayes (eds.). </publisher>
+Reference: [7] <author> D. Perlis. </author> <title> Putting one's foot in one's head|part I: Why. </title> <journal> No^us, </journal> <volume> 25 </volume> <pages> 435-455, </pages> <year> 1991. </year> <journal> Special issue on Artificial Intelligence and Cognitive Science. </journal>
+Reference: [8] <author> J. Perry. </author> <title> The problem of the essential indexical. </title> <journal> Nous, </journal> <volume> 13 </volume> <pages> 3-21, </pages> <year> 1979. </year>
+Reference: [9] <author> J. Searle. </author> <title> Minds, brains, and programs. </title> <journal> Behavioral and Brain Sciences, </journal> <volume> 3 </volume> <pages> 417-424, </pages> <year> 1980. </year> <month> 8 </month>
+References-found: 9
+

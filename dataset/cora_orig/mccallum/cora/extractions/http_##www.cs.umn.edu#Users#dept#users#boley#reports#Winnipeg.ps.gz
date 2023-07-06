@@ -1,0 +1,31 @@
+URL: http://www.cs.umn.edu/Users/dept/users/boley/reports/Winnipeg.ps.gz
+Refering-URL: http://www.cs.umn.edu/Users/dept/users/boley/reports/
+Root-URL: http://www.cs.umn.edu
+Phone: 2  
+Title: A General Vandermonde Factorization of a Hankel Matrix  
+Author: Daniel Boley Franklin Luk David Vandevoorde 
+Address: Minneapolis MN 55455, USA  Troy NY 12180, USA  
+Affiliation: 1 University of Minnesota,  Rensselaer Polytechnic Institute,  
+Abstract: It is shown that an infinite Hankel matrix of a finite rank (or a finite Hankel matrix) admits a generalized Vandermonde decomposition H = V T DV , where V is a generalized Vandermonde matrix, and D is a block diagonal matrix. The full structure of this decomposition was first fully discussed by Vandevoorde [9], but the development here is based solely on linear algebra considerations, specifically the use of the Jordan Canonical Form. 
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> D. Boley, F. Luk, and D. Vandevoorde. </author> <title> Factorization of hankel matrices. </title> <booktitle> In Workshop on Scientific Computing 97, </booktitle> <month> March </month> <year> 1997. </year> <institution> Hong Kong, </institution> <note> (to appear). </note>
+Reference-contexts: These latter two situations deserve further study and analysis. A later paper will report on a fast algorithm to compute this decomposition which has been developed by Vandevoorde [9] and briefly described in <ref> [1] </ref>, based on the Lanczos techniques in [7, 2]. 9
+Reference: 2. <author> D. L. Boley, T. J. Lee, and F. T. Luk. </author> <title> The Lanczos algorithm and Hankel matrix factorization. </title> <journal> Lin. Alg. & Appl., </journal> <volume> 172 </volume> <pages> 109-133, </pages> <year> 1992. </year>
+Reference-contexts: These latter two situations deserve further study and analysis. A later paper will report on a fast algorithm to compute this decomposition which has been developed by Vandevoorde [9] and briefly described in [1], based on the Lanczos techniques in <ref> [7, 2] </ref>. 9
+Reference: 3. <author> J. Cadzow. </author> <title> Signal enhancement a composite property mapping algorithm. </title> <journal> IEEE Trans. Acoust., Speech., Sig. Proc., </journal> <volume> 36 </volume> <pages> 49-62, </pages> <year> 1988. </year>
+Reference-contexts: We remark that this problem differs from that of finding the nearby Han-kel matrix of lower rank by means of the algorithm of Cadzow <ref> [3] </ref> in that the difference matrix H e H may not be rank one, and generally has full rank. Suppose there is a solution to Problem P1.
+Reference: 4. <author> F. R. Gantmacher. </author> <title> Theory of Matrices. </title> <publisher> Chelsea, </publisher> <address> New York, </address> <year> 1959. </year>
+Reference-contexts: We begin with some preliminaries, then show how the general structure of the decomposition can be derived using the Jordan canonical form, and conclude with a discussion of the finite dimensional case. Regarding infinite Hankel matrices of finite rank, we have the following theorem from Gantmacher <ref> [4, vol. 2, p207] </ref>: Theorem 1. Let H 1 be an infinite Hankel matrix of rank r.
+Reference: 5. <author> G. H. Golub and C. F. Van Loan. </author> <title> Matrix Computations. </title> <publisher> Johns Hopkins Univ. Press, 3rd edition, </publisher> <year> 1996. </year>
+Reference-contexts: This naturally leads one to expect that the generalization of the Vandermonde decomposition H 1 = V T 1 DV 1 will consist of a confluent Vandermonde matrix <ref> [5] </ref> whose rows have the form in (6). That still leaves open the structure arising in D. This we develop in the next section. 2 2 General Vandermonde Decomposition Assume the matrix H 1 of equ. (1) has rank r.
+Reference: 6. <author> D. Kincaid and W. </author> <title> Cheney. Numerical Analysis. </title> <booktitle> Brooks/Cole, 2nd edition, </booktitle> <year> 1996. </year>
+Reference-contexts: It is also well known that (4) is a difference equation whose general solution [h 0 ; h 1 ; h 2 ; ] is a linear combination of solutions of the form <ref> [6, p. 33] </ref>: ( 1 l 2 l ) = ( 1 l 2 l ) d l ( 1 l 2 l ) = ( 0 1 2 l 3 2 1 d 2 l l 3 . . . 1 d m l 1 l l 3 m l
+Reference: 7. <author> J. L. Phillips. </author> <title> The triangular decomposition of Hankel matrices. </title> <journal> Math. Comp., </journal> <volume> 25(115) </volume> <pages> 599-602, </pages> <year> 1971. </year>
+Reference-contexts: These latter two situations deserve further study and analysis. A later paper will report on a fast algorithm to compute this decomposition which has been developed by Vandevoorde [9] and briefly described in [1], based on the Lanczos techniques in <ref> [7, 2] </ref>. 9
+Reference: 8. <author> R. </author> <type> Prony. </type> <institution> Essai experimental et analytique sur les lois de la dilatabilite et sur celles de la force expansive de la vapeur de l'eau et de la vapeur de l'alkool, a differentes temperatures. J. de l' Ecole Polytechnique, </institution> <month> 1 </month> <pages> 24-76, 1795. </pages>
+Reference-contexts: Any such recurrence can be completely determined by choosing an extra parameter fl = h 2r1 by means of the "Yule-Walker" equations (originally found in Prony <ref> [8] </ref>): 0 B B h 0 h 1 h 2 h r1 . . . . . . . . . . . . h r1 h r h r+1 h 2r2 C C A B B @ a 1 . . . 1 C C = B B @ h
+Reference: 9. <author> D. Vandevoorde. </author> <title> A Fast Exponential Decomposition Algorithm and its Applications to Structured Matrices. </title> <type> PhD thesis, </type> <institution> Computer Science Department, Rensselaer Polytechnic Institute, </institution> <year> 1996. </year> <title> This article was processed using the L A T E X macro package with LLNCS style 10 </title>
+Reference-contexts: These latter two situations deserve further study and analysis. A later paper will report on a fast algorithm to compute this decomposition which has been developed by Vandevoorde <ref> [9] </ref> and briefly described in [1], based on the Lanczos techniques in [7, 2]. 9
+References-found: 9
+

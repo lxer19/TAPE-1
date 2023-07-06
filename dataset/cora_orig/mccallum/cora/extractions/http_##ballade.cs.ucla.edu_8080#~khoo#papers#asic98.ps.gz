@@ -1,0 +1,16 @@
+URL: http://ballade.cs.ucla.edu:8080/~khoo/papers/asic98.ps.gz
+Refering-URL: http://ballade.cs.ucla.edu:8080/~khoo/pub/pubs.htm
+Root-URL: http://www.cs.ucla.edu
+Title: EFFICIENT HIGH-SPEED CIC DECIMATION FILTER  
+Author: Kei-Yong Khoo, Zhan Yu and Alan N. Willson, Jr. 
+Address: Los Angeles, CA 90095  
+Affiliation: Integrated Circuits and Systems Laboratory University of California,  
+Abstract: This paper presents an efficient architecture for the first carry-save integrator stage in a high-speed CIC decimation filter based on exploiting the carry propagation properties in a carry-save accumulator. The architecture can reduce the number of registers (by 6.3% to 13.5% in our examples) and replace a large number of full-adders by half-adders (18% to 42% in our examples), thus saving area and power. Significant savings are achieved when the decimation rate is high and the number of integrator stages is small. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> E. Hogenauer, </author> <title> "An economical class of digital filters for decimation and interpolation," </title> <journal> IEEE Trans. Acoustics, Speech and Signal Proc., </journal> <pages> pp. 155-162, </pages> <month> April </month> <year> 1981. </year>
+Reference: [2] <author> R. Adams, G. Frenkil, D. Gottfried, and P. Pinelle, </author> <title> "A 20-bit decimator IC for high-resolution audio A/D conversion," </title> <booktitle> in Proc. IEEE Custom Integrated Circuits Conf., </booktitle> <pages> pp. </pages> <address> 20.3.1-20.3.4, </address> <month> May </month> <year> 1989. </year>
+Reference: [3] <author> A. Kwentus, O. Lee, and A. N. Willson, Jr., </author> <title> "A 250 Msample/sec programmable cascaded integrator-comb decimation filter," </title> <booktitle> in Proc. VLSI Signal Processing, IX, </booktitle> <pages> pp. 231-240, </pages> <address> Oct.-Nov. </address> <year> 1996. </year>
+Reference: [4] <author> M. Afghahi and C. Svensson, </author> <title> "A unified single-phase clocking scheme for VLSI systems," </title> <journal> IEEE J. Solid-State Circuits, </journal> <pages> pp. 225-233, </pages> <month> Feb. </month> <year> 1990. </year>
+References-found: 4
+

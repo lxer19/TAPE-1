@@ -1,0 +1,22 @@
+URL: ftp://ftp.cs.umd.edu/pub/papers/papers/3539/3539.ps.Z
+Refering-URL: http://www.cs.umd.edu/TRs/TR.html
+Root-URL: 
+Title: The Complexity of Finding Most Vital Arcs and Nodes  
+Author: Amotz Bar-Noy Samir Khuller Baruch Schieber 
+Keyword: networks, graphs, NP-Complete, vital arcs.  
+Date: November 29, 1995  
+Address: Yorktown Heights, NY 10598  College Park, MD 20742  Yorktown Heights, NY 10598  
+Affiliation: IBM Research Division Thomas J. Watson Research Center  Dept. of Computer Science University of Maryland  IBM Research Division Thomas J. Watson Research Center  
+Abstract: Let G(V; E) be a graph (either directed or undirected) with a non-negative length `(e) associated with each arc e in E. For two specified nodes s and t in V , the k most vital arcs (or nodes) are those k arcs (nodes) whose removal maximizes the increase in the length of the shortest path from s to t. We prove that finding the k most vital arcs (or nodes) is NP-hard, even when all arcs have unit length. We also correct some errors in an earlier paper by Malik, Mittal and Gupta [ORL 8:223-227, 1989]. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> M.O. Ball, B.L. Golden, and R.V. Vohra. </author> <title> Finding most vital arcs in a network. </title> <journal> Operations Research Letters, </journal> <volume> 8 </volume> <pages> 73-76, </pages> <month> April </month> <year> 1989. </year>
+Reference-contexts: The MVAP and MVNP were defined and motivated by Corley and Sha [2]. They gave some preliminary results including a polynomial time algorithm for the single most vital arc problem (i.e., the case k = 1). Ball, Golden, and Vohra <ref> [1] </ref> considered a generalization of the MVAP in which associated with each arc e is a cost c (e) of removing it, and the goal is to find the set of arcs with total cost not exceeding a given budget whose removal maximizes the increase in the length of the shortest
+Reference: [2] <author> H.W. Corley and D.Y Sha. </author> <title> Most vital links and nodes in weighted networks. </title> <journal> Operations Research Letters, </journal> <volume> 1 </volume> <pages> 157-160, </pages> <month> September </month> <year> 1982. </year>
+Reference-contexts: Clearly, this implies that MVAP and MVNP are strongly NP-Hard. The MVAP and MVNP were defined and motivated by Corley and Sha <ref> [2] </ref>. They gave some preliminary results including a polynomial time algorithm for the single most vital arc problem (i.e., the case k = 1).
+Reference: [3] <author> M.R. Garey and D.S. Johnson. </author> <title> Computers and Intractability. W.H. </title> <publisher> Freeman and Co., </publisher> <address> New York, NY, </address> <year> 1979. </year>
+Reference-contexts: We then extend the proof to directed graphs and for the Decision-MVNP. The proof is by reducing the Node Cover Decision Problem (Decision-NCP) to the Decision-MVAP for undirected graphs with unit length arcs. The Decision-NCP is defined as follows (see, e.g., <ref> [3] </ref>).
+Reference: [4] <author> K. Malik, A.K. Mittal, and S.K. Gupta. </author> <title> The k most vital arcs in the shortest path problem. </title> <journal> Operations Research Letters, </journal> <volume> 8 </volume> <pages> 223-227, </pages> <month> April </month> <year> 1989. </year> <month> 7 </month>
+Reference-contexts: Malik, Mittal, and Gupta <ref> [4] </ref> described an exponential time algorithm for MVAP with arbitrary k. However, this algorithm seems to be fallacious as shown in Section 3. They also proposed an efficient algorithm for the single most vital arc problem for undirected graphs. However the proof of this algorithm has an error. <p> Since clearly Decision-MVAP and Decision-MVNP belong to NP, we proved the following theorem: Theorem 2.3: The Decision-MVAP and Decision-MVNP are NP-Complete even when all arcs have unit length. 5 3. The counter example In this section we describe a counter example to the algorithm for the MVAP proposed in <ref> [4] </ref>. Given a graph G = (V; E), two specified nodes s and t, and a positive integer k, this algorithm enumerates all the paths from s to t in an increasing order of length. Denote these paths by P 1 ; P 2 ; : : :. <p> Whereas, after removing the edges (s; c) and (c; t) the length of the shortest s t path is four. 4. Correct proof for the Algorithm The proof of correctness given in <ref> [4] </ref> relies on the following erroneous claim: Let T be a tree of shortest paths from s to all the nodes and let P be the shortest s t path in T .
+References-found: 4
+

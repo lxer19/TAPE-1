@@ -1,0 +1,14 @@
+URL: http://www.icsi.berkeley.edu/ftp/global/pub/techreports/1995/tr-95-063.ps.gz
+Refering-URL: http://www.icsi.berkeley.edu/ftp/global/pub/techreports/1995/
+Root-URL: http://www.icsi.berkeley.edu
+Title: List of Figures 1 Performance of the dot product routines versus the vector length 16
+Keyword: List of Tables  
+Note: These figures are the maxi  27  
+Abstract: mum values found over 100 tests : : : : : : : : : : : : : : : : : : : : : : : : : : : : : 18 4 Saturation occurring by varying input MSB exponent versus the vector length : : : : 19 5 FFT algorithm : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : 21 1 RASTA-PLP parameters used in all the experiments : : : : : : : : : : : : : : : : : : 5 2 Compiling options used in four different experiments : : : : : : : : : : : : : : : : : : 8 3 Run-times for a particular RASTA benchmark (in seconds) : : : : : : : : : : : : : : 9 4 Time percentage of the total running time for the different functions : : : : : : : : : 10 5 Run times for the sparc20 experiment, with and without library functions (in seconds) 11 6 Order of magnitude of the output data ranges of stages of RASTA processing : : : : 17 7 Optimal exponents for several vector lengths : : : : : : : : : : : : : : : : : : : : : : 19 8 Execution time (in cycles) and utilization for some DFT32xN routines : : : : : : : : 22 9 Execution time (in cycles) and utilization for some DFTNx32 routines : : : : : : : : 22 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> J. Wawrzynek, K. Asanovic, B. Kingsbury, J. Beck, D. Johnson, and N. Morgan. SPERT-II: </author> <title> a vector microprocessor system and its application to large problems in backpropagation training. </title> <note> Submitted to NIPS 95 </note>
+Reference: [2] <author> K. Asanovic and D. Johnson. </author> <title> Torrent Architecture Manual </title>
+
+References-found: 2
+

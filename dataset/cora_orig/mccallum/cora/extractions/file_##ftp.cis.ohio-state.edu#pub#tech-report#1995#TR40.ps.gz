@@ -1,0 +1,33 @@
+URL: file://ftp.cis.ohio-state.edu/pub/tech-report/1995/TR40.ps.gz
+Refering-URL: ftp://ftp.cis.ohio-state.edu/pub/tech-report/TRList.html
+Root-URL: 
+Email: Email: fujimura@cis.ohio-state.edu  
+Phone: Phone: 614-292-6730 Fax: 614-292-2911  
+Title: Search in Temporal Domains  
+Author: Kikuo Fujimura 
+Keyword: search algorithms, best-first search, time-dependent graphs.  
+Address: 2015 Neil Avenue, Columbus, OH 43210 USA  
+Affiliation: Department of Computer and Information Science The Ohio State University  
+Abstract: Best-first search algorithms have been widely used to find a minimum cost path in graph search. To formulate certain problems involving temporal events, it is at times instrumental to use graphs whose edge costs are time-dependent. In such a graph, shortest paths are dependent on time at which traversal in the graph begins. Typically, structural changes in t occur at discrete points in t, where t is the shortest path with start time t. In this paper, a best-first algorithm is generalized to handle time-dependent graphs to find shortest paths together with their start time characteristics and some properties of the algorithm are investigated. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> J. Allen. </author> <title> Maintaining knowledge about temporal intervals. </title> <journal> Communications of the ACM, </journal> <volume> 26(11) </volume> <pages> 832-843, </pages> <year> 1983. </year>
+Reference: [2] <author> R. Dechter, I. Meiri, and J. Pearl. </author> <title> Temporal constraint networks. </title> <journal> Artificial Intelligence, </journal> <volume> 49 </volume> <pages> 61-95, </pages> <year> 1991. </year>
+Reference: [3] <author> K. Fujimura and H. Samet. </author> <title> Planning a time-minimal motion among moving obstacles. </title> <journal> Algo-rithmica, </journal> <volume> 10 </volume> <pages> 41-63, </pages> <year> 1993. </year>
+Reference: [4] <author> S. Ghosh, A. Mahanti, and D. Nau. </author> <title> Its: An efficient limited-memory heuristic tree search algorithm. </title> <booktitle> In AAAI, </booktitle> <year> 1994. </year> <month> 15 </month>
+Reference-contexts: In fact, TDS could not produce solutions for the time-varying TSP with more than several nodes because of the memory limitation. To overcome this problem, search methods with limited space have been investigated by a number of researchers <ref> [8, 4, 14] </ref>. Some of the ideas are adaptable to TDS. For example, the iterative-deepening scheme may be applied by using cy as the cutoff value in depth-first search.
+Reference: [5] <author> J. Halpern. </author> <title> The shortest route with time dependent length of edges and limited delay possi-bilities in nodes. </title> <journal> Zeitschrift Operations Research, </journal> <volume> 21 </volume> <pages> 117-124, </pages> <year> 1977. </year>
+Reference: [6] <author> T. Ishida and R. Korf. </author> <title> Moving target search. </title> <booktitle> In AAAI, </booktitle> <pages> pages 204-210, </pages> <year> 1990. </year>
+Reference-contexts: Some properties described in Section 3 need revision. For example, when TDS terminates with cy &gt; YMAX, some paths found so far to node N may not necessarily be shortest paths to N . Ishida and Korf <ref> [6] </ref> have studied a real time search algorithm under the assumption 14 that heuristic values can change over time due to a moving target point.
+Reference: [7] <editor> L. Kanal and V. Kumar, editors. </editor> <booktitle> Search in Artificial Intelligence. </booktitle> <publisher> Springer-Verlag, </publisher> <year> 1988. </year>
+Reference: [8] <author> R.E. Korf. </author> <title> Depth first iterative deepening: An optimal admissible tree search. </title> <journal> Artificial Intelligence, </journal> <volume> 27 </volume> <pages> 97-109, </pages> <year> 1985. </year>
+Reference-contexts: In fact, TDS could not produce solutions for the time-varying TSP with more than several nodes because of the memory limitation. To overcome this problem, search methods with limited space have been investigated by a number of researchers <ref> [8, 4, 14] </ref>. Some of the ideas are adaptable to TDS. For example, the iterative-deepening scheme may be applied by using cy as the cutoff value in depth-first search.
+Reference: [9] <author> J. Latombe. </author> <title> Robot Motion Planning. </title> <publisher> Kluwer Academic Pulishers, </publisher> <address> Boston, MA, </address> <year> 1991. </year>
+Reference: [10] <author> N. Nilsson. </author> <booktitle> Principles of Artificial Intelligence. </booktitle> <publisher> Tioga Publishing, </publisher> <address> Palo Algo, CA, </address> <year> 1980. </year>
+Reference: [11] <author> N. Nilsson. </author> <title> A mobile automaton: </title> <booktitle> An application of artificial intelligence techniques. In AAAI, </booktitle> <pages> pages 509-520, </pages> <year> 1991. </year>
+Reference: [12] <author> A. Orda and R. </author> <title> Rom. Shortest-path and minimum-delay algorithms in networks with time-dependent edge-length. </title> <journal> Journal of the ACM, </journal> <volume> 37(3) </volume> <pages> 607-625, </pages> <month> July </month> <year> 1990. </year>
+Reference: [13] <author> J. Pearl. </author> <title> Heuristics: Intelligent Search Strategies for Computer Problem Solving. </title> <publisher> Addison-Wesley, </publisher> <year> 1984. </year>
+Reference: [14] <author> U.K. Sarkar, P.P. Chakrabarti, S. Ghosh, , and S.C. De Sarkar. </author> <title> Reducing reexpansions in iterative deepening search by controlling cutoff bounds. </title> <journal> Artificial Intelligence, </journal> <volume> 50(2) </volume> <pages> 207-221, </pages> <year> 1991. </year>
+Reference-contexts: In fact, TDS could not produce solutions for the time-varying TSP with more than several nodes because of the memory limitation. To overcome this problem, search methods with limited space have been investigated by a number of researchers <ref> [8, 4, 14] </ref>. Some of the ideas are adaptable to TDS. For example, the iterative-deepening scheme may be applied by using cy as the cutoff value in depth-first search.
+References-found: 14
+

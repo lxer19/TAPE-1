@@ -1,0 +1,15 @@
+URL: ftp://ftp.cs.unc.edu/pub/users/sc/COMP122-F96/hw11-ans.PS.Z
+Refering-URL: http://www.cs.unc.edu/~sc/teaching/COMP122-F1996/homework.html
+Root-URL: http://www.cs.unc.edu
+Title: COMP 122: Algorithms and Analysis Solutions to Problem Set 11 Practice problems No practice problems
+Author: Siddhartha Chatterjee n X n X (P(j ) P(n j)); n &gt; : 
+Address: 1)  
+Affiliation: T(j  
+Note: C(0) 0: 2 n X C(j 1); n &gt; 0:  for n &gt; 0, with T(0)  P(0) 0:  P(n) 1 n j=1  
+Date: Fall 1996  2  0.  
+Pubnum: n!C(j 1)  
+Abstract: H-1 a. Write down a recurrence for the total number of comparisons used by quicksort on all n! permutations of n elements. Solution: We start with the recurrence for the average number of comparisons for n-element input arrays: b. Write down a recurrence for the average number of calls to the partition routine in quicksort for input arrays containing n distinct elements, assuming that all n! permutations are equally likely. Solve the recurrence. Solution: Let P(n) be the average number of calls to the partition routine in quicksort for n-element arrays. Then we have the following recurrence. We solve this recurrence similar to the way we solve the recurrence for the average number of comparisons. First, we change variables and rewrite it as 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

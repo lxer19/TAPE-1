@@ -1,0 +1,15 @@
+URL: http://www.cs.unc.edu/~wynn/pubs/Dagstuhl97/dagstuhl.ps.gz
+Refering-URL: http://www.cs.unc.edu/~wynn/pubs/
+Root-URL: http://www.cs.unc.edu
+Email: E-mail: wynn@cs.unc.edu  E-mail: fbarnes,hamanng@cs.ucdavis.edu  E-mail: miller86@llnl.gov  
+Phone: 2  3  
+Title: 3. Multiresolution and Adaptive Rendering Techniques for Structured, Curvilinear Data  
+Author: William C. Wynn J. Fritz Barnes Bernd Hamann ; Mark Miller 
+Affiliation: Center for Image Processing and Integrated Computing (CIPIC), Department of Computer Science, University of California, Davis,  Co-Director of CIPIC and Visualization Thrust Leader 4 Lawrence Livermore National Laboratory, University of California, Livermore,  
+Address: 27599-3175 USA.  CA 95616-8562 USA.  CA 94551 USA.  
+Note: 3.1 Introduction  
+Abstract: In many applications one is concerned with techniques for visualizing data sets with real-time interaction. One technique for providing real-time performance is through the use of multiresolution techniques. These techniques provide multiple representations of a data set at different levels of detail. The idea is to select a level of detail that can be rendered within the user's time constraints. We discuss a mechanism which renders finer-detailed representations where the data set has a high frequency, and coarser representations where the data set has lower frequency. We present a new technique for storing curvilinear data sets within a quadtree representation and discuss two rendering schemes: an anti-aliasing scheme and a scheme for maintaining a specified frame rate. Novel approaches allowing interactive, real-time visualization are becoming increasingly important due to recent increases in data set sizes. Currently, there is a need to visualize data sets on the order of 10 6 zones and in the near future simulations will be performed for more than 10 9 zones. We are concerned with the development of methods which allow for the rapid analysis of such large data sets. The techniques we present are fundamental, and the hierarchical quadtree data representation we discuss could be used for many common visualization methods. We demonstrate our hierarchy's effectiveness for pseudo-color rendering (i.e., shading zones based on associated function values) and mesh-line rendering (i.e., outlining each zone's boundary segments.) 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

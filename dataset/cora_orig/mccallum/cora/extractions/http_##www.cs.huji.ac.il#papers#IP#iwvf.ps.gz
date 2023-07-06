@@ -1,0 +1,27 @@
+URL: http://www.cs.huji.ac.il/papers/IP/iwvf.ps.gz
+Refering-URL: http://www.cs.huji.ac.il/papers/IP/index.html
+Root-URL: 
+Title: CONTINUOUS SYMMETRY FOR SHAPES  
+Author: Hagit Zabrodsky and Shmuel Peleg David Avnir 
+Address: 91904 Jerusalem, Israel  
+Affiliation: Institute of Computer Science and  Departmenet of Organic Chemistry The Hebrew University of Jerusalem  
+Abstract: Symmetry is treated as a continuous feature, and the Symmetry Distance (SD) of a shape is defined to be the minimum distance required to move points of the original shape in order to obtain a symmetrical shape. This general definition of a symmetry measure enables a comparison of the "amount" of symmetry of different shapes and the "amount" of different symmetries of a single shape. The measure is applicable to any type of symmetry in any dimension. The Symmetry Distance gives rise to a method of reconstructing symmetry of occluded shapes. We extend the method to deal with symmetries of noisy and fuzzy data. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> J.L. Amoros, M.J. Buerger, and M.Canut de Amoros. </author> <title> The Laue Method. </title> <publisher> Academic Press, </publisher> <address> New York, </address> <year> 1975. </year>
+Reference: [2] <author> F. Attneave. </author> <title> Symmetry information and memory for patterns. </title> <journal> American Journal of Psychology, </journal> <volume> 68 </volume> <pages> 209-222, </pages> <year> 1955. </year>
+Reference-contexts: 1 Introduction One of the basic features of shapes and objects is symmetry. Symmetry is considered a pre-attentive feature which enhances recognition and reconstruction of shapes and objects <ref> [2] </ref>. Symmetry is also an important parameter in physical and chemical processes and is an important criterion in medical diagnosis.
+Reference: [3] <author> M. H. </author> <title> DeGroot. Probability and Statistics. </title> <publisher> Addison-Wesley, </publisher> <address> Reading, MA, </address> <year> 1975. </year>
+Reference: [4] <author> W. Miller. </author> <title> Symmetry Groups and their Applications. </title> <publisher> Academic Press, </publisher> <address> London, </address> <year> 1972. </year>
+Reference-contexts: However, the exact a. b. c. a) Original image. b) Right half of original image and its reflection. c) Left half of original image and its reflection. mathematical definition of symmetry <ref> [4, 6] </ref> is inadequate to describe and quantify the symmetries found in the natural world nor those found in the visual world (a classic example is that of faces see Fig. 1).
+Reference: [5] <author> F. Mokhatarian and A. Mackworth. </author> <title> A theory of multiscale, curvature-based shape representation for planar curves. </title> <journal> IEEE Trans. on Pattern Analysis and Machine Intelligence, </journal> <volume> 14 </volume> <pages> 789-805, </pages> <year> 1992. </year>
+Reference: [6] <author> H. </author> <title> Weyl. Symmetry. </title> <publisher> Princeton Univ. Press, </publisher> <year> 1952. </year>
+Reference-contexts: However, the exact a. b. c. a) Original image. b) Right half of original image and its reflection. c) Left half of original image and its reflection. mathematical definition of symmetry <ref> [4, 6] </ref> is inadequate to describe and quantify the symmetries found in the natural world nor those found in the visual world (a classic example is that of faces see Fig. 1).
+Reference: [7] <author> H. Zabrodsky and D. Avnir. </author> <title> Measuring symmetry in structural chemistry. </title> <editor> In I. Har-gittai, editor, </editor> <booktitle> Advanced Molecular Structure Research, </booktitle> <volume> volume 1. </volume> <year> 1993. </year>
+Reference: [8] <author> H. Zabrodsky, S. Peleg, and D. Avnir. </author> <title> Continuous symmetry measures, IV: </title> <journal> Chirality. </journal> <note> In Preparation. </note>
+Reference: [9] <author> H. Zabrodsky, S. Peleg, and D. Avnir. </author> <title> Continuous symmetry measures II: Symmetry groups and the tetrahedron. </title> <journal> J. Am. Chem. Soc., </journal> <volume> 115 </volume> <pages> 8278-8289, </pages> <year> 1993. </year>
+Reference-contexts: The normalization presents an upper bound of on the mean squared distance moved by points of the shape. Thus the SD value is limited in range, where SD=0 for perfectly symmetric shapes (see Appendix in <ref> [9] </ref>).
+Reference: [10] <author> H. Zabrodsky, S. Peleg, and D. Avnir. </author> <title> Continuous symmetry measures. </title> <journal> J. Am. Chem. Soc., </journal> <volume> 114 </volume> <pages> 7843-7851, </pages> <month> Sept </month> <year> 1992. </year>
+Reference-contexts: Additionally we replace R i the rota tion matrix with R = sin 2 cos 2 the reflection about an axis at an angle to the x-axis. The angle is found analyticaly (see <ref> [10] </ref>) thus the dimensionality of the problem is 2q + 1 (rather than 2q + 2) and elimination of the last row and column of matrix U (see Sect 6.1) allows an inverse solution as in the rotational symmetry case.
+References-found: 10
+

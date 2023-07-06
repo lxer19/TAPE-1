@@ -1,0 +1,23 @@
+URL: http://www.cs.duke.edu/~jsv/Papers/PV93.terrains.ps.gz
+Refering-URL: http://www.cs.duke.edu/~jsv/Papers/catalog/node62.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: A SIMPLIFIED TECHNIQUE FOR HIDDEN-LINE ELIMINATION IN TERRAINS  
+Author: FRANCO P. PREPARATA S. A. and JEFFREY SCOTT VITTER S. A. 
+Keyword: display, hidden-line elimination, polyhedral terrain, output-sensitive, convex hull.  
+Address: Providence, Rhode Island 02912-1910,  Providence, Rhode Island 02912-1910,  
+Affiliation: Department of Computer Science, Brown University  Department of Computer Science, Brown University  
+Note: International Journal of Computational Geometry Applications c World Scientific Publishing Company  U.  U.  
+Abstract: In this paper we give a practical and efficient output-sensitive algorithm for constructing the display of a polyhedral terrain. It runs in O((d + n) log 2 n) time and uses O(nff(n)) space, where d is the size of the final display, and ff(n) is a (very slowly growing) functional inverse of Ackermann's function. Our implementation is especially simple and practical, because we try to take full advantage of the specific geometrical properties of the terrain. The asymptotic speed of our algorithm has been improved upon theoretically by other authors, but at the cost of higher space usage and/or high overhead and complicated code. Our main data structure maintains an implicit representation of the convex hull of a set of points that can be dynamically updated in O(log 2 n) time. It is especially simple and fast in our application since there are no rebalancing operations required in the tree. 
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> J. H. Reif and S. Sen, </author> <title> "An efficient output-sensitive hidden-surface removal algorithm and its parallelization," </title> <booktitle> Proc. 4th Annual ACM Symp. on Computational Geometry, </booktitle> <address> Urbana-Champaign, IL, </address> <month> June </month> <year> 1988, </year> <pages> pp. 193-200. </pages>
+Reference: 2. <author> M. J. Katz, M. H. Overmars, and M. Sharir, </author> <title> "Efficient hidden surface removal for objects with small union size," </title> <booktitle> Proc. 7th Annual Symp. on Computational Geometry, </booktitle> <address> North Conway, NH, </address> <month> June </month> <year> 1991, </year> <pages> pp. 31-40. </pages>
+Reference: 3. <author> M. H. Overmars and J. van Leeuwen, </author> <title> "Maintenance of configurations in the plane," </title> <journal> J. Comput. System Sci. </journal> <month> 23 </month> <year> (1981) </year> <month> 166-204. </month>
+Reference: 4. <author> F. P. Preparata and M. I. </author> <title> Shamos, </title> <publisher> Computational Geometry (Springer-Verlag, </publisher> <address> New York, </address> <year> 1985). </year>
+Reference: 5. <author> R. Cole and M. Sharir, </author> <title> "Visibility problems for polyhedral terrains," </title> <journal> J. </journal> <note> Symbolic Computation (1989) 11-30. </note>
+Reference: 6. <author> A. Wiernik and M. Sharir, </author> <title> "Planar realization of nonlinear Davenport-Schinzel sequences," </title> <journal> J. </journal> <note> Discrete Computational Geometry 3 (1988) 15-47. </note>
+Reference: 7. <author> S. Hart and M. Sharir, </author> <title> "Nonlinearity of Davenport-Schinzel sequences and of a generalized path compression scheme," </title> <note> Combinatorica 6 (1986) 151-177. </note>
+Reference: 8. <author> D. T. Lee and F. P. Preparata, </author> <title> "Parallel batch planar point location on the CCC," </title> <note> Information Processing Letters 33 (December 1989) 175-179. </note>
+Reference: 9. <author> F. P. Preparata, J. S. Vitter, and M. Yvinec, </author> <title> "Computation of the axial view of a set of isothetic parallelepipeds," </title> <journal> ACM Transactions on Graphics 9 (July 1990) 278-300. </journal> <volume> 16 17 </volume>
+References-found: 9
+

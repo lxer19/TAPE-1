@@ -1,0 +1,30 @@
+URL: http://www.cs.wustl.edu/cs/techreports/1991/wucs-91-24.ps.Z
+Refering-URL: http://www.cs.wustl.edu/cs/cs/publications.html
+Root-URL: 
+Email: sbc@informatics.WUSTL.EDU  
+Phone: (314) 362-4322  
+Title: The Visual Display of Temporal Information  
+Author: Steve B. Cousins Michael G. Kahn Steve B. Cousins 
+Address: 660 South Euclid Ave., Box 8121 St. Louis, MO 63110  
+Note: Correspond with:  
+Affiliation: Medical Informatics Laboratory Department of Internal Medicine Washington University School of Medicine  Medical Informatics Laboratory Washington University School of Medicine  
+Abstract: Washington University Computer Science Technical Report WUCS-91-24 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> James F. Allen. </author> <title> Maintaining knowledge about temporal intervals. </title> <journal> Communcations of the ACM, </journal> <volume> 26 </volume> <pages> 832-843, </pages> <year> 1983. </year>
+Reference-contexts: Point events are atomic; they contain no additional events. Points occur before, during, or after other points. Intervals may contain both points and subintervals. Intervals also may be overlapped by, concurrent with, contained in, or contiguous to other intervals <ref> [1] </ref>. We may need to retrieve all events which occur within the duration of a specified interval event, but it makes no sense to make the same query of a point event. We also note that the display behavior of point and interval events are different.
+Reference: [2] <author> Apple Computer, Inc. </author> <title> Inside Macintosh. </title> <publisher> Addison Wesley, </publisher> <address> Reading, MA, </address> <year> 1985. </year> <month> 17 </month>
+Reference-contexts: Two adjacent time lines may be aligned (visually synchronized) to indicate temporal synchronization. When not aligned, adjacent time lines are separated by a dashed line. At any given time, a subset of the objects in a time line browser (time lines and the events they contain) are selected <ref> [2] </ref>. In general, objects are selected by clicking on them. An entire time line is selected by clicking on its border. Multiple events are selected by holding the add to selection modifier key down (typically the shift key).
+Reference: [3] <author> Steve B. Cousins, Michael G. Kahn, and Mark E. Frisse. </author> <title> The display and manipulation of temporal information. </title> <booktitle> In Proceedings, Symposium on Computer Applications in Medical Care, </booktitle> <address> New York, NY, </address> <month> November </month> <year> 1989. </year> <note> IEEE Computer Society Press. Also available as Washington University Computer Science technical report wucs-89-48. </note>
+Reference: [4] <author> Brad J. Cox. </author> <title> Object-Oriented Programming: An Evolutionary Approach. </title> <publisher> Addison-Wesley, </publisher> <address> Reading, MA, </address> <year> 1986. </year>
+Reference: [5] <author> Benjamin Kuipers. </author> <title> Abstraction by time-scale in qualitative simulation. </title> <booktitle> In Proceedings AAAI-87, </booktitle> <address> San Mateo, CA, 1987. </address> <publisher> Morgan Kaufmann. </publisher>
+Reference-contexts: The number of entities to manipulate is increased by decomposing an abstraction. We believe that temporal abstraction and decomposition are powerful organizing principles used by humans to focus only on relevant features to solve a specific problem <ref> [5] </ref>. Our approach to the temporal granularity problem is to use temporal abstraction and decomposition to guide the application of the temporal relevance heuristic. Our heuristic encodes relevance for each class of events as a pair of temporal granularities (T G LOW ; T G HIGH ).
+Reference: [6] <author> Richard Snodgrass. </author> <title> Temporal databases: Status and research directions. </title> <booktitle> SIGMOD Record, </booktitle> <volume> 19 </volume> <pages> 83-89, </pages> <month> Dec. </month> <year> 1990. </year>
+Reference: [7] <author> Richard Snodgrass and Ilsoo Ahn. </author> <title> Temporal databases. </title> <journal> IEEE Computer, </journal> <volume> 19 </volume> <pages> 35-42, </pages> <year> 1986. </year>
+Reference: [8] <author> Mark Stefik and Daniel G. Bobrow. </author> <title> Object-oriented programming: Themes and variations. </title> <journal> AI Magazine, </journal> <pages> pages 40-62, </pages> <year> 1986. </year>
+Reference: [9] <author> Edward R. Tufte. </author> <title> The Visual Display of Quantitative Information. </title> <publisher> Graphics Press, </publisher> <address> Cheshire, CT, </address> <year> 1983. </year>
+Reference-contexts: There are other visual representations of time in common use which we believe our system will be able to handle, but which we have not yet implemented. For example, we have examined a large number of temporally-oriented statistical graphics from Tufte's book <ref> [9] </ref>, and are confident that our 16 framework can handle them. There are two commonly-used visual representations that we do not currently handle. One is the "traditional" time line: A single line with other lines perpendicular to it, such as in Figures 3 and 4.
+Reference: [10] <author> Marc Vilain and Henry Kautz. </author> <title> Constraint propagation algorithms for temporal reasoning. </title> <booktitle> In Proceedings IJCAI-86, </booktitle> <pages> pages 377-382, </pages> <address> San Mateo, CA, 1986. </address> <publisher> Morgan Kaufmann. </publisher>
+
+References-found: 10
+

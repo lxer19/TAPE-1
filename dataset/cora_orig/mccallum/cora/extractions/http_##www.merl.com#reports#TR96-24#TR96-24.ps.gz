@@ -1,0 +1,20 @@
+URL: http://www.merl.com/reports/TR96-24/TR96-24.ps.gz
+Refering-URL: http://www.merl.com/reports/TR96-24/index.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: Graph-Drawing Contest Report  
+Author: Peter Eades Joe Marks MERL Stephen North 
+Address: 1996 201 Broadway, Cambridge, Massachusetts 02139  
+Date: October 1996  
+Affiliation: Univ. of Newcastle  AT&T Research  Mitsubishi Electric Information Technology Center America,  
+Web: http://www.merl.com  
+Note: MERL A MITSUBISHI ELECTRIC RESEARCH LABORATORY  Copyright c  
+Pubnum: TR-96-24  
+Abstract: This report describes the the Third Annual Graph Drawing Contest, held in conjunction with the 1996 Graph Drawing Symposium in Berkeley, California. The purpose of the contest is to monitor and challenge the current state of the This work may not be copied or reproduced in whole or in part for any commercial purpose. Permission to copy in whole or in part without payment of fee is granted for nonprofit educational and research purposes provided that all such whole or partial copies include the following: a notice that such copying is by permission of Mitsubishi Electric Information Technology Center America; an acknowledgment of the authors and individual contributions to the work; and all applicable portions of the copyright notice. Copying, reproduction, or republishing for any other purpose shall require a license with payment of fee to Mitsubishi Electric Information Technology Center America. All rights reserved. art in graph-drawing technology.
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> P. Eades and J. Marks. </author> <title> Graph-drawing contest report. </title> <editor> In R. Tamassia and I. G. Tollis, editors, </editor> <booktitle> Lecture Notes in Computer Science: 894 (Proceedings of the DIMACS International Workshop on Graph Drawing '94), </booktitle> <pages> pages 143-146, </pages> <address> Berlin Heidelberg, </address> <month> October </month> <year> 1994. </year> <note> Springer-Verlag. </note>
+Reference-contexts: A third observation is the lack of success achieved by orthogonal-edge drawings and three-dimensional drawings. In the former case, this year's results may be anomalous: in the two previous contests, orthogonal-edge drawings have figured prominently among the prize winners <ref> [1, 2] </ref>. However, no three-dimensional drawing has ever been awarded a prize in any of the three contests to date (we are not counting the special honorable mention given to a three-dimensional drawing of this year's Graph A see above).
+Reference: [2] <author> P. Eades and J. Marks. </author> <title> Graph-drawing contest report. </title> <editor> In F. J. Brandenburg, editor, </editor> <booktitle> Lecture Notes in Computer Science: 1027 (Proceedings of the Symposium on Graph Drawing GD '95), </booktitle> <pages> pages 224-233, </pages> <address> Berlin Heidelberg, September 1995. </address> <publisher> Springer-Verlag. </publisher> <month> MERL-TR-96-24 October </month> <year> 1996 </year>
+Reference-contexts: A third observation is the lack of success achieved by orthogonal-edge drawings and three-dimensional drawings. In the former case, this year's results may be anomalous: in the two previous contests, orthogonal-edge drawings have figured prominently among the prize winners <ref> [1, 2] </ref>. However, no three-dimensional drawing has ever been awarded a prize in any of the three contests to date (we are not counting the special honorable mention given to a three-dimensional drawing of this year's Graph A see above).
+References-found: 2
+

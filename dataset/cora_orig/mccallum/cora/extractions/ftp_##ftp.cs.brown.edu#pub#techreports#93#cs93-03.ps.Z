@@ -1,0 +1,9 @@
+URL: ftp://ftp.cs.brown.edu/pub/techreports/93/cs93-03.ps.Z
+Refering-URL: http://www.cs.brown.edu/publications/techreports/reports/CS-93-03.html
+Root-URL: http://www.cs.brown.edu/
+Abstract-found: 0
+Intro-found: 1
+Reference: [KLM + 90] <author> Wilfried Koch, Andreas Lampen, Axel Mahler, Wolfgang Obst, </author> <note> and Uli Pralle. </note>
+Reference-contexts: In addition to the annotation editor, compilers, loaders, and debuggers, such tools include graphical build interfaces (front ends to utilities like make and shape <ref> [KLM + 90] </ref>.), call-graph displayers, data structure displayers, profilers, and cross-reference databases. Language-specific support for C++ consists of a powerful graphical and textual browser, cbrowse, as well as enhancements to the debugger interface.
+References-found: 1
+

@@ -1,0 +1,20 @@
+URL: http://www-ict.its.tudelft.nl/~cor/thesis96.ps.gz
+Refering-URL: http://www.cs.bham.ac.uk/~wbl/biblio/gp-bibliography.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Email: veenman@pi.net C.J.Veenman@its.tudelft.nl  
+Title: Positional Genetic Programming genetic algorithms with encoded tree structures  
+Author: C. J. Veenman 
+Degree: Master's thesis  
+Note: A BSTRACT  
+Address: Amsterdam The Netherlands  
+Affiliation: Section Artificial Intelligence Department of Mathematics and Computer Science, Vrije Universiteit  
+Abstract: In this report a number of new reproduction operators for genetic programming ( GP ) is introduced. These operators have in common that they link the genetic information to a position in the expression or program tree. The GP engine, that implements the operators, limits both the operator arity and tree depth. In this way the expression trees become restricted structures. The information linking together with the fixed structures, transform the GP engine into a genetic algorithm with even better performance than common GP . Without loss of effectivity, these adjustments to ordinary GP have the schema theory apply well to GP . 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> HOL 75 Holland, J. </author> <booktitle> "Adaption in Natural in Artificial Systems", </booktitle> <publisher> University of Michigan Press, </publisher> <address> Ann Arbor, </address> <year> 1975. </year>
+Reference: <editor> DAW 76 Dawkins, R. </editor> <publisher> "The selfisch gene" Oxford University Press, </publisher> <address> New York, </address> <note> 1976 BEN 89 Bentley, </note> <editor> J. L. </editor> <booktitle> "Programming Pearls" 1989. </booktitle>
+Reference: <author> MAI 91 Maier, W.L. </author> <title> "A Fast Pseudo Random Number Generator" Dr. </title> <journal> Dobb's Journal (May, </journal> <year> 1991). </year>
+Reference: <author> KOZ 92 Koza, J.R. </author> <title> "Genetic Programming", </title> <publisher> MIT Press, </publisher> <address> Cambridge, MA, </address> <year> 1992. </year>
+
+References-found: 4
+

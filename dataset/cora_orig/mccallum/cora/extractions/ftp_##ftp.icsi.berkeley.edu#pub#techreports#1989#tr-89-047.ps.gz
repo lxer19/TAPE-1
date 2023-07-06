@@ -1,0 +1,19 @@
+URL: ftp://ftp.icsi.berkeley.edu/pub/techreports/1989/tr-89-047.ps.gz
+Refering-URL: http://www.icsi.berkeley.edu/techreports/1989.html
+Root-URL: http://www.icsi.berkeley.edu
+Title: The Transitive Closure of a Random Digraph  
+Author: Richard M. Karp 
+Abstract: In a random n-vertex digraph, each arc is present with probability p, independently of the presence or absence of other arcs. We investigate the structure of the strong components of a random digraph and present an algorithm for the construction of the transitive closure of a random digraph. We show that, when n is large and np is equal to a constant c greater than 1, it is very likely that all but one of the strong components are very small, and that the unique large strong component contains about Q 2 n vertices, where Q is the unique root in [0,1] of the equation 1 - x - e -cx = 0. Nearly all the vertices outside the large strong component lie in strong components of size 1. Provided that the expected degree of a vertex is bounded away from 1, our transitive closure algorithm runs in expected time O (n). For all choices of n and p, the expected execution time of the algorithm is O (w (n) (n log n) 4/3 ), where w (n) is an arbitrary nondecreasing unbounded function. To circumvent the fact that the size of the transitive closure may be W(n 2 ) the algorithm presents the transitive closure in the compact form (A B) C, where A and B are sets of vertices, and C is a set of arcs. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> K. B. Athreya, P. E. Ney, </author> <title> Branching Processes, </title> <publisher> Springer-Verlag (1972). </publisher>
+Reference: <author> B. Bollobas, </author> <title> Random Graphs, </title> <publisher> Academic Press (1985). </publisher>
+Reference: <author> T. I. Fenner, A. M. Frieze, </author> <title> "On the connectivity of random m-orientable graphs and digraphs," </title> <journal> Combinatorica, </journal> <volume> vol. 2, </volume> <month> 347-359 </month> <year> (1988). </year>
+Reference: <author> T. E. Harris, </author> <title> The Theory of Branching Processes, </title> <publisher> Springer (1963). </publisher>
+Reference: <author> T. L// uczak, </author> <title> "The phase transition in the evolution of random graphs," </title> <type> manuscript (1988). </type>
+Reference: <author> A. V. Nagaev, A. N. Startsev, </author> <title> "The asymptotic analysis of a stochastic model of an epidemic," </title> <journal> Theory of Probability and its Applications, </journal> <volume> vol. XV, No. 1, </volume> <pages> pp. </pages> <month> 98-107 </month> <year> (1970). </year>
+Reference: <author> I. Palasti, </author> <title> "On the strong connectedness of directed random graphs," </title> <journal> Studia Sci. Math. Hungar., </journal> <volume> vol. 1, </volume> <pages> pp. </pages> <month> 205-214 </month> <year> (1966). </year>
+Reference: <author> P. Raghavan, </author> <title> "Probabilistic Construction of deterministic algorithms: approximating packing integer programs," </title> <booktitle> Proc. 27th Annual IEEE Symp. on Foundations of Computer Science, </booktitle> <pages> pp. </pages> <month> 10-18 </month> <year> (1986). </year>
+Reference: <author> C. P. Schnorr, </author> <title> "An algorithm for transitive closure with linear expected time," </title> <journal> SIAM J. Comput., </journal> <volume> vol. 7, </volume> <month> 127-133 </month> <year> (1978). </year> <month> - 25 </month> -
+References-found: 9
+

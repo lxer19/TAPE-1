@@ -1,0 +1,10 @@
+URL: ftp://info.mcs.anl.gov/pub/tech_reports/reports/TM144.ps.Z
+Refering-URL: http://www.mcs.anl.gov/publications/tech_memos.htm
+Root-URL: http://www.mcs.anl.gov
+Title: Analysis of Workload and Load Balancing Issues in the NCAR Community Climate Model  
+Author: John G. Michalakes 
+Abstract: Choice of an appropriate strategy for balancing load in climate models running on parallel processors depends on the nature and size of inherent imbalances. Physics routines of the NCAR Community Climate Model were instrumented to produce per-cell load data for each time step, revealing load imbalance resulting from surface type, polar night, weather patterns, and the earth's terminator. Hourly, daily, and annual cycles in processor performance over the model grid were also uncovered. Data from CCM1 suggested a number of static processor allocation strategies. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

@@ -1,0 +1,30 @@
+URL: http://www.cs.dartmouth.edu/~olson/cntrst.ps.Z
+Refering-URL: http://www.cs.dartmouth.edu/~olson/center/enhancement_pub.html
+Root-URL: http://www.cs.dartmouth.edu
+Email: Email: jian@ece.ucdavis.edu  E-mail: healy@curacao.dartmouth.edu  E-mail: john.b.weaver@dartmouth.edu  
+Phone: Phone: (916)752-2387 Fax: (916)752-8894  Phone: (603)646-3327 Fax: (603)646-1312  Phone: (603)650-5846 Fax: (603)650-8208  
+Title: To appear in Optical Engineering, Special Issue on Adaptive Wavelet Transforms Contrast Enhancement of Medical
+Author: Jian Lu Dennis M. Healy Jr. John B. Weaver 
+Address: CA 95616  College, Hanover, NH 03755  Lebanon, NH 03756  
+Affiliation: Center for Image Processing and Integrated Computing University of California, Davis,  Department of Mathematics and Computer Science Dartmouth  Department of Diagnostic Radiology Dartmouth-Hitchcock Medical Center  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> H.H. Barrett and W. Swindell, </author> <title> Radiological Imaging, </title> <publisher> Academic Press, </publisher> <address> New York, </address> <year> 1981, </year> <pages> pp. 410-414. 10 </pages>
+Reference: [2] <author> A.K. Jain, </author> <title> Fundamentals of Digital Image Processing, </title> <publisher> Prentice-Hall, </publisher> <address> Englewood Cliffs, NJ, </address> <year> 1989. </year>
+Reference: [3] <author> J.-G. Leu, </author> <title> "Image contrast enhancement based on the intensities of edge pixels," CVGIP: Graphical Models and Image Processing, </title> <journal> Vol. </journal> <volume> 54, No. 6, </volume> <pages> pp. 497-506, </pages> <year> 1992. </year>
+Reference: [4] <author> A. Beghdadi and A. Le Negrate, </author> <title> "Contrast enhancement technique based on local detection of edges," Computer Vision, </title> <journal> Graphics, and Image Processing, </journal> <volume> Vol. 46, </volume> <pages> pp. 162-174, </pages> <year> 1989. </year>
+Reference: [5] <author> V. Kim and L. Yaroslavskii, </author> <title> "Rank algorithms for picture processing," Computer Vision, </title> <journal> Graphics, and Image Processing, </journal> <volume> Vol. 35, </volume> <pages> pp. 234-259, </pages> <year> 1986. </year>
+Reference: [6] <author> F. Neycenssac, </author> <title> "Contrast enhancement using the Laplacian-of-a-Gaussian filter," CVGIP: Graphical Models and Image Processing, </title> <journal> Vol. </journal> <volume> 55, No. 6, </volume> <pages> pp. 447-463, </pages> <year> 1993. </year>
+Reference: [7] <author> S.G. Mallat and S. Zhong, </author> <title> "Characterization of signals from multiscale edges," </title> <journal> IEEE Trans. Pattern Anal. and Machine Intell., </journal> <volume> vol. PAMI-14, </volume> <pages> pp. 710-732, </pages> <month> July </month> <year> 1992. </year>
+Reference: [8] <author> J. Lu, J.B. Weaver and D.M. Healy, Jr., </author> <title> "Noise reduction with multiscale edge representation and perceptual criteria," </title> <booktitle> in Proc. of IEEE-SP Intl. Symp. on Time-Frequency and Time-Scale Analysis, </booktitle> <address> Victoria, BC, </address> <month> Oct. </month> <year> 1992, </year> <pages> pp. 555-558. </pages>
+Reference: [9] <author> S.G. Mallat, </author> <title> "Zero-crossings of a wavelet transform," </title> <journal> IEEE Trans. Inform. Theory, </journal> <volume> vol. IT-37, </volume> <pages> pp. 1019-1033, </pages> <month> July </month> <year> 1991. </year>
+Reference: [10] <author> J. Lu, </author> <title> "Signal recovery and noise reduction with wavelets," </title> <type> Ph.D. Dissertation, </type> <institution> Dartmouth College, </institution> <address> Hanover, NH, </address> <year> 1993. </year>
+Reference: [11] <author> J. Lu, D.M. Healy, Jr. and J.B. Weaver, </author> <title> "A tree-structured multiscale edge representation and applications," </title> <note> in preparation. </note>
+Reference: [12] <author> A. Grossmann and J. Morlet, </author> <title> "Decomposition of Hardy functions into square integrable wavelets of constant shape," </title> <journal> SIAM J. Math., </journal> <volume> Vol. 15, </volume> <pages> pp. 723-736, </pages> <year> 1984. </year>
+Reference: [13] <author> S.G. Mallat and S. Zhong, </author> <title> "Compact image coding from multiscale edges," </title> <booktitle> in Proc. Intl. Conf. Acoust. Speech and Signal Proc., </booktitle> <address> Toronto, </address> <month> May </month> <year> 1991. </year>
+Reference: [14] <author> S.G. Mallat and W.-L. Hwang, </author> <title> "Singularity detection and processing with wavelets," </title> <journal> IEEE Trans. Inform. Theory, </journal> <volume> Vol. 38 No. 2, </volume> <pages> pp. 617-643, </pages> <month> March </month> <year> 1992. </year>
+Reference: [15] <author> S. Zhong, </author> <title> "Signal representation from wavelet transform maxima," </title> <type> Ph.D. Dissertation, </type> <address> New York University, </address> <year> 1990. </year>
+Reference: [16] <author> R.A. Brooks, G. DiChiro and M.R. Keller, </author> <title> "Explanation of cerebral white-gray contrast in computed tomography," </title> <journal> Journal of Computer Assisted Tomography, </journal> <volume> Vol. 4, No. 4, </volume> <pages> pp. 489-491. </pages>
+
+References-found: 16
+

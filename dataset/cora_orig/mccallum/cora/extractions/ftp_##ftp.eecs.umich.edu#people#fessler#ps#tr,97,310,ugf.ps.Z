@@ -1,0 +1,18 @@
+URL: ftp://ftp.eecs.umich.edu/people/fessler/ps/tr,97,310,ugf.ps.Z
+Refering-URL: http://www.eecs.umich.edu/systems/TechReportList.html
+Root-URL: http://www.cs.umich.edu
+Title: USERS GUIDE FOR PWLS-3D 1.0 ITERATIVE 3D RECONSTRUCTION SOFTWARE  
+Author: Jeffrey A. Fessler 
+Date: Jul. 1997, Revised February 10, 1998  
+Address: Ann Arbor, Michigan 48109  
+Affiliation: COMMUNICATIONS SIGNAL PROCESSING LABORATORY Department of Electrical Engineering and Computer Science The University of Michigan  
+Abstract: Technical Report No. 310 Approved for public release; distribution unlimited. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> J. A. Fessler, </author> <title> ASPIRE 3.0 user's guide: A Sparse Iterative Reconstruction library, </title> <type> Technical Report 293, </type> <institution> Comm. and Sign. Proc. Lab., Dept. of EECS, Univ. of Michigan, </institution> <address> Ann Arbor, MI, 48109-2122, </address> <month> July </month> <year> 1995. </year> <note> Available from WWW at http://www.eecs.umich.edu/fessler/. </note>
+Reference: [2] <author> J. A. Fessler and S. D. Booth, </author> <title> Conjugate-gradient preconditioning methods for shift-variant image reconstruction, </title> <journal> IEEE Tr. </journal> <note> Im. Proc., 1997. Submitted. </note>
+Reference: [3] <author> K. Sauer and C. Bouman, </author> <title> A local update strategy for iterative reconstruction from projections, </title> <journal> IEEE Tr. Sig. Proc., </journal> <volume> vol. 41, no. 2, </volume> <pages> pp. 534548, </pages> <month> February </month> <year> 1993. </year>
+Reference: [4] <author> J. A. Fessler, </author> <title> Penalized weighted least-squares image reconstruction for positron emission tomography, </title> <journal> IEEE Tr. Med. Im., </journal> <volume> vol. 13, no. 2, </volume> <pages> pp. 290300, </pages> <month> June </month> <year> 1994. </year>
+
+References-found: 4
+

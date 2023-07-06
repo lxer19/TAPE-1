@@ -1,0 +1,27 @@
+URL: http://www.cs.washington.edu/homes/alon/site/files/aaai94-modeling.ps.Z
+Refering-URL: http://www.cs.washington.edu/homes/alon/site/PaperAbstractPresentation_bib17.html
+Root-URL: 
+Email: iwasaki@cs.stanford.edu  levy@research.att.com  
+Title: Automated Model Selection for Simulation  
+Author: Yumi Iwasaki Alon Y. Levy 
+Address: 701 Welch Road, Bldg. C Palo Alto, California, 94304  600 Mountain Ave., Room 2C-406 Murray Hill, NJ 07974  
+Affiliation: Knowledge Systems Laboratory Stanford University  AT&T Bell Laboratories AI Principles Research Department  
+Abstract: Constructing an appropriate model is crucial in reasoning successfully about the behavior of a physical situation to answer a query. In compositional modeling, a system is provided with a library of composible pieces of knowledge about the physical world called model fragments. Its task is to select appropriate model fragments to describe the situation, either for static analysis of a single state, or for the more complicated case simulation of dynamic behavior over a sequence of states. In previous work we showed how the model construction problem in general can advantageously be formulated as a problem of reasoning about relevance. This paper presents an actual algorithm, based on relevance reasoning, for selecting model fragments efficiently for the case of simulation. We show that the algorithm produces an adequate model for a given query and moreover, it is the simplest one given the constraints in the query. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Addanki, Sanjaya; Cremonini, R.; and Penberthy, J. </author> <year> 1989. </year> <title> Reasoning about assumptions in graphs of models. </title> <booktitle> In Proceedings of the Eleventh International Joint Conference on Artificial Intelligence. </booktitle>
+Reference: <author> Crawford, James; Farquhar, Adam; and Kuipers, </author> <title> Ben 1990. A compiler from physical models into qualitative differential equations. </title> <booktitle> In Proceedings of the Eighth National Conference on Artificial Intelligence, </booktitle> <address> Los Altos, CA. </address> <publisher> Morgan Kaufmann. </publisher>
+Reference: <author> Falkenhainer, Brian and Forbus, </author> <title> Ken 1991. Compositional modeling: Finding the right model for the job. </title> <journal> In Artificial Intelligence. </journal> <volume> Vol. 51, </volume> <pages> pp. 95-143. </pages>
+Reference: <author> Forbus, </author> <title> Ken 1984. Qualitative process theory. </title> <journal> In Artificial Intelligence, </journal> <volume> volume 24. </volume>
+Reference: <author> Iwasaki, Y. and Low, C. M. </author> <year> 1993. </year> <title> Model generation and simulation of device behavior with continuous and discrete change. </title> <booktitle> Intelligent Systems Engineering 1(2). </booktitle>
+Reference: <author> Iwasaki, Y. and Simon, H. A. </author> <year> 1986. </year> <title> Causality in device behavior. </title> <journal> In Artificial Intelligence. </journal> <volume> Vol. </volume> <pages> 29. </pages>
+Reference: <author> Levy, Alon Y. and Sagiv, </author> <title> Yehoshua 1993. Exploiting irrelevance reasoning to guide problem solving. </title> <booktitle> In Proceedings of the 13th International Joint Conference on Artificial Intelligence. </booktitle>
+Reference: <author> Levy, Alon Y.; Iwasaki, Yumi; and Fikes, Richard 1994. </author> <title> Automated model selection for simulation based on relevance reasoning. Knowledge System Laboratory Technical Report. </title> <institution> Computer Science Department, Stanford University. </institution> <note> In preparation. </note>
+Reference: <author> Levy, Alon Y. </author> <year> 1994. </year> <title> Creating abstractions using relevance reasoning. </title> <booktitle> In Proceedings of the Twelfth National Conference on Artificial Intelligence. </booktitle>
+Reference: <author> Nayak, P. </author> <month> Pandurang </month> <year> 1992a. </year> <title> Automated Model Selection. </title> <type> Ph.D. Dissertation, </type> <institution> Stanford University, </institution> <address> Stan-ford, CA. </address>
+Reference: <author> Nayak, </author> <month> Pandurang </month> <year> 1992b. </year> <title> Causal approximations. </title> <booktitle> In Proceedings of the Tenth National Conference on Artificial Intelligence. </booktitle>
+Reference: <author> Rickel, Jeff and Porter, </author> <title> Bruce 1994. Automated modeling for answering prediction questions: Selecting the time scale and system boundary. </title> <booktitle> In Proceedings of the Twelfth National Conference on Artificial Intelligence. </booktitle>
+Reference: <author> Subramanian, D. and Genesereth, </author> <title> M.R. 1987. The relevance of irrelevance. </title> <booktitle> In Proceedings of the Tenth International Joint Conference on Artificial Intelligence, </booktitle> <address> Los Altos, CA. </address> <publisher> Morgan Kaufmann. </publisher>
+Reference: <author> Vescovi, Marcos; Iwasaki, Yumi; Fikes, Richard; and Chandrasekaran, B. </author> <year> 1993. </year> <title> Cfrl: A language for specifying the causal functionality of engineered devices. </title> <booktitle> In Proceedings of the Eleventh National Conference on Artificial Intelligence. </booktitle>
+References-found: 14
+

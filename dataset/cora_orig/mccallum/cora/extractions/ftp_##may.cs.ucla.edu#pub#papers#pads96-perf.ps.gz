@@ -1,0 +1,21 @@
+URL: ftp://may.cs.ucla.edu/pub/papers/pads96-perf.ps.gz
+Refering-URL: http://may.cs.ucla.edu/papers/
+Root-URL: http://www.cs.ucla.edu
+Title: Figure 7: Message Density(Speedup) Figure 8: Message Density(Efficiency) Figure 9: Message Density(NMR)  
+Note: Figure 10: Granularity(Speedup) Figure 11: Granularity(Efficiency) Figure 12: Granularity(NMR)  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> Kumar A. and R. Shorey. </author> <title> Stability of event syn-chronisation in distributed discrete event simulation. </title> <booktitle> In 1994 Workshop on Parallel and Distributed Simulation, </booktitle> <address> Edinburgh, </address> <month> July </month> <year> 1994. </year>
+Reference: [2] <author> R. Bagrodia and W. Liao. Maisie: </author> <title> A language for design of efficient discrete-event simulations. </title> <journal> IEEE Transactions on Software Engineering, </journal> <month> April </month> <year> 1994. </year>
+Reference: [3] <author> O. Berry and D. Jefferson. </author> <title> Critical path analysis of distributed simulation. </title> <booktitle> In Proceedings of 1985 SCS Multiconference on Distributed Simulation, </booktitle> <pages> pages 57-60, </pages> <month> January </month> <year> 1985. </year>
+Reference: [4] <author> K.M. Chandy and J. Misra. </author> <title> Asynchronous distributed simulation via a sequence of parallel computations. </title> <journal> Communications of the ACM, </journal> <volume> 24(11) </volume> <pages> 198-206, </pages> <month> August </month> <year> 1981. </year>
+Reference: [5] <author> K.M. Chandy and R. Sherman. </author> <title> The conditional event approach to distributed simulation. </title> <booktitle> In Distributed Simulation Conference, </booktitle> <address> Miami, </address> <year> 1989. </year>
+Reference: [6] <author> D. Conklin, J. Cleary, and B. Unger. </author> <title> The sharks world: A study in distributed simulation. </title> <booktitle> In 1990 Simulation Multiconference: Distributed Simulation, </booktitle> <address> San Diego, California, </address> <month> January </month> <year> 1990. </year>
+Reference: [7] <author> R. Fujimoto. </author> <title> Parallel discrete event simulation. </title> <journal> Communications of the ACM, </journal> <volume> 33(10) </volume> <pages> 30-53, </pages> <month> Oc-tober </month> <year> 1990. </year>
+Reference: [8] <author> R. M. Fujimoto. </author> <title> Performance measurements of distributed simulation strategies. </title> <type> Technical Report Tech. Rep. </type> <institution> UUCS-87-026a, University of Utah, </institution> <address> Salt Lake City, </address> <year> 1987. </year>
+Reference: [9] <author> D. Jefferson and P. Reiher. </author> <title> Supercritical speedup. </title> <booktitle> In Annual Simulation Symposium, </booktitle> <month> April </month> <year> 1991. </year>
+Reference: [10] <author> Vikas Jha and Rajive Bagrodia. </author> <title> Transparent implementation of conservative algorithms in parallel simulation languages. </title> <booktitle> In Winter Simulation Conference, </booktitle> <month> December </month> <year> 1993. </year>
+Reference: [11] <author> Yi-Bing Lin. </author> <title> Understanding the Limits of Optimistic and Conservative Parallel Simulation. </title> <type> PhD thesis, </type> <institution> University of Washington, </institution> <address> Seattle, </address> <month> August </month> <year> 1990. </year>
+
+References-found: 11
+

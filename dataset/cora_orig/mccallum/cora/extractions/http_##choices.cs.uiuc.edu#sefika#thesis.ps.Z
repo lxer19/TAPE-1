@@ -1,0 +1,10 @@
+URL: http://choices.cs.uiuc.edu/sefika/thesis.ps.Z
+Refering-URL: http://choices.cs.uiuc.edu/sefika/roy.html
+Root-URL: http://www.cs.uiuc.edu
+Note: c Copyright by Mohlalefi Sefika, 1996  
+Abstract-found: 0
+Intro-found: 1
+Reference: [All95] <author> Robert J. Allen. </author> <title> Formalism and Informalism in Software Architectural Style: </title>
+Reference-contexts: Work is in progress in diverse areas, including: 1. Architectural knowledge documentation [GHJV94, GS95, PW92, Joh92, BJ94, LH89] to produce for novices catalogues of proven useful design abstractions (see Section 2.1.1). Such catalogues provide fundamental data for the establishment of design compliance checkers. 2. Architectural formalization <ref> [All95, SG95, SSC96b] </ref> to make descriptions of common design structures like Pipe-and-Filter or Mediator more precise. The result 18 ing formal models and theories lead to a better understanding of the structures. This aids the development of rule bases for checking the invariants and constraints imposed by the structures. 3.
+References-found: 1
+

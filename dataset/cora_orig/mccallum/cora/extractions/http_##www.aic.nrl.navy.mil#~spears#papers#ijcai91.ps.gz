@@ -1,0 +1,29 @@
+URL: http://www.aic.nrl.navy.mil/~spears/papers/ijcai91.ps.gz
+Refering-URL: http://www.cs.gmu.edu:80/research/gag/pubs.html
+Root-URL: 
+Email: kdejong@aic.gmu.edu spears@aic.nrl.navy.mil  
+Title: Learning Concept Classification Rules Using Genetic Algorithms  
+Author: Kenneth A. De Jong William M. Spears 
+Address: Fairfax, VA 22030 USA Washington, D.C. 20375 USA  
+Affiliation: George Mason University Naval Research Laboratory  
+Abstract: In this paper we explore the use of an adaptive search technique (genetic algorithms) to construct a system GABIL which continually learns and refines concept classification rules from its interaction with the environment. The performance of the system is measured on a set of concept learning problems and compared with the performance of two existing systems: ID5R and C4.5. Preliminary results support that, despite minimal system bias, GABIL is an effective concept learner and is quite competitive with ID5R and C4.5 as the target concept increases in complexity.
+Abstract-found: 1
+Intro-found: 1
+Reference: <editor> Booker, Lashon B. </editor> <year> (1989). </year> <title> Triggered Rule Discovery in Classifier Systems, </title> <booktitle> Proc. 3rd Int'l Conference on Genetic Algorithms and their Applications. </booktitle>
+Reference: <author> De Jong, Kenneth A.(1987). </author> <title> Using Genetic Algorithms to Search Program Spaces, </title> <booktitle> Proc. 2nd Int'l Conference on Genetic Algorithms and their Applications. </booktitle>
+Reference: <author> Goldberg, David E. </author> <year> (1989). </year> <title> Genetic Algorithms in Search, Optimization & Machine Learning, </title> <publisher> Addison-Wesley Publishing Company, Inc. </publisher>
+Reference: <author> Holland, John H. </author> <year> (1975). </year> <title> Adaptation in Natural and Artificial Systems, </title> <publisher> The University of Michigan Press. </publisher>
+Reference: <author> Holland, John H. </author> <year> (1986). </year> <title> Escaping Brittleness: The Possibilities of General-Purpose Learning Algorithms Applied to Parallel Rule-Based Systems. </title> <booktitle> In R. </booktitle>
+Reference: <editor> Michalski, J. Carbonell, and T. Mitchell (Eds.), </editor> <booktitle> Machine Learning: An Artificial Intelligence Approach (Vol. </booktitle> <volume> 2). </volume> <publisher> Morgan Kaufmann Publishers, </publisher> <address> Los Altos, CA. </address>
+Reference: <author> Michalski, R. </author> <year> (1983). </year> <title> A Theory and Methodology of Inductive Learning. </title> <editor> In R. Michalski, J. Carbonell, and T. Mitchell (Eds.), </editor> <booktitle> Machine Learning: An Artificial Intelligence Approach (Vol. </booktitle> <volume> 1). </volume> <publisher> Tioga Publishing Co., </publisher> <address> Palo Alto, CA. </address>
+Reference: <author> Quinlan, J. R. </author> <year> (1986). </year> <title> Induction of Decision Trees. </title> <journal> Machine Learning, </journal> <volume> Volume 1, Number 1. </volume>
+Reference: <author> Quinlan, J. R. </author> <year> (1988). </year> <title> An Empirical Comparison of Genetic and Decision-Tree Classi fiers, </title> <booktitle> Proc. of the 5th Int'l Conference on Machine Learning, </booktitle> <address> June, 1988, </address> <publisher> Morgan Kaufman Publishers. </publisher>
+Reference: <author> Quinlan, J. R. </author> <year> (1989). </year> <title> Documentation and User's Guide for C4.5. </title> <note> (unpublished). </note>
+Reference: <author> Rendell, L. </author> <year> (1985). </year> <title> Genetic Plans and the Probabilistic Learning System: Synthesis and Results. </title> <booktitle> Proc. 1st Int'l Conference on Genetic Algorithms and their Applications. </booktitle>
+Reference: <author> Sen, S. </author> <year> (1988). </year> <title> Classifier System Learning of Multiplexer Function, </title> <note> Unpublished report available from Sandip Sen, </note> <institution> Department of Electrical Engineering, University of Alabama, Tuscaloosa, AL 35486. </institution>
+Reference: <author> Smith, S. F. </author> <year> (1983). </year> <title> Flexible Learning of Problem Solving Heuristics Through Adaptive Search, </title> <booktitle> Proc. 8th IJCAI, </booktitle> <month> August </month> <year> 1983. </year>
+Reference: <author> Spears, W. M. and K. A. </author> <title> De Jong (1990). Using Neural Networks and Genetic Algorithms as Heuristics for NP-Complete Problems, </title> <booktitle> International Joint Conference on Neural Networks. </booktitle>
+Reference: <author> Utgoff, Paul E. </author> <year> (1989). </year> <title> Improved Training via Incremental Learning, </title> <booktitle> Proc. of the 6th Int'l Workshop on Machine Learning, </booktitle> <pages> 62-65. </pages>
+Reference: <author> Wilson, S.W. </author> <year> (1987). </year> <title> Quasi-Darwinian Learning in a Classifier System, </title> <booktitle> Proc. of the 4th Int'l Workshop on Machine Learning, </booktitle> <address> June, 1987, </address> <publisher> Morgan Kaufman Publishing. </publisher> <pages> 6 </pages>
+References-found: 16
+

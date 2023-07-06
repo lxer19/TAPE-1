@@ -1,0 +1,25 @@
+URL: http://now.cs.berkeley.edu/Td/Papers/gridpix.ps
+Refering-URL: http://now.cs.berkeley.edu/Td/GridPix/
+Root-URL: 
+Email: asami@cs.berkeley.edu  
+Title: GridPix|A Method for Presenting Large Image Files Over the Internet (draft)  
+Author: Satoshi Asami 
+Note: Contents  
+Address: Berkeley, CA 94720-1776  
+Affiliation: University of California at Berkeley  
+Pubnum: Tertiary Disk Project  
+Abstract: This paper illustrates the design and implementation of GridPix, a simple way of presenting large images on the Internet. GridPix allows users to zoom in to portions of a large image and scroll around to view different parts. GridPix is a collection of server-side scripts and does not require the user to download a large plugin or an applet. The implementation of GridPix is done entirely in HTML, any thus can be viewed on virtually any graphical web browser, regardless of support for advanced features. It is immune to memory leaks and similar bugs, as caching of images are done by the operating system and the browser. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Nisha Talagala and Satoshi Asami. </author> <title> Tertiary Disk. </title> <booktitle> In Proceedings of the Joint NASA and IEEE Mass Storage Conference, </booktitle> <address> page ???, March 1998. </address>
+Reference-contexts: This approach will increase the total size of data transfer over the network. 3.5 Solutions The first problem is solved by Tertiary Disk, a 3TB disk storage system developed by the Tertiary Disk Project <ref> [1] </ref>. By connecting 400 9GB disks to 20 PCs over a high-speed network, it allows all the original PhotoCDs as well as human-processed TIFFs to be stored on-line. <p> int tilewidth, tileheight ; /* currently always 2 */ int ratio ; /* num of tiles in file */ int numfiles ; /* num of tiles in each layer */ int layersize [MaxLayers] ; - ; struct gridpix - struct gridheader header ; /* actually an array */ off_t offsets <ref> [1] </ref> ; - ; There is virtually no limit in either the number of layers or the image size. The only limits are the numbers representable by 32-bit signed integers used in various fields.
+Reference: [2] <author> Eastman Kodak, </author> <title> Microsoft, Hewlett-Packard, and Live Picture. FlashPix Format Specification, </title> <note> Version 1.0.1. </note> <year> 1997. </year>
+Reference-contexts: It can also be used to print high-quality pictures. GridPix takes care of the other three, as we will describe in detail in this paper. 4 Previous Solutions When we started development of GridPix, two other implementations of tile-based image viewers existed. They are called FlashPix <ref> [2] </ref> and GIS Viewer [3]. 4.1 FlashPix FlashPix, developed by Eastman Kodak and others, is a very powerful standard but is overkill for our purposes. It contains support for much more than simple tiled image storage.
+Reference: [3] <institution> The GIS viewer. </institution>
+Reference-contexts: GridPix takes care of the other three, as we will describe in detail in this paper. 4 Previous Solutions When we started development of GridPix, two other implementations of tile-based image viewers existed. They are called FlashPix [2] and GIS Viewer <ref> [3] </ref>. 4.1 FlashPix FlashPix, developed by Eastman Kodak and others, is a very powerful standard but is overkill for our purposes. It contains support for much more than simple tiled image storage.
+Reference: [4] <institution> Quadtree. </institution>
+Reference-contexts: Subsequently, the file format will be described in detail, as well as access functions. Finally, the usage and algorithm of the script to generate the HTML files is presented. 5.1 GridPix Images layers. Conceptually, GridPix images are similar to Quadtree <ref> [4] </ref> images. Each layer represents the image at a certain resolution. In the current implementation, the difference in resolution between adjacent layers is 2 in both dimensions; i.e., 4 pixels in one layer becomes one pixel in the layer underneath. This factor is not inherent to the design of GridPix. <p> The hidden purpose of that design is to easily allow future extensions of the file format. /* gridpix.h */ #define Magic "Grid" #define MaxLayers 20 struct gridheader - unsigned char magic <ref> [4] </ref> ; /* size of this struct */ int headersize ; int width, height ; int layers ; int tilewidth, tileheight ; /* currently always 2 */ int ratio ; /* num of tiles in file */ int numfiles ; /* num of tiles in each layer */ int layersize [MaxLayers]
+Reference: [5] <author> The Independent JPEG Group. </author> <title> The JPEG Standard. </title> <type> 7 8 </type>
+Reference-contexts: The header consists of information about the original image (width, height, etc.), parameter of the GridPix conversion (number of layers, ratio between layers, etc.) and an array of offsets of actual tile images. Each tile is stored as a JPEG file (JFIF format <ref> [5] </ref>), immediately starting after the header. Note that the header is variable-sized, and its size is stored near the beginning of the header itself, right after the magic number.
+References-found: 5
+

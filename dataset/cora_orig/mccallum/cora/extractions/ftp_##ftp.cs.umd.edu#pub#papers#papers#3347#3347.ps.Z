@@ -1,0 +1,20 @@
+URL: ftp://ftp.cs.umd.edu/pub/papers/papers/3347/3347.ps.Z
+Refering-URL: http://www.cs.umd.edu/TRs/TR.html
+Root-URL: 
+Title: A Parallel Implementation of the Block-GTH algorithm  
+Author: Yuan-Jye Jason Wu 
+Date: September 2, 1994  
+Abstract: The GTH algorithm is a very accurate direct method for finding the stationary distribution of a finite-state, discrete time, irreducible Markov chain. O'Leary and Wu developed the block-GTH algorithm and successfully demonstrated the efficiency of the algorithm on vector pipeline machines and on workstations with cache memory. In this paper, we discuss the parallel implementation of the block-GTH algorithm and show effective performance on the CM-5.
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> David M. Cohen, Daniel P. Heyman, Asya Rabinovitch, and Danit Brown. </author> <title> A parallel implementation of the GTH algorithm. Bellcore, </title> <address> Morristown, New Jersy, </address> <note> unpublished notes, </note> <year> 1994. </year>
+Reference-contexts: Cohen, Heyman, Rabinovitch, and Brown <ref> [1] </ref> also developed a parallel implementation on the MasPar system.
+Reference: [2] <author> W. K. Grassmann, M. I. Taksar, and D. P. Heyman. </author> <title> Regenerative analysis and steady state distributions. </title> <journal> Operations Research, </journal> <volume> 33 </volume> <pages> 1107-1116, </pages> <year> 1985. </year>
+Reference-contexts: This is equivalent to seeking the left eigenvector corresponding to the eigenvalue 1 of a transition matrix P of order n: P = ; i=1 Grassmann, Taksar and Heyman <ref> [2] </ref> introduced a direct algorithm, the GTH algorithm, to solve the steady-state vector .
+Reference: [3] <author> Daniel P. Heyman. </author> <title> Further comparisons of direct methods for computing stationary distributions of Markov chains. </title> <journal> SIAM J. Alg. Disc. Meth., </journal> <volume> 8 No.2:226-232, </volume> <year> 1987. </year>
+Reference-contexts: This is equivalent to seeking the left eigenvector corresponding to the eigenvalue 1 of a transition matrix P of order n: P = ; i=1 Grassmann, Taksar and Heyman [2] introduced a direct algorithm, the GTH algorithm, to solve the steady-state vector . Later Heyman <ref> [3] </ref> showed fl This work was supported by NSF Grant 91-15568. y Applied Mathematics Programs, University of Maryland, College Park, MD 20742. yunu@cs.umd.edu 1 that the GTH algorithm gave very good numerical results and O'Cinneide [4] showed that the computed vector has low componentwise relative error.
+Reference: [4] <author> C. A. O'Cinneide. </author> <title> Entrywise pertrubation theory and error analysis for Markov chains. </title> <note> Numerische Mathematik , to appear. 8 </note>
+Reference-contexts: Later Heyman [3] showed fl This work was supported by NSF Grant 91-15568. y Applied Mathematics Programs, University of Maryland, College Park, MD 20742. yunu@cs.umd.edu 1 that the GTH algorithm gave very good numerical results and O'Cinneide <ref> [4] </ref> showed that the computed vector has low componentwise relative error. Cohen, Heyman, Rabinovitch, and Brown [1] also developed a parallel implementation on the MasPar system.
+
+References-found: 4
+

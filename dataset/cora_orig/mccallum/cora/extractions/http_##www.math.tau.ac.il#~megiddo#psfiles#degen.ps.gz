@@ -1,0 +1,17 @@
+URL: http://www.math.tau.ac.il/~megiddo/psfiles/degen.ps.gz
+Refering-URL: http://www.math.tau.ac.il/~megiddo/pub.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: On the *-perturbation Method for Avoiding Degeneracy  
+Author: Nimrod Megiddo and R. Chandrasekaran 
+Keyword: linear programming, polynomial-time, perturbation, degeneracy. OR/MS Index: 650  
+Abstract: Although it is NP-complete to decide whether a linear programming problemis degenerate, the *-perturbation method can be used to reduce in polynomial time any linear programming problemwith rational coefficients to a nondegenerate problem. The perturbed problem has the same status as the given one in terms of feasibility and unboundedness, and optimal bases of the perturbed problem are optimal in the given problem. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> R. Chandrasekaran, S. N. Kabadi and K. G. Murty, </author> <title> "Some NP-complete problems in linear programming," </title> <note> Operations Research Letters 1 (1982) 101-104. </note>
+Reference-contexts: The problem (P ) is said to be primal degenerate if b is a linear combination of less than m columns of A. The problem of recognizing primal degeneracy is NP-complete <ref> [ 1 ] </ref> .
+Reference: [2] <author> A. Charnes, </author> <title> "Optimality and degeneracy in linear programming," </title> <note> Econometrica 20 (1952) 160-170. </note>
+Reference-contexts: Our aim here is to point out that for theoretical purposes degeneracy can easily be dispensed with in polynomial time. The basic idea is an old one and is known as the "*- perturbation" method due to Charnes <ref> [ 2 ] </ref> . In the context of simplex-type methods there is no need to determine a precise value for *.
+Reference: [3] <author> K. G. Murty, </author> <title> Linear Programming, </title> <publisher> John Wiley & Sons, </publisher> <address> New York, </address> <year> 1983. </year> <month> 7 </month>
+Reference-contexts: However, in this note we are interested only in the theoretical side. Many methods are known for avoiding the evils caused by degeneracy in the context of the simplex method (see, for example, Murty <ref> [ 3 ] </ref> ). When a new algorithm is proposed, the analysis is often complicated by the need to address degeneracy, and results are sometimes proved under a nondegeneracy assumption. Our aim here is to point out that for theoretical purposes degeneracy can easily be dispensed with in polynomial time.
+References-found: 3
+

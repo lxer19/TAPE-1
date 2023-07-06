@@ -1,0 +1,14 @@
+URL: http://www.mpik-tueb.mpg.de/people/personal/bs/papers/kpca.ps.gz
+Refering-URL: http://www.mpik-tueb.mpg.de/people/personal/bs/svm.html
+Root-URL: 
+Phone: 2  
+Title: Kernel Principal Component Analysis  
+Author: Bernhard Scholkopf Alexander Smola Klaus-Robert Muller 
+Affiliation: GMD  
+Address: 72076 Tubingen, Germany  FIRST, Rudower Chaussee 5, 12489 Berlin, Germany  
+Note: 1 Max-Planck-Institut f. biol. Kybernetik, Spemannstr. 38,  
+Abstract: A new method for performing a nonlinear form of Principal Component Analysis is proposed. By the use of integral operator kernel functions, one can efficiently compute principal components in high-dimensional feature spaces, related to input space by some nonlinear map; for instance the space of all possible d-pixel products in images. We give the derivation of the method and present experimental results on polynomial feature extraction for pattern recognition.
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

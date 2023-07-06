@@ -1,0 +1,15 @@
+URL: http://www.cs.cmu.edu/afs/cs/user/pstone/public/papers/iros96/memory/final-paper.ps.gz
+Refering-URL: http://www.cs.cmu.edu/afs/cs/usr/pstone/mosaic/pstone-papers.html
+Root-URL: 
+Email: mhb@cs.cmu.edu pstone@cs.cmu.edu veloso@cs.cmu.edu  
+Title: Predictive Memory for an Inaccessible Environment  
+Author: Mike Bowling Peter Stone Manuela Veloso 
+Address: Pittsburgh PA 15213-3890  
+Affiliation: Computer Science Department Carnegie Mellon University  
+Abstract: Inaccessible and nondeterministic environments are very common in real-world problems. One of the difficulties in these environments is representing the knowledge about the unknown aspects of the state. We present a solution to this problem for the robotic soccer domain, an inaccessible and nondeterministic environment. We developed a predictive memory model that builds a probabilistic representation of the state based on past observations. By making the right assumptions, an effective model can be created that can store and update knowledge for even the inaccessible parts of the environment. Experiments were conducted to compare the effectiveness of our approach with a simpler approach, which ignored the inaccessible parts of the environment. The experiments consisted of using the memory models in a situation of a free ball, where two players are racing after the ball to be the first to pass it or kick it to one of their teammates or the goal. The results obtained demonstrate that this predictive approach does generate an effective memory model, which outperforms a non-predictive model.
+Abstract-found: 1
+Intro-found: 1
+Reference: [ Noda, 1995 ] <author> Itsuki Noda. </author> <title> Soccer server : a simulator of RoboCup. </title> <booktitle> In Proceedings of AI symposium '95, </booktitle> <pages> pages 29-34. </pages> <publisher> Japanese Society for AI, </publisher> <month> December </month> <year> 1995. </year>
+Reference-contexts: The purpose of this paper is to allow others currently using or planning to use the Soccer Server system to duplicate our memory model for their own use. 2 Simulator The memory model was created for use by client programs for Noda's soccer server <ref> [ Noda, 1995 ] </ref> . The server provides a virtual field and simulates the motion of two teams of players and the ball. The players are controlled by separate client programs which connect to the server using UDP/IP sockets.
+References-found: 1
+

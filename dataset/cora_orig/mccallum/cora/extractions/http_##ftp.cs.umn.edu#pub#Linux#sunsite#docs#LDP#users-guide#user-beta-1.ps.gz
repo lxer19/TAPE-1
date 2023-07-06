@@ -1,0 +1,14 @@
+URL: http://ftp.cs.umn.edu/pub/Linux/sunsite/docs/LDP/users-guide/user-beta-1.ps.gz
+Refering-URL: http://ftp.cs.umn.edu/pub/Linux/sunsite/docs/LDP/users-guide/
+Root-URL: http://www.cs.umn.edu
+Title: The Linux Users' Guide All you need to know to start using Linux, a free
+Date: 1993, 1994, 1996 Larry Greenfield  
+Note: Copyright c  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> Almesberger, Werner. LILO: </author> <title> Generic Boot Loader for Linux. </title> <note> Available electronically: tsx-11.mit.edu. </note> <month> July 3, </month> <year> 1993. </year>
+Reference: [2] <author> Bach, Maurice J. </author> <title> The Design of the UNIX Operating System. </title> <address> Englewood Cliffs, New Jersey: </address> <publisher> Prentice-Hall, Inc. </publisher> <year> 1986. </year>
+Reference: [3] <author> Lamport, Leslie. </author> <title> L A T E X: A Document Preparation System. </title> <address> Reading, Massachusetts: </address> <publisher> Addison-Wesley Publishing Company. </publisher> <year> 1986. </year>
+
+References-found: 3
+

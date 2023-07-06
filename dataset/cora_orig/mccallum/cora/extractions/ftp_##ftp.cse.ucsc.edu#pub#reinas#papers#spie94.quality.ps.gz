@@ -1,0 +1,19 @@
+URL: ftp://ftp.cse.ucsc.edu/pub/reinas/papers/spie94.quality.ps.gz
+Refering-URL: http://www.cse.ucsc.edu/research/slvg/quality.html
+Root-URL: http://www.cse.ucsc.edu
+Title: Data quality issues in visualization  
+Author: Alex Pang, Jeff Furman Wendell Nuss 
+Address: Santa Cruz, CA 95064  Monterey, CA 93943  
+Affiliation: Computer and Information Sciences Board University of California,  Department of Meteorology Naval Postgraduate School,  
+Abstract: Recent efforts in visualization have concentrated on high volume data sets from numerical simulations and medical imaging. There is another large class of data, characterized by their spatial sparsity with noisy and possibly missing data points, that also need to be visualized. Two places where these type of data sets can be found are in oceanographic and atmospheric science studies. In such cases, it is not uncommon to have on the order of one percent of sampled data available within a space volume. Techniques that attempt to deal with the problem of filling-in-the-holes range in complexity from simple linear interpolation to more sophisticated multiquadric and optimal interpolation techniques. These techniques will generally produce results that do not fully agree with each other. To avoid misleading the users, it is important to highlight these differences and make sure the users are aware of the idiosyncrasies of the different methods. This paper compares some of these interpolation techniques on sparse data sets and also discusses how other parameters such as confidence levels and drop-off rates may be incorporated into the visual display. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> L.L. Schumaker. </author> <title> Fitting surfaces to scattered data. </title> <editor> In C.K. Chui G.G. Lorentz and L.L. Schumaker, editors, </editor> <booktitle> Approximation Theory II, </booktitle> <pages> pages 203-268. </pages> <publisher> Academic Press, </publisher> <year> 1976. </year>
+Reference: [2] <author> D.E. Long et al. REINAS: </author> <title> Real-time environmental information network and analysis system: Concept statement. </title> <type> Technical Report CRL-93-05, </type> <institution> UCSC, </institution> <month> January </month> <year> 1993. </year>
+Reference: [3] <author> R.E. Barnhill, R.P. Dube, and F.F. Little. </author> <title> Properties of Shepard's surfaces. </title> <journal> Rocky Mountain Journal of Mathematics, </journal> <volume> 13(2) </volume> <pages> 365-382, </pages> <year> 1983. </year>
+Reference: [4] <author> R.E. Barnhill and S.E. Stead. </author> <title> Multistage trivariate surfaces. </title> <journal> Rocky Mountain Journal of Mathematics, </journal> <volume> 14(1) </volume> <pages> 103-118, </pages> <year> 1984. </year>
+Reference: [5] <author> R.L. Hardy. </author> <title> The application of multiquadric equations and point mass anomaly models to crustal movement studies. </title> <type> Technical Report NOS 76 NGS 11, </type> <institution> NOAA, </institution> <month> November </month> <year> 1978. </year>
+Reference: [6] <author> E.J. Kansa. </author> <title> A comparative study of finite difference and multiquadric schemes for the euler equations. </title> <booktitle> Simulation, </booktitle> <pages> pages 180-183, </pages> <year> 1988. </year>
+Reference: [7] <author> W.A. Nuss and D.W. Titley. </author> <title> Use of multiquadric interpolation for meteorological objective analysis. </title> <note> submitted to Monthly Weather Review, </note> <year> 1993. </year>
+References-found: 7
+

@@ -1,0 +1,22 @@
+URL: http://www.eecis.udel.edu:80/~marvel/marvel_sprobst.ps.gz
+Refering-URL: http://www.eecis.udel.edu:80/~marvel/
+Root-URL: http://www.cis.udel.edu
+Title: Robust Source Coding of Images for Very Noisy Channels Robust source coding provides the compression
+Author: Lisa M. Marvel, Ali S. Khayrallah, and Charles G. Boncelet, Jr. EDICS: SP .. 
+Date: 1999  Abstract  
+Note: To appear in IEEE Transactions on Signal Processing,  Findings show that although PTCQ has better rate-distortion  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> K. Sayood and J.C. Borkenhagen. </author> <title> Use of residual redundancy in the design of joint source/channel coders. </title> <journal> IEEE Transactions on Communications, </journal> <volume> 39(6) </volume> <pages> 838-846, </pages> <month> June </month> <year> 1991. </year>
+Reference: [2] <author> A. S. Khayrallah. </author> <title> Nonlinear filters in joint source channel coding of images. </title> <booktitle> Presented at the IEEE International Symposium on Information Theory, </booktitle> <address> Whistler, CA, </address> <month> September </month> <year> 1995. </year>
+Reference: [3] <author> M. W. Marcellin and T. R. Fischer. </author> <title> Predictive trellis coded quantization of speech. </title> <journal> IEEE Transactions on Acoustics, Speech and Signal Processing, </journal> <volume> 38(1) </volume> <pages> 46-55, </pages> <month> January </month> <year> 1990. </year>
+Reference: [4] <author> R. C. Gonzalez and R. E. Woods. </author> <title> Digital Image Processing. </title> <publisher> Addison-Wesley Publishing, </publisher> <address> New York, NY, </address> <year> 1992. </year>
+Reference: [5] <author> M. W. Marcellin and T. R. Fischer. </author> <title> Trellis coded quantization of memoryless and Gauss-Markov sources. </title> <journal> IEEE Transactions on Communications, </journal> <volume> 38(1) </volume> <pages> 82-93, </pages> <month> January </month> <year> 1990. </year>
+Reference: [6] <author> G. Ungerboeck. </author> <title> Channel coding with multilevel/phase signals. </title> <journal> IEEE Transactions on Information Theory, </journal> <volume> 28(1) </volume> <pages> 55-67, </pages> <month> January </month> <year> 1982. </year>
+Reference: [7] <author> G. Ungerboeck. </author> <title> Trellis-coded modulation with redundant signal sets, parts 1 and 2. </title> <journal> IEEE Communications Magazine, </journal> <volume> 25(2) </volume> <pages> 5-21, </pages> <month> February </month> <year> 1987. </year>
+Reference: [8] <author> M. Wang and T. R. Fischer. </author> <title> Trellis-coded quantization designed for noisy channels. </title> <journal> IEEE Transactions on Information Theory, </journal> <volume> 40(6) </volume> <pages> 1792-1802, </pages> <month> November </month> <year> 1994. </year>
+Reference: [9] <author> P. Sriram and M. W. Marcellin. </author> <title> Performance of adaptive prediction algorithms for trellis coded quantization of speech. </title> <journal> IEEE Transactions on Communications, </journal> 42(2/3/4):1512-1517, February/March/April 1994. 
+Reference: [10] <author> F. Palmieri and C. G. Boncelet, Jr. </author> <title> Ll-filters anew class of order statistic filters. </title> <journal> IEEE Transactions on Acoustics, Speech, and Signal Processing, </journal> <volume> 37(5) </volume> <pages> 691-701, </pages> <month> May </month> <year> 1989. </year>
+Reference: [11] <author> R. Hardie and C. G. Boncelet, Jr. </author> <title> Lum filters: A class of rank-order-based filters for smoothing and sharpening. </title> <journal> IEEE Transactions on Signal Processing, </journal> <volume> 41(3) </volume> <pages> 1061-1076, </pages> <month> March </month> <year> 1993. </year> <month> 9 </month>
+References-found: 11
+

@@ -1,0 +1,25 @@
+URL: http://www.cs.ucla.edu/~stott/Student.Publications/Ram.PhDdissertation.ps.Z
+Refering-URL: http://www.cs.ucla.edu/~stott/sdb/abstracts.html
+Root-URL: http://www.cs.ucla.edu
+Title: [Par80] D.S. Parker. "Conditions for Optimality of the Huffman Algorithm."  
+Address: Englewood Cliffs, NJ, 1982.  
+Date: 9(3):470-489, August 1980.  
+Note: SIAM J. Comput.,  [Pig12] A.C. Pigou. Wealth and Welfare. Macmillan, NewYork, 1912. [PS82] C.H. Papadimitriou and K.S. Stieglitz. Combinatorial Optimization. Prentice-Hall,  [RS62] R.E.Bellman and S.E.Dreyfus. Applied Dynamic Programming. Princeton University Press, 1962. [TCR90] T.Cormen, C.Leiserson, and R.Rivest. Introduction To Algorithms. MIT Press, 1990. [Wel76] D.J.A. Welsh. Matroid Theory. Academic Press, 1976. [Whi35] H. Whitney. "On the Abstract Properties of Linear Dependence." Am. J. Math, 57:509-533, 1935. 99  
+Abstract-found: 0
+Intro-found: 1
+Reference: [AM52] <author> A.M.Ostrowski. </author> <title> "Sur quelques applications des fonctions convexes et concaves au sens de I.Schur." </title> <journal> J. Math. Pures Appl., </journal> <volume> 31(9) </volume> <pages> 253-292, </pages> <year> 1952. </year>
+Reference: [Bir46] <author> G. Birkhoff. </author> <title> "Tres Observaciones sobre el algebra lineal." </title> <journal> Univ. Nac. Tacuman Rev. Ser., </journal> <volume> 5 </volume> <pages> 147-151, </pages> <year> 1946. </year>
+Reference: [CMM67] <author> R.W. Conway, W.L. Maxwell, and L.W. Miller. </author> <title> Theory Of Scheduling. </title> <publisher> Addison-Wesley, </publisher> <year> 1967. </year>
+Reference: [CR76] <author> C.R.Glassey and R.M.Karp. </author> <title> "On the optimality of Huffman Trees." </title> <journal> SIAM J. of Applied Mathematics, </journal> <volume> 31 </volume> <pages> 368-372, </pages> <year> 1976. </year>
+Reference: [DA52] <author> D.A.Huffman. </author> <title> "A method for the construction of minimum redundancy codes." </title> <booktitle> In Proc. IRE, </booktitle> <volume> 40, </volume> <pages> pp. 1098-1101, </pages> <year> 1952. </year>
+Reference: [Dal20] <author> H. Dalton. </author> <title> "The measurement of the inequality of incomes." </title> <journal> Journal of Economics, </journal> <volume> 30 </volume> <pages> 348-361, </pages> <year> 1920. </year>
+Reference: [DD89] <author> A. Dechter and R. Dechter. </author> <title> "On the Greedy Solution of Ordering Problems." </title> <journal> ORSA Journal on Computing, </journal> <volume> 1(3) </volume> <pages> 181-189, </pages> <month> Summer </month> <year> 1989. </year>
+Reference: [Edm70] <author> J. Edmonds. </author> <title> Submodular Functions, Matroids and Certain Polyhedra. </title> <publisher> Gordon and Breach, </publisher> <year> 1970. </year>
+Reference: [HLP78] <author> G.H. Hardy, J.E. Littlewood, and G. Polya. </author> <title> Inequalities. </title> <publisher> Cambridge University Press, </publisher> <year> 1978. </year>
+Reference: [Hof61] <author> A.J. Hoffman. </author> <title> On Simple Linear Programming Problems. </title> <publisher> American Mathematical Society, </publisher> <year> 1961. </year>
+Reference: [HS78] <author> E. Horowitz and S. Sahni. </author> <title> Fundamentals of Computer Algorithms. </title> <publisher> Computer Science Press, </publisher> <address> Potomac, MD, </address> <year> 1978. </year>
+Reference: [Hwa79] <author> F.K. Hwang. </author> <title> "Majorization On A Partially Ordered Set." </title> <journal> In Proc. American Math. Soc., </journal> <volume> 76, </volume> <pages> pp. 227-237, </pages> <year> 1979. </year>
+Reference: [IS23] <author> I.Schur. </author> <title> "Uber eine Klasse von Mittelbildungen mit Anwendungen auf die Determinantentheorie." </title> <journal> Sitzunber. Berl. Math. Ges., </journal> <volume> 22 </volume> <pages> 9-20, </pages> <year> 1923. </year>
+
+References-found: 13
+

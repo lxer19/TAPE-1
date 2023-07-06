@@ -1,0 +1,24 @@
+URL: http://www.iiia.csic.es/~cerquide/publ/fuzzymeta.ps.gz
+Refering-URL: http://www.iiia.csic.es/Reports/1997/IIIA-RR-97.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Email: fmantaras, cerquideg@iiia.csic.es  
+Title: Fuzzy metaqueries for guiding the Discovery Process in KDD  
+Author: Jesus Cerquides, Ramon Lopez de Mantaras 
+Address: 08193, Bellaterra, Barcelona, Spain  
+Affiliation: Artificial Intelligence Research Institute, IIIA Spanish Council for Scientific Research, CSIC  
+Abstract: This paper introduces the concept of fuzzy metaqueries and describes a framework for knowledge discovery that has fuzzy metaqueries as its base. Fuzzy metaqueries are second order like fuzzy rules, very useful for the integration of inductive learning, deductive verification, human intuition and uncertainty handling.
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> B. Kero, L. Russell, S. Tsur, and W.M. Shen. </author> <title> An Overview of Database Mining Techniques. In DOOD95 Workshop on the Integration of Knowledge Discovery with Deductive and Object Oriented Databases, </title> <year> 1995. </year>
+Reference: [2] <author> G.J. Klir and B. Yuan. </author> <title> Fuzzy Sets and Fuzzy Logic. Theory and Applications. </title> <publisher> Prentice Hall, </publisher> <year> 1995. </year>
+Reference-contexts: Further information on this topic can be found in Section 10.7 of <ref> [2] </ref>. * The fuzzy concept editor allows the user to view concepts learnt by the fuzzy concept learner, modify them, delete those that he feels are not significant and define new ones that he thinks are important. * The metaquery execution module, realizes most of the work.
+Reference: [3] <author> B. Leng and W.M. Shen. </author> <title> A Metapattern-Based Automated Discovery Loop. In DOOD95 Workshop on the Integration of Knowledge Discovery with Deductive and Object Oriented Databases, </title> <year> 1995. </year>
+Reference: [4] <author> C.J. Matheus, P.K. Chan, and G. Piatetsky-Shapiro. </author> <title> Systems for Knowledge Discovery in Databases. </title> <journal> IEEE Transactions on Knowledge and Data Engineering, </journal> <volume> 5(6), </volume> <year> 1993. </year>
+Reference: [5] <author> W.M. Shen and B. Leng. </author> <title> A Metapattern-Based Automated Discovery Loop for Integrated Data Mining. </title> <journal> IEEE Transactions on Knowledge and Data Engineering, </journal> <note> to appear, </note> <year> 1996. </year>
+Reference-contexts: Also the inclusion of other characteristics of fuzzy logic as fuzzy quantifiers, hedges and qualified propositions in fuzzy metaqueries has not been studied, and its introduction can surely improve the quality of knowledge discovered by them. Strategies for metaquery suggestion are studied in <ref> [5] </ref>. A similar study must be realized for fuzzy metaqueries. 7 Acknowledgements Jesus Cerquides research is supported by a doctoral scholarship of the CIRIT (Generalitat de Catalunya).
+Reference: [6] <author> W.M. Shen and B. Leng. </author> <title> Metapattern Generation for Integrated Data Mining. </title> <booktitle> In The 2nd International Conference on KDD, </booktitle> <year> 1996. </year>
+Reference: [7] <author> W.M. Shen, B. Leng, and A. Chatterjee. </author> <title> Applying the Metapattern Mechanism to Time Sequence Analysis. </title> <type> Technical report, </type> <institution> USC-ISI-95-117, </institution> <year> 1995. </year>
+Reference: [8] <author> W.M. Shen, K. Ong, B. Mitbander, and C. Zaniolo. </author> <title> Metaqueries for Data Mining. </title> <editor> In Smyth Fayyad, Piatetsky-Shapiro and Uthurusamy, editors, </editor> <booktitle> Advances in Knowledge Discovery and Data Mining. </booktitle> <publisher> MIT Press, </publisher> <year> 1996. </year> <month> 7 </month>
+Reference: [9] <author> L.A. Zadeh. </author> <title> The concept of a linguistic variable and its application to approximate reasning. </title> <journal> Information Sciences, </journal> <volume> 8 and 9, </volume> <year> 1976. </year> <month> 8 </month>
+References-found: 9
+

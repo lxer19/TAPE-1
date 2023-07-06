@@ -1,0 +1,14 @@
+URL: http://www.cs.umd.edu/users/rgc/pub/fg98.ps.gz
+Refering-URL: http://www.cs.umd.edu/users/rgc/pub/index.html
+Root-URL: 
+Email: rgc@cs.umd.edu  mturk@microsoft.com  
+Title: View-based Interpretation of Real-time Optical Flow for Gesture Recognition  
+Author: Ross Cutler Matthew Turk 
+Address: College Park, Maryland  Redmond, Washington  
+Affiliation: Univerity of Maryland  Microsoft Research  
+Note: Third IEEE International Conference on Automatic Face and Gesture Recognition, April 14-16, 1998, Nara, Japan 1  
+Abstract: We have developed a real-time, view-based gesture recognition system. Optical flow is estimated and segmented into motion blobs. Gestures are recognized using a rule-based technique based on characteristics of the motion blobs such as relative motion and size. Parameters of the gesture (e.g., frequency) are then estimated using context specific techniques. The system has been applied to create an interactive environment for children. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

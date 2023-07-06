@@ -1,0 +1,34 @@
+URL: http://www.cs.cmu.edu/~mccallum/papers/hier-icml98.ps.gz
+Refering-URL: http://www.cs.cmu.edu/~mccallum/
+Root-URL: 
+Email: mccallum@justresearch.com  roni@cs.cmu.edu  mitchell+@cs.cmu.edu  ayn@ai.mit.edu  
+Title: Improving Text Classification by Shrinkage in a Hierarchy of Classes  
+Author: Andrew McCallum Ronald Rosenfeld Tom Mitchell Andrew Y. Ng 
+Address: 4616 Henry Street Pittsburgh, PA 15213  Pittsburgh, PA 15213  545 Technology Square Cambridge, MA 02139  
+Affiliation: Just Research  School of Computer Science Carnegie Mellon University  Lab  
+Pubnum: MIT AI  
+Abstract: This paper shows that the accuracy of a naive Bayes text classifier can be significantly improved by taking advantage of a hierarchy of classes. We adopt an established statistical technique called shrinkage that smoothes parameter estimates of a data-sparse child with its parent in order to obtain more robust parameter estimates. The approach is also employed in deleted interpolation, a technique for smoothing n-grams in language modeling for speech recognition. Our method scales well to large data sets, with numerous categories in large hierarchies. Experimental results on three real-world data sets from UseNet, Yahoo, and corporate web pages show improved performance, with a reduction in error up to 29% over the tradi tional flat classifier.
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Bahl, L.; Brown, P.; deSouza, P.; and Mercer, R. </author> <year> 1989. </year> <title> A tree-based statistical language model for natural language speech recognition. </title> <booktitle> IEEE Transactions on Acoustics, Speech and Signal Processing 37 </booktitle> <pages> 1001-1008. </pages>
+Reference: <author> Carlin, B., and Louis, T. </author> <year> 1996. </year> <title> Bayes and Empirical Bayes Methods for Data Analysis. </title> <publisher> Chapman and Hall. </publisher>
+Reference: <author> Dempster, A. P.; Laird, N. M.; and Rubin, D. B. </author> <year> 1977. </year> <title> Maximum likelihood from incomplete data via the EM. algorithm. </title> <journal> Journal of the Royal Statistical Society, </journal> <volume> Series B 39 </volume> <pages> 1-38. </pages>
+Reference: <author> Domingos, P., and Pazzani, M. </author> <year> 1997. </year> <title> On the optimality of the simple Bayesian classifier under zero-one loss. </title> <booktitle> Machine Learning 29 </booktitle> <pages> 103-130. </pages>
+Reference: <author> Friedman, J. H. </author> <year> 1997. </year> <title> On bias, variance, 0/1 loss, </title> <booktitle> and the curse-of-dimensionality. Data Mining and Knowledge Discovery 1 </booktitle> <pages> 55-77. </pages>
+Reference: <author> Hofmann, T., and Puzicha, J. </author> <year> 1998. </year> <title> Statistical models for co-occurrence data. </title> <type> Technical report, </type> <institution> Artificial Intelligence Laboratory and Center for Biological and Computational Learning, MIT. </institution> <note> AI Memo 1625, CBCL Memo 159. </note>
+Reference: <author> James, W., and Stein, C. </author> <year> 1961. </year> <title> Estimation with quadratic loss. </title> <booktitle> In Proceedings of the Fourth Berkeley Symposium on Mathematical Statistics and Probability 1, </booktitle> <pages> 361-379. </pages> <publisher> University of California Press. </publisher>
+Reference: <author> Jelinek, F., and Mercer, R. </author> <year> 1980. </year> <title> Interpolated estimation of Markov source parameters from sparse data. </title> <editor> In Gelsema, S., and Kanal, L. N., eds., </editor> <booktitle> Pattern Recognition in Practice, </booktitle> <pages> 381-402. </pages>
+Reference: <author> Joachims, T. </author> <year> 1997. </year> <title> A probabilistic analysis of the Roc-chio algorithm with TFIDF for text categorization. </title> <booktitle> In International Conference on Machine Learning (ICML). </booktitle>
+Reference: <author> Koller, D., and Sahami, M. </author> <year> 1997. </year> <title> Hierarchically classifying documents using very few words. </title> <booktitle> In ICML-97: Proceedings of the Fourteenth International Conference on Machine Learning, </booktitle> <pages> 170-178. </pages> <publisher> Morgan Kaufmann. </publisher>
+Reference: <author> Lewis, D., and Ringuette, M. </author> <year> 1994. </year> <title> A comparison of two learning algorithms for text categorization. </title> <booktitle> In Third Annual Symposium on Document Analysis and Information Retrieval, </booktitle> <pages> 81-93. </pages>
+Reference: <author> MacKay, D., and Peto, L. B. </author> <year> 1994. </year> <title> A hierarchical dirichlet language model. </title> <booktitle> Natural Language Engineering 1(1). </booktitle>
+Reference: <author> McCallum, A., and Nigam, K. </author> <year> 1998. </year> <title> A comparison of event models for naive Bayes text classification. </title> <booktitle> In AAAI-98 Workshop on Learning for Text Categorization. </booktitle> <address> http://www.cs.cmu.edu/~mccallum. </address>
+Reference: <author> Mitchell, T. M. </author> <year> 1998. </year> <title> Conditions for the equivalence of hierarchical and flat Bayesian classifiers. </title> <address> http://www.cs.cmu.edu/~tom/hierproof.ps. </address>
+Reference: <author> Nigam, K.; McCallum, A.; Thrun, S.; and Mitchell, T. </author> <year> 1998. </year> <title> Learning to classify text from labeled and unlabeled documents. </title> <booktitle> In Proceedings of the Fifteenth National Conference on Artificial Intelligence, </booktitle> <address> AAAI-98. </address>
+Reference: <author> Salton, G. </author> <year> 1991. </year> <title> Developments in automatic text retrieval. </title> <booktitle> Science 253 </booktitle> <pages> 974-979. </pages>
+Reference: <author> Seymore, K., and Rosenfeld, R. </author> <year> 1997. </year> <title> Using story topics for language model adaptation. </title> <booktitle> In Eurospeech. </booktitle>
+Reference: <author> Singer, Y. </author> <year> 1997. </year> <title> Adaptive mixtures of probabilistic transducers. </title> <booktitle> Neural Computation 9(8). </booktitle>
+Reference: <author> Stein, C. </author> <year> 1955. </year> <title> Inadmissibility of the usual estimator for the mean of a multivariate normal distribution. </title> <booktitle> In Proceedings of the Third Berkeley Symposium on Mathematical Statistics and Probability 1, </booktitle> <pages> 197-206. </pages> <publisher> University of California Press. </publisher>
+Reference: <author> Yang, Y., and Pederson, J. </author> <year> 1997. </year> <title> Feature selection in statistical learning of text categorization. </title> <booktitle> In ICML-97, </booktitle> <pages> 412-420. </pages>
+References-found: 20
+

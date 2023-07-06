@@ -1,0 +1,15 @@
+URL: ftp://ftp.cs.umd.edu/pub/papers/papers/3132/3132.ps.Z
+Refering-URL: http://www.cs.umd.edu/TRs/TR.html
+Root-URL: 
+Email: Email: ahlberg@cs.chalmers.se, ben@cs.umd.edu  
+Phone: Tel: +1-301-405-2680  
+Title: The Alphaslider: A Compact and Rapid Selector  
+Author: Christopher Ahlberg and Ben Shneiderman 
+Keyword: Alphaslider, widget, selection technology, menus, dynamic queries  
+Address: College Park, MD 20742  
+Affiliation: Department of Computer Science, Human-Computer Interaction Laboratory Institute for Systems Research University of Maryland,  
+Abstract: Research has suggested that rapid, serial, visual presentation of text (RSVP) may be an effective way to scan and search through lists of text strings in search of words, names, etc. The Alphaslider widget employs RSVP as a method for rapidly scanning and searching lists or menus in a graphical user interface environment. The Alphaslider only uses an area less than 7 cm x 2.5 cm. The tiny size of the Alphaslider allows it to be placed on a credit card, on a control panel for a VCR, or as a widget in a direct manipulation based database interface. An experiment was conducted with four Alphaslider designs which showed that novice Alphaslider users could locate one item in a list of 10,000 film titles in 24 seconds on average, an expert user in about 13 seconds. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

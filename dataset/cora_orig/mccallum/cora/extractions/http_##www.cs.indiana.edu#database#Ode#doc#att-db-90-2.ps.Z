@@ -1,0 +1,19 @@
+URL: http://www.cs.indiana.edu/database/Ode/doc/att-db-90-2.ps.Z
+Refering-URL: http://www.cs.indiana.edu/database/Ode/doc/
+Root-URL: http://www.cs.indiana.edu
+Title: OdeView: The Graphical Interface to Ode  
+Author: R. Agrawal* N. H. Gehani J. Srinivasan 
+Address: Murray Hill, New Jersey 07974  Murray Hill, New Jersey 07974  West Lafayette, IN 47907  
+Affiliation: AT&T Bell Laboratories  AT&T Bell Laboratories  AT&T Bell Laboratories  
+Abstract: OdeView is the graphical front end for Ode, an object-oriented database system and environment. Ode's data model supports data encapsulation, type inheritance, and complex objects. OdeView provides facilities for examining the database schema (i.e., the object type or class hierarchy), examining class definitions, browsing objects, following chains of references starting from an object, synchronized browsing, displaying selected portions of objects (projection), and retrieving objects with specific characteristics (selection). OdeView does not need to know about the internals of Ode objects. Consequently, the internals of specific classes are not hardwired into OdeView and new classes can be added to the Ode database without requiring any changes to or recompilation of OdeView. Just as OdeView does not know about the object internals, class functions (methods) for displaying objects are written without knowing about the specifics of the windowing software used by OdeView or the graphical user interface provided by it. In this paper, we present OdeView, and discuss its design and implementation. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> R. Agrawal and N. H. Gehani, </author> <title> ``Ode (Object Database and Environment): The Language and the Data Model'', </title> <booktitle> Proc. ACM-SIGMOD 1989 Int'l Conf. Management of Data, </booktitle> <address> Portland, Oregon, </address> <month> May-June </month> <year> 1989, </year> <pages> 36-45. </pages>
+Reference-contexts: 1. INTRODUCTION OdeView is the graphical front end to Ode <ref> [1, 2] </ref>, a database system and environment based on the object paradigm. Ode is an attempt to build a database system that offers one integrated data model for both database and general purpose manipulation.
+Reference: [2] <author> R. Agrawal and N. H. Gehani, </author> <title> ``Rationale for the Design of Persistence and Query Processing Facilities in the Database Programming Language O++'', </title> <booktitle> 2nd Int'l Workshop on Database Programming Languages, </booktitle> <address> Portland, OR, </address> <month> June </month> <year> 1989. </year>
+Reference-contexts: 1. INTRODUCTION OdeView is the graphical front end to Ode <ref> [1, 2] </ref>, a database system and environment based on the object paradigm. Ode is an attempt to build a database system that offers one integrated data model for both database and general purpose manipulation.
+Reference: [3] <author> D. Byrce and R. Hull, </author> <title> ``SNAP: A Graphics-Based Schema Manager'', </title> <booktitle> Proc. IEEE 2nd Int'l Conf. Data Engineering, </booktitle> <address> Los Angeles, California, </address> <month> Feb. </month> <year> 1986, </year> <pages> 151-164. </pages>
+Reference: [4] <author> D. M. Campbell, D. W. Embley and B. Czejdo, </author> <title> ``Graphical Query Formulation for an Entity-Relationship Model'', </title> <journal> Data and Knowledge Eng. </journal> <volume> 2, </volume> <year> (1986), </year> <pages> 89-121. </pages>
+Reference: [5] <author> T. Catarci and G. Santucci, </author> <title> ``Query By Diagram: </title>
+References-found: 5
+

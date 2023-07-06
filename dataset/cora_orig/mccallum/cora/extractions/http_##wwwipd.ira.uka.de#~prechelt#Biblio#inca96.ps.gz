@@ -1,0 +1,25 @@
+URL: http://wwwipd.ira.uka.de/~prechelt/Biblio/inca96.ps.gz
+Refering-URL: http://wwwipd.ira.uka.de/~prechelt/
+Root-URL: 
+Email: (email: prechelt@ira.uka.de)  
+Phone: ++49/721/608-4068, Fax: ++49/721/694092  
+Title: INCA: A Multi-Choice Model of Cooperation Under Restricted Communication  
+Author: Lutz Prechelt 
+Date: 1995  
+Note: To appear in "BioSystems" special issue about the Prisoner's Dilemma,  
+Address: 76128 Karlsruhe, Germany  
+Affiliation: Fakultat Informatik Universitat Karlsruhe  
+Abstract: The advantage of the iterated prisoner's dilemma as a model of interaction is its simplicity, which allows deep mathematical analysis. On the other hand, it is unrealistic to assume that there are only two possible actions, that one always knows in advance what constitutes cooperative actions, and that successive actions are independent of each other. The present work proposes an extended interaction model with multiple action choices, only vague a priori notion of cooperativeness, action selection constraints from previous choices, and the possibility of gradual cooperation. The model assumes that the partners cannot communicate except for through their action choices. The model was explored experimentally. The results indicate that cooperation may not always be achieved as easily as the iterated prisoner's dilemma model suggests and that extended interaction models should be used as additional tools for interaction analysis.
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Dan Ashlock, Mark D. Smucker, E. Ann Stanley, and Leigh Tesfatsion. </author> <title> Preferential partner selection in an evolutionary study of Prisoner's Dilemma. </title> <journal> BioSystems, </journal> <note> in this issue. </note>
+Reference: [2] <author> Robert Axelrod. </author> <title> The Evolution of Cooperation. </title> <publisher> Basic Books, Harper Collins, </publisher> <year> 1984. </year>
+Reference: [3] <author> Jonathan Bendor, Roderick M. Kramer, and Suzanne Stout. </author> <title> When in doubt: : : : Cooperation in a noisy Prisoner's Dilemma. </title> <journal> Journal of Conflict Resolution, </journal> <volume> 35(4) </volume> <pages> 691-719, </pages> <month> December </month> <year> 1991. </year>
+Reference: [4] <author> Patrick Grim. </author> <title> The evolution of greater generosity in the Spatialized Prisoner's Dilemma. </title> <journal> BioSystems, </journal> <note> in this issue. 8 </note>
+Reference: [5] <author> R. E. Knox and R.L. Douglas. </author> <title> Trivial incentives, marginal comprehension, and dubious gen eralizations from Prisoner's Dilemma studies. </title> <journal> Journal of Personality and Social Psychology, </journal> <volume> 20 </volume> <pages> 160-165, </pages> <year> 1971. </year>
+Reference: [6] <author> C. Nemeth. </author> <title> Bargaining and reciprocity. </title> <journal> Psychological Bulletin, </journal> <volume> 74 </volume> <pages> 297-308, </pages> <year> 1970. </year>
+Reference: [7] <author> C. Nemeth. </author> <title> A critical analysis of research utilizing the Prisoner's Dilemma paradigm for the study of bargaining. </title> <editor> In L. Berkowitz, editor, </editor> <booktitle> Advances in Experimental Social Psychology, </booktitle> <volume> Vol. 6, </volume> <pages> pages 203-234. </pages> <publisher> Academic Press, </publisher> <address> New York, </address> <year> 1972. </year>
+Reference: [8] <author> Barry R. Schlenker and Thomas V. Bonoma. </author> <title> Fun and games: The validity of games for the study of conflict. </title> <journal> Journal of Conflict Resolution, </journal> <volume> 22(1) </volume> <pages> 7-38, </pages> <month> March </month> <year> 1978. </year>
+Reference: [9] <author> George Tsebelis. </author> <title> Are sanctions effective?: A game-theoretic analysis. </title> <journal> Journal of Conflict Resolution, </journal> <volume> 34(1) </volume> <pages> 3-28, </pages> <month> March </month> <year> 1990. </year> <month> 9 </month>
+References-found: 9
+

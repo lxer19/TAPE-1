@@ -1,0 +1,18 @@
+URL: http://www.cs.umd.edu/projects/hcil/Research/1995/vhp/meshbrowse.ps.Z
+Refering-URL: http://www.cs.umd.edu/projects/hcil/Research/1995/vhp/dl96/vhe_dl96.html
+Root-URL: 
+Email: Email: flip@cs.umd.edu  Email: ben@cs.umd.edu  
+Title: Navigating Terminology Hierarchies to Access a Digital Library of Medical Images  
+Author: Flip Korn and Ben Shneiderman 
+Keyword: browsing, graph visualization, digital library  
+Note: This research was supported by the National Library of Medicine Fellowship Program. Support was administered by the  Research.  
+Address: College Park, MD 20742  Lab.  
+Affiliation: University of Maryland  Oak Ridge Institute for Science and Education. Computer Science Department and Institute for Systems  Computer Science Department, Institute for Systems Research, Center For Automation Research, and Human-Computer Interaction  
+Abstract: Browsing is an interactive and exploratory process for finding information in a digital library that has advantages over search term queries in many situations. Some browsers display a concept space as a node-link graph diagram, but this can look chaotic for a graph of moderate complexity. The approach taken in this paper is to suppress some of the interrelationships (links) and order the concept space as a tree by some `natural' hierarchy. The user can then explore hidden interrelationships by dynamically interacting with the system. We demonstrate the usefulness of browsing a hierarchy via this method in a prototype called MeSHBROWSE, a system for browsing terms from the NLM Medical Subject Headings tree. It displays a node-link tree diagram of the concept space and reveals hidden interrelationships when a node is clicked on by triggering related nodes scattered about the tree to become highlighted. In this paper we describe MeSHBROWSE, discuss semantic and algorithmic issues involved with it, and discuss its implications for further research. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [CS94] <author> R. Chimera and B. Shneiderman. </author> <title> An exploratory evaluation of three interfaces for browsing large hierarchical tables of contents. </title> <journal> ACM Transactions on Information Systems, </journal> <volume> 12(4) </volume> <pages> 383-406, </pages> <month> October </month> <year> 1994. </year>
+Reference: [Dil90] <author> A. Dillon. </author> <title> Navigation in Hypertext: </title>
+Reference-contexts: web that is chaotic to the user because of edge crossings and a confusing placement of nodes. "For richly interconnected material or documents of a reasonable size and complexity, it is not possible to include everything in a single browser without the problem of presenting `visual spaghetti' to the user." <ref> [Dil90] </ref> The strategy taken in this paper is to not represent all of the interrelationships between concepts at once.
+References-found: 2
+

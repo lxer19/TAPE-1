@@ -1,0 +1,13 @@
+URL: http://robotics.eecs.berkeley.edu/~mayi/psfile/EECS226/hw1.ps.gz
+Refering-URL: http://robotics.eecs.berkeley.edu/~mayi/EECS226.html
+Root-URL: http://www.cs.berkeley.edu
+Title: EECS 226A: Random Processes in Systems Problem Set a) The man shuts his eyes, chooses
+Author: P (B) 
+Note: in class 1. Problem 1.3 in Gallager. 2. Problem 1.4 in Gallager. 3. Problem 1.7 in Gallager. 4. A man has five coins in his pocket. Two are double-headed, one is double-tailed, and two are normal. They can only be distinguished by looking at them.  Verify that (B; F P B is indeed a probability space.  
+Date: Due: Sept. 4, 1997  
+Pubnum: 1  
+Abstract: a) Show that (S; F ; ~ P ) is a probability space. b) We want to show that conditioning in effect allows us to focus on a natural probability space with the sample space restricted to the set B. Can you find a set of events ~ F of subsets of B such that ~ F F and (B; ~ F; P B ) is a probability space, where p B is the restriction of ~ P on ~ F , i.e. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

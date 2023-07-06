@@ -1,0 +1,31 @@
+URL: http://www.cse.ucsc.edu/research/ccrg/publications/jyoti.milcom97.ps.gz
+Refering-URL: http://www.cse.ucsc.edu/research/ccrg/publications.html
+Root-URL: http://www.cse.ucsc.edu
+Email: jj, jyoti@cse.ucsc.edu  
+Title: DISTRIBUTED ASSIGNMENT OF CODES FOR MULTIHOP PACKET-RADIO NETWORKS  
+Author: J.J. Garcia-Luna-Aceves and Jyoti Raju 
+Address: Santa Cruz, CA 95064  
+Affiliation: Computer Engineering Department School of Engineering University of California  
+Abstract: This paper describes and analyzes a distributed algorithm for assigning codes in a dynamic, multihop wireless radio network. The algorithm does not require any form of synchronization and is completely distributed. The algorithm can be used for both the transmitter oriented and receiver oriented code assignment. The algorithm is proven to be correct and its complexity is analyzed. The implementation of the code assignment algorithm as part of the medium access control (MAC) and routing protocols of a multihop packet-radio network is discussed. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <institution> Ricochet Wireless Network. </institution> <note> http://www.ricochet.net/netoverview.html. </note>
+Reference: [2] <institution> Wireless Internet Gateways. </institution> <address> http://www.cse.ucsc.edu/research/ccrg /projects/wings.html. </address>
+Reference-contexts: This protocol fits in nicely with existing MAC and routing protocols designed for multihop packet-radio networks. At UCSC, we are implementing the proposed algorithm as part of the FAMA [8] and Wireless Internet Routing Protocol [12] which are used in the Wireless Internet Gateways <ref> [2] </ref>, [7].
+Reference: [3] <author> A.A. Bertossi and M.A. Bonuccelli. </author> <title> Code Assignment for Hidden Terminal Interference Avoidance in Multihop Radio Networks. </title> <journal> IEEE/ACM Trans. on Networking, </journal> <volume> 3(4):441449, </volume> <month> August </month> <year> 1995. </year>
+Reference: [4] <author> I. Chlamtac and S. Kutten. </author> <title> Tree-Based Broadcasting in Multihop Radio Networks. </title> <journal> IEEE Trans. Computers, </journal> <month> Oct </month> <year> 1987. </year>
+Reference: [5] <author> I. Cidon and M. Sidi. </author> <title> Distributed Assignment algorithms for Multihop Packet-Radio Networks. </title> <booktitle> Proc. IEEE Infocom, </booktitle> <pages> pages 11101118, </pages> <year> 1988. </year>
+Reference: [6] <author> A. Ephremides and T.V. Truong. </author> <title> Scheduling Broadcasts in Multihop Radio Networks. </title> <journal> IEEE Trans. Computers, </journal> <volume> 38(4):456460, </volume> <month> April </month> <year> 1990. </year>
+Reference: [7] <editor> J.J. Garcia-Luna-Aceves et. al. </editor> <title> Wireless Internet Gateways (WINGS). </title> <booktitle> In Proc. IEEE MILCOM 97,, </booktitle> <address> Monterey, CA, </address> <year> 1997. </year>
+Reference-contexts: This protocol fits in nicely with existing MAC and routing protocols designed for multihop packet-radio networks. At UCSC, we are implementing the proposed algorithm as part of the FAMA [8] and Wireless Internet Routing Protocol [12] which are used in the Wireless Internet Gateways [2], <ref> [7] </ref>.
+Reference: [8] <author> C.L. Fullmer and J.J. Garcia-Luna-Aceves. </author> <title> FAMA-PJ:A Channel Access Protocol for Wireless LANs. </title> <booktitle> Proc. ACM Mobile Computing and Networking, </booktitle> <year> 1995. </year>
+Reference-contexts: The algorithm was shown to be correct and its complexity was analyzed. This protocol fits in nicely with existing MAC and routing protocols designed for multihop packet-radio networks. At UCSC, we are implementing the proposed algorithm as part of the FAMA <ref> [8] </ref> and Wireless Internet Routing Protocol [12] which are used in the Wireless Internet Gateways [2], [7].
+Reference: [9] <author> L. Hu. </author> <title> Distributed Code Assignment for CDMA Packet Radio Networks. </title> <journal> IEEE/ACM Trans. on Networking, </journal> <volume> 1(6):668677, </volume> <month> Dec </month> <year> 1993. </year>
+Reference-contexts: It has d one-hop neighbors and d (d 1) two-hop neighbors. The node should not have a code in common with any of its two-hop neighbors. Thus, it is clear that we require d (d 1) + 1 codes. This is a sufficient condition to obtain valid code assignments <ref> [9] </ref>. The network can still operate with fewer than d (d 1) + 2, even though some two-hop neighbors will have the same codes. However, for the proof, we assume that d (d 1) + 2 codes exist.
+Reference: [10] <author> IEEE. </author> <title> P802.11-Unapproved Draft. Wireless LAN Medium Access Control(MAC) and Physical Specifications, </title> <month> Nov </month> <year> 1991. </year>
+Reference-contexts: In our model, all stations have a common signaling code on which they implement an RTS-CTS exchange similar to the 802.11 protocol <ref> [10] </ref>. The data transfer can be done on the receiver's code for ROCA or on the transmitter's code for TOCA. The advantage of some form of code assignment is that a node's one-hop neighbor can receive a data transmission at the same time as the node. Fig. 3.
+Reference: [11] <author> T. Makansi. </author> <title> Trasmitter-Oriented Code Assignment for Multihop Radio Networks. </title> <journal> IEEE Trans. Computers, </journal> <volume> COM-35(12):13791382, </volume> <month> Dec </month> <year> 1987. </year>
+Reference: [12] <author> S. Murthy and J.J. Garcia-Luna-Aceves. </author> <title> An Efficient Routing Protocol for Wireless Networks. </title> <journal> ACM Mobile Networks and Applications Journal, </journal> <volume> 1(2):183197, </volume> <month> Oct </month> <year> 1996. </year> <month> 5 </month>
+Reference-contexts: The algorithm was shown to be correct and its complexity was analyzed. This protocol fits in nicely with existing MAC and routing protocols designed for multihop packet-radio networks. At UCSC, we are implementing the proposed algorithm as part of the FAMA [8] and Wireless Internet Routing Protocol <ref> [12] </ref> which are used in the Wireless Internet Gateways [2], [7].
+References-found: 12
+

@@ -1,0 +1,12 @@
+URL: http://www.eecis.udel.edu/~graham/Papers/thread_pthread.ps.Z
+Refering-URL: http://www.eecis.udel.edu/~graham/Papers/
+Root-URL: http://www.eecis.udel.edu
+Title: Threads Programming: Pthreads Special Issues  
+Author: John R. Graham 
+Note: 1 of 8  1.0 Introduction 2.0 Pthreads  
+Date: March 4, 1996  
+Abstract: This article is the fourth in a series of four articles that will develop concepts and algorithm using Suns threads programming tools. Each article is designed to stand alone, however the entire series should be treated as a single reference point for your programming efforts. Each article presents a specific area of threads topics along with code samples which can be used as a starting point for your own programming efforts. (These ideas are presented in more detail in the authors book Solaris 2.x Internals and Architecture from McGraw-Hill ISBN # 0-07-911876-3). So far we have examined (February) multithreading basics in terms of thread creation and termination, (March) synchronization of threads and (April) some advanced tech niques for signal handling and internal operation of threads. In this last article on the topic I would like to examine some issues that are unique to thread programming and also introduce an alternative programming model pthreads. Pthreads is a new standard from POSIX (Draft Standard 1003.4a) that provides an alternative programming interface to the Solaris threads library. The procedures are contained in the pthread library /usr/lib/libpthread.so. Pthreads and Solaris threads are very similar and in most cases there is an equivalent function in both libraries. This means in most cases, moving code from one platform to another should not be that difficult. The interfaces are not 100% equivalent, however, and in this section I will point out some of the pitfalls. The first place to start is with the threads(3T) manual page. There is listed the entire library interface for both threads and pthreads. One of the first things to note is that Pthreads has the concept of thread attributes. Each of the attributes is set in an attribute structure (pthread_attr_t) and the structure is passed to the pthread creation function (pthread_create()). The attributes which can be set (and retrieved) are state (bound/not bound), stack size, stack address, and scheduling parameters. These are normally set with ags in the Solaris interface (except for scheduling items). The procedure to take is to allocate and initialize an attribute 
+Abstract-found: 1
+Intro-found: 0
+References-found: 0
+

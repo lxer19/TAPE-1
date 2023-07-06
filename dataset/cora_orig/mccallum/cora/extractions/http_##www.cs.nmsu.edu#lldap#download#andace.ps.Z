@@ -1,0 +1,24 @@
+URL: http://www.cs.nmsu.edu/lldap/download/andace.ps.Z
+Refering-URL: http://www.cs.nmsu.edu/lldap/pub_lp/andace.html
+Root-URL: http://www.cs.nmsu.edu
+Email: fepontell,guptag@cs.nmsu.edu herme@dia.fi.upm.es  
+Title: &ACE: A High-Performance Parallel Prolog System  
+Author: Enrico Pontelli Manuel Hermenegildo Gopal Gupta 
+Keyword: Independent And-parallelism, Or-parallelism, Implementation issues, Performance figures  
+Address: 28660-Boadilla del Monte Las Cruces NM USA Madrid, Spain  
+Affiliation: Lab for Logic and Databases Facultad de Informatica Dept of Computer Science Universidad Politecnica de Madrid New Mexico State University  
+Abstract: Logic programming is a paradigm of programming based on a subset of first order logic. An important property of logic programming languages, such as Prolog, is that their declarative semantics is largely independent of the order in which different operations are performed during execution of the program. The different operations can also be performed in parallel, and as a result it is possible to exploit substantial parallelism from Prolog programs, that have been written for sequential machines, without requiring the user to make any modifications to them. In this paper we present a model called ACE that accomplishes this. ACE is a computational model for the full Prolog language, capable of concurrently exploiting both Or-parallelism and Independent And-parallelism. In this paper we focus on the specific implementation of the and-parallel component of the ACE system, describing its internal organization, some optimizations to the basic model, and finally presenting some performance figures. These performance figures show that our system is very good at exploiting parallelism from applications written in Prolog since it is able to obtain linear speedups. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> K.A.M. Ali and R. Karlsson. </author> <title> The muse or-parallel prolog model and its performance. </title> <booktitle> In 1990 N. American Conf. on Logic Prog. </booktitle> <publisher> MIT Press, </publisher> <year> 1990. </year>
+Reference: [2] <author> K.A.M. Ali and R. Karlsson. </author> <title> The MUSE Approach to Or-parallel Prolog. </title> <journal> International Journal of Parallel Programming, 1990. </journal> <volume> 19(2) </volume> <pages> 129-162. </pages>
+Reference: [3] <author> D. </author> <title> DeGroot. Restricted AND-Parallelism. </title> <booktitle> In Int'l Conf. on 5th Generation Computer Systems, </booktitle> <pages> pages 471-478. </pages> <address> Tokyo, </address> <month> Nov. </month> <year> 1984. </year>
+Reference: [4] <author> G. Gupta and M. Hermenegildo. </author> <title> Recomputation based Implementation of And-Or Parallel Prolog. </title> <booktitle> In Int'l Conf. on 5th Generation Computer Sys. </booktitle> <volume> '92, </volume> <pages> pages 770-782, </pages> <year> 1992. </year>
+Reference: [5] <author> G. Gupta, M. Hermenegildo, E. Pontelli, and V. Santos Costa. </author> <title> ACE: And/Or-parallel Copying-based Execution of Logic Programs. </title> <booktitle> In Int'l Conf. on Logic Programming, </booktitle> <pages> pages 93-109, </pages> <year> 1994. </year>
+
+Reference: [7] <author> M. V. Hermenegildo. </author> <title> An Abstract Machine Based Execution Model for Computer Architecture Design and Efficient Implementation of Logic Programs in Parallel. </title> <type> PhD thesis, </type> <institution> U. of Texas at Austin, </institution> <month> August </month> <year> 1986. </year>
+Reference: [8] <author> K. Muthukumar and M. Hermenegildo. </author> <title> Combined Determination of Sharing and Freeness of Program Variables Through Abstract Interpretation. </title> <booktitle> In 1991 International Conference on Logic Programming. </booktitle> <publisher> MIT Press, </publisher> <month> June </month> <year> 1991. </year>
+Reference: [9] <institution> Swedish Institute of Computer Science. Industrial Sicstus Prolog Internals Manual, </institution> <year> 1989. </year>
+Reference: [10] <author> D. Tang, E. Pontelli, G. Gupta, and M. Carro. </author> <title> "last parallel call optimization and fast backtracking in and-parallel systems". </title> <booktitle> In Proc. Workshop on Par allel and Data-parallel Execution of Logic Programs, </booktitle> <pages> pages 93-106, </pages> <year> 1994. </year>
+References-found: 9
+

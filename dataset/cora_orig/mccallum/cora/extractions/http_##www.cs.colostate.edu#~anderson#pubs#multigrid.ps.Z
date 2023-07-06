@@ -1,0 +1,25 @@
+URL: http://www.cs.colostate.edu/~anderson/pubs/multigrid.ps.Z
+Refering-URL: http://www.cs.colostate.edu/~anderson/pubs/pubs.html
+Root-URL: 
+Email: anderson@cs.colostate.edu  sgcraw@cs.colostate.edu  
+Title: Multigrid Q-Learning  
+Author: Charles W. Anderson Stewart G. Crawford-Hines 
+Keyword: Category: Control, Navigation, and Planning Keywords: Q-Learning, reinforcement learning, multigrid Preference: oral  
+Address: Fort Collins, CO 80523  Fort Collins, CO 80523  
+Affiliation: Department of Computer Science Colorado State University  Department of Computer Science Colorado State University  
+Abstract: Reinforcement learning scales poorly when reinforcements are delayed. The problem of propagating information from delayed reinforcements to the states and actions that have an effect the reinforcement is similar to the problem of propagating information in a discretized boundary value problem. Multigrid methods have been shown to decrease the number of updates required to solve boundary value problems. Here we extend Q-Learning by casting it as a multigrid method and show a reduction in updates required to reach a given error level in the Q-function for a simple, 1-d Markov decision task.
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Briggs, W. L. </author> <year> (1987). </year> <title> A Multigrid Tutorial. </title> <publisher> SIAM, </publisher> <address> Philadelphia, Pennsylvania. </address>
+Reference-contexts: This situation is also present in the iterative algorithms for solving boundary value problems, such as determining the steady-state temperature distribution in a long uniform rod <ref> (Briggs, 1987) </ref>. Many steps are needed to propagate the effect of the boundary conditions to interior points of the domain over which the problem is defined. <p> Extensions of the basic Multigrid-Q algorithm presented here include the following. Variations of the coarse-to-fine schedule, such as the V and W-cycles used in solving boundary-value problems <ref> (Briggs, 1987) </ref>, might result in further reductions of updates. An adaptive scheme could be developed whereby the resolution is varied for different states. This adaptive multigrid approach is strongly related to the variable resolution methods studied by Moore (Moore, 1991; Moore and Atkeson, tted).
+Reference: <author> Chow, C.-S., & Tsitsiklis, J. N. </author> <month> (June </month> <year> 1988). </year> <title> An optimal multigrid algorithm for continuous state discrete time stochastic control. </title> <type> Technical Report OR 181-38, </type> <institution> MIT. </institution>
+Reference: <author> Dayan, P., & Hinton, G. E. </author> <year> (1993). </year> <title> Feudal reinforcement learning. </title> <editor> In Hanson, S. J., Cowan, J. D., & Giles, C. L., editors, </editor> <booktitle> Advances in Neural Information Processing Systems 5, </booktitle> <pages> pages 271-278. </pages> <publisher> Morgan Kaufmann, </publisher> <address> San Mateo, CA. </address>
+Reference: <author> McCormick, S. F. </author> <year> (1992). </year> <title> Multilevel Projection Methods for Partial Differential Equations. </title> <publisher> SIAM, </publisher> <address> Philadelphia, Pennsylvania. </address>
+Reference: <author> Moore, A. W., & Atkeson, C. G. </author> <title> (submitted). The parti-game algorithm for variable resolution reinforcement learning in multidimensional state-spaces. </title> <booktitle> Machine Learning. </booktitle>
+Reference: <author> Moore, A. W. </author> <year> (1991). </year> <title> Variable resolution dynamic programming: Efficiently learning action maps in multivariable real-valued state-spaces. </title> <booktitle> In Proceedings of the Eighth International Workshop on Machine Learning, </booktitle> <pages> pages 333-337, </pages> <address> San Mateo, CA. </address> <publisher> Morgan Kaufmann. </publisher>
+Reference: <author> Rude, U. </author> <year> (1993). </year> <title> Mathematical and Computational Techniques for Multilevel Adaptive Methods, </title> <booktitle> volume 13 of Frontiers in Applied Mathematics. </booktitle> <publisher> SIAM, </publisher> <address> Philadel-phia, Pennsylvania. </address>
+Reference: <author> Singh, S. P. </author> <year> (1993). </year> <title> Learning to solve markovian decision processes. </title> <type> Technical Report CMPSCI 93-77, </type> <institution> University of Massachusetts, </institution> <address> Amherst, MA. </address>
+Reference: <author> Watkins, C. </author> <year> (1989). </year> <title> Learning with Delayed Rewards. </title> <type> PhD thesis, </type> <institution> Cambridge University Psychology Department. </institution>
+Reference-contexts: The problem is transformed to equivalent problems defined over the domain discretized at different resolutions. Here we apply the multigrid approach to the Q-Learning algorithm <ref> (Watkins, 1989) </ref>. In the remaining sections, we recast Q-Learning as a multigrid method and describe results of applying the combined approach on a simple Markov decision task.
+References-found: 9
+

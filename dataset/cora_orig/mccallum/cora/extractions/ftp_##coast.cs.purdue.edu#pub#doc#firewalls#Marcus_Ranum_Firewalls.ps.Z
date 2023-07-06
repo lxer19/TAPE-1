@@ -1,0 +1,21 @@
+URL: ftp://coast.cs.purdue.edu/pub/doc/firewalls/Marcus_Ranum_Firewalls.ps.Z
+Refering-URL: http://www.cs.purdue.edu/coast/archive/data/categ17.html
+Root-URL: http://www.cs.purdue.edu
+Email: mjr@tis.com  
+Title: Thinking About Firewalls Against those skilled in the attack, an enemy does not know where
+Author: Marcus J. Ranum 
+Note: Why a Firewall?  
+Address: Glenwood, Maryland  
+Affiliation: Trusted Information Systems, Inc.  
+Abstract: Many companies connect to the Internet, guarded by "firewalls" designed to prevent unauthorized access to their private networks. Despite this general goal, firewalls span a continuum between ease of use and security. This paper describes some of the considerations and tradeoffs in designing firewalls. A vocabulary for firewalls and their components is offered, to provide a common ground for discussion. The rationale for installing a firewall is almost always to protect a private network against intrusion. In most cases, the purpose of the firewall is to prevent unauthorized users from accessing computing resources on a private network, and often to prevent unnoticed and unauthorized export of proprietary information. In some cases export of information is not considered important, but for many corporations that are connecting this is a major though possibly unreasoning concern. Many organizations will want simply to address the problem by not connecting to the Internet at all. This solution can be difficult to implement. If the private network is loosely administered or decentralized, a single enterprising individual with a high speed dialup modem can quickly effect an Internet SLIP connection which can compromise the security of an entire network. Often it is safe to say that a firewall needs to be put in place for the " CYA " 1 factor. Even though an employee could compromise proprietary information by carrying it offsite on a DAT or floppy disk, the Internet represents a tangible threat, populated with dangerous "vandals." 2 It could very easily cost a network manager his job if a break-in occurs via this route, even if the damage is no more extensive than could have been inflicted over a dialup line or by a disgruntled employee. Generally, for a would-be Internet site, the technical difficulties of implementing a firewall are greatly outweighed by the public relations problems of "selling" upper management on the idea. In summary, because Internet services are so highly visible, they are much more likely to require official oversight and justification. 1 "Cover Your Assets" - this is a family publication. 2 The Vandals were a collection of tribes of roughneck barbarians who sacked Rome in 455 and looted it of all its portable wealth. Some use the term "hackers" to describe Internet snoopers, but "vandals," "crackers," or "jerks" is more appropriate. 
+Abstract-found: 1
+Intro-found: 0
+Reference: [1] <author> Bill Cheswick, </author> <title> "The Design of a Secure Internet Gateway," USENIX proceedings. </title> <note> Available for FTP from research.att.com: /dist/secure_internet_gateway.ps </note>
+Reference: [2] <author> Cliff Stoll, </author> <note> "The Cuckoo's Egg" 9 </note>
+Reference: [3] <author> Smoot Carl-Mitchell and John Quarterman, </author> <title> "Building Internet Firewalls," UNIX World, </title> <month> February </month> <year> 1992 </year>
+Reference: [4] <author> Simson Garfinkel and Gene Spafford, </author> <title> "Practical UNIX Security," </title> <publisher> O'Reilly and Associates, </publisher> <month> June </month> <year> 1991 </year>
+Reference: [5] <author> Dan Farmer, " COPS and Robbers, </author> <title> UN*X System Security," Internet software. </title> <note> Available for FTP from cert.sei.cmu.edu: /pub/cops </note>
+Reference: [6] <author> Bill Cheswick, </author> <title> "An Evening with Berferd in which a cracker is Lured, </title> <booktitle> Endured, and Studied," USENIX proceedings, </booktitle> <month> Jan 20, </month> <note> 1990 Available for FTP from research.att.com: /dist/internet_security/berferd.ps </note>
+Reference: [7] <author> Marcus J. Ranum, </author> <title> "An Internet Firewall," proceedings of World Conference on Systems Management and Security, </title> <note> 1992 Available for FTP from decuac.dec.com: /pub/docs/firewall/firewall.ps 10 </note>
+References-found: 7
+

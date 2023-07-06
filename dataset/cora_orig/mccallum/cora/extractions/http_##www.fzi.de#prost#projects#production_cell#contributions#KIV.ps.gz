@@ -1,0 +1,25 @@
+URL: http://www.fzi.de/prost/projects/production_cell/contributions/KIV.ps.gz
+Refering-URL: http://www.fzi.de/prost/projects/production_cell/contributions/KIV.html
+Root-URL: http://www.fzi.de
+Email: email: schellhorn@ira.uka.de  
+Title: Specification and Verification of Distributed Technical Systems with Central Control  
+Author: Gerhard Schellhorn 
+Note: Contents  
+Date: January 1994  
+Address: 76128 Karlsruhe, Germany  
+Affiliation: Institut fur Logik, Komplexitat und Deduktionssysteme Universitat Karlsruhe  
+Abstract: This paper presents an algebraic approach to the specification and verification of distributed technical systems, which are controlled by a central control program. The approach is demonstrated by its application to the case study "production cell". The approach uses first-order specifications to describe the possible behaviour of the system. Specifications are structured according to the physical structure of the system. A PASCAL-like program is used to enforce intended behaviour. The whole case study, including specification as well as verification of lifeness and safety conditions, is carried out using the KIV system. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [Ha 79] <author> D. </author> <title> Harel : First Order Dynamic Logic. </title> <publisher> Springer LNCS 1979. </publisher>
+Reference: [HRS 89] <author> M. Heisel, W. Reif, W. </author> <title> Stephan : A Dynamic Logic for Program Verification. "Logic at Botik" 89, </title> <editor> Meyer, Taitslin (eds.), </editor> <publisher> Springer LNCS 1989. </publisher>
+Reference: [HRS 90] <author> M. Heisel, W. Reif, W. </author> <title> Stephan : Tactical Theorem Proving in Program Verification. </title> <booktitle> 10th International Conference on Automated Deduction, </booktitle> <address> Kaiserslautern, FRG, </address> <publisher> Springer LNCS 1990. </publisher>
+Reference-contexts: A separately developed control program over the specification, implemented in a PASCAL-like notation is used to enforce intended behaviour. Verification of lifeness and some aspects of safety has been done using the KIV system ([HRS 89], <ref> [HRS 90] </ref>, [Re 92]), a system designed for the development of correct software systems. The system supports structured first-order specifications and a tactical theorem proving approach for program verification based on Dynamic Logic ([Ha 79]). The following section describes the intended state oriented model for the system.
+Reference: [Li 93] <author> T. Lindner. </author> <title> Task Description for the Case Study "Production Cell", </title> <type> Technical Report, </type> <institution> Forschunszentrum Informatik, </institution> <address> Haid-und-Neu-Stra"se 10-14, D-76131 Karlsruhe, </address> <year> 1993. </year>
+Reference-contexts: 1 Introduction The case study "production cell", as described in <ref> [Li 93] </ref>, [LL 94], was treated by the KIV group to study how distributed systems can be modelled within first-order logic, and which requirements for the correctness of a central control program can be expressed and verified using the KIV system.
+Reference: [LL 94] <editor> C. Lewerentz, T. Lindner (eds.). </editor> <title> Case Study "Production Cell": A Comparative Study in Formal Specification and Verification. </title> <note> FZI Publication 1/94. Forschunszentrum In-formatik, </note> <year> 1994. </year>
+Reference-contexts: 1 Introduction The case study "production cell", as described in [Li 93], <ref> [LL 94] </ref>, was treated by the KIV group to study how distributed systems can be modelled within first-order logic, and which requirements for the correctness of a central control program can be expressed and verified using the KIV system.
+Reference: [Re 92] <author> W. </author> <title> Reif : Verification of Large Software Systems. </title> <booktitle> Conference on Foundations of Software Technology and Theoretical Computer Science, </booktitle> <address> New Dehli, India, </address> <publisher> Shyamasundar (ed.), Springer LNCS 1992. </publisher> <pages> 49 </pages>
+Reference-contexts: A separately developed control program over the specification, implemented in a PASCAL-like notation is used to enforce intended behaviour. Verification of lifeness and some aspects of safety has been done using the KIV system ([HRS 89], [HRS 90], <ref> [Re 92] </ref>), a system designed for the development of correct software systems. The system supports structured first-order specifications and a tactical theorem proving approach for program verification based on Dynamic Logic ([Ha 79]). The following section describes the intended state oriented model for the system.
+References-found: 6
+

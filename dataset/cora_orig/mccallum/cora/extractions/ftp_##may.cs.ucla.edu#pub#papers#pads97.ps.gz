@@ -1,0 +1,27 @@
+URL: ftp://may.cs.ucla.edu/pub/papers/pads97.ps.gz
+Refering-URL: http://may.cs.ucla.edu/papers/
+Root-URL: http://www.cs.ucla.edu
+Title: An evaluation of the Chandy-Misra-Bryant algorithm for digital logic simulation. In Proceedings of the 6th
+Author: [] Larry Soule and Anoop Gupta. [] Christian Sporrer and Herbert Bauer. Corolla [] Wen-king Su and C.L. Seitz. . [] Christopher J. Terman. Rsim 
+Date: January 1992.  May 1993.  October 1983.  
+Address: Newport Beach, CA,  92, San Diego, CA,  
+Note: SCS, pages 129-138,  VLSI-circuits. In Proceedings of the 7th Workshop on Parallel and Distributed Simulation, pages 85  In Proceedings of the IEEE Intl. Conf. on Computer-Aided Design, pages 437-440,  [20] K. Wong. Statistics on logic simulation. In Proceedings of ACM/IEEE Design Automation Con ference, 1986.  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> Jeffrey M. Arnold. </author> <title> Parallel simulation of digital circuits. </title> <institution> Mit/lcs/tr-333, Computer Science Department, MIT, </institution> <address> Cambridge, MA, </address> <month> February </month> <year> 1985. </year>
+Reference: [2] <author> R. Bagrodia and Wen toh Liao. Maisie: </author> <title> A language for design of efficient discrete-event simulations. </title> <journal> IEEE Transactions on Software Engineering, </journal> <month> April </month> <year> 1994. </year>
+Reference: [3] <author> M. Bailey and L. Snyder. </author> <title> An empirical study of on-chip parallelism. </title> <booktitle> In Proceedings of the 25th ACM/IEEE Design Automation Conference, </booktitle> <pages> pages 160-165, </pages> <year> 1988. </year>
+Reference: [4] <author> Mary L. Bailey, Jr. Jack V. Briner, and Roger D. Chamberlain. </author> <title> Parallel logic simulation of VLSI systems. </title> <journal> ACM Computing Surveys, </journal> <volume> 26(3) </volume> <pages> 255-294, </pages> <month> September </month> <year> 1994. </year>
+Reference: [5] <author> J. Briner, J. Ellis, and G. Kedem. </author> <title> Taking advantage of optimal on-chip parallelism for parallel discrete event simulation. </title> <booktitle> In Proceedings of ACM/IEEE International Conference on Computer Aided Design, </booktitle> <year> 1988. </year>
+Reference: [6] <author> K.M. Chandy and R. Sherman. </author> <title> Space-Time and Simulation. </title> <booktitle> In Distributed Simulation Conference, </booktitle> <address> Miami, </address> <year> 1989. </year>
+Reference: [7] <author> Jason Cong, Zheng Li, and Rajive Bagrodia. </author> <title> Acyclic multi-way partitioning of boolean networks. </title> <booktitle> In Proceedings of ACM/IEEE Design Automation Conference, </booktitle> <year> 1994. </year>
+Reference: [8] <author> M. Davoren. </author> <title> A structural mapping for parallel digital logic simulation. </title> <booktitle> In Proceedings of the SCS Multiconference on Distributed Simulation, </booktitle> <pages> pages 179-182, </pages> <address> San Diego, California, </address> <year> 1989. </year>
+Reference: [9] <author> C. Fiduccia and R. Mattheyses. </author> <title> A linear time heuristic for improving network partitions. </title> <booktitle> In Proceedings of the ACM/IEEE Design Automation Conference, </booktitle> <pages> pages 175-181, </pages> <year> 1982. </year>
+Reference: [10] <author> Jack Vedder Briner, Jr. </author> <title> Parallel Mixed-Level Simulation of Digital Circuits Using Virtual Time. </title> <type> Ph.d. thesis, </type> <institution> Duke University, </institution> <month> August </month> <year> 1990. </year>
+Reference: [11] <author> Kin Hing Leung and Rajive Bagrodia. </author> <title> Interactive Circuit Partitioning and Simulation Environment for MIRSIM. </title> <type> Master report, </type> <institution> University of Cali-fornia, </institution> <address> Los Angeles, </address> <month> March </month> <year> 1996. </year>
+Reference: [12] <author> N. Manjikian and Wayne M. Loucks. </author> <title> High performance parallel logic simulation on a network of workstations. </title> <booktitle> In Proceedings of the 7th Workshop on Parallel and Distributed Simulation, </booktitle> <pages> pages 76-84, </pages> <address> San Diego, CA, </address> <month> May </month> <year> 1993. </year>
+Reference: [13] <author> McBryer and P. T. Wilsey. </author> <title> VAST: Time Warp simulation of VHDL on SMP workstations. </title> <booktitle> In Proceedings of the 1994 VHDL International User's Forum, </booktitle> <year> 1994. </year>
+Reference: [14] <author> R.B. Mueller-Thuns, D.G. Saab, and J.A. Abra-ham. </author> <title> Design of a scalable parallel switch-level simulator for VLSI. </title> <booktitle> In Supercomputing '90. IEEE Computer Society, </booktitle> <address> Washington, D.C., </address> <pages> pages 615-624, </pages> <year> 1990. </year>
+
+References-found: 14
+

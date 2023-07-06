@@ -1,0 +1,19 @@
+URL: http://http.cs.berkeley.edu/~daw/khf-fse98.ps
+Refering-URL: http://http.cs.berkeley.edu/~daw/me.html
+Root-URL: http://www.cs.berkeley.edu
+Email: e-mail: daw@cs.berkeley.edu  
+Title: Differential cryptanalysis of KHF  
+Author: David Wagner 
+Address: Berkeley  
+Affiliation: University of California,  
+Abstract: Bakhtiari et al recently proposed a fast message authentication primitive called KHF. This paper shows that KHF is highly vulnerable to differential cryptanalysis: it can be broken with about 37 chosen message queries. This suggests that the KHF design should be reconsid ered.
+Abstract-found: 1
+Intro-found: 1
+Reference: [BSF95] <author> S. Bakhtiari, R. Safavi-Naini, and J. Pieprzyk, </author> <title> "Keyed hash functions," Cryptography: Policy and Algorithms, </title> <editor> E. Dawson and Jovan Golic (Eds), </editor> <booktitle> Lecture Notes in Computer Science, </booktitle> <volume> vol. 1029, </volume> <publisher> Springer-Verlag, </publisher> <year> 1996, </year> <month> pp.201-214. </month>
+Reference-contexts: 1 Introduction Recent applications in secure networking have spurred research in cryptographic primitives for message authentication. In particular, there is great demand for a high-speed MAC that can be implemented in software. In 1996, Bakhtiari, Safavi-Naini, and Pieprzyk proposed a new MAC primitive, called KHF, for fast software message authentication <ref> [BSF95] </ref>. See Section 2 for a brief description of their primitive. One of the main contributions of the KHF work is its careful attention to using Boolean functions which can be shown to have very good non-linearity, as well as other desirable theoretical properties.
+Reference: [BS93] <author> E. Biham and A. Shamir, </author> <title> Differential Cryptanalysis of the Data Encryption Standard, </title> <publisher> Springer-Verlag, </publisher> <year> 1993. </year>
+Reference-contexts: Nonetheless, this paper shows how to break KHF efficiently, despite its solid theoretical foundation in cryptographic Boolean function theory. In this paper we show how to break KHF with differential cryptanalysis <ref> [BS93] </ref>. The attack requires just 37 chosen messages, and is described in Section 3. 2 Description of KHF We give a brief overview of the KHF message authentication algorithm here, omitting those details that are irrelevant to our attack. <p> Here represents bitwise exclusive-or, & represents bitwise and, j represents bitwise or, and ~ represents bitwise logical negation. 3 Analysis First, we exhibit a useful high-probability differential characteristic <ref> [BS93] </ref> for KHF. The main observation is that a one-bit difference into the input of the round function f is very likely to yield a zero output difference (i.e. a collision).
+Reference: [PO95] <author> B. Preneel, </author> <title> P.C. van Oorschot, "MDx-MAC and building fast MACs from hash functions," </title> <booktitle> Advances in Cryptology|CRYPTO '95, </booktitle> <publisher> Springer-Verlag, </publisher> <year> 1995, </year> <pages> pp. 1-14. </pages>
+Reference-contexts: This latter attack is based on the observation that "internal collisions" can lead to MAC forgery. Of course, this property is hardly novel; it was one of the central techniques used to break a number of MAC primitives in <ref> [PO95] </ref>. 4 Conclusion KHF was designed around a set of Boolean functions with excellent non-linearity properties. The round function f on 32-bit input words was constructed by applying a good Boolean function to each bit position independently.
+References-found: 3
+

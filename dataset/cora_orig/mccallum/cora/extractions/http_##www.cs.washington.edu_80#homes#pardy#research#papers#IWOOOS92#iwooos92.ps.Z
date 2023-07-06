@@ -1,0 +1,18 @@
+URL: http://www.cs.washington.edu:80/homes/pardy/research/papers/IWOOOS92/iwooos92.ps.Z
+Refering-URL: http://www.cs.washington.edu:80/homes/pardy/research/papers/index.html
+Root-URL: http://www.cs.washington.edu
+Title: Object Structure in the Emerald System. Distribution and Abstract Types in Emerald. Distributed Process Groups
+Author: [] Andrew Black, Norman Hutchinson, Eric Jul, and Henry Levy. [] Andrew Black, Norman Hutchinson, Eric Jul, Henry Levy, and Larry Carter. [] David R. Cheriton and Willy Zwaenepoel. [] Eric C. Cooper. [] Narain M. Gehani. [] H.-M. Jarvinen, R. Kurki-Suonio, M. Sakkinen, and K. Systa. [] M. Frans Kaashoek and Andrew S. Tanenbaum. [] Luping Liang, Samuel T. Chanson, and Gerald W. Neufeld. [] Mesaac Makpangou, Yvon Gourhant, and Mark Shapiro. BOAR: [] P.M. Melliar-Smith, Louise E. Moser, and Vivek Agrawala. [] Rajendra K. Raj, Ewan D. Tempero, Henry M. Levy, Andrew P. Black, Norman C. Hutchinson, and Eric Jul. [] Mahadev Satanarayanan and Ellen H. Siegel. 
+Date: 78-86, October 1986.  13(1):65-76, January 1987.  May 1985.  January 1986.  10(4):343-351, July 1984.  May 1991.  23(2):56-66, February 1990.  164-172, October 1991.  January 1990.  January 1991.  348, March 1990.  
+Note: In Proceedings of the 1986 ACM Conference on Object-Oriented Programming Systems, Languages and Applications, pages  IEEE Transactions on Software Engineering,  (BSP). IEEE Tr. on Software  Systems. In Proceedings of the 12th International Conference on Software Engineering, pages 63-71,  Communication in the Amoeba Distributed Operating System. In Proceedings of the 11th International Conference on Distributed Computer Sys tems, pages 222-230, Arlington, VA,  in Operating Systems, pages  
+Address: cember 1991.  SE  
+Affiliation: Dept. of Computer Science, Cornell University, De-  Engineering,  Group  
+Pubnum: 3(2):77-107,  20(1):44-56,  Computer,  1(1):17-25,  21(1):91-118,  39(3):328  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> M. Aspnas, R.J.R. Back, and R. Kurki-Suonio. </author> <title> Efficient Implementation of Multi-process Handshaking on Broadcast Networks. </title> <institution> Reports on Computer Science A75, Abo Akademi University, Turku, Finland, </institution> <month> March </month> <year> 1989. </year>
+Reference: [2] <author> M. Stella Atkins, Garnik Haftevani, and Wo Shun Luk. </author> <title> An Efficient Kernel-level Dependable Multicast Protocol for Distributed Systems. </title> <booktitle> In Proceedings of the Eighth Symposium on Reliable Distributed Systems, </booktitle> <pages> pages 94-101, </pages> <month> October </month> <year> 1989. </year>
+Reference: [3] <author> Kenneth Birman, Andre Schiper, and Pat Stephen-son. </author> <title> Lightweigth Causal and Atomic Group Mul-ticast. </title> <journal> ACM Transactions on Computer Systems, </journal> <volume> 9(3) </volume> <pages> 272-314, </pages> <month> August </month> <year> 1991. </year>
+
+References-found: 3
+

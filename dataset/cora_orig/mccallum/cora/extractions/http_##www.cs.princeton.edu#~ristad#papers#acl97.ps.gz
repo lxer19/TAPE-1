@@ -1,0 +1,23 @@
+URL: http://www.cs.princeton.edu/~ristad/papers/acl97.ps.gz
+Refering-URL: http://www.cs.princeton.edu/~ristad/bibliography.html
+Root-URL: http://www.cs.princeton.edu
+Email: fristad,rgtg@cs.princeton.edu  
+Title: Hierarchical NonEmitting Markov Models  
+Author: Eric Sven Ristad and Robert G. Thomas 
+Address: Princeton, NJ 08544-2087  
+Affiliation: Department of Computer Science Princeton University  
+Abstract: We describe a simple variant of the interpolated Markov model with non-emitting state transitions and prove that it is strictly more powerful than any Markov model. Empirical results demonstrate that the non-emitting model outperforms the interpolated model on the Brown corpus and on the Wall Street Journal under a wide range of experimental conditions. The non-emitting model is also much less prone to overtraining.
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Lalit R. Bahl, Peter F. Brown, Peter V. de Souza, Robert L. Mercer, and David Nahamoo. </author> <year> 1991. </year> <title> A fast algorithm for deleted interpolation. </title> <booktitle> In Proc. EUROSPEECH '91, </booktitle> <pages> pages 1209-1212, </pages> <address> Genoa. </address>
+Reference: <author> J.G. Cleary and I.H. Witten. </author> <year> 1984. </year> <title> Data compression using adaptive coding and partial string matching. </title> <journal> IEEE Trans. Comm., COM-32(4):396-402. </journal>
+Reference: <author> W. Nelson Francis and Henry Kucera. </author> <year> 1982. </year> <title> Frequency analysis of English usage: lexicon and grammar. </title> <publisher> Houghton Mi*in, </publisher> <address> Boston. </address>
+Reference: <author> Fred Jelinek and Robert L. Mercer. </author> <year> 1980. </year> <title> Interpolated estimation of Markov source parameters from sparse data. </title> <editor> In Edzard S. Gelsema and Laveen N. Kanal, editors, </editor> <booktitle> Pattern Recognition in Practice, </booktitle> <pages> pages 381-397, </pages> <address> Amsterdam, May 21-23. </address> <publisher> North Holland. </publisher>
+Reference: <author> Slava Katz. </author> <year> 1987. </year> <title> Estimation of probabilities from sparse data for the language model component of a speech recognizer. </title> <journal> IEEE Trans. ASSP, </journal> <volume> 35 </volume> <pages> 400-401. </pages>
+Reference: <author> David J.C. MacKay and Linda C. Bauman Peto. </author> <year> 1994. </year> <title> A hierarchical Dirichlet language model. </title> <booktitle> Natural Language Engineering, </booktitle> <pages> 1(1). </pages>
+Reference: <author> Jorma Rissanen. </author> <year> 1983. </year> <title> A universal data compression system. </title> <journal> IEEE Trans. Information Theory, IT-29(5):656-664. </journal>
+Reference: <author> Jorma Rissanen. </author> <year> 1986. </year> <title> Complexity of strings in the class of Markov sources. </title> <journal> IEEE Trans. Information Theory, IT-32(4):526-532. </journal>
+Reference: <author> Eric Sven Ristad and Robert G. Thomas. </author> <year> 1997. </year> <title> Hierarchical non-emitting Markov models. </title> <type> Technical Report CS-TR-544-96, </type> <institution> Department of Computer Science, Princeton University, Princeton, NJ, </institution> <month> March. </month>
+Reference: <author> Frans M. J. Willems, Yuri M. Shtarkov, and Tjalling J. Tjalkens. </author> <year> 1995. </year> <title> The context-tree weighting method: basic properties. </title> <journal> IEEE Trans. Inf. Theory, </journal> <volume> 41(3) </volume> <pages> 653-664. </pages>
+References-found: 10
+

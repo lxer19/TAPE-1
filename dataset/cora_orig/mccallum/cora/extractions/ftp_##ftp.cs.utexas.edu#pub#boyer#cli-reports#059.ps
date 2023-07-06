@@ -1,0 +1,18 @@
+URL: ftp://ftp.cs.utexas.edu/pub/boyer/cli-reports/059.ps
+Refering-URL: ftp://ftp.cs.utexas.edu/pub/boyer/cli-reports/index.html
+Root-URL: 
+Phone: (512) 322-9951  
+Title: Middle Gypsy 2.05 Definition  
+Author: Donald I. Good Ann E. Siebert William D. Young 
+Address: 1717 W. 6th St. Suite 290 Austin, Texas 78703  
+Affiliation: Computational Logic Inc.  
+Date: 15 May 1990  
+Pubnum: Technical Report 59  
+Abstract-found: 0
+Intro-found: 0
+Reference: [Aho 86] <author> Aho, A.V., Sethi R. & Ullman, J.D. </author> <booktitle> Compilers: Principles Techniques and Tools. </booktitle> <publisher> Addison Wesley, </publisher> <year> 1986. </year>
+Reference-contexts: For example, P uses F to interpret the operating constraints of a program. 2.1 Syntax The syntax of Middle Gypsy is defined by a context-free grammar. The productions of the grammar are defined in the Yacc input file in Appendix A.3. (See <ref> [Aho 86] </ref>). The tokens of the grammar are defined in the Lex input file in Appendix A.2. The Middle Gypsy grammar has been derived from the Gypsy grammar in the following steps: 1. The productions of the Gypsy grammar have been rewritten in a form acceptable to Yacc. <p> From a preliminary investigation, it appears that the tagged grammar is a restricted form of attribute grammar <ref> [Aho 86] </ref>. <p> Middle Gypsy 2.05 Definition [15 May 1990] 33 LALR Grammar Appendix A LALR Grammar The ASCII character strings in this section are defined in the regular expression notation of <ref> [Aho 86] </ref> -- * means zero or more repetitions, | means or, and empty is the string with no characters. A.1 White Space White space is a (possibly empty) sequence of Gypsy comments and ASCII space, tab, carriage return, line feed characters. <p> STRING_VALUE : " ( non_quote | "" )* - " where non_quote is any ASCII character except the double quote mark ". The remainder of this section is the input file which defines the Gypsy tokens for the lexical analyzer program Lex. The Lex input formats are summarized in <ref> [Aho 86] </ref>. %e 1500 %p 5500 digit [0-9] hexdigit -digit-|[a-fA-F] letter [a-zA-Z] char32-47 [" "!"""#"$"%"&"'"(")"*"+","-"."/] char58-64 [":";"&lt;"="&gt;"?"@] char91-6 ["["""]"^"_"`] char123-6 ["-"|"-"~] printable_char -letter-|-digit-|-char32-47-|-char58-64-|-char91-6-|-char123-6-comment "-[^"-]*"- white [ "t"n""]|-comment %% printf ("ADJOIN - %s"n", yytext); return (ADJOIN); - printf ("ALL - %s"n", yytext); return (ALL); - printf ("AND - %s"n", yytext); return (AND); <p> The Yacc input formats are summarized in <ref> [Aho 86] </ref>.
+Reference: [Bevier 88] <institution> Bill Bevier. </institution>
+Reference-contexts: for a composed type. component_td (d) is the descriptor of the type of the component for a composed type. udv (d) is the default initial value of the type. 4.1.5 Untyped Values The untyped values for the scalar types and type integer are integer numbers--ones which are recognized by integerp <ref> [Bevier 88] </ref>. The untyped values for type rational are rational numbers--ones which are recognized by rationalp [Wilding 90]. The untyped values for sets and sequence are lists of component elements.
+References-found: 2
+

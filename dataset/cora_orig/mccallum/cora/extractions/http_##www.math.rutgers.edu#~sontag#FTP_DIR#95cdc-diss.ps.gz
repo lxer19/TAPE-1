@@ -1,0 +1,17 @@
+URL: http://www.math.rutgers.edu/~sontag/FTP_DIR/95cdc-diss.ps.gz
+Refering-URL: http://www.math.rutgers.edu/~sontag/papers.html
+Root-URL: 
+Email: sontag@control.rutgers.edu  
+Title: An Abstract Approach to Dissipation  
+Author: Eduardo Sontag 
+Address: New Brunswick, NJ 08903  
+Affiliation: Dept. of Mathematics Rutgers University  
+Abstract: We suggest that a very natural mathematical framework for the study of dissipation |in the sense of Willems, Moylan and Hill, and others| is that of indefinite quasimetric spaces. Several basic facts about dissipative systems are seen to be simple consequences of the properties of such spaces. Quasimetric spaces provide also one natural context for optimal control problems, and even for "gap" formulations of robustness. 
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> Fletcher, P., and W.F. Lindgren, </author> <title> Quasi-Uniform Spaces, </title> <publisher> Marcel Dekker, </publisher> <address> New York, </address> <year> 1982. </year>
+Reference-contexts: An iqm space is a pair (X; W ) (just "X" if W is clear from context) consisting of set X and an iqm W on X. If W (x; z) 0 for all x; z, one has (cf. <ref> [1] </ref>) a quasi-pseudo-metric space. Metric spaces result when W takes only nonnegative values, is symmetric, and W (x; z) 6= 0 for all x 6= z. None of these properties is required here. <p> The possible iqms on a given set form a convex cone. Given an iqm W , we can define the new iqms W + := maxfW; 0g: and W 1 + := minfW + ; 1g: The latter is a quasi-pseudo-metric in the sense of <ref> [1] </ref>. Defining W y (x; y) := W (y; x) makes (X; W y ) into another iqm space. the conjugate or transpose of (X; W ). Taking f W := max W; W y provides a symmetrization of (X; W ).
+Reference: 2. <author> Hill, </author> <title> D.J., "Dissipative nonlinear systems: Basic properties and stability analysis," </title> <booktitle> Proc. 31st IEEE Conf. </booktitle> <month> Dec. </month> <title> and Control, </title> <address> Tucson, Arizona, </address> <year> 1992, </year> <pages> pp. 3259-3264. </pages>
+Reference: 3. <author> Willems, </author> <title> J.C., "Mechanisms for the stability and instability in feedback systems," </title> <booktitle> Proc. IEEE 64 (1976): </booktitle> <pages> 24-35. </pages>
+References-found: 3
+

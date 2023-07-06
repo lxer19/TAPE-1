@@ -1,0 +1,32 @@
+URL: http://www.cam.sri.com/tr/crc048/paper.ps.Z
+Refering-URL: http://www.cam.sri.com/tr/ABSTRACTS.html
+Root-URL: 
+Email: sgp@cam.sri.com  
+Title: A Computational Theory of Context Dependence  
+Author: Stephen G. Pulman 
+Affiliation: SRI International Cambridge Computer Science Research Centre and University of Cambridge Computer Laboratory  
+Date: 1994  
+Note: workshop on computational semantics,  
+Web: URL: http://www.cam.sri.com/tr/crc048/paper.ps.ZTilburg  
+Abstract: This paper describes a reversible system for the interpretation and generation of sentences containing context dependent constructs like pronouns, focus, and ellipsis. A variant of `quasi-logical form' is used as an underspeci-fied meaning representation, related to `resolved logical forms' via `conditional equivalences'. These equivalences define the semantics of contextually dependent constructs with respect to a given context. Higher order unification and abduction are used in relating expressions to contexts.
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Alshawi, H. </author> <title> 1990 Resolving Quasi-Logical Forms, </title> <booktitle> Computational Linguistics 16, </booktitle> <pages> pp 133-144. </pages>
+Reference: <author> Alshawi, H. </author> <title> (ed) 1992, The Core Language Engine, </title> <address> Boston: </address> <publisher> MIT Press. </publisher>
+Reference-contexts: These sentences may, but need not, arise from prior linguistic processing. If they do they may retain information about the form as well as the content of previous utterances. 4. QLFs are interpreted by `conditional equivalences' <ref> (Rayner and Alshawi 1992, Rayner 1993) </ref> of the form: QLF &lt;=&gt; RLF Condition_1, ..., Condition_N.
+Reference: <author> Alshawi, H. and Crouch, R., </author> <year> 1992, </year> <title> Monotonic Semantic Interpretation, </title> <booktitle> Proceedings of the 30th Annual Meeting, Association for Computational Linguistics, </booktitle> <pages> pp 32-39. </pages>
+Reference-contexts: These sentences may, but need not, arise from prior linguistic processing. If they do they may retain information about the form as well as the content of previous utterances. 4. QLFs are interpreted by `conditional equivalences' <ref> (Rayner and Alshawi 1992, Rayner 1993) </ref> of the form: QLF &lt;=&gt; RLF Condition_1, ..., Condition_N.
+Reference: <author> Alshawi, H. and Pulman, S. G., </author> <year> 1992, </year> <title> Ellipsis, Comparatives and Generation, in H. Alshawi (ed) The Core Language Engine, </title> <address> Boston: </address> <publisher> MIT Press, </publisher> <pages> pp Dalrymple, </pages> <editor> M., Shieber, S. and Pereira, F., </editor> <year> 1991, </year> <title> Ellipsis and Higher Order Unification, </title> <journal> Linguistics and Philosophy, </journal> <volume> 14: </volume> <pages> 399-452. </pages>
+Reference-contexts: These sentences may, but need not, arise from prior linguistic processing. If they do they may retain information about the form as well as the content of previous utterances. 4. QLFs are interpreted by `conditional equivalences' <ref> (Rayner and Alshawi 1992, Rayner 1993) </ref> of the form: QLF &lt;=&gt; RLF Condition_1, ..., Condition_N.
+Reference: <author> Huet, G. </author> <year> 1975, </year> <title> A Unification Algorithm for Typed -Calculus, </title> <journal> Theoretical Computer Science, </journal> <volume> 1, </volume> <pages> pp 27-57. </pages>
+Reference: <author> Prust, H. </author> <title> 1992 On Discourse Structure, VP Anaphora, and Gapping, </title> <institution> University of Amsterdam Ph.D. Dissertation. </institution>
+Reference: <author> Pulman, S. G. </author> <year> 1993, </year> <title> Higher Order Unification and the Semantics of Focus, </title> <booktitle> in Papers from the Third Nordic Conference on Text Comprehension, </booktitle> <month> April </month> <year> 1992, </year> <institution> Linkoping, Sweden: Linkoping University Computer Science Dept., </institution> <note> pp 113-127. </note>
+Reference: <author> Pulman, S. G. </author> <title> 1994 Higher Order Unification and the Interpretation of Focus, </title> <note> paper submitted for publication. </note>
+Reference-contexts: Let us assume that the equivalence for this type of narrow focus is similar to that for `too', in relevant respects, with some presupposition-like requirements on speaker and hearer beliefs replacing the non-identity condition associated with `too'. We will ignore the precise formulation <ref> (see Pulman 1994 for more detail) </ref>. focus (Focus,S) &lt;=&gt; S if in_context (C), 11 Shared (Ante) = C, Shared (Focus) = S, parallel (Ante,Focus), etc.
+Reference: <author> Rayner, M. </author> <year> 1993, </year> <title> Abductive Equivalential Translation and its application to Natural 14 Language Database Inferencing, </title> <institution> Stockholm Univ. </institution> <type> Ph.D. thesis, </type> <institution> and SRI Cambridge Technical Report. </institution>
+Reference: <author> Rayner, M. and Alshawi, H. </author> <title> 1992 Deriving Database Queries from Logical Forms by Abductive Definition Expansion, </title> <booktitle> in Proc. 3rd Conference on Applied Natural Langauge Processing, Trento: </booktitle> <pages> ACL pp 1-8. </pages>
+Reference-contexts: These sentences may, but need not, arise from prior linguistic processing. If they do they may retain information about the form as well as the content of previous utterances. 4. QLFs are interpreted by `conditional equivalences' <ref> (Rayner and Alshawi 1992, Rayner 1993) </ref> of the form: QLF &lt;=&gt; RLF Condition_1, ..., Condition_N.
+Reference: <author> Reyle, U. </author> <title> 1993 Dealing with ambiguities by underspecification, </title> <journal> Journal of Semantics 10: </journal> <pages> 123-179. </pages>
+Reference: <author> Schubert, L.K. and Hwang, C. H. </author> <title> 1989 An Episodic knowledge representation for Narrative Texts, </title> <booktitle> in Proc. 1st International Conference on Principles of Knowledge Representation and Reasoning, </booktitle> <address> Toronto: Palo Alto, </address> <publisher> Morgan Kaufmann. </publisher> <pages> pp 444-458. 15 </pages>
+References-found: 12
+

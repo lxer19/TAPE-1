@@ -1,0 +1,17 @@
+URL: http://www.cs.brown.edu/courses/cs252/lectures/04.ps
+Refering-URL: http://www.cs.brown.edu/courses/cs252/point_loc/home.html
+Root-URL: http://www.cs.brown.edu/
+Title: Planar Point Location  
+Author: C.S. Prof. Roberto Tamassia 
+Date: February 15, 1993  
+Note: Computational Geometry Sem. II, 1992-1993  Lecture 04 Date:  Scribe: John Bazik  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> M. Overmars, </author> <title> "Range Searching in a Set of Line Segments," </title> <booktitle> Proc. (1st) ACM Symposium on Computational Geometry, </booktitle> <pages> pp. 177-185, </pages> <year> 1985. </year>
+Reference-contexts: We look at three methods for planar point location next. 2 Segment Tree Method A method suggested by Overmars <ref> [1] </ref> applies ray-shooting to the point location problem. A ray originates at a query point in a planar subdivision and is directed, by convention, downward.
+Reference: [2] <author> D. Dobkin and R. Lipton, </author> <title> "Multidimensional Searching Problems," </title> <journal> SIAM Journal of Computing vol. </journal> <volume> 5, no. 2, </volume> <pages> pp. 181-186, </pages> <month> June </month> <year> 1976. </year>
+Reference-contexts: By Euler's theorem, there are O (n) edges, so the total space used is O (n log n). 3 Slab Method The slab method (Dobkin and Lipton <ref> [2] </ref>) offers optimal query time behavior, at the expense of needing possibly worst-case space. A planar subdivision is divided into horizontal slabs delimited by the sorted y components of the vertices of the embedded graph.
+Reference: [3] <author> F. P. Preparata, </author> <title> "A New Approach to Planar Point Location," </title> <journal> SIAM Journal of Computing vol. </journal> <volume> 10, no. 3, </volume> <pages> pp. 473-482, </pages> <year> 1985. </year> <month> 7 </month>
+Reference-contexts: Since each edge is inserted and deleted exactly once, the time complexity of the sweep is O (n log n). But generating the secondary trees requires O (n 2 ) time equal to their aggregate size. 4 4 Trapezoid Method The trapezoid method of Preparata <ref> [3] </ref> refines the slab method by reducing storage and preprocessing time while maintaining O (log n) query time. In this approach, a search tree is constructed by slicing the graph into regions, as in the slab method.
+References-found: 3
+

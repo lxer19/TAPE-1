@@ -1,0 +1,26 @@
+URL: http://theory.lcs.mit.edu/~luca/pubs/VertexCoverJournal.ps.Z
+Refering-URL: http://theory.lcs.mit.edu/~luca/papers.html
+Root-URL: 
+Email: E-mail: fpiluc,trevisang@dsi.uniroma1.it  
+Title: On the Distributed Decision-Making Complexity of the Minimum Vertex Cover Problem  
+Author: Pierluigi Crescenzi and Luca Trevisan 
+Address: Via Salaria 113, 00198 Roma, Italy  
+Affiliation: Dipartimento di Scienze dell'Informazione Universita degli Studi di Roma "La Sapienza"  
+Abstract: In this paper we study the problem of computing approximate vertex covers of a graph on the basis of partial information in the distributed decision-making model proposed by Deng and Papadimitriou [1]. In particular, we show an optimal algorithm whose competitive ratio is equal to p, where p is the number of processors. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Deng, X. and C. H. Papadimitriou. </author> <title> "Distributed decision-making with incomplete information". </title> <booktitle> In Proceedings of the 12th IFIP Congress, </booktitle> <year> 1992. </year>
+Reference: [2] <author> Garey, M. R. and D. S. Johnson. </author> <title> "Computers and Intractability. A Guide to the Theory of NP-Completeness". </title> <publisher> Freeman, </publisher> <year> 1979. </year>
+Reference-contexts: This is a well-studied problem which appeared in the first list of NP-complete problems presented by Karp [4]. A straightforward approximation algorithm, based on the idea of a maximal matching, was successively developed by Gavril (according to <ref> [2] </ref>) with a performance ratio no greater than 2. Several other approximation algorithms are presented in the lecture notes of Motwani [5]. In this paper we analyse the complexity of finding approximate solutions for the MVC problem in the framework of distributed decision-making with incomplete information [1,3,6-8].
+Reference: [3] <author> Irani, S. and Y. </author> <title> Rabani "On the value of information in coordination games". </title> <booktitle> In Proceedings of the 34th IEEE Symposium on Foundations of Computer Science, </booktitle> <pages> pages 12-21, </pages> <year> 1993. </year> <note> An extended version is to appear in the SIAM Journal of Computing. </note>
+Reference-contexts: These results fit into a more general context in which an optimization problem has to be solved in a distributed fashion and neither a centralized control nor a complete information are available (see <ref> [3] </ref> for several applications). Moreover, it has been argued that this kind of results "can be seen as part of a larger project aiming at an algorithmic theory of the value of information" [8].
+Reference: [4] <author> Karp, R. M. </author> <title> "Reducibility among combinatorial problems". In Complexity of Computer Computations. </title> <publisher> Plenum Press, </publisher> <year> 1972. </year>
+Reference-contexts: This is a well-studied problem which appeared in the first list of NP-complete problems presented by Karp <ref> [4] </ref>. A straightforward approximation algorithm, based on the idea of a maximal matching, was successively developed by Gavril (according to [2]) with a performance ratio no greater than 2. Several other approximation algorithms are presented in the lecture notes of Motwani [5].
+Reference: [5] <author> Motwani, R. </author> <booktitle> "Lecture notes on approximation algorithms". </booktitle> <year> 1992. </year>
+Reference-contexts: A straightforward approximation algorithm, based on the idea of a maximal matching, was successively developed by Gavril (according to [2]) with a performance ratio no greater than 2. Several other approximation algorithms are presented in the lecture notes of Motwani <ref> [5] </ref>. In this paper we analyse the complexity of finding approximate solutions for the MVC problem in the framework of distributed decision-making with incomplete information [1,3,6-8].
+Reference: [6] <author> Papadimitriou, C.H. </author> <title> "The value of information". </title> <booktitle> In Proceedings of World Congress of Economics, </booktitle> <year> 1992. </year>
+Reference: [7] <author> Papadimitriou, C.H. and M. Yannakakis. </author> <title> "On the value of information in distributed decision making". </title> <booktitle> In Proceedings of 10th ACM Symposium on Principles of Distributed Computing, </booktitle> <pages> pages 61-64, </pages> <year> 1991. </year>
+Reference: [8] <author> Papadimitriou, C.H. and M. Yannakakis. </author> <title> "Linear programming without the matrix". </title> <booktitle> In Proceedings of 25th ACM Symposium on Theory of Computing, </booktitle> <year> 1993. </year>
+Reference-contexts: Moreover, it has been argued that this kind of results "can be seen as part of a larger project aiming at an algorithmic theory of the value of information" <ref> [8] </ref>.
+References-found: 8
+

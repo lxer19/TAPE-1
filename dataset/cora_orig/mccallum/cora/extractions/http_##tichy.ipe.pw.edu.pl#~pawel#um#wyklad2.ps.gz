@@ -1,0 +1,14 @@
+URL: http://tichy.ipe.pw.edu.pl/~pawel/um/wyklad2.ps.gz
+Refering-URL: http://tichy.ipe.pw.edu.pl/~pawel/um/index.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: Uczenie si maszyn: wykad 2  
+Author: Obliczeniowa teoria uczenia si Pawe Cichosz Semestr zimowy / Podzia bada nad uczeniem si . Rozwijanie teorii uczenia si. . Konstruowanie obliczeniowych modeli uczenia si w systemach biologicznych. . Opracowywanie algorytmw i systemw uczcych si. Szacowanie bdu Zamy, e dana jest hipoteza h i zbir przykadw D wybranych zgodnie rozkadem nie-zalenie od tej hipotezy i niezalenie od siebie nawzajem. Istniej rezultaty teorii prawdopodo-biestwa i statystyki, ktre przy tym zaoeniu pozwalaj oszacowa rzeczywisty bd hipotezy h na podstawie jej bdu prbki na zbiorze D, je-li jDj , nastpujco: najbardziej prawdopodobn warto-ci e c (h) jest e c D (h), je c D (h)j : e c D (h)) 
+Address: ok. 0:95  
+Affiliation: prawdopodobiestwem  
+Note: 3  
+Date: 2 Zakres COLT  
+Abstract: W ramach COLT algorytmy uczce si analizuje si w oparciu o pewne modele uczenia si. Analiza ma na celu zazwyczaj okre-lenie warunkw w ktrych wybrane rodzaje algorytmw dla wybranych klas poj s w stanie uzyska hipotez speniajc pewne kryteria jako-ci, zwizany z tym wymagany koszt oblicze, potrzebn wielko- zbioru trenujcego i liczb pomyek, jakie popeni ucze. Najbardziej rozpowszechnione s modele PAC (probably approximately correct) i ograniczania pomyek (mistake-bound). Materia tego wykadu ogranicza si do absolutnych podstaw COLT: modelu PAC i cha-rakteryzowania zoono-ci przestrzeni hipotez za pomoc wymiaru VC. Tylko w ramach modelu PAC bada si wiele rnych interesujcych przypadkw, o ktrych nie wspominamy, np. zakada-jc zaszumienie zbioru trenujcego, interwencje przekamujcego przykady wroga, algorytmy randomizowane itd. Jest to obszar bardzo aktywnych prac, zwaszcza w USA i Izraelu. Cz-zagadnie wie si z teori kryptograti (ograniczenia kryptogratczne implikuj efektywn PAC-nienauczalno- pewnych klas poj). 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

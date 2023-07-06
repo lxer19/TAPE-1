@@ -1,0 +1,26 @@
+URL: http://www.daimi.aau.dk/~daniel/texts/Fan.Theorem.ps.gz
+Refering-URL: http://www.daimi.aau.dk/~daniel/texts/
+Root-URL: http://www.daimi.aau.dk
+Email: e-mail: daniel@brics.dk  
+Title: An Interpretation of the Fan Theorem in Type Theory  
+Author: Daniel Fridlender 
+Keyword: type theory, fan theorem, inductive bar.  
+Address: Ny Munkegade, Building 540, DK-8000 Aarhus C, Denmark  
+Affiliation: BRICS Department of Computer Science, University of Aarhus  
+Abstract: This article presents a formulation of the fan theorem in Martin-Lof's type theory. Starting from one of the standard versions of the fan theorem we gradually introduce reformulations leading to a final version which is easy to interpret in type theory. Finally we describe a formal proof of that final version of the fan theorem. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [CF58] <author> H. Curry and R. Feys. </author> <title> Combinatory Logic, volume I. </title> <publisher> North-Holland, </publisher> <year> 1958. </year>
+Reference: [Dum77] <author> M. Dummett. </author> <title> Elements of Intuitionism. </title> <publisher> Clarendon Press, Oxford, </publisher> <year> 1977. </year>
+Reference: [Fri97] <author> D. Fridlender. </author> <title> Higman's Lemma in Type Theory. In Types for proofs and programs, </title> <booktitle> Lecture Notes in Computer Science 1512, </booktitle> <year> 1997. </year>
+Reference: [How80] <author> W. Howard. </author> <title> The Formulae-as-Types Notion of Construction. </title> <editor> In J. Seldin and J. Hindley, editors, </editor> <booktitle> To H.B. Curry: Essays on Combinatory Logic, Lambda Calculus and Formalism, </booktitle> <pages> pages 479-490. </pages> <publisher> Academic Press, </publisher> <address> London, </address> <year> 1980. </year>
+Reference: [Mag94] <author> L. Magnusson. </author> <title> The Implementation of ALF a Proof Editor Based on Martin-Lof's Monomorphic Type Theory with Explicit Substitution. </title> <type> PhD thesis, </type> <institution> Department of Computing Science, Chalmers University of Technology and University of Goteborg, </institution> <year> 1994. </year> <month> 14 </month>
+Reference: [Mar68] <author> P. Martin-Lof. </author> <title> Notes on Constructive Mathematics. </title> <publisher> Almqvist & Wiksell, </publisher> <year> 1968. </year>
+Reference: [Mar75] <author> P. Martin-Lof. </author> <title> An Intuitionistic Theory of Types: Predicative Part. </title> <editor> In H. E. Rose and J. C. Shepherdson, editors, </editor> <booktitle> Logic Colloquium 1973, </booktitle> <pages> pages 73-118, </pages> <address> Amsterdam, 1975. </address> <publisher> North-Holland Publishing Company. </publisher>
+Reference: [Mar84] <author> P. Martin-Lof. </author> <title> Intuitionistic Type Theory. </title> <type> Bibliopolis, </type> <institution> Napoli, </institution> <year> 1984. </year>
+Reference: [NPS90] <author> B. Nordstrom, K. Petersson, and J. Smith. </author> <title> Programming in Martin-Lof's Type Theory. An Introduction. </title> <publisher> Oxford University Press, </publisher> <year> 1990. </year>
+Reference: [Tas97] <author> A. Tasistro. </author> <title> Substitution, Record Types and Subtyping in Type Theory, with Applications to the Theory of Programming. </title> <type> PhD thesis, </type> <institution> Department of Computing Science at Chalmers University of Technology and University of Goteborg, </institution> <year> 1997. </year>
+Reference: [TvD88] <author> A. Troelstra and D. van Dalen. </author> <title> Constructivism in Mathematics, An Introduction, Volume I. </title> <publisher> North-Holland, </publisher> <year> 1988. </year>
+Reference: [Vel94] <author> W. Veldman. </author> <title> Intuitionistic Proof of the General non-Decidable case of Hig-man's Lemma. </title> <type> Personal communication, </type> <year> 1994. </year> <month> 15 </month>
+References-found: 12
+

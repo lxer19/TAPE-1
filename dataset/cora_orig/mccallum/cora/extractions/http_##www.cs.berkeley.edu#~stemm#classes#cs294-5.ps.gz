@@ -1,0 +1,20 @@
+URL: http://www.cs.berkeley.edu/~stemm/classes/cs294-5.ps.gz
+Refering-URL: http://www.cs.berkeley.edu/~stemm/pubs.html
+Root-URL: http://www.cs.berkeley.edu
+Email: hodes@cs.berkeley.edu  stemm@cs.berkeley.edu  
+Title: A Comparison of Fat Trees and Express Cubes  
+Author: Todd Hodes Mark Stemm 
+Date: December 9, 1994  
+Address: Berkeley  Berkeley  
+Affiliation: Computer Science Division University of California at  Computer Science Division University of California at  
+Abstract: We compare two types of multiprocessor interconnection networks, fat trees and express cubes. Sample networks of each type were designed using realistic hardware constraints. We model different communication patterns on them and compute metrics such as average hop count, average latency, and bisection bandwidth, and show approximate costs for each network in terms of router and wire counts. Results show that two dimensional express cubes provide slightly lower hop counts across most communication patterns, and provide much lower hop counts when communicating directly with neighbors. Three dimensional express cubes have slightly higher hop counts, but have a larger bisection bandwidth than similar fat trees.
+Abstract-found: 1
+Intro-found: 1
+Reference: [Aga91] <author> Anant Agarwal. </author> <title> Limits on interconnection network performance. </title> <journal> IEEE Transactions on Parallel and Distributed Systems, </journal> <volume> 2 </volume> <pages> 398-412, </pages> <year> 1991. </year>
+Reference-contexts: express cube as a torus will increase the average length of wires, which potentially could limit the clock cycle rate. * The actual performance of each topology depends on the actual communication patterns being used. 6 Related work One paper concerned with the measurement of the performance of interconnection networks <ref> [Aga91] </ref> has a more detailed comparison of various n-ary k-cubes. The papers that first introduce the two topologies [Dal91] [Lei85] discuss some performance measurements for each type of network, and we used some of those results in our work.
+Reference: [Dal91] <author> W. J. Dally. </author> <title> Express cubes: Improving the performance of k-ary n-cube interconnection networks. </title> <journal> IEEE Trans. Computers, </journal> <volume> 40 </volume> <pages> 1016-1023, </pages> <year> 1991. </year>
+Reference-contexts: 1 Introduction The Express Cube <ref> [Dal91] </ref> and Fat Tree [Lei85] are two of the many multiprocessor interconnection networks that have been proposed that promise efficiency and good performance. <p> The papers that first introduce the two topologies <ref> [Dal91] </ref> [Lei85] discuss some performance measurements for each type of network, and we used some of those results in our work.
+Reference: [Lei85] <author> C. E. Leirson. Fat-trees: </author> <title> Universal networks for hardware-efficient supercomputing. </title> <journal> IEEE Trans. Computers, </journal> <pages> pages 892-901, </pages> <year> 1985. </year>
+Reference-contexts: 1 Introduction The Express Cube [Dal91] and Fat Tree <ref> [Lei85] </ref> are two of the many multiprocessor interconnection networks that have been proposed that promise efficiency and good performance. <p> The papers that first introduce the two topologies [Dal91] <ref> [Lei85] </ref> discuss some performance measurements for each type of network, and we used some of those results in our work.
+References-found: 3
+

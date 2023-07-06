@@ -1,0 +1,55 @@
+URL: ftp://ftp.cs.caltech.edu/tr/cs-tr-90-13.ps.Z
+Refering-URL: ftp://ftp.cs.caltech.edu/tr/INDEX.html
+Root-URL: http://www.cs.caltech.edu
+Title: A Predicate Transformer Approach to Semantics of Parallel Programs; Proceedings of the 8th Annual ACM
+Author: C.S. Jutla, E. Knapp, J.R. Rao; [] Johan J. Lukkien; [] Joseph M. Morris; [] S. Owicki, L. Lamport; 
+Degree: Thesis  
+Address: Montreal, Canada,  1991.  
+Affiliation: Computing,  Groningen University,  
+Note: [1] R.J.R. Back, R. Kurki-Suonio; Decentralization of process nets with centralized control, 2nd ACM SIGACT-SIGOPS Symposium on principles of Distributed  Verlag, 1990. [5] David Gries; The Science of Programming, Springer-Verlag, 1981. [6]  Acta Informatica, vol  ACM TOPLAS, vol. 4, no.  [10] A. Tarski; A lattice-theoretical fixpoint theorem and its applications; Pacific Journal of Math ematics, vol.5(1955), 285-309.  
+Date: JAN 163a 39  27 (1990) 287-313.  3, July 1982, 455-495.  
+Abstract: August 1983, 131-142. [2] K. Mani Chandy, J. Misra; Parallel Program Design: A Foundation, Addison Wesley, 1988. [3] Edsger W. Dijkstra; A Discipline of Programming, Prentice-Hall, 1976. [4] Edsger W. Dijkstra, Carel S. Scholten; Predicate Calculus and Program Semantics, Springer 
+Abstract-found: 1
+Intro-found: 1
+Reference: [wlto:DO:p:q:r h:((b _ :p _ q _ r) ^ (:b _ wlto:s:p:q:(wlev:DO:q:r))] <institution> (45) </institution>
+
+Reference: [wlto:s:p:q:r ^ wlev:s:p:r ) wlev:s:q:r] <institution> (T7) </institution>
+Reference: [wto:s:p:q:r ^ wev:s:p:r ) wev:s:q:r] <editor> (T7') The second and last pair expresses transitivity: </editor> <title> an execution that is in the class ` p leads to q ' and in the class ` q leads to w ' is also in the class ` p leads to w </title> '. 
+Reference: [wlto:s:p:q:r ^ wlto:s:q:w:r ) wlto:s:p:w:r] <institution> (T8) </institution>
+Reference: [wto:s:p:q:r ^ wto:s:q:w:r ) wto:s:p:w:r] <editor> (T8') This completes our list of requirements for wlto and wto: </editor> <title> Since they have three predicates as arguments instead of two, we are not surprised that the list is longer than for wlev and wev: The next section defines wlto and wto for a number of statements. this section concludes with a theorem that is similar to a theorem about wlev and wev; and we have a theorem on monotonicity in the p argument. Theorem For all programs s , and predicates p; q; r; and w; we have </title>
+Reference: [wlto:s:p:q:r ^ wlp:s:w ) wlto:s:p:q:(r ^ w)] <institution> (40a) </institution>
+Reference: [wlto:s:p:q:r ^ wp:s:w ) wto:s:p:q:(r ^ w)] <institution> (40b) </institution>
+Reference: [wto:s:p:q:r ^ wlp:s:w ) wto:s:p:q:(r ^ w)] <editor> (40c) Proof We give the proof for (40a); the other three are similar. </editor> <title> wlto:s:p:q:r ^ wlp:s:w f (T0) g wlto:s:p:q:r ^ wlto:s:true:false:w ) f (T3) and (T6) g wlto:s:p:q:r ^ wlto:s:p:q:w f (T1) g wlto:s:p:q:(r ^ w) (End of proof) Theorem For all programs s , and predicates p; p 0 ; q; r; and w; we have </title>
+Reference: [p 0 ) p] ) <institution> [wlto:s:p:q:r ) wlto:s:p 0 :q:r] (41a) </institution>
+
+Reference: [wto:s:p:q:r wto:s:p:q:true ^ wlto:s:p:q:r] <editor> (T2) Thanks to (39) both left- and right-hand side of (T2) reduce to wto:s:p:q:true when substituting true for r: </editor> <title> From (T1) and (T2) it follows that, for all s; p; and q; wto:s:p:q is positively conjunctive : (T1') So much for the properties related to the r argument, Next we turn to the second argument, viz. q: Just like in the case of wlev and wev we require monotonicity of the predicate transformers as a function of q; and, again, the requirements are independent for the two functions. </title>
+Reference: [q ) q 0 ] ) <institution> [wlto:s:p:q:r ) wlto:s:p:q 0 :r] (T3) </institution>
+Reference: [q ) q 0 ] ) <institution> [wto:s:p:q:r ) wto:s:p:q 0 :r] (T3') Properties (E4) and (E4') express that the final state is also an intermediate state. </institution> <note> The pendant for leads to is similar. We have </note>
+Reference: [wlto:s:p:q:r wlto:s:p:q:(q _ r)] <institution> (T4) which implies </institution>
+Reference: [wto:s:p:q:r wto:s:p:q:(q _ r)] <editor> (T4') Properties (E5) and (E5') express that the initial state is also an intermediate state. </editor> <title> The pendant for leads to is that a state satisfying p is also a state that coincides with or follows a state satisfying p: </title>
+Reference: [wto:s:p:p:r] <editor> (T5') In combination with the monotonicity in q this can be phrased as [p ) q] ) [wto:s:p:q:r] : In combination with (T2), </editor> <publisher> (T5') implies </publisher>
+
+Reference: [q ) f:e] <institution> (36) which in conjunction with [w f:w] implies [q ) w] thereby reducing our proof obligation to [I ^ (b _ r) ) w]: Since </institution>
+
+
+
+Reference: [wlev:DO:q:r h:(b _ q _ r)] <institution> (29) </institution>
+Reference: [wev:DO:q:r g:true ^ h:(:b _ wev:s:q:true) ^ h:(b _ q _ r)] <institution> (30) The latter can, </institution> <note> thanks to g:(x ^ y) g:x ^ h:y; be simplified to </note>
+
+
+
+Reference: [wlev:s:q:r ^ wlp:s:w ) wlev:s:q:(r ^ w)] <institution> (18a) </institution>
+Reference: [wlev:s:q:r ^ wp:s:w ) wev:s:q:(r ^ w)] <institution> (18b) </institution>
+
+Reference: [wlev:s:false:r wlp:s:r] <institution> (E0) </institution>
+
+Reference: [q ) q 0 ] ) <institution> [wlev:s:q:r ) wlev:s:q 0 :r] (E3) </institution>
+Reference: [q ) q 0 ] ) <author> [wev:s:q:r ) wev:s:q 0 :r] (E3') Observe that neither of (E3) and (E3'), </author> <title> combined with (E2), implies the other one. Finally we consider the fact that the initial and final states of an execution are also intermediate states. This suggests the requirements </title>
+Reference: [wlev:s:q:r wlev:s:q:(q _ r)] <institution> (E4) </institution>
+
+Reference: [wlp:DO:r h:(b _ r)] <institution> (14) </institution>
+
+
+
+References-found: 25
+

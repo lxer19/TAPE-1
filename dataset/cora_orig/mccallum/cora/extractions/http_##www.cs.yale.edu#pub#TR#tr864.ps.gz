@@ -1,0 +1,12 @@
+URL: http://www.cs.yale.edu/pub/TR/tr864.ps.gz
+Refering-URL: http://www.cs.yale.edu/pub/TR/
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: A Reactive Plan Language RPL (Reactive Plan Language) 1 belongs to the family of notations
+Author: Drew McDermott situations (McDermott et al. ). 
+Note: (e.g., robots) (Davis 1984, Ingrand and Georgeff 1990, Lyons 1990a,b, Gat 1991). Its immediate ancestor is Firby's (1987, 1989) RAP notation. Many of Firby's concepts have been carried  Any  (i.e., no LABELS).  
+Date: 1 Overview  1.1 Sensor-Guided Plans  
+Abstract: A RPL plan looks like a Lisp program. (Indeed, I will use the terms "plan" and "program" interchangeably.) A plan consists of a set of procedure calls, of the form (f -args-), glued together with syntactic constructs like (SEQ -steps-), (IF condition act true act false ), and the like. Variable bindings in RPL are lexically scoped. But Lisp global variables can be accessed, too. There are special facilities for binding variables to the tasks created by the plan itself. RPL looks so much like Lisp that many Lisp programs are valid RPL plans. However, the intent is not to encourage users to think of plans as typical computer programs, whose operation hinges on the maintenance of complex datastructures. RPL plans are intended to spell out how the behavior of an agent is to be driven by events around it, and to do so in a notation so transparent that a planner can reason about how well the plans will work. A key mechanism to achieve these aims is the idea of a fluent, or time-varying quantity. Of course, all program variables are time-varying quantities, but in plans we want behavior to be governed by the temporal changes. For example, in RPL we can say (FILTER c e) to mean, "Execute e while the fluent 1 Thanks to Mark Drummond and Sean Engelson for comments on previous drafts of this paper. The work reported herein was supported by the Defense Advanced Projects Agency, under BRL contract DAA15-87-K-0001, and ONR contract N00014-91-J-1577. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

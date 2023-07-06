@@ -1,0 +1,22 @@
+URL: ftp://ftp.cs.colorado.edu/pub/HPSC/LabManualChap12.ps.Z
+Refering-URL: http://www.cs.colorado.edu/current/courses/materials.hpsc.html
+Root-URL: http://www.cs.colorado.edu
+Email: e-mail jessup@cs.colorado.edu.  
+Title: Lab 12 Molecular Dynamics on SIMD Computers 1234 12.1 Introduction N-Atom Chain Recall the one-dimensional
+Address: Boulder, CO  311  
+Affiliation: University of Illinois at Urbana-Champaign.  Group, Department of Computer Science, University of Colorado,  Group, University of Colorado  
+Note: 12.2 The  utilized the Cray Y-MP8/864 and the TMC CM-2 at NCAR in Boulder, CO. NCAR is supported by the National Science Foundation. 2 This work has been partially supported by the National Center for Supercomputing Applications under the grants, TRA930330N and TRA930331N, and utilized the Connection Machine Model-2 (CM-2) at the National Center for Supercomputing Applications,  3 This work has been partially supported by the MasPar Computer Corporation. 4 This work has been supported by the National Science Foundation under an Educational Infrastructure grant, CDA-9017953. It has been produced by the HPSC  80309. Please direct comments or queries to Elizabeth Jessup at this address or  Copyright c fl1995 by the HPSC  
+Abstract: In this chapter, we discuss the Molecular Dynamics problem for SIMD architectures: the Connection Machine (CM-2) or the MasPar MP-1 or (MP-2). For the CM-2, you may also learn how to display output from programs graphically while the programs are running with the CM-2 framebuffer. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [Mas 92] <institution> MasPar Computer Corporation, </institution> <address> Sunnyvale, CA. </address> <month> [Jul </month> <year> 1992]. </year> <title> MasPar System Overview. Part Number 9300-0100, </title> <journal> Rev. A5. </journal>
+Reference: [Mas 93a] <institution> MasPar Computer Corporation, </institution> <address> Sunnyvale, CA. </address> <month> [May </month> <year> 1993]. </year> <title> Mas-Par Fortran Reference Manual. Part Number 9303-0000, Revision A6. </title>
+Reference: [Mas 93b] <institution> MasPar Computer Corporation, </institution> <address> Sunnyvale, CA. </address> <month> [May </month> <year> 1993]. </year> <title> Mas-Par Fortran User Guide. Part Number 9303-0100, Revision A5. </title>
+Reference: [TMC 89] <institution> Thinking Machines Corporation, </institution> <address> Cambridge, MA. </address> <month> [Oct </month> <year> 1989]. </year> <title> Connection Machine: Graphics Programming Manual. </title> <note> Version 5.2. </note>
+Reference-contexts: Whether specifying eight or 24 bits per pixel, only odd-valued colors show up on a NCD X-terminal with a black-and-white monitor. CUBoulder : HPSC Course Notes Lab Manual Chapter 12 325 For more information on the graphical library functions, see the CM Graphical Programming manual <ref> [TMC 89] </ref>. Exercise 12.3.1 Copy the program file, gverlet1 hl cm.fcm, as well as the input file, gverlet1 hl cm.in, into your own CM-2 directory. a. Compile and run gverlet1 hl cm.fcm on the CM-2. As in Example 12.3.1, use the input file, gverlet1 hl cm.in.
+Reference: [TMC 91a] <institution> Thinking Machines Corporation, </institution> <address> Cambridge, MA. </address> <month> [Jan </month> <year> 1991]. </year> <title> Connection Machine: Fortran Programming Guide. </title> <note> Version 1.0. </note>
+Reference: [TMC 91b] <institution> Thinking Machines Corporation, </institution> <address> Cambridge, MA. </address> <month> [Jul </month> <year> 1991]. </year> <title> Connection Machine: Fortran Reference Manual. </title> <note> Version 1.0 and 1.1. </note>
+Reference: [TMC 91c] <institution> Thinking Machines Corporation, </institution> <address> Cambridge, MA. </address> <month> [Jul </month> <year> 1991]. </year> <title> Connection Machine: Fortran Users's Guide. </title> <note> Version 1.0 and 1.1. </note>
+
+References-found: 7
+

@@ -1,0 +1,20 @@
+URL: http://or.eng.tau.ac.il:7777/topics/isra-mech96-rationale.ps.gz
+Refering-URL: http://or.eng.tau.ac.il:7777/electromechanical.html
+Root-URL: 
+Title: CAPTURING ELECTRONIC PACKAGING DESIGN RATIONALE BY AN ARTIFACT-CENTERED LINGUISTIC APPROACH  
+Author: Yoram Reich and Igal Kaptsan 
+Address: Israel  
+Affiliation: 1 Department of Solid Mechanics, Materials, and Structures, Faculty of Engineering, Tel Aviv University, Tel Aviv,  
+Abstract: The goal of design rationale capture (DRC) is improving design quality and reducing design time. The premise of DRC is that keeping records of previous design decisions in an organized manner can help in doing various critical design activities such as communicating design decisions and redesign. In this paper we describe an on-going work to design a DRC system integrated with a commercial CAD system, tailored to a particular design domain. The domain of electronic packaging was selected due to its multidisciplinary nature and importance. We hope that through this experience, similar systems could be built and tailored to suite other engineering domains. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Buckingham Shum, S. and Hammond, N. </author> <year> (1994). </year> <title> "Argumentation-based design rationale: what use at what cost?." </title> <journal> International Journal of Human-Computer Studies, </journal> <volume> 40(4) </volume> <pages> 603-652. </pages>
+Reference: <author> Conklin, J. and Yakemovic, B. </author> <year> (1991). </year> <title> "A process-oriented approach to design rationale." Human-Computer Interaction, </title> <publisher> 6(3-4):357-391. </publisher>
+Reference: <author> Lee, J. and Lai, K.-Y. </author> <year> (1991). </year> <title> "What's in design rationale?." Human-Computer Interaction, </title> <publisher> 6(3-4):251-280. </publisher>
+Reference: <author> Potts, C. and Burns, G. </author> <year> (1988). </year> <title> "Recording the reasons for design decisions." </title> <booktitle> In Proceedings of the 10th International Conference on Software Engineering, </booktitle> <pages> pages 418-427. </pages>
+Reference: <author> Reich, Y. </author> <year> (1995). </year> <title> "Computational quality function deployment is knowledge intensive engineering." </title> <editor> In Tomiyama, T. and Mantyla, M., editors, </editor> <booktitle> Proceedings of KIC-1: International Workshop on Knowledge Intensive CAD. </booktitle>
+Reference: <author> Reich, Y. </author> <year> (1996). </year> <title> "AI-supported quality function deployment." </title> <booktitle> In Proceedings of the Fourth International Workshop on Artificial Intelligence in Economics and Management, IFAC. </booktitle>
+Reference: <author> Rittel, H. W. J. and Webber, M. M. </author> <year> (1973). </year> <title> "Dilemmas in a general theory of planning." </title> <journal> Policy Sciences, </journal> <volume> 4 </volume> <pages> 155-169. </pages>
+Reference: <author> Subrahmanian, E., Konda, S. L., Levy, S. N., Reich, Y., Westerberg, A. W., and Monarch, I. A. </author> <year> (1993). </year> <title> "Equations aren't enough: </title> <booktitle> Informal modeling in design." Artificial Intelligence in Engineering Design, Analysis, and Manufacturing, </booktitle> <volume> 7(4) </volume> <pages> 257-274. </pages>
+References-found: 8
+

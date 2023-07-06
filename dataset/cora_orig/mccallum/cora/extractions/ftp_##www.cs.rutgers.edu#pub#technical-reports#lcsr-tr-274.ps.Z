@@ -1,0 +1,19 @@
+URL: ftp://www.cs.rutgers.edu/pub/technical-reports/lcsr-tr-274.ps.Z
+Refering-URL: http://www.cs.rutgers.edu/pub/technical-reports/
+Root-URL: 
+Title: A Linear-C Implementation of Dijkstra's Algorithm  
+Author: Chung-Hsing Hsu and Donald Smith and Saul Levy 
+Date: October 9, 1996  
+Address: LCSR-TR-274  
+Affiliation: Department of Computer Science Rutgers University  
+Abstract: Linear-C is a data-parallel extension to C. In this report we show, by implementing Dijkstra's algorithm in Linear-C to solve the shortest-paths problem, that (1) data-parallelism in Dijkstra's algorithm can be easily expressed in Linear-C, (2) even a small amount of data parallelism can speed up the whole algorithm substantially, and (3) the algorithm, the data representation, and the efficiency are closely inter-related. Three implementations are provided, each with a different level of data parallelism exploited. The programs are explained, their time complexities are analyzed, and their strength and weakness in efficiency are compared.
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Hall, J.S. </author> <year> (1994). </year> <title> Associative Processing: Architectures, Algorithms, and Applications, </title> <type> Ph.D. Dissertation, </type> <institution> Computer Science Department, Rutgers University. </institution>
+Reference-contexts: 1 Introduction Linear-C <ref> [1, 2] </ref> is a data-parallel extension to C. It extends C by treating arrays (or more precisely, aggregate values) as first-class citizens. Furthermore, several kinds of association are attached to arrays to control the computation. Activity association, for example, selects particular elements of an array involved in a computation.
+Reference: [2] <author> Hsu, C.H., Smith, D.E., and Levy, S. </author> <year> (1996). </year> <title> Linear-C: A Data-Parallel Extension to C, </title> <institution> LCSR-TR-273, Computer Science Department, Rutgers University. </institution>
+Reference-contexts: 1 Introduction Linear-C <ref> [1, 2] </ref> is a data-parallel extension to C. It extends C by treating arrays (or more precisely, aggregate values) as first-class citizens. Furthermore, several kinds of association are attached to arrays to control the computation. Activity association, for example, selects particular elements of an array involved in a computation. <p> Operations can also be combined into more complex expressions, evaluated still in constant time. The whole picture of Linear-C is explored in <ref> [2] </ref>. 3 The order of scalars are as in C. A Linear-C Implementation of Dijkstra's Algorithm 5 Statement A = s means broadcast the value of scalar s to every element of array A. Or, for every element of array A, get the value of scalar s. <p> It is not allowed in Linear-C. See <ref> [2, Section 2.5] </ref> for more details. A Linear-C Implementation of Dijkstra's Algorithm 6 Besides extending C operators to deal with aggregate values, Linear-C provides a set of new unary operators for aggregate values. Operator /" is one of them which finds the minimum scalar of an aggregate value.
+Reference: [3] <author> Smith, D.E., Hall, J.S., and Miyake, K. </author> <year> (1993). </year> <institution> Rutgers' CAM 2000 Chip Architecture, LCSR-TR-196, Computer Science Department, Rutgers University. </institution>
+Reference-contexts: Various versions of implementation are provided; each of them is an improvement over the other in efficiency. The basic idea is to express data-parallelism 1 As a direct support for Linear-C, we have developed a new type of memory chip, the CAM2000 <ref> [3] </ref>, that provides efficient ways to compute data-parallel operations. 2 The property of imperative substitutives allows the C-debugging tools to be used. See Section 3 for details. 1 A Linear-C Implementation of Dijkstra's Algorithm 2 exploited in Dijkstra's algorithm as much as possible.
+References-found: 3
+

@@ -1,0 +1,22 @@
+URL: http://www.wi.leidenuniv.nl/home/joost/ijcnn.ps.gz
+Refering-URL: http://www.wi.leidenuniv.nl/home/joost/
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: A Multilevel Nonlinearity Study Design  
+Author: Maarten H. Lamers, Joost N. Kok, Erik Lebret 
+Abstract: Multilevel models are designed to deal with studies on data that contain hierarchical structures and are becoming increasingly important in many fields of research. Since they are limited to parametric models, in practice only linear multilevel models are used. We present a nonlinear multilevel approach to investigate nonlinearity in relations. This model is based on nonlinear feed-forward networks. Furthermore, the proposed multilevel model enables us to study how errors in measurements may obscure nonlinear relations. An imaginary dataset was generated as an example, based on an epidemiological model, and with this dataset the effect of noise on nonlinear relations was studied, using the proposed multilevel model. This simulation confirms the applicability of the multilevel nonlinearity study and indicates strong obscuring of nonlinearity due to noise. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> M. Aitkin, D. Anderson, and J.J. Hinde. </author> <title> Statistical modelling of data on teaching styles (with discussion). </title> <journal> J. Royal Statistical Society, A, </journal> <volume> 144 </volume> <pages> 48-61, </pages> <year> 1981. </year>
+Reference: [2] <author> B. Cheng and D.M. Titterington. </author> <title> Neural networks: A review from a statistical perspective (with discussion). </title> <journal> Statistical Science, </journal> <volume> 9(1) </volume> <pages> 2-54, </pages> <year> 1994. </year>
+Reference: [3] <author> H. Goldstein. </author> <title> Multilevel Statistical Models. </title> <publisher> Edward Arnold, </publisher> <address> London, </address> <year> 1995. </year>
+Reference: [4] <author> H. Goldstein, M.J.R. Healy, and J. Rasbach. </author> <title> Multilevel time series models with applications to repeated measures data. </title> <journal> Statistics in Medicine, </journal> <volume> 13 </volume> <pages> 1643-1655, </pages> <year> 1994. </year>
+Reference: [5] <author> L. Hansen and P. Salomon. </author> <title> Neural network ensembles. </title> <journal> IEEE Transactions on Pattern Analysis and Machine Learning, </journal> <volume> 12 </volume> <pages> 993-1001, </pages> <year> 1990. </year>
+Reference: [6] <author> J. Hertz, A. Krogh, and R.G. Palmer. </author> <title> Introduction to the Theory of Neural Computation, </title> <booktitle> volume 1 of Santa Fe Institute Studies in the Sciences of Complexity. </booktitle> <publisher> Addison-Wesley Publishing Company, </publisher> <year> 1991. </year>
+Reference: [7] <author> G. Hoek and B. Brunekreef. </author> <title> Time trends in repeated spirometry in children. </title> <journal> European Respiratory Journal, </journal> <volume> 5 </volume> <pages> 553-559, </pages> <year> 1992. </year>
+Reference: [8] <author> E.L. </author> <title> Korn and A.S. Whittemore. Methods for analyzing panel studies of acute health effects of air pollution. </title> <journal> Biometrics, </journal> <volume> 35 </volume> <pages> 795-802, </pages> <year> 1979. </year>
+Reference: [9] <author> E. Lebret. </author> <title> Errors in exposure measures. </title> <journal> Toxicology and Industrial Health, </journal> <volume> 6(5) </volume> <pages> 147-156, </pages> <year> 1990. </year>
+Reference: [10] <author> J.N.S. Matthews, D.G. Altman, M.J. Campbell, and P. Royston. </author> <title> Analysis of serial measurements in medical research. </title> <journal> British Medical Journal, </journal> <volume> 300 </volume> <pages> 230-5, </pages> <year> 1990. </year>
+Reference: [11] <author> N. Rice and A. Leyland. </author> <title> Multilevel models: Applications to health data. </title> <journal> Journal of Health Services Research and Policy, </journal> <volume> 1 </volume> <pages> 154-164, </pages> <year> 1996. </year>
+Reference: [12] <author> B.D. Ripley. </author> <title> Statistical aspects of neural networks. </title> <editor> In O.E. Barndorff-Nielsen, J.L. Jensen, and W.S. Kendall, editors, </editor> <booktitle> Networks and Chaos-Statistical and Probabilistic Aspects, </booktitle> <pages> pages 40-123. </pages> <publisher> Chapman & Hall, </publisher> <address> London, </address> <year> 1993. </year>
+References-found: 12
+

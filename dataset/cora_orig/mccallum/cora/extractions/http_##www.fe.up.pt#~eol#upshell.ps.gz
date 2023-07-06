@@ -1,0 +1,28 @@
+URL: http://www.fe.up.pt/~eol/upshell.ps.gz
+Refering-URL: http://www.fe.up.pt/~eol/
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Email: rcamacho@nccup.ctt.pt  
+Phone: 2 319 280  
+Title: A Tool for Cooperative Expert Systems  
+Author: EUGNIO OLIVEIRA and RUI CAMACHO Rua dos Bragas Porto codex eugenio oliveira univ do porto @eurokom 
+Note: Areas Expert Systems Technology Distributed Artificial Intelligence  
+Address: Fax:351  
+Affiliation: University of Porto Faculty of Engineering  PORTUGAL  
+Abstract-found: 0
+Intro-found: 0
+Reference: [1] <author> Oliveira E.; Silva R.; Ramos C. </author> <title> "Multi-Agent Environment in Robotics" Robotica I.J. </title> <booktitle> AI and Robotics V.9 Part 4 Oct 1991 Cambridge University Press </booktitle>
+Reference-contexts: This may be of great help in applications which deal with real time as is the case of Robotics <ref> [1] </ref>. Moreover, UPShell provides the capability of automatically derive, from new built Knowledge Bases, specific Self Knowledge modules as well as Knowledge about each Agent Acquaintances.
+Reference: [2] <institution> N.Jennings; C.Roda; E.Mamdani "Cooperation in a Multi-Agent Environment" Archon Technical Report Nr.3 1989 13 </institution>
+Reference-contexts: These ones are composed of several files each of which incorporating different kinds of domain knowledge (facts, rules, structural knowledge), as well as two important modules of the Cooperative layer: The Self Model and The Acquaintances Model <ref> [2] </ref>, which are needed for the intended cooperation between different CISs. In addition, each generated system inherits from the shell an appropriated inference mechanism including some important specific features which will be described later in this paper.
+Reference: [3] <author> Cockburn D. </author> <title> "Application Scenario one" ERDC/ARCHON/TN008/5-90 </title>
+Reference-contexts: Their structure is compatible with the one already defined : "attribute-function-value" . As an example we may consider the following fact known by the LVDA (Low Voltage Diagnosis Agent) of an application partner of Archon project (Electrical Development & Research Center in U.K.) <ref> [3] </ref>: fact ( triple ( open, cb1,equal, 105543) . Where cb1 is an electrical breaker and the opening occurred at 10h 55m 43s. Facts, Frames and Rules are then closely interrelated. Other valuable informations are also computed by the system and employed during consultation.
+Reference: [4] <author> Oliveira E.; Camacho R.; Ramos C. </author> <title> "UP Shell Rational and brif description" UP/ARCHON/Technical Note 008/06-90 </title>
+Reference-contexts: He may respond to CISs questions and read their solutions of the finished tasks. Along with a specified task a time limit could be attached triggering the time bounded facilities of the CISs. A detailed tutorial of how to generate and use UPshell can be seen in <ref> [4] </ref>. 2.5 Implementation 1 For this particular situation, the indexation mechanism can be changed to the (Prolog) possibility of maintaining several databases (in this case Working Memory of the task) in disk. 2 once they are not interrupatble they define the quantum of time 10 This toolkit is written both in
+Reference: [5] <author> Camacho R.;Oliveira E.; Saffiotti A.;Theodoroupoulos N. </author> <title> "Reasoning Techniques for the Archon Layer" IRIDIA+UP+QMW/ARCHON/Technical Note 22/5-90 </title>
+Reference-contexts: The major goal is then to reach the best possible solutions under given constraints, and therefore contributing to improve overall agent community performance. In order to manage resources when they are limited (specially time) we thought of two general policies <ref> [5] </ref>: an incremental strategy taking advantage of approximate processing techniques; a second one in which resources are distributed over potential computations (execution of rules) in order to meet the resources constraints. This one is used when there is a commitment to conclude upon a value of a concept .
+Reference: [6] <author> V. Lesser; J. Pavlin ; E. </author> <title> Durfee "Approximate Processing in Real-Time Problem Solving" AI Magazine Spring 1988 </title>
+Reference-contexts: When the first and quickest solution is computed, only one rule will be evaluated and the others stored. During this first stage we can think of building up an "interest list" containing the concepts whose values we think are worthwhile to be reevaluated more accurately. Some approximate processing techniques <ref> [6] </ref> will be adjusted to the production rule paradigm. These techniques will include data approximation such as discarding at the first round some of the attributes and perhaps some of the data.
+Reference: [7] <author> Qiegang, L. ; Oliveira E. </author> <title> "A Blackboard-like Monitor in a Cooperative Comunity of Agents Working in a Robotic Testebed - First Scenario" UP/Technical Note 09/11-90 </title>
+Reference-contexts: In addition, each generated system inherits from the shell an appropriated inference mechanism including some important specific features which will be described later in this paper. The Shell also attaches to each new system a communication module and a Blackboard Monitor <ref> [7] </ref>. Self and Acquaintances Models can then be seen as a kind of screens each IS uses to know and be known by the others ISs. 5 The Blackboard Monitor is responsible for the control of all the inter and intra Agent activity.
+References-found: 7
+

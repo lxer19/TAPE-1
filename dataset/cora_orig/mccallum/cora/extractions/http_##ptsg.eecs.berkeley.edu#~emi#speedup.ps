@@ -1,0 +1,23 @@
+URL: http://ptsg.eecs.berkeley.edu/~emi/speedup.ps
+Refering-URL: http://ptsg.eecs.berkeley.edu/~emi/
+Root-URL: http://www.cs.berkeley.edu
+Email: Summary  
+Title: Methods of Speeding Up PIC-MCC Codes Applied to RF Plasma Discharges  
+Author: Emi KAWAMURA Charles K. BIRDSALL Vahid VAHEDI 
+Abstract: Our paper will present old and new and combinations of attempts being made to make particle-in-cell, Monte-Carlo collisions, PIC-MCC, codes run faster. The particular application is to RF discharges as used in plasma processing, attempting to reach equilibrium sooner, on single processor machines. (We are also working on paralleling our codes.) We report on speed gains between 6 and 30 times, using implicit integrations, subcycling, and light ions, in combination, on argon and oxygen RF discharges, with some runs under one hour, on a 233MHz workstation. This is a progress report, with these initial successes, and not a final report.
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> J. P. Verboncoeur, M. V. Alves, V. Vahedi, and C. K. Birdsall. </author> <title> Simultaneous potential and circuit solution for 1d bounded plasma particle simulation codes. </title> <journal> J. Comput. Phys., </journal> <volume> 104 </volume> <pages> 321-328, </pages> <year> 1993. </year>
+Reference: [2] <author> V. Vahedi and M. Surendra. </author> <title> Monte-carlo collision model for particle-in-cell method: Application to argon and oxygen discharges. </title> <journal> Comp. Phys. Comm., </journal> <volume> 87 </volume> <pages> 179-198, </pages> <year> 1995. </year>
+Reference-contexts: The number of missed collisions per t is then proportional to err = k=2;1 j = P 2 For example, an err = 0:01 requires P j &lt; 0:095 and n gas T (E j )v j t = -j t &lt; 0:1. See Vahid and Surendra, 1995 <ref> [2] </ref>.
+Reference: [3] <author> C.K. Birdsall. </author> <title> Particle-in-cell charged-particle simulations, plus monte carlo collisions with neutral atoms, </title> <journal> pic-mcc. IEEE Transactions on Plasma Science, </journal> <volume> 19(2) </volume> <pages> 65-85, </pages> <month> April </month> <year> 1991. </year>
+Reference: [4] <author> V. Vahedi, G. DiPeso, C.K. Birdsall, M.A. Lieber--man, </author> <title> and T.D. Rognlien. Capacitive rf discharges modelled by particle-in-cell monte carlo simulation. i: Anaylsis of numerical techniques. Plasma Sources Sci. </title> <journal> Technol., </journal> <volume> 2 </volume> <pages> 261-272, </pages> <year> 1993. </year>
+Reference-contexts: See, for example, Table I in Vahedi et al. paper on capacitive RF discharges <ref> [4] </ref>. We will apply several speed-up methods together to RF discharge simulations. Our base method for comparison is explicit coding, with no speed up applied, hence having a speed Gain = 1.
+Reference: [5] <author> C.K. Birdsall and A. B. Langdon. </author> <title> Plasma Physics via Computer Simulation. </title> <publisher> McGraw-Hill, </publisher> <year> 1985. </year>
+Reference: [6] <author> J. U. Brackbill and B. I. Cohen. </author> <title> Multiple Time Scales. </title> <publisher> Academic Press, </publisher> <year> 1985. </year>
+Reference: [7] <author> D. J. Cooperberg, V. Vahedi, and C. K. Birdsall. </author> <title> Pic-mcc with variable particle weights. </title> <booktitle> Proc. Numerical Simulation of Plasmas Conf. </booktitle> <address> Valley Forge PA 7-9 Sept 1994, plus PIC-MCC Workshop 9-10 Sept. </address> <year> 1994., 1994. </year>
+Reference-contexts: Then, instead of requiring 3e4 O + 2 and 3e4 O ions per every 1000 electrons, we can have 3e3 O + 2 and 3e3 O per every 1000 electrons. A variable weighting procedure for oxygen discharges has been developed and implemented by Cooperberg et al. <ref> [7] </ref>. If there were no collisions, then the procedure would be fairly straightforward since there would be no interactions involving particles of different weights. But, because of collisions, the weight of each particle is a dynamic variable that is updated every time it undergoes a collision.
+Reference: [8] <author> Michael A. Lieberman and Allan J. Lichtenberg. </author> <title> Principles of Plasma Discharges and Materials Processing. </title> <publisher> John Wiley and Sons, Inc., </publisher> <year> 1994. </year>
+Reference-contexts: The required increase can be estimated by using the expression for bulk density derived in Chapter 11 of Lieberman and Lichtenberg's text <ref> [8] </ref> for a homogeneous dicharge model. In this simple model, the ion density is uniform everywhere in the plasma and sheath regions while the electron density is uniform and equal to the ion density in the bulk region but zero in the sheath region.
+References-found: 8
+

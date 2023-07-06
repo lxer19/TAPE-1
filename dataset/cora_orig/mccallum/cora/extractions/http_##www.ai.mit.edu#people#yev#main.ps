@@ -1,0 +1,21 @@
+URL: http://www.ai.mit.edu/people/yev/main.ps
+Refering-URL: http://www.ai.mit.edu/people/yev/6.853.html
+Root-URL: 
+Title: Adaptation of the System V/386 Filesystem for Linux  
+Author: By PAUL B. MONDAY 
+Affiliation: COMPUTER SCIENCE WASHINGTON STATE UNIVERSITY School of Electrical Engineering and Computer Science  
+Date: December 15, 1993  December 1993  
+Note: c flWashington State University,  MASTER OF SCIENCE IN  
+Abstract: A report submitted to accompany a project to fulfill the requirements for the degree of 
+Abstract-found: 1
+Intro-found: 1
+Reference: [Ba86] <author> Bach, </author> <title> Maurice The Design of the Unix Operating System, </title> <publisher> Prentice-Hall Inc., </publisher> <address> En-glewood Cliffs, New Jersey, </address> <year> 1986. </year>
+Reference-contexts: The block and inode caches in the filesystem drive much of the logic behind the algorithms used to maintain the superblock. 10 2.2.1 Free Block Cache The free block cache is documented very well in <ref> [Ba86] </ref>. When the filesystem is made, the free blocks are organized into a linked structure. The System V/386 filesystem stores 50 addresses in the block cache.
+Reference: [At89] <institution> UNIX System V/386 Release 3.2.2 Operations//System Administration Guide </institution>
+Reference: [Du86] <author> Duncan, </author> <title> Ray Advanced MSDOS, </title> <publisher> Microsoft Press, </publisher> <address> Redmond, WA, </address> <year> 1986. </year>
+Reference: [Du89] <author> Duncan, </author> <title> Ray Design Goals and Implementation of the New High Performance File System, Microsoft System Journal, </title> <publisher> Microsoft Press, </publisher> <address> Redmond, WA, </address> <month> September, </month> <year> 1989. </year>
+Reference: [Sh87] <author> Shaw, </author> <title> Myril Clement Unix Internals: A Systems Operations Handbook, Tab Books, Blue Ridge Summit, </title> <address> PA, </address> <year> 1987. </year>
+Reference-contexts: occur in the true implememtation * if ninode = 100 then return * superblock.ninode ++ * superblock.inode [superblock.ninode]=number of returnInode * return 2 Note: The implementation of the inode cache in the project versus the true implementation in the System V/386 filesystem differ somewhat, as I discovered just recently, see <ref> [Sh87] </ref>. 14 2.3 Inodes The internal inode representation, as with any Unix system, is the key to the organization of the filesytem. The System V/386 filesystem follows virtually the same format as any other Unix system, though with some important distinctions.
+Reference: [Ta87] <author> Tanenbaum, </author> <title> Andrew Operating Systems: </title> <booktitle> Design and Implementation , Prentice-Hall International Editions, </booktitle> <address> Englewood Cliffs, NJ, </address> <year> 1987. </year> <month> 141 </month>
+References-found: 6
+

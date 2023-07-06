@@ -1,0 +1,32 @@
+URL: http://ptolemy.eecs.berkeley.edu/papers/blocFac.ps.Z
+Refering-URL: http://ptolemy.eecs.berkeley.edu/~murthy/pub.html
+Root-URL: http://www.cs.berkeley.edu
+Title: blocking factors to consider; this characterizes the critical path for all unfoldings greater than D
+Author: B E H B [] P. K. Murthy, E.A. Lee, [] E. A. Lee, [] K. K. Parhi, D. G. Messerschmitt, [] L. F. Chao, E. M. Sha, [] F. Baccelli, G. Cohen, G. J. Olsder, J. P. [] J. B. Dennis, [] T. L. Adam, K. M. Chandy, J. R. Dickson, [] T. C. Hu, [] W. H. Kohler, [] G. Liao, G. Gao, E. Altman, V. K. Agarwal,A [] J-J. Hwang, Y-C Chow, F. D. Anger, C-Y. Lee, [] L. E. Lucke, K. K. Parhi, [] R. Karp, [] S. Sriram, 
+Address: 6 5 D B  Berkeley,  Berkeley,  1993  
+Affiliation: 2  Electronics Research Lab., UC  Laboratory for Computer Science,  Electronics Research Lab., UC  McGill University,  
+Note: In general, the theorem implies that there are only  4. Conclusion H  Comm. ACM  IEEE Trans. on Computers,  Siam J. Computing, Vol. 18, No.  Asilomar Conf.,  
+Pubnum: Memo. No. UCB/ERL M94/46,  Technical Report, Prince-ton University,  Technical Memo. 61,  MIT,  Memo. No. UCB/ERL M91/29,  Research  Technical Report,  12, No.  
+Email: F  
+Phone: 6  
+Date: 1 6  2  3  14  June 1994  1993  May 1975  April 1991  17 (12), December 1974  9 (6), 1961  December 1975  2, April 1989  7, July 1993  October 1994.  
+Abstract: From the above equation, we can see that we will get the best performance if we choose a blocking factor that is a multiple of 3. In this paper, we have developed a formulation for the problem of finding optimal blocking factors for blocked, non-overlapped schedules. We have used a max-algebra formulation to show that the critical path in a unfolded HSDF graph becomes cyclic as becomes large enough. We have shown that it is possible to determine this cyclic-ity by analyzing the critical graph of the matrix, a matrix that arises out of the model. The cyclicity of the critical path implies that we have to examine only a f inite number of unfoldings to determine whether a rate-optimal unfolding exists. This number is equal to the sum of the cyclicity and a transient. While this paper has contributed to our theoretical understanding of the dynamics of increasing the blocking factor when there are no processor or communication constraints, finding the optimal blocking factor under those constraints is still an open problem. The results in this paper certainly give us a technique to determine upper bounds on the performance we can expect when these constraints are present. E 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> P. K. Murthy, E.A. Lee, </author> <title> On the Optimal Blocking Factor for Blocked, Non-Overlapped Schedules, </title> <note> Memo. No. </note> <institution> UCB/ERL M94/46, Electronics Research Lab., UC Berkeley, </institution> <month> June </month> <year> 1994 </year>
+Reference: [2] <author> E. A. Lee, </author> <title> A Coupled Hardware and Software Architecture for Programmable Digital Signal Processors, </title> <type> Ph.D. Thesis, </type> <institution> UC-Berkeley, </institution> <year> 1986 </year>
+Reference: [3] <author> K. K. Parhi, D. G. Messerschmitt, </author> <title> Static Rate-Optimal Scheduling of Iterative Data-Flow Programs via Optimum Unfolding, </title> <journal> IEEE Transactions on Computers, </journal> <month> February </month> <year> 1991 </year>
+Reference: [4] <author> L. F. Chao, E. M. Sha, </author> <title> Static Scheduling for Synthesis of DSP Algorithms on Various Models, </title> <type> Technical Report, </type> <institution> Prince-ton University, </institution> <year> 1993 </year>
+Reference: [5] <author> F. Baccelli, G. Cohen, G. J. Olsder, J. P. Quadrat, </author> <title> Synchronization and Linearity, </title> <publisher> Prentice Hall, </publisher> <year> 1993 </year>
+Reference: [6] <author> J. B. Dennis, </author> <title> First Version of a Data Flow Procedure Language, </title> <type> MAC Technical Memo. 61, </type> <institution> Laboratory for Computer Science, MIT, </institution> <month> May </month> <year> 1975 </year>
+Reference: [7] <author> G. Sih, </author> <title> Multiprocessor Scheduling to Account for Interpro-cessor Communication, </title> <type> Ph.D. Thesis, Memo. </type> <institution> No. UCB/ERL M91/29, Electronics Research Lab., UC Berkeley, </institution> <month> April </month> <year> 1991 </year>
+Reference: [8] <author> T. L. Adam, K. M. Chandy, J. R. Dickson, </author> <title> A Comparison of List Schedules for Parallel Processing Systems, </title> <journal> Comm. </journal> <volume> ACM 17 (12), </volume> <month> December </month> <year> 1974 </year>
+Reference: [9] <author> T. C. Hu, </author> <title> Parallel Sequencing and Assembly Line Problems, </title> <note> Operations Research 9 (6), </note> <year> 1961 </year>
+Reference: [10] <author> W. H. Kohler, </author> <title> A Preliminary Evaluation of the Critical Path Method for Scheduling Tasks on Multiprocessor Systems, </title> <journal> IEEE Trans. on Computers, </journal> <month> December </month> <year> 1975 </year>
+Reference: [11] <author> G. Liao, G. Gao, E. Altman, V. K. </author> <title> Agarwal,A Comparative Study of DSP Multiprocessor List Scheduling Heuristics, </title> <type> Technical Report, </type> <institution> McGill University, </institution> <year> 1993 </year>
+Reference: [12] <author> J-J. Hwang, Y-C Chow, F. D. Anger, C-Y. Lee, </author> <title> Scheduling Precedence Graphs in Systems with Interprocessor Communication Times, </title> <journal> Siam J. Computing, </journal> <volume> Vol. 18, No. 2, </volume> <month> April </month> <year> 1989 </year>
+Reference: [13] <author> L. E. Lucke, K. K. Parhi, </author> <title> Data-Flow T ransformations for Critical Path Time Reduction in High-Level DSP Synthesis, </title> <journal> IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, </journal> <volume> Vol. 12, No. 7, </volume> <month> July </month> <year> 1993 </year>
+Reference: [14] <author> R. Karp, </author> <title> A Note on the Characterization of the Minimum Cycle Mean in a Digraph, </title> <journal> Discrete Mathematics, </journal> <volume> 23, </volume> <year> 1978 </year>
+
+References-found: 14
+

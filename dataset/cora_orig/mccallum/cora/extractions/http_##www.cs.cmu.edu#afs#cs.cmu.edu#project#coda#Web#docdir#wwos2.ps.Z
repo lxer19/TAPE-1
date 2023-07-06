@@ -1,0 +1,15 @@
+URL: http://www.cs.cmu.edu/afs/cs.cmu.edu/project/coda/Web/docdir/wwos2.ps.Z
+Refering-URL: http://www.cs.cmu.edu/afs/cs.cmu.edu/project/coda/Web/docs-coda.html
+Root-URL: 
+Title: Coda: A Highly Available File System for a Distributed Workstation Environment  
+Author: M. Satyanarayanan 
+Affiliation: School of Computer Science Carnegie Mellon University  
+Abstract: Coda is a file system for a large-scale distributed computing environment composed of Unix workstations. It provides resiliency to server and network failures through the use of two distinct but complementary mechanisms. One mechanism, server replication, involves storing copies of a file at multiple servers. The other mechanism, disconnected operation, is a mode of execution in which a caching site temporarily assumes the role of a replication site. Disconnected operation is particularly useful for supporting portable workstations. The design of Coda optimizes for availability and performance, but provides the highest degree of consistency attainable in the light of those objectives. Measurements from a prototype show that the performance cost of providing high availability in Coda is reasonable.
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Howard, J.H., Kazar, M.L., Menees, S.G., Nichols, D.A., Satyanarayanan, M., Sidebotham, R.N., West, M.J. </author> <title> Scale and Performance in a Distributed File System. </title> <journal> ACM Transactions on Computer Systems 6(1), </journal> <month> February, </month> <year> 1988. </year>
+Reference-contexts: Execution continues transparently when contact is lost with a server due to a crash or network failure. In the absence of failures, using a Coda client feels no different from using an AFS client. Preliminary measurements with the Andrew benchmark <ref> [1] </ref> shows that the degradation due to replication is relatively small. With one replica, Coda performs about 5% worse than with a non-replicated volume. With two and three replicas, it performs 9% and 11% worse respectively. With three replicas, Coda performs 28% worse than a local Unix file system.
+Reference: [2] <author> Ousterhout, J., Da Costa, H., Harrison, D., Kunze, J., Kupfer, M., Thompson, </author> <note> J. </note>
+Reference-contexts: It denies access to a copy of data only if it is certain that the copy is inconsistent, and maintains this policy even in the presence of network partitions. Although this strategy could lead to conflicting updates, the infrequency of write-sharing in Unix environments <ref> [2] </ref>, makes such conflicts unlikely. We have adopted the view, first suggested by Locus [6], that conflicting updates are acceptable if they are rare, promptly detected, and often easily repaired. A version vector [3] mechanism is used by Coda to detect inconsistencies.
+References-found: 2
+

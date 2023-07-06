@@ -1,0 +1,24 @@
+URL: ftp://ftp.cs.umd.edu/pub/papers/papers/3175/3175.ps.Z
+Refering-URL: http://www.cs.umd.edu/TRs/TR.html
+Root-URL: 
+Title: FUZZY PLANE GEOMETRY: TRIANGLES  
+Author: Azriel Rosenfeld 
+Address: College Park, MD 20742-3275  
+Affiliation: Computer Vision Laboratory Center for Automation Research University of Maryland  
+Date: November 1993  
+Pubnum: CAR-TR-694 F49620-93-1-0039  
+Abstract: A fuzzy triangle T (with a discrete-valued membership function) can be regarded as a nest of parallel-sided triangles T i with successively higher membership values. Such a nest is determined by its max projections on any two of its "sides". The area (perimeter) of T is a weighted sum of the areas (perimeters) of the T i 's. The side lengths and altitudes of T can also be defined as weighted sums obtained from projections; using these definitions, the perimeter of T is the sum of the side lengths, and the side lengths are related to the vertex angles by the Law of Sines, but there is no simple relationship between the area of T and the products of the side lengths and altitudes. The support of the Air Force Office of Scientific Research under Grant F49620-93-1-0039 is gratefully acknowledged, as is the help of Sandy German in preparing this paper. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> A. Rosenfeld, </author> <title> Fuzzy rectangles, </title> <journal> Pattern Recognition Letters 11, </journal> <year> 1990, </year> <pages> 677-679. </pages>
+Reference-contexts: 1 Introduction For any direction in the plane, let (x ; y ) be Cartesian coordinates with x measured along and y measured perpendicular to . A fuzzy subset of the plane is called a fuzzy halfplane in direction <ref> [1] </ref> if f (x ; y ) depends only on x and is a monotonically nondecreasing function of x . <p> must satisfy either P Q R or P Q R ; hence if f is a fuzzy halfplane, min [f (P ); f (Q); f (R)] must be either f (P ) or f (R). // Fuzzy convex polygons of various types can be defined as infs of fuzzy halfplanes <ref> [1] </ref>. Note that such polygons must be fuzzy convex sets, since an inf of fuzzy convex sets is fuzzy convex.
+Reference: [2] <author> L. Zadeh, </author> <title> Fuzzy sets, </title> <booktitle> Information and Control 8, </booktitle> <year> 1965, </year> <pages> 338-353. </pages>
+Reference-contexts: Proof: We recall <ref> [2] </ref> that a fuzzy subset f of the plane is called fuzzy convex if for all points P; Q; R such that Q is on the line segment P R we have f (Q) min [f (P ); f (R)].
+Reference: [3] <author> A. Rosenfeld, </author> <title> The diameter of a fuzzy set, Fuzzy Sets and Systems 13, </title> <booktitle> 1984, </booktitle> <pages> 241-246. </pages>
+Reference-contexts: A simple example of a fuzzy triangle, involving only the membership values 0, 1 2 , and 1, is shown in 2 Projections We recall <ref> [3; see also 4] </ref> that the sup projection of a fuzzy set f onto a line L is a fuzzy subset of L whose value at P 2 L is the sup of the values of f on the line perpendicular to L at P .
+Reference: [4] <author> A. Bogomolny, </author> <title> On the perimeter and area of fuzzy sets, Fuzzy Sets and Systems 23, </title> <booktitle> 1987, </booktitle> <pages> 257-269. </pages>
+Reference-contexts: Unfortunately, there is no simple relationship between the area of T and the products of its side lengths and corresponding altitudes, even if we define the projections as in <ref> [4] </ref>. Perpendicular bisectors Let P ff be the point on L ff that "bisects" the projection of T onto L ff (i.e., such that the integrals of the projections on the two half-lines terminating at P ff are equal).
+Reference: [5] <author> A. Rosenfeld and S. Haber, </author> <title> The perimeter of a fuzzy set, Pattern Recognition 18, </title> <booktitle> 1985, </booktitle> <pages> 125-130. </pages>
+Reference-contexts: i S i . [This sum counts the area S 1 of T 1 with weight t 1 , and counts the area S i of each successive inner T i with additional weight ffi i .] The perimeter of T is P = n X ffi i P i <ref> [5; see also 4] </ref>. // Let the side lengths of T i perpendicular to ff; fi, and fl be a i ; b i , an c i , respectively; then we can define the "side lengths" of T as a = n X ffi i a i , b =
+References-found: 5
+

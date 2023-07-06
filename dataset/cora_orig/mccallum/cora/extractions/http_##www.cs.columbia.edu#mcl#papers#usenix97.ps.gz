@@ -1,0 +1,21 @@
+URL: http://www.cs.columbia.edu/mcl/papers/usenix97.ps.gz
+Refering-URL: http://www.cs.columbia.edu/mcl/publication.html
+Root-URL: http://www.cs.columbia.edu
+Email: flei, djdg@cs.columbia.edu  
+Title: An Analytical Approach to File Prefetching  
+Author: Hui Lei and Dan Duchamp 
+Address: New York, NY 10027  
+Affiliation: Computer Science Department Columbia University  
+Date: January 1997  
+Note: Appears in 1997 USENIX Annual Technical Conference, Anaheim CA,  
+Abstract: File prefetching is an effective technique for improving file access performance. In this paper, we present a file prefetching mechanism that is based on on-line analytic modeling of interesting system events and is transparent to higher levels. The mechanism, incorporated into a client's file cache manager, seeks to build semantic structures, called access trees, that capture the correlations between file accesses. It then heuristically uses these structures to represent distinct file usage patterns and exploits them to prefetch files from a file server. We show results of a simulation study and of a working implementation. Measurements suggest that our method can predict future file accesses with an accuracy around 90%, that it can reduce cache miss rate by up to 47% and application latency by up to 40%. Our method imposes little overhead, even under antagonistic circumstances. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> M. Accetta, R. Baron, W. Bolosky, D. Golub, R. Rashid, A. Tevanian, and M. Young. </author> <title> Mach: A New Kernel Foundation for UNIX Development. </title> <booktitle> In Proc. 1986 USENIX Summer Conf., </booktitle> <pages> pages 93-112, </pages> <month> June </month> <year> 1986. </year>
+Reference-contexts: The limitations of the simulation motivated us to conduct a full implementation and further evaluations. 4 Implementation We have implemented our mechanism in UX42 [8], a BSD UNIX server running on Mach 3.0 <ref> [1] </ref>. UX42 resides in user space and is organized as a collection of C threads [6]. Most threads handle BSD system calls. Among the others are NFS async daemons, which handle asynchronous NFS block I/O requests.
+Reference: [2] <author> R. Alonso, D. Barbara, and L. L. Cova. </author> <title> FACE: Enhancing Distributed File Systems for Autonomous Computing Environments. </title> <type> Technical Report CS-TR-214-89, </type> <institution> Princeton University, </institution> <month> March </month> <year> 1989. </year>
+Reference: [3] <author> R. Alonso, D. Barbara, and L. L. Cova. </author> <title> Augmenting Availability in Distributed File Systems. </title> <type> Technical Report CS-TR-234-89, </type> <institution> Princeton University, </institution> <month> October </month> <year> 1989. </year>
+Reference: [4] <author> P. Cao and E. W. Felten and A. Karlin and K. </author> <month> Li. </month>
+Reference-contexts: In contrast to these methods, our work looks for access patterns across files. Some file prefetching methods require that each application inform the operating system of its future demands. This includes the TIP project by Patterson et al. [20, 21] and the work of Cao, Felton, Karlin and Li <ref> [4, 5] </ref>. These researchers' outlook is more broad than ours. They consider prefetching from devices as well as from file servers. They also consider the interaction between prefetching and caching.
+References-found: 4
+

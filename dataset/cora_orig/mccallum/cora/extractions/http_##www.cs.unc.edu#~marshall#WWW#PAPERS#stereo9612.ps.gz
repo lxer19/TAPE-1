@@ -1,0 +1,14 @@
+URL: http://www.cs.unc.edu/~marshall/WWW/PAPERS/stereo9612.ps.gz
+Refering-URL: http://www.cs.unc.edu/~marshall/WWW/index.html
+Root-URL: http://www.cs.unc.edu
+Title: Neural model of visual stereomatching: slant, transparency and clouds  
+Author: Jonathan A Marshally, George J Kalarickaly and Elizabeth B Gravesy 
+Date: Received 3 September 1996  
+Address: 3175, Sitterson Hall,  Chapel Hill, NC 27599-3175, USA  
+Affiliation: Department of Computer Science, CB  University of North Carolina,  
+Note: Network: Computation in Neural Systems 7 (1996) 635-669. Printed in the UK  
+Abstract: Stereomatching of oblique and transparent surfaces is described using a model of cortical binocular `tuned' neurons selective for disparities of individual visual features and neurons selective for the position, depth and 3D orientation of local surface patches. The model is based on a simple set of learning rules. In the model, monocular neurons project excitatory connection pathways to binocular neurons at appropriate disparities. Binocular neurons project excitatory connection pathways to appropriately tuned `surface patch' neurons. The surface patch neurons project reciprocal excitatory connection pathways to the binocular neurons. Anisotropic intralayer inhibitory connection pathways project between neurons with overlapping receptive fields. The model's responses to simulated stereo image pairs depicting a variety of oblique surfaces and transparently overlaid surfaces are presented. For all the surfaces, the model (i) assigns disparity matches and surface patch representations based on global surface coherence and uniqueness, (ii) permits coactivation of neurons representing multiple disparities within the same image location, (iii) represents oblique slanted and tilted surfaces directly, rather than approximating them with a series of frontoparallel steps, (iv) assigns disparities to a cloud of points at random depths, like human observers and unlike Prazdny's (1985) method, and (v) causes globally consistent matches to override greedy local matches. The model represents transparency, unlike the model of Marr and Poggio (1976), and it assigns unique disparities, unlike the model of Prazdny. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

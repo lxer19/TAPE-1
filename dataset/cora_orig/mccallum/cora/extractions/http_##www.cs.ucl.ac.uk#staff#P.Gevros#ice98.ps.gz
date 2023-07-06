@@ -1,0 +1,24 @@
+URL: http://www.cs.ucl.ac.uk/staff/P.Gevros/ice98.ps.gz
+Refering-URL: http://www.cs.ucl.ac.uk/staff/jon/arpa/arpa.html
+Root-URL: http://www.cs.ucl.ac.uk
+Email: P.Gevros@cs.ucl.ac.uk  
+Author: Panos Gevros 
+Keyword: Network economics, agents, pricing, quality of service, game theory, price wars, electronic commerce.  
+Date: November 5, 1998  
+Web: -ICE-98  
+Note: Notes on the First International Conference on Information and Computation Economies  
+Abstract: The First International Conference on Information and Computation economies (ICE98) was primarily sponsored by IBM Institute for Advance Commerce, and co-sponsored by the ACM. It took place in Charleston, South Carolina from the 25th till the 28th of October 1998. Economists, computer scientists and engineers came together in an attempt to present ongoing research in a potentially new field emerging from the convergence of the two areas. This is an overview and comments on the talks and the papers presented the interested reader is referred to the coference proceedings. This paper reflects only the views of the author, some papers are described in more detail and the summaries are based on notes taken during the sessions but also on the abstracts and results. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <institution> http://www.rhsmith.umd.edu/tbpp/jbailey. </institution>
+Reference-contexts: Internet Telephony and the Bearer Service an invited talk by Joseph Bailey <ref> [1] </ref>. * the Internet Telephony Consortium at MIT [2]. * PSTN Internet Gateway. * Cost Models ISPs net benefit decreases when providing internet Telephony fewer economies of scale [Leida] intranet deployment of internet telephony allows control over network * Yield Management Boundaries for bandwidth [Paschalides], several goals: protect TCP traf fic,
+Reference: [2] <institution> Internet Telephony Consortium. </institution> <note> http://itel.mit.edu/. </note>
+Reference-contexts: Internet Telephony and the Bearer Service an invited talk by Joseph Bailey [1]. * the Internet Telephony Consortium at MIT <ref> [2] </ref>. * PSTN Internet Gateway. * Cost Models ISPs net benefit decreases when providing internet Telephony fewer economies of scale [Leida] intranet deployment of internet telephony allows control over network * Yield Management Boundaries for bandwidth [Paschalides], several goals: protect TCP traf fic, maximize social welfare, maximize profit. * Pricing Sender
+Reference: [3] <institution> The INDEX Project. </institution> <note> http://www.INDEX.Berkeley.EDU/. </note>
+Reference-contexts: It is called the INternet Demand EXperiment and will determine how people value the quality of their Internet access and aims at collecting information that is going to be of great value to users, ISPs and economists. For more info see <ref> [3] </ref> 4 Quality of Service Provision The session on QoS was chaired by Lorne Mason (INRS) and Nagao Ogino (ATR Adaptive Communications Research Laboratories). 3 Driving Resource management with Application-level Quality of Service Specifications by M.Katchabaw, H.Lutfiyya and M.Bauer (Univ of Western Ontario).
+Reference: [4] <institution> The Information Economy Project. </institution> <note> http://www.research.ibm.com/infoecon/. </note>
+Reference-contexts: Combining game theoretic analysis and simulation techniques they observe the dynamic, collective behavior of this co-evolutionary system. Information economy prototypes like competitive agents for efficient information retrieval from the Web (News filtering economy, News filter broker) <ref> [4] </ref>. 5 Market-Based System Control The sessions were chaired by Don Ferguson (IBM Research) and Kevin Kwiat (Air Force Base Research Lab). A Market-based architecture for Management of Geographically Dis persed, Replicated Web Servers by M. Karaul and Y.Korillis (Bell Laboratories, Lucent Technologies), Ariel Orda (Technion Is-rael).
+Reference: [5] <institution> The POPCORN Project. </institution> <note> http://www.cs.huji.ac.il/ popcorn/. 8 </note>
+Reference-contexts: They develop a Java Market and assign jobs to machines, the program transfers jobs from any machine to any other machine on the Internet that wishes to participate. 7 The POPCORN Market -an Online Market for Computational Resources Ori Regev and Noam Nisan (Hebrew University of Jerusalem) <ref> [5] </ref>, Description of an infrastructure for globally distributed computation. Provides a trading mechanism for CPU cycles. They implement several market mechanisms (singe, double-sided auction), analyse their economic effficiency and claim that they are suitable for the Internet.
+References-found: 5
+

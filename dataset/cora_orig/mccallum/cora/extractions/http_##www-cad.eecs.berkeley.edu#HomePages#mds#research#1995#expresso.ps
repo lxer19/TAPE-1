@@ -1,0 +1,17 @@
+URL: http://www-cad.eecs.berkeley.edu/HomePages/mds/research/1995/expresso.ps
+Refering-URL: http://www-cad.eecs.berkeley.edu/HomePages/mds/research/1995/expresso.html
+Root-URL: http://www.cs.berkeley.edu
+Email: (rchua@eecs.berkeley.edu)  (oza@cs.berkeley.edu)  (mds@eecs.berkeley.edu)  
+Title: HotJava Expresso Advanced development options for network browsers (using Suns HotJava)  
+Author: Roy Chua Nikunj Oza Mark Spiller 
+Address: Cory Hall Berkeley, CA 94720  
+Affiliation: EECS Division University of California at Berkeley  
+Abstract: In recent years we have seen an incredible explosion in the number of World Wide Web (WWW) servers and clients. As a result, there have been large scale efforts to create a definitive language for the Internet to facilitate the development of machine-independent software. We believe that the results of these efforts (such as Suns Java and SafeTcl), when combined with the WWW, offer the potential to change the way we use software. For instance, if the latest versions of software components can be downloaded over the Net and immediately executed on the local machine, why install local monolithic versions? However, before widespread use of this new technology can occur, several fundamental issues must first be addressed, namely application caching and software package services. Our proposal involves the addition of local client caching to Sun Microsystems HotJava browser as a means of supporting the introduction of packages, collections of application components and associated resources. We study the fundamental issues involved in building the infrastructure to support package services and implement a basic system of packages. From our working prototype, we have gained insights into what will be required to fully implement a package system on the Net. Ideally, our scheme, when fully implemented (in Java or other similar environments), will offer considerable performance and design advantages and lead to the widespread use of this technology.
+Abstract-found: 1
+Intro-found: 1
+Reference: [BFF95] <author> T. Berners-Lee, R. Fielding, H. </author> <note> Frystyk Hypertext Transfer Protocol - HTTP/1.0 Internet-Draft (Expires April 14, 1996) - Available from: http://www.w3.org:80/hypertext/WWW/Protocols/ http1.0/draft-ietf-HTTP-spec.html </note>
+Reference-contexts: A prototype implementation of our cache (based mainly on our observations of the Netscape Navigator browser) allowed us to evaluate the results of changing various parameters to improve performance while simultaneously allowing development of package support. 3 3.1 What to cache The HTTP 1.0 specifications <ref> [BFF95] </ref> specifies means by which a server can indicate that a document should not be cached. However, from tracing the communications between existing browsers and various servers, it appears that no WWW server currently supports this feature.
+Reference: [CDNSW94] <author> A. Chankhunthod, P. Danzig, C. Neerdaels, M. Schwartz, K. </author> <month> Worrell </month>
+Reference-contexts: However, these caching proxies ([Smith94], <ref> [CDNSW94] </ref>) have neither proposed good solutions to the latency problem, nor dealt with any form of static or adaptive refetching. We feel that our caching results will extend well to the proxy server concept, and can be modified to bring about better collective gains if so utilized.
+References-found: 2
+

@@ -1,0 +1,13 @@
+URL: ftp://ftp.cs.unc.edu/pub/users/sc/COMP203-S97/hw3.PS.Z
+Refering-URL: http://www.cs.unc.edu/~sc/teaching/COMP203-S1997/homework.html
+Root-URL: http://www.cs.unc.edu
+Title: COMP 203: Parallel and Distributed Computing Problem Set points] The Fast Fourier Transform can be
+Author: b. b. 
+Note: Handed out:  Due back:  1. [15 fi 2 30  Design two solutions to this problem, one in which the server is single-threaded, and another in which it is multi-threaded. The purpose of this exercise is to appreciate multithreading, so abstract away all unnecessary details.  a.  
+Date: Spring 1997  19 Mar 1997  26 Mar 1997  
+Pubnum: 3  
+Abstract: 2. [30 points] Design a server to manage multiple windows on a display, with each window continuously displaying an animation. Windows are passive entities that the server must explicitly manage. The interface to the server comprises two routines. The call create_window(filelist, delay) creates a window and returns a handle to it. The images in filelist are displayed cyclically in the window, changing every delay seconds. The call destroy_window(w_handle) destroys the window referenced by the handle w_handle. 3. [20 fi 2 = 40 points] The atomic operations Compare-and-Swap and Compare-and-Swap-2 are synchronization primitives that operate as follows. The call Compare-and-Swap(datum, oldval, newval ) reads the value of datum and compares it with oldval. If the values are equal, it changes the value of datum to newval and returns 1. Otherwise, it sets oldval to the read value of datum and returns 0. The call Compare-and-Swap-2(datum1, oldval1, newval1, datum2, oldval2, newval2 ) reads the values of datum1 and datum2 and compares them with oldval1 and oldval2. If datum1 = oldval1 and datum2 = oldval2, then it changes the value of datum1 to newval1, changes the value of datum2 to newval2, and returns 1. Otherwise, it sets oldval1 to the read value of datum1, sets oldval2 to the read value of datum2, and returns 0. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

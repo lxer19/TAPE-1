@@ -1,0 +1,12 @@
+URL: ftp://ftp.cs.unc.edu/pub/users/sc/COMP122-F96/hw5-ans.PS.Z
+Refering-URL: http://www.cs.unc.edu/~sc/teaching/COMP122-F1996/homework.html
+Root-URL: http://www.cs.unc.edu
+Title: COMP 122: Algorithms and Analysis Solutions to Problem Set 5 Most of the problems in
+Author: Siddhartha Chatterjee 
+Note: Solution: I don't know if this is "smallest", but it certainly is quite small. Consider the following BST. 2 4 6 Let k 4. Then A f2g, B f3; 4; 6; 15g, and C f7g. Choosing a 2, b 15, and c 7 violates the claim.  This algorithm runs in fi(n) time because:  
+Date: Fall 1996  
+Abstract: P-1 CLR Exercise 13.2-2 (page 250). Professor Bunyan thinks he has discovered a remarkable property of binary search trees. Suppose that the search for key k in a binary search tree ends up in a leaf. Consider three sets: A, the keys to the left of the search path; B, the keys on the search path; and C, the keys to the right of the search path. Professor Bunyan claims that any three keys a 2 A, b 2 B, and c 2 C must satisfy a b c. Give a smallest possible counterexample to the professor's claim. Solution: Note that a call to Tree-Minimum followd by n - 1 calls to Tree-Successor performs exactly the same inorder walk of the tree as does the procedure Inorder-Tree-Walk. Inorder-Tree-Walk prints the Tree-Minimum first, and by definition, the Tree-Successor of a node is the next node in the sorted order determined by an inorder tree walk. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

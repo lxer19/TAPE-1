@@ -1,0 +1,14 @@
+URL: ftp://ftp.eecs.umich.edu/groups/gasm/wincard.ps.gz
+Refering-URL: http://www.eecs.umich.edu/gasm/arch.html
+Root-URL: http://www.eecs.umich.edu
+Title: Specification and verification of the Windows Card runtime environment using Abstract State Machines  
+Author: Yuri Gurevich Charles Wallace 
+Address: One Microsoft Way Redmond, WA 98052-6399  
+Affiliation: Microsoft Research  
+Date: February 3, 1999  
+Pubnum: MSR-TR-99-07  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> Y. Gurevich. </author> <title> "Evolving Algebras 1993: Lipari guide", </title> <editor> in E. Borger (ed.), </editor> <title> Specification and Validation Methods, </title> <publisher> Oxford University Press, </publisher> <year> 1995, </year> <pages> 9-36. </pages> <note> See also "May 1997 Draft of the ASM Guide" at http://www.eecs.umich.edu/groups/gasm/. 18 </note>
+References-found: 1
+

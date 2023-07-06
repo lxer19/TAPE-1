@@ -1,0 +1,13 @@
+URL: ftp://ftp.cs.unc.edu/pub/publications/techreports/96-018.ps.Z
+Refering-URL: ftp://ftp.cs.unc.edu/pub/publications/techreports/FILE.html
+Root-URL: http://www.cs.unc.edu
+Email: whitton-@cs.unc.edu  
+Title: Real-Time Incremental Visualization of Dynamic Ultrasound Volumes Using Parallel BSP Trees  
+Author: William F. Garrett, Henry Fuchs, Andrei State, and Mary C. Whitton garrett, fuchs, state, 
+Address: Chapel Hill, NC 27599-3175  
+Affiliation: Department of Computer Science University of North Carolina at Chapel Hill  
+Abstract: We present a method for producing real-time volume visualizations of continuously captured, arbitrarily-oriented 2D arrays of data. Our system constructs a 3D representation on-the-fly from incoming 2D ultrasound slices. The slices are modeled as planar polygons with translucent surface textures to take advantage of high-performance polygon rendering on a Silicon Graphics RealityEngine2. Parallel, timeshifted BSP trees efficiently maintain the continuously captured geometry data and produce polygonal fragments in back-to-front order for transparent opacity-accumulation rendering. Although demonstrated only with ultrasound echography, we expect that this technique can be applied to any imaging modality in which real-time visualization is desired as the sensor collecting 2D data moves along an arbitrary path. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

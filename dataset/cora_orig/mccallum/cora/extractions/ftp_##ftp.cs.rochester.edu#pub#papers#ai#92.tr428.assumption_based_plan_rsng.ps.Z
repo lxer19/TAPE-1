@@ -1,0 +1,23 @@
+URL: ftp://ftp.cs.rochester.edu/pub/papers/ai/92.tr428.assumption_based_plan_rsng.ps.Z
+Refering-URL: http://www.cs.rochester.edu/u/ferguson/papers.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: "Domain-independent planning: Representation and plan generation," Plan [Wilkins, 1988] D.E. Wilkins, Practical Planning: Extending the
+Author: [Wilkins, ] David E. Wilkins, ning, J. Allen, J. Hendler, and A. Tate 
+Date: 48  
+Address: San Mateo, CA, 1988.  
+Note: Artificial Intelligence, 22(3):269-301, 1984. Also in Readings in  (eds.), Morgan Kaufmann, 1990, pp. 319-335.  Morgan Kaufmann,  
+Abstract-found: 0
+Intro-found: 1
+Reference: [Allen, 1983] <author> James F. Allen, </author> <title> "Recognizing Intentions From Natural Language Utterances," </title> <editor> in M. Brady and R. Berwick, editors, </editor> <booktitle> Computational Models of Discourse. </booktitle> <publisher> MIT Press, </publisher> <address> Cambridge, MA, </address> <year> 1983. </year>
+Reference: [Allen, 1984] <author> James F. Allen, </author> <title> "Towards a general theory of action and time," </title> <journal> Artificial Intelligence, </journal> <volume> 23 </volume> <pages> 123-154, </pages> <year> 1984. </year> <note> Also in Readings in Planning, </note> <editor> J. Allen, J. Hendler, and A. Tate (eds.), </editor> <publisher> Morgan Kaufmann, </publisher> <year> 1990, </year> <pages> pp. 464-479. </pages>
+Reference: [Allen, 1991a] <author> James F. Allen, </author> <title> "Planning as temporal reasoning," </title> <editor> in James Allen, Richard Fikes, and Eric Sandewall, editors, </editor> <booktitle> Proceedings of the Second International Conference on Principles of Knowledge Representation and Reasoning (KR-91), </booktitle> <pages> pages 3-14, </pages> <address> Cambridge, MA, </address> <month> 22-25 May </month> <year> 1991. </year>
+Reference: [Allen, 1991b] <author> James F. Allen, </author> <title> "Temporal Reasoning and Planning," </title> <booktitle> in Reasoning about Plans, </booktitle> <pages> pages 1-68. </pages> <publisher> Morgan Kaufmann, </publisher> <address> San Mateo, CA, </address> <year> 1991. </year>
+Reference: [Allen et al., 1991] <author> James F. Allen, Henry A. Kautz, Richard N. Pelavin, and Josh D. Tenenberg, </author> <title> Reasoning About Plans, </title> <publisher> Morgan Kaufmann, </publisher> <address> San Mateo, CA, </address> <year> 1991. </year>
+Reference: [Allen and Koomen, 1983] <author> James F. Allen and Johannes A. Koomen, </author> <title> "Planning using a temporal world model," </title> <editor> in Alan Bundy, editor, </editor> <booktitle> Proceedings of the Eighth International Joint Conference on Artificial Intelligence (IJCAI-83), </booktitle> <pages> pages 741-747, </pages> <address> Karlsruhe, West Germany, </address> <month> 8-12 August </month> <year> 1983. </year> <note> Also in Readings in Planning, </note> <editor> J. Allen, J. Hendler, and A. Tate (eds.), </editor> <publisher> Morgan Kaufmann, </publisher> <year> 1990, </year> <pages> pp. 559-565. </pages>
+Reference: [Allen and Schubert, 1991] <author> James F. Allen and Lenhart K. Schubert, </author> <title> "The TRAINS Project," </title> <type> TRAINS Technical Note 91-1, </type> <institution> Department of Computer Science, University of Rochester, Rochester, </institution> <address> NY, </address> <year> 1991. </year>
+Reference: [Brown, 1987] <author> Frank M. Brown, </author> <title> editor, </title> <booktitle> Proceedings of the 1987 Workshop: The Frame Problem in Artificial Intelligence. </booktitle> <publisher> Lawrence, KA, Morgan Kaufmann, </publisher> <month> 12-15 April </month> <year> 1987. </year>
+Reference: [Chapman, 1987] <author> David Chapman, </author> <title> "Planning for conjunctive goals," </title> <journal> Artificial Intelligence, </journal> <volume> 32 </volume> <pages> 333-377, </pages> <year> 1987. </year> <note> Also in Readings in Planning, </note> <editor> J. Allen, J. Hendler, and A. Tate (eds.), </editor> <publisher> Morgan Kaufmann, </publisher> <year> 1990, </year> <pages> pp. 537-558. </pages>
+Reference: [Charniak and Shimony, 1990] <author> E. Charniak and S.E. Shimony, </author> <title> "Probabilistic Semantics for Cost Based Abduction," </title> <booktitle> in Proceedings of the Eighth National Conference on Artificial Intelligence (AAAI-90), </booktitle> <pages> page 106, </pages> <address> Boston, MA, </address> <month> July 29-August 3 </month> <year> 1990. </year>
+
+References-found: 10
+

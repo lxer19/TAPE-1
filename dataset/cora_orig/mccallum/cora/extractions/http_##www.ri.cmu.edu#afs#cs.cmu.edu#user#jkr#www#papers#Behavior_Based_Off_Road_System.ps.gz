@@ -1,0 +1,12 @@
+URL: http://www.ri.cmu.edu/afs/cs.cmu.edu/user/jkr/www/papers/Behavior_Based_Off_Road_System.ps.gz
+Refering-URL: http://www.ri.cmu.edu/afs/cs/project/alv/member/www/projects/DAMN.html
+Root-URL: 
+Title: A Behavior-Based System For Off-Road Navigation  
+Author: D. Langer, J. K. Rosenblatt, and M. Hebert 
+Address: Pittsburgh PA 15213  
+Affiliation: The Robotics Institute Carnegie Mellon University  
+Abstract: In this paper, we describe a core system for autonomous navigation in outdoor natural terrain. The system consists of three parts: a perception module which processes range images to identify untraversable regions of the terrain, a local map management module which maintains a representation of the environment in the vicinity of the vehicle, and a planning module which issues commands to the vehicle controller. Our approach is to use the concept of early traversability evaluation, in which the perception module decides which parts of the terrain are traversable as soon as a new image is taken, and on the use of a behavior-based architecture for generating commands to drive the vehicle. We argue that our approach leads to a robust and efficient navigation system. We illustrate our approach by an experiment in which a vehicle travelled autonomously for one kilometer through unmapped cross-country terrain. The system used in this experiment can be viewed as a core navigation system in that other modules, such as a map navigation module, can be easily added to the system.
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

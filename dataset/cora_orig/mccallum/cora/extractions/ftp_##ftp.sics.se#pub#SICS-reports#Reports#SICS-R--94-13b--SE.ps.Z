@@ -1,0 +1,17 @@
+URL: ftp://ftp.sics.se/pub/SICS-reports/Reports/SICS-R--94-13b--SE.ps.Z
+Refering-URL: http://www.sics.se/libindex.html
+Root-URL: 
+Title: Fixpoint Analysis of Type and Alias in AKL Programs  
+Author: by Thomas Sjland and Dan Sahlin 
+Keyword: Concurrent Constraint Programming, Analysis, AKL, fixpoint computation  
+Affiliation: Programming Systems Group Swedish Institute of Computer Science  
+Address: or  Box 1263, S-164 28 Kista, Sweden  
+Note: email:  The software implementing the system described herein, is deliverable number D.WP.1.6.1.M2 in the ESPRIT project ParForce 6707.  Note: This report replaces R94:13 (ISRN SICS-R--94/13--SE).  
+Email: -alf,dan-@sics.se  
+Phone: telephone: +46 8 752 1542  +46 8 752 1544 fax: +46 8 751 7230  
+Date: January 15, 1995  
+Abstract: Report R94:13b ISRN SICS-R-94/13b-SE ISSN 0283-3638 Abstract We have defined and implemented a method for analysis of the CCP language AKL in the spirit of abstract interpretation that uses a static set of semantic equations which abstracts the concurrent execu - tion of an AKL program. The method strictly separates the setting up of the equation system from the solving of the system with a fixpoint procedure. The computation strategies used, results for a number of test programs and the conclusions we draw from this experimental effort are reported. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

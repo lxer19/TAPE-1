@@ -1,0 +1,12 @@
+URL: http://www.cs.wustl.edu/cs/techreports/1996/wucs-96-22.ps.Z
+Refering-URL: http://www.cs.wustl.edu/cs/cs/publications.html
+Root-URL: 
+Title: NEGOTIATION AS A RESOURCE ALLOCATION PROCESS WUCS-96-22  Comments and conversations with  
+Author: Fernando Tohme Ronald Loui, John Nachbar and Wilhelm Neuefeind 
+Keyword: negotiation, allocations, Pareto optimality, games, communication, lattices  
+Note: I gratefully aknowledge the financial support of the National Research Council of Ar-gentina (CONICET) and the hospitality of the Computer Science Department in WashU.  proved useful, but of course all errors are my sole responsability.  
+Abstract: In the first part of this work we present a brief survey of the literature on resource allocation processes in which communication among agents plays a relevant role. Then, taking into account the results of AI research, we present a model of negotiation with a strong emphasis on the underlying linguistic structure. We use the properties of that structure to derive the conditions that message exchanges must obey in order to provide Pareto-optimal allocations. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

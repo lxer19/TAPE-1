@@ -1,0 +1,19 @@
+URL: ftp://coast.cs.purdue.edu/pub/doc/law+ethics/Spaf-breakin-ethics.ps.Z
+Refering-URL: http://www.cs.purdue.edu/coast/archive/data/categ26.html
+Root-URL: http://www.cs.purdue.edu
+Note: 15  
+Abstract: Professor Spafford's involvement with software engineering and security include positions on the editorial boards of the journals Computing Systems and the International Journal of Computer and Software Engineering. He is coauthor of the books Practical Unix Security, published by O'Reilly and Associates (1991), and of Computer Viruses: Dealing with Electronic Vandalism and Programmed Threats, Adapso (1989). He has contributed chapters to many other books on computer security and professional ethics, and has spoken internationally at conferences, symposia, and colloquia on these issues. Dr. Spafford is a member of the Association for Computing Machinery (ACM). He is chair of the ACM Self-Assessment Committee, and is a member of the ACM Education Board. He is also a Senior Member of the IEEE and Computer Society of the IEEE, and a member of the Usenix Association. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Donn Seeley. </author> <title> A tour of the worm. </title> <booktitle> In Proceedings of the Winter 1989 Usenix Conference. The Usenix Association, </booktitle> <month> January </month> <year> 1989. </year>
+Reference: [2] <author> Eugene H. Spafford. </author> <title> The internet worm: Crisis and aftermath. </title> <journal> Communications of the ACM, </journal> <volume> 32(6) </volume> <pages> 678-698, </pages> <month> June </month> <year> 1989. </year>
+Reference: [3] <author> Eugene H. Spafford. </author> <title> An analysis of the internet worm. </title> <editor> In C. Ghezzi and J. A. McDermid, editors, </editor> <booktitle> Proceedings of the 2nd European Software Engineering Conference, </booktitle> <pages> pages 446-468. </pages> <publisher> Springer-Verlag, </publisher> <month> September </month> <year> 1989. </year>
+Reference: [4] <author> Clifford Stoll. </author> <title> Cuckoo's Egg. </title> <publisher> Doubleday, </publisher> <address> New York, NY, </address> <year> 1989. </year>
+Reference: [5] <author> John Schwartz. </author> <title> The hacker dragnet. </title> <journal> Newsweek, </journal> <volume> 65(18), </volume> <month> April </month> <year> 1990. </year>
+Reference: [6] <author> Eugene H. Spafford, Kathleen A. Heaphy, and David J. Ferbrache. </author> <title> Computer Viruses: Dealing with Electronic Vandalism and Programmed Threats. </title> <address> ADAPSO, Arlington, VA, </address> <year> 1989. </year>
+Reference: [7] <author> Lance Hoffman, </author> <title> editor. Rogue Programs: Viruses, Worms, and Trojan Horses. </title> <publisher> Van Nostrand Reinhold, </publisher> <year> 1990. </year>
+Reference: [8] <author> David J. Stang. </author> <title> Computer Viruses. </title> <booktitle> National Computer Security Association, </booktitle> <address> Washington, DC, 2nd edition edition, </address> <month> March </month> <year> 1990. </year>
+Reference: [9] <author> Peter J. Denning, </author> <title> editor. Computers Under Attack: Intruders, Worms, and Viruses. </title> <booktitle> ACM Books/Addison-Wesley, </booktitle> <year> 1991. </year>
+
+References-found: 9
+

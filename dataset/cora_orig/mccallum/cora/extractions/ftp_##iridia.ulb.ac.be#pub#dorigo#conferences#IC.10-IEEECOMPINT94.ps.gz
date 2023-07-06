@@ -1,0 +1,15 @@
+URL: ftp://iridia.ulb.ac.be/pub/dorigo/conferences/IC.10-IEEECOMPINT94.ps.gz
+Refering-URL: http://iridia.ulb.ac.be/dorigo/pub_x_subj.html
+Root-URL: 
+Email: dorigo@icsi.berkeley.edu  
+Title: Learning by Probabilistic Boolean Networks  
+Author: Marco Dorigo 
+Address: 1947 Center Street Suite 600 Berkeley, California 94704-1105  
+Affiliation: Orlando, Florida  International Computer Science Institute  
+Date: June 26 July 2, 1994,  
+Note: To appear in Proceedings of World Congress on Computational Intelligence IEEE International Conference on Neural Networks,  
+Abstract: Boolean networks, in spite of their structural simplicity, seem to be able to simulate the dynamics of complex biological and nonbiological systems. Learning algorithms in neural networks have shown to be a very promising approach to some problems connected to artificial intelligence. Positive feedback has been successfully used by the genetic algorithm and the ant system. In this paper we propose an adaptive boolean network that takes advantage of all these properties. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

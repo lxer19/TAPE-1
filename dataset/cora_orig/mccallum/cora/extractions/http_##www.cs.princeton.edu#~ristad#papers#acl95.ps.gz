@@ -1,0 +1,28 @@
+URL: http://www.cs.princeton.edu/~ristad/papers/acl95.ps.gz
+Refering-URL: http://www.cs.princeton.edu/~ristad/bibliography.html
+Root-URL: http://www.cs.princeton.edu
+Email: fristad,rgtg@cs.princeton.edu  
+Title: New Techniques for Context Modeling  
+Author: Eric Sven Ristad and Robert G. Thomas 
+Address: Princeton University  
+Affiliation: Department of Computer Science  
+Abstract: We introduce three new techniques for statistical language models: extension modeling, nonmonotonic contexts, and the divergence heuristic. Together these techniques result in language models that have few states, even fewer parameters, and low message entropies.
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Brown, P., Pietra, V. D., Pietra, S. D., Lai, J., and Mercer, R. </author> <title> An estimate of an upper bound for the entropy of English. </title> <booktitle> Computational Linguistics 18 (1992), </booktitle> <pages> 31-40. </pages>
+Reference-contexts: Such interpolated Markov sources are considerably more powerful than traditional n-grams but contain even more parameters. The best reported results on the Brown Corpus are 1.75 bits/char using a large interpolated trigram word model whose parameters are estimated using over 600,000,000 words of proprietary training data <ref> (Brown et.al., 1992) </ref>. The use of proprietary training data means that these results are not independently repeatable.
+Reference: <author> Cleary, J., and Witten, I. </author> <title> Data compression using adaptive coding and partial string matching. </title> <journal> IEEE Trans. Comm. COM-32, </journal> <volume> 4 (1984), </volume> <pages> 396-402. </pages>
+Reference: <author> Francis, W. N., and Kucera, H. </author> <title> Frequency analysis of English usage: lexicon and grammar. </title> <publisher> Houghton Mi*in, </publisher> <address> Boston, </address> <year> 1982. </year>
+Reference-contexts: All results are based on the Brown corpus, an eclectic collection of English prose drawn from 500 sources across 15 genres <ref> (Francis and Kucera, 1982) </ref>. The irregular and nonstationary nature of this corpus poses an exacting test for statistical language models.
+Reference: <author> Jelinek, F., and Mercer, R. L. </author> <title> Interpolated estimation of Markov source parameters from sparse data. </title> <booktitle> In Pattern Recognition in Practice (Amster-dam, </booktitle> <month> May 21-23 </month> <year> 1980), </year> <editor> E. S. Gelsema and L. </editor> <address> N. </address>
+Reference: <editor> Kanal, Eds., </editor> <publisher> North Holland, </publisher> <pages> pp. 381-397. </pages>
+Reference: <author> Knuth, D. E. </author> <booktitle> The Art of Computer Programming, </booktitle> <volume> 1 ed., vol. 1. </volume> <publisher> Addison-Wesley, </publisher> <address> Reading, MA, </address> <year> 1968. </year>
+Reference: <author> Moffat, A. </author> <title> Implementing the PPM data compre-sion scheme. </title> <journal> IEEE Trans. Communications 38, </journal> <volume> 11 (1990), </volume> <pages> 1917-1921. </pages>
+Reference: <author> Rissanen, J. </author> <title> Modeling by shortest data description. </title> <booktitle> Automatica 14 (1978), </booktitle> <pages> 465-471. </pages>
+Reference: <author> Rissanen, J. </author> <title> A universal data compression system. </title> <journal> IEEE Trans. Information Theory IT-29, </journal> <volume> 5 (1983), </volume> <pages> 656-664. </pages>
+Reference-contexts: In contrast, the traditional selection heuristic adds a more specific context to the model only if it's entropy is less than the entropy of the more general context <ref> (Rissanen 1983,1986) </ref>. The traditional minimum entropy heuristic is a special case of the more effective and more powerful divergence heuristic. The divergence heuristic allows our models to generalize from the training corpus to the testing corpus, even for nonstationary sources such as the Brown corpus.
+Reference: <author> Rissanen, J. </author> <title> Complexity of strings in the class of Markov sources. </title> <journal> IEEE Trans. Information Theory IT-32, </journal> <volume> 4 (1986), </volume> <pages> 526-532. </pages>
+Reference: <author> Ristad, E. S., and Thomas, R. G. </author> <title> Context models in the MDL framework. </title> <booktitle> In Proceedings of 5th Data Compression Conference (Los Alamitos, </booktitle> <address> CA, </address> <month> March 28-30 </month> <year> 1995), </year> <editor> J. Storer and M. Cohn, Eds., </editor> <publisher> IEEE Computer Society Press, </publisher> <pages> pp. 62-71. </pages>
+Reference-contexts: Therefore, our estimate of (jy) should be conditioned on the fact that the longer context xy did not occur. The interaction between candidate contexts can become quite complex, and we consider this problem in other work <ref> (Ristad and Thomas, 1995) </ref>. Parameter estimation is only a small part of the overall model estimation problem. Not only do we have to estimate the parameters for a model, we have to find the right parameters to use! To do this, we proceed in two steps.
+References-found: 11
+

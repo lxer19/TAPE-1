@@ -1,0 +1,49 @@
+URL: http://www.eecis.udel.edu/~heider/neuro-intro.ps.gz
+Refering-URL: http://www.eecis.udel.edu/~heider/
+Root-URL: http://www.eecis.udel.edu
+Author: Ben J. A. Krose 
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> J. Hertz, A. Krogh & R. G. Palmer, </author> <title> Introduction to the Theory of Neural Computation, </title> <publisher> Addison Wesley, </publisher> <year> 1991. </year>
+Reference: [2] <author> H. Ritter, T. Martinetz & K. Schulten, </author> <title> Neural Computation and Self-Organizing Maps, </title> <publisher> Addison-Wesley, </publisher> <address> 1992, Neuronale Netze, </address> <publisher> Addison-Wesley, </publisher> <year> 1991. </year>
+Reference: [3] <author> P. D. Wasserman, </author> <title> Neural Computing: Theory and Practice, </title> <publisher> Van Nostrand Reinhold, </publisher> <address> New York, </address> <year> 1989. </year>
+Reference: [4] <editor> J. A. Anderson & E. Rosenfeld, eds., Neurocomputing: </editor> <booktitle> Foundations of Research, </booktitle> <publisher> The MIT Press, </publisher> <address> Cambridge, MA, </address> <year> 1988. </year>
+Reference: [5] <author> AFCEA International Press, </author> <title> DARPA Neural Network Study , 1988. </title>
+Reference: [6] <author> D. E. Rumelhart & J. L. McClelland, </author> <title> Parallel Distributed Processing: Explorations in the Microstructure of Cognition (volume 1), </title> <publisher> The MIT Press, </publisher> <year> 1986. </year>
+
+Reference: [1] <author> W. S. McCulloch & W. Pitts, </author> <title> "A logical calculus of the ideas immanent in nervous activity," </title> <journal> Bulletin of Mathematical Biophysics 5 (1943), </journal> <pages> 115-133. </pages>
+
+Reference: [1] <author> D. E. Rumelhart & J. L. McClelland, </author> <title> Parallel Distributed Processing: Explorations in the Microstructure of Cognition (volume 1), </title> <publisher> The MIT Press, </publisher> <year> 1986. </year>
+Reference: [2] <author> J. L. McClelland & D. E. Rumelhart, </author> <title> Parallel Distributed Processing: Explorations in the Microstructure of Cognition (volume 2), </title> <publisher> The MIT Press, </publisher> <year> 1986. </year>
+Reference: [3] <author> J. A. Feldman & D. H. Ballard, </author> <title> "Connectionist models and their properties," </title> <booktitle> Cognitive Science 6 (1982), </booktitle> <pages> 205-254. </pages>
+Reference: [4] <author> B. W. </author> <title> Mel, Connectionist Robot Motion Planning, </title> <publisher> Academic Press, </publisher> <address> San Diego, CA, </address> <year> 1990. </year>
+Reference: [5] <author> B. A. Pearlmutter, </author> <title> "Dynamic recurrent neural networks," </title> <institution> School of Computer Science, Carnegie Mellon University, </institution> <address> CMU-CS-90-196, Pittsburgh, PA 15213, </address> <month> December </month> <year> 1990. </year>
+Reference: [6] <author> J. A. Anderson, </author> <title> "Neural models with cognitive implications," in Basic Processes in Reading Perception and Comprehension Models, </title> <editor> D. LaBerge & S. J. Samuels, eds., </editor> <publisher> Erlbaum, </publisher> <address> Hillsdale, NJ, </address> <year> 1977, </year> <pages> 27-90. </pages>
+Reference: [7] <author> T. Kohonen, </author> <title> Associative Memory: A System-Theoretical Approach, </title> <publisher> Springer-Verlag, </publisher> <year> 1977. </year>
+Reference: [8] <author> J. J. </author> <title> Hopfield, "Neural networks and physical systems with emergent collective computational abilities," </title> <booktitle> Proceedings of the National Academy of Sciences 79 (1982), </booktitle> <pages> 2554-2558. </pages>
+
+Reference: [1] <author> B. Widrow & M. E. Hoff, </author> <title> "Adaptive switching circuits," </title> <booktitle> in 1960 IRE WESCON Convention Record, </booktitle> <address> New York, </address> <year> 1960, </year> <pages> 96-104. </pages>
+Reference: [2] <author> F. Rosenblatt, </author> <title> Principles of Neurodynamics, </title> <publisher> Spartan Books, </publisher> <address> New York, </address> <year> 1959. </year>
+
+Reference: [1] <author> M. Minsky & S. Papert, </author> <title> Perceptrons: An Introduction to Computational Geometry, </title> <publisher> The MIT Press, </publisher> <year> 1969. </year>
+Reference: [2] <author> D. E. Rumelhart, G. E. Hinton & R. J. Williams, </author> <title> "Learning representations by back-propagating errors," </title> <booktitle> Nature 323 (1986), </booktitle> <pages> 533-536. </pages>
+Reference: [3] <author> D. B. </author> <type> Parker, </type> <institution> Massachusetts Institute of Technology, Center for Computational Research in Economics and Management Science, </institution> <address> TR-47, Cambridge, MA, </address> <year> 1985. </year>
+Reference: [4] <author> Y. Le Cun, </author> <title> "Une procedure d'apprentissage pour reseau a seuil assymetrique," </title> <booktitle> Proceedings of Cognitiva 85 (1985), </booktitle> <pages> 599-604. </pages>
+Reference: [5] <author> P. J. Werbos, </author> <title> "Beyond regression: New tools for prediction and analysis in the behavioral sciences," </title> <institution> Harvard University, </institution> <type> Masters Thesis, </type> <year> 1974. </year>
+Reference: [6] <author> K. Hornik, M. Stinchcombe & H. White, </author> <title> "Multilayer feedforward networks are universal approximators," </title> <booktitle> Neural Networks 2 (1989), </booktitle> <pages> 359-366. </pages>
+Reference: [7] <author> K.-I. Funahashi, </author> <title> "On the approximate realization of continuous mappings by neural networks," </title> <booktitle> Neural Networks 2 (1989), </booktitle> <pages> 193-192. </pages>
+Reference: [8] <author> G. Cybenko, </author> <title> "Approximation by superpositions of a sigmoidal function," Mathematics of Control, Signals, </title> <booktitle> and Systems 2 (1989), </booktitle> <pages> 303-314. </pages>
+Reference: [9] <author> E. J. Hartman, J. D. Keeler & J. M. Kowalski, </author> <title> "Layered neural networks with Gaussian hidden units as universal approximations," </title> <booktitle> Neural Computation 2 (Summer 1990), </booktitle> <pages> 210-215. </pages>
+Reference: [10] <author> M. M. Dastani, </author> <title> Functie-Benadering met Feed-Forward Netwerken, </title> <publisher> Universiteit van Ams-terdam, Faculteit Computer Systemen, </publisher> <month> June </month> <year> 1991, </year> <note> graduation thesis. </note> <editor> Ben J. A. Krose P. </editor> <publisher> Patrick van der Smagt 43 </publisher>
+Reference: [11] <author> W. H. Press, B. P. Flannery, S. A. Teukolsky & W. T. Vetterling, </author> <title> Numerical Recipes: </title> <publisher> The Art of Scientific Computing , Cambridge University Press, </publisher> <address> Cambridge, </address> <year> 1986. </year>
+Reference: [12] <author> J. Stoer & R. </author> <title> Bulirsch, Introduction to Numerical Analysis, </title> <publisher> Springer-Verlag, </publisher> <address> New York-Heidelberg-Berlin, </address> <year> 1980, </year> <title> Einfuhrung in die Numerische Mathematik, </title> <publisher> Springer-Verlag, </publisher> <address> Hei-delberg-Berlin, </address> <year> 1972, 1976. </year>
+Reference: [13] <author> M. R. Hestenes & E. </author> <title> Stiefel, "Methods of conjugate gradients for solving linear systems," </title> <institution> Nat. Bur. Standards J. Res. </institution> <month> 49 </month> <year> (1952), </year> <pages> 409-436. </pages>
+Reference: [14] <author> E. Polak, </author> <title> Computational Methods in Optimization, </title> <publisher> Academic Press, </publisher> <address> New York, </address> <year> 1971. </year>
+Reference: [15] <author> M. J. D. Powell, </author> <title> "Restart procedures for the conjugate gradient method," </title> <booktitle> Mathematical Programming 12 (April 1977), </booktitle> <pages> 241-254. </pages>
+Reference: [16] <author> R. van den Boomgaard & A. Smeulders, </author> <title> "Self learning image processing using a-priori knowledge of spatial patterns," </title> <booktitle> in Proceedings of the I.A.S. Conference, </booktitle> <editor> T. Kanade, F. C. A. Groen & L. O. Hertzberger, eds., </editor> <address> Amsterdam, </address> <month> December </month> <year> 1989, </year> <pages> 305-314. </pages>
+Reference: [17] <author> F. M. Silva & L. B. Almeida, </author> <title> "Speeding up backpropagation," in Advanced Neural Computers, </title> <editor> R. Eckmiller, ed., </editor> <publisher> North-Holland, </publisher> <year> 1990, </year> <pages> 151-160. </pages>
+Reference: [18] <author> T. J. Sejnowski & C. R. Rosenberg, "NETtalk: </author> <title> A parallel network that learns to read aloud," </title> <institution> The John Hopkins University Electrical Engineering and Computer Science Department, JHU/EECS-86/01, </institution> <year> 1986. </year>
+Reference: [19] <author> R. P. Gorman & T. J. Sejnowski, </author> <title> "Analysis of hidden units in a layered network trained to classify sonar targets," </title> <booktitle> Neural Networks 1 (1988), </booktitle> <pages> 75-89. </pages>
+
+References-found: 36
+

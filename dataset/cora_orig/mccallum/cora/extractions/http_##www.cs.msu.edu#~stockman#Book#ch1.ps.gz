@@ -1,0 +1,21 @@
+URL: http://www.cs.msu.edu/~stockman/Book/ch1.ps.gz
+Refering-URL: http://www.cs.msu.edu/~stockman/Book/book.html
+Root-URL: http://www.cs.msu.edu
+Note: Chapter 1  
+Abstract-found: 0
+Intro-found: 1
+Reference: 1. <author> D. H. Ballard and C. M. </author> <title> Brown (1982), Computer Vision, </title> <publisher> Prentice-Hall, </publisher> <address> Englewood Cliffs, NJ. </address>
+Reference: 2. <author> O. Faugeras, </author> <title> Three Dimensional Computer Vision, a Geometric Viewpoint, </title> <publisher> MIT Press, </publisher> <address> Cambridge, </address> <year> 1993. </year>
+Reference: 3. <author> C. A. Glasby and G. W. </author> <title> Horgan (1995), Image Analysis for the Biological Sciences, </title> <publisher> John Wiley and Sons, </publisher> <address> Chichester, England. </address>
+Reference: 4. <author> R. Haralick and L. Shapiro (1992/3), </author> <title> Computer and Robot Vision, Volumes I and II, </title> <publisher> Addison-Wesley </publisher>
+Reference: 5. <author> R. Jain, R. Kasturi and B. </author> <month> Schunk </month> <year> (1995), </year> <title> Machine Vision </title>
+Reference: 6. <author> M.D. </author> <title> Levine (1985), </title> <booktitle> Vision in Man and Machine, </booktitle> <publisher> McGraw-Hill. </publisher>
+Reference: 7. <author> G. </author> <title> Nagy (1972), Digital Image Processing Activites in Remote Sensing for Earth Resources, </title> <journal> Proceedings IEEE, </journal> <volume> Vol 60, No. </volume> <month> 10 (Oct </month> <year> 1972)1177-1200. </year> <note> 16 CHAPTER 1. INTRODUCTION </note>
+Reference: 8. <author> W. </author> <title> Pratt (1991), Digital Image Processing, 2nd Ed., </title> <publisher> John Wiley, </publisher> <address> New York, </address> <year> 1991. </year>
+
+Reference: 1. <editor> The input image is of a paper containing typing and it is scanned using a page scanner. </editor> <title> Our overall objective is to recognize most of the typed characters and make an ASCII file so that we can edit the text using a word processor. </title>
+Reference: 2. <editor> The input image is an X-ray of someone's head. </editor> <title> We would like to find bullets or tumors as regions of 0's in a background of 1's. </title>
+Reference: 3. <editor> The input image is a satellite image of a county near Richmond,VA taken in Spring. </editor> <title> By tuning the sensor or by some simple computer algorithm, we would like to create an image where a 0' indicates the presence of an azalea bush and a 1' indicates no bush. </title>
+Reference: 4. <institution> We want to check the width of the stem of an auto engine valve by just counting the number of pixels across its shadow. </institution> <note> Since we will be making hundreds of thousands of valves per day, detailed control of the environment and costly equipment can be justified. </note>
+References-found: 12
+

@@ -1,0 +1,306 @@
+URL: http://compgeom.cs.uiuc.edu/~jeffe/pubs/survey.ps.gz
+Refering-URL: http://compgeom.cs.uiuc.edu/~jeffe/pubs/survey.html
+Root-URL: http://www.cs.uiuc.edu
+Note: RS S Abstract.  
+Abstract-found: 0
+Intro-found: 1
+Reference: [AM] <author> D. J. Abel and D. M. Mark, </author> , <booktitle> Intl. J. Geographic Informations Systems 4 (1990), </booktitle> <pages> 21-31. </pages>
+Reference: [A] <author> P. K. Agarwal, </author> , <note> Computational Geometry: Papers from the DIMACS Special Year (J. </note> <editor> E. Goodman, R. Pollack, and W. Steiger, eds.), </editor> <publisher> American Mathematical Society, </publisher> <address> Providence, RI, </address> <year> 1991, </year> <pages> pp. 1-37. </pages>
+Reference: [A2] <author> P. K. Agarwal, </author> , <note> SIAM J. Comput. </note> <month> 21 </month> <year> (1992), </year> <pages> 540-570. </pages>
+Reference: [AAEFV] <author> P. K. Agarwal, L. Arge, J. Erickson, P. G. Franciosa and J. S. Vitter, </author> , <booktitle> Proc. 17th Annu. ACM Sympos. Principles of Database Syst., </booktitle> <year> 1998, </year> <note> to appear. </note>
+Reference: [AAS] <author> P. K. Agarwal, B. Aronov and M. Sharir, </author> , <booktitle> Proc. 10th Annu. ACM Sympos. </booktitle> <institution> Comput. Geom., </institution> <year> 1994, </year> <pages> pp. 348-358. </pages>
+Reference: [AASu] <author> P. K. Agarwal, B. Aronov and S. Suri, </author> , <booktitle> Proc. 11th Annu. ACM Sympos. </booktitle> <institution> Comput. Geom., </institution> <year> 1995, </year> <pages> pp. 267-276. </pages>
+Reference: [AES] <author> P. K. Agarwal, A. Efrat and M. Sharir, </author> <booktitle> 3 , Proc. 11th Annu. ACM Sympos. </booktitle> <institution> Comput. Geom., </institution> <year> 1995, </year> <pages> pp. 39-50. </pages>
+Reference: [AgM] <author> P. K. Agarwal and J. </author> <title> Matousek, </title> , <journal> SIAM J. Comput. </journal> <volume> 22 (1993), </volume> <pages> 794-806. </pages>
+Reference: [AgM2] <author> P. K. Agarwal and J. </author> <title> Matousek, </title> , <journal> Discrete Comput. Geom. </journal> <volume> 11 (1994), </volume> <pages> 393-418. </pages>
+Reference: [AgM3] <author> P. K. Agarwal and J. Matousek, </author> , <note> Algorithmica 13 (1995), 325-345. </note>
+Reference: [AS] <author> P. K. Agarwal and M. </author> <title> Sharir, </title> , <journal> Discrete Comput. Geom. </journal> <volume> 9 (1993), </volume> <pages> 11-38. </pages>
+Reference: [AS2] <author> P. K. Agarwal and M. Sharir, 2 , J. </author> <booktitle> Algorithms 21 (1996), </booktitle> <pages> 508-519. </pages>
+Reference: [AS3] <author> P. K. Agarwal and M. Sharir, </author> , <note> SIAM J. Comput. </note> <month> 25 </month> <year> (1996), </year> <pages> 100-116. </pages>
+
+Reference: [AvK] <author> P. K. Agarwal and M. van Kreveld, </author> , <note> Algorithmica 15 (1996), 626-660. </note>
+Reference: [AvKO] <author> P. K. Agarwal, M. van Kreveld and M. Overmars, , J. </author> <booktitle> Algorithms 15 (1993), </booktitle> <pages> 229-266. </pages>
+Reference: [AHL] <author> A. Aggarwal, M. Hansen and T. Leighton, </author> , <booktitle> Proc. 22nd Annu. ACM Sympos. Theory Comput., </booktitle> <year> 1990, </year> <pages> pp. 331-340. </pages>
+Reference: [AHU] <author> A. V. Aho, J. E. Hopcroft and J. D. Ullman, </author> <title> The Design and Analysis of Computer Algorithms, </title> <publisher> Addison-Wesley, </publisher> <address> Reading, MA, </address> <year> 1974. </year>
+Reference: [AnS] <author> A. Andersson and K. </author> <title> Swanson, </title> , <journal> Comput. Geom. Theory Appl. </journal> <volume> 8 (1997), </volume> <pages> 115-122. </pages>
+Reference: [AB] <author> M. Anthony and N. Biggs, </author> <title> Computational Learning Theory, </title> <publisher> Cambridge University Press, </publisher> <address> Cambridge, UK, </address> <year> 1992. </year>
+Reference: [Ar] <author> L. </author> <title> Arge, </title> , <booktitle> Proc. 4th Workshop Algorithms Data Struct., Lecture Notes Comput. Sci., </booktitle> <volume> vol. 955, </volume> <publisher> Springer-Verlag, </publisher> <year> 1995, </year> <pages> pp. 334-345. </pages>
+Reference: [AV] <author> L. Arge and J. S. Vitter, </author> , <booktitle> Proc. 37th Annu. IEEE Sympos. </booktitle> <institution> Found. Comput. Sci., </institution> <year> 1996, </year> <pages> pp. 560-569. </pages>
+Reference: [AF] <author> B. Aronov and S. </author> <title> Fortune, </title> , <booktitle> Proc. 13th Annu. Sympos. </booktitle> <institution> Comput. Geom., </institution> <year> 1997, </year> <pages> pp. 203-212. </pages>
+Reference: [APS] <author> B. Aronov, M. Pellegrini and M. </author> <title> Sharir, </title> , <journal> Discrete Comput. Geom. </journal> <volume> 9 (1993), </volume> <pages> 177-186. </pages>
+Reference: [ArM] <author> S. Arya and D. M. Mount, </author> , <title> Data Compression Conference, </title> <publisher> IEEE Press, </publisher> <year> 1993, </year> <pages> pp. 381-390. </pages>
+Reference: [ArM2] <author> S. Arya and D. M. </author> <title> Mount, </title> , <booktitle> Proc. 4th ACM-SIAM Sympos. Discrete Algorithms, </booktitle> <year> 1993, </year> <pages> pp. 271-280. </pages>
+Reference: [ArM3] <author> S. Arya and D. M. </author> <title> Mount, </title> , <booktitle> Proc. 11th Annu. ACM Sympos. </booktitle> <institution> Comput. Geom., </institution> <year> 1995, </year> <pages> pp. 172-181. </pages>
+Reference: [AMN] <author> S. Arya, D. M. Mount and O. </author> <title> Narayan, </title> , <journal> Discrete Comput. Geom. </journal> <volume> 16 (1996), </volume> <pages> 155-176. </pages>
+Reference: [AMNSW] <author> S. Arya, D. M. Mount, N. S. Netanyahu, R. Silverman and A. Wu, </author> , <booktitle> Proc. 5th ACM-SIAM Sympos. Discrete Algorithms, </booktitle> <year> 1994, </year> <pages> pp. 573-582. </pages>
+Reference: [ARWW] <author> T. Asano, T. Roos, P. Widmayer and E. Welzl, </author> , <booktitle> Proc. 2nd Latin Amer. Sympos. Theoret. Informatics, Lecture Notes Comput. Sci., </booktitle> <volume> vol. 911, </volume> <publisher> Springer-Verlag, </publisher> <year> 1995, </year> <pages> pp. 36-48. </pages>
+Reference: [Av] <author> D. </author> <title> Avis, </title> , <journal> Inform. Process. Lett. </journal> <volume> 19 (1984), </volume> <pages> 125-129. </pages>
+Reference: [B] <author> D. H. </author> <title> Ballard, </title> , <journal> Commun. ACM, </journal> <volume> 24 (1981), </volume> <pages> 310-321. </pages>
+Reference: [BYF] <author> R. Bar-Yehuda and S. Fogel, </author> , <type> Technical Report 640, </type> <institution> Technion IIT, Haifa, Israel, </institution> <year> 1990. </year>
+Reference: [BYF2] <editor> R. Bar-Yehuda and S. Fogel, </editor> , <booktitle> Algorithmica 11 (1994), </booktitle> <pages> 133-145. </pages>
+Reference: [BM] <author> R. </author> <title> Bayer and McCreight, </title> , <journal> Acta Inform. </journal> <volume> 1 (1972), </volume> <pages> 173-189. </pages>
+Reference: [BSW] <author> B. Becker, H. W. Six and P. </author> <title> Widmayer, </title> , <booktitle> Proc. ACM SIGMOD Conf. on Management of Data, </booktitle> <year> 1991, </year> <pages> pp. 128-138. </pages>
+Reference: [BKSS] <author> N. Beckmann, H.-P. Kriegel, R. Schneider and B. Seeger, </author> , <booktitle> Proc. ACM SIGMOD Conf. on Management of Data, </booktitle> <year> 1990, </year> <pages> pp. 322-331. </pages>
+Reference: [BA] <author> A. M. Ben-Amram, </author> , <booktitle> Proc. 22nd Internat. Colloq. Automata Lang. Prog., Lecture Notes Comput. Sci., </booktitle> <volume> vol. 944, </volume> <publisher> Springer-Verlag, </publisher> <year> 1995, </year> <pages> pp. 360-371. </pages>
+Reference: [BA2] <author> A. M. Ben-Amram, </author> , <booktitle> SIGACT News 26 (1995), </booktitle> <pages> 88-95. </pages>
+
+Reference: [Be] <author> J. L. Bentley, </author> , <title> Commun. </title> <booktitle> ACM 18 (1975), </booktitle> <pages> 509-517. </pages>
+Reference: [Be2] <author> J. L. Bentley, </author> , <title> Commun. </title> <booktitle> ACM 23 (1980), </booktitle> <pages> 214-229. </pages>
+Reference: [BF] <author> J. L. Bentley and J. H. </author> <title> Friedman, </title> , <journal> ACM Comput. Surv. </journal> <volume> 11 (1979), </volume> <pages> 397-409. </pages>
+Reference: [BS] <author> J. L. Bentley and J. B. Saxe, , J. </author> <booktitle> Algorithms 1 (1980), </booktitle> <pages> 301-358. </pages>
+Reference: [BBBKK] <author> S. Berchtold, C. Bohm, B. Barunmuller, D. A. Keim and H.-P. Kriegel, </author> , <booktitle> Proc. ACM SIGMOD Conf. on Management of Data, </booktitle> <year> 1997, </year> <pages> pp. 1-12. </pages>
+Reference: [BBKK] <author> S. Berchtold, C. Bohm, D. A. Keim and H.-P. Kriegel, </author> , <booktitle> Proc. 16th Annu. ACM Sympos. Principles of Database Syst., </booktitle> <year> 1997, </year> <pages> pp. 78-86. </pages>
+Reference: [BKK] <author> S. Berchtold, D. A. Keim and H.-P. Kriegel, </author> , <booktitle> Proc. 22th VLDB Conference, </booktitle> <year> 1996, </year> <pages> pp. 28-39. </pages>
+Reference: [Bi] <author> T. </author> <title> Bially, </title> , <journal> IEEE Trans. Inform. Theory 15 (1969), </journal> <pages> pp. 658-664. </pages>
+Reference: [BEHW] <author> A. Blumer, A. Ehrenfeucht, D. Haussler and M. Warmuth, , J. </author> <booktitle> ACM 36 (1989), </booktitle> <pages> 929-965. </pages>
+Reference: [BKMT] <author> P. Bozanis, N. Ktsios, C. Makris and A. </author> <title> Tsakalidis, </title> , <booktitle> Proc. 22nd Internat. Colloq. Auto. Lang. Program., Lecture Notes in Comput. Sci., </booktitle> <volume> vol. 944, </volume> <year> 1995, </year> <pages> pp. 464-475. </pages>
+Reference: [BKMT2] <author> P. Bozanis, N. Ktsios, C. Makris and A. </author> <title> Tsakalidis, </title> , <type> unpublished manuscript, </type> <year> 1996. </year>
+Reference: [BCP] <author> H. Bronnimann, B. Chazelle and J. </author> <title> Pach, </title> , <journal> Discrete Comput. Geom. </journal> <volume> 10 (1993), </volume> <pages> 143-155. </pages>
+Reference: [BCS] <author> P. Burgisser, M. Clausen and M. A. Shokrollahi, </author> <title> Algebraic Complexity Theory, </title> <journal> Grundlehren der mathematischen Wissenschaften, </journal> <volume> vol. 315, </volume> <publisher> Springer-Verlag, </publisher> <year> 1996. </year>
+Reference: [C] <author> T. M. Chan, </author> , <booktitle> Proc. 12th Annu. ACM Sympos. </booktitle> <institution> Comput. Geom., </institution> <year> 1996, </year> <pages> pp. 284-290. </pages>
+Reference: [C2] <author> T. M. Chan, </author> , <booktitle> Proc. 14th Annu. ACM Sympos. </booktitle> <institution> Comput. Geom., </institution> <year> 1998, </year> <note> to appear. </note>
+Reference: [Ch] <author> B. </author> <title> Chazelle, </title> , <journal> SIAM J. Comput. </journal> <volume> 15 (1986), </volume> <pages> 703-724. </pages>
+Reference: [Ch2] <author> B. Chazelle, </author> , <month> Algorith-mica 2 </month> <year> (1987), </year> <pages> 337-361. </pages>
+Reference: [Ch3] <author> B. Chazelle, </author> , <note> Algorithmica 3 (1988), 205-221. </note>
+Reference: [Ch4] <author> B. </author> <title> Chazelle, </title> , <journal> SIAM J. Comput. </journal> <volume> 17 (1988), </volume> <pages> 427-462. </pages>
+Reference: [Ch5] <author> B. </author> <title> Chazelle, </title> , <journal> J. Amer. Math. Soc. </journal> <volume> 2 (1989), </volume> <pages> 637-666. </pages>
+Reference: [Ch6] <author> B. Chazelle, , J. </author> <booktitle> ACM 37 (1990), </booktitle> <pages> 200-212. </pages>
+Reference: [Ch7] <author> B. Chazelle, , J. </author> <booktitle> ACM 37 (1990), </booktitle> <pages> 439-463. </pages>
+Reference: [Ch8] <author> B. </author> <title> Chazelle, </title> , <journal> Discrete Comput. Geom. </journal> <volume> 9 (1993), </volume> <pages> 145-158. </pages>
+Reference: [Ch9] <author> B. Chazelle, </author> , <booktitle> Proc. 26th Annu. ACM Sym-pos. Theory Comput., </booktitle> <year> 1994, </year> <pages> pp. 75-94. </pages>
+Reference: [Ch10] <author> B. Chazelle, </author> , <booktitle> Proc. 35th Annu. IEEE Sympos. </booktitle> <institution> Found. Comput. Sci., </institution> <year> 1994, </year> <pages> pp. 674-682. </pages>
+Reference: [Ch11] <author> B. </author> <title> Chazelle, </title> , <journal> Discrete Comput. Geom. </journal> <volume> 17 (1997), </volume> <pages> pp. 53-65. </pages>
+
+Reference: [CE] <author> B. Chazelle and H. </author> <title> Edelsbrunner, </title> , <journal> J. Symbolic Comput. </journal> <volume> 1 (1985), </volume> <pages> 47-56. </pages>
+Reference: [CE2] <author> B. Chazelle and H. </author> <title> Edelsbrunner, </title> , <journal> Discrete Comput. Geom. </journal> <volume> 2 (1987), </volume> <pages> 113-126. </pages>
+Reference: [CEGG ] <author> B. Chazelle, H. Edelsbrunner, M. Grigni, L. J. Guibas, J. Hershberger, M. Sharir and J. Snoeyink, </author> , <note> Algorithmica 12 (1994), 54-68. </note>
+Reference: [CEGS] <author> B. Chazelle, H. Edelsbrunner, L. J. Guibas and M. Sharir, </author> , <booktitle> Proc. 16th Internat. Colloq. Automata Lang. Program., Lecture Notes Comput. Sci., </booktitle> <volume> vol. 372, </volume> <publisher> Springer-Verlag, </publisher> <year> 1989, </year> <pages> pp. 179-192. </pages>
+Reference: [CEGS2] <author> B. Chazelle, H. Edelsbrunner, L. J. Guibas and M. Sharir, </author> , <type> Theoret. </type> <institution> Comput. Sci. </institution> <month> 84 </month> <year> (1991), </year> <pages> 77-105. </pages>
+Reference: [CEGS3] <author> B. Chazelle, H. Edelsbrunner, L. J. Guibas and M. </author> <title> Sharir, </title> , <journal> Discrete Comput. Geom. </journal> <volume> 10 (1993), </volume> <pages> 183-196. </pages>
+Reference: [CEGSS] <author> B. Chazelle, H. Edelsbrunner, L. J. Guibas, M. Sharir and J. Stolfi, </author> , <note> Algorithmica 15 (1996), 428-447. </note>
+Reference: [CF] <author> B. Chazelle and J. Friedman, </author> , <booktitle> Combinatorica 10 (1990), </booktitle> <pages> 229-249. </pages>
+Reference: [CF2] <author> B. Chazelle and J. </author> <title> Friedman, </title> , <journal> Comput. Geom. Theory Appl. </journal> <volume> 4 (1994), </volume> <pages> 53-62. </pages>
+Reference: [CG] <author> B. Chazelle and L. J. Guibas, </author> , <note> Algorithmica 1 (1986), 133-162. </note>
+Reference: [CG2] <author> B. Chazelle and L. J. </author> <title> Guibas, </title> , <journal> Discrete Comput. Geom. </journal> <volume> 4 (1989), </volume> <pages> 551-581. </pages>
+Reference: [CGL] <author> B. Chazelle, L. J. Guibas and D. T. Lee, , BIT, </author> <month> 25 </month> <year> (1985), </year> <pages> 76-90. </pages>
+Reference: [CP] <author> B. Chazelle and F. P. </author> <title> Preparata, </title> , <journal> Discrete Comput. Geom. </journal> <volume> 1 (1986), </volume> <pages> 83-93. </pages>
+Reference: [CR] <author> B. Chazelle and B. Rosenberg, </author> , <booktitle> Proc. 5th Annu. ACM Sympos. </booktitle> <institution> Comput. Geom., </institution> <year> 1989, </year> <pages> pp. 131-139. </pages>
+Reference: [CR2] <author> B. Chazelle and B. Rosenberg, </author> , <title> Comput. </title> <journal> Geom. Theory Appl. </journal> <volume> 5 (1996), </volume> <pages> 237-247. </pages>
+Reference: [CSW] <author> B. Chazelle, M. Sharir and E. Welzl, </author> , <note> Algorithmica 8 (1992), 407-429. </note>
+Reference: [CW] <author> B. Chazelle and E. </author> <title> Welzl, </title> , <journal> Discrete Comput. Geom. </journal> <volume> 4 (1989), </volume> <pages> 467-489. </pages>
+Reference: [CJ] <author> S. W. Cheng and R. </author> <title> Janardan, </title> , <journal> Inform. Process. Lett. </journal> <volume> 36 (1990), </volume> <pages> 251-258. </pages>
+Reference: [CJ2] <author> S. W. Cheng and R. Janardan, , J. </author> <booktitle> Algorithms 13 (1992), </booktitle> <pages> 670-692. </pages>
+Reference: [CT] <author> Y.-J. Chiang and R. </author> <title> Tamassia, </title> , <booktitle> Proc. IEEE 80 (1992), </booktitle> <pages> 1412-1434. </pages>
+Reference: [Cl] <author> K. L. </author> <title> Clarkson, </title> , <journal> Discrete Comput. Geom. </journal> <volume> 2 (1987), </volume> <pages> 195-222. </pages>
+Reference: [Cl2] <author> K. L. </author> <title> Clarkson, </title> , <journal> SIAM J. Comput. </journal> <volume> 17 (1988), </volume> <pages> 830-847. </pages>
+Reference: [Cl3] <author> K. L. Clarkson, </author> , <title> Computing in Euclidean Geometry (D.-Z. </title> <editor> Du and F. K. Hwang, eds.), </editor> <booktitle> Lecture Notes Series on Computing, </booktitle> <volume> vol. 1, </volume> <publisher> World Scientific, </publisher> <address> Singapore, </address> <year> 1992, </year> <pages> pp. 117-162. </pages>
+Reference: [Cl4] <author> K. L. Clarkson, </author> , <booktitle> Proc. 10th Annu. ACM Sympos. </booktitle> <institution> Comput. Geom., </institution> <year> (1994), </year> <pages> pp. 160-164. </pages>
+Reference: [Cl5] <author> K. L. Clarkson, </author> , <booktitle> Proc. 29th Annu. ACM Sympos. Theory Comput., </booktitle> <year> (1997), </year> <pages> pp. 609-617. </pages>
+
+Reference: [Cle] <author> J. G. </author> <title> Cleary, </title> , <journal> ACM Trans. Math. Softw. </journal> <volume> 5 (1979), </volume> <pages> 183-192. </pages>
+Reference: [Co] <author> R. Cole, </author> <booktitle> 4 , Proc. 12th Internat. Colloq. Automata Lang. Program., Lecture Notes Comput. Sci., </booktitle> <volume> vol. 194, </volume> <publisher> Springer-Verlag, </publisher> <year> 1985, </year> <pages> pp. 111-119. </pages>
+Reference: [CY] <author> R. Cole and C. K. Yap, </author> , <title> Inform. </title> <booktitle> Control 63 (1984), </booktitle> <pages> 39-57. </pages>
+Reference: [Com] <author> D. </author> <title> Comer, </title> , <journal> ACM Comput. Surv. </journal> <volume> 11 (1979), </volume> <pages> 121-137. </pages>
+Reference: [CoS] <author> S. Cost and S. Salzberg, </author> , <booktitle> Machine Learning 10 (1993), </booktitle> <pages> 57-67. </pages>
+Reference: [CH] <author> T. Cover and P. E. </author> <title> Hart, </title> , <journal> IEEE Trans. Inform. Theory 13 (1967), </journal> <pages> 21-27. </pages>
+Reference: [dBGH] <author> M. de Berg, L. J. Guibas and D. </author> <title> Halperin, </title> <journal> 3 , Discrete Comput. Geom. </journal> <volume> 15 (1996), </volume> <pages> 35-61. </pages>
+Reference: [dBO] <author> M. de Berg and M. Overmars, </author> , <title> Com-put. </title> <journal> Geom. Theory Appl. </journal> <volume> 1 (1992), </volume> <pages> 247-268. </pages>
+Reference: [DE] <author> D. Dobkin and H. Edelsbrunner, </author> , <type> Tech. Report F130, </type> <institution> Inst. Informationsverarb., Tech. Univ. Graz, Graz, Austria, </institution> <year> 1984. </year>
+Reference: [DHKS] <author> D. Dobkin, J. Hershberger, D. Kirkpatrick and S. Suri, </author> , <booktitle> Proc. 1st Annu. SIGAL Internat. Sympos. Algorithms, Lecture Notes Comput. Sci., </booktitle> <volume> vol. 450, </volume> <publisher> Springer-Verlag, </publisher> <year> 1990, </year> <pages> pp. 165-180. </pages>
+Reference: [DS] <author> D. Dobkin and S. Suri, , J. </author> <booktitle> ACM 38 (1991), </booktitle> <pages> 275-298. </pages>
+Reference: [DoE] <author> D. P. Dobkin and H. Edelsbrunner, , J. </author> <booktitle> Algorithms 8 (1987), </booktitle> <pages> 348-361. </pages>
+Reference: [DK] <author> D. P. Dobkin and D. G. Kirkpatrick, , J. </author> <booktitle> Algorithms 6 (1985), </booktitle> <pages> 381-392. </pages>
+Reference: [DK2] <author> D. P. Dobkin and D. G. Kirkpatrick, </author> , <booktitle> Proc. 17th Internat. Colloq. Automata Lang. Program., Lecture Notes Comput. Sci., </booktitle> <volume> vol. 443, </volume> <publisher> Springer-Verlag, </publisher> <year> 1990, </year> <pages> pp. 400-413. </pages>
+Reference: [DH] <author> R. O. Duda and P. E. Hart, </author> <title> Pattern Classification and Scene Analysis, </title> <publisher> Wiley Inter-science, </publisher> <address> New York, NY, </address> <year> 1973. </year>
+Reference: [E] <author> H. Edelsbrunner, </author> <title> Algorithms in Combinatorial Geometry, </title> <journal> EATCS Monographs on Theoretical Computer Science, </journal> <volume> vol. 10, </volume> <publisher> Springer-Verlag, </publisher> <address> Heidelberg, West Germany, </address> <year> 1987. </year>
+Reference: [EGHS ] <author> H. Edelsbrunner, L. J. Guibas, J. Hershberger, R. Seidel, M. Sharir, J. Snoeyink and E. </author> <title> Welzl, </title> , <journal> Discrete Comput. Geom. </journal> <volume> 4 (1989), </volume> <pages> 433-466. </pages>
+Reference: [EH] <author> H. Edelsbrunner and F. Huber, </author> , <type> Report F138, </type> <institution> Inst. Informationsverarb., Tech. Univ. Graz, Graz, Austria, </institution> <year> 1984. </year>
+Reference: [EKM] <author> H. Edelsbrunner, D. G. Kirkpatrick and H. A. Maurer, </author> , <title> Inform. Process. </title> <journal> Lett. </journal> <volume> 14 (1982), </volume> <pages> 74-79. </pages>
+Reference: [EM] <author> H. Edelsbrunner and H. A. Maurer, </author> , <type> Theoret. </type> <institution> Comput. Sci. </institution> <month> 16 </month> <year> (1981), </year> <pages> 329-336. </pages>
+Reference: [EO] <author> H. Edelsbrunner and M. H. Overmars, , J. </author> <booktitle> Algorithms 6 (1985), </booktitle> <pages> 515-542. </pages>
+Reference: [EW] <author> H. Edelsbrunner and E. </author> <title> Welzl, </title> ( ) , <journal> Inform. Process. Lett. </journal> <volume> 23 (1986), </volume> <pages> 289-293. </pages>
+Reference: [EKNS] <author> A. Efrat, M. J. Katz, F. Nielsen and M. Sharir, </author> , <booktitle> Proc. 5th Workshop Algorithms Data Struct., </booktitle> <year> 1997, </year> <pages> pp. 297-306. </pages>
+Reference: [ES] <author> P. Erd-os and G. Szekeres, , Compositio Math. </author> <month> 2 </month> <year> (1935), </year> <pages> 463-470. </pages>
+Reference: [Er] <author> J. Erickson, </author> , <type> 37th Annu. </type> <institution> IEEE Sympos. Found. Comput. Sci., </institution> <year> 1996, </year> <pages> pp. 472-481. </pages>
+Reference: [Er2] <author> J. </author> <title> Erickson, </title> , <journal> Discrete Comput. Geom. </journal> <volume> 16 (1996), </volume> <pages> 389-418. </pages>
+
+Reference: [ELS] <author> G. Evangelidis, D. B. Lomet, and B. Salzberg, </author> <booktitle> hB , VLDB Journal 6 (1997), </booktitle> <pages> 1-25. </pages>
+Reference: [F] <author> C. </author> <title> Faloutsos, </title> , <journal> IEEE Trans. Softw. Eng. </journal> <volume> 44 (1988), </volume> <pages> 1381-1393. </pages>
+Reference: [FG] <author> C. Faloutsos and V. </author> <title> Gaede, </title> , <booktitle> Proc. 22nd VLDB Conference, </booktitle> <year> 1996, </year> <pages> pp. 40-50. </pages>
+Reference: [FL] <author> C. Faloutsos and K.-I. Lin, </author> , <booktitle> Proc. ACM SIGMOD Conf. on Management of Data, </booktitle> <year> 1995, </year> <pages> pp. 163-173. </pages>
+Reference: [FRM] <author> C. Faloutsos, M. Ranganathan and Y. </author> <title> Manolopoulos, </title> , <booktitle> Proc. ACM SIGMOD Conf. on Management of Data, </booktitle> <year> 1994, </year> <pages> pp. 86-93. </pages>
+Reference: [FR] <author> C. Faloutsos and Y. Rong, </author> , <booktitle> Proc. 7th IEEE Internat. Conf. on Data Engineering, </booktitle> <year> 1991, </year> <pages> pp. 152-158. </pages>
+Reference: [FRo] <author> C. Faloutsos and S. Roseman, </author> , <booktitle> Proc. ACM SIG-MOD Conf. on Management of Data, </booktitle> <year> 1989, </year> <pages> pp. 247-252. </pages>
+Reference: [FB] <author> R. A. Finkel and J. L. </author> <title> Bentley, </title> , <journal> Acta Inform. </journal> <volume> 4 (1974), </volume> <pages> 1-9. </pages>
+Reference: [FvDFH] <author> J. D. Foley, A. van Dam, S. K. Feiner and J. F. Hughes, </author> <title> Computer Graphics: </title> <booktitle> Principles and Practice, </booktitle> <publisher> Addison-Wesley, </publisher> <address> Reading, MA, </address> <year> 1990. </year>
+Reference: [FW] <author> F. W. Fredman and D. E. </author> <type> Willard, </type> , <institution> J. Comput. Syst. Sci. </institution> <month> 48 </month> <year> (1993), </year> <pages> 424-436. </pages>
+Reference: [Fr] <author> M. L. Fredman, , J. </author> <booktitle> ACM 29 (1979), </booktitle> <pages> 250-260. </pages>
+Reference: [Fr2] <author> M. L. Fredman, </author> , <booktitle> Proc. 17th Allerton Conf. </booktitle> <institution> Commun. Control Comput., </institution> <year> 1979, </year> <pages> pp. 231-240. </pages>
+Reference: [Fr3] <author> M. L. Fredman, </author> , <booktitle> Proc. 21st Annu. IEEE Sympos. </booktitle> <institution> Found. Comput. Sci., </institution> <year> 1980, </year> <pages> pp. 191-199. </pages>
+Reference: [Fr4] <author> M. L. Fredman, , J. </author> <booktitle> ACM 28 (1981), </booktitle> <pages> 696-705. </pages>
+Reference: [Fr5] <author> M. L. </author> <title> Fredman, </title> , <journal> SIAM J. Comput. </journal> <volume> 10 (1981), </volume> <pages> 1-10. </pages>
+Reference: [FV] <author> M. L. Fredman and D. J. Volper, , J. </author> <booktitle> Algorithms 3 (1982), </booktitle> <pages> 68-78. </pages>
+Reference: [Fre] <editor> H. Freeston, </editor> , <booktitle> Proc. ACM SIGMOD Conf. on Management of Data, </booktitle> <year> 1987, </year> <pages> pp. 260-269. </pages>
+Reference: [Free] <author> M. Freestone, </author> , <booktitle> Proc. ACM SIGMOD Conf. on Management of Data, </booktitle> <year> 1995, </year> <pages> pp. 80-91. </pages>
+Reference: [FBF] <author> J. H. Friedman, J. L. Bentley and R. A. </author> <title> Finkel, </title> , <journal> ACM Trans. Math. Softw. </journal> <volume> 3 (1977), </volume> <pages> 209-226. </pages>
+Reference: [FKN] <author> H. Fuchs, Z. M. Kedem and B. Naylor, </author> , <title> Comput Graph. </title> <booktitle> 14 (1980), </booktitle> <pages> 124-133. </pages> <note> Proc. SIGGRAPH '80. </note>
+Reference: [G] <author> A. S. Glassner (ed.), </author> <title> An Introduction to Ray Tracing, </title> <publisher> Academic Press, </publisher> <year> 1989. </year>
+Reference: [GRSY] <author> J. Goldstein, R. Ramakrishnan, U. Shaft and J.-B. Yu, </author> , <booktitle> Proc. 16th Annu. ACM Sympos. Principles Database Syst., </booktitle> <year> 1997, </year> <pages> pp. 257-267. </pages>
+Reference: [GPW] <author> J. E. Goodman, R. Pollack and R. Wenger, </author> , <title> New Trends in Discrete and Computational Geometry (J. Pach, </title> <editor> ed.), </editor> <publisher> Springer-Verlag, </publisher> <address> Heidelberg, Germany, </address> <year> 1993, </year> <pages> pp. 163-198. </pages>
+Reference: [GT] <author> M. T. Goodrich and R. </author> <title> Tamassia, </title> , <booktitle> Proc. 9th Annu. ACM Sympos. </booktitle> <institution> Comput. Geom., </institution> <year> 1993, </year> <pages> pp. 318-327. </pages>
+
+Reference: [Gr] <author> D. Greene, </author> , <booktitle> Proc. 5th IEEE Internat. Conf. on Data Engineering, </booktitle> <year> 1989, </year> <pages> pp. 606-615. </pages>
+Reference: [Gre] <author> L. Greengard, </author> <title> The Rapid Evaluation of Potential Fields in Particle Systems, </title> <publisher> MIT Press, </publisher> <address> Cambridge, MA, </address> <year> 1988. </year>
+Reference: [GV] <author> D. Grigoriev and N. </author> <title> Vorobjov, </title> , <type> Theoret. </type> <institution> Comput. Sci. </institution> <month> 157 </month> <year> (1996), </year> <pages> 185-214. </pages>
+Reference: [GI] <author> R. Grossi and G. F. </author> <title> Italiano, </title> , <booktitle> Proc. 24th Internat. Colloq. Automata, Lang. Prog., Lecture Notes Comput. Sci., </booktitle> <volume> vol. 1256, </volume> <publisher> Springer-Verlag, </publisher> <year> 1997, </year> <pages> pp. 605-615. </pages>
+Reference: [GOS] <author> L. J. Guibas, M. H. Overmars and M. Sharir, </author> , <type> Report 433, </type> <institution> Dept. Comput. Sci., </institution> <address> New York Univ., New York, NY, </address> <month> Mar. </month> <year> 1989. </year>
+Reference: [Gu] <author> O. Gunther, </author> , <booktitle> Proc. 5th IEEE Internat. Conf. on Data Engineering, </booktitle> <year> 1989, </year> <pages> pp. 598-605. </pages>
+Reference: [GB] <author> O. Gunther and J. </author> <title> Bilmes, </title> , <journal> IEEE Trans. Knowledge and Data Engineering 3 (1991), </journal> <pages> 342-356. </pages>
+Reference: [GHRU] <author> H. Gupta, V. Harinarayan, A. Rajaraman and J. D. Ullman, </author> , <booktitle> Proc. ACM SIGMOD Conf. on Management of Data, </booktitle> <year> 1996, </year> <pages> pp. 205-216. </pages>
+Reference: [GJS] <author> P. Gupta, R. Janardan and M. </author> <title> Smid, </title> , <booktitle> Proc. 10th Annu. ACM Sympos. </booktitle> <institution> Comput. Geom., </institution> <year> 1994, </year> <pages> pp. 369-378. </pages>
+Reference: [GJS2] <author> P. Gupta, R. Janardan and M. </author> <title> Smid, </title> , <booktitle> Proc. 4th Scand. Workshop Algorithm Theory, Lecture Notes Comput. Sci., </booktitle> <volume> vol. 824, </volume> <publisher> Springer-Verlag, </publisher> <year> 1994, </year> <pages> pp. 183-194. </pages>
+Reference: [GJS3] <author> P. Gupta, R. Janardan and M. Smid, , J. </author> <title> Algorithms, </title> <booktitle> 19 (1995), </booktitle> <pages> 282-317. </pages>
+Reference: [Gut] <author> R. Guting, </author> , <booktitle> VLDB Journal 4 (1994), </booktitle> <pages> 357-399. </pages>
+Reference: [Gu] <author> A. </author> <title> Guttman, </title> , <booktitle> Proc. ACM SIGACT-SIGMOD Conf. Principles Database Systems, </booktitle> <year> 1984, </year> <pages> pp. 47-57. </pages>
+Reference: [HT] <author> D. Harel and R. E. Tarjan, </author> , <note> SIAM J. Comput. </note> <month> 13 </month> <year> (1984), </year> <pages> 338-355. </pages>
+Reference: [HRU] <author> V. Harinarayan, A. Rajaraman and J. D. Ullman, </author> , <booktitle> Proc. 13th IEEE Internat. Conf. on Data Engineering, </booktitle> <year> 1997, </year> <pages> pp. 208-219. </pages>
+Reference: [HaT] <author> T. Hastie and R. </author> <title> Tibshirani, </title> , <journal> IEEE Trans. Pattern Anal. Mach. Intell. </journal> <volume> 18 (1996), </volume> <pages> 607-616. </pages>
+Reference: [HW] <author> D. Haussler and E. </author> <title> Welzl, </title> , <journal> Discrete Comput. Geom. </journal> <volume> 2 (1987), </volume> <pages> 127-151. </pages>
+Reference: [HKP] <author> J. H. Hellerstein, E. Koustsoupias and C. H. Papadimtriou, </author> , <booktitle> Proc. 16th Annu. ACM Sympos. Principles of Database Syst., </booktitle> <year> 1997, </year> <pages> pp. 249-256. </pages>
+Reference: [H] <author> A. </author> <title> Henrich, </title> , <booktitle> Proc. 12th IEEE Intl. Conf. on Data Engineering, </booktitle> <year> 1996, </year> <pages> pp. 68-74. </pages>
+Reference: [HS] <author> J. Hershberger and S. Suri, , J. </author> <booktitle> Algorithms 18 (1995), </booktitle> <pages> 403-431. </pages>
+Reference: [Hi] <author> K. H. Hinrichs, </author> , <type> Ph.D. thesis, </type> <institution> Dept. Information Science, ETH, </institution> <address> Zurich, </address> <year> 1985. </year>
+Reference: [HjS] <author> G. R. Hjaltason and H. Samet, </author> , <booktitle> Advances in Spatial Databases Fourth International Symposium, Lecture Notes Comput. Sci., </booktitle> <volume> no. 951, </volume> <month> Aug. </month> <year> 1995, </year> <pages> pp. 83-95. </pages>
+Reference: [HAMS] <author> C.-T. Ho, R. Agrawal, N. Megiddo and R. Srikant, </author> , <booktitle> Proc. ACM SIGMOD Conf. on Management of Data, </booktitle> <year> 1997, </year> <pages> pp. 73-88. </pages>
+
+Reference: [HoS] <author> E. G. Hoel and H. Samet, </author> , <booktitle> Proc. ACM SIGMOD Conf. on Management of Data, </booktitle> <year> 1992, </year> <pages> pp. 205-214. </pages>
+Reference: [Ho] <author> P. Houthuys, </author> , <title> Visual Comput. </title> <booktitle> 3 (1987), </booktitle> <pages> pp. 236-249. </pages>
+Reference: [HSW] <author> A. Hutflesz, H.-W. Six and P. </author> <title> Widmayer, </title> , <booktitle> Proc. 4th Intl. Conf. on Data Engineering, </booktitle> <year> 1988, </year> <pages> pp. 572-579. </pages>
+Reference: [HSW2] <author> A. Hutflesz, H.-W. Six and P. </author> <title> Widmayer, </title> , <booktitle> Proc. ACM SIGMOD Conf. on Management of Data, </booktitle> <year> 1988, </year> <pages> pp. 183-190. </pages>
+Reference: [IA] <author> H. Imai and T. Asano, , J. </author> <booktitle> Algorithms 8 (1987), </booktitle> <pages> 1-18. </pages>
+Reference: [IM] <author> P. Indyk and R. Motwani, </author> , <booktitle> Proc. 30th Annu. ACM Symps. Theory of Comput., </booktitle> <year> 1998, </year> <note> to appear. </note>
+Reference: [IMRV] <author> P. Indyk, R. Motwani, P. Raghavan and S. Vempala, </author> , <booktitle> Proc. 29th Annu. ACM Sympos. Theory Comput., </booktitle> <year> 1997, </year> <pages> pp. 618-625. </pages>
+Reference: [J] <author> H. V. </author> <title> Jagdish, </title> , <booktitle> Proc. ACM SIG-MOD Conf. on Management of Data, </booktitle> <year> 1990, </year> <pages> pp. 332-342. </pages>
+Reference: [JL] <author> R. Janardan and M. Lopez, </author> , <title> Internat. </title> <journal> J. Comput. Geom. Appl. </journal> <volume> 3 (1993), </volume> <pages> 39-69. </pages>
+Reference: [KF] <author> I. Kamel and C. Faloutsos, </author> , <booktitle> Proc. ACM SIGMOD Conf. on Management of Data, </booktitle> <year> 1992, </year> <pages> pp. 195-204. </pages>
+Reference: [KF2] <author> I. Kamel and C. Faloutsos, </author> , <booktitle> Proc. 2nd Internat. Conf. on Information and Knowledge Management, </booktitle> <year> 1993, </year> <pages> pp. 490-499. </pages>
+Reference: [KF3] <author> I. Kamel and C. Faloutsos, </author> , <booktitle> Proc. 20th VLDB Conference, </booktitle> <year> 1994, </year> <pages> pp. 500-510. </pages>
+Reference: [KRVV] <author> P. C. Kanellakis, S. Ramaswamy, D. E. Vengroff and J. S. Vitter, </author> , <booktitle> Proc. 12th ACM SIGACT-SIGMOD-SIGART Conf. Princ. Database Sys., </booktitle> <year> 1993, </year> <pages> pp. 233-243. </pages>
+Reference: [KS] <author> N. Katayama and S. Satoh, </author> , <booktitle> Proc. ACM SIGMOD Conf. on Management of Data, </booktitle> <year> 1997, </year> <pages> pp. 369-380. </pages>
+Reference: [KV] <author> M. D. Katz and D. J. </author> <title> Volper, </title> , <journal> SIAM J. Comput. </journal> <volume> 15 (1986), </volume> <pages> 919-931. </pages>
+Reference: [K] <author> M. J. Katz, </author> , <note> Research Report 2583, INRIA, BP93, 06902 Sophia-Antipolis, </note> <institution> France, </institution> <year> 1995. </year>
+Reference: [KNOW] <author> R. Klein, O. Nurmi, T. Ottmann and D. Wood, </author> , <note> Algorithmica 4 (1989), 535-550. </note>
+Reference: [Kl] <author> J. </author> <title> Kleinberg, </title> , <booktitle> Proc. 29th Annu. ACM Sympos. Theory Comput., </booktitle> <year> 1997, </year> <pages> pp. 599-608. </pages>
+Reference: [KK] <author> V. Koivune and S. </author> <title> Kassam, </title> , <booktitle> IEEE Workshop on Nonlinear Signal and Image Processing, </booktitle> <year> 1995. </year>
+Reference: [KPW] <author> J. Komlos, J. Pach and G. Woeginger, </author> , <title> Discrete Com-put. </title> <journal> Geom. </journal> <volume> 7 (1992), </volume> <pages> 163-173. </pages>
+Reference: [KSFSP] <author> F. Korn, N. Sidiropoulos, C. Faloutsos, E. Siegel and Z. Protopapa, </author> , <booktitle> Proc. 22nd VLDB Conference, </booktitle> <year> 1996, </year> <pages> pp. 215-226. </pages>
+Reference: [KrS] <author> H.-P. Kriegel and B. Seeger, </author> , <booktitle> Proc. Intl. Conf. on Database Theory, Lecture Notes Comput. Sci., </booktitle> <volume> vol. 243, </volume> <publisher> Springer-Verlag, </publisher> <year> 1986, </year> <pages> pp. 203-220. </pages>
+Reference: [KW] <author> R. Krishnamurthy and K.-Y. Wang, </author> , <type> Tech. report, </type> <institution> IBM T. J. Watson Center, </institution> <address> Yorktown Heights, NY, </address> <year> 1985. </year>
+Reference: [L] <author> J.-C. Latombe, </author> <title> Robot Motion Planning, </title> <publisher> Kluwer Academic Publishers, </publisher> <address> Boston, MA, </address> <year> 1991. </year>
+
+Reference: [LLE] <author> S. Leutenegger, M. A. Lopez and J. Edington, </author> , <booktitle> Proc. 13th IEEE Internat. Conf. on Data Engineering, </booktitle> <year> 1997, </year> <pages> pp. 497-506. </pages>
+Reference: [LJF] <author> K. Lin, H. V. Jagdish and C. Faloutsos, </author> , <booktitle> VLDB Journal 4 (1994), </booktitle> <pages> 517-542. </pages>
+Reference: [LS] <author> D. Lomet and B. </author> <title> Salzberg, </title> , <journal> ACM Trans. Database Syst., </journal> <volume> 15 (1990), </volume> <pages> 625-658. </pages>
+Reference: [Lu] <author> G. S. Lueker, </author> , <booktitle> Proc. 19th Annu. IEEE Sympos. </booktitle> <institution> Found. Comput. Sci., </institution> <year> 1978, </year> <pages> pp. 28-34. </pages>
+Reference: [MB] <author> J. MacDanold and K. </author> <type> Booth, </type> , <institution> Visual Comput. </institution> <month> 6 </month> <year> (1990), </year> <pages> 153-166. </pages>
+Reference: [M] <author> J. </author> <title> Matousek, </title> , <journal> Discrete Comput. Geom. </journal> <volume> 8 (1992), </volume> <pages> 315-334. </pages>
+Reference: [M2] <author> J. </author> <title> Matousek, </title> , <journal> Comput. Geom. Theory Appl. </journal> <volume> 2 (1992), </volume> <pages> 169-186. </pages>
+Reference: [M3] <author> J. Matousek, </author> , <title> New Trends in Discrete and Computational Geometry (J. Pach, </title> <editor> ed.), </editor> <publisher> Springer-Verlag, </publisher> <address> Heidelberg, Germany, </address> <year> 1993, </year> <pages> pp. 69-89. </pages>
+Reference: [M4] <author> J. Matousek, , J. </author> <title> Algorithms, </title> <booktitle> 14 (1993), </booktitle> <pages> 432-448. </pages>
+Reference: [M5] <author> J. </author> <title> Matousek, </title> , <journal> Comput. Geom. Theory Appl. </journal> <volume> 2 (1993), </volume> <pages> 279-285. </pages>
+Reference: [M6] <author> J. </author> <title> Matousek, </title> , <journal> Discrete Comput. Geom. </journal> <volume> 10 (1993), </volume> <pages> 157-182. </pages>
+Reference: [M7] <author> J. </author> <title> Matousek, </title> , <journal> ACM Comput. Surv. </journal> <volume> 26 (1994), </volume> <pages> 421-461. </pages>
+Reference: [MS] <author> J. Matousek and O. Schwarzkopf, </author> , <title> Discrete Com-put. </title> <journal> Geom. </journal> <volume> 10 (1993), </volume> <pages> 215-232. </pages>
+Reference: [MW] <author> J. Matousek and E. Welzl, , J. </author> <booktitle> Algorithms 13 (1992), </booktitle> <pages> 307-319. </pages>
+Reference: [MWW] <author> J. Matousek, E. Welzl and L. Wernisch, </author> , <booktitle> Combinatorica 13 (1993), </booktitle> <pages> 455-466. </pages>
+Reference: [Mc] <author> E. M. </author> <title> McCreight, </title> , <journal> SIAM J. Comput. </journal> <volume> 14 (1985), </volume> <pages> 257-276. </pages>
+Reference: [MCD] <author> M. R. Mediano, M. A. Casanova and M. Dreux, </author> , <booktitle> Proc. 20th VLDB Conference, </booktitle> <year> 1994, </year> <pages> pp. 321-329. </pages>
+Reference: [Me] <author> N. Megiddo, , J. </author> <booktitle> ACM 30 (1983), </booktitle> <pages> 852-865. </pages>
+Reference: [Meh] <author> K. Mehlhorn, </author> <title> Multi-dimensional Searching and Computational Geometry, </title> <booktitle> Data Structures and Algorithms, </booktitle> <volume> vol. 3, </volume> <publisher> Springer-Verlag, </publisher> <address> Heidelberg, West Germany, </address> <year> 1984. </year>
+Reference: [MN] <author> K. Mehlhorn and S. Naher, </author> , <note> Algorithmica 5 (1990), 215-241. </note>
+Reference: [MG] <author> H. Mehrotra and J. E. Gary, </author> , <booktitle> Proc. 9th IEEE Intl. Conf. on Data Engineering, </booktitle> <year> 1996, </year> <pages> pp. 108-115. </pages>
+Reference: [Mei] <author> S. </author> <title> Meiser, </title> , <journal> Inform. Comput. </journal> <volume> 106 (1993), </volume> <pages> 286-303. </pages>
+Reference: [Mi] <author> J. S. B. Mitchell, </author> , <booktitle> Proc. 9th Annu. ACM Sympos. </booktitle> <institution> Comput. Geom., </institution> <year> 1993, </year> <pages> pp. 308-317. </pages>
+Reference: [MMS] <author> J. S. B. Mitchell, D. M. Mount and S. Suri, </author> , <booktitle> Proc. 10th Annu. ACM Sympos. </booktitle> <institution> Comput. Geom., </institution> <year> 1994, </year> <pages> pp. 359-368. </pages>
+Reference: [Mo] <author> G. Morton, </author> <title> A computer oriented geodetic data base and a new technique in file sequencing, </title> <type> Tech. report, </type> <institution> IBM Ltd., </institution> <address> Ottawa, Canada, </address> <year> 1966. </year>
+Reference: [MR] <author> R. Motwani and P. Raghavan, </author> <title> Randomized Algorithms, </title> <publisher> Cambridge University Press, </publisher> <address> New York, NY, </address> <year> 1995. </year>
+Reference: [Mu] <author> J. Mullin, , Com-put. J. </author> <month> 28 </month> <year> (1985), </year> <pages> 330-334. </pages>
+Reference: [Mul] <author> K. </author> <title> Mulmuley, </title> , <journal> J. Symbolic Comput. </journal> <volume> 10 (1990), </volume> <pages> 253-280. </pages>
+Reference: [Mul2] <author> K. </author> <title> Mulmuley, </title> , <booktitle> Proc. 7th Annu. ACM Sympos. </booktitle> <institution> Comput. Geom., </institution> <year> 1991, </year> <pages> pp. 121-131. </pages>
+
+Reference: [Mul4] <author> K. Mulmuley, </author> <title> Computational Geometry: An Introduction Through Randomized Algorithms, </title> <publisher> Prentice Hall, </publisher> <address> Englewood Cliffs, NJ, </address> <year> 1994. </year>
+Reference: [NHS] <author> J. Nievergelt, H. Hinterberger and K. C. </author> <title> Sevcik, </title> , <journal> ACM Trans. Database Syst., </journal> <volume> 9 (1984), </volume> <pages> 38-71. </pages>
+Reference: [NW] <author> J. Nievergelt and P. </author> <title> Widmayer, </title> , <journal> Comput. J. </journal> <volume> 36 (1993), </volume> <pages> 107-116. </pages>
+Reference: [NW2] <author> J. Nievergelt and P. Widmayer, </author> , <title> Algorithmic Foundations of Geographic Information Systems, </title> <journal> Lecture Notes Comput. Sci., </journal> <volume> vol. 1340, </volume> <publisher> Springer-Verlag, </publisher> <year> 1997, </year> <pages> pp. 153-197. </pages>
+Reference: [O] <author> J. </author> <title> Orenstein, </title> , <booktitle> Proc. ACM SIGMOD Conf. on Management of Data, </booktitle> <year> 1990, </year> <pages> pp. 343-352. </pages>
+Reference: [OM] <author> J. Orenstein and T. H. </author> <title> Merrett, </title> , <booktitle> Proc. ACM SIGMOD Conf. on Management of Data, </booktitle> <year> 1984, </year> <pages> pp. 181-190. </pages>
+Reference: [Ou] <author> M. Ouksel, </author> , <booktitle> Proc. 4th Annu. ACM Sympos. Principles of Database Syst., </booktitle> <year> 1985, </year> <pages> pp. 20-27. </pages>
+Reference: [Ov] <author> M. H. Overmars, </author> <title> The Design of Dynamic Data Structures, </title> <journal> Lecture Notes Comput. Sci., </journal> <volume> vol. 156, </volume> <publisher> Springer-Verlag, </publisher> <address> Heidelberg, West Germany, </address> <year> 1983. </year>
+Reference: [Ov2] <author> M. H. Overmars, , J. </author> <booktitle> Algorithms 9 (1988), </booktitle> <pages> 254-275. </pages>
+Reference: [OSdBvK] <author> M. H. Overmars, M. H. M. Smid, M. T. de Berg and M. J. </author> <title> van Kreveld, </title> , <journal> Acta Inform. </journal> <volume> 27 (1990), </volume> <pages> 423-452. </pages>
+Reference: [OvdS] <author> M. H. Overmars and A. F. van der Stappen, </author> , <title> Algorithms - ESA'94, </title> <journal> Lecture Notes Comput. Sci., </journal> <volume> vol. 855, </volume> <publisher> Springer-Verlag, </publisher> <year> 1994, </year> <pages> pp. 240-253. </pages>
+Reference: [P] <author> J. Pach, </author> , <note> Discrete and Computational Geometry: Papers from the DIMACS Special Year (J. </note> <editor> E. Goodman, R. Pollack and W. Steiger, eds.), </editor> <publisher> American Mathematical Society, </publisher> <address> Providence, RI, </address> <year> 1991, </year> <pages> pp. 273-285. </pages>
+Reference: [PST] <author> B.-U. Pagel, H.-W. Six and H. Toben, </author> , <booktitle> Proc. 3rd Intl. Symp. on Large Spatial Databases, Lecture Notes Comput. Sci., </booktitle> <volume> vol. 692, </volume> <publisher> Springer-Verlag, </publisher> <year> 1993, </year> <pages> pp. 73-88. </pages>
+Reference: [PM] <author> A. Papadpoulos and Y. Manolopoulos, </author> , <title> Database Theory|ICDT'97, </title> <booktitle> 6th International Conference, Lecture Notes Com-put. Sci., </booktitle> <volume> vol. 1186, </volume> <publisher> Springer, </publisher> <year> 1997, </year> <pages> pp. 394-408. </pages>
+Reference: [PY] <author> M. S. Paterson and F. F. </author> <title> Yao, </title> , <journal> Discrete Comput. Geom. </journal> <volume> 5 (1990), </volume> <pages> 485-503. </pages>
+Reference: [Pe] <author> M. Pellegrini, </author> <note> 3 , Algorithmica 9 (1993), 471-494. </note>
+Reference: [Pe2] <author> M. Pellegrini, </author> , <booktitle> Proc. 25th Annu. ACM Sympos. Theory Comput., </booktitle> <year> 1994, </year> <pages> pp. 95-104. </pages>
+Reference: [PS] <author> M. Pellegrini and P. </author> <title> Shor, </title> <journal> 3 , Discrete Comput. Geom. </journal> <volume> 8 (1992), </volume> <pages> 191-208. </pages>
+Reference: [PV] <author> M. Pocchiola and G. Vegter, </author> , <booktitle> Proc. 12th Annu. ACM Sympos. </booktitle> <institution> Comput. Geom., </institution> <year> 1996, </year> <pages> pp. 291-300. </pages>
+Reference: [PrS] <author> F. P. Preparata and M. I. Shamos, </author> <title> Computational Geometry: An Introduction, </title> <publisher> Springer-Verlag, </publisher> <address> New York, NY, </address> <year> 1985. </year>
+Reference: [RP] <author> V. Ramasubramanian and K. K. </author> <title> Paliwal, </title> , <journal> IEEE Trans. Signal Processing, </journal> <volume> 40 (1992), </volume> <pages> 518-531. </pages>
+Reference: [RS] <author> S. Ramaswamy and S. Subramanian, </author> , <booktitle> Proc. 13th Annu. ACM Sympos. Principles Database Syst., </booktitle> <year> 1994, </year> <pages> pp. 25-35 </pages>
+Reference: [R] <author> J. T. Robinson, </author> , <booktitle> Proc. ACM SIGACT-SIGMOD Conf. Principles Database Systems, </booktitle> <year> 1981, </year> <pages> pp. 10-18. </pages>
+Reference: [RKV] <author> N. Roussopoulos, S. Kelley and F. Vincent, </author> , <booktitle> Proc. ACM SIGMOD Conf. on Management of Data, </booktitle> <year> 1995, </year> <pages> pp. 71-79. </pages>
+
+Reference: [S] <author> H. Sagan, </author> <title> Space-filling Curves, </title> <publisher> Springer-Verlag, </publisher> <address> New York, NY, </address> <year> 1994. </year>
+Reference: [Sa] <author> G. Salton, </author> <title> Automatic Text Processing, </title> <publisher> Addison-Wesley, </publisher> <address> Reading, MA, </address> <year> 1989. </year>
+Reference: [Sam] <author> H. Samet, </author> <title> Applications of Spatial Data Structures: Computer Graphics, Image Processing, and GIS, </title> <publisher> Addison-Wesley, </publisher> <address> Reading, MA, </address> <year> 1990. </year>
+Reference: [Sam2] <author> H. Samet, </author> <title> The Design and Analysis of Spatial Data Structures, </title> <publisher> Addison-Wesley, </publisher> <address> Reading, MA, </address> <year> 1990. </year>
+Reference: [SO] <author> H. W. Scholten and M. H. </author> <title> Overmars, </title> , <journal> J. Symbolic Comput. </journal> <volume> 7 (1989), </volume> <pages> 1-10. </pages>
+Reference: [ST] <author> E. Schomer and C. Thiel, </author> , <booktitle> Proc. 11th Annu. ACM Sympos. </booktitle> <institution> Comput. Geom., </institution> <year> 1995, </year> <pages> pp. 51-60. </pages>
+Reference: [Sc] <author> O. </author> <title> Schwarzkopf, </title> , <booktitle> Proc. 32nd Annu. IEEE Sympos. </booktitle> <institution> Found. Comput. Sci., </institution> <year> 1991, </year> <pages> pp. 197-206. </pages>
+Reference: [SK] <author> B. Seeger and H.-P. Kriegel, </author> , <booktitle> Proc. 16th VLDB Conference, </booktitle> <year> 1990, </year> <pages> pp. 590-601. </pages>
+Reference: [Se] <author> R. Seidel, </author> , <title> New Trends in Discrete and Computational Geometry (J. Pach, </title> <editor> ed.), </editor> <publisher> Springer-Verlag, </publisher> <address> Heidelberg, Germany, </address> <year> 1993, </year> <pages> pp. 37-68. </pages>
+Reference: [SRF] <author> T. Sellis, N. Roussopoulos and C. Faloutsos, </author> <booktitle> R , Proc. 13th VLDB Conference, </booktitle> <year> 1987, </year> <pages> pp. 507-517. </pages>
+Reference: [SeK] <author> K. Sevcik and N. </author> <title> Koudas, </title> , <booktitle> Proc. 22nd VLDB Conference, </booktitle> <year> 1996, </year> <pages> pp. 16-27. </pages>
+Reference: [SA] <author> M. Sharir and P. K. Agarwal, </author> <title> Davenport-Schinzel Sequences and Their Geometric Applications, </title> <publisher> Cambridge University Press, </publisher> <address> New York, </address> <year> 1995. </year>
+Reference: [SSA] <author> K. Shim, R. Srikant and R. Agrawal, </author> , <booktitle> Proc. 13th IEEE Internat. Conf. on Data Engineering, </booktitle> <year> 1997, </year> <pages> pp. 301-311. </pages>
+Reference: [SBK] <author> B. K. Shoichet, D. L. Bodian and I. D. Kuntz, , J. </author> <booktitle> Computational Chemistry 13 (1992), </booktitle> <pages> 380-397. </pages>
+Reference: [Sh] <author> A. Shoshani, </author> , <booktitle> Proc. ACM Sympos. Principles of Database Syst., </booktitle> <year> 1997, </year> <pages> pp. 185-196. </pages>
+Reference: [Sm] <author> M. </author> <title> Smid, </title> , <booktitle> Proc. 2nd Canad. Conf. </booktitle> <institution> Comput. Geom., </institution> <year> 1990, </year> <pages> pp. 347-350. </pages>
+Reference: [Sm2] <author> M. Smid, </author> , <title> Algorithms Rev. </title> <booktitle> 2 (1991), </booktitle> <pages> 33-44. </pages>
+Reference: [So] <author> D. M. Y. Sommerville, </author> <title> Analytical Geometry in Three Dimensions, </title> <publisher> Cambridge University Press, </publisher> <address> Cambridge, UK, </address> <year> 1951. </year>
+Reference: [Sp] <author> R. F. Sproull, </author> , <note> Algorithmica 6 (1991), 579-589. </note>
+Reference: [SY] <author> J. M. Steele and A. C. Yao, , J. </author> <booktitle> Algorithms 3 (1982), </booktitle> <pages> 1-8. </pages>
+Reference: [St] <author> J. Stolfi, </author> <title> Oriented Projective Geometry: A Framework for Geometric Computations, </title> <publisher> Academic Press, </publisher> <address> New York, NY, </address> <year> 1991. </year>
+Reference: [Str] <author> V. Strassen, </author> , <title> Algorithms and Complexity (J. </title> <editor> van Leeuwen, ed.), </editor> <booktitle> Handbook of Theoretical Computer Science, </booktitle> <volume> vol. </volume> <publisher> A, MIT Press, </publisher> <address> Cambridge, MA, </address> <year> 1990, </year> <pages> pp. 633-672. </pages>
+Reference: [SR] <author> S. Subramanian and S. Ramaswamy, </author> , <booktitle> Proc. 6th ACM-SIAM Sympos. Discrete Algorithms, </booktitle> <year> 1995, </year> <pages> pp. 378-387. </pages>
+Reference: [T] <author> R. E. Tarjan, </author> , <note> J. </note> <institution> Comput. Syst. Sci. </institution> <month> 18 </month> <year> (1979), </year> <pages> 110-127. </pages>
+Reference: [V] <author> P. M. Vaidya, </author> , <note> SIAM J. Comput. </note> <month> 18 </month> <year> (1989), </year> <pages> 748-758. </pages>
+Reference: [VW] <author> V. K. Vaishnavi and D. Wood, , J. </author> <booktitle> Algorithms 3 (1982), </booktitle> <pages> 160-176. </pages>
+Reference: [vK] <author> M. J. van Kreveld, </author> , <type> Ph.D. dissertation, </type> <institution> Dept. Comput. Sci., Utrecht Univ., </institution> <address> Utrecht, Netherlands, </address> <year> 1992. </year>
+
+Reference: [vKO2] <author> M. J. van Kreveld and M. H. </author> <title> Overmars, </title> , <journal> Inform. Comput. </journal> <volume> 110 (1994), </volume> <pages> 130-148. </pages>
+Reference: [VV] <author> D. E. Vengroff and J. S. Vitter, </author> , <booktitle> Proc. 28th Annu. ACM Sympos. Theory Comput., </booktitle> <year> 1996, </year> <pages> pp. 192-201. </pages>
+Reference: [vzG] <author> J. von zur Gathen, </author> , <title> Annu. </title> <journal> Rev. Comput. Sci., </journal> <volume> vol. 3, </volume> <publisher> Annual Reviews, </publisher> <address> Palo Alto, CA, </address> <year> 1988, </year> <pages> pp. 317-347. </pages>
+Reference: [Vu] <author> J. Vuillemin, </author> , <title> Commun. </title> <booktitle> ACM 23 (1980), </booktitle> <pages> 229-239. </pages>
+Reference: [W] <author> E. Welzl, </author> , <booktitle> Proc. 4th Annu. ACM Sympos. </booktitle> <institution> Comput. Geom., </institution> <year> 1988, </year> <pages> pp. 23-33. </pages>
+Reference: [W2] <author> E. Welzl, </author> , <title> Data Structures and Efficient Algorithms, </title> <booktitle> Final Report on the DFG Special Joint Initiative, Lecture Notes Comput. Sci., </booktitle> <volume> vol. 594, </volume> <publisher> Springer-Verlag, </publisher> <year> 1992, </year> <pages> pp. 233-249. </pages>
+Reference: [We] <author> H. </author> <title> Weyl, </title> , <journal> Math. Z. </journal> <volume> 20 (1924), </volume> <pages> 131-151. </pages>
+Reference: [WSCK ] <author> K. Y. Whang, J. W. Song, J. W. Chang, J. Y. Kim, W. S. Cho, C. M. Park and I. Y. </author> <title> Song, </title> , <journal> IEEE Trans. Visual. and Comp. Graphics 1 (1995), </journal> <pages> 343-349. </pages>
+Reference: [WJ] <author> D. A. White and R. Jain, </author> , <booktitle> Proc. 12th IEEE Internat. Conf. on Data Engineering, </booktitle> <year> 1996, </year> <pages> pp. 516-523. </pages>
+Reference: [Wh] <author> M. White, </author> , <type> Tech. report, </type> <institution> US Bureau of the Census, Statistical Research Division, </institution> <address> Washington, DC, </address> <year> 1982. </year>
+Reference: [Wi] <author> D. E. </author> <title> Willard, </title> , <journal> SIAM J. Comput. </journal> <volume> 11 (1982), </volume> <pages> 149-165. </pages>
+Reference: [Wi2] <author> D. E. </author> <title> Willard, </title> , <journal> Inform. Comput. </journal> <volume> 82 (1989), </volume> <pages> 45-64. </pages>
+Reference: [Wi3] <author> D. E. Willard, </author> , <booktitle> Proc. 3rd ACM-SIAM Sympos. Discrete Algorithms, </booktitle> <year> 1992, </year> <pages> pp. 286-296. </pages>
+Reference: [Wi4] <author> D. E. </author> <type> Willard, </type> , <institution> J. Comput. Syst. Sci. </institution> <month> 52 </month> <year> (1996), </year> <pages> 157-169. </pages>
+Reference: [WL] <author> D. E. Willard and G. S. Lueker, , J. </author> <booktitle> ACM 32 (1985), </booktitle> <pages> 597-617. </pages>
+Reference: [Y] <author> A. C. Yao, </author> , <booktitle> Proc. 14th Annu. ACM Sympos. Theory Comput., </booktitle> <year> (1982), </year> <pages> pp. 128-136. </pages>
+Reference: [Y2] <author> A. C. Yao, </author> , <note> SIAM J. Comput. </note> <month> 14 </month> <year> (1985), </year> <pages> 277-288. </pages>
+Reference: [YY] <editor> A. C. Yao and F. F. Yao, </editor> , <booktitle> Proc. 17th Annu. ACM Sympos. Theory Comput., </booktitle> <year> (1985), </year> <pages> pp. 163-168. </pages>
+Reference: [Ya] <editor> F. F. Yao, </editor> <booktitle> 3 , Proc. 15th Annu. ACM Sympos. Theory Comput., </booktitle> <year> 1983, </year> <pages> pp. 258-263. </pages>
+Reference: [YDEP] <author> F. F. Yao, D. P. Dobkin, H. Edelsbrunner and M. S. </author> <title> Paterson, </title> , <journal> SIAM J. Comput. </journal> <volume> 18 (1989), </volume> <pages> 371-384. </pages>
+Reference: [Yi] <author> P. N. Yianilos, </author> , <booktitle> Proc. 4th ACM-SIAM Sympos. Discrete Algorithms, </booktitle> <year> 1993, </year> <pages> pp. 311-321. </pages> :
+References-found: 287
+

@@ -1,0 +1,25 @@
+URL: http://www.cs.caltech.edu/~ps/papers/forsey/forsey.gi.92.ps.Z
+Refering-URL: http://www.cs.caltech.edu/~ps/papers/forsey/
+Root-URL: http://www.cs.caltech.edu
+Title: Figure 6 Local Coordinate System UV for deformation "epsfxsize 0.9"hsize "epsffile /grads/wang/thesis/fig/eps/offtol.ps Figure 7 Offset
+Note: 100 to +100  
+Abstract-found: 0
+Intro-found: 1
+Reference: [bbbb] <author> Bartels, R., Beatty, J. and Barsky, B. </author> <title> An Introduction to Splines for Use in Computer Graphics and Geometric Modelling, </title> <publisher> Morgan Kaufmann Publishers Inc., </publisher> <address> Palo Alto, California, </address> <year> 1987. </year>
+Reference: [brig] <author> Briggs, W. </author> <title> A Multigrid Tutorial, </title> <publisher> SIAM, </publisher> <year> 1987. </year>
+Reference: [birk] <author> Birkhoff, C. and MacLane, S., </author> <title> A Survey of Modern Algebra, </title> <publisher> The Macmillan Company, </publisher> <address> New York, </address> <year> 1965. </year>
+Reference: [oslo] <author> Cohen, E., Lyche, T., and Reidenfeld, R. </author> <title> Discrete B-splines and Subdivision Techniques in Computer Aided Geometric Design and Computer Graphics, </title> <journal> Computer Graphics and Image Processing, </journal> <volume> 14(2) </volume> <pages> 87-111. </pages>
+Reference: [cohen] <author> Thingvold, J. and Cohen E., </author> <title> Physical Modeling with B-spline Surfaces for Interactive Design and Animation, </title> <booktitle> Computer Graphics 24(2) </booktitle> <pages> 129-137, </pages> <year> 1990. </year>
+Reference: [gfar] <author> Farin, </author> <title> G Curves and Surfaces for Computer Aided Geometric Design, </title> <publisher> Academic Press Inc., </publisher> <year> 1988. </year>
+Reference: [foley] <author> Foley, T. and Nielson G., </author> <title> Knot Selection for Parametric Spline Interpolation, Mathematical Methods in Computer Aided Geometric Design:261-271, edited by T. </title> <editor> Lyche and L. Schumaker, </editor> <publisher> Academic Press, </publisher> <address> Boston, </address> <year> 1989. </year>
+Reference: [dftech] <author> Forsey, D. </author> <title> Motion Control and Surface Modeling of Articulated Figures in Computer Animation, </title> <institution> Univ. of Waterloo Technical Report CS-90-28, </institution> <type> (Ph.D. Thesis) 1990. </type>
+Reference: [skel] <author> Forsey, D. </author> <title> A Surface Model for Skeleton-Based Character Animation, </title> <booktitle> Second Eurographics Workshop on Animation and Simulation, </booktitle> <address> Vienna, </address> <month> Sept. </month> <year> 1991. </year> <note> [dfbarspie]Forsey, </note> <author> D. and Bartels, R. </author> <title> Tensor Products and Hierarchical Fitting, </title> <booktitle> Proceedings IEEE Curves and Surfaces in Computer Vision and Graphics II, </booktitle> <address> Boston, </address> <month> Nov. </month> <year> 1991. </year> <note> [dfbarfit]Forsey, </note> <author> D. and Bartels, R. </author> <title> Surface Fitting with Hierarchical Splines to appear in Transactions on Graphics. </title>
+Reference: [dfbar] <author> Forsey, D., and Bartels, R. H., </author> <title> Hierarchical B-spline Refinement, </title> <booktitle> Proceedings of SIGGRAPH 88 </booktitle> <pages> 205-212, </pages> <address> Atlanta, Georgia, </address> <year> 1988. </year>
+Reference: [hack] <author> Hackbusch, W., </author> <title> Multigrid Methods and Applications, </title> <publisher> Springer-Verlag, </publisher> <year> 1985. </year>
+Reference: [elee] <author> Lee, E., </author> <title> On Choosing Nodes in Parametric curve Interpolation, </title> <booktitle> SIAM Conference on Applied Geometry, Albany, </booktitle> <address> New York, </address> <year> 1985. </year>
+Reference: [mork] <author> Lyche, T. and Morken, V., </author> <title> Knot removal for parametric B-spline curves and surfaces, </title> <booktitle> Computer Aided Geometric Design, </booktitle> <volume> 4(3) </volume> <pages> 217-230, </pages> <year> 1987. </year>
+Reference: [nahas] <author> Nahas, M., Huitric, H. and Saintourens, M., </author> <title> Animation of a B-Spline Figure, </title> <journal> The Visual Computer, </journal> <volume> 3(4), </volume> <year> 1987. </year>
+
+
+References-found: 14
+

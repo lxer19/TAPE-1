@@ -1,0 +1,10 @@
+URL: http://www.eecis.udel.edu/~bao/psfile/abstract.ps.gz
+Refering-URL: http://www.eecis.udel.edu/~bao/phdthesis.html
+Root-URL: http://www.eecis.udel.edu
+Title: ABSTRACT  
+Note: 2  
+Abstract: The best-effort QoS provided by the current packet-switched networks such as the Internet cannot support the continuous data transmission of multimedia applications in a real-time fashion. While a variety of methods have been designed to enhance the current networks with better QoS control ability, the problem of achieving reliable QoS without sacrificing the high resource utilization supported by the current networks remains open. We present a set of 3 QoS control schemes to achieve the end-to-end QoS for multimedia applications with high resource utilization: a scheduling scheme, an end-to-end QoS distribution scheme, and an admission control scheme. The designed scheduling method|OCcuPancy Adjusting (OCP A)|dynamically adjusts the resource allocations among applications sharing the resources at a network node based on the applications' QoS performances and resource utilization. The dynamics regulate the degree between resource isolation and resource sharing, and therefore support high resource utilization as well as reliable QoS. When combined with an end-to-end QoS distribution scheme, this scheduling scheme provides an end-to-end delay bound and packet loss control for multimedia applications. The designed admission control scheme uses the measurement of the residue resources to make the admission control decision. However, instead of using a fixed measurement policy as in an existing scheme, our admission control scheme adjusts the measurement of residue resources based on the QoS performances of the existing applications inside the network, thus providing self-adaptive conservativeness to better serve the dual purposes of QoS control and high resource utilization. 
+Abstract-found: 1
+Intro-found: 0
+References-found: 0
+

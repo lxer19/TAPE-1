@@ -1,0 +1,28 @@
+URL: ftp://coast.cs.purdue.edu/pub/doc/genetic_algorithms/GA/convergence-of-ga.ps.Z
+Refering-URL: http://www.cs.purdue.edu/coast/archive/data/categ20.html
+Root-URL: http://www.cs.purdue.edu
+Email: email: louis@cs.indiana.edu  
+Title: Predicting Convergence Time for Genetic Algorithms  
+Author: Sushil J. Louis Gregory J. E. Rawlins 
+Address: Bloomington, IN 47405  
+Affiliation: Department of Computer Science Indiana University  
+Abstract: It is difficult to predict a genetic algorithm's behavior on an arbitrary problem. Combining genetic algorithm theory with practice we use the average hamming distance as a syntactic metric to derive bounds on the time convergence of genetic algorithms. Analysis of a flat function provides worst case time complexity for static functions. Further, employing linearly computable runtime information, we provide bounds on the time beyond which progress is unlikely on arbitrary static functions. As a byproduct, this analysis also provides qualitative bounds by predicting average fitness.
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Ackley, D. A. </author> <title> (1987) A Connectionist Machine for Genetic Hillclimbing. </title> <publisher> Kluwer Academic Publishers. </publisher>
+Reference: [2] <author> Ankenbrandt, C. A. </author> <title> (1991) An Extension to the Theory of Convergence and a Proof of the Time Complexity of Genetic Algorithms. </title> <editor> In G. J. E. Rawlins (ed.) </editor> <booktitle> Foundations of Genetic Algorithms (San Mateo: </booktitle> <publisher> Morgan Kauffman), </publisher> <pages> 53-68. </pages>
+Reference: [3] <author> De Jong, K. A. </author> <title> (1975) An Analysis of the Behavior of a class of Genetic Adaptive Systems, </title> <type> Doctoral Dissertation, </type> <institution> Dept. of Computer and Communication Sciences, University of Michigan, </institution> <address> Ann Arbor. </address>
+Reference: [4] <author> De Jong, K. A. and Spears, W. M. </author> <title> (1991) An Analysis of Multi-Point Crossover. </title> <editor> In G. J. E. Rawlins (ed.) </editor> <booktitle> Foundations of Genetic Algorithms (San Mateo: </booktitle> <publisher> Morgan Kauffman), </publisher> <pages> 301-315. </pages>
+Reference: [5] <author> Freund, J. E. </author> <title> (1981) Statistics A First Course. </title> <publisher> Prentice-Hall. </publisher>
+Reference: [6] <author> Gayle, J. S. </author> <title> (1990) Theoretical Population Genetics. </title> <publisher> Unwin Hyman, </publisher> <pages> 56-99. </pages>
+Reference: [7] <author> Goldberg, D. E. and Deb, K. </author> <title> (1991) A Comparative Analysis of Selection Schemes Used in Genetic Algorithms. </title> <editor> In G. J. E. Rawlins (ed.) </editor> <booktitle> Foundations of Genetic Algorithms (San Mateo: </booktitle> <publisher> Morgan Kauffman), </publisher> <pages> 69-93. 19 </pages>
+Reference: [8] <author> Goldberg, D. E. </author> <title> (1989) Genetic Algorithms in Search, Optimization, and Machine Learning. </title> <publisher> Addison-Wesley. </publisher>
+Reference: [9] <editor> Goldberg, D. E., Korb, B. and Deb, Kalyanmoy. </editor> <title> (1989) Messy Genetic Algorithms: Motivation, Analysis, and First Results. TCGA Report No. </title> <type> 89002, </type> <institution> (Tuscaloosa: University of Alabama, </institution> <note> The Clearinghouse for Genetic Algorithms). </note>
+Reference: [10] <author> Goldberg, D. E. and Segrest, P. </author> <title> (1987) Finite Markov Chain Analysis of Genetic Algorithms. </title> <editor> In J. J. Grefenstette (ed.) </editor> <booktitle> Proceedings of the Second International Conference on Genetic Algorithms (Lawrence Erlbaum Associates), </booktitle> <pages> 1-8. </pages>
+Reference: [11] <author> Holland, John H. </author> <title> (1975) Adaptation In Natural and Artificial Systems (Ann Arbor: </title> <publisher> The University of Michigan Press). </publisher>
+Reference: [12] <author> Louis, S. J. and Rawlins, G. J. E. </author> <title> (1991) Designer Genetic Algorithms: Genetic Algorithms in Structures Design. </title> <editor> In R. K. Belew and L. B. Booker (eds.) </editor> <booktitle> Proceedings of the Fourth International Conference on Genetic Algorithms (San Mateo: </booktitle> <publisher> Morgan Kauffman), </publisher> <pages> 53-60. </pages>
+Reference: [13] <author> Schaffer, D. J. and Morishima, A. </author> <title> (1987) An Adaptive Crossover Distribution Mechanism for Genetic Algorithms. </title> <editor> In J. J. Grefenstette (ed.) </editor> <booktitle> Proceedings of the Second International Conference on Genetic Algorithms (Lawrence Erlbaum Associates), </booktitle> <pages> 36-40. </pages>
+Reference: [14] <author> Schaffer, J. D. and Morishima, A. </author> <title> (1988) Adaptive Knowledge Representation: A Content Sensitive Recombination Mechanism for Genetic Algorithms, </title> <journal> International Journal of Intelligent Systems (John Wiley & Sons Inc.) </journal> <volume> 3 </volume> <pages> 229-246 </pages>
+Reference: [15] <author> Syswerda, G. </author> <title> (1989) Uniform Crossover in Genetic Algorithms. </title> <editor> In J. D. Schaffer (ed.) </editor> <booktitle> Proceedings of the Third International Conference on Genetic Algorithms (San Mateo: </booktitle> <publisher> Morgan Kauffman), </publisher> <pages> 2-8. 20 </pages>
+References-found: 15
+

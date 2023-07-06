@@ -1,0 +1,49 @@
+URL: ftp://ftp.cs.bris.ac.uk/pub/users/cgc/short-flare-96.ps.Z
+Refering-URL: http://www.cs.bris.ac.uk/~cgc/papers.ml.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Email: Email: cgc@compsci.bristol.ac.uk  
+Phone: Tel: +44-117-954-5145, Fax: +44-117-954-5208  
+Title: FLARE: Induction with Prior Knowledge  
+Author: Christophe Giraud-Carrier 
+Address: BS8 1UB, England  
+Affiliation: Department of Computer Science, University of Bristol, Bristol,  
+Abstract-found: 0
+Intro-found: 1
+Reference: 1. <author> AHA, D.W., KIBLER, D. and ALBERT, </author> <title> M.K. Instance-based learning algorithms, </title> <booktitle> Machine Learning, 1991, </booktitle> <volume> Vol. 6, </volume> <pages> pp. 37-66. </pages>
+Reference: 2. <author> BUNTINE, W.L. </author> <title> A Theory of Learning Classification Rules, </title> <type> PhD Thesis, </type> <institution> 1990, University of Technology, School of Computing Science, Sidney, Australia. </institution>
+Reference: 3. <author> CLARK, K.L. </author> <title> Negation as failure, Logic and Databases, 1978, </title> <editor> H. Gallaire and J. Minker (Eds.), </editor> <publisher> Plenum Press, </publisher> <pages> pp. 293-322. </pages>
+Reference: 4. <author> CLARK, P. and NIBLETT, T. </author> <title> The CN2 induction algorithm, </title> <booktitle> Machine Learning, 1989, </booktitle> <volume> Vol. 3, </volume> <pages> pp. 261-283. </pages>
+Reference: 5. <author> COHEN, W. </author> <title> Compiling prior knowledge into an explicit bias, </title> <booktitle> Proceedings of the Ninth International Conference on Machine Learning, </booktitle> <year> 1992, </year> <pages> pp. 102-110. </pages>
+Reference: 6. <author> DEAN, T.L. and BODDY, M. </author> <title> An analysis of timedependent planning, </title> <booktitle> Proceedings of the Sixth National Conference on Artificial Intelligence, </booktitle> <year> 1988, </year> <pages> pp. 49-54. </pages>
+Reference: 7. <author> ELMAN, J.L. </author> <title> Incremental learning, or the importance of starting small, </title> <type> Technical Report CRL 9101, </type> <institution> 1991, University of California, San Diego, Center for Research in Language, La Jolla, </institution> <address> CA. </address>
+Reference: 8. <author> FLANN, N.S. and DIETTERICH, T.G. </author> <title> A study of explanation-based learning methods for inductive learning, </title> <booktitle> Machine Learning, 1989, </booktitle> <volume> Vol. 4, No. 2, </volume> <pages> pp. 187-226. </pages>
+Reference: 9. <author> GINSBERG, A. </author> <title> Theory reduction, theory revision, </title> <booktitle> and retranslation, Proceedings of the Eighth National Conference on Artificial Intelligence, </booktitle> <year> 1990, </year> <pages> pp. 777-782. </pages>
+Reference: 10. <author> GIRAUD-CARRIER, C. and MARTINEZ, T.R. </author> <title> Using precepts to augment training set learning, </title> <booktitle> Proceedings of the First New Zealand International TwoStream Conference on Artificial Neural Networks and Expert Systems, </booktitle> <year> 1993, </year> <pages> pp. 46-51. </pages>
+Reference: 11. <author> GIRAUD-CARRIER, C. and MARTINEZ, T.R. </author> <title> An efficient metric for heterogeneous inductive learning applications in the attribute-value language, </title> <booktitle> Proceedings of the Third Golden West International Conference on Intelligent Systems, 1994, </booktitle> <volume> Vol. 1, </volume> <pages> pp. </pages> <publisher> 341-350 (Kluwer Academic Publishers). </publisher>
+Reference: 12. <author> GIRAUD-CARRIER, C. and MARTINEZ, T.R. </author> <title> An incremental learning model for commonsense reasoning, </title> <booktitle> Proceedings of the Seventh International Symposium on Artificial Intelligence, </booktitle> <year> 1994, </year> <pages> pp. 134-141. </pages>
+Reference: 13. <author> GIRAUD-CARRIER, C. and MARTINEZ, T.R. ILA: </author> <title> combining inductive learning with prior knowledge and reasoning, </title> <type> Technical report CSTR-95-03, </type> <institution> 1995, University of Bristol, Department of Computer Science, Bristol, UK. </institution>
+Reference: 14. <author> GIRAUD-CARRIER, C. and MARTINEZ, T.R. </author> <title> An integrated framework for learning and reasoning, </title> <journal> Journal of Artificial Intelligence Research, 1995, </journal> <volume> Vol. 3, </volume> <pages> pp. 147-185. </pages>
+Reference: 15. <author> HALL, L.O. and ROMANIUK, S.G. </author> <title> A hybrid connectionist, symbolic learning system, </title> <booktitle> Proceedings of the Eighth National Conference on Artificial Intelligence, </booktitle> <year> 1990, </year> <pages> pp. 783-788. </pages>
+Reference: 16. <author> HARMON, P. and KING, D. </author> <title> Expert Systems, 1985, </title> <publisher> John Wiley & Sons, Inc. </publisher>
+Reference: 17. <author> MARTINEZ, T.R. </author> <title> Adaptive Self-Organizing Networks, </title> <type> PhD Thesis, </type> <institution> 1986, University of California, Los Angeles, </institution> <type> Tech. rep. </type> <note> CSD 860093. </note>
+Reference: 18. <author> MICHALSKI, </author> <title> R.S. A theory and methodology of inductive learning, </title> <journal> Artificial Intelligence, 1983, </journal> <volume> Vol. 20, </volume> <pages> pp. 111-161. </pages>
+Reference: 19. <author> MITCHELL, T.M.. </author> <title> The need for biases in learning generalisations, </title> <type> Technical report CNM-TR-5-110, </type> <institution> 1980, Rutgers University, </institution> <address> New Brunswick, NJ. </address>
+Reference: 20. <author> MUGGLETON, S. and DE RAEDT, L. </author> <title> Inductive logic programming: theory and methods, </title> <journal> Journal of Logic Programming, 1994, </journal> <volume> Vol. </volume> <pages> 19-20, pp. 629-676. </pages>
+Reference: 21. <author> MURPHY, P.M. and AHA, D.W. </author> <title> UCI repository of machine learning databases, 1992, </title> <institution> University of California, Irvine, Department of Information and Computer Science. </institution>
+Reference: 22. <author> OURSTON, D. and MOONEY, </author> <title> R.J. Theory refinement combining analytical and empirical methods, </title> <journal> Artificial Intelligence, 1994, </journal> <volume> Vol. 66, No. 2, </volume> <pages> pp. 273-309. </pages>
+Reference: 23. <author> PAZZANI, M. </author> <title> Creating high level knowledge structures from simple events, Knowledge Representation and Organization in Machine Learning, 1989, </title> <editor> K. Morik (Ed.), </editor> <booktitle> pp. </booktitle> <pages> 258-287, </pages> <publisher> Springer-Verlag. </publisher>
+Reference: 24. <author> QUINLAN, J.R. </author> <title> Inductive learning of decision trees, </title> <booktitle> Machine Learning, 1986, </booktitle> <volume> Vol. 1, </volume> <pages> pp. 81-106. </pages>
+Reference: 25. <author> REITER, R. and GRISCUOLO, G.. </author> <title> On interacting defaults, </title> <booktitle> Proceedings of the Seventh International Joint Conference on Artificial Intelligence, </booktitle> <year> 1981, </year> <pages> pp. 270-276. </pages>
+Reference: 26. <author> RUMELHART, D.E. and MCCLELLAND, J.L. </author> <title> Parallel and Distributed Processing: Explorations in the Microstructure of Cognition, </title> <booktitle> 1986, </booktitle> <volume> Vol. 1, </volume> <publisher> MIT Press. </publisher>
+Reference: 27. <author> L. SAITTA, L., BOTTA, M., RAVOTTA, S. and SPEROTTO, S. </author> <title> Improving learning using deep models, </title> <booktitle> Proceedings of the First International Workshop on Multistrategy Learning, </booktitle> <year> 1991, </year> <pages> pp. </pages> <institution> 131-143 (George Mason University Press). </institution>
+Reference: 28. <author> SALZBERG, S. </author> <title> A nearest hyperrectangle learning method, </title> <booktitle> Machine Learning, 1991, </booktitle> <volume> Vol. 6, </volume> <pages> pp. 251-276. </pages>
+Reference: 29. <author> SAWYER, B. and FOSTER, </author> <title> D.L. Programming Expert Systems in Pascal, 1986, </title> <publisher> John Wiley & Sons, Inc. </publisher>
+Reference: 30. <author> STANFILL, C. and WALTZ, D. </author> <title> Toward Memory-Based Reasoning, </title> <journal> Communications of the ACM, 1986, </journal> <volume> Vol. 29, No. 12, </volume> <pages> pp. 1213-1228. </pages>
+Reference: 31. <author> SUN, R. </author> <title> A connectionist model for commonsense reasoning incorporating rules and similarities, </title> <journal> Knowledge Acquisition, 1992, </journal> <volume> Vol. 4, </volume> <pages> pp. 293-321. </pages>
+Reference: 32. <author> TOWELL, G.G. and SHAVLIK, J.W. </author> <booktitle> Knowledge-based artificial neural networks, Artificial Intelligence, 1994, </booktitle> <volume> Vol. 70, No. </volume> <pages> 1-2, pp. 119-165. </pages>
+Reference: 33. <author> VILAIN, M., KOTON, P. and CHASE, </author> <title> M.P. On Analytical and Similarity-Based Classification, </title> <booktitle> Proceedings of the Eighth National Conference on Artificial Intelligence, </booktitle> <year> 1990, </year> <pages> pp. 867-874. </pages>
+Reference: 34. <author> WATERMAN, D.A. </author> <title> A Guide to Expert Systems, 1986, </title> <publisher> Addison Wesley. </publisher>
+Reference: 35. <author> WETTSCHERECK, D. and DIETTERICH, T.G. </author> <title> An experimental comparison of the nearest-neighbor and nearest-hyperrectangle algorithms, </title> <booktitle> Machine Learning, 1994, </booktitle> <volume> Vol. 19, </volume> <pages> pp. 5-28. </pages>
+Reference: 36. <author> ZARNDT, F. </author> <title> A Comprehensive Case Study: An Examination of Connectionist and Machine Learning Algorithms, </title> <type> Masters Thesis, </type> <institution> 1995, Brigham Young University, Department of Computer Science. </institution>
+References-found: 36
+

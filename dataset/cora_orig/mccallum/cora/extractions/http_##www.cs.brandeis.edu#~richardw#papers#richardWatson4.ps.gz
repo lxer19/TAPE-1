@@ -1,0 +1,30 @@
+URL: http://www.cs.brandeis.edu/~richardw/papers/richardWatson4.ps.gz
+Refering-URL: http://www.cs.brandeis.edu/~richardw/
+Root-URL: http://www.cs.brandeis.edu
+Title: When Food is Better than Sex: Messy Variations on the GA  
+Author: Authors: Richard A. Watson, Gregory S. Hornby, Jordan B. Pollack 
+Keyword: Potential topic areas Evolutionary Approaches Coevolutionary approaches Collective and social behavior  
+Address: 415 Soiuth Street Waltham, MA. 02254-9110. USA.  office)  (DEMO lab)  
+Affiliation: Volen National Centre for Complex Systems Brandeis University  (department  
+Note: SAB 98 submission Title:  Mail address: Computer Science Office, (mail stop 018)  (Pollacks office)  Short paper  
+Email: richardw@cs.brandeis.edu hornby@cs.brandeis.edu pollack@cs.brandeis.edu  
+Phone: phone: 781 736 2700  phone: 781 736 3366  phone: 781 736 2713  Fax: 781 736 2741  
+Web: http://www.demo.cs.brandeis.edu  
+Abstract: Endosymbiosis, the extreme form of symbiosis where one symbiont is contained within the other, usually arises via parasitism or ingestion [Margulis, 1993]. This horizontal gene-transfer results in additional genetic material, from the point of view of either organism concerned. Sexual reproduction, in contrast, involves vertical gene-transfer, and implements the exchange of genetic material in a mutually exclusive manner - i.e. the offspring has a mixture, rather than the sum, of genes from the parents. This paper compares three varieties of the Genetic Algorithm (GA), on a hierarchical building-block problem. The Simple GA utilises the usual sexual operators, cross-over and mutation, exclusively. The Messy GA [Goldberg et al, 1989] uses a splice operator, that joins variable-length genotypes, in addition to the sexual operators. And, finally, a splice-only version of the Messy GA illustrates that sex is not always required, and can even be detrimental. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> [Bull, L & Fogarty, TC, </author> <year> 1996], </year> <title> Horizontal Gene Transfer in Endosymbiosis, ALife 5, </title> <editor> editors Langton & Shimohara, pp77-84, </editor> <publisher> MIT Press. </publisher> <editor> [Deb, K & Goldberg, DE, </editor> <year> 1992], </year> <title> Sufficient conditions for deceptive and easy binary functions, </title> <type> (IlliGAL Report No. 91009), </type> <institution> University of Illinois. </institution>
+Reference: [Dumeur, R, 1996] <editor> Evolution Through Cooperation: </editor> <title> The Symbiotic Algorithm in Artificial Evolution, </title> <editor> editors Alliot, Lutton, Ronald, Snyers, Vol.1063, pp145-1587, </editor> <publisher> Springer Verlag. </publisher>
+Reference: [Forrest, S & Mitchell, M, 1993] <editor> Relative Building-block fitness and the Building-block Hypothesis, </editor> <booktitle> in Foundations of Genetic Algorithms 2, </booktitle> <publisher> Morgan Kaufmann, </publisher> <address> San Mateo, CA. </address>
+Reference: [Goldberg, DE, 1989] <editor> Genetic Algorithms in Search, </editor> <booktitle> Optimisation and Machine Learning, </booktitle> <address> Reading Massachusetts, </address> <publisher> Addison-Wesley publishing Co. </publisher>
+Reference: [Goldberg, DE, Deb, K, & Korb, B, 1989] <author> Messy Genetic Algorithms: </author> <title> Motivation, Analysis and first results, </title> <journal> Complex Systems, </journal> <volume> 3, </volume> <pages> 493-530. </pages>
+Reference: [Goldberg, DE, 1989] <institution> Genetic Algorithms in Search Optimisation and Machine Learning, </institution> <address> Reading, MA: </address> <publisher> Addison Wesley. </publisher>
+Reference: [Holland, JH, 1975] <institution> Adaptation in Natural and Artificial Systems, Ann Arbor, MI: The University of Michigan Press. </institution>
+Reference: [Kauffman, SA, 1993] <institution> The Origins of Order, Oxford University Press. </institution>
+Reference: [Mitchell, M, Holland, JH, & Forrest, S, 1995] <institution> When will a Genetic Algorithm Outperform Hill-climbing? to appear in Advances in Neural Information Processing Systems 6, </institution> <address> Mogan Kaufmann, San Mateo, CA. </address>
+Reference: [Maynard-Smith, JM and Szathmary, E, 1995] <editor> The Major Transition in Evolution, </editor> <publisher> WH Freeman and Co. </publisher>
+Reference: [Margulis, L, 1993] <editor> Symbiosis in cell evolution, 2nd ed, </editor> <publisher> WH Freeman and Co. </publisher>
+Reference: [Mitchel, M, Forrest, S, & Holland, JH, 1992] <author> The royal road for genetic algorithms: </author> <title> Fitness landscapes and GA performance, </title> <booktitle> Proceedings of the first european conference on Alife, </booktitle> <address> Cambridge, MA. </address> <publisher> MIT Press. </publisher>
+Reference: [Simon, HA, 1969] <institution> The Sciences of the Artificial Cambridge, </institution> <address> MA. </address> <publisher> MIT Press. </publisher> <editor> [Watson, RA, Hornby, GS, & Pollack, JB, </editor> <title> 1998] Hierarchical Building-Block Problems for GA Evaluation Technical Report No. </title> <institution> CS-98-15, Brandeis University, </institution> <address> MA. </address>
+References-found: 13
+

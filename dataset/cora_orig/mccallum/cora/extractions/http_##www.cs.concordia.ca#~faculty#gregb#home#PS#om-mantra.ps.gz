@@ -1,0 +1,29 @@
+URL: http://www.cs.concordia.ca/~faculty/gregb/home/PS/om-mantra.ps.gz
+Refering-URL: http://www.cs.concordia.ca/~faculty/gregb/home/paper.html
+Root-URL: http://www.cs.concordia.ca
+Email: gregb@cs.concordia.ca  ono@cs.uwindsor.ca  
+Title: Towards OM An Object-Oriented Implementation of Mantra  
+Author: Greg Butler, Tania Kharma Ono Tjandra 
+Address: Montreal Quebec H3G 1M8 Canada  Windsor Ontario Canada  
+Affiliation: Department of Computer Science Concordia University  School of Computer Science University of Windsor  
+Abstract: Mantra is a shell for hybrid knowledge representation and hybrid inferences. It supports three different formalisms: logic, frames, and semantic networks. Mantra was developed in Common Lisp at Karl-sruhe by Bittencourt and Calmet. The OM project seeks to re-engineer Mantra through the use of design patterns, the OMT notation, and C++ as the implementation language. The logic module forms the heart of Mantra. It uses Patel-Schneider's four-valued logic and a decidable inference algorithm, called t-entailment. Here we report on the design and implementation of the logic module, and the corresponding algorithms for unification and t-entailment. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Ackermann, R. </author> <year> (1967). </year> <title> Introduction to Many Valued Logics. </title> <publisher> Dover Publications Inc. </publisher> <editor> Belnap, </editor> <title> N.D (1975). How a computer should think. </title> <editor> In Ryle, G., editor, </editor> <booktitle> Contemporary Aspects of Philosophy Proceedings of the Oxford International Symposium, </booktitle> <pages> pages 30-56. </pages> <publisher> Oriel Press. </publisher>
+Reference: <author> Bittencourt, G. </author> <year> (1990). </year> <title> An Architecture for Hybrid Knowledge Representation. </title> <type> PhD Thesis, </type> <institution> Universitat Karlsruhe. </institution>
+Reference: <author> Bittencourt, G., Calmet, J., Homann, K., and Lulay, A. </author> <year> (1994). </year> <title> Mantra: A multi-level hybrid knowledge representation system. </title> <editor> In Pequeno, T. and Carvalho, F., editors, </editor> <booktitle> Proceedings of the XI Brazilian Symposium on Artificial Intelligence, </booktitle> <pages> pages 493-506. </pages>
+Reference: <author> Bittencourt, G., Calmet, J., and Tjandra, I.A. </author> <year> (1991). </year> <title> Mantra: A shell for hybrid knowledge representation. </title> <booktitle> In Tools for Artificial Intelligence. </booktitle> <publisher> IEEE Computer Society Press. </publisher>
+Reference: <author> Gamma, E., Helm, R., Johnson, R., and Vlissides, J. </author> <year> (1995). </year> <title> Design Patterns: Elements of Reusable Object-Oriented Software. </title> <publisher> Addison-Wesley. </publisher> <address> Kharma, </address> <note> Tania (1996). Reengineering Unification and t-Entailment for Mantra in C++. </note> <institution> Masters of Computer Science Thesis, Concordia University. </institution>
+Reference: <author> Levesque, H. and Brachman, R. </author> <year> (1985). </year> <title> Readings in Knowledge Representation. </title> <publisher> Morgan Kaufmann. </publisher>
+Reference: <author> Maier, David and Warren, David S. </author> <year> (1988). </year> <title> Computing with Logic. </title> <publisher> Ben-jamin/Cummings. </publisher>
+Reference: <author> Martelli, Alberto and Montanari, </author> <title> Ugo (1982). An efficient unification algorithm. </title> <journal> ACM Transactions on Programming Languages and Systems, </journal> <volume> 4(2) </volume> <pages> 258-282. </pages>
+Reference: <author> Patel-Schneider, Peter F. </author> <year> (1990). </year> <title> A decidable first order logic for knowledge representation. </title> <journal> Journal of Automated Reasoning, </journal> <volume> 6 </volume> <pages> 361-388. </pages>
+Reference: <author> Pree, </author> <title> Wolfgang (1995). Design Patterns for Object-Oriented Software Development. </title> <publisher> Addison Wesley Publishing Company. </publisher>
+Reference: <editor> Rich, </editor> <booktitle> Elaine (1983). Artificial Intelligence. </booktitle> <publisher> Mc Graw Hill Book Company. </publisher>
+Reference: <author> Rine, David C. </author> <year> (1977). </year> <title> Computer Science and Multiple Valued Logic Theory and Applications. </title> <publisher> North-Holland Publishing Company. </publisher>
+Reference: <author> Rumbaugh, J., Blaha, M., Premerlani, W., Eddy, F., and Lorenson, W. </author> <year> (1991). </year> <title> Object-Oriented Modelling and Design. </title> <publisher> Prentice Hall. </publisher>
+Reference: <author> Schoning, </author> <title> Uwe (1989). Logic for Computer Scientists. </title> <publisher> Birkhauser. </publisher>
+Reference: <author> Trum, P. and Winterstein, G. </author> <year> (1978). </year> <title> Description, implementation, and practical comparison of unification algorithms. </title> <type> Internal Rep. 6/78, </type> <institution> Fachbereich Informatik, Univ. of Kaiserlautern, Germany. </institution>
+Reference: <author> Weinand, Andre and Gamma, </author> <title> Erich (1994). ET++ | a portable, homogenous class library and application framework. </title> <booktitle> In Computer Science Research at UBILAB, Strategy and Projects; Proceedings of the UBILAB '94 Conference, </booktitle> <address> Zurich, </address> <month> September </month> <year> 1994, </year> <pages> pages 66-92. </pages> <address> Universitatsverlag Konstanz, Konstanz. </address>
+References-found: 16
+

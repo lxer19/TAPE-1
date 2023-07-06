@@ -1,0 +1,22 @@
+URL: ftp://olympos.cs.umd.edu/pub/TechReports/vldb92.ps.Z
+Refering-URL: http://www.cs.umd.edu/~christos/cpub.html
+Root-URL: 
+Title: On B-tree Indices for Skewed Distributions  
+Author: Christos Faloutsos H. V. Jagadish 
+Address: College Park, MD Murray Hill, NJ  
+Affiliation: University of Maryland AT&T Bell Laboratories  
+Abstract: It is often the case that the set of values over which a B-Tree is constructed has a skewed distribution. We present a geometric growth technique to manage postings records in such cases, and show that the performance of such a technique is better than that of a straightforward fixed length postings list: It guarantees 1 disk access on searching, and it takes a fraction of the space that its competitor requires (55% to 66%, in our experiments). 
+Abstract-found: 1
+Intro-found: 1
+Reference: <institution> Christodoulakis84a. </institution>
+Reference: <author> Christodoulakis, S., </author> <title> ``Implication of Certain Assumptions in Data Base Performance Evaluation,'' </title> <journal> ACM TODS, </journal> <month> June </month> <year> 1984. </year> <month> Faloutsos92b. </month>
+Reference: <author> Faloutsos, Christos and H.V. Jagadish, </author> <title> ``On B-tree Indices for Skewed Distributions,'' </title> <type> Technical Report, </type> <institution> Univ. of Maryland, </institution> <year> 1992. </year> <month> Faloutsos90a. </month>
+Reference: <author> Faloutsos, C., </author> <title> ``Signature-Based Text Retrieval Methods: A Survey,'' </title> <journal> IEEE Data Engineering, </journal> <volume> vol. 13, no. 1, </volume> <pages> pp. 25-32, </pages> <month> March </month> <year> 1990. </year> <month> Faloutsos92a. </month>
+Reference: <author> Faloutsos, C. and H.V. Jagadish, </author> <title> ``Hybrid Index Organizations for Text Databases,'' </title> <booktitle> EDBT '92, </booktitle> <pages> pp. 310-327, </pages> <address> Vienna, Austria, March 23-27, </address> <year> 1992. </year> <note> Also available as UMIACS-TR-91-33 and CS-TR-2621 Ioannidis91a. </note>
+Reference: <author> Ioannidis, Yannis E. and Stavros Christo-doulakis, </author> <title> ``On the Propagation of Errors in the Size of Join Results,'' </title> <booktitle> Proc. of ACM SIGMOD, </booktitle> <pages> pp. 268-277, </pages> <address> Denver, Colorado, </address> <month> May 29-31, </month> <year> 1991. </year> <month> Sacks-Davis87a. </month>
+Reference: <author> Sacks-Davis, R., A. Kent, and K. Ramamohanarao, </author> <title> ``Multikey Access Methods Based on Superimposed Coding Techniques,'' </title> <journal> ACM Trans. on Database Systems (TODS), </journal> <volume> vol. 12, no. 4, </volume> <pages> pp. 655-696, </pages> <month> Dec. </month> <year> 1987. </year>
+Reference: <institution> Wolf91a. </institution>
+Reference: <author> Wolf, Joel L., Daniel M. Dias, Philip S. Yu, and John Turek, </author> <title> ``An Effective Algorithm for Parallelizing Hash Joins in the Presence of Data Skew,'' </title> <booktitle> Proc. IEEE Conf. on Data Engineering, </booktitle> <pages> pp. 200-209, </pages> <address> Kobe, Japan, </address> <month> April 8-12, </month> <year> 1991. </year> <month> Zipf49a. </month>
+Reference: <author> Zipf, G.K., </author> <title> Human Behavior and Principle of Least Effort: An Introduction to Human Ecology, </title> <publisher> Addison Wesley, </publisher> <address> Cambridge, Mas-sachusetts, </address> <year> 1949. </year>
+References-found: 10
+

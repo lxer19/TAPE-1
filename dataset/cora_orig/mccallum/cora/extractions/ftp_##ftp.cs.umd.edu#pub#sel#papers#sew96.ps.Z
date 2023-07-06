@@ -1,0 +1,20 @@
+URL: ftp://ftp.cs.umd.edu/pub/sel/papers/sew96.ps.Z
+Refering-URL: http://www.cs.umd.edu/projects/SoftEng/ESEG/papers/papers.html
+Root-URL: 
+Phone: 3  
+Title: Evolving the Reuse Process at the Flight Dynamics Division (FDD) Goddard Space Flight Center  
+Author: S. Condon, C. Seaman, V. Basili, S. Kraft, J. Kontio, Y. Kim 
+Address: College Park, Maryland  
+Affiliation: 1 Computer Sciences Corporation, Lanham-Seabrook, Maryland 2 Computer Sciences Dept., University of Maryland,  Goddard Space Flight Center, Greenbelt, Maryland  
+Date: 1 February 25, 1997  Abstract  
+Note: sew21gss.rtf  
+Abstract: This paper presents the interim results from the Software Engineering Laboratory's (SEL) Reuse Study. The team conducting this study has, over the past few months, been studying the Generalized Support Software (GSS) domain asset library and architecture, and the various processes associated with it. In particular, we have characterized the process used to configure GSS-based attitude ground support systems (AGSS) to support satellite missions at NASA's Goddard Space Flight Center. To do this, we built detailed models of the tasks involved, the people who perform these tasks, and the interdependencies and information flows among these people. These models were based on information gleaned from numerous interviews with people involved in this process at various levels. We also analyzed effort data in order to determine the cost savings in moving from actual development of AGSSs to support each mission (which was necessary before GSS was available) to configuring AGSS software from the domain asset library. While characterizing the GSS process, we became aware of several interesting factors which affect the successful continued use of GSS. Many of these issues fall under the subject of evolving technologies, which were not available at the inception of GSS, but are now. Some of these technologies could be incorporated into the GSS process, thus making the whole asset library more usable. Other technologies are being considered as an alternative to the GSS process altogether. In this paper, we outline some of issues we will be considering in our continued study of GSS and the impact of evolving technologies. 
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> Yu, E., </author> <title> "An Organizational Modeling Framework for Multi-Perspective Information System Design," </title> <booktitle> [Conference currently unknown], </booktitle> <year> 1993(?). </year>
+Reference: 2. <author> McGarry, F., R. Pajerski, G. Page, S. Waligora, V. Basili, M. Zelkowitz, </author> <title> An Overview of the Software Engineering Laboratory, </title> <institution> Software Engineering Laboratory, SEL-94-005, </institution> <month> December </month> <year> 1994 </year>
+Reference: 3. <author> Waligora, S., J. Bailey, M. Stark, </author> <title> Impact of Ada and ObjectOriented Design in the Flight Dynamics Division at Goddard Space Flight Center, </title> <institution> Software Engineering Laboratory, SEL-95-001, </institution> <month> March </month> <year> 1995 </year>
+Reference: 4. <author> Basili, V., G. Caleiera, F. Lanubile, F. Shull, </author> <title> "Studies on Reading Techniques," </title> <booktitle> Proceedings of the Twenty-First Annual Software Engineering Workshop, </booktitle> <address> Greenbelt, MD, </address> <month> December </month> <year> 1996 </year>
+
+References-found: 4
+

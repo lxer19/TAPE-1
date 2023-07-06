@@ -1,0 +1,24 @@
+URL: ftp://ftp.cc.gatech.edu/pub/people/arkin/web-papers/visual-tracking.ps.Z
+Refering-URL: http://www.cs.gatech.edu/aimosaic/robot-lab/mrl-online-publications.html
+Root-URL: 
+Email: cardoze@cc.gatech.edu, arkin@cc.gatech.edu  
+Title: Development of Visual Tracking Algorithms for an Autonomous Helicopter  
+Author: David E. Cardoze Ronald C. Arkin 
+Address: Atlanta, Georgia, 30332  
+Affiliation: Mobile Robot Laboratory, College of Computing Georgia Institute of Technology,  
+Abstract: A visual target designation and tracking system is being developed within the context of the Autonomous Scout Rotorcraft Testbed Project at Georgia Tech. This paper describes both the algorithms and the hardware being used for this purpose by the Mission Equipment Package Technology Area Team. Preliminary results using two simple tracking algorithms are presented. 
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> Burt, P., </author> <title> "Smart Sensing within A Pyramid Vision Machine", </title> <journal> Proceeding of the IEEE, </journal> <volume> Vol. 76, No. 8, </volume> <pages> pp. 106-144, </pages> <month> August </month> <year> 1988. </year>
+Reference: 2. <author> Clark, M., </author> <title> "Robot-based real-time motion tracker", </title> <booktitle> Proc. SPIE Symposium on Advances in Intelli gent Robotics Systems, </booktitle> <pages> pp. 1-7, </pages> <year> 1989. </year>
+Reference: 3. <author> Collins, T., Cardoze, D., and Gerber, D., </author> <title> "Object-Oriented Development of an Integrated Processor System for an Unammed Aerial Vehicle", </title> <booktitle> Proc. AUVS '95 Symposium, </booktitle> <address> Washington DC, </address> <month> July </month> <year> 1995. </year>
+Reference: 4. <author> David, P.,Balakirsky, S., and Hillis, D., </author> <title> "A Real-Time Automatic Target Acquisition System", </title> <booktitle> Proc. AUVS '90 Symposium, </booktitle> <address> Dayton, OH, </address> <pages> pp 1-16, </pages> <address> July-Aug. </address> <year> 1990. </year>
+Reference: 5. <author> Gilbert, A., , Giles, M., Flachs, G., Rogers,R., Hsun, Y., </author> <title> "A Real-Time Video Tracking System", </title> <journal> IEEE Transactions on Pattern Analysis and Machine Intelligence, </journal> <volume> Vol PAM1-2, No 1, </volume> <pages> pp 47-56, </pages> <month> January </month> <year> 1980. </year>
+Reference: 6. <author> Gordon, M. and Schrage, D., </author> <booktitle> "Development Of The Georgia Tech Autonomous Scout Rotorcraft Testbed", Proc. AUVS '95 Symposium, </booktitle> <address> Washington D.C., </address> <month> July </month> <year> 1995. </year>
+Reference: 7. <author> Hager, G., Toyama, K., </author> <title> "A Framework for Real-Time Window-Based Tacking Using Off-The-Shelf Hardware", DRAFT Documentation For Version 0.95 alpha, </title> <institution> Yale University, Department of Com puter Science, </institution> <month> October 16, </month> <pages> pp 1-10, </pages> <year> 1994. </year>
+Reference: 8. <author> Kluge, K. and Thorpe, T., </author> <title> "Explicit Models for Robot Road Following", </title> <booktitle> Proc. 1989 IEEE Interna tional Conference on Robotics and Automation, </booktitle> <month> May </month> <year> 1989, </year> <title> Scottsdale, </title> <address> AZ, </address> <pages> pp. 1148-54. </pages>
+Reference: 9. <institution> Pyramid Vision 1 Alignment/Disparity Library User's Guide, SENSAR Inc, </institution> <year> 1994. </year>
+Reference: 10. <author> Samy, R., </author> <title> "Real-Time Tracking of Target Moving on Natural Textured Background", </title> <booktitle> `it SPIE Vol. 595 Computer Vision for Robots, </booktitle> <pages> pp. 142-150, </pages> <year> 1985. </year>
+
+References-found: 10
+

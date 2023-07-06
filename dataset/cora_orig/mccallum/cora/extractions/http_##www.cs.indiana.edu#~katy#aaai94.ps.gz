@@ -1,0 +1,24 @@
+URL: http://www.cs.indiana.edu/~katy/aaai94.ps.gz
+Refering-URL: http://www.cs.indiana.edu/~katy/katy_pap.html
+Root-URL: http://www.cs.indiana.edu
+Email: katy@informatik.th-leipzig.de  
+Title: Towards Formalizations in Case-Based Reasoning for Synthesis  
+Author: Katy Borner 
+Address: P.O.Box 66, 04251 Leipzig, FRG  
+Affiliation: HTWK Leipzig, Department of Informatics  
+Abstract: This paper presents the formalization of a novel approach to structural similarity assessment and adaptation in case-based reasoning (Cbr) for synthesis. The approach has been informally presented, exemplified, and implemented for the domain of industrial building design (Borner 1993). By relating the approach to existing theories we provide the foundation of its systematic evaluation and appropriate usage. Cases, the primary repository of knowledge, are represented structurally using an algebraic approach. Similarity relations provide structure preserving case modifications modulo the underlying algebra and an equational theory over the algebra (so available). This representation of a modeled universe of discourse enables theory-based inference of adapted solutions. The approach enables us to incorporate formally generalization, abstraction, geometrical transformation, and their combinations into Cbr. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Katy Borner. </author> <title> Structural similarity as guidance in case-based design. </title> <booktitle> In First European Workshop on Case-Based Reasoning (EWCBR-93), </booktitle> <publisher> LNAI, page to appear. Springer Verlag, </publisher> <year> 1994. </year>
+Reference: <author> Fausto Giunchiglia and Toby Walsh. </author> <title> A theory of abstraction. </title> <journal> Artificial Intelligence, </journal> <volume> 57 </volume> <pages> 323-389, </pages> <year> 1992. </year> <title> Ludger Hovestadt. A4 digital building extensive computer support for the design, </title> <booktitle> construction, and management of buildings. In CAAD Futures '93, Proceedings of the Fifth International Conference on Computer-Aided Architectural Design Futures, </booktitle> <pages> pages 405-422. </pages> <publisher> North-Holland, </publisher> <year> 1993. </year>
+Reference: <author> Bipin Indurkhya. </author> <title> On the role of interpretive analogy in learning. </title> <journal> New Generation Computing, </journal> <volume> 8(4) </volume> <pages> 385-402, </pages> <year> 1991. </year>
+Reference: <author> Klaus P. </author> <title> Jantke. Nonstandard concepts of similarity in case-based reasoning. </title> <editor> In M. M. Richter H. H. Bock, W. Lenski, editor, </editor> <booktitle> Information Systems and Data Analysis: Prospects -Foundations-Applications, Proceedings of the 17th Annual Conference of the GfKl, </booktitle> <institution> Univ. of Kaiserslautern, </institution> <year> 1993, </year> <pages> pages 29-44. </pages> <publisher> Springer Verlag, </publisher> <year> 1994. </year>
+Reference: <author> Janet L. Kolodner. </author> <title> Case-based reasoning. </title> <publisher> Morgan Kaufmann, </publisher> <year> 1993. </year>
+Reference: <author> Tom M. Mitchell, Richard M. Keller, and Smadar T. Kedar-Cabelli. </author> <title> Explanation-based generalization: A unifying view. </title> <journal> Machine Learning, </journal> <volume> 1 </volume> <pages> 47-80, </pages> <year> 1986. </year>
+Reference: <author> Steven Muggleton. </author> <title> Inductive logic programming. </title> <publisher> Academic Press, </publisher> <year> 1992. </year>
+Reference: <author> Scott O'Hara. </author> <title> A model of the 'redescription' process in the context of geometric proportional analogy problems. </title> <editor> In Klaus P. Jantke, editor, </editor> <booktitle> Proceedings of the International Workshop on Analogical and Inductive Inference, </booktitle> <pages> pages 268-293. </pages> <publisher> Springer Verlag, </publisher> <year> 1992. </year>
+Reference: <author> Gordon D. Plotkin. </author> <title> A note on inductive generalization. </title> <editor> In B. Meltzer and D. Michie, editors, </editor> <booktitle> Machine Intelligence 5, </booktitle> <pages> pages 153-163. </pages> <publisher> American Else-vier, </publisher> <year> 1970. </year>
+Reference: <author> Michael M. Richter. </author> <title> Classification and learning of similarity measures. </title> <booktitle> In Proceedings of the 16th Annual Meeting of the German Society for Classification in Kaiserslautern. </booktitle> <publisher> Springer Verlag, </publisher> <year> 1992. </year>
+Reference: <author> Christopher K. Riesbeck and Roger C. Schank. </author> <title> Inside Case-Based Reasoning. </title> <publisher> Lawrence Erlbaum Associates, </publisher> <address> Hillsdale, </address> <year> 1989. </year>
+References-found: 11
+

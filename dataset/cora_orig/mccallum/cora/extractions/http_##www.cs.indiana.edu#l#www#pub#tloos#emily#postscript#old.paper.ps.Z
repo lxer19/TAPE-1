@@ -1,0 +1,23 @@
+URL: http://www.cs.indiana.edu/l/www/pub/tloos/emily/postscript/old.paper.ps.Z
+Refering-URL: http://www.cs.indiana.edu/l/www/pub/tloos/emily/postscript/
+Root-URL: http://www.cs.indiana.edu
+Title: Emily: A Visualization Tool for Large Sparse Matrices  
+Author: T. Loos and R. Bramley 
+Abstract: A visualization tool for large sparse matrices and its usage is described. Examples are given, including viewing the effect of preconditioning for iterative methods for linear systems and using the tool to provide a more informative view of domain partitioning for parallel processing. Keywords sparse matrices, visualization, iterative methods, domain decomposition 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> The MathWorks Inc., </author> <title> "Matlab User's Guide", General purpose guide to Matlab, </title> <month> August </month> <year> 1992. </year>
+Reference: [2] <author> Allan M. Tuchman and Michael W. Berry, </author> <title> ""Matrix Visualization in the Design of Numerical Algorithms"", </title> <journal> ORSA Journal on Computing, </journal> <volume> vol. 2, no. 1, </volume> <pages> pp. 84-92, </pages> <month> Winter </month> <year> 1990. </year>
+Reference: [3] <author> Fernando L. Alvarado, </author> <title> ""The Sparse Matrix Manipulation System: User and Reference Manual"", </title> <type> Tech. Rep., </type> <institution> The University of Wisconsin, </institution> <month> May </month> <year> 1993. </year>
+Reference: [4] <author> Y. Saad, "SPARSKIT: </author> <title> a basic tool kit for sparse matrix computations", </title> <type> Tech. Rep. 1029, </type> <institution> Center for Supercomputing Research and Development, University of Illinois, Urbana, Illinois, </institution> <year> 1990. </year>
+Reference: [5] <author> I. Duff, R. Grimes, and J. Lewis, </author> <title> "Sparse matrix test problems", </title> <journal> ACM Transactions on Mathematical Software, </journal> <volume> vol. 15, </volume> <pages> pp. 1-14, </pages> <year> 1989. </year>
+Reference: [6] <author> Iain S. Duff, Roger G. Grimes, and John G. Lewis, </author> <title> ""Users Guide for the Harwell-Boeing Sparse Matrix Collection (Release I)"", </title> <type> Tech. Rep., </type> <institution> Cedex and Boeing Computer Services, </institution> <month> October </month> <year> 1992. </year>
+Reference: [7] <author> James D. Foley, Andries van Dam, Steven K. Feiner, and John F. Hughes, </author> <title> Computer Graphics: </title> <booktitle> Principles and Practice, </booktitle> <publisher> Addison-Wesley, </publisher> <address> Reading, MA, </address> <note> second edition, </note> <year> 1990. </year>
+Reference: [8] <author> Adobe Systems Incorporated, </author> <title> Postscript Language Reference Manual, </title> <publisher> Addison-Wesley, </publisher> <address> Reading, MA, eighteenth edition, </address> <year> 1990. </year>
+Reference: [9] <author> R. Barrett, M. Berry, T. Chan, J. Demmel, J. Donato, J. Dongarra, V. Eijkhout, R. Pozo, C. Romine, and H. van der Vorst, </author> <title> Templates for the Solution of Linear Systems: Buildings Blocks for Iterative Methods, </title> <publisher> SIAM, </publisher> <address> Philadelphia PA, first edition, </address> <year> 1994. </year>
+Reference: [10] <author> J.A. Meijerink and H. van der Vorst, </author> <title> "An iterative solution method for linear systems of which the coefficient matrix is a symmetric M-matrix", </title> <journal> Math. Comp., </journal> <volume> vol. 31, no. 137, </volume> <pages> pp. 148-162, </pages> <year> 1977. </year>
+Reference: [11] <author> Dominque Pelletier and Jean-Francois Hetu, </author> <title> "An adaptive finite element methodology for incompressible viscous flow", in Advances in Finite Element Analysis in Fluid Dynamics II, </title> <booktitle> ASME Winter Annual Meeting. ASME, </booktitle> <year> 1992. </year>
+Reference-contexts: As the second example application of emily, we examine ILU (s) preconditioning on a test matrix extracted from a computational fluid dynamics code. The matrix is of order 1128, and occurs in using an augmented Lagrangian method to solve the 2D backward facing step problem <ref> [11] </ref>. It is still an active area of research to determine how effective ILU (s) is, both in terms of the amount of storage needed and how "close" the preconditioned system is to the identity matrix.
+
+References-found: 11
+

@@ -1,0 +1,13 @@
+URL: http://www.cs.duke.edu/~jsv/Papers/Vit89.algojournal.ps.gz
+Refering-URL: http://www.cs.duke.edu/~jsv/Papers/catalog/node27.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: (page 1) Dynamic Huffman Coding  
+Author: Jeffrey Scott Vitter ; 
+Abstract: We present a Pascal implementation of the one-pass algorithm for constructing dynamic Huffman codes that is described and analyzed in a companion paper [Vitter, 1987]. The program runs in real time; that is, the processing time for each letter of the message is proportional to the length of its codeword. The number of bits used to encode a message of t letters is less than t bits more than that used by the well-known two-pass algorithm. This is best possible for any one-pass Huffman scheme. In practice it uses fewer bits than all other Huffman schemes. The algorithm has applications in file compression and network transmission. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> D. A. Huffman. </author> <title> "A Method for the Construction of Minimum Redundancy Codes," </title> <booktitle> Proceedings of the Institute of Radio Engineers, 40 (1951), </booktitle> <pages> 1098-1101. </pages>
+Reference: <author> D. E. Knuth. </author> <title> "Dynamic Huffman Coding," </title> <journal> Journal of Algorithms, </journal> <volume> 6 (1985), </volume> <pages> 163-180. </pages>
+Reference: <author> J. S. Vitter. </author> <title> "Design and Analysis of Dynamic Huffman Codes," </title> <journal> Journal of the ACM, </journal> <month> 34 4 (October </month> <year> 1987), </year> <pages> 825-845. </pages>
+References-found: 3
+

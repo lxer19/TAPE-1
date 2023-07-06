@@ -1,0 +1,14 @@
+URL: ftp://ftp.cs.unc.edu/pub/users/gregory/morphing/techRep/paper.ps.gz
+Refering-URL: http://www.cs.unc.edu/~geom/3Dmorphing/papers.html
+Root-URL: http://www.cs.unc.edu
+Email: -gregory,andrei,lin,dm,livingst-@cs.unc.edu  
+Title: Feature-based Surface Decomposition for Polyhedral Morphing  
+Author: Arthur Gregory, Andrei State, Ming C. Lin, Dinesh Manocha, Mark A. Livingston 
+Web: http://www.cs.unc.edu/~geom/3Dmorphing  
+Address: Chapel Hill  
+Affiliation: Department of Computer Science, University of North Carolina at  
+Abstract: We present a new approach for establishing correspondence for morphing between two homeomorphic polyhedral models. The user can specify corresponding feature pairs on the polyhedra with a simple and intuitive interface. Based on these features, our algorithm decomposes the boundary of each polyhedron into the same number of morphing patches. A 2D mapping for each morphing patch is computed in order to merge the topologies of the polyhedra one patch at a time. We create a morph by defining morphing trajectories between the feature pairs and by interpolating them across the merged polyhedron. The user interface provides high-level control as well as local refinement to improve the morph. The implementation has been applied to several polyhedra composed of thousands of polygons. The system can also handle homeomorphic non-simple polyhedra that have holes. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

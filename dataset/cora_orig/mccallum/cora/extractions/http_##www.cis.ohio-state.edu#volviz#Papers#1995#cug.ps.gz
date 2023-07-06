@@ -1,0 +1,25 @@
+URL: http://www.cis.ohio-state.edu/volviz/Papers/1995/cug.ps.gz
+Refering-URL: http://www.cis.ohio-state.edu/volviz/papers_date.html
+Root-URL: http://www.cis.ohio-state.edu
+Title: Parallel Volume Rendering and Data Coherence. Proceedings of Parallel Rendering Active Messages: a Mechanism for
+Author: B. Corrie, P. Mackerras. T. von Eicken, D.E. Culler, S.C. Goldstein, K.E. Schauser. M. Dippe, J. Swensen. Foley J.D., A. van Dam, S.K. Feiner, J.F. Hughes. Addision Wesley, . . N. Green, M. Kass, G. Miller. E. Hagersten, S. Haridi, D.H.D. Warren. Michel Dubois and Shreekant Thakkar, T. Joe, J.L. Hennessy. H. Kobayashi, H. Kubota, S. Horiguchi, T. Nakamura. . H. Kobayashi, S. Nishimura, H. Kubota, T. Nakamura, Y. Shegei. . Y. Kurzion R. Yagel. A. Law, R. Yagel. CellFlow: -, . . M. Levoy. . J. Rohlf J. Helman. IRIS Performer: J. Nieh, M. Levoy. . P. Stenstrom, T. Joe, A. Gupta. . J.K. Udupa D. Odhner. R. Yagel and W. Ray, . K. Ying, P. Schmalbrock, B.D. Clymer, Echo-Time Magn. Reson. 
+Degree: thesis.  
+Date: May 1992.  330-335, May 1990.  24(4):367-376, August 1990.  
+Address: Baltimore, Maryland, 1978.  
+Affiliation: Computer Graphics  Schwartzenburg, Inc.  
+Note: 4.  Symposium, October 1993, pp. 23-26. 5.  Proceedings of the 19th International Symposium on Computer Architecture. Gold Coast, Australia, May 1992, pp. 256-266. 6.  18(3), 1984. pp. 149-158. 7.  ibility, Proceedings of SIGGRAPH93, pp. 231-238. 9. S.A.  Applications, November 1989, pp. 12-26. 10.  cessors. Kluwer Academic Publishers, 1990. 11.  IEEE Computer, September 1994, pp. 82-93. 12. A. Kaufman. Volume Visualization, IEEE CS Press, 1991. 13.  Deflectors. The 6th Eurographics Workshop on Render ing. Dublin, June 1995, pp. 21-32. 16.  IEEE Computer Graphics and Applications, Vol. 8, No. 5, May 1988, pp. 29-37. 18. W. Messerklinger. Endoscopy of the Nose. Urban and  3D Graphics, Proceedings of SIGGRAPH 94. Orlando, Florida, July 1994, pp. 381-395. 20.  1992 Workshop on Volume Visualization. Boston, MA, pp.  Architectures. Proceedings of the 19th Annual International Symposium on Computer Architecture. pp. 80-91.  Proceedings of the First Conference on Visualization in Biomedical Computing. pp.  23. L. Westover. Footprint Evaluation for Volume Rendering. Proceedings of SIGGRAPH 90, Computer Graph ics,  25.  Med., 33:82-87, 1995.  
+Abstract: 10 CUG 1995 Fall Proceedings 2. H. Burkhardt III, S. Frank, B. Knobe, J. Rothnie. Overview of the KSR1 Computer System. Technical Report KSR-TR-9202001, Kendall Square Research, Boston, February 1992. 3. J.G. Cleary, B. Wyvill, G.M. Birtwistle, R. Vatti. Multiprocessor Ray Tracing. Research Report 83/128/17, Uni versity of Calgary, October 1983. 24. R. Yagel and J. Meeker. Priority Driven Ray Tracing. Technical Report OSU-CISRC-8/95-TR35, Department of Computer and Information Science, The Ohio State University, August 1995. 
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <institution> RQST </institution>
+Reference: 2. <institution> FRWD </institution>
+Reference: 3. <editor> DATA from other processors. </editor> <title> (b) A 2-hop invalidation process for discarding a cell from a processors memory. R=requesting processor, H=home node, and D=closest processor containing the requested cell. R H </title>
+Reference: 1. <institution> INVRQST </institution>
+
+Reference: 4. <author> INVRQST: </author> <title> Whenever a processors local memory exceeds a pre-specified limit, an LRU scheme is used to purge some locally available cells. Before removing a cell, the processor asks the home nodes permission to do so by sending an IN-VRQST message. When a home node receives the invalidation request, it checks whether this is the last copy of the cell in the system. If other copies exist, it sends an invalidation message (INV) to the processor to purge the cell from its memory. Otherwise, it does nothing. </title>
+
+Reference: 1. <author> RQST: </author> <title> This message is used for requesting a cell not available locally. The requesting processor passes the request for the cell to the home node. The home node, upon receiving this request, traverses its directory looking for the processor closest to the requesting processor that holds a copy of the requested cell. </title>
+Reference: 2. <author> FRWD: </author> <title> The home node forwards the request to the closest processor, instructing it to pass the requested cell to the requesting processor. Upon receiving a FRWD message, a processor sends the appropriate cell (a DATA message) to the requesting processor. </title>
+
+References-found: 7
+

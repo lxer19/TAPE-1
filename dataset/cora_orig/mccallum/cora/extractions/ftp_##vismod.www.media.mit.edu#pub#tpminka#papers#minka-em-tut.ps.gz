@@ -1,0 +1,17 @@
+URL: ftp://vismod.www.media.mit.edu/pub/tpminka/papers/minka-em-tut.ps.gz
+Refering-URL: http://www.media.mit.edu/~tpminka/papers/tutorial.html
+Root-URL: http://www.media.mit.edu
+Title: The Expectation-Maximization Algorithm for MAP Estimation  
+Author: Thomas P. Minka 
+Abstract: The Expectation-Maximization algorithm given by Dempster et al (1977) has enjoyed considerable popularity for solving MAP estimation problems. This note gives a simple derivation of the algorithm, due to Luttrell (1994), that better illustrates the convergence properties of the algorithm and its variants. The algorithm is illustrated with two examples: pooling data from multiple noisy sources and fitting a mixture density.
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> M. S. Bazaraa and C. M. Shetty. </author> <title> Nonlinear Programming. </title> <publisher> John Wiley and Sons, </publisher> <address> New York, </address> <year> 1979. </year>
+Reference: [2] <author> C. M. Bishop. </author> <title> Neural Networks for Pattern Recognition. </title> <publisher> Clarendon Press, Oxford, </publisher> <year> 1995. </year>
+Reference: [3] <author> Wray Buntine. </author> <title> Computation with the exponential family and graphical models. Tutorial given at NATO Workshop on Learning in Graphical Models, </title> <type> Erice, </type> <institution> Italy, </institution> <month> September </month> <year> 1996. </year> <note> http://www.ultimode.com/~wray, 1996. 7 </note>
+Reference: [4] <author> A. P. Dempster, N. M. Laird, and D. B. Rubin. </author> <title> Maximum-likelihood from incomplete data via the EM algorithm. </title> <journal> J. Royal Statistical Society B, </journal> <volume> 39 </volume> <pages> 1-38, </pages> <year> 1977. </year>
+Reference: [5] <author> Stephen P. Luttrell. </author> <title> Partitioned mixture distribution: an adaptive bayesian network for low-level image processing. </title> <booktitle> IEE Proc on Vision, Image and Signal Processing, </booktitle> <volume> 141(4) </volume> <pages> 251-260, </pages> <month> August </month> <year> 1994. </year>
+Reference: [6] <author> Radford M. Neal and Geoffrey E. Hinton. </author> <title> A new view of the EM algorithm that justifies incremental and other variants. </title> <type> Technical report, </type> <institution> University of Toronto, Dept of Computer Science, </institution> <year> 1993. </year> <note> http://www.cs.toronto.edu/~radford/em.abstract.html. </note>
+Reference: [7] <author> Richard A. Redner and Homer F. Walker. </author> <title> Mixture densities, maximum likelihood and the EM algorithm. </title> <journal> SIAM Review, </journal> <volume> 26(2) </volume> <pages> 195-239, </pages> <month> April </month> <year> 1984. </year> <month> 8 </month>
+References-found: 7
+

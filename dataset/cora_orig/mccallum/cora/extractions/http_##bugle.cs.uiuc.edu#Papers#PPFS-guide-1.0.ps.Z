@@ -1,0 +1,15 @@
+URL: http://bugle.cs.uiuc.edu/Papers/PPFS-guide-1.0.ps.Z
+Refering-URL: http://bugle.cs.uiuc.edu/Projects/PPFS/1.0_info.html
+Root-URL: http://www.cs.uiuc.edu
+Email: (ppfs@cs.uiuc.edu)  
+Title: Users' Guide for PPFS: A High-Performance Portable Parallel File System  
+Author: James V. Huber, Jr. Christopher L. Elford Daniel A. Reed Andrew A. Chien David S. Blumenthal Ilker Hamzaoglu Andrew J. Lavery Michael P. Mesnier James P. Oly 
+Web: (http://www-pablo.cs.uiuc.edu/Projects/PPFS)  
+Address: Urbana, Illinois 61801  
+Affiliation: Department of Computer Science University of Illinois  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> Huber, J. V., Elford, C. L., Reed, D. A., Chien, A. A., and Blumenthal, D. S. </author> <title> PPFS: </title>
+Reference-contexts: Receive the parallel file */ pfile=ppfs_recv_file ("THEFILE"); for (;rno&lt;REQ_COUNT;rno+=NUM_CLI) /* While I need to write records */ write_logical (pfile,BIG_BUFFER,rno,1); /* Write one record number rno */ fprintf (stderr,"%d has written its records!"n",me); ppfs_close (pfile); return 0; - 12 6 Finding More Information More information on PPFS may be obtained from <ref> [1] </ref>, [2], [3], [4], and [5]. You may also browse the PPFS homepage at http://www-pablo.cs.uiuc.edu/Projects/PPFS/ppfs.html.
+References-found: 1
+

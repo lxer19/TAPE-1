@@ -1,0 +1,12 @@
+URL: ftp://ftp.cs.york.ac.uk/pub/realtime/papers/LCTS_CBW_US.ps.Z
+Refering-URL: http://www.csd.uu.se/~bjornfot/r2.html
+Root-URL: 
+Title: Integrated program proof and worst-case timing analysis of SPARK Ada.  
+Author: Roderick Chapman Alan Burns Andy Wellings 
+Address: York, U.K.  
+Affiliation: The BAe Dependable Computing Systems Centre, University of  
+Abstract: This paper describes work in progress at the University of York on worst-case timing analysis of software for hard real-time and safety-critical systems. We are pursuing a programming environment that combines the technologies of program proof and timing analysis. In short, the analytical power afforded by a classical program proof tool is ideal for the high-level analysis of timing properties. The main thrust of our work, then, has been to investigate how these technologies can be integrated to their mutual benefit. This paper describes our current ideas and results in this field. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

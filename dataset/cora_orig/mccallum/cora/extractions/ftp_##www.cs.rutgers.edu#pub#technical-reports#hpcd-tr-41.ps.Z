@@ -1,0 +1,19 @@
+URL: ftp://www.cs.rutgers.edu/pub/technical-reports/hpcd-tr-41.ps.Z
+Refering-URL: http://www.cs.rutgers.edu/pub/technical-reports/
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Email: keane@cs.rutgers.edu  
+Title: Extensions to the Franz, Inc.'s Allegro Common Lisp Foreign Function Interface  
+Author: John Keane 
+Note: Abstract Acknowledgments The research presented in this document is supported in part by NASA grants NCC-2-802 and NAG2-817. This research is also part of the Rutgers-based HPCD (Hypercomputing and Design) project supported by the Advanced Research Projects Agency of the Department of Defense through contract ARPA-DABT 63-93-C-0064.  
+Date: January, 1996  
+Address: New Brunswick, NJ  
+Affiliation: Department of Computer Science Rutgers University  
+Abstract: As provided by Franz, Inc., the foreign function interface of Allegro Common Lisp has a number of limitations. This paper describes extensions to the interface that facilitate the inclusion of C and Fortran code into Common Lisp systems. In particular, these extensions make it easy to utilize libraries of numerical subroutines (such as those from Numerical Recipes in C) from within ACL, including those routines that take functions as arguments. A mechanism for creating Lisp-like dynamic runtime "closures" for C routines is also described. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [ Franz, 1993 ] <author> Franz. </author> <title> Allegro Common Lisp User's Guide (Version 4.2). </title> <institution> Franz Inc., Berkeley, California, </institution> <year> 1993. </year>
+Reference-contexts: 1 Motivation Allegro Common Lisp, from Franz, Inc., provides a means for Lisp routines to utilize subroutines written in C and Fortran, called the foreign function interface. <ref> [ Franz, 1993 ] </ref> . Though adequate for most purposes, the foreign function interface is not as easy to use as might be desired, and does not support certain kinds of interface with foreign code as straightforwardly as we might wish.
+Reference: [ Press et al., 1986 ] <author> W. Press, B. Flannery, S. Teukolsky, and W. Vetterling. </author> <title> Numerical Recipes in C, 2d ed. </title> <publisher> Cambridge University Press, </publisher> <address> New York, NY, </address> <year> 1986. </year>
+Reference-contexts: This allows many problems to be avoided that occur when global variables are overwritten during nested function calls. 7 Example This is an example of the foreign function extensions applied to the function newt, from Numerical Recipes in C <ref> [ Press et al., 1986 ] </ref> . This routine takes two function pointers as arguments, the function to solve for the roots of, and a function to compute the Jacobian of the first function.
+References-found: 2
+

@@ -1,0 +1,13 @@
+URL: file://ftp.cs.utexas.edu/pub/qsim/papers/Kuipers-aij-93b.ps.Z
+Refering-URL: http://www.cs.utexas.edu/users/qr/papers-QR.html
+Root-URL: 
+Title: Qualitative Simulation: Then and Now Qualitative reasoning about physical systems has become one of the
+Author: Benjamin Kuipers B. J. Kuipers. 
+Address: Austin, Austin TX USA  
+Affiliation: Group at the Artificial In- telligence Laboratory, The University of Texas at Austin. Research of  Computer Sciences Dept., University of Texas at  
+Note: 1993. Qualitative simulation: then and now. Artificial Intelligence 59: 133-140.  This work has taken place in the Qualitative Reasoning  the Qualitative Reasoning Group is supported in part by NSF grants IRI-8905494 and IRI-8904454, by NASA grant NAG 2-507, and by the Texas Advanced Research Program under grant no. 003658-175.  
+Abstract: In the retrospective on my 1984 paper, "Commonsense reasoning about causality: deriving behavior from structure", I describe the framework for qualitative reasoning that has motivated this work, and the applications that have come out of that framework. That paper includes the conjecture that the structural and behavioral representations for qualitative simulation could be rigorously shown to be abstractions of ordinary differential equations and their solutions. My 1986 paper, "Qualitative simulation", established that conjecture and legitimized the term qualitative differential equation or QDE. It also presented the clear and efficient QSIM algorithm. In this retrospective, I describe aspects of the body of work on qualitative simulation that has developed from there. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

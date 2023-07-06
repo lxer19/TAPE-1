@@ -1,0 +1,19 @@
+URL: ftp://ftp.cm.deakin.edu.au/pub/TR/Computing/rhodos/TR-C93-12.ps.gz
+Refering-URL: http://gollum.cm.deakin.edu.au/techreports.html
+Root-URL: 
+Email: (spl@deakin.edu.AU)  
+Title: The Development Of The Driver For The Lance Am7990 Ethernet Chip  
+Author: S.P. Larcombe 
+Note: This work was partly supported by the Australian Research Council under grant A48831034 and Deakin University Research Grant 0504054151.  
+Address: Geelong, Victoria 3217  
+Affiliation: School of Computing and Mathematics Deakin University  
+Date: September 8, 1994  
+Pubnum: RHODOS  
+Abstract: This report describes the requirements and considerations taken into account for the design of an ethernet driver for a Sun 3/50 fitted with a Lance Am7990 ethernet chip. A description of the interface between the ethernet driver, RRDP and the IPC Manager is given. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [Goscinski et al. 1991] <author> A. Goscinski, J. Indulska, P. Reynolds, W. Toomey. </author> <title> The Development of the RHODOS Network Manager Technical Report CS91/8 22/2/91. </title>
+Reference: [Reynolds 1991] <author> P. Reynolds, W. Toomey, </author> <title> The Implementation of the RHODOS Network Manager Under Unix Technical Report CS91/9 22/2/91. </title>
+Reference: [Advanced Micro Devices 1992] <institution> Ethernet/IEEE 802.3 Family 1992 World Network Data Book/ Handbook. </institution>
+References-found: 3
+

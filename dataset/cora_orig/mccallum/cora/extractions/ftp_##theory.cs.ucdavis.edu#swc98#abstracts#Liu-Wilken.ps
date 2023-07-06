@@ -1,0 +1,18 @@
+URL: ftp://theory.cs.ucdavis.edu/swc98/abstracts/Liu-Wilken.ps
+Refering-URL: http://theory.cs.ucdavis.edu/~blackj/swc98/proceedings/
+Root-URL: http://www.cs.ucdavis.edu
+Title: Instruction Scheduling Using Integer Programming  
+Author: Jack Liu Kent Wilken 
+Affiliation: Department of Electrical and Computer Engineering University of California at Davis  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> David Goodwin and Kent Wilken. </author> <title> Optimal and near-optimal global register allocation using 0-1 integer programming . Software-Practice and Experience, </title> <booktitle> 26(8) </booktitle> <pages> 929-965, </pages> <month> August </month> <year> 1996. </year>
+Reference-contexts: This project explored instruction scheduling using integer programming, which had been successfully applied in optimal global register allocation <ref> [1] </ref> . An efficient integer programming formulation for optimal local instruction scheduling has been developed and will be extended in future work. This paper presented an approach by using integer programming to schedule instructions optimally within a basic block.
+Reference: [2] <author> H.P. William. </author> <title> Model Building in Mathematical Programming . New York: </title> <publisher> Wiley & Sons, </publisher> <year> 1990. </year>
+Reference-contexts: Integer programming (IP) is the problem of computing a setting of n integer variables (x 1 n ), such that an objective function f ( x 1 n ) is maximized/minimized under the constraint ( ) BxxA T n 1 for an integer matrix A and an integer vector B <ref> [2] </ref> . An IP formulation is used to schedule instructions within a basic block. The formulation uses a series of scheduling variables. S cheduling variable is a 0-1 integer-program variable for each instruction, for each clock cycle.
+Reference: [3] <author> Rainer Leupers and Peter Marwedel. </author> <title> Time-constrained code compaction for DSPs. </title> <journal> In IEEE Transactions VLSI Systems. </journal> <volume> 5(1) </volume> <pages> 112-122, </pages> <month> March </month> <year> 1997. </year>
+Reference-contexts: IP scheduler also failed to solve 6 of the 198 basic blocks within the 100 seconds time limit. 5. Summary and Future Work Lupers and Marwedel had done an approach to map NP-complete instruction scheduling problem into an IP model <ref> [3] </ref> . In Lupers paper, the IP solver time would increase exponentially with respect to the IP problems upper bound, which was the number of clock cycles a basic block will take to finish.
+Reference: [4] <author> Steven S. Muchnick. </author> <title> Advanced Compiler Design Implementation. </title> <publisher> Morgan Kaufmann, </publisher> <year> 1997. </year>
+Reference-contexts: The nodes in a dependence DAG represent machine instructions and its edges represent dependencies between the instructions. The weight of the edges represent the latency between the two connected instructions. For further information about DAG and basic block, reader can refer to <ref> [4] </ref>. To simplify a DAG, a series of techniques had been developed as follows: Tighten lower bound and upper bound of each instruction. Lower bound of an instruction is the earliest clock cycle at which the instruction can be issued.
+References-found: 4
+

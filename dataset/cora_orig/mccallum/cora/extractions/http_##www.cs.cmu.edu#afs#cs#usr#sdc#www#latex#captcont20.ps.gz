@@ -1,0 +1,20 @@
+URL: http://www.cs.cmu.edu/afs/cs/usr/sdc/www/latex/captcont20.ps.gz
+Refering-URL: http://www.cs.cmu.edu/afs/cs/usr/sdc/www/latex/captcont.html
+Root-URL: 
+Email: sdc+@cs.cmu.edu  
+Title: The captcont package  
+Author: Steven Douglas Cochran 
+Note: Contents  
+Address: 5000 Forbes Avenue Pittsburgh, PA 15213-3891, USA  
+Affiliation: Digital Mapping Laboratory, School of Computer Science Carnegie-Mellon University,  
+Abstract: This article documents the L A T E X package `captcont', which provids support for retaining a figure or caption number across several float environments| usually over several pages. It allows selective control over the contents of the List-of-Figures and the List-of-Tables pages. It should be compatible with all other packages that modify or extend the float environment and with the subfigure' package [3] in particular.
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> David Carlisle, </author> <title> The longtable package, </title> <publisher> 1997/10/16. </publisher>
+Reference-contexts: 1 Introduction The captcont package provides support for figures and tables that continue or span two or more pages, but cannot be easily handled by another mechanism such as fl This paper documents the captcont package v2.0, last revised 1997/03/13. 1 the longtable package <ref> [1] </ref> or the supertabular environment [2]. The reason for this is usually that the figure or table is made up of multiple small parts. Therefore this package is also compatible with the subfigure package [3].
+Reference: [2] <author> Johannes Braams and Theo Jurriens, </author> <title> The supertabular environment, </title> <publisher> 1997/10/16. </publisher>
+Reference-contexts: 1 Introduction The captcont package provides support for figures and tables that continue or span two or more pages, but cannot be easily handled by another mechanism such as fl This paper documents the captcont package v2.0, last revised 1997/03/13. 1 the longtable package [1] or the supertabular environment <ref> [2] </ref>. The reason for this is usually that the figure or table is made up of multiple small parts. Therefore this package is also compatible with the subfigure package [3].
+Reference: [3] <author> Steven Douglas Cochran, </author> <title> The subfigure package, </title> <journal> 1998/01/05. </journal> <volume> 10 </volume>
+Reference-contexts: The reason for this is usually that the figure or table is made up of multiple small parts. Therefore this package is also compatible with the subfigure package <ref> [3] </ref>. This L A T E X 2 " version replaces the older L A T E X2.09 version written by Anonymous.
+References-found: 3
+

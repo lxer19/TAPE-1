@@ -1,0 +1,19 @@
+URL: http://www.cs.columbia.edu/~shaw/papers/bcc93.ps.gz
+Refering-URL: http://www.cs.columbia.edu/~shaw/papers/index.html
+Root-URL: http://www.cs.columbia.edu
+Title: User-Needs Analysis and Design Methodology for an Automated Documentation Generator  
+Author: K. Kukich K. McKeown N. Morgan and J. Phillips J. Robin, J. Shaw and J. Lim 
+Address: 445 South Street  Morristown, NJ 07960-6438 New York, NY 10027  
+Affiliation: Bellcore Computer Science Department  Columbia University  
+Note: To appear in: Proceedings of the Fourth Bellcore/BCC Symposium on User-Centered Design, November 3-5, 1993, Piscataway, NJ  
+Abstract: Telephone network planning engineers routinely study feeder routes within the telephone network in order to create and refine network capacity expansion (relief) plans. In doing so they make use of a powerful software tool called LEIS-PLAN. We are developing an extension to PLAN called PLANDoc that will automatically generate natural language narratives documenting the engineers' use of PLAN. In this paper, we present the user-needs analysis and design methodology we have used in developing the PLANDoc system. We describe our interviews with various end users to determine if such a system would be desirable and what design factors would make it useful. We show how we model the system on a set of iteratively-revised human-generated narratives. The model narratives determine the function and architecture of the documentation system, and they inform the development of the system components. 
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> M. Elhadad, ``FUF: </author> <title> The universal unifier user manual, </title> <type> version 5.0,'' </type> <institution> CUCS-038-91, Columbia University, </institution> <year> 1991. </year>
+Reference: 2. <author> M. Elhadad, </author> <title> ``Using argumentation to control lexical choice: a unification-based approach,'' </title> <type> Ph.D. Thesis, </type> <institution> Computer Science Department, Columbia University, </institution> <year> 1992. </year>
+Reference: 3. <author> Karen Kukich, </author> <title> ``Design and Implementation of a Knowledge-Based Report Generator,'' </title> <booktitle> in Proceedings of the 21st Annual Meeting of the Association for Computational Linguistics, </booktitle> <pages> pp. 145-150, </pages> <publisher> MIT, </publisher> <address> Cambridge, Massachusetts, </address> <month> 15-17 June </month> <year> 1983. </year>
+Reference: 4. <author> Thomas Landauer, Dennis Egan, Joel Remde, Michael Lesk, Carol Lochbaum, and Daniel Ketchum, </author> <title> ``Enhancing the Usability of Text Through Computer Delivery and Formative Evaluation: The SuperBook Project,'' in Hypertext: A Psychological Perspective, </title> <editor> ed. A. Dillon and C. McKnight, </editor> <year> 1993. </year>
+Reference: 5. <author> K. R. McKeown, </author> <title> Text Generation: Using Discourse Strategies and Focus Constraints to Generate Natural Language Text, </title> <publisher> Cambridge University Press, </publisher> <address> Cambridge, England, </address> <year> 1985. </year> <month> - 6 </month> - 
+Reference: 6. <author> Jakob Nielsen, </author> <title> Usability Engineering, </title> <publisher> Academic Press, </publisher> <address> San Diego, CA, </address> <year> 1993. </year>
+References-found: 6
+

@@ -1,0 +1,18 @@
+URL: ftp://ftp.cs.kun.nl/pub/CSI/SoftwEng.FunctLang/papers/smes92-sequentiality.ps.gz
+Refering-URL: http://www.cs.kun.nl/~clean/Clean.Papers.html
+Root-URL: 
+Title: aaaaaaa Term Graph Rewriting and Strong Sequentiality  
+Author: Sjaak Smetsers 
+Affiliation: University of Nijmegen  
+Abstract: Abstract This paper propagates the use of term graph rewriting systems as a formal computational model. The definition of both term graphs and the reduction relation on term graphs are more complex than their corresponding notions in term rewriting systems. Consequently, it is often believed that reasoning about term graph rewriting systems is inherently more difficult than reasoning about term rewriting systems. In this paper we will show that it is very well possible to investigate formal properties of term graph rewriting systems entirely within the framework of these systems. First, we will establish a basic theory based on graph homomorphisms and the term graph reduction relation. In this theory the concepts of index and strong sequentiality are incorporated. Lastly, we will prove that index reduction is normalising for the so-called strongly sequential term graph rewriting systems.
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Barendregt, H.P., M.C.J.D. van Eekelen, J.R.W. Glauert, J.R. Kennaway, M.J. </author> <title> Plas-meijer and M.R. Sleep (1987). Term graph reduction, </title> <booktitle> Proc. of Parallel Architectures and Languages Europe (PARLE), </booktitle> <address> Eindhoven, The Netherlands, </address> <publisher> Springer Verlag, LNCS 259 II, </publisher> <pages> pp. 141-158. </pages>
+Reference: <author> Barendsen, Erik and Sjaak Smetsers (1992). </author> <title> Graph rewriting and copying, </title> <institution> Technical Report 92-20 , University of Nijmegen. </institution>
+Reference: <author> Huet, G. and J.J. Levy (1979). </author> <title> Call by need computations in non-ambiguous linear term rewriting systems, </title> <type> Technical Report 359 , INRIA. </type>
+Reference: <author> Kennaway, J.R. </author> <year> (1991). </year> <title> Graph rewriting in some categories of partial homomorphisms, </title> <editor> in: Kreowski Ehrig and Rozenberg (eds.), </editor> <booktitle> Proc. of 4th International Workshop on Graph-Grammars and Their Application to Computer Science, </booktitle> <publisher> Springer Verlag, LNCS 532, </publisher> <pages> pp. 490-504. </pages>
+Reference: <author> Kennaway, J.R., J.W. Klop, </author> <title> M.R. Sleep and F.J. de Vries (1990). Transfinite reductions in orthogonal term rewriting systems, </title> <type> Technical Report CS9041 , CWI. </type>
+Reference: <author> Klop, J.W. and A. </author> <title> Middeldorp (1991). Sequentiality in orthogonal term rewriting systems, </title> <journal> Journal of symbolic computation. </journal>
+Reference: <author> Raoult, J.C. </author> <year> (1984). </year> <title> On graph rewritings, </title> <booktitle> Theoretical Computer Science. </booktitle> <pages> 19 </pages>
+References-found: 7
+

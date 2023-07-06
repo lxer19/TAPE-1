@@ -1,0 +1,29 @@
+URL: ftp://ftp.cse.unsw.edu.au/pub/users/andrewt/parma_jlp96.ps.gz
+Refering-URL: http://www.cse.unsw.edu.au/~andrewt/
+Root-URL: http://www.cse.unsw.edu.au
+Title: PARMA BRIDGING THE PERFORMANCE GAP BETWEEN IMPERATIVE AND LOGIC PROGRAMMING  
+Author: ANDREW TAYLOR 
+Date: 1994:19, 20:1-679 1  
+Note: J. LOGIC PROGRAMMING  
+Abstract: Parma is an experimental high-performance Prolog compiler for the MIPS RISC architecture [?]. It was the first logic programming implementation to obtain performance comparable to imperative languages. It depends heavily on a global static analysis phase based on abstract interpretation. This paper describes the important components of Parma's implementation and discusses performance results including analysis of the incremental benefits of some components of the compiler. / 
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> R. Sethi A. Aho and J. Ullman. </author> <booktitle> Compilers, Principles, Techniques and Tools. </booktitle> <publisher> Addison-Wesley, </publisher> <year> 1986. </year>
+Reference: 2. <author> M. Carlsson and J. Widen. </author> <title> Sicstus Prolog users manual. </title> <type> Technical Report R88007B, </type> <institution> SICS, </institution> <year> 1988. </year>
+Reference-contexts: Here is the result: p_append_3 () - r2 = CONST ([]) if (call_1 == r2) goto L2 L4: r3 = call_1 [-2] call_1 = call_1 <ref> [2] </ref> call_3 [0] = globalp call_3 = globalp + 2 globalp [-2] = r3 globalp = globalp + 8 if (call_1 != r2) goto L4 L2: *call_3 = call_2 goto successp - The code generator translates intermediate code to the MIPS assembly language: p_append_3: li $2, 5 L4: lw $3, -2
+Reference: 3. <author> P. Cousot and R. Cousot. </author> <title> Abstract interpretation: a unified lattice model for static analysis of programs by construction of fixed points. </title> <booktitle> In 4th ACM Symposium on Principles of Programming Languages, </booktitle> <pages> pages 78-88, </pages> <year> 1977. </year>
+Reference: 4. <author> G. Kane. </author> <title> MIPS RISC Architecture. </title> <publisher> Prentice-Hall, </publisher> <address> Englewood Cliffs NJ, </address> <year> 1988. </year>
+Reference: 5. <author> C. S. Mellish. </author> <title> Some global optimizations for a Prolog compiler. </title> <journal> Journal of Logic Programming, </journal> <volume> 2(1) </volume> <pages> 43-66, </pages> <year> 1987. </year>
+Reference: 6. <author> P. Van Roy and A. Despain. </author> <title> The benefits of global dataflow analysis for an optimizing Prolog compiler. </title> <booktitle> In North American Conference on Logic Programming, </booktitle> <month> October </month> <year> 1990. </year>
+Reference: 7. <author> Peter Van Roy. </author> <title> Can Logic Programming Execute as Fast as Imperative Programming. </title> <type> PhD thesis, </type> <institution> University of California, Berkeley, </institution> <year> 1990. </year>
+Reference: 8. <author> Peter Van Roy. </author> <year> 1983-1993: </year> <title> The wonder years of sequential Prolog implementation. </title> <journal> Journal of Logic Programming, </journal> <year> 1994. </year>
+Reference: 9. <author> L. Sterling and U. Shapiro. </author> <title> The Art of Prolog. </title> <publisher> MIT Press, </publisher> <year> 1986. </year>
+Reference: 10. <author> A. Taylor. </author> <month> ftp://ftp.cse.unsw.edu.au/pub/users/andrewt/prolog benchmarks.gz. </month>
+Reference: 11. <author> A. Taylor. </author> <title> Removal of dereferencing and trailing in Prolog compilation. </title> <booktitle> In Sixth International Conference on Logic Programming, </booktitle> <month> July </month> <year> 1989. </year>
+Reference: 12. <author> A. Taylor. </author> <title> Lips on a MIPS: Results from a Prolog compiler for a RISC. </title> <booktitle> In Seventh International Conference on Logic Programming, </booktitle> <month> July </month> <year> 1990. </year>
+Reference: 13. <author> A. Taylor. </author> <title> High Performance Prolog Implementation. </title> <type> PhD thesis, </type> <institution> University of Sydney, ftp://cse.unsw.edu.au/pub/users/andrewt/phd thesis.ps.gz, </institution> <year> 1991. </year>
+Reference: 14. <author> C.-J. Peng V.S. Madan and G. S. Sohi. </author> <title> On the adequacy of direct mapped caches for lisp and Prolog data references patterns. </title> <booktitle> In Proceedings of the North American Conference on Logic Programming, </booktitle> <month> October </month> <year> 1989. </year>
+Reference: 15. <author> D.H.D. Warren. </author> <title> Applied Logic Its Use and Implementation as a Programming Tool. </title> <type> PhD thesis, </type> <institution> University of Edinburgh, </institution> <year> 1977. </year>
+Reference: 16. <author> D.H.D. Warren. </author> <title> An abstract Prolog instruction set. </title> <type> Technical Report 309, </type> <institution> SRI International, </institution> <address> Menlo Park, California, </address> <year> 1983. </year>
+References-found: 16
+

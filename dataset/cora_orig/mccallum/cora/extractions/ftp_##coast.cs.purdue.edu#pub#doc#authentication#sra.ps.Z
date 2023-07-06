@@ -1,0 +1,15 @@
+URL: ftp://coast.cs.purdue.edu/pub/doc/authentication/sra.ps.Z
+Refering-URL: http://www.cs.purdue.edu/coast/archive/data/categ9.html
+Root-URL: http://www.cs.purdue.edu
+Title: Secure RPC Authentication (SRA) for TELNET and FTP  
+Author: David R. Safford, David K. Hess, and Douglas Lee Schales 
+Address: College Station, TX 77843-3363  
+Affiliation: Supercomputer Center Texas A&M University  
+Abstract: 1. Abstract 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Brian A. LaMacchia and Andrew M. Odlyzko. </author> <title> "Computation of Discrete Logarithms in Prime Fields", Designs, Codes, </title> <journal> and Cryptography, </journal> <volume> volume 1, </volume> <year> 1991, </year> <month> pp46-62. </month>
+Reference-contexts: One disadvantage of the method is that, unlike more comprehensive public key methods, it does not provide mutual repudiation. The server does validate the user's identity, but the client does not perform server authentication. A second weakness is that Secure RPC is subject to logarithm attacks <ref> [1] </ref>, although such attacks are not trivial. The proposed design for Telnet and FTP reduces this exposure by computing a new random secret/public key pair for each connection. A third possible limitation is that the underlying Diffie-Hellman algorithm is patented.
+Reference: [2] <author> RFC 1057 "RPC: </author> <title> Remote Procedure Call Protocol Specification, </title> <note> Version 2.", ftp.uu.net:/inet/rfc/rfc1057.Z </note>
+References-found: 2
+

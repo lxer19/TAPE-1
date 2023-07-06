@@ -1,0 +1,14 @@
+URL: http://www.eecis.udel.edu/~iren/research/milcom98-iren.ps.gz
+Refering-URL: http://www.eecis.udel.edu/~iren/research.html
+Root-URL: http://www.eecis.udel.edu
+Email: Email: firen,amer,acaro,sezen,taubeg@cis.udel.edu  Email: conrad@acm.org  
+Title: NETWORK-CONSCIOUS COMPRESSED IMAGE TRANSMISSION OVER BATTLEFIELD NETWORKS  
+Author: Sami Iren Paul D. Amer Armando Caro Gul Sezen Mason Taube Phillip T. Conrad 
+Note: a Prepared through collaborative participation in the Advanced Telecommunications/Information Distribution Research Program (ATIRP) Consortium sponsored by the U.S. Army Research Laboratory under the Federated Laboratory Program, Cooperative Agreement DAAL01-96-2-0002. This work also supported, in part, by ARO (DAAH04-94-G-0093).  
+Address: 19716 USA  Philadelphia, PA 19122 USA  
+Affiliation: Department of Computer and Information Sciences University of Delaware, Newark, DE  Department of Computer and Information Sciences Temple University  
+Abstract: We introduce an image compression and transmission system for battlefield networks. The system is based on network-conscious image compression, an approach to compression that does not simply maximize compression, but which optimizes overall performance when compressed images are transmitted over a lossy, packet-switched battlefield network. Using an Application Level Framing philosophy, an image is compressed into path-MTU-size Application Data Units (ADUs) at the application layer. Each ADU is independent of others and carries its own semantics, that is, each ADU is a self-contained unit possessing all information necessary for decoding and displaying the information within that packet. Each independent ADU can be delivered to the receiving application out-of-order, thereby enabling faster progressive display of the image. We combine network-conscious image compression with an embedded focusing feature to provide a system that can be used in battlefield scenarios such as telemedicine or intelligence gathering. a 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

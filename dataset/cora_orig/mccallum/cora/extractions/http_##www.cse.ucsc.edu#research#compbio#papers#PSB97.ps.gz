@@ -1,0 +1,23 @@
+URL: http://www.cse.ucsc.edu/research/compbio/papers/PSB97.ps.gz
+Refering-URL: http://www.cse.ucsc.edu/~dkulp/
+Root-URL: http://www.cse.ucsc.edu
+Email: dkulp@cse.ucsc.edu, haussler@cse.ucsc.edu  mgreese@lbl.gov, fheeckman@lbl.gov  
+Title: Integrating Database Homology in a Probabilistic Gene Structure Model  
+Author: David Kulp, David Haussler Martin G. Reese, Frank H. Eeckman 
+Address: Santa Cruz CA, 95064, USA  1 Cyclotron Road, Berkeley, CA 94720  
+Affiliation: Baskin Center for Computer Engineering and Computer Science University of California,  Genome Informatics Group Lawrence Berkeley National Laboratory  
+Abstract: We present an improved stochastic model of genes in DNA, and describe a method for integrating database homology into the probabilistic framework. A generalized hidden Markov model (GHMM) describes the grammar of a legal parse of a DNA sequence. Probabilities are estimated for gene features by using dynamic programming to combine information from multiple sensors. We show how matches to homologous sequences from a database can be integrated into the probability estimation by interpreting the likelihood of a sequence in terms of the bit-cost to encode a sequence given a homology match. We also demonstrate how homology matches in protein databases can be exploited to help identify splice sites. Our experiments show significant improvements in the sensitivity and specificity of gene structure identification when these new features are added to our gene-finding system, Genie. Experimental results in tests using a standard set of annotated genes showed that Genie identified 95% of coding nucleotides correctly with a specificity of 91%, and 77% of exons were identified exactly.
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> A. Krogh, M. Brown, I. S. Mian, K. Sjolander, and D. Haussler. </author> <title> Hidden Markov models in computational biology: Applications to protein modeling. </title> <journal> JMB, </journal> <volume> 235 </volume> <pages> 1501-1531, </pages> <month> February </month> <year> 1994. </year>
+Reference: 2. <author> D. Kulp, D. Haussler, M. Reese, and F. Eeckman. </author> <title> A generalized hidden Markov model for the recognition of human genes in DNA. </title> <booktitle> In ISMB-96, </booktitle> <address> St. Louis, June 1996. </address> <publisher> AAAI Press. </publisher>
+Reference: 3. <author> E. Snyder and G. Stormo. </author> <title> Indentification of protein coding regions in genomic dna. </title> <journal> JMB, </journal> <volume> 248, </volume> <year> 1995. </year>
+Reference: 4. <author> L. R. Rabiner and B. H. Juang. </author> <title> An introduction to hidden Markov models. </title> <journal> IEEE ASSP Magazine, </journal> <volume> 3(1) </volume> <pages> 4-16, </pages> <month> January </month> <year> 1986. </year>
+Reference: 5. <author> S. F. Altshul, W. Gish, W. Miller, Myers E. W., and Lipman D. J. </author> <title> Basic local alignment search tool. </title> <journal> J. Mol. Biol., </journal> <volume> 215, </volume> <year> 1990. </year>
+Reference: 6. <author> W. Gish and D. J. </author> <title> States. Identification of protein coding regions by database similarity search. </title> <journal> Nature Genetics, </journal> <volume> 3, </volume> <year> 1993. </year>
+Reference: 7. <author> Steven Henikoff and Jorja G. Henikoff. </author> <title> Automated assembly of protein blocks for database searching. </title> <journal> NAR, </journal> 19(23) 6565-6572, 1991. 
+Reference: 8. <author> K. Sjolander, K. Karplus, M. P. Brown, R. Hughey, A. Krogh, I. S. Mian, and D. Haussler. </author> <title> Dirichlet mixtures: A method for improving detection of weak but significant protein sequence homology. </title> <journal> CABIOS, </journal> <volume> 12(4), </volume> <year> 1996. </year>
+Reference: 9. <author> M. Burset and R. Guigo. </author> <title> Evaluation of gene structure prediction programs. </title> <journal> Genomics, </journal> <volume> 34(3) </volume> <pages> 353-367, </pages> <year> 1996. </year> <title> Data set and evaluation results can be found at http://www.imim.es/GeneIdentification/Evaluation/Index.html. </title>
+Reference: 10. <author> R. Guigo, S. Knudsen, N. Drake, and T. Smith. </author> <title> Prediction of gene structure. </title> <journal> J. Mol. Biol., </journal> <volume> 226 </volume> <pages> 141-157, </pages> <year> 1992. </year>
+References-found: 10
+

@@ -1,0 +1,19 @@
+URL: ftp://ftp.aifb.uni-karlsruhe.de/pub/ren/ICML97/paperA.ps.Z
+Refering-URL: http://www.aifb.uni-karlsruhe.de/WBS/ICML97/proceedings.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Abstract-found: 0
+Intro-found: 1
+Reference: <author> Almuallim, H. & Dietterich, T. G. </author> <year> (1992). </year> <title> Efficient algorithms for identifying relevant features. </title> <booktitle> In Proceedings of the 9th Canadian Conference on Artificial Intelligence. </booktitle> <pages> 38-45. </pages> <address> Vancouver, BC: </address> <publisher> Morgan Kaufmann. </publisher>
+Reference: <author> Brodley, C. & Smyth, P. </author> <year> (1996). </year> <title> Applying Classification Algorithms in Practice, </title> <journal> Statistics and Computing, </journal> <note> in press. </note>
+Reference: <author> Fayyad, U., Haussler, D. & Stolorz, P. </author> <year> (1996a). </year> <title> KDD for Science Data Analysis: Issues and Exemples. </title> <note> In E. </note>
+Reference: <editor> Simoudis, J. Han & U. Fayyad (eds.), </editor> <booktitle> The Second International Conference on Knowledge Discovery & Data Mining, </booktitle> <pages> 50-56. </pages> <address> CA, </address> <publisher> AAAI Press. </publisher>
+Reference: <author> Fayyad, U., Piatetsky-Shapiro, G. & Smyth, P. </author> <year> (1996b). </year> <title> Advances in Knowledge Discovery and Data Mining, </title> <publisher> AAAI/MIT Press. </publisher>
+Reference: <author> John, G.H., Kohavi, R. & Peger, K. </author> <year> (1994). </year> <title> Irrelevant features and the subset selection problem. </title> <booktitle> In Proceeding of The 11th International Conference on Machine Learning. </booktitle> <pages> 121-129. </pages> <address> CA: </address> <publisher> Morgan Kaufmann. </publisher>
+Reference: <author> Katz, A.J., Gately, M.T. & Collins, D.R. </author> <year> (1990). </year> <title> Robust classifiers without robust features, </title> <journal> Neural Computation, </journal> <volume> 2, </volume> <pages> 472-479. </pages> <address> Cambridge, Mass. </address> : <publisher> MIT Press. </publisher>
+Reference: <author> Kubat, M. & Matwin, S. </author> <year> (1997). </year> <title> Addressing the Curse of Imbalanced Training Sets: One-Sided Selection. </title> <booktitle> To appear in Proceeding of The 14th International Conference on Machine Learning. </booktitle> <address> Nashville, Tennessee. </address>
+Reference: <author> Musick, R., Catlett, J. & Russell, S. </author> <year> (1993). </year> <title> Decision Theoretic Subsampling for Induction on Large Databases, </title> <booktitle> Proceedings of the 10th International Conference on Machine Learning, </booktitle> <pages> pp. 212-219. </pages> <address> CA: </address> <publisher> Morgan Kaufmann. </publisher>
+Reference: <author> Saitta, L., Giordana, A. & Neri, F. </author> <year> (1995). </year> <title> What is the Real World? In Proceedings of the Workshop on Applying Machine Learning in Practice, </title> <booktitle> at the 12th International Conference on Machine Learning. </booktitle> <pages> 34-40. </pages> <address> CA. </address>
+Reference: <author> Turney, P. </author> <year> (1996). </year> <title> The Identification of Context-Sensitive Features: A Formal Definition of Context for Concept Learning. </title> <booktitle> Proceedings of the Workshop on Learning in Context-Sensitive Domains, at the 13th International Conference on Machine Learning. </booktitle> <pages> 53-59. </pages> <address> Bari, Italy. </address>
+
+References-found: 11
+

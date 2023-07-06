@@ -1,0 +1,24 @@
+URL: http://c.gp.cs.cmu.edu:5103/afs/cs/usr/sdc/www/latex/subfigure21.ps.gz
+Refering-URL: http://c.gp.cs.cmu.edu:5103/afs/cs/usr/sdc/www/latex/subfigure.html
+Root-URL: http://www.cs.cmu.edu
+Email: sdc+@cs.cmu.edu  
+Title: The subfigure package  
+Author: Steven Douglas Cochran 
+Note: Contents  
+Address: 5000 Forbes Avenue Pittsburgh, PA 15213-3891, USA  
+Affiliation: Digital Mapping Laboratory, School of Computer Science Carnegie-Mellon University,  
+Abstract:  
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Harald Axel Sommerfeldt, </author> <title> The caption package, </title> <publisher> 1995/04/05. </publisher>
+Reference-contexts: If you want to define references using "label, then you need to redefine the L A T E X internal "@currentlabel. For example: "makeatletter "edef"@currentlabel-"p@subfigure"thesubfigure "makeatother 4.7.3 The caption and captcont packages The only packages that directly interact with the subfigure package are the caption/caption2 packages by H.A. Sommerfeldt <ref> [1, 2] </ref> and the captcont package by S.D. Cochran [3]. <p> By default, the sub-captions are not printed. 46 "let"ext@subtable"ext@table 22 47 "newcommand-"l@subtable--% 48 "@dottedxxxline-"ext@subtable-2--3.8em--2.5em-- 49 "newcounter-lotdepth-50 "setcounter-lotdepth-1-51 5.5 Declaration of options The following options allow general compatibility with the caption package by H.A. Sommerfeldt <ref> [1] </ref>. There are five different sub-caption options supported: normal, hang (or isu), center, centerlast (or anne) and nooneline. The hang sub-caption may be combined with the center or centerlast options.
+Reference: [2] <author> Harald Axel Sommerfeldt, </author> <title> The caption package, </title> <publisher> 1995/10/09. </publisher>
+Reference-contexts: If you want to define references using "label, then you need to redefine the L A T E X internal "@currentlabel. For example: "makeatletter "edef"@currentlabel-"p@subfigure"thesubfigure "makeatother 4.7.3 The caption and captcont packages The only packages that directly interact with the subfigure package are the caption/caption2 packages by H.A. Sommerfeldt <ref> [1, 2] </ref> and the captcont package by S.D. Cochran [3].
+Reference: [3] <author> Steven Douglas Cochran, </author> <title> The captcont package, </title> <publisher> 1997/01/22. </publisher>
+Reference-contexts: For example: "makeatletter "edef"@currentlabel-"p@subfigure"thesubfigure "makeatother 4.7.3 The caption and captcont packages The only packages that directly interact with the subfigure package are the caption/caption2 packages by H.A. Sommerfeldt [1, 2] and the captcont package by S.D. Cochran <ref> [3] </ref>. If you load the subfigure package before the caption package, then the caption will detect that fact and will change the "subcapsize when the options scriptsize, . . . , Large are specified (overriding such options used when loading the subfigure package).
+Reference: [4] <author> Leslie Lamport, </author> <title> LaTeX User's Guide and Reference Manual, 2nd edition, </title> <publisher> Addison-Wesley, </publisher> <address> Reading, Massachusetts, </address> <year> 1994. </year>
+Reference-contexts: The third option, FIGBOTCAP, is similar to figbotcap, except that it also causes the subfigure's caption to be placed under the figure This is the default setting and is shown in figure 22. 2 See <ref> [4] </ref> page 33 and sections 3.5.1 and 2.2.3 for a more detailed description of "moving arguments" and "fragile" commands 6 (a) Short. (b) This is a long caption of giber--ish: Aafas d taed gaihgghn adf iri abdn sadfna aets etsd. (a) Short. (b) This is a long caption of giber-ish: Aafas
+Reference: [5] <author> Donald Ervin Knuth, </author> <title> The T E Xbook, </title> <publisher> Addison-Wesley, </publisher> <address> Reading, Massachusetts, </address> <year> 1986. </year>
+Reference-contexts: It ignores some spaces and carrage-returns and converts others to "space's or "par's. You can use a `%' to insure that you only have real spaces where you want them. To understand which spaces are significant, you should read chapter 8 of the T E Xbook <ref> [5] </ref>. However, the main source of unexpected extra spacing is carrage-returns which are turned in to 17 "space's. Take a look at the examples in section 3 for an example.
+References-found: 5
+

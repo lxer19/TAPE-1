@@ -1,0 +1,14 @@
+URL: ftp://ftp.cc.gatech.edu/pub/coc/tech_reports/1993/GIT-CC-93-26.ps.Z
+Refering-URL: http://www.cs.gatech.edu/tech_reports/index.93.html
+Root-URL: 
+Title: Using Knowledge to Optimally Achieve Coordination in Distributed Systems  
+Author: Gil Neiger Rida A. Bazzi 
+Address: Atlanta, Georgia 30332-0280  
+Affiliation: College of Computing Georgia Institute of Technology  
+Date: April 9, 1993  
+Pubnum: GIT-CC-93/26  
+Abstract: The problem of coordinating the actions of individual processors is fundamental in distributed computing. Researchers have long endeavored to find efficient solutions to a variety of problems involving coordination. Recently, processor knowledge has been used to characterize such solutions and to derive more efficient ones. Most of this work has concentrated on the relationship between common knowledge and simultaneous coordination. This paper takes an alternative approach, considering problems in which coordinated actions need not be performed simultaneously. This approach permits better understanding of the relationship between knowledge and the different requirements of coordination problems. This paper defines the ideas of optimal and optimum solutions to a coordination problem and precisely characterizes the problems for which optimum solutions exist. This characterization is based on combinations of eventual common knowledge and continual common knowledge. The paper then considers more general problems, for which optimal, but no optimum, solutions exist. It defines a new form of knowledge, called extended common knowledge, which combines eventual and continual knowledge, and shows how extended common knowledge can be used to both characterize and construct optimal protocols for coordination. fl This work was supported in part by the National Science Foundation under grants CCR-8909663 and CCR-9106627. An earlier version of this paper appeared in Yoram Moses, editor, Proceedings of the Fourth Conference on Theoretical Aspects of Reasoning about Knowledge, pages 43-59. Morgan-Kaufmann, March 1993. y This author was supported in part by a scholarship from the Hariri Foundation. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

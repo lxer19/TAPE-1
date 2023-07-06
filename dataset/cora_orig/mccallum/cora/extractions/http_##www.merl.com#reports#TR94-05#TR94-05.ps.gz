@@ -1,0 +1,23 @@
+URL: http://www.merl.com/reports/TR94-05/TR94-05.ps.gz
+Refering-URL: http://www.merl.com/reports/TR94-05/index.html
+Root-URL: 
+Title: The evaluation of Anapron: A case study in evaluating a case-based system  
+Author: Andrew R. Golding Paul S. Rosenbloom 
+Address: Seattle, WA,  Cambridge, Massachusetts 02139  
+Note: In Working Notes of the AAAI-94 Workshop on Case-Based Reasoning, pages 84-90,  Copyright c Mitsubishi Electric Research Laboratories, 1994 201 Broadway,  
+Date: May 1994  1994  
+Web: http://www.merl.com  
+Affiliation: MITSUBISHI ELECTRIC RESEARCH LABORATORIES  Information Sciences Institute and Computer Science Department, University of Southern California  
+Pubnum: TR-94-05  
+Abstract: This paper presents a case study in evaluating a case-based system. It describes the evaluation of Anapron, a system that pronounces names by a combination of rule-based and case-based reasoning. Three sets of experiments were run on Anapron: a set of exploratory measurements to profile the system's operation; a comparison between Anapron and other name-pronunciation systems; and a set of studies that modified various parts of the system to isolate the contribution of each. Lessons learned from these experiments for CBR evaluation methodology and for CBR theory are discussed. This work may not be copied or reproduced in whole or in part for any commercial purpose. Permission to copy in whole or in part without payment of fee is granted for nonprofit educational and research purposes provided that all such whole or partial copies include the following: a notice that such copying is by permission of Mitsubishi Electric Research Laboratories of Cambridge, Massachusetts; an acknowledgment of the authors and individual contributions to the work; and all applicable portions of the copyright notice. Copying, reproduction, or republishing for any other purpose shall require a license with payment of fee to Mitsubishi Electric Research Laboratories. All rights reserved. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> J. Allen, M. S. Hunnicutt, and D. Klatt. </author> <title> From Text to Speech: The MITalk System. </title> <publisher> Cambridge University Press, </publisher> <address> Cambridge, </address> <year> 1987. </year>
+Reference-contexts: The method requires two main knowledge sources for each subtask: a set of rules, and a case library. The rules for transcription and, to a lesser extent, for stress were based on MITalk <ref> (Allen et al. 1987) </ref> and introductory grammar texts for French, German, Italian, and Span-ish. There are 619 transcription rules and 29 stress rules. The case library was derived from a pronouncing dictionary of 5000 names. In addition to 2 DECtalk is a trademark of Digital Equipment Corporation.
+Reference: <author> T. G. Dietterich, H. Hild, and G. Bakiri. </author> <title> A com parative study of ID3 and backpropagation for English text-to-speech mapping. </title> <booktitle> In Proceedings of 7th IMLW, </booktitle> <address> Austin, 1990. </address> <publisher> Morgan Kaufmann. </publisher>
+Reference-contexts: BP-legal is vanilla NETtalk; BP-block is NETtalk enhanced with a "block decoding" postprocessor <ref> (Dietterich et al. 1990) </ref>.
+Reference: <author> A. R. Golding. </author> <title> Pronouncing Names by a Combina tion of Rule-Based and Case-Based Reasoning. </title> <type> PhD thesis, </type> <institution> Stanford University, </institution> <year> 1991. </year>
+Reference: <author> A. R. Golding and P. S. Rosenbloom. </author> <title> Improving rule-based systems through case-based reasoning. </title> <booktitle> In Proceedings of AAAI-91, </booktitle> <address> Anaheim, </address> <year> 1991. </year>
+Reference: <author> A. R. Golding and P. S. Rosenbloom. </author> <title> A comparison of Anapron with seven other name-pronunciation systems. </title> <journal> Journal of the American Voice In-put/Output Society, </journal> <volume> 14, </volume> <year> 1993. </year> <month> MERL-TR-94-05 90 May </month> <year> 1994 </year>
+References-found: 5
+

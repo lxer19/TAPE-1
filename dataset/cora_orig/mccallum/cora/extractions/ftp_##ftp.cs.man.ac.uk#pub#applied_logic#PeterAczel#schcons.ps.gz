@@ -1,0 +1,20 @@
+URL: ftp://ftp.cs.man.ac.uk/pub/applied_logic/PeterAczel/schcons.ps.gz
+Refering-URL: http://www.cs.man.ac.uk/~petera/ftp_papers.html
+Root-URL: http://www.cs.man.ac.uk
+Title: Schematic Consequence  
+Author: Peter Aczel 
+Affiliation: Manchester University  
+Abstract: The aim of this note is first to set up some general theory for discussing different aspects of the notion of a logic and then to draw attention to the schematic aspects of logic and suggest a way of capturing this aspect without making any commitment to the kind of syntax a logic should have. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [Avron, 1991] <author> Axiomatic Systems, </author> <title> Deduction and Implication, </title> <type> Tech. Report 203/91, </type> <institution> Institute of Computer Sciences, Tel-Aviv University. </institution>
+Reference-contexts: In the next section below we give some definitions relevent to the first issue. We focus on finitary traditional consequence. More general notions are of interest. See for example <ref> [Avron, 1991] </ref>. But the more restricted and familiar notion of a consequence relation will be good enough for our present purposes. We also introduce several other notions which are relevent in connection with the formation of consequence relations either operationally from an axiomatic system or semantically from a semantic system.
+Reference: [Barwise, 1974] <institution> Axioms for Abstract Model Theory, </institution> <note> Annals of Mathematical Logic, 7 (1974) 221-265. </note>
+Reference: [Goguen and Burstall, 1990] <author> Institutions: </author> <title> Abstract Model Theory for Specification and Programming, </title> <type> Edinburgh LFCS Report 90-106. </type>
+Reference: [Harper, Sannella and Tarlecki, 1989] <editor> Structure and Representation in LF, </editor> <booktitle> A version appeared in the proceedings of the 4th LICS meeting, </booktitle> <year> 1989. </year>
+Reference: [Harper, Honsell and Plotkin, 1987] <institution> A Framework for defining logics In Proc. </institution> <note> LICS 87. </note>
+Reference: [Meseguer,1989] <author> General Logics, </author> <booktitle> Proc. Logic Colloquium '87, edited by H.D. </booktitle> <editor> Ebbinghaus et al., </editor> <publisher> North Holland, </publisher> <year> 1989. </year>
+Reference: [Scott, 1982] <editor> Domains for Denotational Semantics, </editor> <booktitle> in the proceedings of ICALP, Springer Lecture Notes in Computer Science 140 (1982). </booktitle> <pages> 9 </pages>
+Reference-contexts: As in the previous section the categories and functors that we will consider are all "over the category of sets". There is an interesting relationship between the notion of a consequence relation and Scott's notion of an information system, (see <ref> [Scott, 1982] </ref>). This gives rise to a relationship between closure systems and Scott domains. Essentially a Scott Information System can be viewed as a consequence relation (A; `) and a consistency notion Con for it; i.e.
+References-found: 7
+

@@ -1,0 +1,40 @@
+URL: ftp://ftp.cse.ucsc.edu/pub/tr/ucsc-crl-91-26.ps.Z
+Refering-URL: ftp://ftp.cse.ucsc.edu/pub/tr/README.html
+Root-URL: http://www.cse.ucsc.edu
+Title: Tracking Drifting Concepts By Minimizing Disagreements  
+Author: David P. Helmbold and Philip M. Long 
+Address: Santa Cruz, CA 95064 USA  
+Affiliation: Baskin Center for Computer Engineering Information Sciences University of California, Santa Cruz  
+Date: August 1991, revised August 1992  
+Pubnum: UCSC-CRL-91-26  
+Abstract:  
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> M. Anthony, N. Biggs, and J. Shawe-Taylor, </author> <year> (1990). </year> <title> The learnability of formal concepts. </title> <booktitle> The 1990 Workshop on Computational Learning Theory, </booktitle> <pages> 246-257. </pages>
+Reference: <author> D. Angluin and L. Valiant, </author> <year> (1979). </year> <title> Fast probabilistic algorithms for Hamiltonion circuits and matchings. </title> <journal> Journal of Computer and System Sciences, </journal> <volume> 18(2) </volume> <pages> 155-193. </pages>
+Reference: <author> D. Aldous and U. Vazirani, </author> <year> (1990). </year> <title> A Markovian extension of Valiant's learning model. </title> <booktitle> Proceedings of the 31st Annual Symposium on the Foundations of Computer Science, </booktitle> <pages> pages 392-396. </pages>
+Reference: <author> N. Abe and O. Watanabe, </author> <year> (1992). </year> <title> Polynomially sparse variations and reducibility among prediction problems. </title> <journal> IEICE Trans. Inf. & Syst., </journal> <volume> E75-D(4):449-458, </volume> <year> 1992. </year>
+Reference: <author> A. Blumer, A. Ehrenfeucht, D. Haussler, and M.K. Warmuth, </author> <year> (1989). </year> <title> Learnability and the Vapnik-Chervonenkis dimension. </title> <journal> JACM, </journal> <volume> 36(4) </volume> <pages> 929-965. </pages>
+Reference: <author> A. Ehrenfeucht, D. Haussler, M. Kearns, and L.G. Valiant, </author> <year> (1989). </year> <title> A general lower bound on the number of examples needed for learning. </title> <journal> Information and Computation, </journal> <volume> 82(3) </volume> <pages> 247-251. </pages>
+Reference: <author> D. Haussler, </author> <year> (1991). </year> <title> Decision theoretic generalizations of the PAC model for neural net and other learning applications. </title> <type> Technical Report UCSC-CRL-91-02, </type> <institution> University of California at Santa Cruz. </institution>
+Reference: <author> D.P. Helmbold and P.M. Long, </author> <year> (1991). </year> <title> Tracking drifting concepts using random examples. </title> <booktitle> The 1991 Workshop on Computational Learning Theory, </booktitle> <pages> pages 13-23. </pages>
+Reference-contexts: It can be shown by modifying the proofs of Section 3, that for c* 3 =(d ln (1=*)), an algorithm can achieve probability of mistake at most t + * for all large enough t <ref> (Helmbold and Long, 1991) </ref>. One wonders whether these results can be improved. Haussler (1991) has generalized the results of Blumer, et al (1989) to apply to learning in many frameworks, one of which is the learning of real valued functions.
+Reference: <author> D. Haussler, N. Littlestone, and M.K. Warmuth, </author> <year> (1988). </year> <title> Predicting f0; 1g functions on randomly drawn points. </title> <booktitle> Proceedings of the 29th Annual Symposium on the Foundations of Computer Science, </booktitle> <pages> pages 100-109. </pages>
+Reference: <author> David Haussler, Nick Littlestone, and Manfred Warmuth, </author> <year> (1990). </year> <title> Predicting f0; 1g-functions on randomly drawn points. </title> <type> Technical Report UCSC-CRL-90-54, </type> <institution> University of California Santa Cruz. </institution> <note> To appear in Information and Computation. </note>
+Reference: <author> T. Hagerup and C. Rub, </author> <year> (1990). </year> <title> A guided tour of Chernov bounds. </title> <journal> Information Processing Letters, </journal> <volume> 33 </volume> <pages> 305-308. </pages>
+Reference: <author> M. Kearns and M. Li, </author> <year> (1988). </year> <title> Learning in the presence of malicious errors. </title> <booktitle> Proceedings of the 20th ACM Symposium on the Theory of Computation, </booktitle> <pages> pages 267-279. </pages>
+Reference: <author> T. Kuh, T. Petsche, and R. Rivest, </author> <year> (1990). </year> <title> Learning time varying concepts. </title> <booktitle> In NIPS 3. </booktitle> <publisher> Morgan Kaufmann. </publisher>
+Reference: <author> T. Kuh, T. Petsche, and R. Rivest, </author> <year> (1991). </year> <title> Mistake bounds of incremental learners when concepts drift with applications to feedforward networks. </title> <booktitle> In NIPS 4. </booktitle> <publisher> Morgan Kaufmann. </publisher>
+Reference: <author> N. Littlestone, </author> <year> (1989). </year> <title> Mistake Bounds and Logarithmic Linear-threshold Learning Algorithms. </title> <type> PhD thesis, </type> <institution> UC Santa Cruz. </institution>
+Reference: <author> P.M. Long, </author> <year> (1992). </year> <title> Towards a more comprehensive theory of learning in computers. </title> <type> PhD thesis, </type> <institution> UC Santa Cruz. </institution>
+Reference-contexts: Nevertheless, it remains possible that, via other methods, one might obtain efficient algorithms that track these classes at rates even closer to optimal. The results of this section have recently been improved somewhat <ref> (Long, 1992) </ref>, but the linear dependence on d remains. 5 Upper bounds on the tolerable amount of drift In this section we prove upper bounds on the tolerable amount of drift for two commonly studied concept classes: halfspaces and axis-aligned rectangles.
+Reference: <author> N. Littlestone and M.K. Warmuth, </author> <year> (1989). </year> <title> The weighted majority algorithm. </title> <booktitle> Proceedings of the 30th Annual Symposium on the Foundations of Computer Science. </booktitle>
+Reference: <author> D. Pollard, </author> <year> (1984). </year> <title> Convergence of Stochastic Processes. </title> <publisher> Springer Verlag. </publisher>
+Reference: <author> L. Pitt and L.G. Valiant, </author> <year> (1988). </year> <title> Computational limitations on learning from examples. </title> <journal> Journal of the Association for Computing Machinery, </journal> <volume> 35(4) </volume> <pages> 965-984. </pages>
+Reference: <author> L. Pitt and M.K. Warmuth, </author> <year> (1990). </year> <title> Prediction preserving reducibility. </title> <journal> Journal of Computer and System Sciences, </journal> <volume> 41(3). </volume>
+Reference-contexts: The following theorem follows from the bounds for BASIC n via a trivial embedding of BASIC n into HALFSPACES n and a similar embedding of BASIC 2n into BOXES n using a simplified version of the prediction preserving reductions <ref> (Pitt and Warmuth, 1990) </ref>. The same embeddings were employed by Haussler, et al (1990). The details are omitted.
+Reference: <author> L.G. Valiant, </author> <year> (1984). </year> <title> A theory of the learnable. </title> <journal> Communications of the ACM, </journal> <volume> 27(11) </volume> <pages> 1134-1142. </pages>
+Reference: <author> V.N. Vapnik, </author> <year> (1982). </year> <title> Estimation of Dependencies based on Empirical Data. </title> <publisher> Springer Verlag. </publisher> <address> 16 6. Conclusions V.N. Vapnik, </address> <year> (1989). </year> <title> Inductive principles of the search for empirical dependences (methods based on weak convergence of probability measures). </title> <booktitle> The 1989 Workshop on Computational Learning Theory. </booktitle>
+Reference: <author> V.N. Vapnik and A.Y. Chervonenkis, </author> <year> (1971). </year> <title> On the uniform convergence of relative frequencies of events to their probabilities. </title> <journal> Theory of Probability and its Applications, </journal> <volume> 16(2) </volume> <pages> 264-280. </pages>
+References-found: 23
+

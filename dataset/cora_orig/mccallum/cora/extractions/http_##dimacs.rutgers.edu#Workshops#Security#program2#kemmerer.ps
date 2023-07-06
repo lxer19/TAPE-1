@@ -1,0 +1,22 @@
+URL: http://dimacs.rutgers.edu/Workshops/Security/program2/kemmerer.ps
+Refering-URL: http://dimacs.rutgers.edu/Workshops/Security/program2/program.html
+Root-URL: http://www.cs.rutgers.edu
+Title: Using the ASTRAL Model Checker for Cryptographic Protocol Analysis  
+Author: Zhe Dang Richard A. Kemmerer 
+Date: August 3, 1997  
+Address: Santa Barbara, CA 93106  
+Affiliation: Reliable Software Group Department of Computer Science University of California  
+Abstract: ASTRAL is a formal specification language for real-time systems. It is intended to support formal software development, and therefore has been formally defined. This paper focuses on the mechanism of the ASTRAL model checker and how it can be used to analyze encryption protocols. Key Words: Encryption protocols, Formal methods, Formal specification and verification, Real-time systems, Timing requirements, Proof obligations, State machines, ASTRAL.
+Abstract-found: 1
+Intro-found: 1
+Reference: [GK91] <author> C. Ghezzi and R. Kemmerer, ASTRAL: </author> <title> An assertion language for specifying real-time systems, </title> <booktitle> Proceedings of the 3rd European Software Engineering Conference, </booktitle> <year> 1991, </year> <month> pp.122-146. </month>
+Reference-contexts: 1 Introduction ASTRAL <ref> [GK91] </ref> is a high-level formal specification language for real-time system. It is provided with structuring mechanisms that allow one to build modularized specifications of complex systems with layering [CGK97]. A real-time system is modeled by a collection of process specifications and a single global specification.
+Reference: [CGK97] <author> A. Coen-Porisini, C. Ghezzi and R. Kemmerer, </author> <title> Specification of realtime systems using ASTRAL, </title> <note> to appear IEEE Transactions on Software Engineering, </note> <year> 1997. </year>
+Reference-contexts: 1 Introduction ASTRAL [GK91] is a high-level formal specification language for real-time system. It is provided with structuring mechanisms that allow one to build modularized specifications of complex systems with layering <ref> [CGK97] </ref>. A real-time system is modeled by a collection of process specifications and a single global specification. Each process specification consists of a sequence of levels; each level is an abstract view of the process being specified. <p> ASTRAL specifications also include environmental assumptions and critical requirements. An environment clause formalizes the assumptions that must always hold on the behavior of the environment to guarantee some desired system properties, see <ref> [CGK97] </ref> for a detailed description of ASTRAL. One way to verify an ASTRAL specification is with an ASTRAL model checker.
+Reference: [CKM94] <author> A. Coen-Porisini, R. Kemmerer and D. Mandrioli, </author> <title> A formal framework for ASTRAL intralevel proof obligations, </title> <journal> IEEE Transactions on Software Engineering, </journal> <volume> vol. 20 No. </volume> <month> 8 </month> <year> 1994, </year> <month> pp.548-561. </month>
+Reference-contexts: A real-time system is modeled by a collection of process specifications and a single global specification. Each process specification consists of a sequence of levels; each level is an abstract view of the process being specified. In <ref> [CKM94] </ref> formal proofs in ASTRAL, which include interlevel proofs and intralevel proofs, are discussed and a formal framework for generating intralevel proof obligations in ASTRAL is presented.
+Reference: [LR97] <author> G. Lowe and A. W. Roscoe, </author> <title> Using CSP to detect errors in the TMN protocol, </title> <note> to appear IEEE Transactions on Software Engineering, </note> <year> 1997. </year>
+Reference-contexts: Like the examples in this paper, we combine the network with the process Intruder, in the sense that the intruder will fully control the network. 7 Our model checker missed a bug in TMN which is uncovered by FDR <ref> [LR97] </ref>, because it required too large of a time bound under the current ASTRAL coding of the specification. The simpler bug shown in this paper is also uncovered by Mur'[MMS97] . Results presented in this paper are preliminary.
+Reference: [MMS97] <author> J. C. Mitchell, M. Mitchell, and U. Stern, </author> <title> Automated analysis of cryptographic protocols using Murphi, </title> <booktitle> Proceedings of the IEEE Symposium on Security and Privacy, </booktitle> <year> 1997, </year> <month> pp.141-151. </month>
+References-found: 5
+

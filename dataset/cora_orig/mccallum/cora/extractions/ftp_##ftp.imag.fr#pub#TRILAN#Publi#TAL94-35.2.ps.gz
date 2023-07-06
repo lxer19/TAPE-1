@@ -1,0 +1,17 @@
+URL: ftp://ftp.imag.fr/pub/TRILAN/Publi/TAL94-35.2.ps.gz
+Refering-URL: http://clips.imag.fr/trilan/biblio.html
+Root-URL: http://www.imag.fr
+Title: ANALYSE ET GNRATION MORPHOLOGIQUE AVEC LE  
+Author: SYSTME PILAF Jacques COURTIN, Danile DUJARDIN, Damien GENTHIAL, Irne KOWARSKI 
+Keyword: Mots clefs Keywords Analyse morphologique, Gnration morphologique, Lemmatisation, Transducteur d'tats finis, Rversibilit, Adaptabilit Morphological parsing, Morphological generation, Lemmatization, Finite state transducer, Reversibility, Adaptability  
+Address: Campus, BP 53, 38041 Grenoble Cedex  
+Affiliation: LGI-IMAG  
+Note: T.A.L., 1994, vol. 35, n 2, p93-109  
+Email: EMail: Prnom.Nom@imag.fr  
+Phone: Tl: 76.51.48.78,  
+Date: Rsum Abstract  
+Abstract: L'analyse et la gnration morphologiques dans le systme PILAF sont bases sur la thorie des grammaires validations et saturations. Ces grammaires sont formellement quivalentes aux grammaires d'tats finis mais permettent une formulation plus concise. Le transducteur utilis est rversible et sa mise en uvre donne des outils d'analyse et gnration morphologiques ainsi que de lemmatisation. Un lexique du franais de taille relle a favoris l'utilisation du systme dans diverses applications. Sur un plan plus linguistique, la morphologie mise en uvre est de nature flexionnelle mais on peut utiliser le systme pour construire une morphologie drivationnelle. Morphological parsing and generation in the PILAF system are based on the theory of validations and saturations grammars. These grammars are formally equivalent to finite states grammars but allow a more concise formulation. A reversible transducer is used and its implementation gives tools for morphological parsing and generation, but also for lemmatization. A real size lexicon for French has furthered the use of the system in numerous applications. On a more linguistic point of view, the implemented morphology is an inflexional one, but one can also use the system to build a derivational morphology. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

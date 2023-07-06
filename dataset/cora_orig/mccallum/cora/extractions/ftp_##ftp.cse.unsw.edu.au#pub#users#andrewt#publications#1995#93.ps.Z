@@ -1,0 +1,24 @@
+URL: ftp://ftp.cse.unsw.edu.au/pub/users/andrewt/publications/1995/93.ps.Z
+Refering-URL: http://www.cse.unsw.edu.au/school/publications/1995/SCSE_publications.html
+Root-URL: 
+Email: linda@cse.unsw.edu.au  
+Phone: tel +61-2-385-3979  
+Title: Feature Selection Using Neural Networks with Contribution Measures  
+Author: Linda Milne 
+Address: Sydney NSW 2052  
+Affiliation: Computer Science and Engineering University of New South Wales  
+Abstract: There still seems to be a misapprehension that neural networks are capable of dealing with large amounts of noise and useless data. This is true to a certain extent but it is also true that the cleaner and more descriptive the data is the better the neural networks will perform, especially when dealing with small data sets. A method for determining how useful input features are in giving correct classifications using neural networks is discussed here.
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> John GH, Kohavi R, and Pfleger K. </author> <title> Irrelevant features and the subset selection problem. </title> <booktitle> In Proc 11th International Conference on Machine Learning, </booktitle> <pages> pages 121-129, </pages> <year> 1994. </year> <month> 7 </month>
+Reference-contexts: It is possible that using the same method for feature selection and classification produces better results <ref> [1] </ref>. A neural network may use a different set of features to a machine learning 1 algorithm so to use some other feature selection method may remove data that is useful and keep data that is not. <p> Of course, the number of input features that need to be removed will be determined by the data being used in a particular application. John et al <ref> [1] </ref> gave the following definitions for the relevance of features in a classification and a method for feature selection using induction algorithms. strongly relevant feature the feature is necessary and can not be removed without decreasing the number of correct classifications weakly relevant feature the feature sometimes contributes to the classification
+Reference: [2] <author> Garson GD. </author> <title> Interpreting neural-network connection weights. </title> <journal> AI Expert, </journal> <pages> pages 47-51, </pages> <month> April </month> <year> 1991. </year>
+Reference-contexts: The weight between unit i in layer n and unit j in layer n+1 is given by w ji . Garson <ref> [2] </ref> proposed the following measure of proportion contribution.
+Reference: [3] <author> Wong PM, Gedeon TD, and Taggart IJ. </author> <title> An improved technique in porosity prediction: A neural network approach. </title> <journal> IEEE Transactions on Geoscience and Remote Sensing, </journal> <note> (in press) 1995. </note>
+Reference-contexts: Another measure of contribution, used in <ref> [3] </ref>, gives the proportion contribution of a unit in one layer to a unit in the next layer.
+Reference: [4] <author> Milne LK, Gedeon TD, and Skidmore AK. </author> <title> Classifying dry sclerophyll forest from augmented satelite data : Comparing neural network, decision tree & maximum likelihood. </title> <booktitle> In Proc. 6th Australian Conference on Neural Networks, </booktitle> <pages> pages 160-163, </pages> <year> 1995. </year>
+Reference-contexts: To determine class membership of the output of the trained neural network a threshold is chosen so that the number of correct classifications is maximised <ref> [4] </ref>. To avoid over-fitting the data, cross validation is used to determine when to stop training. The area being studied is predominantly dry sclerophyll forest. Of the 190 training vectors 99 are in the DS class and 46 of the test vectors are in the DS class.
+Reference: [5] <author> Bischof H, Schneider W, and Pinz AJ. </author> <title> Multispectral classification of landsat images using neural networks. </title> <journal> IEEE Transactions on Geosciences and Remote Sensing, </journal> <volume> 30(3) </volume> <pages> 482-490, </pages> <month> May </month> <year> 1992. </year> <month> 8 </month>
+Reference-contexts: It will be necessary to develop methods of selecting features for removal that are meaningful for more general networks. It would also be useful to incorporate information about how the outputs change over the range of input values. To this end WV-curves <ref> [5] </ref> as part of the feature selection process is currently being investigated. It has been shown that proportion contribution is a useful measure when determining which of the possible features are the most useful for describing the class of a particular input vector.
+References-found: 5
+

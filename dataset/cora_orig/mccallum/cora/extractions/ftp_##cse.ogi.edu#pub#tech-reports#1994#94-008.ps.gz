@@ -1,0 +1,25 @@
+URL: ftp://cse.ogi.edu/pub/tech-reports/1994/94-008.ps.gz
+Refering-URL: ftp://cse.ogi.edu/pub/tech-reports/README.html
+Root-URL: http://www.cse.ogi.edu
+Email: fbellegar,hookg@cse.ogi.edu  
+Title: Monads, Indexes and Transformations  
+Author: Fran~coise Bellegarde and James Hook 
+Date: October 29, 1993  
+Address: PO Box 91000 Portland, Oregon 97291-1000 USA  
+Affiliation: Pacific Software Research Center Oregon Graduate Institute of Science Technology  
+Abstract: The specification and derivation of substitution for the de Bruijn representation of - terms is used to illustrate programming with a function-sequence monad. The resulting program is improved by interactive program transformation methods into an efficient implementation that uses primitive machine arithmetic. These transformations illustrate new techniques that assist the discovery of the arithmetic structure of the solution.
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> M. Abadi, L. Cardelli, P.L. Curien, and J.J. Levy. </author> <title> Explicit substitutions. </title> <type> Technical Report 54, </type> <institution> Digital Equipment Corporation, </institution> <year> 1990. </year> <note> A version also appeared in POPL 1990. </note>
+Reference: [2] <author> Jeffrey M. Bell. </author> <title> An implementation of Reynold's defunctionalization method for a modern functional language, </title> <month> November </month> <year> 1993. </year> <institution> Forthcoming Master's thesis from the Computer Science and Engineering Department at the Oregon Graduate Institute. </institution>
+Reference: [3] <author> Fran~coise Bellegarde. </author> <title> Program transformation and rewriting. </title> <booktitle> In Proceedings of the fourth conference on Rewriting Techniques and Applications, volume 488 of Lecture Notes in Computer Science, </booktitle> <pages> pages 226-239, </pages> <address> Berlin, 1991. </address> <publisher> Springer-Verlag. </publisher>
+Reference: [4] <author> N. G. de Bruijn. </author> <title> Lambda calculus notation with nameless dummies, a tool for automatic formula manipulation, with application to the Church-Rosser theorem. </title> <journal> Indagaciones Mathematische, </journal> <volume> 34 </volume> <pages> 381-392, </pages> <year> 1972. </year> <note> Also appeared in the Proceedings of the Koninklijke Nederlandse Akademie van Wetenschappen, Amsterdam, series A, 75(5). 27 </note>
+Reference: [5] <author> N. G. de Bruijn. </author> <title> Lambda calculus with namefree formulas involving symbols that represent reference transforming mappings. </title> <booktitle> In Proceedings of the Koninklijke Nederlandse Akaemie van Wetenschappen, </booktitle> <pages> pages 348-356, </pages> <address> Amsterdam, </address> <booktitle> series A, </booktitle> <volume> volume 81(3), </volume> <month> September </month> <year> 1978. </year>
+Reference: [6] <author> Charles Consel. </author> <title> The Schism Manual, version 2.0. </title> <type> Technical report, </type> <institution> Department of Computer Science and Engineering, Oregon Graduate Institute, </institution> <year> 1992. </year>
+Reference: [7] <author> James Hook, Richard Kieburtz, and Tim Sheard. </author> <title> Generating programs by reflection. </title> <type> Technical Report 92-015, </type> <institution> Department of Computer Science and Engineering, Oregon Graduate Institute, </institution> <month> July </month> <year> 1992. </year>
+Reference: [8] <author> Richard B. Kieburtz. </author> <title> A generic specification of prettyprinters. </title> <type> Technical Report CSE-91-020, </type> <institution> Department of Computer Science and Engineering, Oregon Graduate Institute, </institution> <year> 1991. </year>
+Reference: [9] <author> Eugenio Moggi. </author> <title> Notions of computations and monads. </title> <journal> Information and Computation, </journal> <volume> 93(1) </volume> <pages> 55-92, </pages> <month> July </month> <year> 1991. </year>
+Reference: [10] <author> John C. Reynolds. </author> <title> Definitional interpreters for higher-order programming languages. </title> <booktitle> In ACM National Conference, </booktitle> <pages> pages 717-740. </pages> <publisher> ACM, </publisher> <year> 1972. </year>
+Reference: [11] <editor> Philip Wadler. </editor> <booktitle> The essence of functional programming. In Conference Record of the Nineteenth Annual ACM Symposium on Principles of Programming Languages. </booktitle> <publisher> ACM Press, </publisher> <month> January </month> <year> 1992. </year> <month> 28 </month>
+References-found: 11
+

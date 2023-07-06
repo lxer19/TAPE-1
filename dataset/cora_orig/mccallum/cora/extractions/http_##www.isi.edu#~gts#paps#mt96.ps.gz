@@ -1,0 +1,21 @@
+URL: http://www.isi.edu/~gts/paps/mt96.ps.gz
+Refering-URL: http://www.isi.edu/~gts/pubs.html
+Root-URL: http://www.isi.edu
+Title: Secret Sets and Applications  
+Author: R. Molva G. Tsudik 
+Date: August 14, 1997  
+Abstract: This paper introduces the notion of a secret set a basic construct for communication with groups of mutually suspicious entities. A set is secret if any entity can test its membership in the set but can determine neither the other set members nor the cardinality of the set. A number of possible secret set constructions are presented, analyzed and contrasted according to criteria such as: security (strength) as well as bandwidth and processing overheads. Example applications of secret sets are discussed. Keywords: secret sets, secret multicast, location secrecy, mobile networks. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> D. Chaum, </author> <title> Security Without Identification: Transactions Systems to Make Big Brother Obsolete, </title> <journal> CACM Vol. </journal> <volume> 28, No. 10, </volume> <month> October </month> <year> 1985. </year>
+Reference: [2] <author> M. Bellare and P. Rogaway, </author> <title> Optimal Asymmetric Encryption, </title> <publisher> EUROCRYPT'94. </publisher>
+Reference: [3] <author> G. Chiou and W. Chen, </author> <title> Secure Broadcasting Using the Secure Lock, </title> <journal> IEEE Transactions on Software Engineering, </journal> <volume> Vol. 15 No. 8, </volume> <month> August </month> <year> 1989. </year>
+Reference: [4] <author> X. Lai and J. Massey, </author> <title> A proposal for a New Block Encryption Standard, </title> <publisher> EUROCRYPT'90. </publisher>
+Reference: [5] <author> R. Rivest, A. Shamir, and L. M. Adleman, </author> <title> Cryptographic Communications System and Method, </title> <type> U.S Patent 4,405,829, </type> <month> September </month> <year> 1983. </year>
+Reference: [6] <author> A. Pfitzmann and M. Waidner, </author> <title> Networks Without User Observability Design Options, </title> <booktitle> EUROCRYPT'85, Also in Computers & Security, </booktitle> <volume> Vol. 6 No. 2, </volume> <year> 1987. </year>
+Reference: [7] <author> D. Chaum, </author> <title> The Dining Cryptographers Problem: </title> <journal> Unconditional Sender and Recipient Untraceability, Journal of Cryptology, </journal> <volume> Vol. 1 No. 1, </volume> <year> 1988. </year>
+Reference: [8] <author> A. Fiat and M. Naor, </author> <title> Broadcast Encryption, </title> <booktitle> CRYPTO'93. </booktitle>
+Reference: [9] <author> D. Boneh and R. Venkatesan, </author> <title> Hardness of Computing the Most Significant Bits of Secret Keys in Diffie-Hellman and Related Schemes, </title> <publisher> CRYPTO'96. </publisher>
+Reference: [10] <author> C. Blundo and A. Cresti, </author> <title> Space Requirements for Broadcast Encryption, </title> <journal> EUROCRYPT'94. </journal> <volume> 9 </volume>
+References-found: 10
+

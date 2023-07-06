@@ -1,0 +1,17 @@
+URL: ftp://ftp.cs.utexas.edu/pub/mooney/papers/abduce-induce-ijcaiw-97.ps.Z
+Refering-URL: http://www.cs.utexas.edu/users/ml/abstracts.html
+Root-URL: 
+Email: mooney@cs.utexas.edu  
+Title: on Abduction and Induction in AI Integrating Abduction and Induction in Machine Learning  
+Author: Raymond J. Mooney 
+Address: Austin, TX 78712-1188, USA  
+Affiliation: Department of Computer Sciences University of Texas  
+Note: Appears in the Working Notes of the IJCAI-97 Workshop  
+Abstract: This paper discusses the integration of traditional abductive and inductive reasoning methods in the development of machine learning systems. In particular, the paper discusses our recent work in two areas: 1) The use of traditional abductive methods to propose revisions during theory refinement, where an existing knowledge base is modified to make it consistent with a set of empirical data; and 2) The use of inductive learning methods to automatically acquire from examples a diagnostic knowledge base used for abductive reasoning.
+Abstract-found: 1
+Intro-found: 1
+Reference: [ Baffes and Mooney, 1993 ] <author> P. Baffes and R.J. Mooney. </author> <title> Symbolic revision of theories with M-of-N rules. </title> <booktitle> In Proceedings of the Thirteenth International Joint Conference on Artificial Intelligence, </booktitle> <pages> pages 1135-1140, </pages> <address> Chambery, France, </address> <month> Aug </month> <year> 1993. </year> [ <note> Baffes and Mooney, 1996 ] P. </note> <author> T. Baffes and R. </author> <note> J. </note>
+Reference-contexts: Note that although the alternative, equally-simple clause Q (X) :- W (X) covers both positive examples, it also covers the negative example Q (d). The Either [ Ourston and Mooney, 1990; 1994; Ourston, 1991 ] and Neither <ref> [ Baffes and Mooney, 1993; Baffes, 1994 ] </ref> theory refinement systems allow multiple assumptions in order to prove an example, preferring more specific assumptions, i.e. they employ most-specific abduction [ Cox and Pietrzykowski, 1987 ] . <p> This general approach of using abduction to suggest theory repairs has proven quite successful at revising several real-world knowledge bases. The systems referenced above have significantly improved the accuracy of knowledge bases for detecting special DNA sequences called promoters that signal the start of a new gene <ref> [ Ourston and Mooney, 1994; Baffes and Mooney, 1993 ] </ref> , diagnosing diseased soybean plants [ Ourston and Mooney, 1994 ] , and determining when repayment is due on a student loan [ Brunk, 1996 ] .
+
+References-found: 1
+

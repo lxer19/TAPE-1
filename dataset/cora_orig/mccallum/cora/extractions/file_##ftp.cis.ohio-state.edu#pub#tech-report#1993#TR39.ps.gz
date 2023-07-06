@@ -1,0 +1,24 @@
+URL: file://ftp.cis.ohio-state.edu/pub/tech-report/1993/TR39.ps.gz
+Refering-URL: ftp://ftp.cis.ohio-state.edu/pub/tech-report/TRList.html
+Root-URL: 
+Email: email: jgawkowski@rrddts.donnelley.com  email: mamrak@cis.ohio-state.edu  
+Title: A Universal Framework for Data Transformation  Database Technology Services  
+Author: John A. Gawkowski S. S.A. Mamrak 
+Date: November 28, 1993  
+Address: Street Willowbrook. Ill 60521-5544  
+Affiliation: Quincy  Department of Computer and Information Science The Ohio State University  
+Note: R.R. Donnelley Sons  
+Abstract-found: 0
+Intro-found: 1
+Reference: [Hammer] <author> M. Hammer and D. Mcleod. </author> <title> "Database description with SDM: A Semantic Database Model." </title> <journal> ACM Trans. Database Sys., </journal> <volume> vol. 6, no. 3, </volume> <pages> pp. 351-386. </pages> <month> Sept. </month> <year> 1981 </year>
+Reference-contexts: This meaning essentially is what is conveyed for human perception. This notion of "true semantics" is similar to that which is addressed by semantic data models <ref> [Hammer] </ref>. For example, within a relational database application, the salary of John Smith could be represented by the value 45,000.00 in an attribute called salary in the same tuple where an attribute called name has the value John Smith.
+Reference: [Mam89] <author> S. A. Mamrak et al.. </author> <title> "A System for Solving the Data Translation Problem". </title> <journal> IEEE Transactions on Software Engineering, </journal> <volume> vol. 15, no. 9, </volume> <pages> pp. 1090-1108, </pages> <month> Sept. </month> <year> 1989 </year>
+Reference: [Mam93] <author> S. A. Mamrak et al.. </author> <title> "The Benefits of Using the Integrated Chameleon Architecture for Data Translation". </title> <journal> IEEE Software, </journal> <pages> pp. 82-88, </pages> <month> July </month> <year> 1993 </year>
+Reference-contexts: Such a tool could be used for every translation where the source data conforms to the same model, such as relational data. We have already observed success with such generalizations. In <ref> [Mam93] </ref> [Gawkowski] it was showed that tools could be developed to generalize the encoding of certain types of representations, such as documents and relational database data. The following section describes how we generalize the model transformation.
+Reference: [Gawkowski] <author> J. A. Gawkowski and S. A. Mamrak. </author> <title> "Towards a Universal Framework for Data Translation". </title> <type> Technical Report. </type> <institution> OSU-CISRC-11/92-TR31. The Ohio State University Dept. of Computer and Information Science. </institution> <month> Nov. </month> <year> 1992 </year>
+Reference-contexts: Such a tool could be used for every translation where the source data conforms to the same model, such as relational data. We have already observed success with such generalizations. In [Mam93] <ref> [Gawkowski] </ref> it was showed that tools could be developed to generalize the encoding of certain types of representations, such as documents and relational database data. The following section describes how we generalize the model transformation.
+Reference: [Hopcroft] <author> J. Hopcroft and J. Ullman. </author> <title> "Introduction to Automata Theory, Languages, and Computation. </title> <publisher> Addison Wesley,1979 </publisher>
+Reference-contexts: By no loss of information we mean it is possible to maintain the string as well as its derivation within the grammar. Generalized Representation of Context Free Grammars with Nagiya Model The definition of a context free grammar is described by <ref> [Hopcroft] </ref> as the set G V T P S == , , , b g , where V and T are finite sets of variables and terminals, respectively. We assume that V and T are disjoint.
+Reference: [ISO8879] <institution> Information Processing - Text and Office Systems - Standard Generalized Markup Language (SGML), </institution> <month> October </month> <year> 1986. </year> <note> ISO 8879-1986 (E). </note>
+References-found: 6
+

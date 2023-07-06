@@ -1,0 +1,14 @@
+URL: http://www.cl.cam.ac.uk:80/ftp/papers/reports/TR304-lcp-coinduction.ps.gz
+Refering-URL: http://www.cl.cam.ac.uk:80/ftp/papers/reports/
+Root-URL: 
+Title: Mechanizing Coinduction and Corecursion in Higher-order Logic  
+Author: Lawrence C. Paulson 
+Keyword: Key words. Isabelle, higher-order logic, coinduction, corecursion  
+Note: Copyright c 1996 by Lawrence C. Paulson  
+Address: Cambridge  
+Affiliation: Computer Laboratory, University of  
+Abstract: A theory of recursive and corecursive definitions has been developed in higher-order logic (HOL) and mechanized using Isabelle. Least fixedpoints express inductive data types such as strict lists; greatest fixedpoints express coinductive data types, such as lazy lists. Well-founded recursion expresses recursive functions over inductive data types; corecursion expresses functions that yield elements of coinductive data types. The theory rests on a traditional formalization of infinite trees. The theory is intended for use in specification and verification. It supports reasoning about a wide range of computable functions, but it does not formalize their operational semantics and can express noncomputable functions also. The theory is illustrated using finite and infinite lists. Corecursion expresses functions over infinite lists; coinduction reasons about such functions. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

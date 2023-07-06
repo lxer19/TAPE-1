@@ -1,0 +1,22 @@
+URL: ftp://ftp.eecs.umich.edu/groups/gasm/calgebra.ps.Z
+Refering-URL: http://www.eecs.umich.edu/gasm/papers.html
+Root-URL: http://www.cs.umich.edu
+Title: The Semantics of the C Programming Language  
+Author: Yuri Gurevich and James K. Huggins 
+Date: February 19, 1993  
+Address: Ann Arbor, MI 48109-2122, USA  
+Affiliation: EECS Department, University of Michigan,  
+Abstract: This paper first appeared in [GH2], and incorporates the corrections indicated in [GH3]. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [ASU] <author> Alfred V. Aho, Ravi Sethi, and Jeffrey D. Ullman, </author> <booktitle> "Compilers: Principles, Techniques, and Tools", </booktitle> <publisher> Addison-Wesley, </publisher> <year> 1988. </year>
+Reference-contexts: Writing such code is usually unwise, since such code may not be portable; however, an optimizing compiler may take advantage of this ambiguity to generate code which minimizes the resources required to perform a particular computation <ref> [ASU] </ref>. For expressions involving such operators, our algebra must be flexible enough to reflect any possible evaluation order of an expression's operands, even if this decision is made at run-time.
+Reference: [Gu] <author> Yuri Gurevich, </author> <title> "Evolving Algebras: An Introductory Tutorial", </title> <note> Bulletin of European Assoca-tion for Theoretical Computer Science, February 1991. (A slightly updated version will appear in the EATCS Book of Columns, World Scientific Publishers.) </note>
+Reference-contexts: Knowledge of C is not necessary (though it may be helpful) for comprehension, since we explain all relevant aspects of C as we proceed. Our operational semantics is based on evolving algebras. An exposition on evolving algebras can be found in the tutorial <ref> [Gu] </ref>. In order to make this paper self-contained, we recall the notion of a (sequential) evolving algebra in Sect. 0.1. Our primary concern here is with semantics, not syntax.
+Reference: [GH1] <author> Yuri Gurevich and James K. Huggins, </author> <title> "The Evolving Algebra Semantics of C: </title> <note> Preliminary Version", </note> <institution> CSE-TR-141-92, EECS Department, University of Michigan, </institution> <year> 1992. </year>
+Reference-contexts: External functions are syntactically static (that is, never changed by rules), but have their values determined by an oracle. Thus, an external function may have different values for the same arguments as the algebra evolves. 0.2 Acknowledgements An earlier version of this paper appeared as a technical report <ref> [GH1] </ref>. We gratefully acknowledge comments made by on the original report by Egon Borger, Andre Burago, Martin J. Durst, Stefano Guerrini, Raghu Mani, Arnd Poetzsch-Heffter, Dean Rosenzweig, and Marcus Vale, as well as comments in the errata made by Lars Ole Andersen, L.
+Reference: [GH2] <author> Yuri Gurevich and James K. Huggins, </author> <title> "The Semantics of the C Programming Language", </title> <booktitle> Selected papers from CSL'92 (Computer Science Logic), Springer Lecture Notes in Computer Science 702, </booktitle> <year> 1993, </year> <pages> 274-308. </pages>
+Reference: [GH3] <author> Yuri Gurevich and James K. Huggins, </author> <title> "Errata to `The Semantics of the C Programming Language' ", Selected papers from CSL'93 , Springer Lecture Notes in Computer Science, </title> <note> to appear. </note>
+
+References-found: 5
+

@@ -1,0 +1,12 @@
+URL: http://www.ri.cmu.edu/afs/cs.cmu.edu/project/coda/Web/docdir/s15.ps.Z
+Refering-URL: http://www.ri.cmu.edu/afs/cs.cmu.edu/project/coda/Web/docs-coda.html
+Root-URL: 
+Title: Exploiting Weak Connectivity for Mobile File Access aspects of the system, including communication, cache validation,
+Author: Lily B. Mummert, Maria R. Ebling, M. Satyanarayanan 
+Note: Many  of  
+Affiliation: School of Computer Science Carnegie Mellon University  
+Abstract: In this paper, we describe how the Coda File System has evolved to exploit such networks. The underlying theme of this been modified. As a result, Coda is able to provide good performance even when network bandwidth varies over four orders evolution has been the systematic introduction of adaptivity to eliminate hidden assumptions about strong connectivity.
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

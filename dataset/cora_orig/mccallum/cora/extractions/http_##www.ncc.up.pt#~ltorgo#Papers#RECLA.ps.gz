@@ -1,0 +1,20 @@
+URL: http://www.ncc.up.pt/~ltorgo/Papers/RECLA.ps.gz
+Refering-URL: http://www.ncc.up.pt/~ltorgo/Papers/list_reports.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: First Created 07-03-1996 Last Saved 20-07-1996 RECLA program a kind of users manual to the
+Author: by Lus Torgo and Joo Gama LIACC ML/Group R. Campo 
+Note: This document is  
+Address: 823 4150 Porto, Portugal  
+Affiliation: Alegre,  
+Pubnum: LIACC:ML-TR-96-01  
+Email: email  
+Phone: Phone (+351) 2 6001672 Fax (+351) 2 6003654  
+Web: -ltorgo,jgma-@ ncc.up.pt WWW http://www.up.pt/~-ltorgo,jgama  
+Date: July, 96  
+Abstract: This document describes the program RECLA (REgression through CLAssification system). The program is able to learn a continuous dataset by transforming it into a classification problem and them applying a discrete class learner to the resulting dataset. It works as a kind of general interface program between existing discrete learners and the discretization module we have developed. Although RECLA receives as a parameter the discrete class algorithm to use, from the users point of view, it behaves like a continuous class learning algorithm (i.e. the user gives as input a continuous class problem and receives a theory as output). Please notice that all this work is YAP dependent, i.e you will need YAP Prolog to run our discretization programs. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> [1]. Torgo,L. Gama,J. </author> <title> (1996) : Iterative Class Discretization, LIACC Internal Report, </title> <booktitle> 1996. [2]. Quinlan,R. (1993) : C4.5 : programs for machine learning. </booktitle> <publisher> Morgan Kaufmann Publishers. [3]. </publisher> <editor> Clark, P. Niblett, T. </editor> <title> (19) : The CN2 induction algorithm. </title> <booktitle> In Machine Learning, </booktitle> <pages> 3 , 261-283. [4]. </pages> <month> Quinlan,R. </month> <title> (1992) : Learning with continuous classes. </title> <booktitle> In Procceedings of the 5th Australian Joint Conference on Artificial Intelligence. </booktitle> <address> Singapore: </address> <publisher> World Scientific, </publisher> <year> 1992. </year>
+Reference-contexts: This is achieved by transforming regression (continuous class) problems into classification (discrete class) problems. The justification for proceeding this way as well as other more theoretical details can be checked in our paper <ref> [1] </ref>. The objective of this document is to briefly describe the system and introduce you to the use of the available programs. It also describes what you need to do in order to use another discrete class algorithm together with our discretizer. Our work can be used in two ways.
+References-found: 1
+

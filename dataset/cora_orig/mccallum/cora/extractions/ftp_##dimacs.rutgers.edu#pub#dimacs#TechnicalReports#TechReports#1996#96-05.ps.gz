@@ -1,0 +1,25 @@
+URL: ftp://dimacs.rutgers.edu/pub/dimacs/TechnicalReports/TechReports/1996/96-05.ps.gz
+Refering-URL: http://dimacs.rutgers.edu/TechnicalReports/1996.html
+Root-URL: http://www.cs.rutgers.edu
+Email: tbisztri@math.ucalgary.ca  karolyi@math.ias.edu  
+Title: of Cyclic Polytopes  
+Author: by Tibor Bisztriczky and Gyula Karolyi ; 
+Address: Calgary, Alta. T2N 1N4 Canada  Princeton, NJ 08540 U.S.A.  
+Affiliation: Department of Mathematics University of Calgary  School of Mathematics Institute for Advanced Study  
+Note: Subpolytopes  2 DIMACS Postdoctoral Fellow. 3 Supported by the Alfred Sloan Foundation and by NSF grant DMS-9304580. DIMACS is a cooperative project of Rutgers University, Princeton University, AT&T Bell Laboratories and Bellcore. DIMACS is an NSF Science and Technology Center, funded under contract STC-91-19999; and also receives support from the New Jersey Commission on Science and Technology.  
+Abstract: DIMACS Technical Report 96-05 February 1996 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> D. Gale, </author> <title> Neighborly and cyclic polytopes. In: Convexity, </title> <editor> V. Klee, ed., </editor> <booktitle> Proc. Symp. Pure Math. </booktitle> <volume> 7, </volume> <month> 225-232 </month> <year> (1963). </year>
+Reference-contexts: Let C be a cyclic d-polytope with the vertex set V = fv 1 ; v 2 ; : : : ; v n g. From the combinatorial equivalence to C (n; d), we obtain (see <ref> [1] </ref>) that C is simplicial and that there is a total ordering of V , say, v 1 &lt; v 2 &lt; : : : &lt; v n and called a vertex array, that satisfies Gale's Evenness Condition (GEC): a d element subset Y of V determines a facet of C
+Reference: [2] <author> B. Gr unbaum, </author> <title> Convex Polytopes. </title> <publisher> Interscience, </publisher> <address> London 1967. </address>
+Reference-contexts: A subpolytope of P is the convex hull of a subset of its vertex set. For other elementary properties of P , we refer to <ref> [2] </ref>. A d-polytope P is neighbourly if every [d=2] vertices of P determine a face of P . A well known family of neighbourly d-polytopes are the cyclic d-polytopes.
+Reference: [3] <author> V. Klee and G.J. Minty, </author> <title> How good is the simplex algorithm? In: Inequalities III, </title> <editor> O. Shisha, ed., </editor> <address> 159-175, </address> <publisher> Academic Press, </publisher> <address> New York 1972. </address>
+Reference-contexts: We recall the following elementary fact from <ref> [3] </ref> or [6], Ex. 2.8. Proposition. If (F ; X) and (F 0 ; X) are facet systems of convex d-polytopes then F F 0 implies F = F 0 .
+Reference: [4] <author> I. Shemer, </author> <title> Neighborly polytopes. </title> <journal> Israel J. Math. </journal> <volume> 43, </volume> <month> 291-314 </month> <year> (1982). </year>
+Reference: [5] <author> B. Sturmfels, </author> <title> Cyclic polytopes and d-order curves. </title> <journal> Geom. Ded. </journal> <volume> 24, </volume> <month> 103-107 </month> <year> (1987). </year>
+Reference-contexts: Sturmfels <ref> [5] </ref> that states that if every subpolytope of a cyclic d-polytope C is cyclic with respect to the original vertex array then there is an arc of order d in IE d that contains the vertices of C. Corollary.
+Reference: [6] <author> G.M. Ziegler, </author> <title> Lectures on Polytopes. </title> <booktitle> GTM 152, Springer 1995. </booktitle> <pages> 4 </pages>
+Reference-contexts: We recall the following elementary fact from [3] or <ref> [6] </ref>, Ex. 2.8. Proposition. If (F ; X) and (F 0 ; X) are facet systems of convex d-polytopes then F F 0 implies F = F 0 .
+References-found: 6
+

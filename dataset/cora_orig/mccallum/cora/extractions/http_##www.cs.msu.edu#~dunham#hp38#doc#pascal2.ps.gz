@@ -1,0 +1,18 @@
+URL: http://www.cs.msu.edu/~dunham/hp38/doc/pascal2.ps.gz
+Refering-URL: http://www.cs.msu.edu/~dunham/hp38/doc/pascal2.html
+Root-URL: http://www.cs.msu.edu
+Email: email: yuanfeng@hpsgrt1.sgp.hp.com  
+Title: Progress in Pascal compiler for HP 48/38 calculators  
+Author: YUAN, Feng 
+Date: Aug 5&6, 1995,  
+Note: Paper presented at 1995 HP Handheld Users Conference  
+Address: Singapore)  
+Affiliation: Software Engineer (Hewlett Packard  Mall of America, Bloomington, Minnesota  
+Abstract: This paper continues discussion of how Pascal programs can be compiled to system RPL code, and how applications for the HP48S/48G and the latest HP38G calculator can be developed in Pascal. 
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> S.Pemberton & M.Daniels, </author> <title> Pascal Implementation , Ellis Horward, </title> <address> Chichester, UK </address>
+Reference: 2. <author> J.Donnelly, </author> <title> An Introduction to HP 48 System RPL and Assembly Language Programming, 1995, </title> <publisher> Armstrong Publishing Company, </publisher> <address> OR, USA </address>
+Reference: 3. <author> F.Yuan, </author> <title> Towards a Pascal compiler for HP RPN calculator , Prompt Anniversary Conference, </title> <booktitle> 1994, </booktitle> <address> pp.7-20, Netherlands </address>
+References-found: 3
+

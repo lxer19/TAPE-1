@@ -1,0 +1,29 @@
+URL: ftp://kant.irmkant.rm.cnr.it/pub/econets/nolfi.growing.ps.Z
+Refering-URL: http://kant.irmkant.rm.cnr.it/public.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Email: Email: stiva@irmkant.Bitnet domenico@irmkant.Bitnet  
+Phone: 0039-6-86090231  
+Title: Growing neural networks  
+Author: Stefano Nolfi Domenico Parisi 
+Address: 15, Viale Marx 00137 Rome Italy  Santa Fe, New Mexico,  
+Date: December 1991  June 15-19, 1992  
+Affiliation: Institute of Psychology C.N.R. Rome  Institute of Psychology National Research Council  Department of Cognitive Processes and Artificial Intelligence  ARTIFICIAL LIFE III  
+Pubnum: Technical Report PCIA-91-15  
+Abstract-found: 0
+Intro-found: 1
+Reference: <author> Ackley, D.E. and Littman, </author> <title> M.L. Interactions between learning and evolution. </title> <booktitle> Proceedings of the Second Conference on Artificial Life. </booktitle> <publisher> Addison-Wesley: </publisher> <address> Reading, MA. </address> <year> 1991. </year>
+Reference: <author> Belew, R.K., McInerney, J., Schraudolph, N. </author> <title> Evolving networks: using the genetic algorithm with connectionist learning. </title> <type> CSE Technical Report CS89-174. </type> <institution> University of California, </institution> <address> San Diego. </address> <year> 1990. </year>
+Reference: <author> Harp, S., Samad, T., and Guha, A. </author> <title> Toward the genetic synthesis of neural networks. </title> <booktitle> Proceedings of the Third nternational Conference on Genetic Algorithms.San Mateo, </booktitle> <publisher> Kaufmann, </publisher> <year> 1989. </year>
+Reference: <author> Holland, J.J. </author> <booktitle> Adaptation in natural and artificial systems. </booktitle> <address> Ann Arbor, </address> <institution> Michigan: University of Michigan Press. </institution> <year> 1975. </year>
+Reference-contexts: Finally, when an organism happens to step on a food cell, it eats the food element which disappears. To evolve organisms which are able to reach food elements we used a kind of genetic algorithm <ref> (Holland, 1975) </ref> applied to the organisms' "genotypes". We begin with 100 randomly generated genotypes each yielding a network with a different architecture and a different assignment of connection weights. This is Generation 0 (G0).
+Reference: <author> Kitano, H. </author> <title> Designing neural networks using genetic algorithms with graph generation system. </title> <journal> Complex Systems, </journal> <volume> 4, </volume> <year> (1990): </year> <pages> 461-476. </pages>
+Reference-contexts: But these methods, in addition to being biologically implausible, have problems in scalability, i.e. performance degrades significantly as the size of the network increases <ref> (Kitano, 1990) </ref>. In real life the mapping from genetic information into network structure is a very complex one. Langton (1992) has stressed that we cannot predict which phenotype will emerge from a given genotype because of the large nonlinearities present in the mapping process.
+Reference: <author> Langton, </author> <title> C.G. Artificial life. </title> <editor> In L. Nadel and D. Stein (eds.), </editor> <booktitle> 1991 Lectures in Complex Systems. </booktitle> <address> Reading, Mass., </address> <publisher> Addison-Wesley, </publisher> <year> 1992. </year>
+Reference: <author> Medicus, G. </author> <title> The inapplicability of the biogenetic rule to behavioral development. </title> <booktitle> Human Development 35, </booktitle> <year> (1992): </year> <title> 1-8 Miller, G.F. and Todd, P.M. Exploring adaptive agency I: theory and methods for simulating the evolution of learning. </title> <editor> In D.S. Touretzky, J.L. Elman, T.J. Sejnowski and G.E. Hinton (eds.), </editor> <booktitle> Proceedings of the 1990 Connectionist Models Summer School. </booktitle> <address> San Mateo, CA: </address> <publisher> Morgan Kaufmann. </publisher> <year> 1990. </year> <title> 16 Miller, G.F., </title> <editor> Todd, P., and Hedge, S. </editor> <title> Designing neural networks using genetic algorithms. </title> <booktitle> Proceedings of theThird International Conference on Genetic Algorithms. </booktitle> <address> San Mateo, </address> <publisher> Kaufmann, </publisher> <year> 1989. </year>
+Reference: <author> Nolfi, S., Elman, J, and Parisi, D. </author> <title> Learning and evolution in neural networks. </title> <type> CRL Technical Report 9019. </type> <institution> University of California, </institution> <address> San Diego. </address> <year> 1990. </year>
+Reference: <author> Nolfi, S., and Parisi, D. Auto-teaching: </author> <title> networks that develop their own teaching input. </title> <type> Technical Report PCIA-91-03. </type> <institution> Institute of Psychology, C.N.R. </institution> <year> 1991. </year>
+Reference-contexts: Simulations with the same type of task and environment in which a fixed architecture was used required many more connections and resulted in poorer performance <ref> (Nolfi and Parisi, 1991) </ref>. Other interesting results concern the observed regularities in the evolutionary development of the organisms' sensory and motor systems. (Notice that, within the sensory layer, filled circles represent neurons sensitive to the angle of the nearest food element and empty circles neurons sensitive to its distance.
+Reference: <author> Parisi, D., Cecconi, F., Nolfi, S. Econets: </author> <title> neural networks that learn in an environment. </title> <journal> Network, </journal> <volume> 1, </volume> <year> (1990): </year> <pages> 149-168. </pages>
+Reference: <author> Tessier-Lavigne, M., and Placzek, M. </author> <title> Target attraction: are developing axons guided by chemotropism?, </title> <journal> TINS, </journal> <volume> 7, </volume> <year> (1991): </year> <pages> 303-309. 15 </pages>
+References-found: 11
+

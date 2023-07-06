@@ -1,0 +1,17 @@
+URL: http://www.cs.umn.edu/Research/Agassiz/Memo/hli-guide.ps
+Refering-URL: http://www.cs.umn.edu/Research/Agassiz/memo.html
+Root-URL: http://www.cs.umn.edu
+Email: E-mail: fsycho, songg@cs.umn.edu  
+Title: The HLI Implementor's Guide (v0.1) (internal document)  
+Author: Sangyeun Cho and Yonghong Song 
+Date: September 1, 1997  
+Address: Minneapolis, MN 55455, USA  
+Affiliation: Agassiz Project Dept. of Computer Science University of Minnesota  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> SCHWINN, S. J. </author> <title> The HLI Interface Specification for Back-end Compilers, Agassiz Internal Document. </title> <month> September </month> <year> 1997. </year>
+Reference-contexts: For the portability purpose, HLI resides in separate data structures from those used in the back-end compiler, and the information is retrieved only by a set of query functions specified in <ref> [1] </ref>. The query functions stand as a common interface to HLI regardless of the back-end compiler used. The implementation of the query functions, however, are in some parts dependent on the internals of the back-end compiler. <p> It simply create equivalent class in reg and reg's parents and also link them with parent-child relation. It returns the equivalent class in reg. This is a basis for several high-level jobs. 4 Query Functions For the prototypes and semantics of the query functions, refer to <ref> [1] </ref>. <p> From the given instruction, get an item. 2. From the item, get the line structure. 3. Follow a pointer to reach at the parent line structure. 4. Return needed information. 8 5 Maintenance Functions For the prototypes and semantics of the maintenance functions, refer to <ref> [1] </ref>. This section focuses on the algorithms used to implement the maintenance functions. A return value (5.1 ??) equal to or larger than 0 means the job was done correctly, otherwise something went wrong.
+Reference: [2] <author> TSAI, J.-Y. </author> <title> High-Level Information Format for Integrating Front-end and Back-end Compilers (v0.2), Agassiz Internal Document, </title> <month> February </month> <year> 1997. </year> <month> 13 </month>
+Reference-contexts: 1 Introduction High-Level Information (or HLI) <ref> [2] </ref> has been proposed to provide a number of important program information that is not available or hard to calculate in back-end compilers.
+References-found: 2
+

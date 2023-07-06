@@ -1,0 +1,19 @@
+URL: ftp://ftp.cs.bham.ac.uk/pub/authors/R.J.Hendley/ieeeviz.ps.Z
+Refering-URL: http://www.cs.gatech.edu/computing/classes/cs6364_96_spring/CS6364_resources.html
+Root-URL: 
+Email: -R.J.Hendley, N.S.Drew, A.M.Wood, R.Beale-@cs.bham.ac.uk  
+Title: Narcissus: Visualising Information sophisticated visualisation tools which will lead the users to form an intuitive
+Author: R.J.Hendley, N.S.Drew, A.M.Wood R.Beale 
+Note: One approach to providing this support is to provide  This paper describes such a tool and a number of visualisation techniques that it implements.  
+Address: B15 2TT, UK  
+Affiliation: School of Computer Science University of Birmingham,  
+Abstract:  
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Berners-Lee, T., Cailliau, R. Luotonen, A., Nielsen, H.F. </author> & <title> Secret, </title> <editor> A. </editor> <booktitle> The World Wide Web . Communications of the ACM 37 (8), </booktitle> <pages> pp 87-96. </pages> <year> 1994. </year>
+Reference-contexts: Increasingly, economic and other factors are requiring that much more highly optimised designs should be produced and this is leading to many of the same problems that have been encountered within Software Engineering. The World Wide Web (WWW) <ref> [1] </ref> is probably the best example of an information space where users need support. The structure of the web has evolved rather than been designed and the quantity of information is both very great and it is changing rapidly.
+Reference: [2] <author> Drew N.S.., </author> <note> Hendley R.J. Visualising Complex Interacting Systems . Proceedings of CHI95 (to appear) 1995. </note>
+Reference: [3] <author> Finin T., Fritzon R., McKay D. et. al. </author> <title> An Overview of KQML: </title>
+Reference-contexts: The Narcissus system uses these techniques of self-organising systems and virtual reality to generate visualisations through which the users can navigate and manipulate objects in the visualisation. The system is implemented as a process which communicates with applications (e.g. web browsers and programming environments) using KQML <ref> [3] </ref>. This provides a degree of application independence and also allows the system to work concurrently with several, possibly heterogeneous, applications and also allows collaborative working between several users. The results that have been produced confirm the intuition that these are powerful techniques. <p> Since then it has been re-implemented as an independent system which communicates with other applications using KQML <ref> [3] </ref>. This implementation has been applied to web browsing and to program development. Narcissus itself is independent of the application (s) with which it is being used, although work is required to enable new applications to interact with the system.
+References-found: 3
+

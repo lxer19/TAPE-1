@@ -1,0 +1,14 @@
+URL: ftp://ftp.cs.unc.edu/pub/users/jeffay/papers/Bharrat.ps.Z
+Refering-URL: http://www.cs.unc.edu/Research/real-time.html
+Root-URL: http://www.cs.unc.edu
+Email: -bharrat,jeffay-@cs.unc.edu  
+Title: Predicting Worst Case Execution Times on a Pipelined RISC Processor  
+Author: Shaun J. Bharrat Kevin Jeffay 
+Note: 1 Introduction  
+Address: Chapel Hill, NC 27599-3175 USA  
+Affiliation: University of North Carolina at Chapel Hill Department of Computer Science  
+Abstract: A key step in analyzing and reasoning about the performance of real-time systems is the derivation of the worst case execution time of a program or program fragment. Modern computer systems with pipelined processors, caches, DMA, etc., can complicate this process. We demonstrate that pipelining need not be considered to be a barrier to the computation of useful worst case execution time bounds of programs by developing a simple method for accounting for the speedup due to pipelining in an implementation of the Sparc RISC processor architecture. The method is applied to several nontrivial program fragments and is capable of accurately measuring worst case execution time even when programs are delayed by interrupt processing. The correctness of real-time systems depends on the satisfaction of both logical and temporal constraints. An important component of evaluating whether a program meets its temporal constraints is prediction of the execution time of the entire program or some component of the program. In particular, for the class of hard real-time systems where stochastic measures are unacceptable, the determination of worst case execution time is an important problem. Knowledge of worst case execution times are required to apply the feasibility tests associated with real-time scheduling algorithms and models (e.g., [7, 8, 9]), to effectively use prototyping and system analysis systems (e.g., [10]), and to use program logics to reason about real-time programs (e.g., [2]). Several features of current computing environments conspire to make the determination of useful (i.e., non-overly pessimistic) worst case execution times a difficult problem. Most programs are written in a higher level language, but at the source code level, identical statements will often be translated into very different machine instructions leading to wide variability of execution time. A worst case analysis must necessarily select the worst. Even at the machine instruction level, there may be variability in the execution time of particular instructions. Hardware architectures add to the non-determinism. Virtual memory, caches, 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

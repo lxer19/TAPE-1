@@ -1,0 +1,21 @@
+URL: ftp://ftp.cs.uu.nl/pub/RUU/CS/techreps/CS-1993/1993-26.ps.gz
+Refering-URL: http://www.cs.ruu.nl/docs/research/publication/TechList1.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: On-line maintenance of the four-connected components of a graph, Drawing planar graphs using Algorithms for
+Author: [] Kanevsky, A., R. Tamassia, G. Di Battista and J. Chen, Kant, G., Kant, G., [] Kant, G., putation, . [] Otten, R.H.J.M., and J.G. van Wijk, Richards, D., Rosenstiehl, P., and R.E. Tarjan, Tamassia, R., and I.G. Tollis, Tamassia, R., and I.G. Tollis, 
+Address: 1993.  
+Affiliation: Dept. of Com puter Science, Utrecht University,  
+Note: in: Proc. 32th Annual IEEE Symp. on Found. of Comp. Science, Puerto Rico, 1991, pp. 793-801. [10]  the lmc-ordering, Proc. 33th Ann. IEEE Symp. on Found. of Comp. Science, Pittsburgh, 1992, pp. 101-110. Revised and extended version in: [11]  PhD thesis,  [14] Nummenmaa, J.,  Theoret. Comp. Science 99 (1992), pp.  design, in: Proc. IEEE Int. Symp. on Circuits and Systems, 1978, pp. 914-918.  Congr. Numer. 56 (1987), pp. 31-44. [17]  J. Alg. 7 (1986), pp. 382-394. [18]  Discr. and Comp. Geometry 1 (1986), pp. 343-353. [19]  Discr. and Comp. Geometry 1 (1986), pp. 321-341. [20]  Trans. Circuits and Systems 36 (1989), pp. 1230-1234. 16  
+Abstract: 13] Kant, G., and X. He, Two Algorithms for Finding Rectangular Duals of Planar Graphs, Tech. Report RUU-CS-92-41, Dept. of Computer Science, Utrecht University, 1992. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Bertolazzi, P., R.F. Cohen, G. Di Battista, R. Tamassia and I.G. Tollis, </author> <title> How to draw a series-parallel graph, </title> <editor> in: O. Nurmi and E. Ukkonen (Eds.), </editor> <booktitle> Proc. Scand. Workshop on Algorithm Theory (SWAT'92), Lecture Notes in Computer Science 621, </booktitle> <publisher> Springer-Verlag, </publisher> <year> 1992, </year> <pages> pp. 272-283. </pages>
+Reference: [2] <author> Chiba, N., and T. Nishizeki, </author> <title> Arboricity and subgraph listing algorithms, </title> <journal> SIAM J. Comput. </journal> <volume> 14 (1985), </volume> <pages> pp. 210-223. </pages>
+Reference: [3] <author> Di Battista, G., Eades, P., and R. Tamassia, I.G. Tollis, </author> <title> Algorithms for Automatic Graph Drawing: An Annotated Bibliography, </title> <institution> Dept. of Comp. Science, Brown Univ., </institution> <type> Technical Report, </type> <year> 1993. </year>
+Reference: [4] <author> Di Battista, G., R. Tamassia and I.G. Tollis, </author> <title> Area requirement and symmetry display in drawing graphs, </title> <booktitle> Discrete and Comp. Geometry 7 (1992), </booktitle> <pages> pp. 381-401. </pages>
+Reference: [5] <author> Di Battista, G., R. Tamassia and I.G. Tollis, </author> <title> Constrained visibility representations of graphs, </title> <journal> Inform. Process. Letters 41 (1992), </journal> <pages> pp. 1-7. </pages>
+Reference: [6] <author> Fraysseix, H. de, J. Pach and R. Pollack, </author> <title> How to draw a planar graph on a grid, </title> <booktitle> Combinatorica 10 (1990), </booktitle> <pages> pp. 41-51. </pages>
+Reference: [7] <author> Harary, F., </author> <title> Graph Theory, </title> <publisher> Addison-Wesley Publishing Company, Inc., </publisher> <address> Reading, Mass., </address> <year> 1972. </year>
+
+References-found: 7
+

@@ -1,0 +1,38 @@
+URL: ftp://ftp.icsi.berkeley.edu/pub/techreports/1993/tr-93-062.ps.gz
+Refering-URL: http://www.icsi.berkeley.edu/techreports/1993.html
+Root-URL: http://www.icsi.berkeley.edu
+Title: A Formalization of Viewpoints  
+Author: Giuseppe Attardi Maria Simi 
+Address: Pisa, Corso Italia 40, I-56125 Pisa, Italy.  Pisa, Corso Italia 40, I-56125 Pisa, Italy.  
+Affiliation: Computer Science Institute, Berkeley CA. Dipartimento di Informatica, Universita di  Dipartimento di Informatica, Universita di  
+Note: Part of this work has been done while the authors were visiting the International  
+Pubnum: TR-93-062  
+Email: Net: attardi@di.unipi.it.  Net: simi@di.unipi.it.  
+Date: October, 1993  
+Abstract: We present a formalisation for the notion of viewpoint, a construct meant for expressing several varieties of relativised truth. The formalisation consists in a logic which extends first order predicate calculus through an axiomatization of provability and with the addition of proper reflection rules. The extension is not conservative, but consistency is granted. Viewpoints are defined as set of reified meta-level sentences. A proof theory for viewponts is developed which enables to carry out proofs of sentences involving several viewpoints. A semantic account of viewpoints is provided, dealing with issues of self referential theories and paradoxes, and exploiting the notion of contextual entailment . Notions such as beliefs, knowledge, truth and situations can be uniformly modeled as provability in specialised viewpoints, obtained by imposing suitable constraints on viewpoints. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Aczel, P., </author> <title> Non-well-founded sets, </title> <booktitle> CSLI lecture notes, 12, Center for the Study of Language and Information, </booktitle> <address> Stanford, CA, </address> <year> 1988. </year>
+Reference: <author> Attardi G., M. Simi, </author> <title> Metalanguage and reasoning across viewpoints, </title> <booktitle> in ECAI84: Advances in Artificial Intelligence, </booktitle> <editor> T. O'Shea (ed.), </editor> <publisher> Elsevier Science Publishers, </publisher> <address> Amsterdam, </address> <year> 1984. </year>
+Reference: <author> Attardi G., M. Simi, </author> <title> A Description Oriented Logic for Building Knowledge Bases, </title> <booktitle> Proceedings of the IEEE , 74(10), </booktitle> <month> October </month> <year> 1986, </year> <note> 1335-1344. </note> <author> 20 Attardi G., M. Simi, </author> <title> Reflections about reflection, </title> <editor> in Allen, J. A., Fikes, R., and Sandewall, E. (eds.) </editor> <booktitle> Principles of Knowledge Representation and Reasoning: Proceedings of the Second International Conference. </booktitle> <publisher> Morgan Kaufmann, </publisher> <address> San Mateo, CA, </address> <year> 1991. </year>
+Reference: <author> Bowen K.A., R.A. Kowalski, </author> <title> Amalgamating language and metalanguage in logic programming, in Logic Programming, </title> <editor> K. Clark and S. Tarnlund (eds.), </editor> <publisher> Academic Press, </publisher> <year> 1982, </year> <pages> 153-172. </pages>
+Reference: <author> Davies N., </author> <title> Towards a first order theory of reasoning agents, </title> <booktitle> Proc. of 9th European Conference on Artificial Intelligence, </booktitle> <address> Stockholm, </address> <year> 1990, </year> <pages> 195-200. </pages>
+Reference: <author> Genesereth M.R., R. Fikes, </author> <title> Knowledge Interchange Format Version 2.2 Reference manual, </title> <type> LG Report Logic-90-4, </type> <institution> CS Department, Stanford, </institution> <year> 1992. </year>
+Reference: <author> Guha R. V., </author> <title> Contexts: a formalization and some applications, </title> <type> MCC Tech Rep ACT-CYC-42391, </type> <month> Nov. </month> <year> 1991. </year>
+Reference: <author> Gupta A., </author> <title> Truth and paradox, </title> <journal> Journal of Philosophical Logic, </journal> <volume> 11, </volume> <year> 1982, </year> <pages> 1-60. </pages>
+Reference: <author> Herzberger H., </author> <title> Notes on naive semantics, </title> <journal> Journal of Philosophical Logic, </journal> <volume> 11, </volume> <year> 1982, </year> <pages> 61-102. </pages>
+Reference: <author> Konolige K., </author> <title> A first order formalization of knowledge and action for a multiagent planning system, </title> <booktitle> Machine Intelligence 10, </booktitle> <year> 1982. </year>
+Reference: <author> Kripke S., </author> <title> Outline of a theory of truth, </title> <journal> Journal of Philosophy , 22(1), </journal> <year> 1975, </year> <pages> 690-716. </pages>
+Reference: <author> McCarthy J., </author> <title> First order theories of individual concepts and propositions, </title> <booktitle> Machine Intelligence 9, </booktitle> <year> 1979, </year> <pages> 129-147. </pages>
+Reference: <author> McCarthy J., </author> <booktitle> Generality in Artificial Intelligence, Communications of the ACM , 30(12), </booktitle> <year> 1987, </year> <pages> 1030-1035. </pages>
+Reference: <author> McCarthy J., </author> <title> Notes on Formalizing Context, </title> <booktitle> Proceedings of the Thirteenth International Joint Conference on Artificial Intelligence, </booktitle> <year> 1993. </year>
+Reference: <author> Montague R., </author> <title> Syntactical treatment of modalities, with corollaries on reflexion principles and finite axiomatizability, </title> <journal> Acta Philosoph. Fennica, </journal> <volume> 16, </volume> <year> 1963, </year> <pages> 153-167. </pages>
+Reference: <author> Moore R. C., </author> <title> Reasoning about knowledge and action, </title> <booktitle> Proc. </booktitle> <address> of IJCAI77 , Cambridge, MA, </address> <year> 1977, </year> <pages> 223-227. </pages>
+Reference: <author> Perlis D., </author> <title> Languages with self-reference I: foundations, </title> <journal> Artificial Intelligence, </journal> <volume> 25, </volume> <year> 1985, </year> <pages> 301-322. </pages>
+Reference: <author> Perlis D., </author> <title> Language with self reference II: knowledge, belief and modality, </title> <journal> Artificial Intelligence, </journal> <volume> (34),2, </volume> <year> 1988, </year> <pages> 179-212. </pages>
+Reference: <author> Shoham, Y., </author> <title> Varieties of contexts, </title> <editor> in Vladimir Lifschitz (ed.), </editor> <booktitle> Artificial Intelligence and Mathematical Theory of Computation: </booktitle> <publisher> papers in honor of John McCarthy , Academic Press, </publisher> <year> 1991. </year> <title> 21 Simi M., Viewpoints subsume belief, truth and situations, </title> <booktitle> in Trends in Artificial In--telligence, Proc. of 2nd Congress of the Italian Association for Artificial Intelligence, </booktitle> <editor> Ardizzone, Gaglio, Sorbello (Eds), </editor> <booktitle> Lecture Notes in Artificial Intelligence 549, </booktitle> <publisher> Springer Verlag, </publisher> <year> 1991, </year> <pages> 38-47. </pages>
+Reference: <author> Sowa J.F., </author> <title> Finding structure in knowledge soup, </title> <booktitle> Proc. Info Japan 90 Information Processing Society of Japan, </booktitle> <year> 1990, </year> <pages> 245-252. </pages>
+Reference: <author> Turner R., </author> <title> Truth and modality for knowledge representation, </title> <publisher> Pitman Press, </publisher> <address> London, </address> <year> 1989. </year>
+Reference: <author> Weyhrauch R.W., </author> <title> Prolegomena to a theory of mechanized formal reasoning, </title> <journal> Artificial Intelligence, </journal> <volume> 13 (1,2), </volume> <year> 1980, </year> <pages> 133-170. 22 </pages>
+References-found: 22
+

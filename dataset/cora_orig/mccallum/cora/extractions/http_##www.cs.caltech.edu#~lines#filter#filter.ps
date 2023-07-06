@@ -1,0 +1,20 @@
+URL: http://www.cs.caltech.edu/~lines/filter/filter.ps
+Refering-URL: http://www.cs.caltech.edu/~lines/filter/filter.html
+Root-URL: http://www.cs.caltech.edu
+Title: arrayed for a linear improvement in throughput, provided there are enough coefficients on each chip
+Author: A. D. Booth, S. M. Burns, A. J. Martin, [] P. P. Vaidyanathan, [] P. P. Vaidyanathan, Banks, 
+Keyword: Figure 7: Spice Simulation of Multiplier  
+Date: Nov. 1986.  
+Note: 9 Conclusions be  References [1]  Quarterly Journal of Mech. Appl. Math, Vol. 4, No. 2, pp. 236-240, 1951. [2]  Ph.D. Dissertation, Cal-tech, 1991. [3]  IEEE Transactions on Circuits and Systems, Vol. CAS-33, No. 11, pp. 1045-1064,  Prentice-Hall, 1993.  
+Pubnum: Computing, Vol.1, No. 4, pp. 226-234, 1986.  
+Abstract: available through MOSIS). Vdd was set to 5V. Three full cycles are shown in Figure 7 for a carry channel in the middle of a 4x4 bit multiplier. The 4-phase handshaking on input and output channels can be observed in this plot. The cycle time is seen to be 5:25ns, which corresponds to a 190MHz throughput. We derive a highly parallel CSP description for an FIR lattice structure filter from a sequential program using the synthesis method from [3]. The method should work well for any periodic structure of computation (e.g. IIR and transmission-line filters). We place the appropriate amount of slack in our channels to deeply pipeline the filter. By bit-skewing we make the throughput independent of word length. For instance, our filter uses twelve bit fixed point numbers, but the throughput would be the same if the filter used an eight bit word or a thirty-two bit word. Our processes are small and regular. They communicate locally; the only global signals are power, ground, and reset. This makes the individual processes easy to compose, reduces design time, and leads to a fast implementation. Since we implement a logically "safe" circuit, it should work with minimal verification effort. This circuit is useful in many applications where "real-time" filtering is necessary. For a 40th order filter, our chip's input/output rate will be about 5MHz, which does not strain the pad rates. Assuming a standard RISC processor requires 10 instructions to execute one filter iteration (4 arithmetic, 3 memory, and 1 loop instruction), a 200MHz RISC processor, could at best filter at a data rate 625kHz, a factor of eight slower than this circuit. Also, these processors can We would like to thank Jose Tierno, Peter Hofstee, and Chuck Seitz of the California Institute of Technology for discussion and help. [6] T. Williams, "Latency and Throughput Tradeoffs in Self-Timed Asynchronous Pipelines and Rings," Stan-ford Tech. Report, CSL-TR-90-431, May 1990. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> A. D. Booth, </author> <title> "A Signed Binary Multiplication Technique," </title> <journal> Quarterly Journal of Mech. Appl. Math, </journal> <volume> Vol. 4, No. 2, </volume> <pages> pp. 236-240, </pages> <year> 1951. </year>
+Reference: [2] <author> S. M. Burns, </author> <title> "Performance Analysis and Optimization of Asynchronous Circuits," </title> <type> Ph.D. Dissertation, </type> <institution> Cal-tech, </institution> <year> 1991. </year>
+Reference: [3] <author> A. J. Martin, </author> <title> "Compiling Communicating Processes into Delay-Insensitive Circuits," </title> <journal> Distributed Computing, Vol.1, </journal> <volume> No. 4, </volume> <pages> pp. 226-234, </pages> <year> 1986. </year>
+Reference: [4] <author> P. P. Vaidyanathan, </author> <title> "Passive Cascaded-Lattice Structures for Low-Sensitivity FIR Filter Design, with Applications to Filter Banks," </title> <journal> IEEE Transactions on Circuits and Systems, </journal> <volume> Vol. CAS-33, No. 11, </volume> <pages> pp. 1045-1064, </pages> <month> Nov. </month> <year> 1986. </year>
+Reference: [5] <author> P. P. Vaidyanathan, </author> <title> Multirate Systems and Filter Banks, </title> <publisher> Prentice-Hall, </publisher> <year> 1993. </year>
+
+References-found: 5
+

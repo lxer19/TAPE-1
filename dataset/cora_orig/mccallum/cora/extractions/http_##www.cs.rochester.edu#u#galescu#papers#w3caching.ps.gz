@@ -1,0 +1,25 @@
+URL: http://www.cs.rochester.edu/u/galescu/papers/w3caching.ps.gz
+Refering-URL: http://www.cs.rochester.edu/stats/oldmonths/1998.05/docs-name.html
+Root-URL: 
+Title: World Wide Web Caching  
+Author: Lucian Galescu 
+Date: December 19, 1997  
+Affiliation: Computer Science Department University of Rochester  
+Abstract: As the size of the World Wide Web increases at a rate much higher than that of adding networking infrastructure, the perceived latency of the Web becomes an important issue. This paper surveys the research done in the past few years on caching, which is one of the techniques that attempts to keep low the traffic on the Web. After introducing the problem and the general idea of how to solve it, the paper will concentrate on different issues related to caching: what are its advantages and disadvantages, what caching policies can be used, what caching topologies and protocols have been proposed, and then go into more detail about maintaining a cache.
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> A. Dingle, T. Partl. </author> <title> Web Cache Coherence In Proc. </title> <booktitle> 5th Int'l WWW Conf., </booktitle> <address> Paris, </address> <year> 1996. </year>
+Reference: [2] <author> S. Williams, et. al. </author> <title> Removal Policies in Network Caches for World-Wide Web Documents in Proc. </title> <booktitle> SIGCOMM Conf., </booktitle> <year> 1996 </year> <month> (revised </month> <year> 1997). </year>
+Reference-contexts: In such a case, if a new cacheable document is arriving, obviously something else should be evicted from the cache. There have been many removal policies proposed, and a good analysis can be found in <ref> [2] </ref>. The problem is different, from that of replacement in memory and disk caching, since the files are not all the same size. Therefore, the policies 7 that give good results may be different.
+Reference: [3] <author> A. Chankhunthod, et. al. </author> <title> A Hierarchical Internet Object Cache in Proc. </title> <booktitle> USENIX Conf., </booktitle> <year> 1996. </year>
+Reference: [4] <author> D. Povey, J. </author> <title> Harrison A Distributed Internet Cache in Proc. </title> <booktitle> 20th Australasian CS Conf., </booktitle> <address> Sydney, </address> <year> 1997. </year>
+Reference: [5] <author> K. Chinen, S. </author> <title> Yamaguchi An Interactive Prefetching Proxy Server for Improvement of WWW Latency in Proc. </title> <address> INET'97, </address> <year> 1997. </year>
+Reference: [6] <author> Z. Wang, J. </author> <title> Crowcroft Prefetching in World Wide Web in Proc. </title> <address> Globecom'96, London, </address> <year> 1996. </year>
+Reference: [7] <author> E.P. </author> <title> Markatos Main Memory Caching of Web Documents in Computer Networks and ISDN Systems, </title> <type> 28(7-11), </type> <note> 1996 (pp 893-906). </note>
+Reference: [8] <author> M. Abrams, et. al. </author> <title> Caching Proxies: </title> <booktitle> Limitations and Potentials In Proc. 4th Int'l WWW Conf., </booktitle> <address> Boston, </address> <year> 1995. </year>
+Reference: [9] <author> R. Malpani, J. Lorch, D. </author> <title> Berger Making World Wide Web Caching Servers Cooperate In Proc. </title> <booktitle> 4th Int'l WWW Conf., </booktitle> <address> Boston, </address> <year> 1995. </year>
+Reference: [10] <author> A. Bestavros, et. al. </author> <title> Application-Level Document Caching in the Internet In Proc. </title> <address> SDNE'95, </address> <year> 1995. </year>
+Reference: [11] <author> G.V. Dias, G. Cope, R. </author> <title> Wijayaratne A Smart Internet Caching System in Proc. </title> <address> INET'96, </address> <year> 1996. </year>
+Reference: [12] <author> P. </author> <note> Danzig The Web Caching White Paper http://www.netapp.com/products/level3/netcache/webcache.html 10 </note>
+References-found: 12
+

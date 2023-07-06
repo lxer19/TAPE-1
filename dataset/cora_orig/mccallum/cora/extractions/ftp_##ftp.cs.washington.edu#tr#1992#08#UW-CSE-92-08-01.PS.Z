@@ -1,0 +1,12 @@
+URL: ftp://ftp.cs.washington.edu/tr/1992/08/UW-CSE-92-08-01.PS.Z
+Refering-URL: http://www.cs.washington.edu/research/tr/tr-by-date.html
+Root-URL: http://www.cs.washington.edu
+Title: MacTester: A Low-Cost Functional Tester for Interactive Testing and Debugging  
+Author: Carl Ebeling and Neil McKenzie 
+Address: Seattle, WA 98195  
+Affiliation: Department of Computer Science and Engineering University of Washington  
+Abstract: We describe a low-cost, functional tester for the MacII that allows students to test and debug digital systems interactively. This tester provides a large number of programmable I/O signals and can be used to test chips, boards and subsystems. Test programs are easily written using a simple, intuitive interface and we expect a variety of interactive graphical testing and debugging environments to be built for the tester. We plan to make this tester generally available in kit form. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

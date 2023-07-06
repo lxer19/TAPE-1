@@ -1,0 +1,12 @@
+URL: ftp://ftp.cs.unc.edu/pub/users/sc/COMP203-S96/L1996-01-25.PS.Z
+Refering-URL: http://www.cs.unc.edu/~sc/teaching/COMP203-S1996/lectures.html
+Root-URL: http://www.cs.unc.edu
+Title: Voicu Popescu size of the input of the binary tree algorithm is n. The size
+Author: Jun Chen n 
+Date: 5 Jan 25, 1996  1. Accelerated cascading (continuation)  
+Note: COMP203: Parallel and Distributed Computing Lecture  The  
+Abstract: We want to find max of X=(x 1 , ..., x n ) as quickly as possible while keeping work complexity low. We will combine the binary tree algorithm and the doubly logarithmic algorithm. The idea is running the nonoptimal algorithm on small sequences. So we will use the binary tree algorithm (W=O(n)) for lg lg lg n steps and the doubly logarithmic algorithm on the remaining steps. The binary tree algorithm and the doubly logarithmic algorithm were discussed in the previous lecture. Here is how we will combine the 2 algorithms: The step complexity is O(lg lg lg n) (since we run lg lg lg n steps). T(n)=O(lg lg lg n) In this lecture we will cover the following topics: 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

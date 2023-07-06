@@ -1,0 +1,16 @@
+URL: http://ptolemy.eecs.berkeley.edu/papers/JEurSim/JEurSim.ps.gz
+Refering-URL: http://ptolemy.eecs.berkeley.edu/papers/JEurSim/index.html
+Root-URL: 
+Title: Ptolemy: A Framework for Simulating and Prototyping Heterogeneous Systems  
+Phone: 94720  
+Author: Joseph Buck Soonhoi Ha Edward A. Lee David G. Messerschmitt 
+Keyword: Key words: Heterogeneity, mixed-mode, simulation, prototyping, object-oriented programming  
+Note: Invited paper in the International Journal of Computer Simulation special issue on Simulation Software Development.  
+Address: Berkeley, California  
+Affiliation: 1 of 34 Department of Electrical Engineering and Computer Science University of California  
+Date: August 31, 1992  
+Abstract: 1.0 ABSTRACT Ptolemy is an environment for simulation and prototyping of heterogeneous systems. It uses modern object-oriented software technology (C++) to model each subsystem in a natural and efficient manner, and to integrate these subsystems into a whole. Ptolemy encompasses practically all aspects of designing signal processing and communications systems, ranging from algorithms and communication strategies, simulation, hardware and software design, parallel computing, and generating real-time prototypes. To accommodate this breadth, Ptolemy must support a plethora of widely-differing design styles. The core of Ptolemy is a set of object-oriented class definitions that makes few assumptions about the system to be modeled; rather, standard interfaces are provided for generic objects and more specialized, application-specific objects are derived from these. A basic abstraction in Ptolemy is the Domain, which realizes a computational model appropriate for a particular type of subsystem. Current examples of domains include synchronous and dynamic dataow, discrete-event, and others appropriate for control software and embedded microcontrollers. Domains can be mixed as appropriate to realize an overall system simulation. Some current applications of Ptolemy include networking and transport, call-processing and signaling software, embedded microcontrollers, signal processing (including implementation in real-time real-time), scheduling of parallel digital signal processors, board-level hardware timing simulation, and combinations of these. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

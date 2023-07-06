@@ -1,0 +1,16 @@
+URL: http://www-cad.eecs.berkeley.edu/~orna/publications/concur93.ps.Z
+Refering-URL: http://www-cad.eecs.berkeley.edu/~orna/pub.html
+Root-URL: http://www.cs.berkeley.edu
+Title: On model-checking for fragments of -calculus. In Computer Aided Verification, Jeron. On-line model-checking for finite
+Author: E.A. Emerson, C. Jutla, and A.P. Sistla. D.E. Muller, A. Saoudi, and P.E. Schupp. M.Y. Vardi and P. Wolper. M.Y. Vardi and P. Wolper. M.Y. Vardi and P. Wolper. P. Wolper and P. Godefroid. 
+Date: 13:45-60, 1981.  115(1):1-37, November 1994.  
+Note: [EJS93]  Proc. 5th Int. Workshop, volume 697, pages 385-396, Elounda, Crete, June 1993. Lecture Notes in Computer Science, Springer-Verlag. [JJ89] C. Jard and T.  Proc. Int. Workshop, Greno-ble, volume 407, pages 189-196, Grenoble, June 1989. Lecture Notes in Computer Science, Springer-Verlag. [MSS86]  In Proc. 13th Int. Colloquium on Automata, Languages and Programming. Springer-Verlag, 1986. [Pnu81] A. Pnueli. The  tion of the AMS, 141:1-35, 1969. [VW86a]  In Proceedings of the First Symposium on Logic in Computer Science, pages 322-331, Cambridge, June 1986. [VW86b]  Journal of Computer and System Science, 32(2):182-21, April 1986. [VW94]  [WG93]  In Proc. 4th Conferance on Concurrency Theory, volume 715 of Lecture Notes in Computer Science, pages 233-246, Hildesheim, August 1993. Springer-Verlag. 16  
+Pubnum: Computer Science,  putation,  
+Abstract-found: 0
+Intro-found: 1
+Reference: [BG93] <author> O. Bernholtz and O. Grumberg. </author> <title> Branching time temporal logic and Amor pHOus tree automata. </title> <booktitle> In Proc. 4th Conferance on Concurrency Theory, volume 715 of Lecture Notes in Computer Science, </booktitle> <pages> pages 262-277, </pages> <address> Hildesheim, </address> <month> August </month> <year> 1993. </year> <note> Springer-Verlag. </note>
+Reference: [BVW94] <author> O. Bernholtz, M.Y. Vardi, and P. Wolper. </author> <title> An automata-theoretic approach to branching-time model checking. </title> <editor> In D. L. Dill, editor, </editor> <booktitle> Computer Aided Verification, Proc. 6th Int. Conference, volume 818 of Lecture Notes in Computer Science, </booktitle> <pages> pages 142-155, </pages> <address> Stanford, California, June 1994. </address> <publisher> Springer-Verlag, </publisher> <address> Berlin. </address>
+Reference: [CES86] <author> E.M. Clarke, </author> <title> E.A. Emerson, and A.P. Sistla. Automatic verification of finite-state concurrent systems using temporal logic specifications. </title> <journal> ACM Transactions on Programming Languages and Systems, </journal> <volume> 8(2) </volume> <pages> 244-263, </pages> <month> January </month> <year> 1986. </year>
+
+References-found: 3
+

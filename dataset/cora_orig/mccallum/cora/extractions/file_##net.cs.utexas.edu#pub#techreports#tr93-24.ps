@@ -1,0 +1,14 @@
+URL: file://net.cs.utexas.edu/pub/techreports/tr93-24.ps
+Refering-URL: http://www.cs.utexas.edu/users/rvdg/reports.html
+Root-URL: http://www.cs.utexas.edu
+Title: A.3 Proof of Lemma 3  
+Author: j ( i &lt; j &lt; LP (LP i; j &lt; RP (RP j &lt; i &lt; p)) 
+Note: (send from i to  24  
+Abstract: First, we add two auxiliary variables to RSbcast, LP and RP , to represent the boundaries of the partitions. The algorithm has the following invariant: The invariant is initialized by assigning 0 to LP and p 1 to RP . At the end of each step of RSbcast, if the current root is to the left of middle then RP is set to middle, else LP is set to middle. When RP is changed, then the right partition increases in size; the algorithm RS right is executed between middle and (the current value of) right. Similarly, when LP is changed, then the left partition is increased, and RS left is executed between (the current value of) left and middle - 1. Clearly, within the left (right) partition, messages move only to the right (left). At each step, there is exactly one message in the middle partition: this is the message that the root sends. The message is to another node in the middle partition, after which the partition boundaries are adjusted. Thus, any pair of messages within the left partition correspond to the pattern (1), any pair within the right partition correspond to the pattern (3), and any pair with one being the message in the middle partition corresponds to pattern (2). The algorithm terminates when LP = RP . 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> M. Barnett, D. Payne, and R. van de Geijn. </author> <title> Optimal broadcasting in mesh-connected architectures. </title> <type> Technical Report TR-91-38, </type> <institution> Department of Computer Sciences, The University of Texas at Austin, </institution> <month> Dec. </month> <year> 1991. </year>
+Reference: [2] <author> M. Barnett, R. Littlefield, D.G. Payne, and R. van de Geijn. </author> <title> Efficient Communication Primitives on Mesh Architectures with Hardware Routing. </title> <booktitle> Sixth SIAM Conf. on Par. Proc. for Sci. Comp., </booktitle> <address> Norfolk, Virginia, March 22-24, </address> <year> 1993. </year>
+
+References-found: 2
+

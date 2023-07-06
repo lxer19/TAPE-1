@@ -1,0 +1,16 @@
+URL: ftp://ftp.cs.dartmouth.edu/TR/TR98-333.ps.Z
+Refering-URL: http://www.cs.dartmouth.edu/reports/abstracts/TR98-333/
+Root-URL: http://www.cs.dartmouth.edu
+Title: An Implementation of External-Memory Depth-First Search  
+Author: Chris Leon 
+Degree: Senior Honors Thesis by  
+Date: June, 1998  
+Address: Hanover, New Hampshire  
+Affiliation: Dartmouth College  
+Abstract: Thesis Advisor: Thomas Cormen Computer Science Technical Report PCS-TR98-333 
+Abstract-found: 1
+Intro-found: 1
+Reference: [CGG + 95] <author> Yi-Jen Chiang, Michael T. Goodrich, Edward F. Grove, Roberto Tamas-sia, Darren Erik Vengroff, and Jeffrey Scott Vitter. </author> <title> External-memory graph algorithms. </title> <booktitle> In Proceedings of the Sixth Annual ACM-SIAM Symposium on Discrete Algorithms, </booktitle> <pages> pages 139-149, </pages> <month> January </month> <year> 1995. </year> <month> 13 </month>
+Reference-contexts: Problems this large need to be dealt with by minimizing the number of I/O's performed, and new algorithms need to be developed that take this I/O bottleneck in to account. This paper deals particularly with depth-first search. A paper by Chiang, Goodrich, Grove, Tamassia, Vengroff, and Vitter <ref> [CGG + 95] </ref> includes a sketch of an algorithm to perform depth-first search efficiently with respect to the number of I/O's performed. Their algorithm follows: 2.1 Algorithm From Chiang et al., Section 7. <p> Theorem 7.1. Let G be a directed graph containing V vertices and E edges in which the edges are given in a list that is sorted by source. DFS can be performed on G with O ((1 + V =M )scan (E) + V ) I/Os. <ref> [CGG + 95] </ref> 2.2 Tools To implement this depth-first search algorithm, we used Dartmouth's ViC* programming interface, which simulates the Parallel Disk Model (PDM). ViC* lets the user implement and verify a PDM algorithm, such as the one above.
+References-found: 1
+

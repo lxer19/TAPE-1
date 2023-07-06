@@ -1,0 +1,12 @@
+URL: http://www.eecis.udel.edu/~bao/psfile/chapter3.ps.gz
+Refering-URL: http://www.eecis.udel.edu/~bao/phdthesis.html
+Root-URL: http://www.eecis.udel.edu
+Title: Chapter 3  
+Author: END-TO-END QOS 
+Keyword: 3.1 End-to-end QoS Distribution  
+Note: 74  
+Abstract: Our discussion of QoS realization so far has been limited to achieving the QoS of each flow at a switch|the local QoS. In this chapter, we discuss how to achieve the end-to-end QoS. One straightforward approach to satisfy the end-to-end QoS requirement of a particular transmission is called end-to-end QoS distribution. With this approach, the end-to-end QoS is distributed into the local QoS of each switch on the path from the source to the destination. The distributed local QoS on each switch can be achieved by local QoS control schemes such as OCP A. In this chapter, we investigate two QoS distribution schemes and the resulting QoS performance when these schemes are applied along with the local QoS control schemes studied in the previous chapter. This chapter is organized in the following way. Section 3.1 analyzes the constraints of QoS distribution and describes the two end-to-end QoS distribution schemes under study. Section 3.2 discusses the signaling protocol for QoS distribution. Finally, in Section 3.3, we present results of a simulation study for end-to-end QoS distribution. The purpose of end-to-end QoS distribution is to distribute the end-to-end QoS responsibility into local QoS responsibilities of the switches on the transmission path. The distribution is done assuming that the transmission path is known and 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

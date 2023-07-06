@@ -1,0 +1,40 @@
+URL: ftp://softlib.rice.edu/pub/CRPC-TRs/reports/CRPC-TR93329.ps.gz
+Refering-URL: http://www.crpc.rice.edu/CRPC/softlib/TRs_online.html
+Root-URL: 
+Title: High Performance I/O for Parallel Computers  
+Author: Juan Miguel del Rosario, Alok Choudhary 
+Address: P.O. Box 1892 Houston, TX 77251-1892  
+Affiliation: Rice University  
+Note: Center for Research on Parallel Computation  
+Date: July 1993  
+Pubnum: CRPC-TR93329  
+Abstract-found: 0
+Intro-found: 1
+Reference: [Gro92] <author> Morris Grossman. </author> <title> "Modeling Reality". </title> <journal> IEEE Spectrum, </journal> <pages> pages 56-60, </pages> <month> Sept </month> <year> 1992. </year>
+Reference-contexts: This far exceeds the I/O capacity of today's machines; it takes several days to render a portion of the Venus surface on a 512-node Intel Touchtone Delta <ref> [Gro92] </ref>. Climate Prediction. Research efforts in climate and global change, long-range weather prediction, land surface processes are crucial to our understanding of earth, ocean, and atmospheric systems.
+Reference: [FHS91] <author> Ian Foster, Mark Henderson, and Rick Stevens. </author> <title> "Workshop Introduction". </title> <booktitle> In Proceedings of the Workshop on Data Systems for Parallel Climate Models at the Argonne National Laboratory, </booktitle> <month> July </month> <year> 1991. </year>
+Reference-contexts: For a 1000-year coupled atmosphere-ocean run with a 150KM 2 resolution, the atmospheric simulation takes about 30 weeks, while ocean simulation takes 27 weeks; the process produces 40 MBytes of data per simulation minute, or a total of 20 TBytes of data for the entire simulation <ref> [FHS91] </ref>. 4-D Data Assimilation. By collecting new scientific data of the earth system, researchers hope to gain a better understanding of how meteorological and chemical processes interrelate. This knowledge will allow them to produce more accurate predictions of global environmental change.
+
+Reference: [DM91] <author> Erik P. DeBenedictis and Peter Madams. </author> <title> "nCUBE's parallel I/O with Unix capability". </title> <booktitle> In The Sixth Annual Distributed-Memory Computer Conference, </booktitle> <pages> pages 270-277, </pages> <year> 1991. </year>
+
+Reference: [CK93] <author> Thomas H. Cormen and David Kotz. </author> <title> "Integrating Theory and Practice in Parallel File Systems", </title> <booktitle> In The Proceedings of the 1993 DAGS/PC Symposium, </booktitle> <pages> pages 64-74, </pages> <address> Hanover, NH, </address> <month> June </month> <year> 1993. </year> <pages> 16 17 </pages>
+
+Reference: [dRBC93] <author> Juan Miguel del Rosario, Rajesh Bordawekar, and Alok Choudhary. </author> <title> "Improved parallel I/O via a two-phase run-time access strategy", </title> <booktitle> In The 1993 IPPS Workshop on Input/Output in Parallel Computer Systems, </booktitle> <pages> pages 56-70, </pages> <year> 1993. </year>
+
+Reference: [BCdR93] <author> Rajesh Bordawekar, Alok Choudhary, and Juan Miguel del Rosario. </author> <title> An Experimental Performance Evaluation of the Touchtone Delta Concurrent File System. </title> <booktitle> In Proceedings of the International Conference on Supercomputing '93, </booktitle> <address> Tokyo, Japan, </address> <month> July </month> <year> 1993. </year>
+Reference: [BCS93] <author> Edoardo Biagioni, Eric Cooper, and Robert Sansom. </author> <title> Designing a Practical ATM LAN. </title> <journal> IEEE Network, </journal> <pages> pages 32-39, </pages> <month> March </month> <year> 1993. </year>
+Reference: [Cat92] <author> Charles E. Catlett. </author> <title> Balancing Resources. </title> <journal> IEEE Spectrum, </journal> <pages> pages 48-55, </pages> <month> Sept </month> <year> 1992. </year>
+Reference: [CC93] <institution> High Performance Computing and Communications. </institution> <note> Grand Challenges 1993 Report. A Report by the Committee on Physical, Mathematical, </note> <institution> and Engineering Sciences Federal Coordinating Council for Science, Engineering and Technology, </institution> <year> 1993. </year>
+Reference-contexts: supercomputers will break the Teraflops barrier. 1.1 I/O in Grand Challenge Applications A large number of supercomputer applications, such as those previously mentioned, are members of a set of scientific and technical "Grand Challenges", an annual list initiated some ten years ago by a Nobel prize winning physicist, Kenneth Wilson <ref> [CC93] </ref>. Aside from being extremely complex and requiring significant amounts of processing time, these applications often deal with enormous quantities of data. Current near-term high performance applications involve from 1 GByte to 4 TBytes of data per run.
+Reference: [CCI90] <author> CCITT. </author> <title> Draft Recommendation I.113, Section 2.2, </title> <address> Geneva, </address> <month> May </month> <year> 1990. </year>
+Reference: [Cro89] <author> Thomas W. Crockett. </author> <title> File concepts for parallel I/O. </title> <booktitle> In Proceedings of Supercomputing '89, </booktitle> <pages> pages 574-579, </pages> <year> 1989. </year>
+Reference: [Dav90] <author> David Kotz and Carla S. Ellis. </author> <title> Prefetching in File Systems for MIMD Multiprocessors. </title> <journal> IEEE Transactions on Parallel and Distributed Systems, </journal> <pages> pages 218-230, </pages> <month> April </month> <year> 1990. </year>
+Reference: [Int91] <institution> Paragon XP/S Product Overview. Intel Corporation, </institution> <year> 1991. </year>
+Reference: [LMT93] <author> Ian M. Leslie, Derek R. McAuley, and David L. </author> <title> Tennenhouse. </title> <journal> ATM Everywhere? IEEE Network, </journal> <pages> pages 40-46, </pages> <month> March </month> <year> 1993. </year>
+Reference: [Pag92] <author> Jon Page. </author> <title> A Study of a Parallel Database Machine and its Performance. </title> <booktitle> In Advanced Database Systems: 10th British National Conference on Databases, BNCOD 10; Ab-erdeen, Scotland, </booktitle> <pages> pages 115-137. </pages> <publisher> Springer Verlag, </publisher> <month> July </month> <year> 1992. </year>
+Reference: [PGK88] <author> David Patterson, Garth Gibson, and Randy Katz. </author> <title> A case for redundant arrays of inexpensive disks (RAID). </title> <booktitle> In ACM SIGMOD Conference, </booktitle> <pages> pages 109-116, </pages> <month> June </month> <year> 1988. </year>
+Reference: [RBA88] <author> A.L.Narashima Reddy, P. Banerjee, and Santosh G. Abraham. </author> <title> I/O Embedding in Hy-percubes. </title> <booktitle> In Proceedings of the 1988 International Conference on Parallel Processing, </booktitle> <year> 1988. </year>
+Reference: [Thi91] <institution> Thinking Machines, inc. </institution> <note> The Connection Machine CM-5 technical summary, </note> <month> Oct </month> <year> 1991. </year>
+Reference: [vECSK92] <author> Thorsten von Eicken, David E. Culler, Seth Copen Schauser, and Erik Klaus. </author> <title> Active Messages: a Mechanism for Integrated Communication and Computation. </title> <booktitle> In Proceedings of the 19th International Symposium on Computer Architecture, </booktitle> <address> Gold Coast, Australia, </address> <month> May </month> <year> 1992. </year> <note> ACM Press. 31 </note>
+References-found: 19
+

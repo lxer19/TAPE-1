@@ -1,0 +1,27 @@
+URL: ftp://ftp.icsi.berkeley.edu/pub/techreports/1992/tr-92-011.ps.gz
+Refering-URL: http://www.icsi.berkeley.edu/techreports/1992.html
+Root-URL: http://www.icsi.berkeley.edu
+Title: Competitive Algorithms for On-line Problems, Competitive Algorithms for Server Problems, Journal of Algorithms On Self-Organizing
+Author: [] M. S. Manasse, L. A. McGeoch, and D. D. Sleator, [] M. S. Manasse, L. A. McGeoch, and D. D. Sleator, [] R. Rivest, [] D. D. Sleator, and R. E. Tarjan, [] R. E. Tarjan, 
+Date: May 1988, 322-333.  2, 1990, 208-230.  (1987), 57-95.  19, 2 (February 1976), 63-67.  28, 2 (February 1985), 202-208.  (April 1985), 306-318.  
+Note: Proceedings of the 18th ACM Annual Symposium on Theory of Computing,  [18] N. J. Nilsson, Principles of Artificial Intelligence, Springer Verlag, (1982). [19] R. Reiter, A Theory of Diagnosis from First Principles, Artificial Intelligence 32,  ACM  Communications of the ACM  Amortized Computational Complexity, SIAM J. Alg. Disc. Meth. 6, 2  13  
+Pubnum: 11,  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> Y. Azar, U. </author> <title> Nanni, </title> <type> personal communication, </type> <year> 1991. </year>
+Reference: [2] <author> S. Ben-David, A. Borodin, R. Karp, G. Tardos, and A. Wigderson, </author> <title> On the Power of Randomization in On-Line Algorithms, </title> <booktitle> in Proceedings of the 2Oth ACM Annual Symposium on Theory of Computing, </booktitle> <month> May </month> <year> 1990, </year> <pages> 379-386. </pages>
+Reference: [3] <author> J. L. Bentley, and C. McGeogh, </author> <title> Amortized Analyses of Self-Organizing Sequential Search Heuristics, </title> <journal> Communications of the ACM 28, </journal> <month> 4 (April </month> <year> 1985), </year> <pages> 404-411. </pages>
+Reference: [4] <author> J. R. Bitner, </author> <title> Heuristics that Dynamically Organize Data Structures, </title> <journal> SIAM J. of Computing 8, </journal> <month> 1 (February </month> <year> 1979), </year> <pages> 82-110. </pages>
+Reference: [5] <author> A. Borodin, S. Irani, P. Raghavan, B. Schieber, </author> <title> Competitive Paging with Locality of Reference, </title> <booktitle> in Proceedings of the 21th ACM Annual Symposium on Theory of Computing, </booktitle> <year> 1991, </year> <pages> 249-259. </pages>
+Reference: [6] <author> F. d'Amore, U. Nanni, and A. Marchetti-Spaccamela, </author> <title> Robust Algorithms for Diagnosis, </title> <type> Technical Report, </type> <institution> Dipartimento di Informatica e Sistemistica, Univ. of Roma "La Sapienza", </institution> <year> 1991. </year>
+Reference: [7] <author> A. Fiat, R. M. Karp, M. Luby, L. A. McGeoch, D. D. Sleator, N. E. Young, </author> <title> Competitive Paging Algorithms, </title> <journal> Journal of Algorithms 12, </journal> <year> (1991), </year> <pages> 685-699. </pages>
+Reference: [8] <author> S. Gnesi, U. Montanari, and A. Martelli, </author> <title> Dynamic programming as graph searching: An algebraic approach, </title> <journal> Journal of ACM 28, </journal> <year> (1981), </year> <pages> 737-751. </pages>
+Reference: [9] <author> J. H. Hester, and D. S. Hirschberg, </author> <title> Self-Organizing Linear Search, </title> <journal> ACM Computing Surveys 17, </journal> <month> 3 (September </month> <year> 1985), </year> <pages> 295-311. </pages>
+Reference: [10] <author> M. Hofri, H. Shachnai, </author> <title> On the limited utility of auxiliary information in the list update problem, </title> <type> manuscript, </type> <year> 1991. </year>
+Reference: [11] <author> S. Irani, </author> <title> Two Results on the List Update Problem, </title> <type> Technical Report TR-90-037, </type> <institution> Computer Science Division, </institution> <address> U. C. Berkeley, California, </address> <month> August </month> <year> 1990. </year>
+Reference: [12] <author> S. Irani, A. R. Karlin, S. Phillips, </author> <title> Strongly Competitive Algorithms for Paging with Locality of Reference, </title> <booktitle> to appear in Proceedings of the 3rd ACM-SIAM Annual Symposium on Discrete Algorithms, </booktitle> <address> Orlando, </address> <month> January </month> <year> 1992. </year>
+Reference: [13] <author> S. Irani, N. Reingold, J. Westbrook, and D. D. Sleator, </author> <title> Randomized Competitive Algorithms for the List Update Problem, </title> <booktitle> Proceedings of the 2nd ACM-SIAM Annual Symposium on Discrete Algorithms, </booktitle> <address> San Francisco, CA, </address> <month> January </month> <year> 1991, </year> <pages> 251-260. </pages>
+Reference: [14] <author> A. R. Karlin, M. S. Manasse, L. Rudolph, and D. D. Sleator, </author> <title> Competitive Snoopy Catching, </title> <journal> Algorithmica 3, </journal> <volume> 1, </volume> <year> 1988, </year> <pages> 79-119. </pages>
+
+References-found: 14
+

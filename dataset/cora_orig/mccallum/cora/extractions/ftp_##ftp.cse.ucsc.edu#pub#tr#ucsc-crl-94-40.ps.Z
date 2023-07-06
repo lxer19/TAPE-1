@@ -1,0 +1,31 @@
+URL: ftp://ftp.cse.ucsc.edu/pub/tr/ucsc-crl-94-40.ps.Z
+Refering-URL: ftp://ftp.cse.ucsc.edu/pub/tr/README.html
+Root-URL: http://www.cse.ucsc.edu
+Title: References 21 References Electrical model of the floating gate defect in CMOS IC's: Implications on
+Author: [] V.H. Champac, A. Rubio, and J. Figueras. [] H. Cox and J. Rajski. Stuck-open [] C. Di and J.A.G. Jess. [] J.A. Waicukauski et al. [] Z. Barzilai et al. [] M. Favalli, M. Dalpasso, P. Olivo, and B. Ricco. [] C.F. Hawkins, J.M. Soden, A.W. Righter, and F.J. Ferguson. . [] Alvin Jee and F. Joel Ferguson. Carafe: [] N.K. Jha and J.A. Abraham. [] K.-J. Lee and M.A. Breuer. [] W.M. Maly, P.K. Nag, and P. Nigh. [] G. Massobrio and P. Antognetti. [] S.M. Reddy, M.K. Reddy, and J.G. Kuhl. [] M. Renovell and G. Cambon. [] Jeffrey Rogenski and F. Joel Ferguson. [] B.J. Sheu, W.-J. Hsu, and P.K. Ko. [] B. Underwood, S. Kang, W.-O. Law, and H. Konuk. Fastpath: [] J.-F. Wang, T.-Y. Kuo, and J.-Y. Lee. 
+Date: 359-369, March 1994.  264-269, July 1985.  1450-1458, November 1992.  520-527, April 1988.  
+Note: IEEE Transactions on Computer-Aided Design, pages  IEEE Transactions on Computer-Aided Design, pages  IEEE Transactions on Computer-Aided Design, pages  IEEE Transactions on Computer-Aided Design, pages  Conference, June 1989.  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> V.H. Champac, A. Rubio, and J. Figueras. </author> <title> Electrical model of the floating gate defect in CMOS IC's: Implications on IDDQ testing. </title> <journal> IEEE Transactions on Computer-Aided Design, </journal> <pages> pages 359-369, </pages> <month> March </month> <year> 1994. </year>
+Reference: [2] <author> H. Cox and J. Rajski. </author> <title> Stuck-open and transition fault testing in CMOS complex gates. </title> <booktitle> In Proceedings of International Test Conference, </booktitle> <month> October </month> <year> 1988. </year>
+Reference: [3] <author> C. Di and J.A.G. Jess. </author> <title> On accurate modeling and efficient simulation of CMOS opens. </title> <booktitle> In Proceedings of International Test Conference, </booktitle> <month> October </month> <year> 1993. </year>
+Reference: [4] <author> J.A. Waicukauski et al. </author> <title> Fault simulation for structured VLSI. </title> <booktitle> In VLSI Systems Design, </booktitle> <month> Dec. </month> <year> 1985. </year>
+Reference: [5] <author> Z. Barzilai et al. </author> <title> Efficient fault simulation of CMOS circuits with accurate models. </title> <booktitle> In Proceedings of International Test Conference, </booktitle> <month> October </month> <year> 1986. </year>
+Reference: [6] <author> M. Favalli, M. Dalpasso, P. Olivo, and B. Ricco. </author> <title> Modeling of broken connections faults in CMOS ICs. </title> <booktitle> In Proceedings of European Design and Test Conference, </booktitle> <year> 1994. </year>
+Reference: [7] <author> C.F. Hawkins, J.M. Soden, A.W. Righter, and F.J. Ferguson. </author> <title> Defect classes an overdue paradigm for CMOS IC testing. </title> <booktitle> In Proceedings of International Test Conference, </booktitle> <month> October </month> <year> 1994. </year>
+Reference: [8] <author> Alvin Jee and F. Joel Ferguson. Carafe: </author> <title> An inductive fault analysis tool for CMOS VLSI circuits. </title> <booktitle> In Proceedings of the IEEE VLSI Test Symposium, </booktitle> <year> 1993. </year>
+Reference: [9] <author> N.K. Jha and J.A. Abraham. </author> <title> Design of testable CMOS logic circuits under arbitrary delays. </title> <journal> IEEE Transactions on Computer-Aided Design, </journal> <pages> pages 264-269, </pages> <month> July </month> <year> 1985. </year>
+Reference: [10] <author> K.-J. Lee and M.A. Breuer. </author> <title> On the charge sharing problem in CMOS stuck-open fault testing. </title> <booktitle> In Proceedings of International Test Conference, </booktitle> <month> October </month> <year> 1990. </year>
+Reference: [11] <author> W.M. Maly, P.K. Nag, and P. Nigh. </author> <title> Testing oriented analysis of CMOS ICs with opens. </title> <booktitle> In Proceedings of International Conference on Computer-Aided Design, </booktitle> <month> November </month> <year> 1988. </year>
+Reference: [12] <author> G. Massobrio and P. Antognetti. </author> <title> Semiconductor Device Modeling with SPICE. </title> <publisher> McGraw-Hill, </publisher> <year> 1993. </year>
+Reference: [13] <author> Meta-Software. </author> <title> HSPICE User's Manual: Elements and Models. </title> <year> 1992. </year>
+Reference: [14] <author> S.M. Reddy, M.K. Reddy, and J.G. Kuhl. </author> <title> On testable design for CMOS logic circuits. </title> <booktitle> In Proceedings of International Test Conference, </booktitle> <month> October </month> <year> 1983. </year>
+Reference: [15] <author> M. Renovell and G. Cambon. </author> <title> Electrical analysis and modeling of floating-gate fault. </title> <journal> IEEE Transactions on Computer-Aided Design, </journal> <pages> pages 1450-1458, </pages> <month> November </month> <year> 1992. </year>
+Reference: [16] <author> Jeffrey Rogenski and F. Joel Ferguson. </author> <title> Characterization of opens in logic circuits. </title> <booktitle> In Proceedings of IEEE ASIC Conference, </booktitle> <year> 1994. </year>
+Reference: [17] <author> B.J. Sheu, W.-J. Hsu, and P.K. Ko. </author> <title> An MOS transistor charge model for VLSI design. </title> <journal> IEEE Transactions on Computer-Aided Design, </journal> <pages> pages 520-527, </pages> <month> April </month> <year> 1988. </year>
+Reference: [18] <author> B. Underwood, S. Kang, W.-O. Law, and H. Konuk. Fastpath: </author> <title> Robust path-delay test generator for standard scan designs. </title> <booktitle> In Proceedings of International Test Conference, </booktitle> <month> October </month> <year> 1994. </year>
+
+
+References-found: 18
+

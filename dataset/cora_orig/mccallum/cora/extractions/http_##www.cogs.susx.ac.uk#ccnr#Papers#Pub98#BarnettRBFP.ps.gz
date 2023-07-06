@@ -1,0 +1,23 @@
+URL: http://www.cogs.susx.ac.uk/ccnr/Papers/Pub98/BarnettRBFP.ps.gz
+Refering-URL: http://www.cogs.susx.ac.uk/ccnr/Papers/pub98.html
+Root-URL: http://www.cogs.susx.ac.uk/ccnr/Papers/pub98.html
+Email: lionelb@cogs.susx.ac.uk  
+Title: Recombination and Bistability in Finite Populations  
+Author: Lionel Barnett 
+Date: September 29, 1998  
+Address: Brighton BN1 9QH, UK  
+Affiliation: Centre for the Study of Evolution Centre for Computational Neuroscience and Robotics School of Cognitive and Computing Sciences University of Sussex  
+Abstract: In this paper we analyse the phenomenon of "bistability" in finite population evolutionary dynamics, especially with regard to recombination. Bistability, where the steady-state population distribution depends on the initial state of the population, has recently been observed in an (infinite population) quasi-species model of viral recombination [Boerlijst et al., 1996]. We analyse a comparable finite-population model using a birth and death process due to [Moran, 1958]. Bistability (or its stochastic analogue) is revealed in the bimodality of the stationary probability distribution of the birth and death process and long mean transition times between the modes. These effects are demonstrated to be exaggerated by recombination. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Boerlijst, M. C., Bonhoeffer, S., & Nowak, M. A. </author> <year> (1996). </year> <note> Viral quasi-species and recombination. Proc. </note> <editor> R. Soc. Lond. B., </editor> <volume> 263, </volume> <pages> 1577-1584. </pages>
+Reference: <author> Derrida, B. & Peliti, L. </author> <year> (1991). </year> <title> Evolution in a flat fitness landscape. </title> <journal> Bull. Math. Biol., </journal> <volume> 53 (3), </volume> <pages> 355-382. </pages>
+Reference: <author> Eigen, M., McCaskill, J., & Schuster, P. </author> <year> (1988). </year> <title> Molecular quasi-species. </title> <journal> J. Phys. Chem., </journal> <volume> 92, </volume> <pages> 6881-6891. </pages>
+Reference: <author> Forst, C. V., Reidys, C., & Weber, J. </author> <year> (1995). </year> <title> Evolutionary dynamics and optimization: Neutral networks as model-landscapes for rna secondary-structure folding-landscapes. </title> <editor> In Moran, F., Moreno, A., Merelo, J. J., & Chacon, P. (Eds.), </editor> <booktitle> Proc. ECAL '95, Lecture Notes in Artificial Intelligence, </booktitle> <volume> vol. 929: </volume> <booktitle> Advances in Artificial Life. </booktitle> <publisher> Springer Verlag. </publisher>
+Reference: <author> Karlin, S. & Taylor, H. M. </author> <year> (1975). </year> <title> A first course in Stochastic Processes (2nd ed.). </title> <publisher> Academic Press (NY). </publisher>
+Reference: <author> Kimura, M. </author> <year> (1983). </year> <title> The Neutral Thery of Molecular Evolution. </title> <publisher> Cambridge University Press. 8 Moran, </publisher> <editor> P. A. P. </editor> <year> (1958). </year> <title> The effect of selection in a haploid genetic population. </title> <journal> Proc. Camb. Phil. Soc., </journal> <volume> 54, </volume> <pages> 463-467. </pages>
+Reference: <author> Nowak, M. & Schuster, P. </author> <year> (1989). </year> <title> Error thresholds of replication in finite populations: Mutation frequencies and the onset of muller's ratchet. </title> <journal> J. Theor. Biol., </journal> <volume> 137, </volume> <pages> 375-395. </pages>
+Reference: <author> Ochoa, G. & Harvey, I. </author> <year> (1999). </year> <title> Recombination and error thresholds in finite populations. </title> <booktitle> In Proceedings of FOGA 5 (Foundations of Genetic Algorithms) in preparation. </booktitle> <address> ftp://ftp.cogs.susx.ac.uk/pub/users/inmanh/fogat.ps.gz. </address>
+Reference: <author> Stirzaker, D. </author> <year> (1994). </year> <title> Elementary Probability. </title> <publisher> Cambridge University Press. </publisher> <pages> 9 </pages>
+References-found: 9
+

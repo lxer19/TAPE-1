@@ -1,0 +1,25 @@
+URL: http://www.cc.gatech.edu/grads/b/Tucker.Balch/papers/euromicro.ps.Z
+Refering-URL: http://www.cc.gatech.edu/aimosaic/robot-lab/mrl-online-publications.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Email: tucker@cc.gatech.edu  
+Title: Dynamic Scheduling for Mobile Robots  
+Author: Tucker Balch, Harold Forbes and Karsten Schwan 
+Date: fax:(404)853-0957  
+Address: Atlanta, Georgia 30332-0280 USA  
+Affiliation: College of Computing Georgia Institute of Technology  
+Abstract: This research concerns efficient multiprocessor threads-based implementation of reactive navigation for mobile robots. We present two important results: 1) Performance is improved significantly when CPU time allocated to individual navigational threads is adjusted dynamically according to a heuristic measure of their importance. 2) To implement this strategy, we present a multiprocessor scheduler design which can dynamically schedule navigational threads. The experiments were conducted in simulation on a BBN Butterfly and a KSR1 (shared memory multiprocessors). Speedups found for this example should extend to more complex navigational strategies as long as a heuristic measure of thread importance is available. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> J. Albus, H. McCain, and R Lumia. </author> <title> Nbs standard reference model for telerobot control system architecture (nasrem). NBS Technical Note, </title> <address> Washington, D.C., </address> <year> 1987. </year>
+Reference: [2] <author> R.C. Arkin. </author> <title> The impact of cybernetics on the design of a mobile robot system: A case study. </title> <journal> IEEE Transactions on Systems, Man, and Cybernetics, </journal> <volume> 20(6) </volume> <pages> 1245-1257, </pages> <month> Nov/Dec </month> <year> 1990. </year>
+Reference: [3] <author> Ben Blake and Karsten Schwan. </author> <title> Experimental evaluation of a real-time scheduler for a multiprocessor system. </title> <journal> IEEE Transactions on Software Engineering, </journal> <volume> 17(1) </volume> <pages> 34-44, </pages> <month> Jan. </month> <year> 1991. </year>
+Reference: [4] <author> R. Brooks. </author> <title> A robust layered control system for a mobile robot. </title> <journal> IEEE Jour. of Robotics and Auto., </journal> <volume> RA-2(1):14, </volume> <year> 1986. </year>
+Reference: [5] <author> R.J. Clark, R.C. Arkin, and A. Ram. </author> <title> Learning momentum: On-line performance enhancement for reactive systems. </title> <booktitle> In IEEE Conf. on Robotics and Automation, </booktitle> <pages> pages 111-116. </pages> <publisher> IEEE, </publisher> <month> May </month> <year> 1992. </year> <institution> Nice, France. </institution>
+Reference: [6] <author> N. Nilsson. </author> <title> Shakey the robot. </title> <note> SRI International Tech. Note 323, </note> <year> 1984. </year>
+Reference: [7] <author> D. Payton. </author> <title> Internalized plans: A representation for action resources. </title> <editor> In P. Maes, editor, </editor> <title> Designing Autonomous Agents. </title> <publisher> MIT Press, </publisher> <year> 1991. </year>
+Reference: [8] <author> K. Ramamritham and J. A. Stankovic. </author> <title> Dynamic task scheduling in distributed hard real-time systems. </title> <journal> IEEE Software, </journal> <volume> 1(3), </volume> <pages> 84. </pages>
+Reference-contexts: Otherwise return FALSE. */ RESULT RTthread_fork ARGS ((int (*func)(), any_t arg, unsigned int node, /* node mask or list head */ TIME starttime, TIME runtime, TIME deadline, TIME decisiontime)); The result of schedulability analysis is a bid data structure. A bid is similar in concept to a bid in <ref> [8] </ref> in that a bid represents the ability of a particular processor to execute a particular task. However, the processes manipulating a bid are considerably different.
+Reference: [9] <author> Karsten Schwan, Harold Forbes, Ahmed Gheith, Bodhisattwa Mukherjee, and Yiannis Samiotakis. </author> <title> A c thread library for multiprocessors. </title> <type> Technical Report TR-91/02, </type> <institution> Georgia Institute of Technology, </institution> <address> Atlanta, GA 30332-0280, </address> <month> January </month> <year> 1991. </year>
+Reference: [10] <author> Hongyi Zhou, Karsten Schwan, and Ahmed Gheith. </author> <title> The dynamic synchronization of real-time threads for multiprocessor systems. In Symposium on Experiences with Distributed and Multiprocessor Systems, </title> <address> Newport Beach, </address> <pages> pages 93-107. </pages> <publisher> Usenix, ACM, </publisher> <month> March. </month> <year> 1992. </year>
+References-found: 10
+

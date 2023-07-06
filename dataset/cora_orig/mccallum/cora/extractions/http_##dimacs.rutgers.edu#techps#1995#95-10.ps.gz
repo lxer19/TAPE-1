@@ -1,0 +1,25 @@
+URL: http://dimacs.rutgers.edu/techps/1995/95-10.ps.gz
+Refering-URL: http://www.ics.uci.edu/~eppstein/cgt/
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: Winning Strategy for the Ramsey Graph Game  
+Author: by Aleksandar Pekec ; 
+Address: New Brunswick, New Jersey 08903  
+Affiliation: Department of Mathematics Rutgers University  
+Note: A  2 The author gratefully acknowledges the support of the Air Force Office for Scientific Research under grant number F49620-93-1-0041 to Rutgers University. DIMACS is a cooperative project of Rutgers University, Princeton University, AT&T Bell Laboratories and Bellcore. DIMACS is an NSF Science and Technology Center, funded under contract STC-91-19999; and also receives support from the New Jersey Commission on Science and Technology.  
+Abstract: DIMACS Technical Report 95-10 April 1995 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> J. Baumgartner, F. Galvin, R. Laver, and R. McKenzie, </author> <title> Game theoretic versions of partition relations. Colloq. Math. Soc. Janos Bolyai "Infinite and Finite Sets", </title> <booktitle> Keszthely, Hungary (1973), </booktitle> <pages> 131-135 </pages>
+Reference: [2] <author> J. Beck, </author> <title> On positional games. </title> <journal> J. Comb. Theory A 30(1981), </journal> <pages> 117-133 </pages>
+Reference: [3] <author> J. Beck, </author> <title> Van der Waerden and Ramsey type games. </title> <type> Combinatorica 1(1981), </type> <pages> 103-116 </pages>
+Reference-contexts: The next natural question is can Maker win faster, i.e., can Maker win if N &lt; R (n; n) and, ultimately, what is the minimal number of moves needed for Maker to win the game. Using the weight function method, Beck <ref> [3] </ref> showed that Maker can win if N &gt; (2 + *) n for n sufficiently large.
+Reference: [4] <author> J. Beck, </author> <title> Combinatorial Games. </title> <booktitle> Lecture Notes, </booktitle> <institution> Rutgers University (1993) </institution>
+Reference: [5] <author> J. Beck, </author> <title> Games, Randomness and Algorithms. </title> <type> manuscript (1994) </type>
+Reference: [6] <author> J. Beck and L. Csirmaz, </author> <title> Variations on a game. </title> <journal> J. Comb. Theory A 33(1982), </journal> <pages> 297-315 </pages>
+Reference: [7] <author> E.R. Berlekamp, J.H. Conway, and R.K. Guy, </author> <title> Winning ways for your mathematical plays. </title> <publisher> Academic Press, </publisher> <address> NY (1982) </address>
+Reference: [8] <author> V. Chvatal and P. Erd-os, </author> <title> Biased positional games. </title> <journal> Annals of Discrete Math. </journal> <volume> 2(1978), </volume> <pages> 221-228 </pages>
+Reference: [9] <author> P. Erd-os and J. Selfridge, </author> <title> On a combinatorial game. </title> <journal> J. Comb. Theory A 14(1973), </journal> <pages> 298-301 </pages>
+Reference-contexts: However, Maker needs to play all the dN (N 1)=4e moves to assure the exsitence of a red K n only. On the other hand, by the Theorem of Erd-os and Selfridge <ref> [9] </ref> (which is essentially the weight function method), Breaker can win the game if N &lt; n2 (n1)=2 . The winning strategy requiring (n 3)2 n1 + n + 1 moves is presented in this paper.
+Reference: [10] <author> R.L. Graham, B.L. Rothschild, and J.H. Spencer, </author> <title> Ramsey Theory. </title> <publisher> Wiley, </publisher> <address> NY (1990) </address>
+References-found: 10
+

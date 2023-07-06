@@ -1,0 +1,23 @@
+URL: ftp://dimacs.rutgers.edu/pub/dimacs/TechnicalReports/TechReports/1998/98-01.ps.gz
+Refering-URL: http://dimacs.rutgers.edu/TechnicalReports/1998.html
+Root-URL: http://www.cs.rutgers.edu
+Email: (fboros,hammerg@rutcor.rutgers.edu).  (ffederica,marsalisg@rosd.sta.uniroma1.it).  
+Phone: 3  
+Title: Closed Sets and Generators in Ternary Hamming Spaces 1  
+Author: by Endre Boros Peter L. Hammer Federica Ricca Bruno Simeone 
+Address: Piscataway, NJ 08854, USA  Italy  
+Affiliation: RUTCOR, Rutgers University,  Dipartimento di Statistica, Probabilita e Statistische Applicate, Universita "La Sapienza", Roma,  
+Date: 9, 1998  
+Note: January  N00014-92-J-1375 and N00014-92-J-4083), the Italian Ministry of University and Research, and the Italian National Research Council. 2 Permanent Member of DIMACS and  DIMACS is a partnership of Rutgers University, Princeton University, AT&T Labs-Research, Bell Labs and Bellcore. DIMACS is an NSF Science and Technology Center, funded under contract STC-91-19999; and also receives support from the New Jersey Commission on Science and Technology.  
+Abstract: DIMACS Technical Report 98-01 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Cameron, P.J., </author> <title> Combinatorics, </title> <publisher> (Cambridge University Press, </publisher> <address> Cambridge, </address> <year> 1994) </year>
+Reference-contexts: Thus, among the maximal elements of M 000 n we can find e.g. B n of size 2 n , and the maximum independent sets of T n , which are known from coding theory (see e.g. <ref> [1] </ref>) to be of size 3 n1 (an easy example being I = f (x 1 ; :::; x n )j P n Hence the maximal elements of M 000 n are not all of the same size.
+Reference: [2] <author> Hall, P., </author> <title> On representatives of subsets, </title> <journal> J. London Math. Soc. </journal> <volume> 10 (1935), </volume> <pages> pp. 26-30. </pages>
+Reference-contexts: Our claim, i.e. jV 1 j jV 2 j, will follow by Hall's theorem (see <ref> [2] </ref>).
+Reference: [3] <author> Mac Williams, F.J. and Sloane, N.A.J., </author> <title> The theory of error-correcting codes, </title> <publisher> (North-Holland, </publisher> <address> Amsterdam, </address> <year> 1977) </year>
+Reference: [4] <author> Welsh, D.J.A., </author> <title> Matroid Theory, </title> <publisher> (London Academic Press, </publisher> <year> 1976) </year>
+Reference-contexts: In fact, there are several possible ways of associating hypergraphs to a Hamming space, each of which could be a matroid (for definitions see e.g. <ref> [4] </ref>.) Let us define M 0 n as the family of sets I T n contained in a minimal generator G I. <p> More directly, we can see that the closure operation does not satisfy the closure axioms of a matroidal system (see e.g. <ref> [4] </ref>), see e.g. the example in Figure 3. 6.2 Switching and alike Let G be a generator and L = fx; y; zg be a line in T n .
+References-found: 4
+

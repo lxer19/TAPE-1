@@ -1,0 +1,18 @@
+URL: ftp://ftp.csd.uu.se/pub/papers/reports/0078/4-smith.ps.gz
+Refering-URL: http://www.informatik.uni-trier.de/~ley/db/conf/iclp/iclp94-w6.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: 5. Jonas Barklund and Haakan Millroth. Providing iteration and concurrency in logic programs through bounded
+Author: C. Beeri, S. Naqvi, R. Ramakirishnan, O. Shmueli, and S. Tsur. D. Chan. . M. Dincbas, P. Van Hentenryck, H. Simonis, and A. Aggoun. . E. Lusk et. al. :-, . . M. Feeley. . M. Feeley and J. S. Miller. . C. Haynes. . P. Van Hentenryck and Y. Deville. Vijay A. Saraswat. . T. Sato and F. Motoyoshi. . D. A. Smith. Multilog: . Bo-Ming Tong and Ho-Fung Leung. . . P. VanHentenryck. 
+Address: 1993.  
+Affiliation: Brandeis University,  
+Note: In Proceedings of the International Conference on Fifth Generation Computer Systems, pages 817-824, ICOT, Japan, 1992. Association for Computing Machinery. 6.  Press, 1988. 9.  PhD thesis,  sity, 1990. 20.  Automated Reasoning. Springer-Verlag, 1994. 27. D.A. Smith. MultiLog: Data Or-Parallel Logic Programming. PhD thesis, Brandeis University, 1993. 28. P. Stuckey.  Constraint Satisfaction in Logic Programming. MIT Press, 1989. This article was processed  
+Abstract: in a logic database langauge (LDL1). In PODS. ACM Press, 1987. 7. P. Brisset and O. Ridoux. Continuations in prolog. In ICLP93. MIT Press, 1993. 8. D. Chan. Constructive negation based on the completed database. In ICLP88. MIT for constraint logic programming. In ICLP91. MIT Press, 1991. 16. T. Hickey. unpublished manuscript. 1991. 17. Peter Kacsuk. Execution Models of Prolog for Parallel Computers. MIT, 1990. 18. G. Kuper. Logic programming with sets. In PODS. ACM Press, 1987. 19. H. Milroth. Reforming Compilation of Logic Programs. PhD thesis, Uppsala Univer on Parallel Implementations of Logic Programming Systems, 1992. 23. D. A. Smith. Multilog: Data or-parallel logic programming. In ICLP93. MIT Press, 1993. 24. D. A. Smith. Analysis of environment representation schemes for Multilog. Technical report, Waikato University, (Submitted), 1994. 25. D. A. Smith. Why multi-SLD beats SLD even on a uniprocessor. Technical report, University of Waikato, (submitted for publication) 1994. 26. D. A. Smith and Timothy Hickey. Multi-SLD resolution. In Logic Programming and 
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> H. Abelson and G. Sussman. </author> <title> Structure and Interpretation of Computer Programs. </title> <publisher> MIT, </publisher> <year> 1985. </year>
+Reference: 2. <author> K. Ali and R. Karlsson. </author> <title> The Muse Or-Parallel Prolog model and its performance. </title> <booktitle> In NACLP, </booktitle> <pages> pages 757-776, </pages> <year> 1990. </year>
+Reference: 3. <author> H. Arro, J. Barklund, and J. Bevemyr. </author> <title> Parallel bounded quantifiers: Preliminary results. </title> <booktitle> In Proceedings of the JICSLP'92 Post-Conference Joint Workshop on Distributed and Parallel Logic Programming Systems, </booktitle> <year> 1992. </year>
+Reference-contexts: This article was processed using the L a T E X macro package with LLNCS style 15 goals from multiple recursion levels appear as conjuncts in a single clause body. In this way, the successive computations corresponding to different levels of recursion can be performed using and-parallelism. <ref> [3] </ref> describes an extension to Prolog in which there is an explicit syntax for expressing various quantifiers or quantifier-like constructs, including and, sum, and product. The authors extend the operational semantics to allow computation of the quantified formula on a data parallel machine.
+
+References-found: 3
+

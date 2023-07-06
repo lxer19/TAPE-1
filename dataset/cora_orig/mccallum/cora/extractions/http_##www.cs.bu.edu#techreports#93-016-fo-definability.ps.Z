@@ -1,0 +1,23 @@
+URL: http://www.cs.bu.edu/techreports/93-016-fo-definability.ps.Z
+Refering-URL: http://cs-www.bu.edu/techreports/Home.html
+Root-URL: 
+Email: (kfoury@cs.bu.edu)  (wymann@cs.bu.edu)  f(~~~Q) j  
+Title: An Algebraic Characterization of First-Order Definability  where and are "shift" operators defined in  
+Author: A.J. Kfoury M. Wymann-Boni f?; R R ff g 
+Note: Q  Q 2 Qg f(Q 1 """Q 2 j Q 1 Q 2 2 Qg f(Q 1 [[[Q 2 j Q 1 Q 2 2 Qg  
+Date: November 22, 1993  3.  
+Affiliation: Boston University  Boston University  
+Pubnum: Section  
+Abstract: We give a variable-free relational calculus which defines exactly all first-order definable relations in a arbitrary structure. We then show that, over an arbitrary class C of finite ordered structures with signature f&lt;&lt;&lt;; R 1 ; : : : ; R ff g, the unary relations uniformly defined by this calculus over C are characterized by a another simplified variable-free calculus which we call Q. Q is the least set of formal expressions such that: 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Chang C.C. and H. Jerome Keisler, </author> <title> Model Theory, 2nd edition, </title> <publisher> North-Holland, </publisher> <year> 1976, </year> <pages> pp 51-54. </pages>
+Reference-contexts: The formulae under consideration are called "arrangements", generalizing formulae by the same name in <ref> [1] </ref>, and we use the letter to denote them. <p> In such a case it is also clear that d is also the degree of , and we can say that is simple of degree d. (The "arrangements" in <ref> [1] </ref> are, in our sense, "simple arrangements of degree 0".) A special subset of all n-arrangements of degree d is the subset of all simple n-arrangements of degree d, denoted M n;d .
+Reference: [2] <author> Cosmadakis, S. S., </author> <title> "Database Theory and Cylindric Lattices", </title> <booktitle> 28th Annual IEEE Symposium on Foundations of Computer Science, </booktitle> <year> 1987, </year> <pages> pp 411-420. </pages>
+Reference-contexts: This development is similar but not identical to others in the literature (see for example <ref> [2] </ref>, [4], and others cited in these two references dealing with cylindrical algebras).
+Reference: [3] <author> Enderton H. B., </author> <title> A Mathematical Introduction To Logic, </title> <address> New York, </address> <publisher> Academic Press, </publisher> <year> 1972. </year>
+Reference-contexts: Our conventions for FO formulae are standard, except for two (see for example <ref> [3] </ref>). First, it is customary to write '(x 1 ; : : : ; x n ) whenever one needs to mention that the free variables of the formula ' are among x 1 ; : : : ; x n .
+Reference: [4] <author> Monk, J. D., </author> <title> Mathematical Logic, </title> <address> New York, </address> <publisher> Springer-Verlag, </publisher> <year> 1976, </year> <pages> pp 219-229. 20 </pages>
+Reference-contexts: This development is similar but not identical to others in the literature (see for example [2], <ref> [4] </ref>, and others cited in these two references dealing with cylindrical algebras).
+References-found: 4
+

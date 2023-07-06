@@ -1,0 +1,16 @@
+URL: http://www.cs.utexas.edu/users/ring/RCC.ps.Z
+Refering-URL: http://www.cs.utexas.edu/users/ring/
+Root-URL: 
+Email: email: Mark.Ring@GMD.de  
+Title: Even with Arbitrary Transfer Functions, RCC Cannot Compute Certain FSA  
+Author: Mark Ring 
+Address: Schloss Birlinghoven D-53 754 Sankt Augustin, Germany  
+Affiliation: Research Group for Adaptive Systems GMD German National Research Center for Information Technology  
+Abstract: Category: algorithms and architectures | recurrent networks. No part of this paper has been submitted elsewhere. Preference: poster. Abstract Existing proofs demonstrating the computational limitations of the Recurrent Cascade Correlation (RCC) Network (Fahlman, 1991) explicitly limit their results to units having sigmoidal or hard-threshold transfer functions (Giles et al., 1995; and Kremer, 1996). The proof given here shows that, for any given finite, discrete, deterministic transfer function used by the units of an RCC network, there are finite-state automata (FSA) that the network cannot model, no matter how many units are used. The proof applies equally well to continuous transfer functions with a finite number of fixed-points, such as the sigmoid function.
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Scott E. Fahlman. </author> <title> The recurrent cascade-correlation architecture. </title> <editor> In R. P. Lipp-mann, J. E. Moody, and D. S. Touretzky, editors, </editor> <booktitle> Advances in Neural Information Processing Systems 3, </booktitle> <pages> pages 190-196, </pages> <address> San Mateo, California, 1991. </address> <publisher> Morgan Kaufmann Publishers. </publisher>
+Reference: <author> C.L. Giles, D. Chen, G.Z. Sun, H.H. Chen, Y.C. Lee, and M.W. Goudreau. </author> <title> Constructive learning of recurrent neural networks: Problems with recurrent cascade correlation and a simple solution. </title> <journal> IEEE Transactions on Neural Networks, </journal> <volume> 6(4):829, </volume> <year> 1995. </year>
+Reference: <author> Stefan C. Kremer. </author> <title> Finite state automata that recurrent cascade-correlation cannot represent. </title> <editor> In D. S. Touretzky, M. C. Mozer, and M. E. Hasselno, editors, </editor> <booktitle> Advances in Neural Information Processing Systems 8, </booktitle> <pages> pages 679-686. </pages> <publisher> MIT Press, </publisher> <year> 1996. </year> <note> In Press. </note>
+References-found: 3
+

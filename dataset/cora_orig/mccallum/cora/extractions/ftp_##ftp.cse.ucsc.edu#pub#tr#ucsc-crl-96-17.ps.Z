@@ -1,0 +1,17 @@
+URL: ftp://ftp.cse.ucsc.edu/pub/tr/ucsc-crl-96-17.ps.Z
+Refering-URL: ftp://ftp.cse.ucsc.edu/pub/tr/README.html
+Root-URL: http://www.cse.ucsc.edu
+Title: Inferring Recursive Structures in Types in Prolog Programs using Abstract Interpretation  
+Author: Fumiaki Kamiya 
+Keyword: Termination analysis, abstract interpretation, recursive structures in term types.  
+Address: Santa Cruz, CA 95064 USA  
+Affiliation: Baskin Center for Computer Engineering Computer Science University of California, Santa Cruz  
+Date: July 25, 1996  
+Pubnum: UCSC-CRL-96-17  
+Abstract: One way to prove termination of a logic program is to show that input terms passed to each recursive procedure decrease in size between successive calls to the same procedure with respect to some appropriately defined norms. Except when all the input terms are ground, finding the appropriate norms is generally not easy. Barring the use of numbers and arithmetics, recursive calls are controlled by recursively constructed terms. Thus, one way to automatically find the appropriate norms would be to automatically identify recursive structures in term types. This report describes a work in progress that attempts to infer such recursive structures using abstract interpretation. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> P. Cousot and R. Cousot. </author> <title> Abstract interpretation: A unified lattice model for static analysis of programs by construction or approximation of fixpoints. </title> <booktitle> In Proceedings of the 4th Annual ACM Symposium on Principles of Programming Languages, </booktitle> <pages> pages 238-252, </pages> <year> 1977. </year>
+
+References-found: 1
+

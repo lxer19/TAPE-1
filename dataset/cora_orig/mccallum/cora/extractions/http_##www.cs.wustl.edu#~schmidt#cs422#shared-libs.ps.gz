@@ -1,0 +1,25 @@
+URL: http://www.cs.wustl.edu/~schmidt/cs422/shared-libs.ps.gz
+Refering-URL: http://www.cs.wustl.edu/~schmidt/cs422/index.html
+Root-URL: 
+Title: Shared Libraries in SunOS facilities for file-mapping and ``copy-on-write'' sharing; a revised link editor supporting
+Author: Robert A. Gingell Meng Lee Xuong T. Dang Mary S. Weeks 
+Note: kernel-supplied  are provided, together with the policies by which  are summarized.  
+Address: 2550 Garcia Ave. Mountain View, CA 94043  
+Affiliation: Sun Microsystems, Inc.  
+Abstract: The design and implementation of a shared libraries facility for Sun's implementation of the UNIX operating system (SunOS) is described. Shared libraries extend the resource utilitization benefits obtained from sharing code between processes running the same program to processes running different programs by sharing the libraries common to them. In this design, shared libraries are viewed as the result of the application of several more basic system mechanisms, specifically 
+Abstract-found: 1
+Intro-found: 1
+Reference: [ARNO 86] <author> Arnold, J. Q., </author> <title> ``Shared Libraries on UNIX System V'', </title> <booktitle> Summer Conference Proceedings, Atlanta 1986, USENIX Association, </booktitle> <year> 1986. </year>
+Reference-contexts: The goal to not change library source was a direct consequence of not having the resources to change the large amount of library code already in existence. Even source alterations such as those used with System V shared libraries <ref> [ARNO 86] </ref> appeared more than we wished to do. Administrative: There should be no requirement to administer and coordinate the allocation of address space.
+Reference: [DOWN 84] <author> Downing, C. B., F. Farance, </author> <title> ``Transparent Implementation of Shared Libraries'', </title> <booktitle> UniForum Conference Proceedings, </booktitle> <address> Washington DC, /usr/group, </address> <month> January </month> <year> 1984. </year>
+Reference-contexts: Comparable approaches have been applied with UNIX-based systems as described in [SZNY 86] and <ref> [DOWN 84] </ref>. 3.2. New ld The changes to ld reflect an observation that the activities that must occur to execute a program with shared libraries are no different than those to execute one without them, at least conceptually.
+Reference: [GING 87] <author> Gingell, R. A., J. P. Moran, W. A. Shannon, </author> <title> ``Virtual Memory Architecture in SunOS'', </title> <booktitle> Summer Conference Proceedings, Phoenix 1987, USENIX Association, </booktitle> <year> 1987. </year>
+Reference-contexts: Memory Sharing The mechanism that provides our memory sharing is a new Virtual Memory (VM) system for SunOS. Although more completely described elsewhere <ref> [GING 87] </ref>, the principal features of the new system include: file mapping as its principal mechanism, accessed by programs through the mmap (2) system call; sharing at the granularity of a file page; and a per-page copy-on-write facility to allow run-time modification of a shared object without affecting other users of
+Reference: [MURP 72] <author> Murphy, D. L., </author> <title> ``Storage organization and management in TENEX'', </title> <booktitle> Proceedings of the Fall Joint Computer Conference, AFIPS, </booktitle> <year> 1972. </year>
+Reference-contexts: The use of files in this way originated with MULTICS [ORGA 72], and the use of file page mapping to incorporate library support at execution time was established with TENEX <ref> [MURP 72] </ref> and its evolution as Digital Equipment's TOPS-20. Comparable approaches have been applied with UNIX-based systems as described in [SZNY 86] and [DOWN 84]. 3.2.
+Reference: [ORGA 72] <author> Organick, E. I., </author> <title> The Multics System: An Examination of Its Structure, </title> <publisher> MIT Press, </publisher> <year> 1972. </year>
+Reference-contexts: A ``shared library'' is added to the address space in exactly the same way, using the general file mapping mechanism. The use of files in this way originated with MULTICS <ref> [ORGA 72] </ref>, and the use of file page mapping to incorporate library support at execution time was established with TENEX [MURP 72] and its evolution as Digital Equipment's TOPS-20. Comparable approaches have been applied with UNIX-based systems as described in [SZNY 86] and [DOWN 84]. 3.2.
+Reference: [SZNY 86] <author> Sznyter, E. W., P. Clancy, J. Crossland, </author> <title> ``A New Virtual-Memory Implementation for UNIX'', </title> <booktitle> Summer Conference Proceedings, Atlanta 1986, USENIX Association, </booktitle> <year> 1986. </year> <month> 15 </month>
+Reference-contexts: Comparable approaches have been applied with UNIX-based systems as described in <ref> [SZNY 86] </ref> and [DOWN 84]. 3.2. New ld The changes to ld reflect an observation that the activities that must occur to execute a program with shared libraries are no different than those to execute one without them, at least conceptually.
+References-found: 6
+

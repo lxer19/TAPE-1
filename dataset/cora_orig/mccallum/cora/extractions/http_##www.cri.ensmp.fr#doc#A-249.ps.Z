@@ -1,0 +1,13 @@
+URL: http://www.cri.ensmp.fr/doc/A-249.ps.Z
+Refering-URL: http://www.cri.ensmp.fr/rapports.html
+Root-URL: 
+Email: keryell@cri.ensmp.fr  paris@hyperparallel.polytechnique.fr  
+Title: Activity Counter: New Optimization for the Dynamic Scheduling of SIMD Control Flow  
+Author: Ronan Keryell Nicolas Paris 
+Address: 77305 FONTAINEBLEAU Cedex, FRANCE  91128 PALAISEAU Cedex, FRANCE  
+Affiliation: Centre de Recherche en Informatique E cole des Mines de Paris  Hyperparallel Technologies E cole Polytechnique X-POLE  
+Abstract: SIMD or vector computers and collection-oriented languages, like C fl , are designed to perform the same computation on each data item or on just a subset of the data. Subsets of processors or data items are implemented via an activity bit and a stack of activity bits when subsets of subsets are supported. This method is also used in VLIWpro-cessors through if-conversion to implement parallel control flow as in SIMD computers. We present a new method of dynamic sheduling of several SIMD control flow constructions which can be nested. Our implementation of activity stacks is based on activity counters. At a given stack depth n, the number of memory bits required is log 2 n, whereas previous implementations require n bits. The local controller is of equivalent complexity in both cases. This algorithm is useful for SIMD, vector or VLIW machines and for compilers of collection-oriented languages on MIMD computers. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

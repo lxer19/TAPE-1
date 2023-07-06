@@ -1,0 +1,21 @@
+URL: http://www.cs.toronto.edu/~mackay/muleisit.ps.gz
+Refering-URL: http://www.cs.toronto.edu/~mackay/README.html
+Root-URL: http://www.cs.toronto.edu
+Email: Email: mackay@mrao.cam.ac.uk  
+Title: Shortened Turbo Codes  
+Author: David J.C. MacKay 
+Address: Madingley Road, Cambridge, CB3 0HE. United Kindom.  
+Affiliation: Cavendish Laboratory,  
+Abstract: Simple arguments suggest that shortened codes must have distance properties equal to or better than those of their parent codes, and that they should be equally practical to decode. This relationship holds true in the case of low density generator codes and low density parity check codes. We investigate the properties of shortened turbo codes. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> D. J. C. MacKay, </author> <title> "A free energy minimization framework for inference problems in modulo 2 arithmetic", in Fast Software Encryption (Proc. 1994 K.U. Leuven Workshop on Cryptographic Algorithms), </title> <editor> B. Preneel, Ed. </editor> <booktitle> 1995, </booktitle> <volume> LNCS 1008, </volume> <pages> pp. 179-195, </pages> <publisher> Springer. </publisher>
+Reference: [2] <author> R. G. Gallager, </author> <title> Low Density Parity Check Codes, Research monograph 21. </title> <publisher> MIT Press, </publisher> <address> Cambridge, Mass., </address> <year> 1963. </year>
+Reference: [3] <author> D. J. C. MacKay and R. M. Neal. </author> <title> Good codes based on very sparse matrices. in Cryptography and Coding. </title> <booktitle> 5th IMA Conference, </booktitle> <editor> Colin Boyd, Ed. </editor> <booktitle> 1995, </booktitle> <volume> LNCS 1025, </volume> <pages> pp. 100-111. </pages> <publisher> Springer. </publisher>
+Reference: [4] <author> D. J. C. MacKay and R. M. Neal, </author> <title> "Near Shannon limit performance of low density parity check codes", </title> <journal> Electronics Letters, </journal> <volume> vol. 32, no. 18, </volume> <pages> pp. 1645-1646, </pages> <year> 1996. </year>
+Reference: [5] <author> D. J. C. MacKay, </author> <title> "Good error correcting codes based on very sparse matrices", </title> <note> To be submitted to IEEE transactions on Information Theory. Available from http://wol.ra.phy.cam.ac.uk/, 1996. </note>
+Reference: [6] <author> C. Berrou, A. Glavieux, and P. Thitimajshima, </author> <title> "Near Shan-non limit error-correcting coding and decoding: </title> <booktitle> Turbo-codes", in Proc. 1993 IEEE International Conference on Communications, </booktitle> <address> Geneva, Switzerland, </address> <year> 1993, </year> <pages> pp. 1064-1070. </pages>
+Reference: [7] <author> D. Divsilar and F. Pollara, </author> <title> "On the design of turbo codes", </title> <type> Tech. Rep. </type> <institution> TDA 42-123, Jet Propulsion Laboratory, </institution> <year> 1995. </year>
+Reference: [8] <author> D. Divsalar and R. J. </author> <title> McEliece, "Effective free distance of turbo codes", </title> <journal> Electronics Letters, </journal> <volume> vol. 32, no. 5, </volume> <pages> pp. 445-446, </pages> <year> 1996. </year> <note> Submitted to ISIT-97 September 24, </note> <year> 1996 </year>
+References-found: 8
+

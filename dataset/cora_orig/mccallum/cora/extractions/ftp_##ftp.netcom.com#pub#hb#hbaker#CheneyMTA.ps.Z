@@ -1,0 +1,34 @@
+URL: ftp://ftp.netcom.com/pub/hb/hbaker/CheneyMTA.ps.Z
+Refering-URL: ftp://ftp.netcom.com/pub/hb/hbaker/home.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Phone: (818) 501-4956(818) 986-1360 (FAX)  
+Title: CONS Should Not CONS Its Arguments, Part II: Cheney on the M.T.A. 1  
+Author: Henry G. Baker 
+Address: 16231 Meadow Ridge Way, Encino, CA 91436,  
+Affiliation: Nimble Computer Corporation,  
+Note: DRAFT 5/16/94 1994 Nimble Computer Corporation 1  
+Abstract: Previous Schemes for implementing full tail-recursion when compiling into C have required some form of "trampoline" to pop the stack. We propose solving the tail-recursion problem in the same manner as Standard ML of New Jersey, by allocating all frames in the (garbage-collected) heap. The Scheme program is translated into continuation-passing style, so the target C functions never return. The C stack pointer then becomes the allocation pointer for a Cheney-style copying garbage collection scheme. Our Scheme can use C function calls, C arguments, C variable-arity functions, and separate compilation without requiring complex block-compilation of entire programs. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Appel, A.W. </author> <title> "Garbage collection can be faster than stack allocation". Info. </title> <booktitle> Proc. Letts. 25,4 (1987), </booktitle> <pages> 275-279. </pages>
+Reference: <author> Appel, A.W. </author> <title> "Simple Generational Garbage Collection and Fast Allocation". </title> <journal> SW Prac. & Exper. 19,2 (1989), </journal> <volume> 171+. </volume>
+Reference: <author> Appel, A.W. </author> <title> "A Runtime System". </title> <journal> Lisp & Symbolic Comput. 3,4 (Nov.1990), </journal> <pages> 343-380. </pages>
+Reference: <author> Appel, A.W., and MacQueen, </author> <title> D.B. "Standard ML of New Jersey". </title> <editor> In Wirsing, M., ed. </editor> <booktitle> Third Int'l Symp on Progr Lang Implementation and Logic Progr., </booktitle> <publisher> Springer, </publisher> <month> August </month> <year> 1991. </year>
+Reference: <author> Baker, H.G. </author> <title> "List Processing in Real Time on a Serial Computer". </title> <journal> CACM 21,4 (April1978), </journal> <pages> 280-294. </pages>
+Reference: <author> Baker, H.G. </author> <title> "CONS Should Not CONS Its Arguments, or, a Lazy alloc is a Smart alloc". Sigplan Not. </title> <booktitle> 27,3 (Mar.1992), </booktitle> <pages> 24-34. </pages>
+Reference: <author> Bartlett, J. "Scheme-&gt;C: </author> <title> A portable Scheme-to-C compiler". </title> <type> Tech. </type> <institution> Rept., DEC West. Res. Lab., </institution> <year> 1989. </year>
+Reference: <author> Berry, </author> <title> D.M. "Block Structure: Retention vs. Deletion". </title> <booktitle> Proc. 3rd Sigact Symp. Th. of Comp. </booktitle> <address> Shaker Hgts., </address> <year> 1971. </year>
+Reference: <author> Cheney, C.J. </author> <title> "A nonrecursive list compacting algorithm". </title> <journal> CACM 13,11 (Nov.1970), </journal> <pages> 677-678. </pages>
+Reference: <author> Clinger, W., Hartheimer, A., and Ost, E. </author> <title> "Implementation strategies for continuations". </title> <booktitle> Proc. LFP, </booktitle> <year> 1988, </year> <pages> 124-131. </pages>
+Reference: <author> Danvy, O. </author> <title> "Memory Allocation and Higher-Order Functions". </title> <booktitle> Proc. Sigplan '87 Symp. on Interp & Interp. Techs., ACM Sigplan Not. 22,7 (July1987), </booktitle> <pages> 241-252. </pages>
+Reference: <author> Fairbairn, J., and Wray, S.C. "TIM: </author> <title> a simple abstract machine to execute supercombinators". </title> <booktitle> Proc. 1987 FPCA. </booktitle>
+Reference: <author> Fischer, M.J. </author> <title> "Lambda Calculus Schemata". </title> <booktitle> ACM Conf. Proving Asserts. re Progs., Sigplan Not. </booktitle> <address> 7,1 (Jan.1972). </address>
+Reference: <author> Friedman, </author> <title> D.P., and Wise, D.S. "CONS Should Not Evaluate Its Arguments". </title> <editor> In Michaelson, S., and Milner, R., eds. </editor> <booktitle> Automata, Languages and Programming, </booktitle> <publisher> Edinburgh U. Press, </publisher> <year> 1976, </year> <pages> 257-284. </pages>
+Reference: <author> Hanson, C. </author> <title> "Efficient stack allocation for tail-recursive languages". </title> <booktitle> Proc. LFP, </booktitle> <month> June </month> <year> 1990. </year> <title> IEEE. IEEE Standard for the Scheme Programming Language. </title> <publisher> IEEE-1178-1990, IEEE, </publisher> <address> NY, </address> <month> Dec. </month> <year> 1990. </year>
+Reference: <editor> Peyton Jones, S.L. </editor> <booktitle> The Implementation of Functional Programming Languages. </booktitle> <publisher> Prentice-Hall, </publisher> <address> New York, </address> <year> 1987. </year>
+Reference: <author> Stallman, </author> <title> R.M. "Phantom Stacks: If you look too hard, they aren't there". </title> <type> AI Memo 556, </type> <institution> MIT AI Lab., </institution> <month> July </month> <year> 1980. </year>
+Reference: <author> Stallman, </author> <title> R.M. Using and Porting GNU CC. Free Software Foundation, </title> <publisher> Inc. </publisher> <month> February, </month> <year> 1990. </year>
+Reference: <author> Steiner, J., and Hawkes, B. </author> <title> "The M.T.A." On the album The Kingston Trio At Large, </title> <address> released June 8, </address> <year> 1959, </year> <note> reached number 15 on June 15, 1959. Copyright Atlantic Music 1956-57. </note>
+Reference: <author> Tarditi, D., & Lee, P. </author> <title> "No assembly required: Compiling standard ML to C". </title> <booktitle> ACM LOPLAS 1,2 (1992), </booktitle> <pages> 161-177. </pages>
+References-found: 20
+

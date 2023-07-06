@@ -1,0 +1,19 @@
+URL: ftp://ilk.kub.nl/pub/antalb/esca-ieee-94.ps.gz
+Refering-URL: http://ilk.kub.nl/~antalb/pubs-time.html
+Root-URL: 
+Title: A Language-Independent, Data-Oriented Architecture for Grapheme-to-Phoneme Conversion  
+Author: Walter Daelemans and Antal van den Bosch 
+Date: September 1994  
+Address: New York,  
+Note: Proceedings ESCA-IEEE speech synthesis conference,  
+Abstract: We report on an implemented grapheme-to-phoneme conversion architecture. Given a set of examples (spelling words with their associated phonetic representation) in a language, a grapheme-to-phoneme conversion system is automatically produced for that language which takes as its input the spelling of words, and produces as its output the phonetic transcription according to the rules implicit in the training data. This paper describes the architecture and focuses on our solution to the alignment problem: given the spelling and the phonetic trancription of a word (often differing in length), these two representations have to be aligned in such a way that grapheme symbols or strings of grapheme symbols are consistently associated with the same phonetic symbol. If this alignment has to be done by hand, it is extremely labour-intensive. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Bosch, A. van den and W. Daelemans, </author> <title> `Data-oriented methods for grapheme-to-phoneme conversion.' </title> <booktitle> Proceedings of the Sixth conference of the European chapter of the ACL, ACL, </booktitle> <pages> 45-53, </pages> <year> 1993. </year>
+Reference: <author> Daelemans, W. & A. van den Bosch (1992). </author> <title> Generalization performance of backpropagation learning on a syllabification task. </title> <editor> In M. Drossaers & A. Nijholt (Eds.), </editor> <booktitle> Proceedings of the 3rd Twente Workshop on Language Technology. </booktitle> <address> En-schede: </address> <publisher> Universiteit Twente, </publisher> <pages> 27-37. </pages>
+Reference: <author> Daelemans, W. and A. van den Bosch. `TABTALK: </author> <title> Reusability in Data-oriented grapheme-to-phoneme conversion.' </title> <booktitle> Proceedings of Eurospeech, </booktitle> <address> Berlin, 1459-1466, </address> <year> 1993. </year>
+Reference: <author> Devijver, P.A. & J. </author> <title> Kittler (1982). Pattern recognition. A statistical approach. </title> <publisher> London: Prentice-Hall. </publisher>
+Reference: <author> Quinlan, J.R. C4.5: </author> <title> Programs for Machine Learning. </title> <publisher> Morgan Kaufmann, </publisher> <year> 1993. </year>
+Reference-contexts: The order in which the context graphemes are added to the trie search is not randomly determined, but is computed using the concept of Information Gain (IG). This ordering method is used in a similar way in C4.5-learning <ref> (Quinlan, 1993) </ref>.
+References-found: 5
+

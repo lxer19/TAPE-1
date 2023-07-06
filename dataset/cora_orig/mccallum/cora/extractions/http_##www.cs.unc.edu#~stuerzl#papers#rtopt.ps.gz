@@ -1,0 +1,17 @@
+URL: http://www.cs.unc.edu/~stuerzl/papers/rtopt.ps.gz
+Refering-URL: http://www.cs.unc.edu/~stuerzl/publications.html
+Root-URL: http://www.cs.unc.edu
+Email: e-mail: wrzl@gup.uni-linz.ac.at  
+Phone: Tel.: +43(732)2468-9228, Fax +43(732)2468-10  
+Title: Two Optimization Methods for Raytracing  
+Author: by W. Sturzlinger and R. F. Tobler 
+Address: Altenbergerstrae 69, A-4040 Linz, Austria, Europe  
+Affiliation: Johannes Kepler University of Linz Institute for Computer Science Department for graphical and parallel Processing  
+Abstract-found: 0
+Intro-found: 1
+Reference: [AK87] <author> Arvo, J., Kirk, D., </author> <title> Fast Ray Tracing by Ray Classification, </title> <note> Computer Graphics (SIGGRAPH '87) 21:4 (July 1987) 55-64 </note>
+Reference-contexts: A "voxel walking" algorithm is then used to find the next voxel along the ray. When an intersection is detected in the current voxel the search is terminated, and the intersection is returned. Arvo and Kirk <ref> [AK87] </ref> proposed a method which subdivides the 5 dimensional ray space. 3.1 Cylinder Cube Another way to exploit the coherence of scenes is to use the direction of the ray to eliminate objects from the intersection tests.
+Reference: [Gl89] <author> Glassner, A. S., </author> <title> An Introduction to Ray Tracing. </title> <publisher> Academic Press (1989). </publisher> <pages> 4 </pages>
+Reference-contexts: 1 Introduction Raytracing is a method to produce photo-realistic pictures. Rays are used to determine visibility and to capture important illumination effects such as shadows and reflections. For a more complete introduction to raytracing see e.g. the book by Glassner <ref> [Gl89] </ref>. Intersecting a ray with a non-trivial object (e.g. free-form surfaces, sweeps, etc.) is a very time consuming operation. One way to speed this intersection process is to use simple objects as bounding volumes (BV's), e.g. axis-aligned boxes, spheres, slabs.
+References-found: 2
+

@@ -1,0 +1,13 @@
+URL: ftp://ftp.cs.unc.edu/pub/users/sc/COMP203-S96/L1996-02-22.PS.Z
+Refering-URL: http://www.cs.unc.edu/~sc/teaching/COMP203-S1996/lectures.html
+Root-URL: http://www.cs.unc.edu
+Title: 1. Matrix Multiplication 1.1 Cannons algorithm 1.2 Foxs algorithm 2. Linear System Solver 2.1 Basic
+Author: Hye-Chung (Monica) Kum Man-Chi Leung 
+Keyword: 1.1 Cannon's algorithm  
+Date: February 22, 1996  &lt;TOPICS&gt;  
+Note: COMP 203 Parallel and Distributed Computing Class Notes  Steps:  A 11 A 3 3 A 3 3 B 2 2 B 3 3  
+Abstract: A notable drawback of the simple parallel algorithm for matrix multiplication introduced in the previous lecture (also see 5.4.1 of Kumar's book) is its excessive use of memory. There are two algorithms that require less amount of memory: Cannon's algorithm and Fox's algorithm. Overview: Imagine that matrix A and matrix B are stored in a logical mesh (2-dimensional with wraparound). Each row of A is a n-element ring. We can rotate row i of A one step at a time such that each element will stay at processor p i,j for one time unit. Column B can be rotated in the same way. If we can synchronize the rotation of A and B such that whenever A i,k stays at p i,j , B k,j also stays there, then we can compute and accumulate the product of A i,k and B k,j . C i,j is just the sum of this product for k = 1 to n. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

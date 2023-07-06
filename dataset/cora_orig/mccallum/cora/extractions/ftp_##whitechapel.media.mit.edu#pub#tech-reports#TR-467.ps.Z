@@ -1,0 +1,27 @@
+URL: ftp://whitechapel.media.mit.edu/pub/tech-reports/TR-467.ps.Z
+Refering-URL: http://www-white.media.mit.edu/cgi-bin/tr_pagemaker/
+Root-URL: http://www.media.mit.edu
+Author: R. W. Picard J. Healey 
+Address: 20 Ames St. 20 Ames St. Cambridge, MA 01239 Cambridge, MA 01239  
+Affiliation: MIT Media Laboratory MIT Media Laboratory  
+Web: Wearables  
+Note: Affective  
+Abstract: M.I.T Media Laboratory Perceptual Computing Section Technical Report No. 467 Appeared: Personal Technologies 1997 1:231-240 Abstract An "affective wearable" is a wearable system equipped with sensors and tools which enables recognition of its wearer's affective patterns. Affective patterns include expressions of emotion such as a joyful smile, an angry gesture, a strained voice or a change in autonomic nervous system activity such as accelerated heart rate or increasing skin conductivity. This paper describes new applications of affective wearables, and presents a prototype which gathers physiological signals and their annotations from its wearer. Results of preliminary experiments of its performance are reported for a user wearing four different sensors and engaging in several natural activities. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [BK77] <author> Roger Brown and James Kulik. </author> <title> Flashbulb memories. </title> <journal> Cognition, </journal> <volume> 5 </volume> <pages> 73-99, </pages> <year> 1977. </year>
+Reference: [CT90] <author> John T. Cacioppo and Louis G. Tassinary. </author> <title> Inferring psychological significance from physiological signals. </title> <journal> American Psychologist, </journal> <volume> 45(1) </volume> <pages> 16-28, </pages> <month> Jan. </month> <year> 1990. </year>
+Reference: [Dav93] <author> Richard J. Davidson. </author> <title> Parsing affective space: Perspectives from neuropsychology and psychophysiology. </title> <journal> Neuropsychology, </journal> <volume> 7(4) </volume> <pages> 464-475, </pages> <year> 1993. </year>
+Reference: [Gol95] <author> D. Goleman. </author> <title> Emotional Intelligence. </title> <publisher> Bantam Books, </publisher> <address> New York, </address> <year> 1995. </year>
+Reference: [HB96] <author> Stefan G. Hoffman and David H. Barlow. </author> <title> Ambulatory psychophysiologicla monitoring: A potentially useful tool when treating panic relapse. </title> <journal> Cognitive and Behavioral Research, </journal> <volume> 3 </volume> <pages> 53-61, </pages> <year> 1996. </year>
+Reference: [Hel78] <author> M. Helander. </author> <title> Applicability of drivers' electro-dermal response to the design of the traffic environment. </title> <journal> Journal of Applied Psychology, </journal> <volume> 63(4) </volume> <pages> 481-488, </pages> <year> 1978. </year>
+Reference: [Lev92] <author> R. W. Levenson. </author> <title> Autonomic nervous system differences among emotions. </title> <journal> American Psychological Society, </journal> <volume> 3(1) </volume> <pages> 23-27, </pages> <month> Jan. </month> <year> 1992. </year>
+Reference: [LGea93] <author> P. J. Lang, M. K. Greenwald, and M. M. Bradley et al. </author> <title> Looking at pictures: Affective, facial, viseral and behavioral reactions. </title> <journal> Psychophysiology, </journal> <volume> 30 </volume> <pages> 261-273, </pages> <year> 1993. </year>
+Reference: [Man97] <author> Steve Mann. </author> <title> Wearable computing: A first step toward personal imaging. </title> <booktitle> Computer, </booktitle> <pages> pages 25-31, </pages> <month> February </month> <year> 1997. </year>
+Reference: [Pic97] <author> R. W. </author> <title> Picard. Affective Computing. </title> <publisher> The MIT Press, </publisher> <address> Cambridge, MA, </address> <year> 1997. </year>
+Reference: [PRG + 97] <author> R. Post, M. Reynolds, M. Gray, J. Paradiso, and N. Gershenfeld. </author> <title> Intrabody buses for data and power. </title> <booktitle> In Proceedings of the IEEE Conference 'The First International Symposium on Wearable Computing', </booktitle> <address> Cambridge, MA, </address> <month> Oct. </month> <year> 1997. </year> <institution> The Institute of Electrical and Electronics Engineers. </institution>
+Reference: [SMR + 97] <author> T. Starner, S. Mann, B. Rhodes, J. Levine, J. Healey, D. Kirsch, R. Picard, and A. Pent-land. </author> <title> Augmented reality through wearable computing. </title> <journal> Presence, </journal> <volume> 6(4) </volume> <pages> 386-398, </pages> <month> Winter </month> <year> 1997. </year>
+Reference: [WPK84] <author> W. M. Winton, L. Putnam, and R. Krauss. </author> <title> Facial and autonomic manifestations of the dimensional structure of emotion. </title> <journal> Journal of Experimental Social Psychology, </journal> <volume> 20 </volume> <pages> 195-216, </pages> <year> 1984. </year>
+Reference: [Zim96] <author> Thomas Zimmerman. </author> <title> Personal area networks (PAN): </title> <journal> Near-field intra-body communication. IBM Systems Journal, </journal> <volume> 35 </volume> <pages> 609-618, </pages> <year> 1996. </year> <month> 9 </month>
+References-found: 14
+

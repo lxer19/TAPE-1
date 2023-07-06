@@ -1,0 +1,22 @@
+URL: http://www.cs.purdue.edu/homes/palsberg/paper/toplas96-ps.ps.gz
+Refering-URL: http://www.cs.purdue.edu/homes/palsberg/publications.html
+Root-URL: http://www.cs.purdue.edu
+Title: Constrained Types and their Expressiveness A constrained type consists of both a standard type and
+Author: JENS PALSBERG SCOTT SMITH 
+Keyword: Categories and Subject Descriptors: D.3.2 [Programming Languages]: Language Classifications|applicative languages; F.3.3 [Logics and Meanings of Programs]: Studies of Program Constructs|type structure General Terms: Languages, Theory Additional Key Words and Phrases: constraints  
+Note: as demonstrated by Eifrig, Smith, and Trifonov. Until now, it has been unclear  
+Affiliation: Massachusetts Institute of Technology and  Johns Hopkins University  
+Abstract: In this paper we study constrained types without universal quantification. We prove that they accept the same programs as the type system of Amadio and Cardelli with subtyping and recursive types. This result gives a precise connection between constrained types and the standard notion of type. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Aiken, A. and Wimmers, E. </author> <year> 1993. </year> <title> Type inclusion constraints and type inference. </title> <booktitle> In Proc. Conference on Functional Programming Languages and Computer Architecture. </booktitle> <pages> 31-41. </pages>
+Reference: <author> Amadio, R. M. and Cardelli, L. </author> <year> 1993. </year> <title> Subtyping recursive types. </title> <journal> ACM Trans. Program. Lang. Syst. </journal> <volume> 15, 4, </volume> <pages> 575-631. </pages> <note> Also in Proc. POPL'91. </note>
+Reference: <author> Curtis, P. </author> <year> 1990. </year> <title> Constrained quantification in polymorphic type analysis. </title> <type> Tech. Rep. CSL-90-1, </type> <institution> XEROX Palo Alto Research Center. </institution>
+Reference: <author> Eifrig, J., Smith, S., and Trifonov, V. </author> <year> 1995a. </year> <title> Sound polymorphic type inference for objects. </title> <booktitle> In Proc. OOPSLA'95, ACM SIGPLAN Tenth Annual Conference on Object-Oriented Programming Systems, Languages and Applications. </booktitle> <pages> 169-184. </pages>
+Reference: <author> Eifrig, J., Smith, S., and Trifonov, V. </author> <year> 1995b. </year> <title> Type inference for recursively constrained types and it application to OOP. In Proc. Mathematical Foundations of Programming Semantics. </title> <note> To appear. </note>
+Reference: <author> Kaes, S. </author> <year> 1992. </year> <title> Type inference in the presence of overloading, subtyping and recursive types. </title> <booktitle> In 1992 ACM Conference on Lisp and Functional Programming. </booktitle> <address> San Francisco, California. </address> <booktitle> LISP Pointers V, </booktitle> <volume> 1. </volume> <pages> 193-204. </pages>
+Reference: <author> Kozen, D., Palsberg, J., and Schwartzbach, M. I. </author> <year> 1995. </year> <title> Efficient recursive subtyping. </title> <booktitle> Mathematical Structures in Computer Science 5, </booktitle> <volume> 1, </volume> <pages> 113-125. </pages> <note> Preliminary version in Proc. </note> <editor> POPL'93, </editor> <booktitle> Twentieth Annual SIGPLAN-SIGACT Symposium on Principles of Programming Languages, </booktitle> <pages> pages 419-428, </pages> <address> Charleston, South Carolina, </address> <month> January </month> <year> 1993. </year>
+Reference: <author> Mitchell, J. C. </author> <year> 1991. </year> <title> Type inference with simple subtypes. </title> <journal> Journal of Functional Programming 1, </journal> <pages> 245-285. </pages>
+Reference: <author> Palsberg, J. and O'Keefe, P. M. </author> <year> 1995. </year> <title> A type system equivalent to flow analysis. </title> <journal> ACM Trans. Program. Lang. Syst. </journal> <volume> 17, </volume> <month> 4 (July), </month> <pages> 576-599. </pages> <note> Preliminary version in Proc. </note> <editor> POPL'95, </editor> <booktitle> 22nd Annual SIGPLAN-SIGACT Symposium on Principles of Programming Languages, </booktitle> <pages> pages 367-378, </pages> <address> San Francisco, California, </address> <month> January </month> <year> 1995. </year> <note> Received October 1995; accepted March 1996 </note>
+References-found: 9
+

@@ -1,0 +1,15 @@
+URL: ftp://ftp.cc.gatech.edu/pub/gvu/tr/1995/95-27.ps.Z
+Refering-URL: http://www.cs.gatech.edu/gvu/reports/1995/
+Root-URL: 
+Email: idris@chmsr.isye.gatech.edu  potts @cc.gatech.edu  
+Title: Towards Integrating Rationalistic and Ecological Design Methods for Interactive Systems  
+Author: Idris Hsi Colin Potts 
+Keyword: Key Words: requirements, ecological methods, meeting scheduling, goal refinement, design  
+Note: Integrating Rationalistic and Ecological Design Methods for Interactive Systems Page 1  
+Address: Atlanta, GA 30332-0290, USA  Atlanta, GA 30332-0290, USA  
+Affiliation: Center for Human-Machine Systems Research School of Industrial and Systems Engineering Georgia Institute of Technology,  College of Computing Georgia Institute of Technology,  
+Abstract: Interactive systems design based on rationalistic methods can benefit from the integration of ecological methods that gather information about the user and the task environment. In this paper, we begin to discuss how such an integration of methods can be brought about and what benefits can be derived from it. Using meeting scheduling as an example, we show how workplace data gathering, in the form of user interviews, can significantly alter the specification of a collaborative interactive system. Our discussion of rationalistic methods is restricted to goal refinement approaches, and we discuss a series of design issues that are most pertinent in this approach, specifically: agency and responsibility, obstacle identification, obstacle avoidance and recovery, volume, frequency and repetitiveness issues, generic scenarios and critical incidents, artifact analysis, and deliberate fuzziness. However, we conclude by outlining how ecological methods could be integrated similarly with other rationalistic methods. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

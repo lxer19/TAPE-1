@@ -1,0 +1,13 @@
+URL: http://www.iese.fhg.de/ISERN/pub/technical_reports/isern-96-01.ps.gz
+Refering-URL: http://www.cs.umd.edu/~lanubile/public.html
+Root-URL: 
+Email: email: [lanubile|visaggio]@seldi.uniba.it  
+Title: Assessing Defect Detection Methods for Software Requirements Inspections Through External Replication  
+Author: Filippo Lanubile*, and Giuseppe Visaggio 
+Address: Via Orabona 4, 70126 Bari, Italy  
+Affiliation: University of Bari, Dipartimento di Informatica  
+Abstract: This paper presents the external replication of a controlled experiment which compared three defect detection techniques (Ad Hoc, Checklist, and Defect-based Scenario) for software requirements inspections, and evaluated the benefits of collection meetings after individual reviews. The results of our replication were partially different from those of the original experiment. Unlike the original experiment, we did not find any empirical evidence of better performance when using scenarios. To explain these negative findings we provide a list of hypotheses. On the other hand, the replication confirmed one result of the original experiment: the defect detection rate is not improved by the collection meetings. The external replication was made possible by the existence of an experimental kit provided by the original investigators. We discuss what difficulties we encountered in applying the package to our environment, having different cultures and skills. We also discovered some critical problems in the original experiment which can be considered threats to its internal validity. Using our results, experience and suggestions, other researchers will be able to improve the original experimental design before attempting further replications. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

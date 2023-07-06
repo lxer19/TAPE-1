@@ -1,0 +1,26 @@
+URL: ftp://ftp.wins.uva.nl/pub/computer-systems/aut-sys/reports/SmaKroGro92.ps.gz
+Refering-URL: http://www.fwi.uva.nl/research/neuro/publications/publications.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Email: Email: smagt@fwi.uva.nl  
+Phone: Fax: +31 20 525 7490 Phone: +31 20 525 7524  
+Title: A self-learning controller for monocular grasping  
+Author: P. Patrick van der Smagt Ben J. A. Krose Frans C. A. Groen 
+Date: April 7, 1992  
+Address: Kruislaan 403, NL-1098 SJ THE NETHERLANDS  
+Affiliation: Faculty of Computer Science and Mathematics, Department of Computer Systems, University of Amsterdam  
+Abstract: A method is presented to learn 3D grasping of objects with unknown dimensions using a monocular eye-in-hand manipulator. From a sequence of images a motion profile is generated to approach the object of unknown size. It is shown that monocular visual information suffices to control the deceleration of the robot manipulator. A strategy for generating learning samples is presented, and simulation results demonstrate the effectiveness of the method. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> T. M. Martinetz, H. J. Ritter & K. J. Schulten, </author> <title> "Three-dimensional neural net for learning visuomotor coordination of a robot arm," </title> <booktitle> IEEE Transactions on Neural Networks 1 (March 1990), </booktitle> <pages> 131-136. </pages>
+Reference: [2] <author> W. T. Miller III, </author> <title> "Real-time application of neural networks for sensor-based control of robots with vision," </title> <journal> IEEE Transactions on Systems, Man, and Cybernetics 19 (August 1989), </journal> <pages> 825-831. </pages>
+Reference: [3] <author> M. Kuperstein, </author> <title> "INFANT neural controller for adaptive sensory-motor coordination," </title> <booktitle> Neural Networks 4 (1991), </booktitle> <pages> 131-145. </pages>
+Reference: [4] <author> P. P. van der Smagt & B. J. A. Krose, </author> <title> "A real-time learning neural robot controller," </title> <booktitle> in Proceedings of the 1991 International Conference on Artificial Neural Networks, </booktitle> <address> Espoo, Finland, </address> <month> June </month> <year> 1991, </year> <pages> 351-356. </pages>
+Reference: [5] <author> H. Hashimoto, T. Kubota, W. C. Lo & F. Harashima, </author> <title> "A control scheme of visual servo control of robotic manipulators using artificial neural networks," </title> <booktitle> in Proceedings of the IEEE International Conference on Control and Applications #TA-3-6, </booktitle> <year> 1989. </year>
+Reference: [6] <author> D. Psaltis, A. Sideris & A. A. Yamamura, </author> <title> "A multilayer neural network controller," </title> <journal> IEEE Control Systems Magazine 8 (April 1988), </journal> <pages> 17-21. </pages>
+Reference: [7] <author> B. J. A. Krose, M. J. van der Korst & F. C. A. Groen, </author> <title> "Learning strategies for a vision based neural controller for a robot arm," </title> <booktitle> in IEEE International Workshop on Intelligent Motor Control, </booktitle> <editor> O. Kaynak, ed., Istanbul, </editor> <month> August </month> <year> 1990, </year> <pages> 199-203. </pages>
+Reference: [8] <author> W. H. Press, B. P. Flannery, S. A. Teukolsky & W. T. Vetterling, </author> <title> Numerical Recipes: </title> <booktitle> The Art of Scientific Computing, </booktitle> <publisher> Cambridge University Press, </publisher> <address> Cambridge, </address> <year> 1986. </year>
+Reference: [9] <author> J. Stoer & R. </author> <title> Bulirsch, Introduction to Numerical Analysis, </title> <publisher> Springer-Verlag, </publisher> <address> New York-Heidelberg-Berlin, </address> <year> 1980, </year> <title> Ein-fuhrung in die Numerische Mathematik, </title> <publisher> Springer-Verlag, </publisher> <address> Hei-delberg-Berlin, </address> <year> 1972, 1976. </year>
+Reference: [10] <author> M. J. D. Powell, </author> <title> "Restart procedures for the conjugate gradient method," </title> <booktitle> Mathematical Programming 12 (April 1977), </booktitle> <pages> 241-254. </pages>
+Reference: [11] <author> D. N. Lee, </author> <title> "The optic flow field: The foundation of vision," </title> <journal> Phil. Trans. R. Soc. Lond. </journal> <volume> B 290 (1980), </volume> <pages> 169-179. </pages>
+References-found: 11
+

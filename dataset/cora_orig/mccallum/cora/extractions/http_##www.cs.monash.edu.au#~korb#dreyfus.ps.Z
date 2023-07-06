@@ -1,0 +1,20 @@
+URL: http://www.cs.monash.edu.au/~korb/dreyfus.ps.Z
+Refering-URL: http://www.cs.monash.edu.au/~korb/
+Root-URL: 
+Email: korb@bruce.cs.monash.edu.au  
+Title: Symbolic Rules and Neural Networks: AI Back at a Join Point  
+Author: Kevin B. Korb 
+Date: May 2, 1995  
+Address: Clayton, Victoria 3168 Australia  
+Affiliation: Dept. of Computer Science Monash University  
+Abstract: Artificial intelligence has always been a controversial field of research, assaulted from without by philosophers disputing its possibility and riven within by divisions of ideology and method. Recently the re-emergence of neural network models of cognition has combined with the criticisms of Hubert Dreyfus to challenge the pre-eminent position of symbolicist ideology and method within artificial intelligence. Although the conceits of symbolicism are well worth exposing, I find the marriage between connectionism and Dreyfus's philosophical viewpoint unnatural and much of the disputation between connectionism and artificial intelligence misbegotten. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Dennett, D. </author> <title> (1991) Consciousness Explained. New York: Little Brown. 4 I wish to thank Jack Copeland for his helpful commentary and Binh Pham for her kind provision of facilities. 8 Dreyfus, H. (1972) What Computers Can't Do. </title> <address> New York: </address> <publisher> Harper and Row. </publisher>
+Reference: <author> Dreyfus, H. </author> <title> (1979) What Computers Can't Do, second edition. </title> <address> New York: </address> <publisher> Harper and Row. </publisher>
+Reference: <author> Dreyfus, H. and Dreyfus, S. </author> <title> (1986) Mind over Machine. </title> <address> New York: </address> <publisher> The Free Press. </publisher>
+Reference-contexts: I can here only treat a few. One of Dreyfus's main criticisms of artificial intelligence, central to his What Computers Can't Do (1972) as well as his more recent Mind over Machine <ref> (Dreyfus and Drey-fus, 1986) </ref>, is that the rules typical of artificial intelligence programming are context-free whereas human actions are never performed without regard for context and so cannot be rule-governed.
+Reference: <author> Dreyfus, H. and Dreyfus, S. </author> <title> (1988) `Making a Mind Versus Modeling the Brain: </title> <journal> Artificial Intelligence Back at a Branchpoint,' </journal> <volume> Daedalus 117: </volume> <pages> 15-43. </pages>
+Reference: <author> Dreyfus, H. and Dreyfus, S. </author> <title> (1990) `Towards a Reconciliation of Phenomenology and AI,' </title> <editor> in D. Partridge and Y. Wilks (eds.) </editor> <booktitle> The Foundations of Artificial Intelligence: </booktitle>
+References-found: 5
+

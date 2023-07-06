@@ -1,0 +1,12 @@
+URL: http://www.cs.unc.edu/~ibr/pubs/mcmillan-plenoptic/plenoptic.ps.gz
+Refering-URL: http://www.cs.unc.edu/~ibr/pubs.html
+Root-URL: http://www.cs.unc.edu
+Keyword: CR Descriptors: I.3.3 [Computer Graphics]: Picture/Image Generation display algorithms, viewing algorithms; I.3.7 [Computer Graphics]: Three-Dimensional Graphics and Realism hidden line/ surface removal; I.4.3 [Image Processing]: Enhancement registration; I.4.7 [Image Processing]: Feature Measurement projections; I.4.8 [Image Processing]: Scene Analysis.  
+Date: August 6-11, 1995)  
+Address: (Los Angeles, California,  
+Note: Proceedings of SIGGRAPH 95  
+Abstract: Image-based rendering is a powerful new approach for generating real-time photorealistic computer graphics. It can provide convincing animations without an explicit geometric representation. We use the plenoptic function of Adelson and Bergen to provide a concise problem statement for image-based rendering paradigms, such as morphing and view interpolation. The plenoptic function is a parameterized function for describing everything that is visible from a given point in space. We present an image-based rendering system based on sampling, reconstructing, and resampling the plenoptic function. In addition, we introduce a novel visible surface algorithm and a geometric invariant for cylindrical projections that is equivalent to the epipolar constraint defined for planar projections. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

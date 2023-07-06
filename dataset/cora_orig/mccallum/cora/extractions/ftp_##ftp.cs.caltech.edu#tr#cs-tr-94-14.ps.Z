@@ -1,0 +1,24 @@
+URL: ftp://ftp.cs.caltech.edu/tr/cs-tr-94-14.ps.Z
+Refering-URL: ftp://ftp.cs.caltech.edu/tr/INDEX.html
+Root-URL: http://www.cs.caltech.edu
+Title: Bibliography Parallel Domain Decomposition Applied to Coupled Transport Equations. 7th Domain Decomposition Conference, Penn State.
+Author: [] Petter E. Bjorstad, W.M. Coughran, Jr. and Eric Grosse. [] Peter Carlin, Carl Kesselman, and K. Mani Chandy. [] Peter Carlin and Tom Zavisca. DLA: [] Peter Carlin and Paul A.G. Sivilotti. [] Peter Carlin. [] Vipin Kumar [et al.]. [] Paul A.G. Sivilotti. [] C.A. Thekkath and H.M. Levy. Eric F. Van de Velde. B.W. Abeysundara, and A.E. Kamal. 
+Address: 1994.  1994.  1993.  
+Affiliation: California Institute of Technology,  California Institute of Technology,  California Institute of Technology,  
+Note: The Compositional C Langugage Definition. CS-TR-92-02,  ACM Transactions on Computer Systems, Vol 11. Number 2, 1993. pp 179-203. [9]  Concurrent Scientific Computing. Springer-Verlag, 1994. [10] D.W. Walker. Message Passing Interface. Parallel Computing, Vol 20. Number 4, 1994. [11]  A Survey. ACM Computing Surveys, Vol 23. Number 2, pp 221-264 1991. 34  
+Pubnum: CS-TR-94-02,  CS-TR-93-21,  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> Petter E. Bjorstad, W.M. Coughran, Jr. and Eric Grosse. </author> <title> Parallel Domain Decomposition Applied to Coupled Transport Equations. 7th Domain Decomposition Conference, </title> <institution> Penn State. </institution> <month> Oct. 93. </month>
+Reference: [2] <author> Peter Carlin, Carl Kesselman, and K. Mani Chandy. </author> <title> The Compositional C ++ Langugage Definition. </title> <institution> CS-TR-92-02, California Institute of Technology, </institution> <year> 1994. </year>
+Reference: [3] <author> Peter Carlin and Tom Zavisca. DLA: </author> <title> A Distributed Linear Algebra Library for CC ++ . Internal Note </title>
+Reference: [4] <author> Peter Carlin and Paul A.G. Sivilotti. </author> <title> A Tutorial for CC ++ . CS-TR-94-02, </title> <institution> California Institute of Technology, </institution> <year> 1994. </year>
+Reference: [5] <author> Peter Carlin. </author> <title> A CC ++ Performance Suite. Internal Note </title>
+Reference: [6] <author> Vipin Kumar [et al.]. </author> <title> Introduction to parallel computing : design and analysis of algorithms. </title> <publisher> Benjamin/Cummings Publishing Co, </publisher> <year> 1994. </year>
+Reference: [7] <author> Paul A.G. Sivilotti. </author> <title> A Verified Integration of Imperative Parallel Programming Paradigms in an Object Oriented Language. </title> <institution> CS-TR-93-21, California Institute of Technology, </institution> <year> 1993. </year>
+Reference: [8] <author> C.A. Thekkath and H.M. Levy. </author> <title> Limits to Low-Latency Communication on High Speed Networks. </title> <journal> ACM Transactions on Computer Systems, </journal> <volume> Vol 11. Number 2, </volume> <year> 1993. </year> <pages> pp 179-203. </pages>
+Reference: [9] <author> Eric F. Van de Velde. </author> <title> Concurrent Scientific Computing. </title> <publisher> Springer-Verlag, </publisher> <year> 1994. </year>
+Reference: [10] <author> D.W. Walker. </author> <title> Message Passing Interface. </title> <journal> Parallel Computing, </journal> <volume> Vol 20. Number 4, </volume> <year> 1994. </year>
+Reference: [11] <author> B.W. Abeysundara, and A.E. Kamal. </author> <title> High-Speed Local Area Networks and their Performance </title>
+References-found: 11
+

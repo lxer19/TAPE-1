@@ -1,0 +1,18 @@
+URL: ftp://ftp.cs.caltech.edu/tr/cs-tr-91-07.ps.Z
+Refering-URL: ftp://ftp.cs.caltech.edu/tr/INDEX.html
+Root-URL: http://www.cs.caltech.edu
+Title: space for constructing the tree from its traversals. This is also true of the iterative
+Author: Acknowledgement Dong Lin [] H.A. Burgdorff, S. Jajodia, F.N. Springsteel, Y. Zalcstein, [] G.-H. Chen, M.S. Yu, L.T. Liu, [] W. Chen, J.T. Udding, D. Gries, J.L.A. van de Snepscheut, 
+Note: is gratefully acknowledged  David Gries provided helpful comments  vol.  [4] Edsger W. Dijkstra, Selected Writings on Computing: a Personal Perspective, Springer-Verlag, 1982. [5] D. Gries, The Science of Programming, Chapter 21: Inverting Programs, Springer-Verlag, 1982. [6]  University of Texas at Austin Year of Programming Series, edited by Edsger W. Dijkstra, Addison-Wesley 1990, p.37-42 [7] D.E. Knuth, The Art of computer Programming, Vol. 3: Sorting and Searching, Addison-Wesley, 1973.  
+Date: JAN 171a 3  15 (1990), 1-13.  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> H.A. Burgdorff, S. Jajodia, F.N. Springsteel, Y. Zalcstein, </author> <title> Alternative methods for the recon-strcution of trees from their traversals, </title> <note> BIT vol. 27 (1987) 134-140. </note>
+Reference: [2] <author> G.-H. Chen, M.S. Yu, L.T. Liu, </author> <title> Two algorithms for constructing a binary trtee from its traversals, </title> <journal> Information Processing Letters, </journal> <volume> vol. </volume> <pages> 28(1988) 297-299. </pages>
+Reference: [3] <author> W. Chen, J.T. Udding, </author> <title> Program inversion: more than fun!, </title> <booktitle> Science of computer Programming, </booktitle> <volume> vol. 15 (1990), </volume> <pages> 1-13. </pages>
+Reference: [4] <author> Edsger W. Dijkstra, </author> <title> Selected Writings on Computing: a Personal Perspective, </title> <publisher> Springer-Verlag, </publisher> <year> 1982. </year>
+Reference: [5] <author> D. Gries, </author> <title> The Science of Programming, Chapter 21: Inverting Programs, </title> <publisher> Springer-Verlag, </publisher> <year> 1982. </year>
+Reference: [6] <author> D. Gries, J.L.A. van de Snepscheut, </author> <title> Inorder Traversal of a Binary Tree and its Inversion, in: Formal Development of Programs and Proofs, University of Texas at Austin Year of Programming Series, edited by Edsger W. Dijkstra, </title> <publisher> Addison-Wesley 1990, p.37-42 </publisher>
+
+References-found: 6
+

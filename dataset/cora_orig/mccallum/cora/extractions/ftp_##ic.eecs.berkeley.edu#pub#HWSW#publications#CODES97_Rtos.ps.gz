@@ -1,0 +1,14 @@
+URL: ftp://ic.eecs.berkeley.edu/pub/HWSW/publications/CODES97_Rtos.ps.gz
+Refering-URL: http://www-cad.eecs.berkeley.edu/Respep/Research/hsc/publications.html
+Root-URL: http://www.cs.berkeley.edu
+Title: Automatic Generation of a Real-Time Operating System for Embedded Systems Extended Abstract  
+Author: Felice Balarin Massimiliano Chiodo Attila Jurecska Luciano Lavagno Bassam Tabbara Alberto Sangiovanni-Vincentelli 
+Date: December 18, 1996  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> S. Cardelli, M. Chiodo, P. Giusto, A. Jurecska, L. Lavagno, and A. Sangiovanni-Vincentelli. </author> <title> Rapid-prototyping of embedded systems via reprogrammable devices. </title> <booktitle> In 7th IEEE International Workshop on Rapid System Prototyping, </booktitle> <year> 1996. </year>
+Reference-contexts: We will use experimental results to identify bottlenecks and potential area for further optimization. 1 Our environment still require some example-specific re-wiring. This could be avoided by using a programmable prototyping board (e.g. APTIX) <ref> [1] </ref>, but so far re-wiring was only a minor portion of total experiment time. 5 4.4 Results So far we have experimented with a subset of dashboard specification (a belt controller) that has two tasks and uses two timers, using polling and round-robin scheduling. Initial results are encouraging.
+Reference: [2] <author> M. Chiodo, P. Giusto, H. Hsieh, A. Jurecska, L. Lavagno, and A. Sangiovanni-Vincentelli. </author> <title> Hardware/software codesign of embedded systems. </title> <journal> IEEE Micro, </journal> <volume> 14(4) </volume> <pages> 26-36, </pages> <month> August </month> <year> 1994. </year> <month> 6 </month>
+Reference-contexts: RTOSs created in our approach offer an ease of use comparable to commercial RTOSs, and yet since they are generated for a specific example, they can be optimized based on the same information used to optimize hand-written code. We have implemented our approach within Polis <ref> [2] </ref>, a system for HW/SW co-design of embedded system. To evaluate the Polis generated RTOS we have developed a prototyping environment which we use to compare Polis against a commercial operating system. The rest of the paper is organized as follows.
+References-found: 2
+

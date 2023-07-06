@@ -1,0 +1,22 @@
+URL: ftp://ftp.cs.umd.edu/pub/papers/papers/3692/3692.ps.Z
+Refering-URL: http://www.cs.umd.edu/TRs/TR.html
+Root-URL: 
+Title: Putting Visualization to Work: ProgramFinder for Youth Placement  
+Author: Jason Ellis, Anne Rose, Catherine Plaisant 
+Address: College Park, MD 20742-3255  
+Affiliation: Human-Computer Interaction Laboratory Institute for Advanced Computer Studies University of Maryland,  
+Pubnum: CS-TR-3692  
+Email: jellis, rose, plaisant-@cs.umd.edu  
+Date: Sept. 1996  
+Web: http://www/cs.umd.edu/projects/hcil/  
+Abstract: The Human-Computer Interaction Laboratory (HCIL) and the Maryland Department of Juvenile Justice (DJJ) have been working together to develop the ProgramFinder, a tool for choosing programs for a troubled youth from drug rehabilitation centers to secure residential facilities. The seemingly straightforward journey of the ProgramFinder from an existing user interface technique to a product design required the development of five different prototypes which involved user interface design, prototype implementation, and selecting search criterion. While HCILs effort focused primarily on design and implementation, DJJs attribute selection process was the most time consuming and difficult task. We also found that a direct link to DJJs workflow was needed in the prototypes to generate the necessary buy-in. This paper analyzes the interaction between the efforts of HCIL and DJJ and the amount of buy-in by DJJ staff and management. Lesson learned are presented for developers. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Ahlberg, C., Shneiderman, B. </author> <title> (1993) Visual Information Seeking: Tight coupling of dynamic query filters with starfield displays, </title> <booktitle> ACM CHI 94 Conference Proc. </booktitle> <address> (Boston, MA, </address> <month> April 24-28, </month> <year> 1994) </year> <month> , 313-317. </month> <note> Also appears in Readings in Human-Computer Interaction: Toward the Year 2000 , Baeker, R.M., Gruden, J. , Buxton, W.A.S. </note> & <editor> Greenberg, S., Eds., </editor> <publisher> Morgan Kaufmann Pubs., Inc., </publisher> <year> (1995), </year> <pages> 450-456. </pages>
+Reference: <author> Ahlberg, C., Wistrand, E. </author> <year> (1995) </year> <month> IVEE: </month> <title> An Information Visualization & Exploration Environment, </title> <booktitle> Proceedings of IEEE Visualization 95 (Atlanta, </booktitle> <month> October </month> <year> 1995) </year> <month> , 66-73. </month>
+Reference-contexts: The testing prototype required increased implementation effort because there was little working functionality in the previous prototypes. IVEE Prototype The first prototype (Figure 3) was built in a few hours using the Information Visualization and Exploration Environment (IVEE) <ref> (Ahlberg & Wistrand, 1995) </ref>. IVEE automatically creates DQ interfaces for given datasets. The dataset used to generate the ProgramFinder was entirely mocked up by HCIL. The major drawback of using IVEE was that it ran on Sun workstations and DJJ only uses PCs.
+Reference: <author> Rose, A., Shneiderman, B., Plaisant, C. </author> <title> (1995) An applied ethnographic method for redesigning user interfaces, </title> <booktitle> ACM Proc. of DIS 95, Symposium on Designing Interactive Systems: Processes, Practices, Methods & Techniques (Ann Arbor, </booktitle> <address> MI, Aug 23-25, </address> <year> 1995) </year> <month> , 115-122. </month>
+Reference: <author> Slaughter, L., Norman, K., Shneiderman, B., </author> <year> (1995), </year> <title> Assessing Users Subjective Satisfaction with the Information System for Youth Services (ISYS), </title> <booktitle> Proceedings of Third Annual Mid-Atlantic Human Factors Conference (Blacksburg, </booktitle> <address> VA, March 26-28, </address> <year> 1995) </year> <month> , 164-170. </month>
+Reference: <author> Williamson, C., Shneiderman, B. </author> <title> (1992) The dynamic HomeFinder: Evaluating dynamic queries in a real-estate information exploration system, </title> <booktitle> Proceedings ACM SIGIR 92 (Copenhagen, </booktitle> <month> June 21-24, </month> <year> 1992) </year> <month> , 338-346. </month> <note> Also appears in Sparks of Innovation in Human-Computer Interaction , Shneiderman, </note> <editor> B., Ed., </editor> <month> Ablex (June </month> <year> 1993), </year> <pages> 295-307. </pages>
+References-found: 5
+

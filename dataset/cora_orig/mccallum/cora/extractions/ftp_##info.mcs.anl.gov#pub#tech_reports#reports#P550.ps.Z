@@ -1,0 +1,14 @@
+URL: ftp://info.mcs.anl.gov/pub/tech_reports/reports/P550.ps.Z
+Refering-URL: http://www.mcs.anl.gov/publications/abstracts/abstracts95.htm
+Root-URL: http://www.mcs.anl.gov
+Title: The Metabolic Pathway Collection from EMP: The Enzymes and Metabolic Pathways Database  
+Author: Evgeni Selkov Svetlana Basmanova Terry Gaasterland Igor Goryanin Yuri Gretchkin Natalia Maltsev Valeri Nenashev Ross Overbeek Elena Panyushkina Lyudmila Pronevitch Evgeni Selkov Jr. Ilya Yunus 
+Abstract: The Enzymes and Metabolic Pathways database (EMP) is an encoding of the contents of over 10,000 original publications on the topics of enzymology and metabolism. This large body of information has been transformed into a queryable database. An extraction of over 1400 pictorial representations of metabolic pathways from this collection is freely available on the World Wide Web. We believe that this collection will play an important role in the interpretation of genetic sequence data, as well as offering a meaningful framework for the integration of many other forms of biological data. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> E. Selkov, I. Goryanin, N. Kaimachnikov, E. Shevelev, and I. Yunus, </author> <title> Data and Knowledge Bank on Enzymes and Metabolic Pathways. </title> <editor> In P. Glaeser, editor, </editor> <title> Scientific and Technical Data in a New Era, pages 22-27. Hemisphere Publishing Corp., 1990 EMP User Manual: a Guide to the Enzymes and Metabolic Pathways Database, Release 1.0, </title> <journal> Septem-ber, 1995 Bairoch A. The ENZYME data bank Nucleic Acids Res. </journal> <volume> 22 </volume> <pages> 3626-3627(1994). </pages>
+Reference: <author> Bairoch A., and Boeckmann B. </author> <title> The SWISS-PROT protein sequence data bank: current status. </title> <journal> Nucleic Acids Res. </journal> <volume> 22 </volume> <pages> 3578-3580(1994). </pages>
+Reference: <author> Mikita Suyama, Atsushi Ogiwara, Takaaki Nishioka, </author> <title> and Jun'ichi Oda "Searching for amino acid sequence motifs among enzymes: the Enzyme-Reaction Database", </title> <journal> Comput. Appl. Biosci. </journal> <volume> 9, </volume> <pages> 9-15, </pages> <year> 1993. </year>
+Reference: <author> T. Gaasterland, N. Maltsev, and R. Overbeek. </author> <title> The Role of Integrated Databases in Nicrobial Genome Sequence Analysis and Metabolic Reconstruction. </title> <booktitle> in Proceedings of the Second International Meeting on Integration of Molecular Biological Databases, </booktitle> <address> Cam-bridge, England, </address> <month> July, </month> <year> 1995. </year>
+References-found: 4
+

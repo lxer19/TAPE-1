@@ -1,0 +1,48 @@
+URL: http://www.research.digital.com/SRC/tla/src118.ps.Z
+Refering-URL: http://www.research.digital.com/SRC/tla/papers.html
+Root-URL: http://www.research.digital.com
+Title: Conjoining Specifications  
+Author: Martn Abadi and Leslie Lamport 
+Abstract: 3 November 1995 This is a revised version of SRC Research Report 118. It will appear in ACM Transactions on Programming Languages and Sys tems. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Abadi, M. and Lamport, L. </author> <year> 1994. </year> <title> An old-fashioned recipe for real time. </title> <journal> ACM Trans. Program. </journal>
+Reference: <author> Lang. Syst. </author> <month> 16, 5 (Sept.), </month> <pages> 1543-1571. </pages>
+Reference: <author> Abadi, M. and Lamport, L. </author> <year> 1993. </year> <title> Composing specifications. </title> <journal> ACM Trans. Program. Lang. Syst. </journal> <volume> 15, 1 (Jan.), </volume> <pages> 73-132. </pages>
+Reference: <author> Abadi, M. and Lamport, L. </author> <year> 1991. </year> <title> The existence of refinement mappings. </title> <journal> Theor. Comput. Sci. </journal> <volume> 82, </volume> <month> 2 (May), </month> <pages> 253-284. </pages>
+Reference: <author> Abadi, M. and Plotkin, G. </author> <year> 1993. </year> <title> A logical view of composition. </title> <journal> Theor. Comput. Sci. </journal> <volume> 114, </volume> <month> 1 (June), </month> <pages> 3-30. </pages>
+Reference: <author> Abramsky, S. and Jagadeesan, R. </author> <year> 1994. </year> <title> Games and full completeness for multiplicative linear logic. </title> <journal> J. Symb. Logic 59, </journal> <month> 2 (June), </month> <pages> 543-574. </pages>
+Reference: <author> Alpern, B. and Schneider, F. B. </author> <year> 1985. </year> <title> Defining liveness. </title> <journal> Inf. Process. Lett. </journal> <volume> 21, 4 (Oct.), </volume> <pages> 181-185. </pages>
+Reference: <author> Berthet, C. and Cerny, E. </author> <year> 1988. </year> <title> An algebraic model for asynchronous circuits verification. </title> <journal> IEEE Trans. Comput. </journal> <volume> 37, </volume> <month> 7 (July), </month> <pages> 835-847. </pages>
+Reference: <author> Collette, P. </author> <year> 1993. </year> <title> Application of the composition principle to Unity-like specifications. </title> <booktitle> In TAPSOFT'93: Theory and Practice of Software Development, M.-C. Gaudel and J.-P. </booktitle>
+Reference: <editor> Jouannaud, Eds. </editor> <booktitle> Lecture Notes in Computer Science, </booktitle> <volume> vol. 668. </volume> <publisher> Springer-Verlag, Berlin, </publisher> <pages> 230-242. </pages>
+Reference: <author> Jones, C. B. </author> <year> 1983. </year> <title> Specification and design of (parallel) programs. </title> <booktitle> In Information Processing 83: Proceedings of the IFIP 9th World Congress, </booktitle> <editor> R. E. A. Mason, Ed. </editor> <publisher> North-Holland, Amsterdam, </publisher> <pages> 321-332. </pages>
+Reference: <author> Kurshan, R. P. and Lamport, L. </author> <year> 1993. </year> <title> Verification of a multiplier: 64 bits and beyond. </title>
+Reference: <editor> In Computer-Aided Verification, C. Courcoubetis, Ed. </editor> <booktitle> Lecture Notes in Computer Science, </booktitle> <volume> vol. 697. </volume> <publisher> Springer-Verlag, Berlin, </publisher> <pages> 166-179. </pages> <booktitle> Proceedings of the 5th International Conference, </booktitle> <address> CAV'93. </address>
+Reference: <author> Lamport, L. </author> <year> 1994. </year> <title> The temporal logic of actions. </title> <journal> ACM Trans. Program. Lang. Syst. </journal> <volume> 16, </volume> <month> 3 (May), </month> <pages> 872-923. </pages>
+Reference: <author> Lamport, L. </author> <year> 1989. </year> <title> A simple approach to specifying concurrent systems. </title> <journal> Commun. ACM 32, </journal> <volume> 1 (Jan.), </volume> <pages> 32-45. </pages>
+Reference: <author> Lamport, L. </author> <year> 1983. </year> <title> What good is temporal logic? In Information Processing 83: </title> <booktitle> Proceedings of the IFIP 9th World Congress, </booktitle> <editor> R. E. A. Mason, Ed. </editor> <publisher> North-Holland, Amsterdam, </publisher> <pages> 657-668. </pages>
+Reference: <author> Mead, C. and Conway, L. </author> <year> 1980. </year> <title> Introduction to VLSI Systems. </title> <publisher> Addison-Wesley, </publisher> <address> Reading, Mass., chap. </address> <month> 7. </month>
+Reference: <author> Misra, J. and Chandy, K. M. </author> <year> 1981. </year> <title> Proofs of networks of processes. </title> <journal> IEEE Trans. Softw. Eng. </journal> <volume> SE-7, </volume> <month> 4 (July), </month> <pages> 417-426. </pages>
+Reference: <author> Pandya, P. K. and Joseph, M. </author> <year> 1991. </year> <title> P-A logic|a compositional proof system for distributed programs. Distrib. </title> <journal> Comput. </journal> <volume> 5, 1, </volume> <pages> 37-54. </pages>
+Reference: <author> Pnueli, A. </author> <year> 1984. </year> <title> In transition from global to modular temporal reasoning about programs. In Logics and Models of Concurrent Systems, </title> <editor> K. R. Apt, Ed. </editor> <booktitle> NATO ASI Series, </booktitle> <publisher> Springer-Verlag, Berlin, </publisher> <pages> 123-144. </pages>
+Reference: <author> Pnueli, A. </author> <year> 1981. </year> <title> The temporal semantics of concurrent programs. </title> <journal> Theor. Comput. Sci. </journal> <volume> 13, </volume> <pages> 45-60. </pages>
+Reference: <author> Stark, E. W. </author> <year> 1985. </year> <title> A proof technique for rely/guarantee properties. </title> <booktitle> In Foundations of Software Technology and Theoretical Computer Science, </booktitle> <editor> S. N. Maheshwari, Ed. </editor> <booktitle> Lecture Notes in Computer Science, </booktitle> <volume> vol. 206. </volume> <publisher> Springer-Verlag, Berlin, </publisher> <pages> 369-391. </pages>
+
+
+
+
+
+
+
+
+
+
+
+
+Reference: <author> Proof: h3i3, h3i4, and h3i5, </author> <title> and the definition of H. h3i7. ' hx 1 ; x 2 i Proof: h3i1, which asserts t ' hx 1 ; x 2 i , and the definition of , which implies ' x 1 t . h3i8. </title> <publisher> Q.E.D. </publisher>
+
+
+
+References-found: 23
+

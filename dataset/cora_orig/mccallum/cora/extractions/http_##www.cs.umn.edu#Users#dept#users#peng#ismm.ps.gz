@@ -1,0 +1,19 @@
+URL: http://www.cs.umn.edu/Users/dept/users/peng/ismm.ps.gz
+Refering-URL: http://www.cs.umn.edu/Users/dept/users/peng/
+Root-URL: http://www.cs.umn.edu
+Title: Specifying Object-Oriented Federated Databases from Existing Databases  
+Author: Ee-Peng Lim, Meng-Liang Lim, Jaideep Srivastava 
+Address: Ave., Singapore 639798  
+Affiliation: Sch. of Applied Science, Nanyang Technological Univ. Nanyang  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> U. Dayal and H-Y. Hwang. </author> <title> View definition and generalization for database integration in multi-base: A system for heterogeneous distributed databases. </title> <journal> IEEE Trans. Software Eng., </journal> <volume> SE-10(6), </volume> <month> November </month> <year> 1984. </year>
+Reference-contexts: In this respect, OO-Myriad adheres quite closely to the Dayal's approach of using aggregate functions as attribute derivation functions <ref> [1] </ref>. To carry the idea further, OO-Myriad allows the functions to be user-defined. Global Object Id In OO-Myriad, each global object has a unique identifier.
+Reference: [2] <author> W. Kent. </author> <title> The entity join. </title> <booktitle> In Proc. of the 5th VLDB Conf., </booktitle> <year> 1979. </year>
+Reference-contexts: This achieves independence between the global schema structures and the local schema structures. 1 3.1 Deriving Global Classes In deriving the global classes, the three main issues to be dealt with are: entity identification <ref> [2, 3] </ref>, attribute value conflict resolution [4], and global oid generation. Entity identification is the process of identifying export objects that model the same real-world objects and hence to be merged.
+Reference: [3] <author> E-P. Lim, J. Srivastava, S. Prabhakar, and J. Richardson. </author> <title> Entity identification problem in database integration. </title> <booktitle> 9th International Conference on Data Engineering, </booktitle> <year> 1993. </year>
+Reference-contexts: This achieves independence between the global schema structures and the local schema structures. 1 3.1 Deriving Global Classes In deriving the global classes, the three main issues to be dealt with are: entity identification <ref> [2, 3] </ref>, attribute value conflict resolution [4], and global oid generation. Entity identification is the process of identifying export objects that model the same real-world objects and hence to be merged.
+Reference: [4] <author> E-P. Lim, J. Srivastava, and S. Shekhar. </author> <title> Resolving attribute incompatibility in database integration: An evidential reasoning approach. </title> <booktitle> 10th International Conference on Data Engineering, </booktitle> <year> 1994. </year> <month> 4 </month>
+Reference-contexts: This achieves independence between the global schema structures and the local schema structures. 1 3.1 Deriving Global Classes In deriving the global classes, the three main issues to be dealt with are: entity identification [2, 3], attribute value conflict resolution <ref> [4] </ref>, and global oid generation. Entity identification is the process of identifying export objects that model the same real-world objects and hence to be merged. Attribute value conflict resolution determines how the attributes of global objects can be derived from the attributes of their export objects.
+References-found: 4
+

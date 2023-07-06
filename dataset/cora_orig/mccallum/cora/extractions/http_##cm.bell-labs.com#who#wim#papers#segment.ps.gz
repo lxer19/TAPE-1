@@ -1,0 +1,35 @@
+URL: http://cm.bell-labs.com/who/wim/papers/segment.ps.gz
+Refering-URL: http://www.mathsoft.com/wavelets.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: Wavelet probing for compression based segmentation  
+Author: Baiqiao Deng Bjorn Jawerth Gunnar Peters Wim Sweldens 
+Affiliation: University of South Carolina, Department of Mathematics  Katholieke Universiteit Leuven Belgium, Department of Computer Science, and University of South Carolina, Department of Mathematics  
+Abstract: In this paper we show how wavelets can be used for data segmentation. The basic idea is to split the data into smooth segments that can be compressed separately. A fast algorithm that uses wavelets on closed sets and wavelet probing is presented. 
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> L. Andersson, N. Hall, B. Jawerth, and G. Peters. </author> <title> Wavelets on closed subsets of the real line. </title> <booktitle> In 21 </booktitle> . 
+Reference: 2. <author> P. J. Burt, T. H. Hong, and A. Rosenfeld. </author> <title> Image segmentation and region property computation by cooper ative hierarchical computation. </title> <journal> IEEE Trans. on Syst. Man Cybernet., </journal> <volume> 11 </volume> <pages> 802-809, </pages> <year> 1980. </year>
+Reference: 3. <author> J. Canny. </author> <title> A computational approach to edge detection. </title> <journal> IEEE Trans. on Patt. Anal. and Mach. Intell., </journal> <volume> 8 </volume> <pages> 679-698, </pages> <year> 1986. </year>
+Reference: 4. <author> C. K. Chui. </author> <title> An Introduction to Wavelets. </title> <publisher> Academic Press, </publisher> <address> San Diego, </address> <year> 1992. </year>
+Reference: 5. <author> C. K. Chui, </author> <title> editor. Wavelets: A Tutorial in Theory and Applications. </title> <publisher> Academic Press, </publisher> <address> San Diego, </address> <year> 1992. </year>
+Reference: 6. <author> A. Cohen, I. Daubechies, and J. Feauveau. </author> <title> Bi-orthogonal bases of compactly supported wavelets. </title> <journal> Comm. Pure and Appl. Math., </journal> <volume> 45 </volume> <pages> 485-560, </pages> <year> 1992. </year>
+Reference: 7. <author> R. R. Coifman, Y. Meyer, and V. Wickerhauser. </author> <title> Size properties of wavelet packets. </title> <booktitle> In 20 , pages 453-470. </booktitle>
+Reference: 8. <author> I. Daubechies. </author> <title> Ten Lectures on Wavelets. </title> <booktitle> Number 61 in CBMS-NSF Series in Applied Mathematics. </booktitle> <publisher> SIAM, </publisher> <address> Philadelphia, </address> <year> 1992. </year>
+Reference: 9. <author> B. Deng. </author> <title> Biorthogonal wavelet packets. </title> <type> PhD thesis, </type> <institution> Department of Mathematics, University of South Carolina, </institution> <year> 1993. </year>
+Reference: 10. <author> V. V. Digalakis, M. Ostendorf, and J. R. Rohlicek. </author> <title> Fast algorithms for phone classification and recognition using segment-based models. </title> <journal> IEEE Trans. on Signal Process., </journal> <volume> 40(12) </volume> <pages> 2885-2896, </pages> <year> 1992. </year>
+Reference: 11. <author> R. J. Di Francesco. </author> <title> Real-time speech segmentation using pitch and convexity jump models: Application to variable rate speech coding. </title> <journal> IEEE Trans. on Acoust. Signal Speech Process., </journal> <volume> 38(5) </volume> <pages> 741-748, </pages> <year> 1990. </year>
+Reference: 12. <author> G. N. Khan and D. F. Gillies. </author> <title> Parallel-hierarchical image partitioning and region extraction. </title> <booktitle> In 22 </booktitle> . 
+Reference: 13. <author> S. Mallat and W. L. Hwang. </author> <title> Singularity detection and processing with wavelets. </title> <journal> IEEE Trans. on Inf. Theory, </journal> (2):617-643, 1992. 
+Reference: 14. <author> S. Mallat and S. Zhong. </author> <title> Characterization of signals from multiscale edges. </title> <journal> IEEE Trans. on Patt. Anal. and Mach. Intell., </journal> <volume> 14 </volume> <pages> 710-732, </pages> <year> 1992. </year>
+Reference: 15. <author> S. G. Mallat. </author> <title> Multifrequency channel decompositions of images and wavelet models. </title> <journal> IEEE Trans. on Acoust. Signal Speech Process., </journal> <volume> 37(12) </volume> <pages> 2091-2110, </pages> <year> 1989. </year>
+Reference: 16. <author> S. G. Mallat. </author> <title> Multiresolution approximations and wavelet orthonormal bases of L 2 (IR). </title> <journal> Trans. Amer. Math. Soc., </journal> <volume> 315(1) </volume> <pages> 69-87, </pages> <year> 1989. </year>
+Reference: 17. <author> S. G. Mallat. </author> <title> Zero crossings of a wavelet transform. </title> <journal> IEEE Trans. on Inf. Theory, </journal> <volume> 37(4) </volume> <pages> 1019-1033, </pages> <year> 1991. </year>
+Reference: 18. <author> D. Marr. Vision. W. H. Freeman and Company, </author> <year> 1982. </year>
+Reference: 19. <author> Y. Meyer. Ondelettes et Operateurs, I: Ondelettes, II: Operateurs de Calderon-Zygmund, III: (with R. Coifman), Operateurs multilineaires. Hermann, Paris, </author> <year> 1990. </year>
+Reference: 20. <editor> M. B. Ruskai, G. Beylkin, R. Coifman, I. Daubechies, S. Mallat, Y. Meyer, and L. Raphael, editors. </editor> <title> Wavelets and their Applications. </title> <editor> Jones and Bartlett, </editor> <year> 1992. </year>
+Reference: 21. <author> L. L. Schumacher and G. Webb, </author> <title> editors. Topics in the Theory and Applications of Wavelets. </title> <note> Academic Press, To be published. </note>
+Reference: 22. <author> L. Shapiro and A. Rosenfeld. </author> <title> Computer Vision and Image Processing. </title> <publisher> Academic Press, </publisher> <year> 1992. </year>
+Reference: 23. <author> M. V. Wickerhauser. </author> <title> Acoustic signal compression with wavelet packets. </title> <booktitle> In 5 , pages 679-700. </booktitle>
+Reference: 24. <author> M. V. Wickerhauser and R. R. Coifman. </author> <title> Entropy based methods for best basis selection. </title> <journal> IEEE Trans. on Inf. Theory, </journal> <volume> 38(2) </volume> <pages> 719-746, </pages> <year> 1992. </year> <institution> University of South Carolina, Department of Mathematics, </institution> <address> Columbia SC 29208, e-mail: fdeng, </address> <publisher> jawerth, peters, sweldensg@math.scarolina.edu. </publisher>
+References-found: 24
+

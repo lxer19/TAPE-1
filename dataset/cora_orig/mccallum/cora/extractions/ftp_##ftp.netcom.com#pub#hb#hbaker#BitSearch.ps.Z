@@ -1,0 +1,25 @@
+URL: ftp://ftp.netcom.com/pub/hb/hbaker/BitSearch.ps.Z
+Refering-URL: ftp://ftp.netcom.com/pub/hb/hbaker/home.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Phone: (818) 501-4956 (818) 986-1360 (FAX)  
+Title: The Efficient Implementation of Common Lisp's SEARCH Function on Bitvectors The Efficient Implementation of Common
+Author: Henry G. Baker 
+Date: August, 1989; revised April, 1991  
+Address: 16231 Meadow Ridge Way, Encino, CA 91436  
+Affiliation: Nimble Computer Corporation,  
+Note: Copyright (c) 1989,1991 by Nimble Computer Corporation 1  This work was supported in part by the U.S. Department of Energy Contract No. DE-AC03-88ER80663  
+Abstract: The efficient implementation of Common Lisp's SEARCH function specialized to bitvectors is discussed. With its nonword-aligned search patterns and its small 2-element alphabet, a bit-vector SEARCH can often be the most inefficient of all SEARCH'es. Techniques, some of which we believe are novel, are discussed for overcoming these problems and achieving excellent performance on standard computer hardware. To reduce the amortized pattern preprocessing costs, we use four distinct search algorithms for pattern lengths of 1, 2 to w, w+1 to 2w-2, and larger, where w is the algorithm byte size. Fast searching of a bitstring for an exact match of a shorter pattern bitstring can be required for some "bit-stuffing" communication protocols, and for the 1-dimensional portion of a 2-dimensional search within a binary image, such as those found on a bit-mapped display or transmitted by facsimile. Some of the techniques discussed are also relevant for searching with other small alphabets, e.g., the 2-bit ATGC alphabet used in DNA databases. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Allison, L, and Dix, </author> <title> T.I. "A BitString Longest-Common-Subsequence Algorithm". Info. </title> <booktitle> Proc. Let. 23 (1986), </booktitle> <pages> 305-310. </pages>
+Reference: <author> Baeza-Yates, Ricardo A. </author> <title> "Improved String Searching". </title> <booktitle> SWPrac. & Exper. 19,3 (March1989), </booktitle> <pages> 257-271. </pages>
+Reference: <author> Bailey, T.A., and Dromey, R.G. </author> <title> "Fast String Searching by Finding Subkeys in Subtext". Info. </title> <booktitle> Proc. Let. 11,3 (1980), </booktitle> <pages> 130-133. </pages>
+Reference: <author> Baker, Henry G. </author> <title> "Efficient Implementation of Bit-vector Operations in Common Lisp". </title> <booktitle> ACM Sigplan LISP Pointers 3,2-4 (April-June1990), </booktitle> <pages> 8-22. </pages>
+Reference: <author> Boyer, Robert, S., and Moore, J. Strother. </author> <title> "A Fast String Searching Algorithm". </title> <journal> CACM 20,10 (Oct.1977), </journal> <pages> 762-772. </pages>
+Reference: <author> Davies, G., and Bowsher, S. </author> <title> "Algorithms for Pattern matching". </title> <booktitle> SWPractise & Exper. 16,6 (June1986), </booktitle> <pages> 575-601. </pages> <note> (Rabin and Karp). </note>
+Reference: <author> Galil, Zvi. </author> <title> "On Improving the Worst Case Running Time of the Boyer-Moore String Matching Algorithm". </title> <journal> CACM 22,9 (Sept.1979), </journal> <pages> 505-508. </pages>
+Reference: <author> Knuth, D.E., Morris, Jr., J.H., and Pratt, </author> <title> V.B. "Fast Pattern Matching in Strings". </title> <journal> SIAM J. Comput. </journal> <month> 6,2 </month> <year> (1977), </year> <pages> 323-350. </pages>
+Reference: <author> Kuck, David J. </author> <title> The Structure of Computers and Computations, Vol. I. </title> <publisher> John Wiley & Sons, </publisher> <address> NY, </address> <year> 1978. </year> <title> Semba, Ichiro "An Efficient String Searching Algorithm". </title> <journal> J. Info. </journal> <note> Proc. 8,2 (1985) Steele, </note> <author> G.L. </author> <title> Common Lisp, the Language: Second Edition. </title> <publisher> Digital Press, </publisher> <address> Bedford, MA, </address> <year> 1990. </year>
+Reference: <author> Zhu, R.F., and Takaoka, T. </author> <title> "On improving the average case of the Boyer-Moore string matching algorithm". </title> <journal> J. Inf. Proc. 10,3 (March1987), </journal> <month> 173-177. </month> <title> 6 SEARCH is not the only Common Lisp function which should be so curried; FORMAT is also an excellent candidate for currying to allow for compiler preprocessing of its usually constant formatting string. </title>
+References-found: 10
+

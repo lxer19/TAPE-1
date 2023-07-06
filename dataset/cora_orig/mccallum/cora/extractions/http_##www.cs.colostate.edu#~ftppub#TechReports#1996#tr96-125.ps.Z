@@ -1,0 +1,20 @@
+URL: http://www.cs.colostate.edu/~ftppub/TechReports/1996/tr96-125.ps.Z
+Refering-URL: http://www.cs.colostate.edu/~ftppub/
+Root-URL: 
+Email: ross/gravesc/lesher@cs.colostate.edu  
+Phone: Phone: (970) 491-5792 Fax: (970) 491-2466  
+Title: Some Lessons Learned from Coding the Burns Line Extraction Algorithm in the DARPA Image Understanding Environment  
+Author: J. Ross Beveridge Chris Graves Chris Lesher 
+Note: This work was sponsored by the Defense Advanced Research Projects Agency (ARPA) through the Topographic Engineering Center under the auspices of the U.S. Army Research Office Scientific Services Program and monitored by Battelle. (Grant number DAAL03-91-C-0034)  
+Web: WWW: http://www.cs.colostate.edu  
+Address: Fort Collins, CO 80523-1873  
+Date: October 1, 1996  
+Affiliation: Colorado State University  Computer Science Department Colorado State University  
+Pubnum: Technical Report CS-96-125  
+Abstract: Computer Science Technical Report 
+Abstract-found: 1
+Intro-found: 1
+Reference: [BHR86] <author> J. B. Burns, A. R. Hanson, and E. M. Riseman. </author> <title> Extracting straight lines. </title> <journal> IEEE Trans. on Pattern Analysis and Machine Intelligence, </journal> <volume> PAMI-8(4):425 - 456, </volume> <month> July </month> <year> 1986. </year> <month> 22 </month>
+Reference-contexts: While continuing efforts are sure to be made to improve IUE run time performance, the IUE is now within the proper order of magnitude range relative to straight C. 1 1.1 Overview of the Burns Algorithm The Burns Algorithm was first described in <ref> [BHR86] </ref>. The algorithm takes in a single image and returns straight line segments representing regions of aligned gradient orientation in the image. using the IUE. The Burns algorithm uses the following general types of objects/operations: 1. Byte Images. 2. Convolution to extract gradient magnitude and gradient orientation images. 3.
+References-found: 1
+

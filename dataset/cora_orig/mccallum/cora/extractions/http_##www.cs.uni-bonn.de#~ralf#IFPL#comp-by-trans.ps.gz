@@ -1,0 +1,19 @@
+URL: http://www.cs.uni-bonn.de/~ralf/IFPL/comp-by-trans.ps.gz
+Refering-URL: http://www.cs.uni-bonn.de/~ralf/index.body.html
+Root-URL: http://cs.uni-bonn.de
+Email: Email: simonpj@dcs.gla.ac.uk.  
+Title: Compiling Haskell by program transformation: a report from the trenches  
+Author: Simon L Peyton Jones 
+Note: The paper appears in the Proceedings of the European Symposium on Programming, Linkoping, April 1996.  
+Date: January 31, 1996  
+Web: WWW: http:://www.dcs.gla.ac.uk/~simonpj  
+Address: G12 8QQ  
+Affiliation: Department of Computing Science, University of Glasgow,  
+Abstract: Many compilers do some of their work by means of correctness-preserving, and hopefully performance-improving, program transformations. The Glasgow Haskell Compiler (GHC) takes this idea of "compilation by transformation" as its war-cry, trying to express as much as possible of the compilation process in the form of program transformations. This paper reports on our practical experience of the transformational approach to compilation, in the context of a substantial compiler. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> AV Aho, R Sethi & JD Ullman [1986], </author> <title> Compilers principles, techniques and tools, Addison Wesley. AW Appel [1992], Compiling with continuations, </title> <publisher> Cambridge University Press. </publisher> <editor> AW Appel & T Jim [1996], </editor> <title> "Shrinking Lambda-Expressions in Linear Time," </title> <institution> Department of Computer Science, Princeton University. </institution>
+
+Reference: <author> C Flanagan, </author> <title> A Sabry, B Duba & M Felleisen [June 1993], "The essence of compiling with continuations," </title> <journal> SIGPLAN Notices 28, </journal> <month> 237-247. </month> <title> P Fradet & D Le Metayer [Jan 1991], "Compilation of functional languages by program transformation," </title> <journal> ACM Transactions on Programming Languages and Systems 13, </journal> <pages> 21-51. </pages>
+References-found: 2
+

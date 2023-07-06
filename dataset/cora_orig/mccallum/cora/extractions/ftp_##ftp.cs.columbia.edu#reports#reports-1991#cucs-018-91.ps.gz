@@ -1,0 +1,20 @@
+URL: ftp://ftp.cs.columbia.edu/reports/reports-1991/cucs-018-91.ps.gz
+Refering-URL: http://www.cs.columbia.edu/~library/1991.html
+Root-URL: http://www.cs.columbia.edu
+Title: "A data structure for dynamic trees", J. Comput. System "Self-adjusting binary search trees", "On finding
+Author: [] D. D. Sleator, and R. E. Tarjan, [] D. D. Sleator, and R. E. Tarjan, [] P. M. Spira, and A. Pan, J. [] R. Tamassia, [] R. E. Tarjan, [] R. E. Tarjan, and J. van Leeuwen, [] R. E. Tarjan, and U. Vishkin, J. [] J. Westbrook, [] J. Westbrook, and R. E. Tarjan, 
+Address: 4 (1975), 375-380.  14 (1985), 862-864.  
+Affiliation: Comput.  Comput.  Department of Computer Science, Princeton University,  Department of Computer Science, Princeton University,  
+Date: 24 (1983), 362-381.  32 (1985), 652-686.  1988, 576-590.  1 (1972),  31 (1984), 245-281.  October 1989.  
+Note: Sci.  J. Assoc. Comput. Mach.  Proc. 15th Int. Colloquium on Automata, Languages and Programming, Lecture Notes in Computer Science, vol. 317, Springer-Verlag, Berlin,  SIAM J. Comput.  J. Assoc. Comput. Mach.  Ph. D. Dissertation, Tech. Rep. CS-TR-229-89,  Tech. Rep. CS-TR-228-89,  August 1989. To appear in Algorithmica. 13  
+Abstract: 31] D. M. Yellin, "A dynamic transitive closure algorithm", Research Report, IBM Research Division, T. J. Watson Research Center, 1988. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> A. V. Aho, J. E. Hopcroft, and J. D. Ullman, </author> <title> The Design and Analysis of Computer Algorithms, </title> <publisher> Addison-Wesley, </publisher> <address> Reading, MA, </address> <year> 1974. </year>
+Reference: [2] <author> G. Ausiello, G. F. Italiano, A. Marchetti-Spaccamela, U. Nanni, </author> <title> "Incremental algorithms for minimal length paths", </title> <journal> J. </journal> <note> Algorithms, to appear. </note>
+Reference: [3] <author> G. Ausiello, A. Marchetti-Spaccamela, and U. Nanni, </author> <title> "Dynamic maintenance of paths and path expressions in graphs", </title> <booktitle> Proc. Int. Symp. on Symbolic and Algebraic Computation, Lecture Notes in Computer Science 358, </booktitle> <publisher> Springer-Verlag, </publisher> <address> Berlin, </address> <year> 1989, </year> <pages> 1-12. </pages>
+Reference: [4] <author> A. L. Buchsbaum, P. C. Kanellakis, and J. S. Vitter, </author> <title> "A data structure for arc insertion and regular path finding", </title> <booktitle> Proc. 1st Annual ACM-SIAM Symp. on Discrete Algorithms, </booktitle> <year> 1990, </year> <pages> 22-31. </pages>
+Reference: [5] <author> F. Chin, and D. Houk, </author> <title> "Algorithms for updating minimum spanning trees", </title> <journal> J. Comput. System. Sci. </journal> <volume> 16 (1978), </volume> <pages> 333-344. </pages>
+
+References-found: 5
+

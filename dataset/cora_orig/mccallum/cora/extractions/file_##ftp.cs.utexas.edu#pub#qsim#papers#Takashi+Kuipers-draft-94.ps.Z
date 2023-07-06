@@ -1,0 +1,14 @@
+URL: file://ftp.cs.utexas.edu/pub/qsim/papers/Takashi+Kuipers-draft-94.ps.Z
+Refering-URL: http://www.cs.utexas.edu/users/qr/papers-QR.html
+Root-URL: 
+Title: Component Connection Models of Reaction Control System  
+Author: Takashi Watanabe and Benjamin Kuipers 
+Date: September 1993  
+Abstract-found: 0
+Intro-found: 1
+Reference: [de Kleer and Brown, 1984] <author> de Kleer J., Brown J.S., </author> <title> "A Qualitative Physics Based on Con-fluences", </title> <booktitle> Artificial Intelligence, Vol.24 (1984), </booktitle> <pages> 7-83. </pages>
+Reference: [Farquhar et al, 1991] <author> Farquhar, A., Kuipers, B., Rickel, J., Throop, D. </author> <title> and The Qualitative Reasoning Group, 'QSIM: The Program and its Use", </title> <type> Technical Report AI90-123, </type> <institution> Artificial Intelligence Laboratory, University of Texas at Austin, Texas, </institution> <month> 78712, October </month> <year> 1991. </year>
+Reference: [Franke and Dvorak, 1990] <author> Franke D., Dvorak D., </author> <title> "CC: Component Connection Model for Qualitative Simulation A User's Guide", </title> <type> Technical Report AI90-126, </type> <institution> Artificial Intelligence Laboratory, University of Texas at Austin, Austin, Texas, </institution> <month> 78712, January </month> <year> 1990. </year>
+Reference: [Karnopp et al. 1990] <author> Karnopp, D., Margolis and D., Rosenberg, R., </author> <title> System Dynamics </title> -
+References-found: 4
+

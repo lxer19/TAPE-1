@@ -1,0 +1,13 @@
+URL: http://www.cs.indiana.edu/hyplan/pierce/fool/drossopoulou.ps.gz
+Refering-URL: http://www.progsoc.uts.edu.au/~geldridg/cpp/
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Email: @doc.ic.ac.uk  
+Title: Is the Java Type System Sound?  
+Author: Sophia Drossopoulou and Susan Eisenbach 
+Address: email: sd and se  
+Affiliation: Department of Computing Imperial College  
+Abstract: We argue that the Java type system is sound, by proving a subject reduction theorem. We define a subset of Java, a language which is safe and which reflects the most essential features of Java, a term rewriting system for the operational semantics and a type inference system to describe compile time type checking. We prove that program execution preserves the types, up to the subclass/subinterface relationship.
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

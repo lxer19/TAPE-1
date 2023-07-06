@@ -1,0 +1,23 @@
+URL: http://www.cs.cmu.edu/afs/cs.cmu.edu/user/awd/www/icar95_racz_dubrawski.ps.gz
+Refering-URL: http://www.cs.cmu.edu/afs/cs/user/awd/www/papers.html
+Root-URL: 
+Email: e-mail: jraczjadubr@ippt.gov.pl  
+Phone: phone: +48 22 261281 ext. 250; fax: +48 22 269815;  
+Title: QUALITATIVE POSE ESTIMATION USING AN ARTIFICIAL NEURAL NETWORK front of a certain characteristic object. The
+Author: Racz, J., Dubrawski, A. 
+Note: in  
+Address: 21 Swi~etokrzyska Str., 00-049 Warsaw (POLAND)  
+Affiliation: Institute of Fundamental Technological Research, Polish Academy of Sciences  
+Abstract: This paper is concerned with the Fuzzy-ARTMAP neural network application to qualitative pose estimation of a mobile robot equipped with ultrasonic range sensors. The network is trained under supervision to associate sensory readouts with topological classes of vehicle's poses
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Arciszewski,T., Dybala,T. </author> <title> "Evaluation of Learning Systems: A Method and Experimental Results", </title> <type> Technical Report, </type> <institution> Center for Artificial Intelligence, George Mason University, Fairfax, Virginia, </institution> <year> 1992. </year>
+Reference-contexts: For each training stage three sequences of testing, with use of different testing sets, were performed. Three empirical error rates were calculated for each learning trial <ref> [19, 1] </ref>. The overall error rate E ov experesses a total number of wrong associations made by the taught system among the training set.
+Reference: [2] <author> Carpenter,G.A., Grossberg,S. </author> <title> "Neural Dynam ics of Category Learning and Recognition: Attention, Memory Consolidation and Amnesia.", </title> <editor> in Davis,J., Newburgh,R. and Wegman,E. (Eds.) </editor> <title> Brain Structure, Learning, and Memory, </title> <booktitle> AAAS Symposium Series, </booktitle> <year> 1986. </year>
+Reference-contexts: FUZZY-ARTMAP ART is a family of neural network structures, based on the Adaptive Resonance Theory <ref> [2] </ref>. They perform nonlinear, incremental, unsupervised clustering of input data sets. The basic ART module consists of two layers of artificial neurons, interconnected through links of adaptive strengths. Competitive activation rule provides that just a single neuron of the second layer may be active at once.
+Reference: [3] <author> Carpenter,G.A., Grossberg,S., Rosen,D. </author> <title> "Fuzzy ART: Fast Stable Learning of Analog Patterns by an Adaptive Resonance System.", </title> <booktitle> Neural Networks, </booktitle> <volume> 4, </volume> <pages> 759-771. </pages>
+Reference-contexts: This way new patterns may fit in and sculpt the shapes of the existing categories, if they match close enough, or require establishing new categories when needed. The Fuzzy-ART network <ref> [3] </ref> (refer to the boxes FuzzyART a and FuzzyART b in Fig.1) is one of the ART neural classifiers. It treats real-valued components of input vectors and adaptive connection weights as they were patterns of fuzzy membership values. <p> This way, the fact that a certain feature is missing in the input stimulus (actually even an extent to which it is missing), provides an important information as if the feature was present to some extent. A technique of complementary coding, first introduced in the Fuzzy-ART context <ref> [3] </ref>, prevents category proliferation during learning and improves noise tolerance. The ARTMAP system [4] (Fig.1) is composed of the two ART networks (in our case these are Fuzzy-ART, so the system is consequently named Fuzzy-ARTMAP), interconnected by a layer of neuronlike nodes called a map field.
+Reference: [4] <author> Carpenter,G.A., Grossberg,S., Markuzon,N., Reynolds,J.H., Rosen,D.B. </author> <title> "Fuzzy ARTMAP: </title>
+Reference-contexts: A technique of complementary coding, first introduced in the Fuzzy-ART context [3], prevents category proliferation during learning and improves noise tolerance. The ARTMAP system <ref> [4] </ref> (Fig.1) is composed of the two ART networks (in our case these are Fuzzy-ART, so the system is consequently named Fuzzy-ARTMAP), interconnected by a layer of neuronlike nodes called a map field.
+References-found: 4
+

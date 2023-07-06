@@ -1,0 +1,31 @@
+URL: http://www.cam.sri.com/tr/crc054/paper.ps.Z
+Refering-URL: http://www.cam.sri.com/tr/ABSTRACTS.html
+Root-URL: 
+Title: Ellipsis and Quantification: A Substitutional Approach  
+Author: Richard Crouch 
+Address: 23 Millers Yard, Mill Lane, Cambridge, CB2 1RQ, UK  
+Affiliation: SRI International, Cambridge Computer Science Research Centre  
+Note: of EACL-95,  
+Email: rc@cam.sri.com  
+Web: URL: http://www.cam.sri.com/tr/crc054/paper.ps.ZProceedings  
+Date: 1995  
+Abstract: The paper describes a substitutional approach to ellipsis resolution giving comparable results to (?), but without the need for order-sensitive interleaving of quantifier scoping and ellipsis resolution. It is argued that the order-independence results from viewing semantic interpretation as building a description of a semantic composition, instead of the more common view of interpretation as actually performing the composition.
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Hiyan Alshawi and Richard Crouch. </author> <year> 1992. </year> <title> Monotonic semantic interpretation. </title> <booktitle> In Proceedings 30th Annual Meeting of the Association for Computational Linguistics, </booktitle> <pages> pages 32-38. </pages>
+Reference: <author> Hiyan Alshawi, David Carter, Richard Crouch, Stephen Pulman, Manny Rayner, and Arnold Smith. </author> <year> 1992. </year> <title> Clare: A contextual reasoning and cooperative response framework for the core language engine. </title> <type> Technical Report CRC-028, </type> <institution> SRI International, Cambridge Computer Science Research Centre. </institution> <note> Available by anonymous ftp from ftp.ai.sri.com, pub/sri-cam/reports/crc028.ps.Z; also cmp-lg. </note>
+Reference: <author> Bob Carpenter. </author> <year> 1993. </year> <title> Skeptical and credulous default unification with applications to templates and inheritance. </title> <editor> In E. Briscoe, V. de Paiva, and A. Copes take, editors, </editor> <booktitle> Inheritance, Defaults and the Lexicon, </booktitle> <pages> pages 13-37. </pages> <publisher> Cambridge University Press. </publisher>
+Reference: <author> Robin Cooper, Richard Crouch, Jan van Eijck, Chris Fox, Josef van Genabith, Jan Jaspars, Hans Kamp, Manfred Pinkal, Massimo Poesio, and Stephen Pul-man. </author> <year> 1994a. </year> <title> Describing the approaches. </title> <booktitle> FraCaS deliverable, </booktitle> <address> D8. </address> <note> Available by anonymous ftp from ftp.cogsci.ed.ac.uk, pub/FRACAS/del8.ps.gz. </note>
+Reference: <author> Robin Cooper et al. </author> <year> 1994b. </year> <title> Evaluating the descrip tive capabilities of semantic theories. </title> <booktitle> FraCaS deliverable, </booktitle> <address> D9. </address> <note> Available by anonymous ftp from ftp.cogsci.ed.ac.uk, pub/FRACAS/del9.ps.gz. </note>
+Reference: <author> Mary Dalrymple, Stuart M. Shieber, and Fernando C. N. Pereira. </author> <year> 1991. </year> <title> Ellipsis and higher-order unification. </title> <journal> Linguistics and Philosophy, </journal> <volume> 14 </volume> <pages> 399-452. </pages>
+Reference: <author> Claire Gardent. </author> <year> 1993. </year> <title> A unification-based approach to multiple vp ellipsis resolution. </title> <booktitle> In Proceedings 6th European ACL, </booktitle> <pages> pages 139-148. </pages>
+Reference: <author> Mark Gawron and Stanley Peters. </author> <year> 1990. </year> <title> Anaphora and Quantification in Situation Semantics. </title> <booktitle> Number 19 in CSLI Lecture Notes. </booktitle> <publisher> CSLI, Stanford, </publisher> <address> CA. </address>
+Reference: <author> Claire Grover, Chris Brew, Suresh Manandhar, and Marc Moens. </author> <year> 1994. </year> <title> Priority union and generalization in discourse grammars. </title> <booktitle> In Proceedings 32nd Annual Meeting of the Association for Computational Linguistics, </booktitle> <pages> pages 17-24. </pages>
+Reference: <author> Daniel Hardt. </author> <year> 1992. </year> <title> An algorithm for vp ellipsis. </title> <booktitle> In Proceedings 30th Annual Meeting of the Association for Computational Linguistics, </booktitle> <pages> pages 9-14. </pages>
+Reference: <author> Andrew Kehler. </author> <year> 1993a. </year> <title> A discourse copying algo rithm for ellipsis and anaphora resolution. </title> <booktitle> In Proceedings 6th European ACL, </booktitle> <pages> pages 203-212. </pages>
+Reference: <author> Andrew Kehler. </author> <year> 1993b. </year> <title> The effect of establishing co herence in ellipsis and anaphora resolution. </title> <booktitle> In Proceedings 31st Annual Meeting of the Association for Computational Linguistics, </booktitle> <pages> pages 62-69. </pages>
+Reference: <author> John Nerbonne. </author> <year> 1991. </year> <title> Constraint-based semantics. </title> <booktitle> In Proceedings 8th Amsterdam Colloquium, </booktitle> <pages> pages 425-443. </pages>
+Reference: <author> Hub Prust, Remko Scha, and Martin van den Berg. </author> <year> 1994. </year> <title> Discourse grammar and verb phrase anaphora. </title> <journal> Linguistics and Philosophy, </journal> <volume> 17 </volume> <pages> 261-327. </pages> <address> Hub Prust. </address> <year> 1992. </year> <title> On Discourse Structure, VP Anaphora and Gapping. </title> <type> Ph.D. thesis, </type> <institution> University of Amsterdam. </institution>
+Reference: <author> Stephen Pulman. </author> <year> 1994. </year> <title> A computational theory of context dependency. </title> <booktitle> In Proceedings of the International Workshop on Computational Semantics, </booktitle> <pages> pages 161-171, </pages> <address> Tilburg. </address>
+References-found: 15
+

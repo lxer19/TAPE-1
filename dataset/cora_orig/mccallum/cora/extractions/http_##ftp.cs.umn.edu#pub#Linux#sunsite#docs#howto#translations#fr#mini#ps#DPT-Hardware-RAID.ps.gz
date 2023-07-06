@@ -1,0 +1,12 @@
+URL: http://ftp.cs.umn.edu/pub/Linux/sunsite/docs/howto/translations/fr/mini/ps/DPT-Hardware-RAID.ps.gz
+Refering-URL: http://ftp.cs.umn.edu/pub/Linux/sunsite/docs/howto/translations/fr/mini/ps/
+Root-URL: http://www.cs.umn.edu
+Email: (njadot@etu.info.unicaen.fr)  
+Title: Linux DPT Hardware RAID HAWTO  Comment configurer un materiel RAID sous Linux Table des matieres  
+Date: v1.1, 15 Decmebre 1997  
+Note: Version originale Ram Samudrala (me@ram.org) Version fran~caise Nicolas Jadot  
+Abstract-found: 0
+Intro-found: 1
+Reference: <institution> Les documents suivants vous seront tres utiles lorsque vous configurerez une unite RAID : - DPT RAID Primer and other RAID/SCSI-related documents (http://www.dpt.com/techno.html) EATA-DMA homepage (http://www.uni-mainz.de/ neuffer/scsi/dpt/index.html) Linux Disk HOWTO (http://sunsite.unc.edu/mdw/HOWTO/Disk-HOWTO.html) Linux Kernel HOWTO (http://sunsite.unc.edu/mdw/HOWTO/Kernel-HOWTO.html) Linux SCSI HOWTO (http://sunsite.unc.edu/mdw/HOWTO/SCSI-HOWTO.html) RAID Solutions for Linux (http://linas.org/linux/raid.html) 9 Remerciements Les personnes suivantes m'ont beaucoup aide pour la realisation de cet HOWTO : - Boris Fain (fain@zen.stanford.edu) - Jos Vos (jos@xos.nl) - Michael Neuffer (neuffer@kralle.zdv.uni-mainz.de) - Ralph Wallace (rwallace@rwallace.interaccess.com) - Russell Brown (russell@lutton.lls.com) - Syunsuke Ogata (Syunsuke Ogata@appear.ne.jp) </institution>
+References-found: 1
+

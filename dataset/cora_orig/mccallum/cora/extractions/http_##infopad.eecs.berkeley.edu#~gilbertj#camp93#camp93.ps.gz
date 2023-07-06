@@ -1,0 +1,18 @@
+URL: http://infopad.eecs.berkeley.edu/~gilbertj/camp93/camp93.ps.gz
+Refering-URL: http://infopad.eecs.berkeley.edu/~gilbertj/camp93/
+Root-URL: http://www.cs.berkeley.edu
+Phone: Tel (617) 495-3987 Fax (617) 495-9837  
+Title: Real-Time Face Recognition System Gilbert and Yang A Real-Time Face Recognition System Using Custom VLSI Hardware  
+Author: Jeffrey M. Gilbert and Woodward Yang 
+Address: Cambridge, MA 02138  
+Affiliation: Harvard University,  
+Abstract: A real-time face recognition system has been implemented on an IBM compatible personal computer with a video camera, image digitizer, and custom VLSI image correlator chip. With a single frontal facial image under semi-controlled lighting conditions, the system performs (i) image preprocessing and template extraction, (ii) template correlation with a database of 173 images, and (iii) postprocessing of correlation results to identify the user. System performance issues including image preprocessing, face recognition algorithm, software development, and VLSI hardware implementation are addressed. In particular, the parallel, fully pipelined VLSI image correlator is able to perform 340 Mop/second and achieve a speed up of 20 over optimized assembly code on a 80486/66DX2. The complete system is able to identify a user from a database of 173 images of 34 persons in approximately 2 to 3 seconds. While the recognition performance of the system is difficult to quantify simply, the system achieves a very conservative 88% recognition rate using cross-validation on the moderately varied database. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Robert J. Baron, </author> <title> "Mechanisms of human facial recognition," </title> <journal> International Journal of Man-Machine Studies, </journal> <volume> vol. 15, </volume> <pages> pp. 137-178, </pages> <year> 1981. </year>
+Reference: [2] <author> Roberto Brunelli and Tomaso Poggio, </author> <title> "Face Recognition: Features versus Templates," </title> <type> Technical Report 9110-04, I.R.S.T, </type> <year> 1991. </year>
+Reference: [3] <author> Peter J. Burt, </author> <title> "Smart Sensing within a Pyramid Vision Machine". </title> <booktitle> Proceedings of the IEEE, 1988, </booktitle> <volume> vol 76, no 8, </volume> <pages> pp. 1006-1015. </pages>
+Reference: [4] <author> Jeffrey M. Gilbert, </author> <title> "A Real-Time Face Recognition System using Custom VLSI Hardware." </title> <booktitle> Harvard Undergraduate Honors Thesis in Computer Science, </booktitle> <year> 1993. </year>
+Reference: [5] <author> Peter W. Hallinan, </author> <title> "Recognizing Human Eyes," </title> <booktitle> SPIE Proceedings, </booktitle> <volume> vol. 1570, </volume> <booktitle> Geometric Method in Computer Vision, </booktitle> <pages> pp. 214-226, </pages> <year> 1991. </year>
+References-found: 5
+

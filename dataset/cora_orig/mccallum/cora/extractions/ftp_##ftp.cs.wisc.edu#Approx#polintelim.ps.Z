@@ -1,0 +1,11 @@
+URL: ftp://ftp.cs.wisc.edu/Approx/polintelim.ps.Z
+Refering-URL: http://www.cs.wisc.edu/~deboor/ftpreadme.html
+Root-URL: 
+Title: Gauss elimination by segments and multivariate polynomial interpolation  
+Author: C. de Boor 
+Abstract: The construction of a polynomial interpolant to data given at finite pointsets in IR d (or, most generally, to data specified by finitely many linear functionals) is considered, with special emphasis on the linear system to be solved. Gauss elimination by segments (i.e., by groups of columns rather than by columns) is proposed as a reasonable means for obtaining a description of all solutions and for seeking out solutions with `good' properties. A particular scheme, due to Amos Ron and the author, for choosing a particular polynomial interpolating space in dependence on the given data points, is seen to be singled out by requirements of degree-reduction, dilation-invariance, and a certain orthogonality requirement. The close connection, between this particular construction of a polynomial inter-polant and the construction of an H-basis for the ideal of all polynomials which vanish at the given data points, is also discussed. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [9] <author> Lorentz R. A. </author> <title> Multivariate Birkhoff Interpolation. </title> <booktitle> volume 1516 of Lecture Notes in Mathematics, </booktitle> <publisher> Springer-Verlag (Heidelberg), </publisher> <year> 1992. </year> <month> 22 </month>
+References-found: 1
+

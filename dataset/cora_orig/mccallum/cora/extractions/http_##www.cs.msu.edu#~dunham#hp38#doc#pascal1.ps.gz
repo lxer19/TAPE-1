@@ -1,0 +1,21 @@
+URL: http://www.cs.msu.edu/~dunham/hp38/doc/pascal1.ps.gz
+Refering-URL: http://www.cs.msu.edu/~dunham/hp38/doc/pascal1.html
+Root-URL: http://www.cs.msu.edu
+Email: email: yuanfeng@hpsgrt1.sgp.hp.com  
+Title: Towards a Pascal compiler for HP RPN calculators  
+Author: YUAN, Feng 
+Note: Paper submitted to PROMPT HP-GC Anniversary Conference 1994  
+Address: Singapore  
+Affiliation: Hewlett Packard  
+Abstract: This paper describes an ongoing experiment to compile Pascal program into system RPL source code, which is a high level language used to build the HP RPN calculators. 1. Introduction 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> W.C. Wickes, </author> <title> "An Evolutionary RPN Calculators for Technical professionals", </title> <journal> HP Journal, </journal> <volume> Vol. 38, No. 8, </volume> <month> August </month> <year> 1987, </year> <month> pp.11-17 </month>
+Reference: [2] <author> D.K. Byrne et al, </author> <title> "An Advanced Scientific Graphing Calculators", </title> <journal> HP Journal, </journal> <volume> Vol. 45, No. 4, </volume> <month> August </month> <year> 1994, </year> <month> pp.6-22 </month>
+Reference: [3] <author> S. Pemberton & M. Daniels, </author> <title> "Pascal Implementation", </title> <publisher> Ellis Horwood, </publisher> <address> Chichester, UK. </address>
+Reference: [4] <author> B. Kinnersley, </author> <title> "The Language List", </title> <type> Ver. </type> <institution> 2.3, </institution> <month> Sep </month> <year> 1994, </year> <institution> Internet newsgroup comp.lang.misc </institution>
+Reference: [5] <author> James Donnelly, </author> <title> "The HP48 Handbook", </title> <publisher> Armstrong Publishing Company, </publisher> <address> 2nd Edition, </address> <year> 1993 </year>
+Reference: [6] <author> W.C. Wickes, </author> <title> "HP 48 Insights", Part I and II, </title> <publisher> Larken Publications, </publisher> <year> 1992 </year>
+
+References-found: 6
+

@@ -1,0 +1,29 @@
+URL: http://ftp.cs.yale.edu/pub/technical-reports/tr1058.ps.gz
+Refering-URL: http://ftp.cs.yale.edu/pub/technical-reports/
+Root-URL: http://www.cs.yale.edu
+Title: Worst-case interactive communication I: Two messages are almost optimal. IEEE Trans. Information Theory, [Orl91] A.
+Author: R. L. Rivest, A. Shamir, and L. Adleman. 
+Degree: PhD thesis,  
+Address: Berkeley, 1988.  
+Affiliation: University of California at  
+Note: [Orl90] A. Orlitsky.  [RSA78]  Comm. ACM, 21(2):120  [Sha48] C. E. Shannon. A mathematical theory of communication. Bell System Technical Journal, pages 379-423, 623-656, 1948. [Sha49] C. E. Shannon. Communication theory of secrecy systems. Bell System Technical Journal, pages 656-715, 1949. [Win81a] P. Winkler. Cryptologic techniques in bidding and defense: Parts I, II, III, and IV. Bridge Magazine, April-July 1981. [Win81b] P. Winkler. My night at the Cryppie club. Bridge Magazine, pages  [Win83] P. Winkler. The advent of cryptology in the game of bridge. Cryptolo gia,  [Yao78] A. C.-C. Yao. Some complexity questions related to distributed computing. In Proc. 11th ACM Symposium on Theory of Computing, pages  [Yao82] A. C.-C. Yao. Protocols for secure computation. In Proc. 23rd IEEE Symposium on the Foundations of Computer Science, pages 160-164,  
+Date: 111  September 1990.  July 1991.  126, February 1978.  60-63, August 1981.  7(4):327-332, October 1983.  209-213, May 1978.  October 1982.  
+Pubnum: 36(5):1111-1126,  37(4):995-1005,  
+Abstract: NOS93] M. Naor, A. Orlitsky, and P. Shor. Three results on interactive communication. IEEE Trans. Information Theory, 39(5):1608-1615, Septem ber 1993. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [Abe78] <author> H. Abelson. </author> <title> Lower bounds on information transfer in distributed computations. </title> <booktitle> In Proc. 19th IEEE Symposium on the Foundations of Computer Science, </booktitle> <pages> pages 151-158, </pages> <month> October </month> <year> 1978. </year>
+Reference: [BB85] <author> C. H. Bennett and G. Brassard. </author> <title> An update on quantum cryptography. </title> <booktitle> In Advances in Cryptology: Proceedings of CRYPTO '84, volume 196 of LNCS, </booktitle> <pages> pages 475-480. </pages> <publisher> Springer-Verlag, </publisher> <year> 1985. </year>
+Reference: [BBE92] <author> C. H. Bennett, G. Brassard, and A. K. Ekert. </author> <title> Quantum cryptography. </title> <publisher> Scientific American, </publisher> <pages> pages 50-57, </pages> <month> October </month> <year> 1992. </year>
+Reference: [BBR88] <author> C. H. Bennett, G. Brassard, and J. Robert. </author> <title> Privacy amplification by public discussion. </title> <journal> SIAM J. Computing, </journal> <volume> 17(2) </volume> <pages> 210-229, </pages> <month> April </month> <year> 1988. </year>
+Reference: [BCG82] <author> E. R. Berlekamp, J. H. Conway, and R. K. Guy. </author> <title> Winning Ways, volume I. </title> <publisher> Academic Press, Inc., </publisher> <address> London, </address> <year> 1982. </year>
+Reference: [BHW93] <author> D. Beaver, S. Haber, and P. Winkler. </author> <title> On the isolation of a common secret. </title> <type> Preprint, </type> <institution> Bellcore, </institution> <year> 1993. </year>
+Reference: [BOGKW88] <author> M. Ben-Or, S. Goldwasser, J. Kilian, and A. Wigderson. </author> <title> Multi-prover interactive proofs: How to remove intractability assumptions. </title> <booktitle> In Proc. 20th ACM Symposium on Theory of Computing, </booktitle> <pages> pages 113-131, </pages> <month> May </month> <year> 1988. </year>
+Reference: [CCD88] <author> D. Chaum, C. Crepeau, and I. Damg-ard. </author> <title> Multiparty unconditionally secure protocols. </title> <booktitle> In Proc. 20th ACM Symposium on Theory of Computing, </booktitle> <pages> pages 11-19, </pages> <month> May </month> <year> 1988. </year>
+Reference: [DH76] <author> W. Diffie and M. E. Hellman. </author> <title> New directions in cryptography. </title> <journal> IEEE Trans. Information Theory, </journal> <volume> IT-22(6):644-654, </volume> <month> November </month> <year> 1976. </year>
+Reference: [ElG85] <author> T. ElGamal. </author> <title> A public key cryptosystem and a signature scheme based on discrete logarithms. </title> <journal> IEEE Trans. Information Theory, </journal> <volume> IT-31(4):469-472, </volume> <month> July </month> <year> 1985. </year>
+Reference: [Fli81] <author> J. Flint. </author> <title> Cheating by degrees. The Times Saturday Review, </title> <month> May 9, </month> <year> 1981. </year>
+Reference: [FLP85] <author> M. J. Fischer, N. A. Lynch, and M. S. Paterson. </author> <title> Impossibility of distributed consensus with one faulty process. </title> <journal> J. ACM, </journal> <volume> 32(2) </volume> <pages> 374-382, </pages> <month> April </month> <year> 1985. </year>
+
+References-found: 12
+

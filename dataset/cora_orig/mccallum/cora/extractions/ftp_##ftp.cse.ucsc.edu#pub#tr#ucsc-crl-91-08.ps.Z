@@ -1,0 +1,18 @@
+URL: ftp://ftp.cse.ucsc.edu/pub/tr/ucsc-crl-91-08.ps.Z
+Refering-URL: ftp://ftp.cse.ucsc.edu/pub/tr/README.html
+Root-URL: http://www.cse.ucsc.edu
+Title: "A comparison of the architecture and performance of two parallel file systems," in Proceedings of
+Author: [] T. W. Pratt, J. C. French, P. M. Dickens, and S. A. Janet, [] S. Ng, [] B. E. Clark and M. J. Corrigan, O. G. Johnson, [] L.-F. Cabrera and D. D. E. Long, "Swift: [] L.-F. Cabrera and D. D. E. Long, "Swift: [] S. B. Davidson, H. Garcia-Molina, and D. Skeen, [] D. E. Comer, [] J. Ousterhout, H. Da Costa, D. Harrison, J. Kunze, M. Kupfer, and J. Thompson, [] F. Douglis and J. Ousterhout, L.-F. Cabrera, E. Hunter, M. J. Karels, and D. A. S. Ng, 
+Affiliation: Tech. Rep. IBM Almaden Research Center RJ7128, International Business Machines,  
+Date: 72, Jan. 1984.  Oct. 1991.  Oct. 1990.  341-370, Sept. 1985.  Dec. 1985.  38-53, Jan. 1988.  
+Note: in Proceedings of the IEEE COMPCON Conference, (San Francisco), Feb. 1989. [9] IBM Corporation, TPF-3  IBM Systems Journal, vol. 28, no. 3, pp. 407-423, 1989. [11]  Proceedings of the IEEE, vol.  Proceedings of the 11 th Symposium on Mass Storage Systems, (Monterey, California), IEEE,  works," Computing Surveys, vol. 17, pp.  in Proceedings of the 10 th Symposium on Operating System Principles, (Orcas Island, Washington), pp. 15-24, ACM,  "Log-structured file systems," in Proceedings of the IEEE COMPCON Conference, (San Francisco), Feb. 1989. [18]  IEEE Transactions on Software Engi neering, vol. 14, pp.  [19] J. Wilkes, "DataMesh project definition document," Tech. Rep. HPL-CSP-90-1, Hewlett-Packard Laboratories, Feb. 1990. [20]  in Proceedings of the IEEE COMPCON Conference, (San Francisco), Feb. 1989. [21] J. Buzen and A. Shum, "I/O architecture in MVS/370 and MVS/XA," ICMG Trans actions, vol. 54, pp. 19-26, 1986. 17  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> A. C. </author> <title> Luther, Digital Video in the PC Environment. M c Graw-Hill, </title> <year> 1989. </year>
+Reference: [2] <author> K. Salem and H. Garcia-Molina, </author> <title> "Disk striping," </title> <booktitle> in Proceeding of the 2 nd International Conference on Data Engineering, </booktitle> <pages> pp. 336-342, </pages> <publisher> IEEE, </publisher> <month> Feb. </month> <year> 1986. </year>
+Reference: [3] <author> D. Patterson, G. Gibson, and R. Katz, </author> <title> "A case for redundant arrays of inexpensive disks (RAID)," </title> <booktitle> in Proceedings of the ACM SIGMOD Conference, </booktitle> <publisher> (Chicago), </publisher> <pages> pp. 109-116, </pages> <publisher> ACM, </publisher> <month> June </month> <year> 1988. </year>
+Reference: [4] <institution> Imprimis Technology, ArrayMaster 9058 Controller, </institution> <year> 1989. </year>
+Reference: [5] <author> Thinking Machines, </author> <title> Incorporated, Connection Machine Model CM-2 Technical Summary, </title> <month> May </month> <year> 1989. </year>
+
+References-found: 5
+

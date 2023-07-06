@@ -1,0 +1,13 @@
+URL: http://www.eecis.udel.edu/~fecko/PAPERS-PS/ss-fdt-estg.ps.gz
+Refering-URL: http://www.eecis.udel.edu/~fecko/mf-research.html
+Root-URL: http://www.eecis.udel.edu
+Title: A Success Story of Formal Description Techniques: Estelle Specification and Test Generation for MIL-STD 188-220  
+Author: Mariusz A. Fecko M. Umit Uyar Paul D. Amer Adarshpal S. Sethi Ted Dzik Raymond Menell Mike McMahon 
+Note: 3 US Army CECOM,  (Computer Communications: Special Issue on Formal Description Techniques in Practice)  
+Address: New York, NY  Fort Monmouth, NJ 4 ARINC, Inc., Shrewsbury, NJ  
+Affiliation: 1 Computer and Information Science Department University of Delaware, Newark, DE 2 Department of Electrical Engineering City College of the City University of  
+Abstract: Since 1994, the University of Delaware's (UD) Protocol Engineering Lab has been assisting the US Army's development of MIL-STD 188-220. UD formally specified the Data Link and Intranet layers of 188-220 in Estelle (ISO 9074), which resulted in more than fifty changes/improvements to the official English 188-220 document. Most importantly, these Estelle specifications are now an official part of the 188-220 version "B" standard. Since 1996, with collaboration of the City College of the City University of New York (CCNY), UD has researched the problem of generating test cases automatically from these Estelle specifications. Within this effort, several theoretical problems have been encountered. Three in particular have been researched: (1) generation of test sequences uninterrupted by active timers, (2) improvement of test coverage by using the semicontrollable interfaces, and (3) elimination of inconsistencies caused by conflicting timers. Based on research results, the test sequences generated for 188-220 are realizable without timer interruptions while providing a 200% increase in test coverage. The test cases are currently being installed at a test facility within the US Army Communications-Electronics Command (CECOM) in New Jersey. As a result of the Estelle specification and test generation process for 188-220, the synergistic framework to develop C 4 I systems with the help of formal methods serves as a model for future US Department of Defense standards development. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

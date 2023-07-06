@@ -1,0 +1,13 @@
+URL: http://www.ri.cmu.edu/afs/cs/usr/skoenig/www/sven/papers/kr94.ps.gz
+Refering-URL: http://www.ri.cmu.edu/afs/cs/usr/skoenig/www/sven/abstracts/kr94.html
+Root-URL: 
+Title: Risk-Sensitive Planning with Probabilistic Decision Graphs  
+Author: Sven Koenig Reid G. Simmons 
+Keyword: world domain.  
+Address: Pittsburgh, PA 15213-3891  Pittsburgh, PA 15213-3891  
+Affiliation: School of Computer Science Carnegie Mellon University  School of Computer Science Carnegie Mellon University  
+Abstract: Probabilistic AI planning methods that minimize expected execution cost have a neutral attitude towards risk. We demonstrate how one can transform planning problems for risk-sensitive agents into equivalent ones for risk-neutral agents provided that exponential utility functions are used. The transformed planning problems can then be solved with these existing AI planning methods. To demonstrate our ideas, we use a probabilistic planning framework ("probabilistic decision graphs") that can easily be mapped into Markov decision problems. It allows one to describe probabilistic effects of actions, actions with different costs (resource consumption), and goal states with different rewards. We show the use of probabilistic decision graphs for finding optimal plans for risk-sensitive agents in a stochastic blocks 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

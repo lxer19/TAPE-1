@@ -1,0 +1,26 @@
+URL: http://www.cs.cornell.edu/Info/Projects/Bernoulli/papers/siam-pp97.ps
+Refering-URL: http://www.cs.cornell.edu/Info/Projects/Bernoulli/
+Root-URL: http://www.cs.cornell.edu
+Email: fvladimir,pingali,stodghilg@cs.cornell.edu  
+Title: Compiling Parallel Sparse Code for User-Defined Data Structures  
+Author: Vladimir Kotlyar, Keshav Pingali and Paul Stodghill 
+Date: January 7, 1997  
+Address: Ithaca, NY 14853  
+Affiliation: Department of Computer Science Cornell University,  
+Abstract: We describe how various sparse matrix and distribution formats can be handled using the relational approach to sparse matrix code compilation. This approach allows for the development of compilation techniques that are independent of the storage formats by viewing the data structures as relations and abstracting the implementation details as access methods.
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> C. Ancourt, F. Coelho, F. Irigoin, and R. Keryell, </author> <title> A linear algebra framework for static hpf code distribution, </title> <booktitle> in CPC'93, </booktitle> <month> November </month> <year> 1993. </year> <note> Also available at http://cri.ensmp.fr/doc/A-250.ps.Z. </note>
+Reference-contexts: Notice that the fragmentation relation ffi is a distributed relation itself. In the simplest case it can be represented by a closed-form formula: this happens when we use block/cyclic distributions which can be translated into systems of linear equalities and inequalities <ref> [1] </ref>. Now let us turn to various ways of specifying irregular distributions: the relation ffi (i; p; i 0 ) cannot be represented in closed form, and has to be stored.
+Reference: [2] <author> A. Bik, </author> <title> Compiler Support for Sparse Matrix Computations, </title> <type> PhD thesis, </type> <institution> Leiden University, </institution> <address> the Netherlands, </address> <month> May </month> <year> 1996. </year>
+Reference: [3] <author> M. T. Jones and P. E. Plassmann, </author> <title> BlockSolve95 users manual: Scalable library software for the parallel solution of sparse linear systems, </title> <type> Tech. Rep. </type> <institution> ANL-95/48, Argonne National Laboratory, </institution> <month> Dec. </month> <year> 1995. </year>
+Reference: [4] <author> V. Kotlyar and K. Pingali, </author> <title> Sparse code generation for imperfectly nested loops with dependencies, </title> <note> in Submitted to ACM ICS '97 conference, </note> <year> 1997. </year>
+Reference: [5] <author> V. Kotlyar, K. Pingali, and P. Stodghill, </author> <title> A relational approach to sparse matrix compilation, </title> <note> in Submitted to ACM PLDI '97 conference, </note> <year> 1997. </year> <title> [6] , Unified framework for sparse and dense spmd code generation, </title> <note> in Submitted to ACM PLDI '97 conference, </note> <year> 1997. </year>
+Reference-contexts: The job of the compiler is the following: given a sequential, dense matrix program, descriptions of sparse matrix formats and data and computation distribution formats, generate parallel sparse SPMD code. <ref> [5] </ref> and [6] have introduced a relational algebra approach to solving this problem. In this approach, we view sparse matrices as database relations, sparse matrix formats as implementations of access methods to the relations, and execution of loop nests as evaluation of certain relational queries. <p> Section 4 shows how different distribution formats are handled by the compiler. * Join Scheduler and Join Implementer, described in detail in <ref> [5] </ref>, extract relational expressions describing the computations that must be performed, and decide how these expressions should be evaluated. The result is a high-level program, called a plan, in terms of abstract access methods (AMs) to the relations. Many sparse storage formats have a hierarchical structure. <p> It is shown in <ref> [5] </ref> that execution of this loop can be viewed as evaluation of a relational query: Q (i; j; v A ; v y ; v x ) = R I (i; j) on R A (i; j; v A ) on R y (i; v y ) on R x (j;
+Reference: [7] <author> S. Pissanetzky, </author> <title> Sparse Matrix Technology, </title> <publisher> Academic Press, </publisher> <address> London, </address> <year> 1984. </year>
+Reference: [8] <author> G. Strang, </author> <title> Introduction to applied mathematics, </title> <publisher> Wellesley-Cambridge Press, </publisher> <year> 1986. </year>
+Reference: [9] <author> J. D. Ullman, </author> <title> Principles of Database and Knowledge-Base Systems, v. I and II, </title> <publisher> Computer Science Press, </publisher> <year> 1988. </year>
+Reference: [10] <author> R. v. Hanxleden, K. Kennedy, and J. Saltz, </author> <title> Value-based distributions and alignments in Fortran D, </title> <type> Tech. Rep. </type> <institution> CRPC-TR93365-S, Center for Research on Parallel Computation, Rice University, </institution> <month> December </month> <year> 1993. </year>
+Reference: [11] <author> J. Wu, R. Das, J. Saltz, H. Berryman, and S. Hiranandani, </author> <title> Distributed memory compiler design for sparse problems, </title> <journal> IEEE Transactions on Computers, </journal> <note> 44 (1995). Also available from ftp://hyena.cs.umd.edu/pub/papers/ieee toc.ps.Z. </note>
+References-found: 10
+

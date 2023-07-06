@@ -1,0 +1,16 @@
+URL: ftp://ftp.netcom.com/pub/hb/hbaker/LimitedRobbery.ps.Z
+Refering-URL: ftp://ftp.netcom.com/pub/hb/hbaker/home.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Phone: (818) 501-4956(818) 986-1360 (FAX)  
+Title: How to Steal from a Limited Private Account Why Mode INOUT Parameters for Limited Types
+Author: Henry G. Baker 
+Address: 16231 Meadow Ridge Way, Encino, CA 91436  
+Affiliation: Nimble Computer Corp.,  
+Note: ACM Ada Letters XIII,3 (May/June 1993), 91-95. Copyright 1992 by Nimble Computer Corporation. 1  
+Abstract: Every use of a mode INOUT parameter which is implemented by means of copy-in, copy-out renders the resource protected by a limited type vulnerable to compromise through programming errors or deliberate attacks. Since the implementation of mode INOUT with by-reference semantics trivially closes this loophole, and since only by-reference semantics "make sense" for a resource or pool of resources, we strongly recommend that Ada9X require by-reference semantics for mode INOUT parameters, at least for those of a limited type. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Ada83LRM. </author> <title> Reference Manual for the Ada Programming Language. ANSI/MIL-STD-1815A-1983, </title> <type> U.S. </type> <institution> Gov't Printing Office, </institution> <address> Wash., DC, </address> <year> 1983. </year>
+Reference: <author> Beidler, John. </author> <title> "Relaxing the Constraints on Ada's limited private Types through Functional Expressions". Ada Letters XII, 2 (Mar/Apr1992),57-61. STEELMAN Dept. of Defense STEELMAN requirements for high order computer programming languages. </title> <month> June, </month> <year> 1978. </year>
+References-found: 2
+

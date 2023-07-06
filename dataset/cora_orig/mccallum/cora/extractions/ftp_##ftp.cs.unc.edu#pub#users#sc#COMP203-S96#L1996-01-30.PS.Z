@@ -1,0 +1,14 @@
+URL: ftp://ftp.cs.unc.edu/pub/users/sc/COMP203-S96/L1996-01-30.PS.Z
+Refering-URL: http://www.cs.unc.edu/~sc/teaching/COMP203-S1996/lectures.html
+Root-URL: http://www.cs.unc.edu
+Email: (chang@cs.unc.edu)  (cutts@cs.unc.edu)  
+Title: Today's topics: Data-Parallel Algorithms Scan (as "unit-time" primitive) 1 Termination Detection Consider Jaja's presentation of
+Author: Chun-Fa Chang Matt Cutts for &lt;= i &lt;= n pardo &lt;= i &lt;= n pardo S(i) S(S(i)) &lt;= i &lt;= n pardo S(i) S(S(i)) t +/(M) &lt;-- until t 
+Keyword: repeat  
+Address: 1/30/96  
+Note: Comp 203 notes,  while S(i) S(S(i)) do S(i) S(S(i)) This simple algorithm sweeps under the rug all the details  for 1  This is safe, but always does O(nlgn) work, which is pessimistic. 1.2 "Honest"  for 1  
+Abstract: In this case, we recall that h, the height of the longest tree, has a trivial upper bound of n. This case occurs when the tree is a linear list. For a list of length n, we will need to pointer jump no more than lgn times. For the "honest" method, the work is O(nlgh), where h is the height of the longest tree in the forest. In each iteration, each node updates S(i) even if it's already pointing to the root. Unnecessary work is done on shorter trees because termination does not occur until all the trees are finished. for k = 1 to lg n
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

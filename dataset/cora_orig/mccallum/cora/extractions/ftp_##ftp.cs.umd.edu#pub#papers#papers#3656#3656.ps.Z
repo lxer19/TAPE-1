@@ -1,0 +1,14 @@
+URL: ftp://ftp.cs.umd.edu/pub/papers/papers/3656/3656.ps.Z
+Refering-URL: http://www.cs.umd.edu/TRs/TR.html
+Root-URL: 
+Email: gurney@aic.nrl.navy.mil  fperlis, kpurangg@cs.umd.edu  
+Title: Active Logic and Heim's Rules for Updating Discourse Context  
+Author: John Gurney Don Perlis and Khemdut Purang 
+Keyword: presupposition, discourse, context, accommodation, active logic  
+Address: Adelphi, MD 20783  College Park, MD 20742  
+Affiliation: Processing and Display Division Army Research Laboratory,  Dept. of Computer Science University of Maryland,  
+Abstract: Discourse unfolds in time, giving rise to a cascade of belief changes in the listener. Yet this temporal evolution of discourse and belief is typically ignored in theoretical treatments of discourse. It has been claimed (see Soames [ Soames, 1989 ] ) that Heim's [ Heim, 1983 ] theory of discourse context accounts for non-implicative discourse updating. We will present a new non-implicative discourse that cannot be accounted for with Heim's use of global or local accommodation and which appears to require attention to evolution of discourse. We use this example to motivate remaking Heim's update function, aimed toward a unified approach to discourse|one in which Heim's rules for discourse updating can account for more of the problem cases for the theory of discourse context. These rules and the revised update function can then serve as principles that constrain the building of representations for discourse context (such as the Discourse Representation Structures, of Discourse Representation Theory, [ Kamp and Reyle, 1993 ] ). We propose active logic as a convenient tool for executing the required inferences (as called for by our revised version of Heim's update function) as the discourse evolves through time. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

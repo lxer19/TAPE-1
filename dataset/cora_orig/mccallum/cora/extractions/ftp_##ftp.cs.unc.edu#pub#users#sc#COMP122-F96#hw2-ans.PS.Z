@@ -1,0 +1,12 @@
+URL: ftp://ftp.cs.unc.edu/pub/users/sc/COMP122-F96/hw2-ans.PS.Z
+Refering-URL: http://www.cs.unc.edu/~sc/teaching/COMP122-F1996/homework.html
+Root-URL: http://www.cs.unc.edu
+Title: COMP 122: Algorithms and Analysis Solutions to Problem Set 2  
+Author: Siddhartha Chatterjee 
+Note: 2 n when jaj n: Thus, when n 2jaj, 0 2 Since b &gt; 0, the inequality continues to hold when all parts are raised to the power b: 0 2 Thus, c 1 1 2 b c 2 2 b and n 0 2jaj satisfy the definition. 2 P-2 Prove that lg(n!) fi(n lg n):  
+Date: Fall 1996  
+Abstract: Practice problems P-1 Show that for any real constants a and b, where b &gt; 0, (n + a) b = fi(n b ): Solution: To show that (n + a) b = fi(n b ), we want to find constants c 1 , c 2 , n 0 &gt; 0 such that 0 c 1 n b (n + a) b c 2 n b 8n n 0 : Note that n + a n + jaj 2n when jaj n and Solution: By the definition of factorials and logarithms, we have lg(n!) = lg( i=1 = i=1 = lg e i=1 To show that lg(n!) = fi(n lg n), we need to find constants c 1 , c 2 , n 0 &gt; 0 such that 0 c 1 n lg n lg(n!) c 2 n lg n8n n 0 : 
+Abstract-found: 1
+Intro-found: 0
+References-found: 0
+

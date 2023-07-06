@@ -1,0 +1,13 @@
+URL: http://www.cs.princeton.edu/~ristad/papers/pu-497-95.ps.gz
+Refering-URL: http://www.cs.princeton.edu/~ristad/papers/pu-497-95.html
+Root-URL: http://www.cs.princeton.edu
+Title: Effect of Speed on Handwriting Shape: A Descriptive Generalization 1  
+Author: Eric Sven Ristad 
+Keyword: handwriting, motor complexity, speed-accuracy tradeoff.  
+Abstract: Research Report CSTR-497-95 August 1995 Abstract In this report, we characterize the natural simplifying transformations of a handwritten curve. We argue that the number and type of singularities in a geometric curve determine the amount of time required for the human handwriting system to produce that curve to a given level of accuracy. Therefore, the behavior of the human handwriting system under increasing time pressure may be characterized by a set of stochastic transformations that replace costly curve segments with less costly segments, or remove segments entirely. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Slote, C. T. </author> <title> Improve Your Handwriting. </title> <publisher> McGraw Hill, </publisher> <address> New York, </address> <year> 1956. </year>
+Reference-contexts: The wrist saccade is not a biomechanical necessity. It is all the more interest 3 ing because it is at odds with elementary school handwriting instruction, which encourages writers to maintain a constant rightward wrist velocity <ref> [1] </ref>. The wrist saccade appears to arise primarily from the writer's conceptualization of the handwriting task as organized into a hierarchy of linguistic subtasks: the utterance, the word, and the character. The wrist saccade marks the completion of one complex motor task and the initiation of the next task.
+References-found: 1
+

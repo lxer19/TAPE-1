@@ -1,0 +1,11 @@
+URL: http://www.cs.hmc.edu/~fleck/stereo-tr2.ps.Z
+Refering-URL: http://www.cs.hmc.edu/~fleck/iowa-lab/wide.html
+Root-URL: http://www.cs.hmc.edu
+Title: Perspective Projection: The Wrong Imaging Model 1  
+Author: Margaret M. Fleck 
+Affiliation: Department of Computer Science University of Iowa  
+Abstract: Perspective projection is generally accepted as the ideal model of image formation. Many recent algorithms, and many recent judgements about the relative merits of different algorithms, depend on this assumption. However, perspective projection represents only the front half of the viewing sphere and it distorts the shape and intensity of objects unless they lie near the optical axis. It is only one of several projections used in lens design and it does not accurately model the behavior of many real lenses. It works well only for narrow-angle images. This paper surveys the properties of several alternative models of image formation. A model based on stereographic projection of the viewing sphere is shown to be a better general-purpose imaging model than perspective projection. The new model can represent wider fields of view and more closely approximates real wide-angle lenses. It preserves a suitable range of shape properties, including local symmetries. It approximates narrow-angle perspective locally, enabling local affine features to be used throughout the field of view. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

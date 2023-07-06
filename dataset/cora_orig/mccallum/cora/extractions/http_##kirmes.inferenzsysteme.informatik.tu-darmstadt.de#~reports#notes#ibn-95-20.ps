@@ -1,0 +1,15 @@
+URL: http://kirmes.inferenzsysteme.informatik.tu-darmstadt.de/~reports/notes/ibn-95-20.ps
+Refering-URL: http://www.inferenzsysteme.informatik.tu-darmstadt.de/~reports/
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Email: fstefan|nolteg@inferenzsysteme.informatik.th-darmstadt.de  
+Title: Utilizing Transitivity in Containment Tests  
+Author: Stefan Gerberding and Axel Noltemeier 
+Address: Alexanderstr. 10, 64283 Darmstadt, Germany  
+Affiliation: Technische Hochschule Darmstadt Fachbereich Informatik  
+Abstract: To achieve this goal relation descriptions are introduced as syntactical representations for relations. For the manipulations in order to compute large induction relations, the containment test to check whether relations are contained in one another and the quasi-commutation test which is used to prove the union of two well-founded relations well-founded are provided. Both test methods work by proving the validity of some first-order formula in the initial model of the specification. Since both tests are relatively expensive it is important to use as much additional information about the relations as possible to avoid unnecessary tests. Therefore a heuristic to control the search for an induction relation as large as possible is presented. Using our heuristic an optimal sequence of tests is computed in most cases which avoids many computational expensive tests which would have been necessary if a nave approach would have been taken instead. In this paper we describe the heuristic to utilize the transitivity of the containment relation. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [Gerberding & Noltemeier, 1994] <author> Stefan Gerberding & Axel Noltemeier. </author> <title> Choosing appropiate induction relations automatically. </title> <type> Technical report, </type> <institution> Technische Hochschule Darmstadt, </institution> <month> November </month> <year> 1994. </year> <month> 6 </month>
+Reference-contexts: 1 Introduction For an introduction and for the general framework of our approach we refer to <ref> [Gerberding & Noltemeier, 1994] </ref>. fl INKA Blue Note IBN-95-20 1 2 Computing the Containment Relation, An Example Since v is a reflexive and transitive relation we do not need to verify the containment formulas for XvX or XvZ if XvY and Y vZ is already known. <p> entry 2 consider ^ entry =2 entries then visited := ; CL := CL [ expand (CL; hentryi) entries := entries [ fentryg fi return CL end The function containment (figure 2) is called from our scheduler to compute the containment relation on the given set of relation descriptions, cf. <ref> [Gerberding & Noltemeier, 1994] </ref> for details. containment calls the recursive function expand (figure 3) for the expansion of a node resp. subgraph. The variable consider which initially contains all relation descriptions is checked whenever we attempt to expand a node. <p> The function tclose computes the transitive closure of the containment relation as known so far. This can be easily achieved without any containment test and be investigating only certain edges, cf. <ref> [Gerberding & Noltemeier, 1994] </ref>.
+References-found: 1
+

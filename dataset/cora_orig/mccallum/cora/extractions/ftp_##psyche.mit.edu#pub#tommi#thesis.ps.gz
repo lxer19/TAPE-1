@@ -1,0 +1,40 @@
+URL: ftp://psyche.mit.edu/pub/tommi/thesis.ps.gz
+Refering-URL: http://www.ph.tn.tudelft.nl/PRInfo/reports/msg00280.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: Variational Methods for Inference and Estimation in Graphical Models variational methodology for probabilistic inference, Bayesian
+Author: by Tommi S. Jaakkola 
+Degree: Thesis Supervisor:  
+Date: 1997  
+Note: c Massachusetts Institute of Technology  The thesis consists of the development of this  Michael I. Jordan Title: Professor  
+Address: Cambridge, MA 02139  
+Affiliation: Department of Brain and Cognitive Sciences Massachusetts Institute of Technology  
+Abstract: Graphical models enhance the representational power of probability models through qualitative characterization of their properties. This also leads to greater efficiency in terms of the computational algorithms that empower such representations. The increasing complexity of these models, however, quickly renders exact probabilistic calculations infeasible. We propose a principled framework for approximating graphical models based on variational methods. We develop variational techniques from the perspective that unifies and expands their applicability to graphical models. These methods allow the (recursive) computation of upper and lower bounds on the quantities of interest. Such bounds yield considerably more information than mere approximations and provide an inherent error metric for tailoring the approximations individually to the cases considered. These desirable properties, concomitant to the variational methods, are unlikely to arise as a result of other deterministic or stochastic approximations. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> T. Cover and J. </author> <title> Thomas (1991). Elements of information theory. </title> <publisher> John Wiley & Sons, Inc. </publisher>
+Reference: <author> P. Dayan, G. Hinton, R. Neal, and R. </author> <title> Zemel (1995). The helmholtz machine. </title> <journal> Neural Computation. </journal> <volume> 7 </volume> <pages> 889-904. </pages>
+Reference: <author> A. Dempster, N. Laird, and D. </author> <title> Rubin (1977). Maximum likelihood from incomplete data via the EM algorithm. </title> <journal> Journal of the Royal Statistical Society B 39 </journal> <pages> 1-38. </pages>
+Reference: <author> Z. </author> <month> Ghahramani </month> <year> (1995). </year> <title> Factorial learning and the EM algorithm. </title> <booktitle> In Advances of Neural Information Processing Systems 7. </booktitle> <publisher> MIT press. </publisher>
+Reference: <author> J. Hertz, A. Krogh and R. </author> <title> Palmer (1991). Introduction to the theory of neural computation. </title> <publisher> Addison-Wesley. 11 G. </publisher> <editor> Hinton, P. Dayan, B. Frey, and R. </editor> <title> Neal (1995). The wake-sleep algorithm for unsupervised neural networks. </title> <booktitle> Science 268: </booktitle> <pages> 1158-1161. </pages>
+Reference: <author> T. Jaakkola, L. Saul, and M. </author> <title> Jordan (1996). Fast learning by bounding likelihoods in sigmoid-type belief networks. </title> <booktitle> In Advances of Neural Information Processing Systems 8. </booktitle> <publisher> MIT Press. </publisher>
+Reference: <author> T. Jaakkola and M. </author> <title> Jordan (1996). Computing upper and lower bounds on likelihoods in intractable networks. </title> <booktitle> In Proceedings of the twelfth Conference on Uncertainty in Artificial Intelligence. </booktitle>
+Reference: <author> T. Jaakkola and M. </author> <title> Jordan (1996). Recursive algorithms for approximating probabilities in graphical models. </title> <booktitle> In Advances of Neural Information Processing Systems 9. </booktitle>
+Reference: <author> T. Jaakkola and M. </author> <title> Jordan (1996). A variational approach to Bayesian logistic regression problems and their extensions. </title> <booktitle> In Proceedings of the sixth international workshop on artificial intelligence and statistics. </booktitle>
+Reference: <author> F. </author> <title> Jensen (1996). Introduction to Bayesian networks. </title> <publisher> Springer. </publisher>
+Reference: <author> F. Jensen, S. Lauritzen, and K. </author> <month> Olesen </month> <year> (1990). </year> <title> Bayesian updating in causal probabilistic networks by local computations. </title> <journal> Computational Statistics Quarterly 4: </journal> <pages> 269-282. </pages>
+Reference: <author> U. </author> <month> Kjaerulff </month> <year> (1994). </year> <title> Reduction of Computational Complexity in Bayesian Networks through Removal of Weak Dependences. </title> <booktitle> In Proceedings of the Tenth Annual Conference on Uncertainty in Artificial Intelligence. </booktitle>
+Reference: <author> U. </author> <month> Kjaerulff </month> <year> (1995. </year> <title> HUGS: Combining Exact Inference and Gibbs Sampling in Junction Trees. </title> <booktitle> In Proceedings of the Eleventh Annual Conference on Uncertainty in Artificial Intelligence. </booktitle>
+Reference: <author> S. </author> <title> Lauritzen (1996). Graphical Models. </title> <publisher> Oxford University Press. </publisher>
+Reference: <author> S. Lauritzen and D. </author> <month> Spiegelhalter </month> <year> (1988). </year> <title> Local computations with probabilities on graphical structures and their application to expert systems. </title> <journal> Journal of the Royal Statistical Society B 50 </journal> <pages> 154-227. </pages>
+Reference: <author> R. Neal. </author> <title> Connectionist learning of belief networks (1992). </title> <booktitle> Artificial Intelligence 56: </booktitle> <pages> 71-113. </pages>
+Reference: <author> R. Neal and G. Hinton. </author> <title> A new view of the EM algorithm that justifies incremental and other variants. </title> <institution> University of Toronto technical report. </institution>
+Reference: <author> J. </author> <title> Pearl (1988). Probabilistic Reasoning in Intelligent Systems. </title> <publisher> Morgan Kaufmann. </publisher>
+Reference: <author> C. Peterson and J. R. </author> <title> Anderson (1987). A mean field theory learning algorithm for neural networks. </title> <booktitle> Complex Systems 1: </booktitle> <pages> 995-1019. </pages>
+Reference: <author> R. </author> <month> Rockafellar </month> <year> (1970). </year> <title> Convex Analysis. </title> <publisher> Princeton Univ. Press. </publisher> <address> 12 J. </address> <month> Rustagi </month> <year> (1976). </year> <title> Variational Methods in Statistics. </title> <publisher> Academic Press. </publisher>
+Reference: <author> L. Saul, T. Jaakkola, and M. </author> <title> Jordan (1996). Mean field theory for sigmoid belief networks. </title> <journal> Journal of Artificial Intelligence research 4: </journal> <pages> 61-76. </pages>
+Reference: <author> R Shachter, S. Andersen and P. </author> <title> Szolovits (1994). Global Conditioning for Probabilistic Inference in Belief Networks. </title> <booktitle> In Proceedings of the Tenth Annual Conference on Uncertainty in Artificial Intelligence. </booktitle>
+Reference: <author> M. Shwe, B. Middleton, D. Heckerman, M. Henrion, E. Horvitz. H. </author> <title> Lehmann, </title> <publisher> G. </publisher>
+Reference: <author> Cooper (1991). </author> <title> Probabilistic diagnosis using a reformulation of the INTERNIST-1/QMR knowledge base: </title> <booktitle> Part-I. Methods of Information in Medicine 30: </booktitle> <pages> 241-255. </pages>
+
+References-found: 24
+

@@ -1,0 +1,26 @@
+URL: http://www.cs.utoronto.ca/~cogrobo/persist.ps.Z
+Refering-URL: http://www.cs.utoronto.ca/~cogrobo/
+Root-URL: 
+Title: On the Persistence of Knowledge and Ignorance: A Preliminary Report  
+Author: Fangzhen Lin Yoav Shoham 
+Address: Toronto, Canada M5S 1A4  Stanford, CA 94305  
+Affiliation: Department of Computer Science University of Toronto  Department of Computer Science Stanford University  
+Abstract: We study a particular model of the way in which a single agent's knowledge evolves over time. The two fundamental properties of the model are that knowledge always persists (i.e., agents have perfect memory), and that ignorance persists by default (i.e., we have complete knowledge of exactly how much the agent learns at every time point). Despite its apparent simplicity, this model exhibits quite complex properties.
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Chandy, K. M. and J. </author> <title> Misra (1986), How processes learn, </title> <booktitle> Distributed Computing 1:1, </booktitle> <year> 1986. </year>
+Reference: [2] <author> Halpern, J. </author> <year> (1987), </year> <note> Review of Parikh [1984], Mathematical Review, 87h:68110. </note>
+Reference: [3] <author> Halpern, J. Y. and Y. O. </author> <title> Moses (1984), Towards a theory of knowledge and ignorance: </title> <type> preliminary report, IBM Technical Report RJ 4448 (48136), </type> <year> 1984. </year>
+Reference: [4] <author> Halpern, J. Y. and Y. O. </author> <title> Moses (1985), A guide to the modal logics of knowledge and beliefs: preliminary draft, </title> <type> IBM Technical Report RJ 4753 (50521), </type> <year> 1985. </year>
+Reference: [5] <author> Halpern, J. Y. and M. Y. </author> <title> Vardi (1989), The complexity of reasoning about knowledge and time, I: lower bounds, </title> <type> IBM Technical Report RJ 5764 (58103), </type> <year> 1989. </year>
+Reference: [6] <author> Gardenfors, P. </author> <year> (1987), </year> <title> Knowledge in Flux: modeling the dynamics of epistemic states, </title> <publisher> MIT Press, </publisher> <address> Cambridge, MA, </address> <year> 1987. </year> <month> 17 </month>
+Reference: [7] <author> Katsuno, H and A. O. </author> <title> Mendelzon (1991), On the difference between updating a knowledge base and revising it, </title> <booktitle> in Proc. Second Conference on Knowledge Representation and Reasoning, </booktitle> <address> Boston, MA, </address> <year> 1991. </year>
+Reference: [8] <author> Levesque, H. </author> <year> (1984), </year> <title> Foundations of a functional approach to knowledge representation, </title> <journal> Artificial Intelligence, </journal> <volume> 23(2), </volume> <year> 1984. </year>
+Reference: [9] <author> Levesque, H. </author> <year> (1987), </year> <title> All I know: an abridged report, </title> <booktitle> Conference Proceedings of AAAI-87, </booktitle> <pages> 426-431. </pages>
+Reference: [10] <author> Levesque, H. </author> <year> (1990), </year> <title> All I know: A study in autoepistemic logic, </title> <booktitle> Artificial Intelligence 42 (1990) 263 - 309. </booktitle>
+Reference: [11] <author> McCarthy, J. and P. </author> <title> Hayes (1969), Some philosophical problems from the standpoint of artificial intelligence. </title> <booktitle> In Machine Intelligence 4, </booktitle> <editor> Meltzer, B and Michie, D. (eds), </editor> <publisher> Edinburgh University Press. </publisher>
+Reference: [12] <author> Parikh, R. </author> <year> (1984), </year> <title> Logics of knowledge, games and dynamic logic, </title> <booktitle> FST-TCS 1984, </booktitle> <publisher> Springer LNCS 181. </publisher>
+Reference: [13] <author> Parikh, R. </author> <year> (1991), </year> <title> Monotonic and non-monotonic logics of knowledge, </title> <type> Manuscript, </type> <year> 1991. </year>
+Reference: [14] <author> Shoham, Y. </author> <year> (1989), </year> <title> Time for action, </title> <booktitle> in Proceedings of IJCAI-89. </booktitle> <pages> 18 </pages>
+References-found: 14
+

@@ -1,0 +1,10 @@
+URL: http://www.cs.berkeley.edu/~richie/snakes.ps.gz
+Refering-URL: http://www.cs.berkeley.edu/~richie/resume.html
+Root-URL: 
+Abstract-found: 0
+Intro-found: 0
+Reference: [1] <author> A. Amini, T. Weymouth, and R. Jain. </author> <title> "Using dynamic programming for solving variational problems in vision," </title> <journal> IEEE Transactions on Pattern Analysis and Machine Intelligence , vol. </journal> <volume> 12, no. 9, </volume> <pages> p. 855-866, </pages> <year> 1990. </year>
+Reference-contexts: 1 Abstract The active contour models or "snakes" algorithm is a well-known technique for finding contours of objects in images. In this paper, we implement a version of snakes using the dynamic programming approach suggested by Amini, et al. <ref> [1] </ref>, to address the problem of motion tracking. Our implementation effectively and efficiently finds object boundaries, but meets with only moderate success when applied to motion tracking. <p> This procedure of computing and minimizing E snake is known as the Viterbi algorithm . 2.2 Dynamic programming approach Amini, et al., <ref> [1] </ref> observed that the snake energy can be placed into the form E snake (v 1 ; v 2 ; :::; v n ) = E 1 (v 1 ; v 2 ; v 3 ) + E 1 (v 1 ; v 2 ; v 3 ) + ::: + <p> Thus, the inner-loop of Viterbi beginning at line 4 requires O (m 2 n) running time. For most applications, m = 9. Thus, a single iteration of the energy minimization requires O (n) (for n &gt;= m). Moreover, as discussed in <ref> [1] </ref>, the algorithm is guaranteed to converge in a finite time. The pseudocode for SetMinPositions corresponds to Snake::SetMinPositions in the actual code (Appendix A). Lines 3-12 of the Viterbi pseudocode roughly corresponds with the routine Snake::CalcAndReduceEnergy.
+Reference: [2] <author> M. Kass, A. Witkin, and D. Terzopoulos. "Snakes: </author> <title> active contour models," </title> <journal> IEEE Transactions on Pattern and Machine Intelligence , 1987. </journal> <volume> 28 29 </volume>
+References-found: 2
+

@@ -1,0 +1,17 @@
+URL: ftp://ftp.cs.clemson.edu/techreports/94-110.ps.Z
+Refering-URL: http://www.cs.clemson.edu/html/research/techrpt.shtml
+Root-URL: http://www.cs.clemson.edu
+Title: A Metric Framework for Object-Oriented Systems  Managing Metrics in an Iterative Incremental Development Environment  
+Author: John D. McGregor 
+Address: Clemson, SC 29634  
+Affiliation: Dept. of Computer Science Clemson University  
+Note: copyright 1994 all rights reserved  
+Abstract-found: 0
+Intro-found: 1
+Reference: 1. <author> Abbott, </author> <title> David. </title>
+Reference-contexts: Consider an estimation metric that approximates the final size of the software. Using a raw count of domain classes during domain analysis would provide a very gross estimate of the size, but it would be available very early in the project. Mark Lorenz has developed heuristic guidelines <ref> [1] </ref> for estimating the total number of classes from what he calls the key classes that are visible in the results of the domain anlysis. Using the count of classes in the final implementation would provide a very accurate, albeit very late, estimate of the size of the project.
+Reference: 2. <author> Kamath, </author> <note> Sanjay. </note>
+Reference: 3. <author> Lorenz, Mark and Kidd, Jeff. </author> <title> Object-Oriented Software Metrics, </title> <publisher> Prentice-Hall, </publisher> <year> 1994. </year>
+Reference: 4. <institution> McCabe, </institution>
+References-found: 4
+

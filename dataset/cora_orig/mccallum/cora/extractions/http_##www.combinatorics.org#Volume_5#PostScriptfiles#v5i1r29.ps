@@ -1,0 +1,25 @@
+URL: http://www.combinatorics.org/Volume_5/PostScriptfiles/v5i1r29.ps
+Refering-URL: http://www.combinatorics.org/
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Email: ge@fred.indstate.edu  
+Title: Some New Ramsey Colorings  
+Author: Geoffrey Exoo 
+Note: AMS Subject Classifications: 05D10, 05D04  
+Date: Submitted: April 19, 1998; Accepted: May 14, 1998.  
+Address: IN 47809  
+Affiliation: Department of Mathematics and Computer Science Indiana State University Terre Haute,  
+Abstract:  
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> F. Glover, E. Taillard, and D. De Werra. </author> <title> A User's Guide to Tabu Search. </title> <journal> Annals of Operations Research. </journal> <month> 41 </month> <year> (1993) </year> <month> 3-28. </month>
+Reference-contexts: As the algorithm proceeds, the current solution vector is repeatedly changed. Each time it is changed, the old vector is saved in a history list, H, of previous solution vectors. This is an essential idea from tabu search <ref> [1] </ref>. The algorithm also has a notion of temperature, as in simulated annealing. In this case, the temperature, T , is a positive integer which restricts the range of choices the algorithm has for changing V .
+Reference: [2] <author> J. Kalbfleisch. </author> <title> Chromatic Graphs and Ramsey's Theorem. </title> <type> Ph.D. Thesis. </type> <institution> University of Waterloo, </institution> <month> January, </month> <year> 1966. </year>
+Reference-contexts: These are given in the table below. Note that the sub-colorings for t = 10 and t = 12 were first found by Kalbfleisch <ref> [2] </ref>. t Number of vertices (3; t 1)-coloring used 10 140 35 (1,7,11,16) 12 180 45 (3,10,11,12,16) 14 220 55 (3,7,11,12,13,27) Table. (5; t)-colorings. REFERENCES 5
+Reference: [3] <author> K. Piwakowski. </author> <title> Applying Tabu Search to Determine New Ramsey Graphs. </title> <journal> Electronic J. Combinatorics. </journal> <note> 3 (1996) #R6. </note>
+Reference-contexts: There are many choices for edge sets, we used the same ones used in <ref> [3] </ref>, where two types of colorings were examined: colorings where the adjacency matrix is a circulant and colorings where the adjacency matrix can be built from square circulant blocks. Colorings of the first type have been used since the beginning of work on the Ramsey number problem. <p> The other nontrivial implementation detail concerns the history list. In our implementation, this list was effectively infinite, since the number of iterations was never very large (50000 iterations for the R (6,10) coloring was probably the maximum). In this regard, we differ from <ref> [3] </ref>. Constructions The first set of constructions are circle colorings.
+Reference: [4] <author> R. Mathon. </author> <title> Lower Bounds for Ramsey Numbers and Association Schemes. </title> <journal> Journal of Combinatorial Theory, Series B. </journal> <month> 42 </month> <year> (1987) </year> <month> 122-127. </month>
+Reference-contexts: Colorings of the first type have been used since the beginning of work on the Ramsey number problem. Those of the second type were first used explicitly by Mathon <ref> [4] </ref>. A few auxiliary functions are needed to complete the implementation. The only real difficulty is posed by the clique counting functions: one that counts cliques, and one that counts cliques that use a given set of edges.
+Reference: [5] <author> S. P. Radziszowski. </author> <title> Small Ramsey Numbers. Dynamic Survey DS1, </title> <journal> Electronic J. Combinatorics. </journal> <volume> 1 (1994), </volume> <pages> 28 pp. </pages>
+Reference-contexts: First we use a new synthesis of simulated annealing and tabu search to establish several new bounds. Then some constructions that use smaller constructions as building blocks are described. In total, we improve 13 entries in Radziszowski's table of two-color classical Ramsey numbers <ref> [5] </ref>, and also add two entries to his list of classical multicolor bounds. A Simple Search Algorithm The algorithm is outlined in the context of minimizing an integer function of binary (boolean) variables. <p> 14 17) D = 18 (3 8 9 10 15) F = 18 (0 5 7 8 16) Building Block Constructions In the course of using the method described above, we obtained values for R (5; t) for 9 t 15 that improved the entries in the two color table <ref> [5] </ref>. However, it turns out that we can do even better with a different method. Below we describe colorings that improve the lower bounds for R (5; t), 10 t 15. All the colorings are made the same way.
+References-found: 5
+

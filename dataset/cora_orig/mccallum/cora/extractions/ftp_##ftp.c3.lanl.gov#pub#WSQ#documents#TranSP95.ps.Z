@@ -1,0 +1,27 @@
+URL: ftp://ftp.c3.lanl.gov/pub/WSQ/documents/TranSP95.ps.Z
+Refering-URL: http://www.mathsoft.com/wavelets.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Author: Christopher M. Brislawn 
+Date: 12, DECEMBER 1995 1  
+Note: IEEE TRANSACTIONS ON SIGNAL PROCESSING, VOL. 43, NO.  
+Abstract: This correspondence derives necessary and sufficient conditions for a multirate linear phase FIR filter bank, acting on a symmetrically extended finite-length input signal, to produce either symmetric or antisymmetric down-sampled subbands. Such techniques have gained popularity recently for image coding applications, and we provide the solution to a key technical problem in terms of the input and filter symmetries and the downsampling ratio. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> P. P. Vaidyanathan, </author> <title> Multirate Systems and Filter Banks. </title> <address> En-glewood Cliffs, NJ: </address> <publisher> Prentice Hall, </publisher> <year> 1993. </year>
+Reference: [2] <author> M. J. T. Smith and S. L. Eddins, </author> <title> "Analysis/synthesis techniques for subband image coding," </title> <journal> IEEE Trans. Acoust., Speech, Signal Process., </journal> <volume> vol. 38, </volume> <pages> pp. 1446-1456, </pages> <month> Aug. </month> <year> 1990. </year>
+Reference: [3] <author> S. A. Martucci, </author> <title> "Signal extension and noncausal filtering for subband coding of images," </title> <journal> in Visual Commun., </journal> <volume> vol. </volume> <booktitle> 1605 of Proc. SPIE, (Boston), </booktitle> <pages> pp. 137-148, SPIE, </pages> <month> Nov. </month> <year> 1991. </year>
+Reference: [4] <institution> Federal Bureau of Investigation, WSQ Gray-Scale Fingerprint Image Compression Specification, IAFIS-IC-0110v2 (rev. 2.0), </institution> <month> Feb. </month> <year> 1993. </year> <editor> Drafted by T. Hopper, C. Brislawn, and J. </editor> <publisher> Bradley. </publisher>
+Reference: [5] <author> R. H. Bamberger, S. L. Eddins, and V. Nuri, </author> <title> "Generalized symmetric extension for size-limited multirate filter banks," </title> <journal> IEEE Trans. Image Process., </journal> <volume> vol. 3, </volume> <pages> pp. 82-87, </pages> <month> Jan. </month> <year> 1994. </year>
+Reference: [6] <author> H. Kiya, K. Nishikawa, and M. Iwahashi, </author> <title> "A development of symmetric extension method for subband image coding," </title> <journal> IEEE Trans. Image Process., </journal> <volume> vol. 3, </volume> <pages> pp. 78-81, </pages> <month> Jan. </month> <year> 1994. </year>
+Reference: [7] <author> K. R. Rao and P. Yip, </author> <title> Discrete Cosine Transform: Algorithms, Advantages, and Applications. </title> <address> San Diego, CA: </address> <publisher> Academic Press, </publisher> <year> 1990. </year>
+Reference: [8] <author> W. B. Pennebaker and J. L. Mitchell, </author> <title> JPEG Still Image Data Compression Standard. </title> <address> New York, NY: </address> <publisher> Van Nostrand Reinhold, </publisher> <year> 1992. </year>
+Reference: [9] <author> N. S. Jayant and P. Noll, </author> <title> Digital Coding of Waveforms. </title> <address> Engle-wood Cliffs, NJ: </address> <publisher> Prentice Hall, </publisher> <year> 1984. </year>
+Reference: [10] <author> V. Nuri and R. H. Bamberger, </author> <title> "A theory of size-limited filter banks," </title> <booktitle> in Proc. Int'l. Conf. Acoust., Speech, Signal Process. </booktitle> <pages> [16]. </pages>
+Reference: [11] <author> J. N. Bradley, C. M. Brislawn, and V. </author> <title> Faber, "Reflected boundary conditions for multirate filter banks," </title> <booktitle> in Proc. Int'l. Symp. Time-Freq. Time-Scale Analysis, </booktitle> <address> (Victoria, BC), </address> <pages> pp. 307-310, </pages> <institution> IEEE Signal Process. Soc., </institution> <month> Oct. </month> <year> 1992. </year>
+Reference: [12] <author> L. Chen, T. Q. Nguyen, and K. P. Chan, </author> <title> "Symmetric extension methods for M-channel PR LP FIR analysis/synthesis systems," </title> <booktitle> in Proc. Int'l. Symp. Circuits Systems, (London), IEEE Circuits Systems Soc., </booktitle> <month> June </month> <year> 1994. </year>
+Reference: [13] <author> C. M. Brislawn, </author> <title> "Classification of nonexpansive symmetric extension transforms for multirate filter banks," </title> <type> Tech. Rep. </type> <institution> LA-UR-94-1747, Los Alamos Nat'l. Lab, </institution> <month> May </month> <year> 1994. </year> <note> Submitted for publication. </note>
+Reference: [14] <author> S. A. Martucci and R. M. Mersereau, </author> <title> "The symmetric convolution approach to the nonexpansive implementation of FIR filter banks for images," </title> <booktitle> in Proc. Int'l. Conf. Acoust., Speech, Signal Process. </booktitle> <volume> [16], </volume> <pages> pp. </pages> <month> V-65-68. </month>
+Reference: [15] <author> S. A. Martucci, </author> <title> "Symmetric convolution and the discrete sine and cosine transforms," </title> <journal> IEEE Trans. Signal Process., </journal> <volume> vol. 42, </volume> <pages> pp. 1038-1051, </pages> <month> May </month> <year> 1994. </year>
+Reference: [16] <editor> IEEE Signal Process. </editor> <booktitle> Soc., Proc. Int'l. Conf. Acoust., Speech, Signal Process., </booktitle> <address> (Minneapolis), </address> <month> Apr. </month> <year> 1993. </year>
+References-found: 16
+

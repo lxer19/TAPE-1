@@ -1,0 +1,18 @@
+URL: http://www.merl.com/reports/TR96-26/TR96-26.ps.gz
+Refering-URL: http://www.merl.com/reports/TR96-26/index.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: Telling a Story with Automated Motion Synthesis  
+Author: Jon Christensen Joe Marks MERL J. Thomas Ngo 
+Address: 1996 201 Broadway, Cambridge, Massachusetts 02139  
+Date: April 1996  
+Affiliation: UCSD  Mitsubishi Electric Information Technology Center America,  
+Web: http://www.merl.com  
+Note: MERL A MITSUBISHI ELECTRIC RESEARCH LABORATORY  with the help of automated motion-synthesis tools. Copyright c  
+Pubnum: Interval Research TR-96-26  
+Abstract: This work may not be copied or reproduced in whole or in part for any commercial purpose. Permission to copy in whole or in part without payment of fee is granted for nonprofit educational and research purposes provided that all such whole or partial copies include the following: a notice that such copying is by permission of Mitsubishi Electric Information Technology Center America; an acknowledgment of the authors and individual contributions to the work; and all applicable portions of the copyright notice. Copying, reproduction, or republishing for any other purpose shall require a license with payment of fee to Mitsubishi Electric Information Technology Center America. All rights reserved. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> J. Christensen, J. Marks, and J. T. Ngo. </author> <title> Automatic motion synthesis for 3D mass-spring models. </title> <booktitle> Visual Computer, </booktitle> <year> 1996. </year> <note> To appear. </note> <month> MERL-TR-96-26 April </month> <year> 1996 </year>
+Reference-contexts: But it is not to be and he falls on his face, defeated. As the song finishes, the table struts away without so much as a backwards glance. 3 Tools Our particular approach to automated motion synthesis is described in detail elsewhere <ref> [1] </ref>. Here we consider only the inputs required by our system. One input comprised the physical models for the characters. For the end table we used a compact, symmetric mass-spring lattice. The chair was modeled by adding a back and supporting springs to the top of the cube.
+References-found: 1
+

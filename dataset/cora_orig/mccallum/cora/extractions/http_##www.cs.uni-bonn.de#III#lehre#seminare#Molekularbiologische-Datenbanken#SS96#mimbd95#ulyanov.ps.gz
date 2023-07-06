@@ -1,0 +1,16 @@
+URL: http://www.cs.uni-bonn.de/III/lehre/seminare/Molekularbiologische-Datenbanken/SS96/mimbd95/ulyanov.ps.gz
+Refering-URL: http://www.cs.uni-bonn.de/III/lehre/seminare/Molekularbiologische-Datenbanken/SS96/mimbd95/
+Root-URL: http://cs.uni-bonn.de
+Email: Email address: ulyanov@mailhost.embl-heidelberg.de etzold@mailhost.embl-heidelberg.de  
+Title: Parsing Molecular Biological Databases  
+Author: Anatoly Ulyanov and Thure Etzold 
+Address: Meyerhofstrasse 1, 69117 Heidelberg, Germany  
+Affiliation: EMBL,  
+Abstract-found: 0
+Intro-found: 1
+Reference: 1. <author> T. Etzold and P. Argos, </author> <title> SRS an indexing and retrieval tool for flat file data libraries. </title> <journal> Comput. Appl. Biosci. </journal> <volume> 9 </volume> <pages> 49-57, </pages> <year> 1993. </year>
+Reference: 2. <author> Thure Etzold and Patrick Argos, </author> <title> Transforming a set of biological flat file libraries to a fast access network. </title> <journal> Appl. Biosci. </journal> <volume> 9 </volume> <pages> 59-64, </pages> <year> 1993. </year>
+Reference: 3. <author> P. </author> <title> Naur "Revised Report on the Algorithmic Language Algol 60", </title> <journal> CACM, </journal> <pages> 1-17, </pages> <year> 1963. </year>
+Reference-contexts: Syntactic Description The LALR (1) context free grammar can be used to define the format of a molecular biological databank as an abstract syntax tree of "Backus-Naur Forms" (BNF). BNF is a formalism to describe the syntax of a language. For the first time it was used by Naur <ref> [3] </ref> to specify the language Algol-60. The BNF grammatical rules consist of "terminal" and "non-terminal" definitions. A non-terminal can be subdivided on terminals and other non-terminals. Terminals and non-terminals group together to a production.
+References-found: 3
+

@@ -1,0 +1,20 @@
+URL: ftp://ftp.cs.unc.edu/pub/publications/techreports/94-055.ps.Z
+Refering-URL: ftp://ftp.cs.unc.edu/pub/publications/techreports/FILE.html
+Root-URL: http://www.cs.unc.edu
+Email: fi  
+Title: Sensitivity of System Accuracy to Fabrication Tolerances in an  
+Author: Outward-looking Tracker Stefan Gottschalk Vernon L. Chi 
+Note: This work was funded by NSF and DARPA. UNC is an Equal Opportunity/Affirmative Action Institution.  
+Address: Chapel Hill, NC 27599-3175  
+Affiliation: Department of Computer Science University of North Carolina at Chapel Hill  
+Date: October 1994  
+Pubnum: TR94-055  
+Abstract-found: 0
+Intro-found: 0
+Reference: [BISH84] <author> Gary Bishop. Self-Tracker: </author> <title> A Smart Optical Sensor on Silicon. </title> <type> Dissertation, </type> <institution> UNC Department of Computer Science, </institution> <year> 1984. </year>
+Reference-contexts: Outward-looking systems use head-mounted cameras to sight features fixed in known positions in the environment. This distinction was introduced by Gary Bishop in his 1984 dissertation <ref> [BISH84] </ref>. We restrict our discussion to systems using active beacons for features. Outward-looking systems have two significant advantages over inward-looking systems. First, outward-looking systems are more economically scalable, assuming that the beacons are less expensive than the cameras.
+Reference: [GOTT93] <author> Stefan Gottschalk, John F. Hughes. </author> <title> Autocalibration for Virtual Environments Tracking Hardware. </title> <booktitle> Proceedings of SIGGRAPH 93 (Anaheim, </booktitle> <address> California, </address> <month> August 1-6, 23 </month> <year> 1993). </year> <booktitle> In Computer Graphics Proceedings, Annual Conference Series, 1993, ACM IGGR--PAH, </booktitle> <address> New York, </address> <year> 1993, </year> <pages> pp. 65-72. </pages>
+Reference: [WARD92] <author> Mark Ward, Ronald Azuma, Robert Bennett, Stefan Gottschalk, </author> <type> Henry Fuchs. </type>
+Reference-contexts: A working prototype of an outward-looking system was built by Jih-Fang Wang, which used a configuration of three cameras tracked beneath a ceiling equipped with infrared 1 LEDs [WANG90]. Following that success, a full-scale operational tracking system was designed and built at UNC <ref> [WARD92] </ref>. There are many potential sources of noise and systematic error in this outward-looking system. There is electrical noise and quantization noise in the digital sampling of the camera data. There is numerical error introduced in the processing of that data by the position recovery algorithm (PRA) [AZUM91].
+References-found: 3
+

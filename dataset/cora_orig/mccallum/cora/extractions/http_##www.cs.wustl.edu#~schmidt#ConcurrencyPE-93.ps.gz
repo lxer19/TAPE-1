@@ -1,0 +1,13 @@
+URL: http://www.cs.wustl.edu/~schmidt/ConcurrencyPE-93.ps.gz
+Refering-URL: http://www.cs.wustl.edu/~schmidt/adaptive.html
+Root-URL: 
+Email: schmidt@ics.uci.edu, dbox@ics.uci.edu, and suda@ics.uci.edu  
+Title: ADAPTIVE A Dynamically Assembled Protocol Transformation, Integration, and eValuation Environment  
+Author: Douglas C. Schmidt, Donald F. Box, and Tatsuya Suda 
+Address: Irvine, California 92717 1  
+Affiliation: Department of Information and Computer Science University of California,  
+Abstract: An earlier version of this paper appeared in the Journal of Concurrency: Practice and Experience, June 1993 Abstract Computer communication systems must undergo significant changes to keep pace with the increasingly demanding and diverse multimedia applications that will run on the next generation of high-performance networks. To facilitate these changes, we are developing A Dynamically Assembled Protocol Transformation, Integration, and eValuation Environment (ADAPTIVE). ADAPTIVE provides an integrated environment for developing and experimenting with flexible transport system architectures that support lightweight and adaptive communication protocols for diverse multimedia applications running on high-performance networks. Our approach employs a collection of reusable building block protocol mechanisms that may be composed together automatically based upon functional specifications. The resulting protocols execute in parallel on several target platforms including shared memory and message-passing multiprocessors. ADAPTIVE provides a framework for (1) determining the functionality of customized lightweight protocol configurations that efficiently support multimedia applications and (2) mapping this functionality onto efficient parallel process architectures. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

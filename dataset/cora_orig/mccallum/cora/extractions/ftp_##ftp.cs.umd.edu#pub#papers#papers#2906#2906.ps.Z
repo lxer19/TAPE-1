@@ -1,0 +1,14 @@
+URL: ftp://ftp.cs.umd.edu/pub/papers/papers/2906/2906.ps.Z
+Refering-URL: http://www.cs.umd.edu/TRs/TR.html
+Root-URL: 
+Title: Note on a Generalized Sylvester Equation  
+Author: G. W. Stewart 
+Note: AX Y B C;  
+Affiliation: University of Maryland College Park Institute for Advanced Computer Studies TR-92-59 Department of Computer Science  
+Pubnum: TR-2906  
+Abstract: In this note we show how to compute the minimum-norm, least squares solution of the generalized Sylvester equation fl This report is available by anonymous ftp from thales.cs.umd.edu in the directory pub/reports. y Department of Computer Science and Institute for Advanced Computer Studies, University of Maryland, College Park, MD 20742. 
+Abstract-found: 1
+Intro-found: 0
+Reference: [1] <author> R. I. Shrager. </author> <title> Chemical transitions measured by spectra and resolved using singular value decomposition. </title> <journal> Chemometrics and Intelligent Laboratory System, </journal> <volume> 1 </volume> <pages> 59-70, </pages> <year> 1986. </year> <title> Reference communicated by the author. </title>
+References-found: 1
+

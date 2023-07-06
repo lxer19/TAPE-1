@@ -1,0 +1,17 @@
+URL: http://www.cs.yale.edu/HTML/YALE/CS/HyPlans/douglas-craig/Preprints/pub38.ps.gz
+Refering-URL: http://www.cs.yale.edu/HTML/YALE/CS/HyPlans/douglas-craig/ccd-preprints.html
+Root-URL: http://www.cs.yale.edu
+Title: SOME REMARKS ON COMPLETELY VECTORIZING POINT GAUSS-SEIDEL WHILE USING THE NATURAL ORDERING  
+Author: CRAIG C. DOUGLAS 
+Keyword: Key words. iterative methods, vectorization, SPMD.  
+Abstract: A common statement in papers in the vectorization field is to note that point SOR methods with the natural ordering cannot be vectorized. The usual approach is to re-order the unknowns using a red-black or diagonal ordering and vectorize that. In this paper, we construct a point Gauss-Seidel iteration which completely vectorizes and still uses the natural ordering. The work here also applies to both point SOR and single program, multiple data (SPMD) parallel computer architectures. When this approach is reasonable to use is also shown. 1. Preliminaries. In this paper a completely vectorizable point Gauss-Seidel 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> L. Hayes, </author> <title> Comparative analysis of iterative techniques for solving LaPlace's equation on the unit square on a parallel processor, </title> <type> master's thesis, </type> <institution> University of Texas, Austin, TX, </institution> <year> 1974. </year>
+Reference-contexts: Standard procedures. Before introducing the vectorized iteration, a review of standard methods for vectorizing (partially or fully) Gauss-Seidel is worthwhile. A good reference is Hayes <ref> [1] </ref>. 2.1. Red-black ordering. The usual way of vectorizing (2) when A = A 5 is to use a red-black ordering of the unknowns. This causes the approximate solution and right hand side vectors to pass through cache twice, even though only half of the elements are accessed each time.
+Reference: [2] <author> J. J. Lambiotte and R. G. Voigt, </author> <title> The solution of tridiagonal linear systems on the CDC STAR-100 computer, </title> <journal> ACM Trans. Math. Soft., </journal> <volume> 1 (1975), </volume> <pages> pp. 308-329. </pages>
+Reference-contexts: Lambiotte and Voigt <ref> [2] </ref> is followed, but more efficient variations exist for certain problems (see Sweet [3] and its references). There are 3 steps to solving (7): factorization, forward substitution, and backward substitution. If extra storage is available, then it is worthwhile to save the factorization. 3.2. Factorization.
+Reference: [3] <author> R. A. Sweet, </author> <title> A parallel and vector variant of the cyclic reduction algorithm, </title> <journal> SIAM J. Sci. Stat. Comp., </journal> <volume> 9 (1988), </volume> <pages> pp. 761-765. 7 </pages>
+Reference-contexts: Lambiotte and Voigt [2] is followed, but more efficient variations exist for certain problems (see Sweet <ref> [3] </ref> and its references). There are 3 steps to solving (7): factorization, forward substitution, and backward substitution. If extra storage is available, then it is worthwhile to save the factorization. 3.2. Factorization. First, assume that the matrix A has been scaled so that a jj = 1, all j.
+References-found: 3
+

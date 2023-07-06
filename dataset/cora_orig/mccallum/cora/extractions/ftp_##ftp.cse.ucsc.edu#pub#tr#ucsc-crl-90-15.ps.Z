@@ -1,0 +1,34 @@
+URL: ftp://ftp.cse.ucsc.edu/pub/tr/ucsc-crl-90-15.ps.Z
+Refering-URL: ftp://ftp.cse.ucsc.edu/pub/tr/README.html
+Root-URL: http://www.cse.ucsc.edu
+Title: [Fra83] P. Frankl. On the trace of finite sets. Journal of Combinatorial Theory, On the
+Author: A. Blumer, A. Ehrenfeucht, D. Haussler, and M.K. Warmuth. Learnability N. Sauer. 
+Keyword: [KM78] M.G. Karpovsky and V.D. Milman. Coordinate density of sets of vectors.  
+Address: New York, 1982.  
+Date: 1097:2-142, 1984  41-45, 1983.  24, 177-184, 1978.  1972.  27(11):1134-1142, November, 1984  
+Note: 18 References References [Alo83] N. Alon. On the density of sets of vectors. Discrete Mathematics, 24, 177-184, 1983. [BEHW89]  and the Vapnik-Chervonenkis dimension. JACM, 36(4), 1989. [Bon72] J.A. Bondy. Induced subsets. Journal of Combinatorial Theory, 12(B), 201-202, 1972. [Dud84] R.M. Dudley. A course on empirical processes. Lecture Notes in Mathematics,  Discrete Mathematics,  [Pol84] D. Pollard. Convergence of Stochastic Processes. Springer-Verlag, 1984. [Pol89] D. Pollard. Empirical Processes Theory and Applications. Manuscript, De-cember, 1989. [Sau72]  [Ste78] J.M. Steele. Existence of submatrices with all possible columns. Journal of Combinatorial Theory, Series A, 24, 84-88, 1978. [Tom81] P. Tomasta. "Dart calculus" of induced subsets. Discrete Mathematics, 34, 195-198, 1981. [Val84] L. Valiant. A theory of the learnable. Communications of the ACM,  Springer-Verlag,  [VC71] V.N. Vapnik and A.Ya. Chervonenkis. On the  applications, XVI(2):264-280, 1971.  
+Pubnum: 34(A),  13:145-147,  
+Abstract: Hau89] D. Haussler. Generalizing the PAC model: sample size bounds from metric dimension-based uniform convergence results. Proceedings of the 30th Annual Symposium on the Foundations of Computer Science, IEEE, 1989. [Nat89] B.K. Natarajan. Some Results on Learning. Technical Report CMU-RI-TR-89-6, Carnegie Mellon, 1989. [SAB89] J. Shawe-Taylor, M. Anthony and N.L. Biggs. Bounding sample size with the Vapnik-Chervonenkis dimension. Technical Report CSD-TR-618, University of London, Royal Holloway and Bedford New College, 1989. [Vap89] V.N. Vapnik. Inductive principles of the search for empirical dependences (methods based on weak convergence of probability measures). In Proceedings of the 2nd Workshop on Computational Learning Theory, Morgan Kaufmann, San Mateo, CA 1989. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <institution> References </institution>
+Reference: [Alo83] <author> N. Alon. </author> <title> On the density of sets of vectors. </title> <journal> Discrete Mathematics, </journal> <volume> 24, </volume> <pages> 177-184, </pages> <year> 1983. </year>
+Reference: [BEHW89] <author> A. Blumer, A. Ehrenfeucht, D. Haussler, and M.K. Warmuth. </author> <title> Learnability and the Vapnik-Chervonenkis dimension. </title> <journal> JACM, </journal> <volume> 36(4), </volume> <year> 1989. </year>
+Reference: [Bon72] <author> J.A. </author> <title> Bondy. Induced subsets. </title> <journal> Journal of Combinatorial Theory, </journal> <volume> 12(B), </volume> <pages> 201-202, </pages> <year> 1972. </year>
+Reference: [Dud84] <author> R.M. Dudley. </author> <title> A course on empirical processes. </title> <booktitle> Lecture Notes in Mathematics, </booktitle> <volume> 1097 </volume> <pages> 2-142, </pages> <year> 1984 </year>
+Reference: [Fra83] <author> P. Frankl. </author> <title> On the trace of finite sets. </title> <journal> Journal of Combinatorial Theory, </journal> <volume> 34(A), </volume> <pages> 41-45, </pages> <year> 1983. </year>
+Reference: [Hau89] <author> D. Haussler. </author> <title> Generalizing the PAC model: sample size bounds from metric dimension-based uniform convergence results. </title> <booktitle> Proceedings of the 30th Annual Symposium on the Foundations of Computer Science, IEEE, </booktitle> <year> 1989. </year>
+Reference: [KM78] <author> M.G. Karpovsky and V.D. Milman. </author> <title> Coordinate density of sets of vectors. </title> <journal> Discrete Mathematics, </journal> <volume> 24, </volume> <pages> 177-184, </pages> <year> 1978. </year>
+Reference: [Nat89] <author> B.K. Natarajan. </author> <title> Some Results on Learning. </title> <type> Technical Report CMU-RI-TR-89-6, </type> <institution> Carnegie Mellon, </institution> <year> 1989. </year>
+Reference: [Pol84] <author> D. Pollard. </author> <title> Convergence of Stochastic Processes. </title> <publisher> Springer-Verlag, </publisher> <year> 1984. </year>
+Reference: [Pol89] <author> D. Pollard. </author> <title> Empirical Processes : Theory and Applications. </title> <type> Manuscript, </type> <institution> De-cember, </institution> <year> 1989. </year>
+Reference: [Sau72] <author> N. Sauer. </author> <title> On the density of families of sets. </title> <journal> J. Combinatorial Theory (A), </journal> <volume> 13 </volume> <pages> 145-147, </pages> <year> 1972. </year>
+Reference: [SAB89] <author> J. Shawe-Taylor, M. Anthony and N.L. Biggs. </author> <title> Bounding sample size with the Vapnik-Chervonenkis dimension. </title> <type> Technical Report CSD-TR-618, </type> <institution> University of London, Royal Holloway and Bedford New College, </institution> <year> 1989. </year>
+Reference: [Ste78] <author> J.M. Steele. </author> <title> Existence of submatrices with all possible columns. </title> <journal> Journal of Combinatorial Theory, Series A, </journal> <volume> 24, </volume> <pages> 84-88, </pages> <year> 1978. </year>
+Reference: [Tom81] <author> P. Tomasta. </author> <title> "Dart calculus" of induced subsets. </title> <journal> Discrete Mathematics, </journal> <volume> 34, </volume> <pages> 195-198, </pages> <year> 1981. </year>
+Reference: [Val84] <author> L. Valiant. </author> <title> A theory of the learnable. </title> <journal> Communications of the ACM, </journal> <volume> 27(11) </volume> <pages> 1134-1142, </pages> <month> November, </month> <year> 1984 </year>
+Reference: [Vap82] <author> V.N. Vapnik. </author> <title> Estimation of Dependences Based on Empirical Data. </title> <publisher> Springer-Verlag, </publisher> <address> New York, </address> <year> 1982. </year>
+Reference: [Vap89] <author> V.N. Vapnik. </author> <title> Inductive principles of the search for empirical dependences (methods based on weak convergence of probability measures). </title> <booktitle> In Proceedings of the 2nd Workshop on Computational Learning Theory, </booktitle> <publisher> Morgan Kaufmann, </publisher> <address> San Mateo, CA 1989. </address>
+
+References-found: 18
+

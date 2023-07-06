@@ -1,0 +1,17 @@
+URL: http://www.cs.princeton.edu/~ristad/papers/isit98b.ps.gz
+Refering-URL: http://www.cs.princeton.edu/~ristad/papers/isit98b.html
+Root-URL: http://www.cs.princeton.edu
+Email: ristad@mnemonic.com  pny@research.nj.nec.com  
+Title: Towards EM-style Algorithms for Posterior Optimization of Normal Mixtures  
+Author: Eric Sven Ristad Peter N. Yianilos 
+Date: August 16 August 21  
+Address: 1998, Cambridge, MA, USA,  Princeton, NJ 08540 USA  Princeton, NJ 08540 USA  
+Affiliation: ISIT  Mnemonic Technology, Inc.  NEC Research Institute  
+Abstract: Expectation maximization (EM) provides a simple and elegant approach to the problem of optimizing the parameters of a normal mixture on an unlabeled dataset. To accomplish this, EM iteratively reweights the elements of the dataset until a locally optimal normal mixture is obtained. This paper explores the intriguing question of whether such an EM-style algorithm exists for the related and apparently more difficult problem of finding a normal mixture that maximizes the posterior class probabilities of a labeled dataset. We expose a fundamental degeneracy in the relationship between a normal mixture and the a posteriori class probability functions that it induces, and use this degeneracy to prove that reweighting a dataset can almost always give rise to a normal mixture exhibiting any desired class function behavior. This establishes that EM-style approaches are sufficiently expressive for posterior optimization problems and opens the way to the design of new algorithms for them. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> L. E. Baum and J. E. Eagon, </author> <title> An inequality with application to statistical estimation for probabalistic functions of a Markov process and to models for ecology, </title> <journal> Bull. AMS, </journal> <volume> 73 (1967), </volume> <pages> pp. 360-363. </pages>
+Reference: [2] <author> A. P. Dempster, N. M. Laird, and D. B. Ru-bin, </author> <title> Maximum-likelihood from incomplete data via the EM algorithm, </title> <journal> J. Royal Statistical Society Ser. B (methodological), </journal> <volume> 39 (1977), </volume> <pages> pp. 1-38. </pages>
+Reference: [3] <author> R. O. Duda and P. E. Hart, </author> <title> Pattern Classification and Scene Analysis, </title> <publisher> John Wiley & Sons, Inc., </publisher> <year> 1973. </year>
+References-found: 3
+

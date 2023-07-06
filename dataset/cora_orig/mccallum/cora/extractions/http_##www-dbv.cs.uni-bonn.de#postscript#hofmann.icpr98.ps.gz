@@ -1,0 +1,14 @@
+URL: http://www-dbv.cs.uni-bonn.de/postscript/hofmann.icpr98.ps.gz
+Refering-URL: 
+Root-URL: 
+Email: hofmann@ai.mit.edu  jan@cs.uni-bonn.de  
+Phone: 2  
+Title: Mixture Models for Co-occurrence and Histogram Data  
+Author: Thomas Hofmann and Jan Puzicha 
+Address: Cambridge, MA 02139,  Bonn, D-53177 Bonn, Germany,  
+Affiliation: 1 Artificial Intelligence Laboratory, M.I.T.,  Institut fur Informatik III, University of  
+Abstract: Modeling and predicting co-occurrences of events is a fundamental problem of unsupervised learning. In this contribution, we develop a general statistical framework for analyzing co-occurrence data based on probabilistic clustering by mixture models. More specifically, we discuss three models which pursue different modeling goals and which differ in the way they define the probabilistic partitioning of the observations. Adopting the maximum likelihood principle, annealed EM algorithms are derived for parameter estimation. From the class of potential applications in pattern recognition and data analysis, we have chosen document retrieval, language modeling, and unsupervised texture segmentation to test and evaluate the proposed algorithms. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

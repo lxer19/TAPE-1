@@ -1,0 +1,23 @@
+URL: http://www.cs.ucdavis.edu/~blackj/ps/pp.ps.gz
+Refering-URL: http://www.cs.ucdavis.edu/~blackj/hw.html
+Root-URL: http://www.cs.ucdavis.edu
+Title: Planar Graphical Degree Sequences  
+Author: John R. Black 
+Date: Spring 1996  12 June 1996  
+Note: ECS 225: Introduction to Graph Theory  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> L. A. Goldberg, </author> <title> Efficient algorithms for listing unlabeled graphs, </title> <journal> Journal of Algorithms, </journal> <month> 13 </month> <year> (1992) </year> <month> 128-143. </month>
+Reference-contexts: for some simple graph G, the number of isomorphism classes is given by Oberschelp's formula: jU (n)j = 2 ) [1 + O (n 2 =2 n )] So the number of isomorphism classes grows very fast as n increases; furthermore, it's a very difficult problem to determine these classes <ref> [1] </ref>. But the number of isomorphism classes for maximal planar graphs should be far less, although I know of neither a formula for the number of them nor a method for generating them.
+Reference: [2] <author> B. Grunbaum and T. Motzkin, </author> <title> The number of hexagons and the simplicity of geodesics on certain polyhedra, </title> <journal> Canad. J. Math., </journal> <month> 15 </month> <year> (1963) </year> <month> 744-751. </month>
+Reference-contexts: There seems to be no obvious correlation between degree sequences which are planar graphical and those which are not. For example, 6 p4 3 4 is planar graphical iff p 8 and p is even <ref> [2] </ref>. Some believe there is not likely to exist a "pure" characterization of planar graphical degree sequences; but perhaps an algorithm-based characterization exists. I intend to spend some time this Summer investigating this further.
+Reference: [3] <author> S. L. Hakimi, </author> <title> On realizability of a set of integers as degrees of a linear graph, II, </title> <journal> SIAM J. Appl. Math. </journal> <volume> 11 (1963), </volume> <pages> 135-147. </pages>
+Reference-contexts: L. Hakimi in 1963 <ref> [3] </ref>. A simple necessary condition for a degree sequence to be planar graphical is as follows: if is planar graphical then n X d i 6 (n 2) (1) This result follows easily from Euler's formula for planar graphs.
+Reference: [4] <author> A. Hawkins, A. Hill, J. Reeve, and J. Tyrell, </author> <title> On certain polyhedra, </title> <journal> Math. Gaz., </journal> <volume> 50 (1966), </volume> <pages> 140-144. </pages>
+Reference-contexts: Owens went on to characterize all regular planar graphical degree sequences. 1 If a degree sequence satisfies (1) we term an Euler sequence. Hawkins, Hill, Reeve and Tyrell <ref> [4] </ref> have determined completely which regular Euler sequences are planar graphical. They proved the following: every regular, graphical, Euler sequence is planar graphical except for 4 7 and 5 14 . The sequence is a k-sequence if d 1 d n = k.
+Reference: [5] <author> A. B. Owens, </author> <title> On the planarity of regular incidence sequences, </title> <journal> Journal of Comb. Theory 11 (1971), </journal> <pages> 201-212. </pages>
+Reference-contexts: Hakimi asked if this condition might also be sufficient; this question was answered in the negative by Owens in 1971 <ref> [5] </ref> when he showed that 4 7 is not planar graphical (here we use the notation d n to mean the degree sequence composed of the integer d repeated n times).
+Reference: [6] <author> E. F. Schmeichel and S. L. Hakimi, </author> <title> On planar graphical degree sequences, </title> <journal> SIAM J. Appl. Math. </journal> <volume> 32 (1977), </volume> <pages> 598-609. 4 </pages>
+Reference-contexts: They proved the following: every regular, graphical, Euler sequence is planar graphical except for 4 7 and 5 14 . The sequence is a k-sequence if d 1 d n = k. In 1977, Schmeichel and Hakimi <ref> [6] </ref> determined completely which 1-sequences are planar graphical, and further determined (with a few unresolved cases) which 2-sequences are planar graphical. As of 1996, there is still no full characterization. 2 Discussion 2.1 Overview I investigated this problem for few days.
+References-found: 6
+

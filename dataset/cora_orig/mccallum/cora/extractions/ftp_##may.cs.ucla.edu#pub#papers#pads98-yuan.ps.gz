@@ -1,0 +1,29 @@
+URL: ftp://may.cs.ucla.edu/pub/papers/pads98-yuan.ps.gz
+Refering-URL: http://may.cs.ucla.edu/papers/
+Root-URL: http://www.cs.ucla.edu
+Title: An evaluation of the Chandy-Misra-Bryant algorithm for digital logic simulation.  a logic-level timing simulator.  
+Author: [] Larry Soule and Anoop Gupta. [] Christopher J. Terman. Rsim 
+Date: January 1992.  437-440, October  
+Address: Newport Beach, CA,  
+Note: In Proceedings of the 6th Workshop on Parallel and Distributed Simulation, SCS, pages 129-138,  In Proceedings of the IEEE Intl. Conf. on Computer-Aided Design, pages  1983.  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> Yu an Chen, Vikas Jha, and Rajive Bagrodia. </author> <title> A multidimensional study on the feasibility of parallel switch-level circuit simulation. </title> <booktitle> In Proceedings of the 11th Workshop on Parallel and Distributed Simulations (PADS97), </booktitle> <address> Lockenhaus, Austria, </address> <month> June </month> <year> 1997. </year>
+Reference: [2] <author> Jeffrey M. Arnold. </author> <title> Parallel simulation of digital circuits. </title> <institution> MIT/LCS/TR-333, Computer Science Department, MIT, </institution> <address> Cambridge, MA, </address> <month> February </month> <year> 1985. </year>
+Reference: [3] <author> R. Bagrodia and Wen toh Liao. Maisie: </author> <title> A language for design of efficient discrete-event simulations. </title> <journal> IEEE Transactions on Software Engineering, </journal> <month> April </month> <year> 1994. </year>
+Reference: [4] <author> Rajive Bagrodia, Richard Meyer, Brian Park, Ha Yoon Song, Yu an Chen, Xiang Zeng, Jay Martin, and Mineo Takai. </author> <title> PARSEC: A parallel simulation environment for complex systems. </title> <note> to be appear in IEEE Computer. </note>
+Reference: [5] <author> Mary L. Bailey, Jr. Jack V. Briner, and Roger D. Chamberlain. </author> <title> Parallel logic simulation of VLSI systems. </title> <journal> ACM Computing Surveys, </journal> <volume> 26(3) </volume> <pages> 255-294, </pages> <month> September </month> <year> 1994. </year>
+Reference: [6] <author> K.M. Chandy and R. Sherman. </author> <title> The conditional event approach to distributed simulation. </title> <booktitle> In Distributed Simulation Conference, </booktitle> <address> Miami, </address> <year> 1989. </year>
+Reference: [7] <author> Jason Cong, Zheng Li, and Rajive Bagrodia. </author> <title> Acyclic multi-way partitioning of boolean networks. </title> <booktitle> In Proceedings of ACM/IEEE Design Automation Conference, </booktitle> <year> 1994. </year>
+Reference: [8] <author> Samir Das, Richard Fujimoto, Kiran Panesar, Don Allision, and Ingrid Hybinette. GTW: </author> <title> A time warp system for shared memory multiprocessors. </title> <booktitle> In 1994 Winter Simulation Conference, </booktitle> <address> Washington D.C., </address> <month> December </month> <year> 1994. </year>
+Reference: [9] <author> C. Fiduccia and R. Mattheyses. </author> <title> A linear time heuristic for improving network partitions. </title> <booktitle> In Proceedings of the ACM/IEEE Design Automation Conference, </booktitle> <pages> pages 175-181, </pages> <year> 1982. </year>
+Reference: [10] <author> Jack Vedder Briner, Jr. </author> <title> Parallel Mixed-Level Simulation of Digital Circuits Using Virtual Time. </title> <type> Ph.d. thesis, </type> <institution> Duke University, </institution> <month> August </month> <year> 1990. </year>
+Reference: [11] <author> V. Jha and R. Bagrodia. </author> <title> A performance evaluation methodology for parallel simulation protocols. </title> <booktitle> In Proceedings of the 10th Workshop on Parallel and Distributed Simulations, </booktitle> <pages> pages 180-183, </pages> <month> May </month> <year> 1994. </year>
+Reference: [12] <author> Vikas Jha and Rajive Bagrodia. </author> <title> Transparent implementation of conservative algorithms in parallel simulation languages. </title> <booktitle> In Proceedings of the 1993 Winter Simulation Conference, </booktitle> <pages> pages 677-686, </pages> <month> December </month> <year> 1993. </year>
+Reference: [13] <author> Jorg Keller, Thomas Rauber, and Bernd Reder-lechner. </author> <title> Conservative circuit simulation on shared-memory multiprocessors. </title> <booktitle> In Proceedings of the 10th Workshop on Parallel and Distributed Simulations (PADS96), </booktitle> <address> Philadelphia, USA, </address> <month> May </month> <year> 1996. </year>
+Reference: [14] <author> Stig Kofoed. </author> <title> Portable multitasking in c. </title> <journal> Dr. Dobb's Journal, </journal> <month> December </month> <year> 1995. </year>
+Reference: [15] <author> Peter A. MacKenzie and Carl Tropper. </author> <title> Parallel simulation of billiard balls using shared variables. </title> <booktitle> In Proceedings of the 10th Workshop on Parallel and Distributed Simulations (PADS96), </booktitle> <address> Philadelphia, USA, </address> <month> May </month> <year> 1996. </year>
+Reference: [16] <author> J. Misra. </author> <title> Distributed discrete-event simulation. </title> <journal> ACM Computing Surveys, </journal> <volume> 18(1) </volume> <pages> 39-65, </pages> <month> March </month> <year> 1986. </year>
+
+References-found: 16
+

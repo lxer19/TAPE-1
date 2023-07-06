@@ -1,0 +1,18 @@
+URL: http://www.cs.brown.edu/people/ldp/papers/Trigram.ps.Z
+Refering-URL: http://www.cs.brown.edu/people/ldp/papers/paper.html
+Root-URL: http://www.cs.brown.edu/
+Title: Trigram Model for the 1987 Wall Street Journal  
+Author: Sonia M. Leach, Luis Ortiz and Leonid Peshkin 
+Date: December 13, 1995  
+Abstract-found: 0
+Intro-found: 1
+Reference: [BDPDP + 91] <author> P.F. Brown, S.A. Della Pietra, V.J. Della Pietra, J.C Lai, and R.L. Mercer. </author> <title> An estimate of an upper bound for the entropy of English. </title> <booktitle> In Computational Linguistics, </booktitle> <volume> volume 181, </volume> <year> 1991. </year>
+Reference-contexts: The following sections describe, respectively, how to calculate the probabilities for unknown words and known words, and how to calculate the cross entropy of the model. 5.3.1 Handling Unknown Words Following the approach of Brown et. al <ref> [BDPDP + 91] </ref>, we estimate the probability of an unknown word that occurs during the testing phase (i.e. a word that has not appeared in the training corpus) by calculating 19 the Poisson distribution over the length of the word, given the average word length A of the training corpus.
+Reference: [Cha93] <author> E. Charniak. </author> <title> Statistical Language Learning. </title> <publisher> MIT Press, </publisher> <address> Cambridge, Massachusetts, </address> <year> 1993. </year>
+Reference-contexts: Section 4 details how to run the program on the Wall Street Journal text. Lastly, Section 5 gives an overview of the method of implementation, which involves training the model, smoothing the probabilities, and testing the model. 2 The Trigram Model The trigram model of English <ref> [Cha93] </ref> assumes that only the previous two words have an effect on the probability of the next word.
+Reference: [CLR92] <author> T.H. Cormen, C.E. Leiserson, and R.L. Rivest. </author> <title> Introduction to Algorithms, chapter 12. </title> <publisher> MIT Press, </publisher> <year> 1992. </year>
+Reference-contexts: The hash function used to generate the keys to address the table is very similar to hash functions used by compilers for literal tables. The hash function used was the following <ref> [CLR92] </ref>: h (s) = h r ff = 65599 where s i is the i-th character of the current string token, r is the length of that string token, and m is the size of the hash table.
+Reference: [Sun93] <author> SunPro. </author> <title> SPARCompiler C++4.0 Tools.h++ Class Library : Introduction and Reference Manual. </title> <note> Online Refence Material, 1993. Available via Answerbook. 21 </note>
+Reference-contexts: The number of &lt; key; value &gt; pairs stored in the tree node is 20. The B-Tree is stored in the file given in the command line argument [bi-tri-counts-file]. More information about these library tools can be found in the directory /auto/spro301/SC3.0.1/READMEs/Tools.h++ and documentation is available in <ref> [Sun93] </ref>. 5.2 Training the s (TTL) Recall from Section 2 that the probability of a trigram P (w n jw n2 ; w n1 ) is smoothed by interpolation as follows.
+References-found: 4
+

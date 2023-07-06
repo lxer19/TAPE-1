@@ -1,0 +1,24 @@
+URL: ftp://ftp.cs.cmu.edu/project/mach/doc/published/defaultmm.ps
+Refering-URL: http://c.gp.cs.cmu.edu:5103/afs/cs/project/mach/public/www/doc/publications.html
+Root-URL: 
+Email: Internet: dbg@cs.cmu.edu, rpd@cs.cmu.edu  
+Phone: (412) 268-7667  
+Title: Moving the Default Memory Manager out of the Mach Kernel  
+Author: David B. Golub Richard P. Draves 
+Address: 5000 Forbes Avenue Pittsburgh, Pennsylvania 15213  
+Affiliation: School of Computer Science Carnegie Mellon University  
+Abstract: 1. Abstract 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> L. A. Belady, R. P. Parmelee, and C. A. Scalzi. </author> <title> The IBM History of Memory Management Technology. </title> <journal> IBM Journal of Research and Development 25(5) </journal> <pages> 491-503, </pages> <month> September, </month> <year> 1981. </year>
+Reference-contexts: These constraints have kept the temporary memory manager intimately tied to the kernel in most operating systems, including earlier versions of Mach. Operating systems have traditionally provided a variety of memory management services implemented within the operating system kernel. <ref> [1] </ref> [5] They include: Allocating temporary memory for user programs and system services. Mapping executable files and data files into a task's address space. Mapping IO devices such as graphics buffers. Sharing files or temporary memory between tasks.
+Reference: [2] <author> David L. Black. </author> <title> Mach Interface Proposals - Priorities, </title> <journal> Handoff, </journal> <note> Wiring. Internal Mach Project Memo - 13 August 1989. </note>
+Reference-contexts: These operations were replaced with equivalent user-mode routines, or were added to the kernel interface where missing. 5.1. Kernel Interface Extensions The kernel interface has been extended with two calls originally proposed <ref> [2] </ref> for supporting real-time Mach: kern_return_t vm_wire ( priv_host_t host_port, task_t task, vm_address_t start, vm_size_t size, vm_prot_t access) Locks ("wires") the specified range of virtual addresses for the task into memory. Accesses denoted by access cannot fault.
+Reference: [3] <author> Eric C. Cooper and Richard P. Draves. </author> <title> C Threads. </title> <type> Technical Report, </type> <institution> Department of Computer Science, Carnegie Mellon University, </institution> <month> July, </month> <year> 1987. </year>
+Reference-contexts: The paging file must, therefore, be pre-allocated with all of the blocks needed for paging. 5.3. Synchronization and Locking The default memory manager uses the CThreads package <ref> [3] </ref> to provide locking and synchronization between different threads. The CThreads package provides two synchronization primitives: mutual exclusion locks, for controlling exclusive access to data structures, and condition variables, used by multiple threads to wait for events and signal them.
+Reference: [4] <author> Alessandro Forin, David Golub, and Brian Bershad. </author> <title> An I/O System for Mach 3.0. </title> <booktitle> In Proceedings of the Second Mach Symposium. The UseNIX Association, </booktitle> <month> November, </month> <year> 1991. </year>
+Reference: [5] <author> E. L. Organick. </author> <title> The Multics System: An Examination of its Structure. </title> <publisher> MIT Press, </publisher> <address> Cambridge, Mass., </address> <year> 1972. </year>
+Reference-contexts: These constraints have kept the temporary memory manager intimately tied to the kernel in most operating systems, including earlier versions of Mach. Operating systems have traditionally provided a variety of memory management services implemented within the operating system kernel. [1] <ref> [5] </ref> They include: Allocating temporary memory for user programs and system services. Mapping executable files and data files into a task's address space. Mapping IO devices such as graphics buffers. Sharing files or temporary memory between tasks.
+
+References-found: 5
+

@@ -1,0 +1,12 @@
+URL: ftp://ftp.aic.nrl.navy.mil/pub/schultz/papers/gina.ps.gz
+Refering-URL: http://www.ai.univie.ac.at/~juffi/lig/lig-bib.html
+Root-URL: 
+Title: Using Experience-Based Learning in Game Playing  
+Author: Kenneth A. De Jong dejong@nrl-aic.arpa Alan C. Schultz schultz@nrl-aic.arpa 
+Address: ton, DC 20375-5000 U.S.A. and  Fairfax, VA 22030 U.S.A.  
+Affiliation: Navy Center For Applied Research In Artificial Intelligence, Naval Research Laboratory, Washing  Department of Computer Science, George Mason University,  
+Abstract: This paper describes some initial experimental results in the use and limits of applying experience-based learning techniques to the area of game playing. A system (GINA) has been developed that uses experience-based learning to improve its own base performance level for the game of Othello. A variety of traditional (non-learning) Othello game playing programs have been collected to provide a rich source of ``experiences'' for GINA. An initial set of experiments has been designed and run in an attempt to understand better the strengths and weaknesses of experience-based learning from the point of view of skill refinement (taking less time to perform at a given level of play) and from the point of view of skill enhancement (higher quality play). Preliminary results suggest that in this context experienced-based learning can be a highly effective means for improving both the speed and quality of play without having to accumulate experience bases of intolerable size. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

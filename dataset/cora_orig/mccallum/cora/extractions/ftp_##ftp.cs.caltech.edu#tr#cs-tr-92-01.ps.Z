@@ -1,0 +1,24 @@
+URL: ftp://ftp.cs.caltech.edu/tr/cs-tr-92-01.ps.Z
+Refering-URL: ftp://ftp.cs.caltech.edu/tr/INDEX.html
+Root-URL: http://www.cs.caltech.edu
+Title: [Tak89] Akikazu Takeuchi. How to solve it in Concurrent Prolog. Unpub- lished note., 1989. Enea.
+Author: [TE] L. Tesler and H. Michael D. Tiemann. Andrew A. Chien Waldemar Horwat and William J. Dally. tation, . 
+Date: 46  
+Note: Proceedings of AFIPS SJCC, number ANL-91/38, 1968. [Tie91]  Foundation, Inc., oct 1991. [Ued86] Kazunori Ueda. Guarded horn clauses. In Logic Programming '85, pages 168-179. Springer-Verlag, 1986. [WHD89]  
+Abstract-found: 0
+Intro-found: 1
+Reference: [Ack82] <author> William B. Ackerman. </author> <title> Data flow languages. </title> <journal> Computer, </journal> <volume> 15(2) </volume> <pages> 15-25, </pages> <month> feb </month> <year> 1982. </year>
+Reference: [Agh86] <author> Gul Agha. </author> <title> ACTORS: A Model of Concurrent Computation in Distributed Systems. </title> <publisher> MIT Press, </publisher> <year> 1986. </year>
+Reference: [AS88] <author> William C. Athas and C.L. Seitz. </author> <title> Multicomputers: Message-passing concurrent computers. </title> <booktitle> IEEE Computer, </booktitle> <month> aug </month> <year> 1988. </year>
+Reference: [AT80] <author> Arvind and R.E. Thomas. I-Structures: </author> <title> An efficient data structure for functional languages. </title> <type> Technical Report TM-178, </type> <institution> MIT, </institution> <year> 1980. </year>
+Reference: [BLL88] <author> Brian Bershad, Edward Lazowska, and Henry Levy. </author> <title> Presto: A system of object-oriented parallel programming. </title> <journal> Software: Practice and Experience, </journal> <volume> 18(8) </volume> <pages> 713-732, </pages> <month> aug </month> <year> 1988. </year>
+Reference: [CM88] <author> K. Mani Chandy and Jayadev Misra. </author> <title> Parallel Program Design. </title> <publisher> Addison-Wesley, </publisher> <year> 1988. </year>
+Reference: [CT91] <author> K. Mani Chandy and Stephen Taylor. </author> <title> An Introduction to Parallel Programming. </title> <editor> Bartlett and Jones, </editor> <year> 1991. </year>
+Reference: [Fos91] <author> Ian Foster. </author> <title> Program transformation notation: A tutorial. </title> <type> Technical Report ANL-91/38, </type> <institution> Argonne National Laboratory, </institution> <year> 1991. </year>
+Reference: [Fos92] <author> Ian Foster. </author> <title> Information hiding in parallel programs. </title> <type> Technical Report MCS-P290-0292, </type> <institution> Argonne National Laboratory, </institution> <year> 1992. </year>
+Reference: [FT89] <author> Ian Foster and Stephen Taylor. STRAND: </author> <title> New Concepts in Parallel Programming. </title> <publisher> Prentice Hall, </publisher> <year> 1989. </year>
+Reference: [FT90] <author> Ian Foster and Stephen Taylor. Strand: </author> <title> New Concepts in Parallel Programming. </title> <publisher> Prentice Hall, </publisher> <year> 1990. </year>
+Reference: [FT92] <author> Ian Foster and Steve Tuecke. </author> <title> Parallel programming with PCN. </title> <type> Technical Report ANL-91/32, </type> <institution> Argonne National Laboratory, </institution> <year> 1992. </year>
+
+References-found: 12
+

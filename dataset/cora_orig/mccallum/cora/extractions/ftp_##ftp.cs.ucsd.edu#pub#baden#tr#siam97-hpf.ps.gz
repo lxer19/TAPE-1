@@ -1,0 +1,16 @@
+URL: ftp://ftp.cs.ucsd.edu/pub/baden/tr/siam97-hpf.ps.gz
+Refering-URL: http://www.cs.ucsd.edu/~sfink/pub.html
+Root-URL: http://www.cs.ucsd.edu
+Title: A Preliminary Evaluation of HPF  
+Author: Scott B. Baden Robert S. Schreiber Kang Su Gatlin Stephen J. Fink 
+Abstract: HPF is a data parallel Fortran dialect currently implemented on diverse hardware platforms ranging from workstations to massively parallel processors. To date, performance data are sparse. We will present preliminary measurements of selected benchmarks, comparing HPF applications against equivalent SPMD implementations and the same HPF implementation running with different compilers on different hardware. We will discuss software issues in light of how they affect performance. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> W. L. Briggs, </author> <title> Multigrid Tutorial, </title> <publisher> SIAM, </publisher> <address> Philadelphia, </address> <year> 1987. </year>
+Reference-contexts: For example, we may employ the 7-point variant of point Jacobi as a `worst-case' stencil-based computation; it has a high surface to volume ratio on a distributed memory multicomputer compared with other finite difference solvers. Also, red-black Gauss-Seidel is employed as a building block in multigrid methods <ref> [1] </ref>, which are an effective way of solving an elliptic PDE. This leads us to why we didn't test multigrid: the xlhpf compiler we used would not correctly handle assumed shaped array arguments.
+Reference: [2] <author> S. J. Fink, S. R. Kohn, and S. B. Baden, </author> <title> Flexible communication mechanisms for dynamic structured applications, in IRREGULAR '96, </title> <address> Santa Barbara, California, </address> <month> August </month> <year> 1996. </year>
+Reference-contexts: For multidimensional distributions we give the number of processors across each axis, with a * indicating that the axis is serial. To implement equivalent hand-coded versions of PJ and RB, we employed the KeLP system 1 <ref> [2] </ref>. KeLP is a C++ run time library built on MPI with support for run time data decomposition and data motion. We used one of KeLP 's application libraries, called DOCK, which supports a run-time analog of HPFs 3-step decomposition process, complete with run-time processor array and decomposition objects.
+Reference: [3] <author> High Performance Fortran Forum, </author> <title> High Performance Fortran Language Specification, </title> <institution> Rice University, Houston, Texas, </institution> <month> November </month> <year> 1994. </year>
+Reference-contexts: 1 Introduction High Performance Fortran (HPF) <ref> [3] </ref> is a data parallel Fortran dialect designed by the High Performance Fortran Forum (HPFF), a volunteer group of representatives from industry and academia. HPF is currently implemented by several commercial vendors and runs on a variety of platforms ranging from workstations to massively parallel processors.
+References-found: 3
+

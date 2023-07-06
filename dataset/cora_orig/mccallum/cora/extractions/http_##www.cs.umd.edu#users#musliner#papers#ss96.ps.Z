@@ -1,0 +1,18 @@
+URL: http://www.cs.umd.edu/users/musliner/papers/ss96.ps.Z
+Refering-URL: http://www.cs.umd.edu/users/musliner/
+Root-URL: 
+Email: fmusliner,krebsbacg@src.honeywell.com  
+Title: Planning with Incomplete Information for Robot Problems  Planning for Murphy's Law: Uncertainty in CIRCA  
+Author: David J. Musliner Kurt D. Krebsbach 
+Address: 3660 Technology Drive Minneapolis, MN 55418  
+Affiliation: Automated Reasoning Group Honeywell Technology Center  
+Note: Appears in Working Notes of AAAI Spring Symposium on  Stanford, CA, March 1996, pp. 71-73  
+Abstract:  
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> K. D. Krebsbach, </author> <title> Rational Sensing for an AI Planner: A Cost-Based Approach, </title> <type> PhD thesis, </type> <institution> University of Minnesota, </institution> <year> 1993. </year>
+Reference-contexts: Interleaving planning and execution so that sensory data can be collected as planning proceeds is one potential solution to this problem. This approach has been demonstrated in domains where uncertainty in initial conditions and sensor data precludes the immediate achievement of goals <ref> [1] </ref>. CIRCA can implement this method using feedback messages from the RTS to the AIS, passing sensor data acquired at runtime to the planner to affect the generation of future reactive plans.
+Reference: [2] <author> D. J. Musliner, E. H. Durfee, and K. G. Shin, </author> <title> "World Modeling for the Dynamic Construction of Real-Time Control Plans," </title> <journal> Artificial Intelligence, </journal> <volume> vol. 74, no. 1, </volume> <pages> pp. 83-127, </pages> <month> March </month> <year> 1995. </year>
+Reference-contexts: The world model and planning algorithm that the AIS uses to develop reaction plans are detailed in <ref> [2] </ref>. For our purposes, it is sufficient to understand that the model is a modified state/transition graph in which states correspond to complete descriptions of the world, and three types of transitions represent the ways the world can change. Temporal transitions represent time and ongoing processes.
+References-found: 2
+

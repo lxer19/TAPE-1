@@ -1,0 +1,17 @@
+URL: ftp://ftp.cs.washington.edu/tr/1996/01/UW-CSE-96-01-10.PS.Z
+Refering-URL: http://www.cs.washington.edu/research/tr/tr-by-title.html
+Root-URL: 
+Email: ftracyk,karling@cs.washington.edu  
+Title: Near-optimal parallel prefetching and caching new algorithm, reverse aggressive, with near-optimal performance for integrated prefetching
+Author: Tracy Kimbrel Anna R. Karlin 
+Note: a  
+Address: Seattle, Washington  
+Affiliation: Department of Computer Science and Engineering University of Washington  
+Abstract: and caching data from parallel disks, as a technique for enabling serial applications to improve I/O performance. [16, 30, 32, 41, 51, 42]. We consider algorithms for integrated prefetching and caching in a model with a fixed-size cache and any number of backing storage devices (which we will call disks). The integration of caching and prefetching with a single disk was previously considered by Cao et al. [8]. We show that the natural extension of their aggressive algorithm to the parallel disk case is suboptimal by a factor of (nearly) the number of disks in the worst case. Our main result is 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Pei Cao, </author> <title> Ed Felten and Kai Li introduced us to this problem, helped us to formalize the model and collab Page 8 orated with us on the empirical evaluation. </title> <note> Their con- tribution to this work has been enormous. </note>
+
+
+References-found: 1
+

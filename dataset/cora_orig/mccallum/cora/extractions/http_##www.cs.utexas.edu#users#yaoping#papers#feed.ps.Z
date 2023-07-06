@@ -1,0 +1,17 @@
+URL: http://www.cs.utexas.edu/users/yaoping/papers/feed.ps.Z
+Refering-URL: http://www.cs.utexas.edu/users/yaoping/ypub.html
+Root-URL: 
+Title: A Graph Theoretic Approach to Feed-Through Pin Assignment  
+Author: Yao-Ping Chen and D. F. Wong 
+Address: Austin, Texas 78712  
+Affiliation: Department of Computer Sciences University of Texas at Austin  
+Abstract: We study in this paper the feed-through pin assignment problem for cell based design that assigns global nets to feed-through cells or implicit feed-through ports. On a single row, for a restricted permutation of global nets, we develop a graph theoretic approach for optimally minimizing the density of the channel above (below) the row subject to the bound on the density of the channel below (above) the row. Based on this technique, an approach for iteratively improving multiple row feed-through pin assignment can be developed. We show that our approach is also aplicable to the design style in which there is an over-the-cell feed-through layer. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> G. Meixner and U. Lauther, </author> <title> "A new global router based on a flow model and linear assignment," </title> <booktitle> Proc. of IC-CAD'90, </booktitle> <pages> pp. 4-47, </pages> <year> 1990. </year>
+Reference: [2] <author> X.L.Hong, J.Huang, C.K.Cheng and E.S.Kuh, </author> <title> "FARM: An efficient feed-through pin assignment algorithm," </title> <booktitle> Proc. of 29th DAC, </booktitle> <pages> pp. 530-535, </pages> <year> 1992. </year>
+Reference: [3] <author> T. Okamoto, M. Ishikawa, and T. Fujita, </author> <title> "A new feed-through assignment algorithm based on a flow model," </title> <booktitle> Proc. of ICCAD'93, </booktitle> <pages> pp. 775-778, </pages> <year> 1993. </year>
+Reference: [4] <author> Y. Cai and D.F. Wong, </author> <title> "Optimal channel pin assignment," </title> <journal> IEEE Tran. on Computer-Aided Design, </journal> <volume> vol. 10, no. 11, </volume> <pages> pp. 1413-1424, </pages> <month> November, </month> <year> 1991. </year>
+Reference: [5] <author> T.H. Cormen, C.E. Leiserson, and R.L. Rivest, </author> <title> Introduction to Algorithms, </title> <publisher> The MIT Press, </publisher> <year> 1991. </year>
+References-found: 5
+

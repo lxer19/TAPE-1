@@ -1,0 +1,16 @@
+URL: ftp://ftp.cs.man.ac.uk/pub/robotics/spie.ps.Z
+Refering-URL: http://www.cs.man.ac.uk/robotics/lopapers.html
+Root-URL: 
+Email: unehmzow@cs.man.ac.uk  
+Author: Ulrich Nehmzow 
+Address: Manchester M13 9PL United Kingdom  
+Affiliation: Department of Computer Science Manchester University  The Manchester Remote Mobile Robotics Laboratory  
+Abstract: Remote access to robotics facilites allows robotics research to be conducted even if resources are not available locally. To investigate the feasibility of robotics experimentation via internet, we have conducted two independent experiments in which the Manchester mobile robot FortyTwo has been operated from a remote site,using a standard internet connection. In the first experiment ("Channellink") experimenters at Bremen University explored and mapped the robotics laboratory at Manchester, in a second experiment ("At-lanticlink") the Manchester robot was controlled from Pittsburgh and performed exploration, mapping and object manipulation tasks.
+Abstract-found: 1
+Intro-found: 1
+Reference: [Nehmzow 92] <author> U. Nehmzow, </author> <title> Experiments in Competence Acquisition for Au tonomous Mobile Robots, </title> <type> PhD thesis, </type> <institution> University of Edinburgh 1992. </institution>
+Reference: [Nehmzow & McGonigle 94] <author> Ulrich Nehmzow & Brendan McGonigle, </author> <title> Achieving Rapid Adaptations in Robots by Means of External Tuition, </title> <editor> in D. Cliff, P. Husbands, J.A. Meyer and S. Wilson (eds.), </editor> <booktitle> From Animals to Animats 3, </booktitle> <publisher> MIT Press 1994. </publisher>
+Reference: [Martin & Nehmzow 95] <author> P. Martin and U. Nehmzow, </author> <title> "Programming" by teach ing: neural network control in the Manchester mobile robot, </title> <booktitle> Conf. Intelligent Autonomous Vehicles IAV 95. </booktitle>
+Reference: [Oreskes et al. 94] <author> N. Oreskes, K. Shrader-Frechette and K. Belitz, </author> <title> Verification, Validation, and Confirmation of Numerical models in the Earth Sciences, </title> <journal> Science, </journal> <volume> Vol 263, </volume> <month> 4 Feb </month> <year> 1994, </year> <pages> pp. 641-646. 3 4 </pages>
+References-found: 4
+

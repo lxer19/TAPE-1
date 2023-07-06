@@ -1,0 +1,25 @@
+URL: ftp://prospero.isi.edu/pub/papers/prospero/prospero-bii.ps.Z
+Refering-URL: http://www.isi.edu/isi-technical-reports.html
+Root-URL: http://www.isi.edu
+Title: Prospero: A Base for Building Information Infrastructure  
+Author: B. Clifford Neuman Steven Seger Augart 
+Affiliation: Information Sciences Institute University of Southern California  
+Note: Prospero Proc. INET '93 Neuman Augart  
+Abstract: The recent introduction of new network information services has brought with it the need for an information architecture to integrate information from diverse sources. This paper describes how Prospero provides a framework within which such services can be interconnected. The functions of several existing information storage and retrieval tools are described and we show how they fit the framework. Prospero has been used since 1991 by the archie service and work is underway to develop application interfaces similar to those provided by other popular information tools. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Tim Berners-Lee, Robert Cailliau, Jean-Francois Groff, and Bernd Pollermann. </author> <title> World-wide web: The information universe. </title> <journal> Electronic Networking: Research, Applications and Policy, </journal> <volume> 2(1), </volume> <month> Spring </month> <year> 1992. </year> <note> DGC-5 Prospero Proc. INET '93 Neuman & Augart </note>
+Reference: [2] <author> Alan Emtage and Peter Deutsch. archie: </author> <title> An electronic directory service for the Internet. </title> <booktitle> In Proceedings of the Winter 1992 Usenix Conference, </booktitle> <pages> pages 93-110, </pages> <month> January </month> <year> 1992. </year>
+Reference: [3] <author> Darren R. Hardy. </author> <title> Scalable internet resource discovery among diverse information. </title> <type> Technical Report CU-CS-650-93, </type> <institution> Department of Computer Science, University of Colorado, Boulder, </institution> <month> April </month> <year> 1993. </year> <title> M.S. </title> <type> Thesis. </type>
+Reference: [4] <author> John H. Howard, Michael L. Kazar, Sherri G. Menees, David A. Nichols, M. Satyanarayanan, Robert N. Sidebotham, and Michael J. West. </author> <title> Scale and performance in a distributed file system. </title> <journal> ACM Transactions on Computer Systems, </journal> <volume> 6(1) </volume> <pages> 51-81, </pages> <month> February </month> <year> 1988. </year>
+Reference: [5] <author> Brewster Kahle and Art Medlar. </author> <title> An information system for corporate users: Wide area information systems. </title> <type> Technical Report TMC-199, </type> <institution> Thinking Machines Corporation, </institution> <month> April </month> <year> 1991. </year>
+Reference: [6] <author> Robert E. Kahn and Vinton G. Cerf. </author> <title> The Digital Library Project; Volume 1: The world of Knowbots (draft). </title> <institution> Corporation for National Research Initiatives, </institution> <year> 1988. </year>
+Reference: [7] <author> Mark McCahill. </author> <title> The Internet gopher: A distributed server information system. </title> <journal> ConneXions The Interoperability Report, </journal> <volume> 6(7) </volume> <pages> 10-14, </pages> <month> July </month> <year> 1992. </year>
+Reference: [8] <author> B. Clifford Neuman. Prospero: </author> <title> A tool for organizing Internet resources. </title> <journal> Electronic Networking: Research, Applications and Policy, </journal> <volume> 2(1) </volume> <pages> 30-37, </pages> <month> Spring </month> <year> 1992. </year>
+Reference: [9] <author> B. Clifford Neuman. </author> <title> The Prospero File System: A global file system based on the Virtual System Model. </title> <journal> Computing Systems, </journal> <volume> 5(4) </volume> <pages> 407-432, </pages> <month> Fall </month> <year> 1992. </year>
+Reference: [10] <author> B. Clifford Neuman. </author> <title> Proxy-based authorization and accounting for distributed systems. </title> <booktitle> In Proceedings of the 13th International Conference on Distributed Computing Systems, </booktitle> <pages> pages 283-291, </pages> <month> May </month> <year> 1993. </year>
+Reference: [11] <author> Jon B. Postel and J. K. Reynolds. </author> <title> File transfer protocol. DARPA Internet RFC 959, </title> <month> Oc-tober </month> <year> 1985. </year>
+Reference: [12] <author> R. Sandberg, D. Goldberg, S. Kleiman, D. Walsh, and B. Lyon. </author> <title> Design and implementation of the Sun Network File System. </title> <booktitle> In Proceedings of the Summer 1985 Usenix Conference, </booktitle> <pages> pages 119-130, </pages> <month> June </month> <year> 1985. </year>
+
+References-found: 12
+

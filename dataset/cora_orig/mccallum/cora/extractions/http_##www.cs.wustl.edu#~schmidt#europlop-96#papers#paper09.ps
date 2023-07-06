@@ -1,0 +1,20 @@
+URL: http://www.cs.wustl.edu/~schmidt/europlop-96/papers/paper09.ps
+Refering-URL: http://www.cs.wustl.edu/~schmidt/europlop-96/ww2-papers.html
+Root-URL: 
+Email: Rito.Silva@inesc.pt  
+Phone: Tel: +351-1-3100287, Fax: +351-1-3145843  
+Title: Object Synchronization Pattern  
+Author: Ant onio Rito Silva, Jo ao Pereira and Jos e Alves Marques R. Alves Redol n o 
+Address: Lisbon  9, 1000 Lisboa, PORTUGAL  
+Affiliation: INESC/IST Technical University of  
+Abstract: This paper describes the Object Synchronization pattern which decouples object synchronization from object con-currency and object functionality (sequential part). This pattern supports several synchronization policies and their customization. This pattern is used when invocations to a shared object need to be controlled in order to preserve its consistency. The solution described by this pattern provides encapsulation, modularity, extensibility and reuse of synchronization policies. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [Booch 94] <author> Grady Booch. </author> <title> Object-Oriented Analyis and Design with Applications. </title> <publisher> The Ben-jamin/Cummings Publishing Company, Inc., </publisher> <year> 1994. </year>
+Reference-contexts: This means that the pattern may be implemented over different concurrency policies. 5 Structure The Booch <ref> [Booch 94] </ref> class diagram in Figure 2 illustrates the structure of the Object Synchronization pattern: 6 Participants The main participants in the Object Synchronization pattern are: * Sequential Object. Contains the sequential code and data which are shared by concurrent activi ties. * Synchronization Interface. <p> Isolates the synchronization policies from the concurrency policies. Invocations may be delayed or awaked (operations delay and awake respectively). Operations lock and unlock are used to guarantee mutual exclusion in the synchronization code. 7 Collaborations The Booch <ref> [Booch 94] </ref> interaction diagram in Figure 3 illustrates collaborations between objects involved in the Object Synchronization pattern. Four collaboration phases are described: 1. Invocation Creation. This phase creates Synchronized Invocation and Synchronization Predicate objects. The Synchronized Invocation status is initialized to ePRE and inserted into the Invocation Queue.
+Reference: [Briot 96] <author> Jean-Pierre Briot. </author> <title> An Experiment in Classification and Specialization of Synchronization Schemes. </title> <booktitle> In 2nd International Symposium on Object Technologies for Advanced Software, </booktitle> <month> March </month> <year> 1996. </year>
+Reference-contexts: Explicit synchronization defines class ProgrammableLock which has two operations: isScheduable and isCompatibleWith. The former uses the object's state while the latter defines the compatibility matrix. Actalk [Lescaudron 91] is a framework for modeling, classifying, customizing and combining various synchronization policies <ref> [Briot 96] </ref>. It uses the Object Synchronization pattern combined with active objects.
+Reference: [Eppinger 91] <author> Jeffrey L. Eppinger, Lily B. Mummert, and Alfred Z. Spector. </author> <note> Camelot and Avalon: </note>
+Reference-contexts: Most of the solutions to this problem restrict the number of policies supported and do not decoupled synchronization from concurrency. Distributed systems, e.g. Argus [Liskov 88], Aval-on <ref> [Eppinger 91] </ref>, Arjuna [Shrivastava 91] and Her-mes/ST [Fazzolare 93], use the Object Synchronization pattern encapsulated by the platform mechanisms. Argus uses a pessimistic synchronization in the context of atomic objects [Weihl 84]. In Aval-on, it is possible to use object information to achieve higher concurrency using a pessimistic synchronization policy.
+References-found: 3
+

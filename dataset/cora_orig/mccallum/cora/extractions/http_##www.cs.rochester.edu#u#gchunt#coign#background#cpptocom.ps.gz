@@ -1,0 +1,13 @@
+URL: http://www.cs.rochester.edu/u/gchunt/coign/background/cpptocom.ps.gz
+Refering-URL: http://www.cs.rochester.edu/u/gchunt/coign/background/home.html
+Root-URL: 
+Title: From CPP to COM  
+Author: Markus Horstmann OLE 
+Date: October 19, 1995  
+Note: Program Manager, Microsoft Corporation Microsoft Developer Network,  
+Abstract: The Microsoftfi Component Object Model (COM) borrows a key part of its architecture from standard implementations of C++. This article uses an existing project written in C++ and turns it into a component-based design that runs the object in a separate process, leveraging the COM infrastructure provided natively on all newer Microsoft operating systems. The focus is on explaining and deducing why and how features are implemented in COM, providing a robust, portable, and transparent model for distributed component software. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Brockschmidt, Kraig. </author> <title> Inside OLE, </title> <booktitle> 2nd edition. </booktitle> <address> Redmond, WA: </address> <publisher> Microsoft Press, </publisher> <year> 1995. </year> <title> (Development Library, </title> <editor> Books and Periodicals) Germond, Tom; Jan Gray; and Dale E. Rogerson. </editor> <title> "Object Mapping in C++" (Development Library, </title> <note> Technical Articles, C/C++ Articles) Rogerson, </note> <author> Dale E. </author> <title> Exporting with Class (Development Library, Technical Articles, C/C++ Articles) RPC Programmer's Guide and Reference. (Development Library, Product Documentation, SDKs, Win32 SDK, RPC) </title>
+References-found: 1
+

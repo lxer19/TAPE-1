@@ -1,0 +1,17 @@
+URL: ftp://cherupakha.media.mit.edu/pub/el-publications/EL-Memos/memo13.PS.Z
+Refering-URL: http://fredm.www.media.mit.edu/people/fredm/papers/vehicles/
+Root-URL: http://www.media.mit.edu
+Title: Braitenberg Creatures  
+Author: David W. Hogg, Fred Martin, Mitchel Resnick 
+Date: June 5, 1991  
+Address: 20 Ames Street Cambridge, MA 02139  
+Affiliation: mit Media Laboratory  
+Pubnum: 617-253-7143  
+Abstract: This paper describes 12 autonomous "creatures" built with Electronic Bricks. Electronic Bricks are specially-modified lego bricks with simple electronic circuits inside. Although each Electronic Brick is quite simple, the bricks can be combined to form robotic creatures with interesting and complex behaviors, similar to the fictional machines described in Valentino Braitenberg's book Vehicles (1984). 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Braitenberg, </author> <title> Valentino (1984) Vehicles: Experiments in Synthetic Psychology. </title> <publisher> The mit Press. </publisher> <address> Cam-bridge, Massachusetts. </address>
+Reference: [2] <author> Papert, </author> <title> Seymour (1980) Mindstorms: Children, Computers, and Powerful Ideas Basic Books, </title> <address> New York. </address>
+
+References-found: 2
+

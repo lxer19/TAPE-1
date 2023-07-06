@@ -1,0 +1,20 @@
+URL: http://info.internet.isi.edu:80/in-notes/rfc/files/rfc1951.ps
+Refering-URL: http://info.internet.isi.edu:80/in-notes/rfc/files/
+Root-URL: http://www.isi.edu
+Title: Network Working Group  DEFLATE Compressed Data Format Specification  
+Author: P. Deutsch 
+Date: May 1996  
+Note: Request for Comments: 1951 Aladdin Enterprises Category: Informational  version 1.3 Status of This Memo This memo provides information for the Internet community. This memo does not specify an Internet standard of any kind. Distribution of this memo is unlimited. IESG note: The IESG takes no position on the validity of any Intellectual Property Rights statements contained in this document. Notices Deutsch Informational [Page 1]  
+Abstract: Copyright c fl 1996 L. Peter Deutsch Permission is granted to copy and distribute this document for any purpose and without charge, including translations into other languages and incorporation into compilations, provided that the copyright notice and this notice are preserved, and that any substantive changes or deletions from the original are clearly marked. A pointer to the latest version of this and related documentation in HTML format can be found at the URL &lt;ftp://ftp.uu.net/graphics/png/documents/zlib/zdoc-index.html&gt;. Abstract This specification defines a lossless compressed data format that compresses data using a combination of the LZ77 algorithm and Huffman coding, with efficiency comparable to the best currently available general-purpose compression methods. The data can be produced or consumed, even for an arbitrarily long sequentially presented input data stream, using only an a priori bounded amount of intermediate storage. The format can be implemented readily in a manner not covered by patents. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Huffman, D. A., </author> <title> A Method for the Construction of Minimum Redundancy Codes, </title> <booktitle> Proceedings of the Institute of Radio Engineers, September 1952, </booktitle> <volume> Volume 40, Number 9, </volume> <pages> pp. 1098-1101. </pages>
+Reference-contexts: Given an alphabet with known symbol frequencies, the Huffman algorithm allows the construction of an optimal prefix code (one which represents strings with those symbol frequencies using the fewest bits of any possible prefix codes for that alphabet). Such a code is called a Huffman code. (See reference <ref> [1] </ref> in Chapter 5, references for additional information on Huffman codes.) Note that in the deflate format, the Huffman codes for the various alphabets must not exceed certain maximum code lengths. This constraint complicates the algorithm for computing code lengths from symbol frequencies.
+Reference: [2] <author> Ziv J., Lempel A., </author> <title> A Universal Algorithm for Sequential Data Compression, </title> <journal> IEEE Transactions on Information Theory, </journal> <volume> Vol. 23, No. 3, </volume> <pages> pp. 337-343. </pages>
+Reference-contexts: previous section, and must accept blocks of arbitrary size. 4 Compression algorithm details While it is the intent of this document to define the deflate compressed data format without reference to any particular compression algorithm, the format is related to the compressed formats produced by LZ77 (Lempel-Ziv 1977, see reference <ref> [2] </ref> below); since many variations of LZ77 are patented, it is strongly recommended that the implementor of a compressor follow the general algorithm presented here, which is known not to be patented per se.
+Reference: [3] <author> Gailly, J.-L., and Adler, M., </author> <title> ZLIB documentation and sources, </title> <note> available in ftp://ftp.uu.net/pub/archiving/ zip/doc/ </note>
+Reference: [4] <author> Gailly, J.-L., and Adler, M., </author> <title> GZIP documentation and sources, </title> <note> available as gzip-*.tar in ftp:// prep.ai.mit.edu/pub/gnu/ </note>
+Reference: [5] <author> Schwartz, E. S., and Kallick, B. </author> <title> Generating a canonical prefix encoding. </title> <journal> Comm. ACM, </journal> <month> 7,3 (Mar. </month> <year> 1964), </year> <pages> pp. 166-169. </pages>
+
+References-found: 5
+

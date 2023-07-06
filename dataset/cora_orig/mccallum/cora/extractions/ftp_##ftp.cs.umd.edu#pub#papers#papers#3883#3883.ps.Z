@@ -1,0 +1,12 @@
+URL: ftp://ftp.cs.umd.edu/pub/papers/papers/3883/3883.ps.Z
+Refering-URL: http://www.cs.umd.edu/TRs/TR.html
+Root-URL: 
+Title: Hybrid Probabilistic Programs  
+Author: Alex Dekhtyar and V.S.Subrahmanian A. V. Williams Building 
+Address: College Park, Maryland 20742, U.S.A.  
+Affiliation: Department of Computer Science  University of Maryland  
+Abstract: The precise probability of a compound event (e.g. e 1 _ e 2 ; e 1 ^ e 2 ) depends upon the known relationships (e.g. independence, mutual exclusion, ignorance of any relationship, etc.) between the primitive events that constitute the compound event. To date, most research on probabilistic logic programming [20, 19, 22, 23, 24] has assumed that we are ignorant of the relationship between primitive events. Likewise, most research in AI (e.g. Bayesian approaches) have assumed that primitive events are independent. In this paper, we propose a hybrid probabilistic logic programming language in which the user can explicitly associate, with any given probabilistic strategy, a conjunction and disjunction operator, and then write programs using these operators. We describe the syntax of hybrid probabilistic programs, and develop a model theory and fixpoint theory for such programs. Last, but not least, we develop three alternative procedures to answer queries, each of which is guaranteed to be sound and complete.
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

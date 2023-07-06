@@ -1,0 +1,15 @@
+URL: ftp://ams.sunysb.edu/pub/geometry/msi-workshop/95/zhu.ps.gz
+Refering-URL: http://ams.sunysb.edu/~held/proc_usb_comp_geo-95.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: Labeling a Rectilinear Map a set of disjoint rectilinear line segments in the plane. For
+Author: Andy Mirzaian and Binhai Zhu 
+Note: Given  the 3 placings) such that all the rectangles  
+Abstract: Automatic map-making is an important part of GIS. Although after nearly two decades of development automatic technology can make good maps, cartographic knowledge and experience is still important as is claimed that "the craft of making maps is still an indispensable ingredient" [BC94]. Nevertheless people in GIS can formulate a map-making problem mathematically, solve it with computer and then apply personal experience to make the maps esthetically beautiful. In this paper, we mainly discuss how to label (letter) a map. In [Imh75], several rules are described to label a map. For example, for any label it should be intuitively clear which feature is described, the labels should be of legible size and different labels (texts) do not overlap, etc. Sometimes, legibility is much more important than beauty, especially for technical maps [FW91]. Besides, the beauty of a map can always be adjusted by a human being once the legibility requirement is satisfied. In this paper, we study the problem of labeling a rectilinear map, which is composed of a set of n disjoint rectilinear (horizontal and vertical) segments. (The segments can meet at their endpoints though.) For each segment, we allow three ways to place a rectangle. We define the problem formally as follows. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [BC94] <author> D. Beus and D. Crockett. </author> <title> Automated production of 1:24,000 scale quadrangle maps. </title> <booktitle> In Proc. 1994 ASPRS/ACSM Annual Convention and Exposition, </booktitle> <volume> volume 1, </volume> <pages> pages 94-99, </pages> <year> 1994. </year>
+Reference: [FW91] <author> M. Formann and F. Wagner. </author> <title> A packing problem with applications to lettering of maps. </title> <booktitle> In Proc. 7th Annu. ACM Sympos. Comput. Geom., </booktitle> <pages> pages 281-288, </pages> <year> 1991. </year>
+Reference-contexts: The problem of optimally labeling a rectilinear map can be solved in O (n 2 ) time. We also discuss the benefit achieved by allowing the 2nd labeling since the problem of labeling a rectilinear map with only two (1st and 3rd) labelings can easily be solved with 2SAT <ref> [FW91] </ref>. We have the following theorem. Theorem 3.
+Reference: [Imh75] <author> E. Imhof. </author> <title> Positioning names on maps. </title> <journal> The American Cartographer, </journal> <volume> 2 </volume> <pages> 128-144, </pages> <year> 1975. </year>
+References-found: 3
+

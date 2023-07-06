@@ -1,0 +1,17 @@
+URL: http://www.icsi.berkeley.edu/MAY/UserManual.ps.Z
+Refering-URL: http://www.icsi.berkeley.edu/MAY/index.html
+Root-URL: http://www.icsi.berkeley.edu
+Phone: Tel.: (030) 25499-200, Fax: (030) 25499-202  
+Title: MULTIMEDIA COLLABORATION User Manual for SunOS (MMCS Release 2.7)  BERKOM-Project: "Multimedia Teleservices (MMTS)"  
+Author: Jurgen Dittrich, Jens Krahmer Hartmut Kuhn, Miroslav Vodslon Project Leader: G. Schurmann 
+Note: This description will be supplemented and modified according to useful requirements during the implementation phase.  
+Address: Hardenbergplatz 2, D 10623 Berlin  
+Affiliation: Gesellschaft fur Mathematik und Datenverarbeitung mbH (GMD) Forschungszentrum fur offene Kommunikationssysteme (FOKUS)  
+Date: March 14, 1995  
+Abstract-found: 0
+Intro-found: 1
+Reference: [MMCSPEC] <institution> The Berkom Multimedia Collaboration Service (Release 3.1). </institution>
+Reference: [MMM_MANUAL] <institution> The Berkom Multimedia Mail User Manual. </institution> <address> 36 References </address>
+Reference-contexts: Multimedia Teleservices in Berkom This MMC software was developed by GMD-FOKUS within the BERKOM (Berliner Kommunikationssystem) project, an R&D project funded by the German PTT (Telekom) and supervised by DeTeBerkom. Among the aims of BERKOM is the development of two multimedia teleservices: The Multimedia Mail Service (MMMS) <ref> [MMM_MANUAL] </ref> and the Multimedia Collaboration Service (MMCS). Several industrial and academic research centers 2 Introduction cooperate in these projects. Both services are designed as electronic communication protocols, using existing international stan dards wherever possible.
+References-found: 2
+

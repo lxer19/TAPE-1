@@ -1,0 +1,23 @@
+URL: http://ai.iit.nrc.ca/DEIL/danyluk.ps.Z
+Refering-URL: http://ai.iit.nrc.ca/DEIL/abstracts.html
+Root-URL: 
+Title: A Comparison of Data Sources for Machine Learning in a Telephone Trouble Screening Expert System  
+Author: Andrea Pohoreckyj Danyluk 
+Keyword: knowledge acquisition for expert systems; knowl edge elicitation; data collection; data collection interfaces  
+Note: This research was performed while the author was an employee of NYNEX Science and Technology, Inc.  
+Address: Williamstown, MA 01267  
+Affiliation: Department of Computer Science, Williams College  
+Email: email: andrea@cs.williams.edu  
+Phone: phone: (413) 597-2178; fax: (413) 597-4116  
+Date: April 28, 1995  
+Abstract: This paper describes a domain where the application of machine learning, specifically inductive learning, could have enormous positive impact. The domain possesses attributes that would indicate that inductive learning would easily succeed for this domain. In particular, data for this domain are abundant. In spite of this, numerous machine learning methods both inductive and otherwise have failed to learn a knowledge base having high accuracy. This paper presents a comparison of the data sources available for this domain. It focuses primarily on a survey system that was ultimately designed for the purpose of collecting data best suited to this task. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Clearwater, S. & Provost, F. </author> <year> (1990). </year> <title> RL4: A Tool for Knowledge-Based Induction. </title> <booktitle> In Proceedings of the Second International IEEE Conference on Tools for AI, p. </booktitle> <pages> 24-30. </pages> <publisher> IEEE C.S. Press. </publisher>
+Reference: <author> Danyluk, A. P. & Provost, F. </author> <year> (1993). </year> <title> Small Disjuncts in Action: Learning to Diagnose Errors in the Local Loop of the Telephone Network. </title> <booktitle> In Proceedings of the Tenth International Conference on Machine Learning, p. </booktitle> <pages> 81-88. </pages> <publisher> Morgan Kaufmann Publishers, Inc. </publisher>
+Reference: <author> Merz, C. J., Pazzani, M., & Danyluk, A. P. </author> <year> (1994). </year> <title> Tuning Numeric Parameters of a Knowledge-Based System for Troubleshooting the Local Loop of the Telephone Network. </title> <journal> Submitted to the IEEE Expert Special Track on Intelligent Telecommunication Systems. </journal>
+Reference: <author> Pazzani, M. J. </author> <year> (1993). </year> <title> Finding Accurate Frontiers: A Knowledge-Intensive Approach to Relational Learning. </title> <booktitle> In Proceedings of AAAI-93, p. </booktitle> <pages> 328-334. </pages> <publisher> AAAI Press. </publisher>
+Reference: <author> Quinlan, J. R. </author> <year> (1992). </year> <title> C4.5: Programs for Machine Learning. </title> <publisher> Morgan Kaufmann Publishers, Inc. </publisher>
+Reference: <author> Rabinowitz, H., Flamholz, J., Wolin, E., & Euchner, J. </author> <title> (1991) NYNEX MAX: A Telephone Trouble Screening Expert. </title> <editor> In R. Smith & C. Scott (ed.), </editor> <booktitle> Innovative Applications of AI 3, p. </booktitle> <pages> 213-230. </pages> <publisher> AAAI Press. </publisher> <pages> 10 </pages>
+References-found: 6
+

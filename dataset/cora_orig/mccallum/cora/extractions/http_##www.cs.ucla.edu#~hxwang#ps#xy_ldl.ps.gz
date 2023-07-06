@@ -1,0 +1,14 @@
+URL: http://www.cs.ucla.edu/~hxwang/ps/xy_ldl.ps.gz
+Refering-URL: http://www.cs.ucla.edu/~hxwang/ldl/datalog.html
+Root-URL: http://www.cs.ucla.edu
+Title: Implementation of XY Stratification: An Extension to LDL++  
+Author: Haixun Wang 
+Affiliation: UCLA CS Dept.  
+Abstract-found: 0
+Intro-found: 1
+Reference: [Zanilo93] <author> C. Zaniolo, N. Arni, K. Ong, </author> <title> "Negation and Aggregates in Recursive Rules: the LDL++ Approach", </title> <booktitle> Proc. 3rd Int. Conf. on Deductive and OODBs, </booktitle> <address> DOOD-93, Phoenix, AZ, </address> <month> December, </month> <year> 1993. </year>
+Reference: [Greco98] <author> S. Greco, C. Zaniolo, </author> <title> "Greedy Algorithms in Datalog with Choice and Negation", </title> <year> 1998. </year>
+Reference: [Zaniolo97] <author> C. Zaniolo, S. Ceri, C. Faloutsos, V.S. Subrahmanian and R. Zi-cari, </author> <title> Advanced Database Systems, </title> <publisher> Morgan Kaufmann Publishers, </publisher> <year> 1997. </year> <month> 17 </month>
+Reference-contexts: See <ref> [?, Zaniolo97] </ref> LDL++ Source Code database ( - emp_dep_sal (Eno:integer, D:integer, S:integer, Frm:integer, To:integer) -). export e_hist (I, Eno, Frm, To). export e_hist ($I, Eno, Frm, To). export overlap (I, Eno, F1, T1, F2, T2). export final_e_hist (Eno, Frm, To). export last (I). export final_e_hist_fail (Eno, Frm, To). e_hist (0, Eno,
+References-found: 3
+

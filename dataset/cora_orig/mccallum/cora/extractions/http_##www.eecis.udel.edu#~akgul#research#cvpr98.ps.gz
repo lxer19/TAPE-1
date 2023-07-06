@@ -1,0 +1,12 @@
+URL: http://www.eecis.udel.edu/~akgul/research/cvpr98.ps.gz
+Refering-URL: http://www.eecis.udel.edu/~akgul/research/cvpr98.html
+Root-URL: http://www.eecis.udel.edu
+Title: Extraction and Tracking of the Tongue Surface from Ultrasound Image Sequences  
+Author: Yusuf Sinan Akgul Chandra Kambhamettu Maureen Stone 
+Address: Newark, Delaware 19716 Baltimore, Maryland 21201  
+Affiliation: Department of Computer and Information Sciences Division of Otolaryngology University of Delaware The University of Maryland Medical School  
+Abstract: This paper presents a system for automatic extraction and tracking of 2D contours of the tongue surfaces from digital ultrasound image sequences. The input to the system is provided by a Head and Transducer Support System (HATS), which is developed for use in ultrasound imaging of the tongue movement. We developed a novel active contour (snakes) model that uses several temporally adjacent images during the extraction of the tongue surface contour for an image frame. The user supplies an initial contour model for a single image frame in the whole sequence. Using optical flow and multi-resolution methods, this initial contour is then used to find the candidate contour points in the temporally immediate adjacent images. Subsequently, the new snake mechanism is applied to estimate optimal contours for each image frame using these candidate points. In turn, the extracted contours are used as models for the extraction process of new adjacent frames. Finally, the system uses a novel postprocess-ing technique to refine the positions of the contours. We tested the system on 11 different speech sequences, each containing about 25 images. Visual inspection of the detected contours by the speech experts shows that the results are very promising and this system can be effectively employed in speech and swallowing research. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

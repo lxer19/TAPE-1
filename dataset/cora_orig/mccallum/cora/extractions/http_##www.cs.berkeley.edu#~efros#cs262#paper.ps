@@ -1,0 +1,22 @@
+URL: http://www.cs.berkeley.edu/~efros/cs262/paper.ps
+Refering-URL: http://www.cs.berkeley.edu/~efros/cs262/
+Root-URL: 
+Title: Study in Reducing Page Faults by Long-term Profiling  
+Author: Alyosha A. Efros Shawn M. Ledbetter 
+Date: December 15, 1997  
+Address: Berkeley, CA 94720  
+Affiliation: Computer Science Division University of California, Berkeley  
+Abstract: This paper describes in detail a method for effectively improving performance by predicting and prefetching pages that are needed at a later time. These predictions are made on the hypothesis that applications exhibit a regular behavior in page faults and page requests. This pattern can be used to our advantage to improve performance. The results show that this method, when implemented correctly, will show a significant decrease in the number of page faults and increase in the performance of an application.
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Jennifer M. Anderson, Lance M. Berc, Sanjay Ghemawat Jeffrey Dean, Monika R. Henzinger, Shun-Tak A. Leung, Richard L. Sites, Mark T. Vandervoorde, Carl A. Waldspurger, and William E. Weihl. </author> <title> Continuous profiling: Where have all the cycles gone? SOSP, </title> <year> 1997. </year>
+Reference-contexts: We claim that today the cost of a page fault is so great, that such costs can in fact be justified. 2.2 Profiling There has been a renewed interest in profiling as means for smart optimization. The DCPI system <ref> [1] </ref> provides support infrastructure for sample-based CPU profiling to sub-instruction accuracy.
+Reference: [2] <author> Butler W. Lampson. </author> <title> Hints for computer system design. </title> <journal> Communications of the ACM, </journal> <year> 1983. </year>
+Reference-contexts: Therefore, it made sense that early work on virtual memory optimizations centered mostly around page replacement. Many page replacement algorithms were proposed, including, Least Recently Used (LRU), Most Recently Used (MRU), Second Chance, Random, and many others ([4]). According to <ref> [2] </ref>, some work has also been done on prefetching, however, the overhead costs (both, design and running time) did not at the time justify the slight performance improvement over simple demand paging model.
+Reference: [3] <author> Marshal Kirk McKusick, Keith Bostic, Michael J. Karels, and John S. Quarterman. </author> <title> The Design and Implementation of the 4.4BSD Operating System. </title> <publisher> Addison-Wesley Publishing Co., </publisher> <address> Reading, MA, </address> <year> 1996. </year>
+Reference-contexts: The DCPI system [1] provides support infrastructure for sample-based CPU profiling to sub-instruction accuracy. The Morph system [5] builds on top of DCPI to gather profiling information on executables and then rewrite 2 them for better CPU performance. 2.3 Modern systems Let us take the BSD 4.4 Unix <ref> [3] </ref> as a case study since it incorporates in a production system most of the leading edge OS research. The BSD 4.4 virtual memory subsystem is based on Mach 2.0, with updates from Mach 2.5 and Mach 3.0.
+Reference: [4] <author> A. Silberschatz and P.B. Galvin. </author> <title> Operating System Concepts. </title> <publisher> Addison-Wesley Publishing Co., </publisher> <address> Reading, MA, </address> <year> 1994. </year>
+Reference: [5] <author> Xiaolan Zhang, Zheng Wang, Nicholas Gloy, J. Bradley Chen, and Michael D. Smith. </author> <title> System support for automated profiling and opti-mizatio. </title> <booktitle> SOSP, </booktitle> <year> 1997. </year> <month> 11 </month>
+Reference-contexts: The DCPI system [1] provides support infrastructure for sample-based CPU profiling to sub-instruction accuracy. The Morph system <ref> [5] </ref> builds on top of DCPI to gather profiling information on executables and then rewrite 2 them for better CPU performance. 2.3 Modern systems Let us take the BSD 4.4 Unix [3] as a case study since it incorporates in a production system most of the leading edge OS research.
+References-found: 5
+

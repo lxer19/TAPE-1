@@ -1,0 +1,28 @@
+URL: ftp://ftp.cs.purdue.edu/pub/jorg/97cvs.ps.Z
+Refering-URL: http://www.cs.purdue.edu/homes/jorg/jorgs_papers.html
+Root-URL: http://www.cs.purdue.edu
+Title: Computing Volumes of Solids Enclosed by Recursive Subdivision Surfaces  
+Author: Jorg Peters and Ahmad Nasri 
+Note: EUROGRAPHICS '97 D. Fellner and L. Szirmay-Kalos (Guest Editors) Volume 16, (1997), Number 3  
+Abstract: The volume of a solid enclosed by a recursive subdivision surface can be approximated based on the closed-form representation of regular parts of the subdivision surface and a tight estimate of the local convex hull near extraordinary points. The approach presented is efficient, i.e. non-exponential, and robust in that it yields rapidly contracting error bounding boxes. An extension to measuring higher-order moments is sketched.
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> BERNARDINI, F. </author> <title> Integration of polynomials over n-dimensional polyhedra. </title> <booktitle> Computer Aided Design 23(1) (1991), </booktitle> <pages> 51-58. </pages>
+Reference: 2. <author> CATMULL, E., AND CLARK, J. </author> <title> Recursively generated B-spline surfaces on arbitrary topological meshes. </title> <booktitle> Computer Aided Des. 10 (1978), </booktitle> <volume> 350 - 355. </volume>
+Reference: 3. <author> DE BOOR, C. </author> <title> B-form basics. In Geometric Modeling: Algorithms and New Trends, </title> <editor> G. Farin, Ed. </editor> <publisher> SIAM, </publisher> <address> Philadelphia, </address> <year> 1987, </year> <pages> pp. </pages> <month> 131-148. </month> <title> c fl The Eurographics Association 1997 Peters and Nasri / Computing Subdivision Volumes val- subdivision ence 1 2 3 3 0.052734 0.010467 0.001047 5 0.143717 0.033833 0.003127 Table 2: Volume of error boxes for extraordinary points of valence 3,4,5,6 when subdividing the stencil shape. </title>
+Reference: 4. <author> DOO, D., AND SABIN, M. </author> <title> Behaviour of recursive subdivision surfaces near extraordinary points. </title> <journal> Computer Aided Des. </journal> <volume> 10, </volume> <month> 6 (Nov </month> <year> 1978), </year> <pages> 356-360. </pages>
+Reference: 5. <author> DYN, N., LEVIN, D., AND GREGORY, J. A. </author> <title> A butterfly subdivision scheme for surface interpolation with tension control. </title> <journal> ACM Trans. on Graphics 9 (1990), </journal> <volume> 160 - 169. </volume>
+Reference: 6. <author> GONZALEZ-OCHOA, C., MCCAMMON, S., AND PETERS, J. </author> <title> Computing moments of piecewise polynomial surfaces. </title> <type> xxx xx (199x). </type> <note> submitted. </note>
+Reference: 7. <author> HOPPE, H., DEROSE, T., DUCHAMP, T., HALSTEAD, M., JIN, H., MCDONALD, J., SCHWEITZER, J., AND STUETZLE, W. </author> <title> Piecewise smooth surface reconstruction. </title> <booktitle> Computer Graphics Proceedings of Siggraph 94 (1994), </booktitle> <pages> 295-302. </pages>
+Reference: 8. <author> KOBBELT, L. </author> <title> Interpolatory subdivision on open quadrilateral nets with arbitrary topology. vol. </title> <type> 15, </type> <institution> Basil Blackwell Ltd. </institution> <note> Eurographics 96 conference issue. </note>
+Reference: 9. <author> LEE, Y. T., AND REQUICHA, A. A. G. </author> <title> Algorithms for computing the volume and other integral properties of solids. II a family of algorithms based on representation conversion and cellular approximation. Commun. </title> <booktitle> ACM (USA) 25 (Sept. </booktitle> <year> 1982), </year> <pages> 642-650. </pages>
+Reference: 10. <author> LIEN, S., AND KAJIYA, J. </author> <title> A symbolic method for calculating the integral properties of arbitrary nonconvex polyhedra. </title> <booktitle> IEEE Computer Graphics and Applications 4(9) (Oct 1984), </booktitle> <pages> 35-41. </pages>
+Reference: 11. <author> LOOP, C. </author> <title> Smooth subdivision for surfaces based on triangles. </title> <type> Thesis, </type> <institution> Univ. of Utah (1987). </institution>
+Reference: 12. <author> NASRI, A. </author> <title> Polyhedral subdivision methods for freeform surfaces. </title> <journal> ACM Transactions on Graphics 6 (1987), </journal> <pages> 29-73. </pages>
+Reference: 13. <author> NASRI, A. </author> <title> An algorithm to compute volume of solids defined by recursive subdivision surfaces. </title> <type> Tech. rep., </type> <institution> American University of Beirut, </institution> <year> 1996. </year> <month> TR-96-01. </month>
+Reference: 14. <author> REIF, U. </author> <title> A unified approach to subdivision algorithms near extraordinary vertices. </title> <booktitle> CAGD 12 (1995), </booktitle> <pages> 153-174. </pages>
+Reference: 15. <author> RUDIN, W. </author> <title> Real and complex analysis. Series in Higher Mathematics. </title> <publisher> McGraw-Hill, </publisher> <year> 1987. </year>
+Reference: 16. <author> SCHRODER, SWELDENS, AND ZORIN. </author> <title> Interpolating subdivision for meshes with arbitrary topology. </title> <booktitle> Computer Graphics Proceedings of Siggraph 96 (1996), </booktitle> <pages> 189-192. </pages>
+Reference: 17. <author> STOLLNITZ, E. J., DEROSE, T. D., AND SALESIN, D. H. </author> <title> Wavelets for computer graphics: theory and applications. </title> <publisher> Morgan Kaufmann, </publisher> <address> San Francisco, Calif, 1996. c fl The Eurographics Association 1997 </address>
+References-found: 17
+

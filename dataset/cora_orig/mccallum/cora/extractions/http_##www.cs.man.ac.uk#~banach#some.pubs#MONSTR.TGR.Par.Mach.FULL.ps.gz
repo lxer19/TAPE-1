@@ -1,0 +1,21 @@
+URL: http://www.cs.man.ac.uk/~banach/some.pubs/MONSTR.TGR.Par.Mach.FULL.ps.gz
+Refering-URL: http://www.cs.man.ac.uk/~banach/Recent.publications.html
+Root-URL: http://www.cs.man.ac.uk
+Title: MONSTR: TERM GRAPH REWRITING FOR PARALLEL MACHINES  
+Author: R. Banach 
+Address: Manchester, M13 9PL, U.K.  
+Affiliation: Computer Science Department, Manchester University,  
+Abstract: Term graphs locally look like terms, but globally have a more general directed graph structure. A rewriting model gives term graph rule systems an operational semantics and makes them into a general model of computation which one might hope to implement directly on a suitable architecture. Unfortunately , if the architecture is not basically sequential, the demands of the model are too great to make direct implementation a reasonable proposition. Other models may be defined that have better properties and which may be proved equivalent to the original under suitable conditions. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Banach R. </author> <year> (1991), </year> <title> DACTL Rewriting is Categorical. </title> <booktitle> These proceedings. </booktitle>
+Reference: <author> Banach R. </author> <year> (1992), </year> <note> MONSTR, in preparation. </note>
+Reference: <author> Barendregt H.P., van Eekelen M.C.J.D., Glauert J.R.W., Kennaway J.R., Plasmeijer M.J., Sleep M.R. </author> <year> (1987), </year> <title> Term Graph Rewriting, </title> <booktitle> in proc. </booktitle> <editor> PARLE-87, de Bakker J.W. Nijman A.J. Treleaven P.C. eds., </editor> <publisher> Springer, </publisher> <pages> LNCS 259 141-158. </pages>
+Reference: <author> Farmer W.M., Watro R.J. </author> <year> (1989), </year> <title> Redex Capturing in Term Graph Rewriting, in Computing with the Curry Chip. </title>
+Reference: <author> Glauert J.R.W., Kennaway J.R., Sleep M.R., Somner G.W. </author> <year> (1988a), </year> <title> Final Specification of DACTL, </title> <type> Internal Report SYS-C88-1 1, </type> <institution> School of Information Systems, University of East Anglia, Norwich, U.K. </institution>
+Reference: <author> Glauert J.R.W., Hammond K., Kennaway J.R., Papdopoulos G.A., Sleep M.R. </author> <year> (1988b), </year> <title> DACTL: Some Introductory Papers, </title> <institution> School of Information Systems, University of East Anglia, Norwich, U.K. </institution>
+Reference: <author> Kennaway J.R., Klop J-W., Sleep M.R., de Vries F-J. </author> <year> (1990), </year> <title> Transfinite Reductions in Orthogonal Term Rewrite Systems, </title> <type> CWI draft. </type>
+Reference: <author> Watson P., Watson I. </author> <year> (1987a), </year> <title> Evaluating Functional Programs on the Flagship Machine, </title> <booktitle> in proc. </booktitle> <editor> FLCA-87, Khan G. ed., Springer, </editor> <volume> LNCS 274 80 - 97. </volume>
+Reference: <author> Watson I., Woods V., Watson P., Banach R., Greenberg M., Sageant J. </author> <year> (1987b), </year> <title> Flagship: A Parallel Architecture for Declarative Programming, </title> <booktitle> in 15th Annual International Symposium on Computer Architecture, Hawaii, A.C.M. </booktitle>
+References-found: 9
+

@@ -1,0 +1,25 @@
+URL: ftp://ftp.netcom.com/pub/hb/hbaker/YoungGen.ps.Z
+Refering-URL: ftp://ftp.netcom.com/pub/hb/hbaker/home.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Phone: (818) 501-4956(818) 986-1360 (FAX)  
+Title: 'Infant Mortality' 1 and Generational Garbage Collection  
+Author: Henry G. Baker 
+Address: 16231 Meadow Ridge Way, Encino, CA 91436  
+Affiliation: Nimble Computer Corporation,  
+Note: ACM Sigplan Notices 28,4 (April1993), 55-57. Copyright 1992 by Nimble Computer Corporation. 1  
+Abstract: Generation-based garbage collection has been advocated by appealing to the intuitive but vague notion that "young objects are more likely to die than old objects". The intuition is, that if a generation-based garbage collection scheme focuses its effort on scanning recently created objects, then its scanning efforts will pay off more in the form of more recovered garbage, than if it scanned older objects. In this note, we show a counterexample of a system in which "infant mortality" is as high as you please, but for which generational garbage collection is ineffective for improving the average mark/cons ratio. Other benefits, such as better locality and a smaller number of large delays, may still make generational garbage collection attractive for such a system, however. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Appel, A.W. </author> <title> "Simple Generational Garbage Collection and Fast Allocation". </title> <journal> Soft. Prac. & Exper. 19,2 (Feb.1989), </journal> <pages> 171-183. </pages>
+Reference: <author> Baker, H.G. </author> <title> "List Processing in Real Time on a Serial Computer". </title> <journal> CACM 21,4 (April 1978), </journal> <pages> 280-294. </pages>
+Reference: <author> Baker, H.G. </author> <title> "CONS Should not CONS its Arguments, or, a Lazy Alloc is a Smart Alloc". </title> <journal> ACM Sigplan Not. 27,3 (March1992), </journal> <pages> 24-34. </pages>
+Reference: <editor> Bekkers, Y., and Cohen, J. eds. </editor> <booktitle> Memory Management: Proceedings of the International Workshop on Memory Management, </booktitle> <address> St. Malo, France. </address> <publisher> Springer LNCS 637, </publisher> <year> 1992. </year>
+Reference: <author> Clark, D.W., and Green, </author> <title> C.C. "An Empirical Study of List Structure in LISP". </title> <journal> CACM 20,2 (Feb. 1977),78-87. </journal>
+Reference: <author> DeTreville, John. </author> <title> "Reducing the Cost of Garbage Collection". </title> <type> Unpublished manuscript, </type> <month> May, </month> <year> 1977. </year>
+Reference: <author> Lieberman, H., and Hewitt, C. </author> <title> "A Real-Time Garbage Collector Based on the Lifetimes of Objects". </title> <journal> CACM 26,6 (June 1983), </journal> <pages> 419-429. </pages>
+Reference: <author> Mandelbrot, B. </author> <title> The Fractal Geometry of Nature. </title> <publisher> W.H.Freeman & Co., </publisher> <address> New York, </address> <year> 1983. </year>
+Reference: <author> Moon, D. </author> <title> "Garbage Collection in a Large Lisp System". </title> <booktitle> ACM Symp. on Lisp and Functional Prog., </booktitle> <address> Austin, TX, </address> <year> 1984, </year> <pages> 235-246. </pages>
+Reference: <author> Unger, D. </author> <title> "Generation Scavenging: A nondisruptive, high performance storage reclamation algorithm". </title> <journal> ACM Soft. Eng. Symp. on Prac. Software Dev. Envs., Sigplan Not. </journal> <month> 19,6 (June </month> <year> 1984), </year> <pages> 157-167. </pages>
+Reference: <author> Wilson, Paul R. </author> <title> "Some Issues and Strategies in Heap Management and Memory Hierarchies". </title> <journal> ACM Sigplan Not. </journal> <month> 26,3 (March </month> <year> 1991), </year> <pages> 45-52. </pages>
+References-found: 11
+

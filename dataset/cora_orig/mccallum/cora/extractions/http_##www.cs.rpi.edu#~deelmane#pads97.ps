@@ -1,0 +1,21 @@
+URL: http://www.cs.rpi.edu/~deelmane/pads97.ps
+Refering-URL: http://www.cs.rpi.edu/~deelmane/papers.html
+Root-URL: http://www.cs.rpi.edu
+Email: deelmane@cs.rpi.edu szymansk@cs.rpi.edu  
+Title: Breadth-First Rollback in Spatially Explicit Simulations  
+Author: Ewa Deelman Boleslaw K. Szymanski 
+Address: Troy, NY 12180 Troy, NY 12180  
+Affiliation: Department of Computer Science Department of Computer Science Rensselaer Polytechnic Institute Rensselaer Polytechnic Institute  
+Abstract: The efficiency of Parallel Discrete Event Simulations that use the optimistic protocol is strongly dependent on the overhead incurred by rollbacks. This paper introduces a novel approach to rollback processing which limits the number of events rolled back as a result of a straggler or antimessage. The method, called Breadth-First Rollback (BFR), is suitable for spatially explicit problems where the space is discretized and distributed among processes and simulation objects move freely in the space. BFR uses incremental state saving, allowing the recovery of causal relationships between events during rollback. These relationships are then used to determine which events need to be rolled back. Our results demonstrate an almost linear speedup|a dramatic improvement over the traditional approach to rollback processing. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> H. Avril and C. Tropper. </author> <title> The Dynamic Load Balancing of Clustered Time Warp for Logic Simulations. </title> <booktitle> Workshop on Parallel and Distributed Simulation, </booktitle> <pages> pages 20-27, </pages> <year> 1996. </year>
+Reference-contexts: The Local Time Warp (LTW) [15] approach combines two simulation protocols by using the optimistic protocol between LPs belonging to the same cluster and by maintaining a conservative protocol between clusters. LTW minimizes the impact of any rollback to the LPs in a given cluster. Clustered Time Warp (CTW) <ref> [1, 2] </ref> takes the opposite view. It uses conservative synchronization within the clusters and an optimistic protocol between them. The reason given for such a choice is that, since LPs in a cluster share the same memory space, their tight synchronization can be performed efficiently.
+Reference: [2] <author> H. Avril and Carl Tropper. </author> <title> Clustered time warp and logic simulation. </title> <booktitle> Workshop on Parallel and Distributed Simulation, </booktitle> <pages> pages 112-119, </pages> <year> 1995. </year>
+Reference-contexts: The Local Time Warp (LTW) [15] approach combines two simulation protocols by using the optimistic protocol between LPs belonging to the same cluster and by maintaining a conservative protocol between clusters. LTW minimizes the impact of any rollback to the LPs in a given cluster. Clustered Time Warp (CTW) <ref> [1, 2] </ref> takes the opposite view. It uses conservative synchronization within the clusters and an optimistic protocol between them. The reason given for such a choice is that, since LPs in a cluster share the same memory space, their tight synchronization can be performed efficiently.
+Reference: [3] <author> A. Barbour and D. Fish. </author> <title> The biological and social phenomenon of Lyme disease. </title> <journal> Science, </journal> <volume> 260 </volume> <pages> 1610-1616, </pages> <year> 1993. </year>
+Reference-contexts: This disease is prevalent in the Northeastern United States <ref> [3, 13] </ref>. People can acquire the disease by coming in contact with a tick infected with the spirochete, which may transfer into the human's blood, causing an infection.
+Reference: [4] <author> C.D. Carothers, R.M. Fujimoto, and Y.B. </author> <note> Lin. </note>
+Reference-contexts: The space, as previously mentioned, is discretized into a two-dimensional lattice. Similar discretization is used, for example, in personal communication services <ref> [4] </ref>, where the space is discretized by representing the network as hexagonal or square cells. In these simulations, each cell is modeled by an LP. In our research, we have developed a simulation system for spatially explicit problems.
+References-found: 4
+

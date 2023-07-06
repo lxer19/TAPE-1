@@ -1,0 +1,21 @@
+URL: ftp://ftp.cs.washington.edu/tr/1997/05/UW-CSE-97-05-02.PS.Z
+Refering-URL: http://www.cs.washington.edu/research/tr/tr-by-date.html
+Root-URL: http://www.cs.washington.edu
+Email: amir@cs.washington.edu  
+Title: Visual Programming without Procedures  
+Author: Amir Michail 
+Address: Box 352350 Seattle, Washington, 98195  
+Affiliation: Department of Computer Science and Engineering University of Washington,  
+Pubnum: Technical Report UW-CSE-97-05-02  
+Abstract: In this paper, we motivate the idea of visual programming without procedures or functions. If a visual program contains several similar cases, then the user need only implement one case and use built-in domain sensitive algorithms that imitate the implemented case to automatically produce visual code for the similar cases. This work contributes to visual programming research in two ways. First, it eliminates the need for the user to structure visual code. Second, it reduces the complexity of the visualizations thus making the visual code more apparent. We demonstrate our method using Opsis, a system we built to teach binary tree algorithms. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> W. G. Griswold and D. Notkin. </author> <title> Architectural tradeoffs for a meaning-preserving program restructuring tool. </title> <journal> IEEE Trans actions on Software Engineering, </journal> <volume> 21(4) </volume> <pages> 275-287, </pages> <month> April </month> <year> 1995. </year>
+Reference: [2] <author> W. L. Johnson and M. Feather. </author> <title> Building an evolution trans formation library. </title> <booktitle> In International Conference on Software Engineering, </booktitle> <pages> pages 238-248, </pages> <year> 1996. </year>
+Reference: [3] <author> K. J. Lieberherr, I. Silva-Lepe, and C. Xiao. </author> <title> Adaptive object-oriented programming using graph-based customization. </title> <journal> Communications of the ACM, </journal> <volume> 37(5) </volume> <pages> 94-101, </pages> <month> May </month> <year> 1994. </year>
+Reference: [4] <author> A. Michail. </author> <title> Teaching binary tree algorithms through visual programming. </title> <booktitle> In Symposium on Visual Languages, </booktitle> <pages> pages 38-45. </pages> <publisher> IEEE, </publisher> <month> September </month> <year> 1996. </year>
+Reference-contexts: In particular, one might want the user to concentrate on the task at hand rather than on how to structure the visual code for that task. For example, in a system we developed for teaching binary tree algorithms <ref> [4] </ref>, we want students to concentrate on the algorithms themselves rather than worry about what procedures to define. Yet, eliminating procedures reintroduces the problems of code reuse and encapsulation. For small to medium-sized visual programs, encapsulation is not essential but code reuse usually is.
+Reference: [5] <author> D. A. Schmidt. </author> <title> The Structure of Typed Programming Languages. </title> <publisher> The MIT Press, </publisher> <year> 1994. </year>
+Reference: [6] <author> M. VanHilst. </author> <title> Using C++ templates to implement role-based designs. </title> <booktitle> In International Symposium on Object Technologies for Advanced Software, </booktitle> <year> 1996. </year> <month> 8 </month>
+References-found: 6
+

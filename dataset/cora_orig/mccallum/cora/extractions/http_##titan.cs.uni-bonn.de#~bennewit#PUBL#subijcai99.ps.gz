@@ -1,0 +1,26 @@
+URL: http://titan.cs.uni-bonn.de/~bennewit/PUBL/subijcai99.ps.gz
+Refering-URL: http://titan.cs.uni-bonn.de/~bennewit/
+Root-URL: http://cs.uni-bonn.de
+Email: email: beetz,bennewit@cs.uni-bonn.de  grosskreutz@cs.rwth-aachen.de  
+Title: Probabilistic, Prediction-based Schedule Debugging for Autonomous Robot Office Couriers  
+Author: Michael Beetz, Maren Bennewitz Henrik Grosskreutz 
+Address: Roemerstr. 164, D-53117 Bonn, Germany,  D-52056 Aachen Germany  
+Affiliation: Dept. of Computer Science III, University of Bonn  Department of Computer Science Aachen University of Technology  
+Abstract: This paper investigates the problem of scheduling flexible plans that is plans that enable robots to exploit unexpected opportunities and permit dynamic rescheduling. Unfortunately, generating optimal flexible plans requires planning methods to compute schedules with the highest expected utility for huge state spaces a computational task that cannot be accomplished within the resource bounds set by robot problem solving. We propose PPSD as a scheduling technique for quickly generating good schedules, that is schedules that are not likely to cause behavior flaws. To expedite the generation of schedules, PPSD uses a heuristic schedule generator that might propose flawed schedules. To ensure that schedules are good, PPSD then iteratively detects and eliminates schedule flaws. Detecting possible flaws requires PPSD to reason through the operation of flexible plans. Guessing whether the flaws are likely requires PPSD to classify their likelihood wrt the robot's probabilistic belief state. This guess is made on the basis of a small number of randomly projected execution scenarios. The paper discusses the integration of PPSD into the controller of a robot office courier and gives an example of its use. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> M. Beetz and M. Bennewitz. </author> <title> Planning, scheduling, and plan execution for autonomous robot office couriers. </title> <editor> In R. Bergmann and A. Kott, editors, </editor> <title> Integrating Planning, Scheduling and Execution, </title> <booktitle> Workshop Notes 98-02. </booktitle> <publisher> AAAI Press, </publisher> <year> 1998. </year>
+Reference: <author> M. Beetz. </author> <title> Structured reactive controllers a computational model of everyday activity. </title> <booktitle> In Proceedings of the Third International Conference on Autonomous Agents, </booktitle> <year> 1999. </year> <note> to appear. </note>
+Reference: <author> M. Beetz and H. Grosskreutz. </author> <title> Causal models of mobile service robot behavior. </title> <booktitle> In Fourth International Conference on AI Planning Systems, </booktitle> <pages> page 163, </pages> <year> 1998. </year>
+Reference: <author> M. Beetz and D. McDermott. </author> <title> Fast probabilistic plan debugging. </title> <booktitle> In Recent Advances in AI Planning. Procs. of the 1997 European Conf. on Planning, </booktitle> <pages> pages 7790. </pages> <publisher> Springer Publishers, </publisher> <year> 1997. </year>
+Reference: <author> C. McVey, E. Atkins, E. Durfee, and K. Shin. </author> <title> Development of iterative real-time scheduler to planner feedback. </title> <booktitle> In Proceedings of the 15th Int. Joint Conf. on Artificial Intelligence (IJCAI-87), </booktitle> <pages> pages 12671272, </pages> <year> 1997. </year>
+Reference: <author> D. McDermott. </author> <title> A reactive plan language. </title> <institution> Research Report YALEU/DCS/RR-864, Yale University, </institution> <year> 1991. </year>
+Reference: <author> D. McDermott. </author> <title> Transformational planning of reactive behavior. </title> <institution> Research Report YALEU/DCS/RR-941, Yale University, </institution> <year> 1992. </year>
+Reference: <author> D. McDermott. </author> <title> An algorithm for probabilistic, totally-ordered temporal projection. </title> <institution> Research Report YALEU/DCS/RR-1014, Yale University, </institution> <year> 1994. </year>
+Reference: <author> B. Pell, D. Bernard, S. Chien, E. Gat, N. Muscettola, P. Nayak, M. Wagner, and B. Williams. </author> <title> An autonomous spacecraft agent prototype. </title> <booktitle> In Procs of the 1st Int. Conf. on Aut. Agents, </booktitle> <year> 1997. </year>
+Reference: <author> Reid Simmons. </author> <title> The role of associational and causal reasoning in problem solving. </title> <journal> AI Journal, </journal> <volume> 53, </volume> <year> 1992. </year>
+Reference: <author> G. Sussman. </author> <title> A Computer Model of Skill Acquisition, </title> <booktitle> volume 1 of Aritficial Intelligence Series. </booktitle> <publisher> American Elsevier, </publisher> <year> 1977. </year>
+Reference: <author> S. Thrun, A. Bucken, W. Burgard, D. Fox, T. Frohlinghaus, D. Hennig, T. Hofmann, M. Krell, and T. Schimdt. </author> <title> Map learning and high-speed navigation in RHINO. </title> <editor> In D. Kortenkamp, R.P. Bonasso, and R. Murphy, editors, </editor> <title> AI-based Mobile Robots: Case studies of successful robot systems. </title> <publisher> MIT Press, </publisher> <year> 1998. </year>
+
+References-found: 12
+

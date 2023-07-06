@@ -1,0 +1,16 @@
+URL: http://www.cs.berkeley.edu/~woodruff/inktomi/color.ps.gz
+Refering-URL: http://www.cs.berkeley.edu/~woodruff/inktomi/index.html
+Root-URL: 
+Email: email: -woodruff ,aoki,brewer,gauthier,rowe-@cs.berkeley.edu  
+Title: An Investigation of Documents from the World Wide Web  
+Author: Allison Woodruff Paul M. Aoki Eric Brewer Paul Gauthier Lawrence A. Rowe 
+Address: Berkeley, CA 94720-1776  
+Affiliation: Computer Science Division University of California at Berkeley  
+Abstract: We report on our examination of pages from the World Wide Web. We have analyzed data collected by the Inktomi Web crawler (this data currently comprises over 2.6 million HTML documents). We have examined many characteristics of these documents, including: document size; number and types of tags, attributes, file extensions, protocols, and ports; the number of in-links; and the ratio of document size to the number of tags and attributes. For a more limited set of documents, we have examined the following: the number and types of syntax errors and readability scores. These data have been aggregated to create a number of ranked lists, e.g., the ten most-used tags, the ten most common HTML errors. Keywords: HTML, statistics, tools, World Wide Web. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [BOWE96] <author> N. </author> <type> Bowers, </type> <institution> ``Weblint Home Page (version 1.013),'' Khoral Research, Inc., </institution> <address> Albuquerque, NM, </address> <month> Jan. </month> <year> 1996. </year> <note> Available as http://www.khoral.com/staff/neilb/weblint.html. [CATL95] L. </note> <author> D. Catledge and J. E. Pitkow, </author> <title> ``Characterizing Browsing Strategies in the World-Wide Web,'' </title> <booktitle> Proc. 3rd Int. World Wide Web Conf., </booktitle> <address> Darmstadt, Germany, </address> <month> Apr. </month> <year> 1995. </year> <note> Available as http://www.igd.fhg.de/www/www95/proceedings/papers/80/userpatterns/UserPatterns.Paper4.formatted.html. [CHER81] L. </note> <author> L. Cherry, </author> <title> ``Writing Tools - The STYLE and DICTION Programs,'' </title> <note> Computer Science Technical Report No. 91 (TM 79-1271-13), </note> <institution> Bell Laboratories, </institution> <address> Murray Hill, NJ, </address> <month> Feb. </month> <year> 1981. </year>
+Reference-contexts: We filtered out documents that contained any character with the high bit set (indicating a non-ASCII character set) or containing character sequences indicating known encodings (such as the Shift-JIS encoding of the Japanese character set). Markup Language Analysis: weblint We scored documents using weblint <ref> [BOWE96] </ref>, an analogue to the standard UNIX lint utility, written in Perl. We modified weblint to report the classes of errors in a document rather than a line-by-line analysis. Results We examined over 2.6 million HTML documents collected by the Inktomi crawler in November of 1995.
+
+References-found: 1
+

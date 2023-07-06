@@ -1,0 +1,14 @@
+URL: http://www-courses.cs.uiuc.edu/~cs323/nachosdoc/roadmap.ps.gz
+Refering-URL: http://www-courses.cs.uiuc.edu/~cs323/
+Root-URL: http://www.cs.uiuc.edu
+Email: narten@cs.duke.edu  
+Title: A Road Map Through Nachos  
+Author: Thomas Narten 
+Date: January 4, 1995  
+Address: Box 90129 Durham, N.C. 27708-0129  
+Affiliation: Department of Computer Sciences Levine Science Research Center Duke University  
+Abstract: Nachos is instructional software that allows students to examine, modify and execute operating system software. Nachos provides a skeletal operating system that supports threads, user-level processes, virtual memory and interrupt-driven input output devices. Nachos is a complex piece of software and it is difficult for beginning students (and instructors) to easily gain on overall understanding of the various system pieces and how they fit together. This document provides a road map to understanding the Nachos system. It gives a high-level overview of the source code, focusing on the big picture rather than on the details. It is not intended as a replacement for reading the source code. Rather, it is a companion that is intended to help students (and instructors) overcome the initial learning curve encountered when learning and using the system. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

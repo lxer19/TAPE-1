@@ -1,0 +1,20 @@
+URL: http://www.cs.unc.edu/~olano/papers/lowlat.ps.gz
+Refering-URL: http://www.cs.unc.edu/~olano/papers/
+Root-URL: http://www.cs.unc.edu
+Title: Low Latency Rendering on  
+Author: Pixel-Planes Jonathan Cohen Marc Olano 
+Affiliation: University of North Carolina at Chapel Hill  
+Abstract-found: 0
+Intro-found: 1
+Reference: <author> BAJU92 Bajura, M., H. Fuchs, R. Ohbuchi, </author> <title> Merging Virtual Objects with the Real World: Seeing Ultrasound Imagery within the Patient, </title> <booktitle> SIGGRAPH 92, </booktitle> <volume> Vol. 26, No. 2, </volume> <pages> pp. 203-210. </pages>
+Reference: <author> BISH93 Bishop, G., </author> <title> No Swimming, </title> <institution> University of North Carolina Department of Computer Science, HMD Research Project Goals. </institution>
+Reference: <author> ELLS91 Ellsworth, D., </author> <title> Pixel-Planes 5 Rendering Control, </title> <institution> University of North Carolina Department of Computer Science Software Documentation. </institution>
+Reference: <author> FEIN93 Feiner, S., B. MacIntyre, and D. Seligmann, </author> <title> Knowledge-based Augmented Reality, </title> <journal> Communications of the ACM, </journal> <volume> Vol. 36, No. 7, </volume> <pages> pp. 52-62. </pages>
+Reference: <author> FUCH89 Fuchs, H., J. Poulton, J. Eyles, T. Greer, J. Goldfeather, D. Ellsworth, S. Molnar, G. Turk, B. Tebbs, and L. Israel, </author> <title> Pixel-Planes 5: A Heterogeneous Multiprocessor Graphics System Using Processor-Enhanced Memories, </title> <booktitle> SIGGRAPH 89, </booktitle> <volume> Vol. 23, No. 3, </volume> <pages> pp. 79-88. </pages>
+Reference: <author> MINE93a Mine, M., </author> <title> Characterization of End-to-End Delays in Head-Mounted Display Systems, </title> <institution> University of North Carolina Department of Computer Science Technical Report TR93-001. </institution>
+Reference: <author> MINE93b Mine, M., and G. Bishop, </author> <title> Just-In-Time Pixels, </title> <institution> University of North Carolina Department of Computer Science Technical Report TR93-005. </institution>
+Reference: <author> REGA93 Regan, M., and R. </author> <title> Pose, An Interactive Graphics Display Architecture, </title> <institution> Department of Computer Science, Monash University, Clayton, Victoria, Australia. </institution>
+Reference: <author> TEBB92 Tebbs, B., U. Neumann, J. Eyles, G. Turk, and D. Ellsworth, </author> <title> Parallel Architectures and Algorithms for Real-Time Synthesis of High Quality Images using Deferred Shading, </title> <institution> University of North Carolina Department of Computer Science Technical Report TR92-034. </institution>
+
+References-found: 9
+

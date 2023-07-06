@@ -1,0 +1,22 @@
+URL: ftp://ftp.cs.indiana.edu/pub/techreports/TR410b.ps.Z
+Refering-URL: http://www.cs.indiana.edu/ftp/techreports/index.html
+Root-URL: http://www.cs.indiana.edu
+Email: bobmon@cs.indiana.edu  
+Title: Analog Test Board: Design and Operation  
+Author: R. A. Montante 
+Date: August 31, 1994  
+Address: Bloomington, Indiana  
+Affiliation: Computer Science Department Indiana University  
+Abstract: Technical Report No. 410 
+Abstract-found: 1
+Intro-found: 1
+Reference: [MBD90] <author> Jonathan W. Mills, Gordon Beavers, and Charles A. Daffinger. </author> <title> lukasiewicz logic arrays. </title> <type> Technical Report 296, </type> <institution> Indiana University, Bloomington, IN, </institution> <month> March </month> <year> 1990. </year>
+Reference-contexts: In the process some hardware bugs were detected and repaired. This new configuration is used by the author to test the LL9 and KLLA analog logic circuits and others, including a digital implementation of the LL9/KLLA logic. (The LL9/KLLA logic is described in <ref> [MBD90] </ref> and [Mil91]. A KLLA test is described in [MM93].) This technical report is organized in a bottom-up manner. Section 2 report describes the physical design of the ATB, with an eye toward maintaining it in operating condition.
+Reference: [Mil91] <author> Jonathan W. Mills. </author> <title> Area-efficient implication circuits for very dense lukasiewicz logic arrays. </title> <type> Technical Report 339, </type> <institution> Indiana University, Bloomington, IN, </institution> <month> November </month> <year> 1991. </year>
+Reference-contexts: In the process some hardware bugs were detected and repaired. This new configuration is used by the author to test the LL9 and KLLA analog logic circuits and others, including a digital implementation of the LL9/KLLA logic. (The LL9/KLLA logic is described in [MBD90] and <ref> [Mil91] </ref>. A KLLA test is described in [MM93].) This technical report is organized in a bottom-up manner. Section 2 report describes the physical design of the ATB, with an eye toward maintaining it in operating condition.
+Reference: [MM93] <author> R. A. Montante and J. W. Mills. </author> <title> Probabilistic error correction in arbitrarily large lukasiewicz logic arrays. </title> <type> Technical Report 377, </type> <institution> Indiana University, Bloomington, IN, </institution> <month> April </month> <year> 1993. </year>
+Reference-contexts: This new configuration is used by the author to test the LL9 and KLLA analog logic circuits and others, including a digital implementation of the LL9/KLLA logic. (The LL9/KLLA logic is described in [MBD90] and [Mil91]. A KLLA test is described in <ref> [MM93] </ref>.) This technical report is organized in a bottom-up manner. Section 2 report describes the physical design of the ATB, with an eye toward maintaining it in operating condition.
+Reference: [PW87] <author> Franklin . Prosser and David Winkel. </author> <title> the Art of Digital Design. </title> <publisher> P T R Prentice Hall, </publisher> <address> Englewood Cliffs, New Jersey, 2nd edition, </address> <year> 1987. </year>
+Reference-contexts: The DACs are double-buffered, and can be controlled either to convert S in immediately or to wait until a separate Xfer.L signal is received. When 2 The notation signal.L refers to a controlling signal which is logically true when its electrical value is 0V. This notation is described in <ref> [PW87] </ref>; IC schematics often write such signals in the form signal. 3 Both 47pF and 100pF feedback capacitors are used with the op amps; the exact value is not critical. 6 a DAC is addressed, the Address Decode Board converts the address into aWrite.L signal which enables the appropriate DAC to
+References-found: 4
+

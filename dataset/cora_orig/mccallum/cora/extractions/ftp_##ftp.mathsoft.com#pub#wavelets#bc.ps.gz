@@ -1,0 +1,12 @@
+URL: ftp://ftp.mathsoft.com/pub/wavelets/bc.ps.gz
+Refering-URL: http://www.mathsoft.com/wavelets.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: Treatment of Boundary Conditions in the Application of Wavelet-Galerkin Method to a SH Wave Problem  
+Author: Dianfeng LU Tadashi OHYOSHI Lin ZHU 
+Date: March 5, 1996  
+Abstract: One of main problems with the Wavelet-Galerkin is the treatment of boundary conditions. It is sloved by our method which is referred to as Fictitious Boundary Approach. In this approach, a fictitious boundary is assumed to tackle the difficulty of treating boundary conditions. And an additional condition is also made in order to ensure the real solution. This method is adapted to all the three kinds of boundary conditions in the theory of differential equation. To support our method, a SH wave mode problem in a plate is solved, and its numeral result is compared with the exact solution. Although the Wavelet-Galerkin has very good features for solving differential equations, we find that it is still difficult to represent the infinite resonance solution after investigating the error convergence near the resonance point. And we emphasize the importance of selecting a proper sacle j especially to represent the solution near the resonance.
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Mihurin,C.., Shimoritukii,X.JI., Tutui,T.T.,(translater),1968, bibun zekibun hoteisiki no kinji kaiho, sogo tosyo, 153-288.(Japanese) Qian,S., and Weiss,J.,1993, </author> <title> Wavelets and the numerical solution of partial differential equations,J.Compu.Phy.,106, 155-175. Williams,J.R.,and Amaratunga,K., Oct.1992, Introduction to wavelets in engineering,IESL Tech.Rep.No.92-07, Intelligent Engineering Systems Laboratory, MIT. Williams,J.R.,and Amaratunga,K.,1993, Wavelet based Green's function approach to 2D PDEs,Eng.Compu.,10,349-367. Williams,J.R.,and Amaratunga,K.,July 1994, High order wavelet extrapolation schemes for initial problems and boundary value problems, </title> <type> IESL Tech. Rep. </type> <institution> No.94-07, Intelligent Engineering Systems Laboratory, MIT. </institution> <note> Xu,J.C.,and Shann,W.C.,1992,Galerkin-wavelet methods for two-point boundary value problems,Numer.Math.,63 123-144. 10 </note>
+References-found: 1
+

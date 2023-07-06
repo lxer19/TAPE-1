@@ -1,0 +1,13 @@
+URL: http://www.cs.umn.edu/Users/mirrors00/ftp.ccs.neu.edu/pub/sysadmin/req-usenix.ps.gz
+Refering-URL: http://www.cs.umn.edu/Users/mirrors00/ftp.ccs.neu.edu/pub/sysadmin/
+Root-URL: http://www.cs.umn.edu
+Title: Managing the Ever-Growing To Do List  
+Author: Rmy Evard 
+Affiliation: Northeastern University  
+Abstract: A system administrator's most important task is managing the list of user requests, work assignments, and active problems. If these items aren't prioritized and handled, issues can be forgotten or delayed, and important problems may go unsolved while immediate yet trivial problems get all the attention. In the best case, one will spend too much time working on the list of tasks instead of working on the tasks themselves. This paper is an account of our experiences with tackling the problem of keeping track of tasks. We present a software system that we have developed and a methodology for using it to stay on top of the growing list of things to accomplish. We feel that our experiences may be of use to other system administration groups. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Tinsley Galyean, Trent Hein, and Evi Nemeth, Trouble-MH, </author> <title> A Work-Queue Management Package for a &gt;3 Ring Circus, </title> <booktitle> in LISA IV, </booktitle> <pages> pp 93-96, </pages> <address> Colorado Springs, Co, </address> <year> 1990. </year> <title> William Howell, Managing In The 90s: </title> <booktitle> Meeting The Challenge, </booktitle> <month> July </month> <year> 1992. </year> <note> Presented at: </note> <institution> SANS-I, </institution> <address> Washington, D.C., </address> <month> July </month> <year> 1992, </year> <title> UNC-CAUSE, Asheville, NC, October 1992; International Help Desk Conference, </title> <address> Orlando, FL, </address> <note> February 1993; NC Help Desk Chapter, Greensboro, NC, </note> <author> March 1993 David Koblas & Paul M. Moriarty, PITS: </author> <title> A Request Management System, </title> <booktitle> in LISA VI, </booktitle> <pages> pp 197-202, </pages> <address> Long Beach, CA, </address> <year> 1992. </year> <title> RFC 1297, NOC Internal Integrated Trouble Ticket System; Functional Specification Wishlist. </title>
+Reference: <author> James M. Sharp, </author> <title> Request: A Tool For Training New Sys Admins and Managing Old Ones, </title> <booktitle> in LISA VI, </booktitle> <pages> pp. 69-72, </pages> <address> Long Beach, CA, </address> <year> 1992. </year>
+References-found: 2
+

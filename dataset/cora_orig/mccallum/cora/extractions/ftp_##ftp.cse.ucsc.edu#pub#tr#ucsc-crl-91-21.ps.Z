@@ -1,0 +1,20 @@
+URL: ftp://ftp.cse.ucsc.edu/pub/tr/ucsc-crl-91-21.ps.Z
+Refering-URL: http://www.cse.ucsc.edu/~golding/
+Root-URL: http://www.cse.ucsc.edu
+Title: tributed Software and Database Systems, pages 11-24, Oc- An implementation of reliable broadcast using an
+Author: tober . [] H. Garcia-Molina and B. Kogan. [] D. K. Gifford. [] R. Golding and D. D. E. B. Martin, C. Bergan, and B. Russ. PARPC: [] R. M. Metcalfe and D. R. Boggs. 
+Date: 10-12 October 1988.  December 1979.  19(7):395-404, July 1976.  November 1987.  September 1981.  9  
+Address: Columbus, OH),  glewood Cliffs, NJ, 1982.  
+Affiliation: Systems (Ohio State University,  USC Information Sciences Institute,  En  
+Note: Proceedings of 7th Symposium on Reliable Distributed  pages 101 11. IEEE Computer Society Press,  ceedings of 7th ACM Symposium on Operating Systems Principles (Pacific Grove, California), pages 150-62. As sociation for Computing Machinery,  International Journal in Computer Simulation, 1(2), 1991, to appear. [10]  cations of the ACM,  [12] P. Mockapetris. Domain names concepts and facilities. Request for comments 1034. ARPA Network Working Group,  6th International Conference on Distributed Computer Systems, pages 606-12. Institute of Electrical and Electronics Engineers Computer Society, 1986. [14] J.  [15] K. Trivedi. Probability and statistics with reliability, queuing, and computer science applications. Prentice-Hall,  
+Pubnum: 792.  
+Abstract: 9] R. A. Golding. Accessing replicated data in a large-scale distributed systems. Master's thesis; published as Technical report UCSC-CRL-91-18. Computer and Information Science Board, University of California at Santa Cruz, June 1991. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> K. P. Birman and T. A. Joseph. </author> <title> Reliable communication in the presence of failures. </title> <journal> ACM Transactions on Computer Systems, </journal> <volume> 5(1) </volume> <pages> 47-76, </pages> <month> February </month> <year> 1987. </year>
+Reference: [2] <author> D. R. Boggs. </author> <title> Internet broadcasting. </title> <type> Technical report CSL-83-3. </type> <institution> Xerox Palo Alto Research Center, </institution> <address> CA, </address> <month> October </month> <year> 1983. </year>
+Reference: [3] <author> D. R. Cheriton and W. Zwaenepoel. </author> <title> One-to-many inter-process communication in the V-system. </title> <type> Technical report STAN-CS-84-1011. </type> <institution> Computer Systems Laboratory, Department of Computer Science, Stanford University, </institution> <month> August </month> <year> 1984. </year>
+Reference: [4] <author> D. Comer. </author> <title> Internetworking with TCP/IP: principles, protocols, and architecture. </title> <publisher> Prentice Hall, </publisher> <address> Englewood Cliffs, NJ, </address> <year> 1988. </year>
+
+References-found: 4
+

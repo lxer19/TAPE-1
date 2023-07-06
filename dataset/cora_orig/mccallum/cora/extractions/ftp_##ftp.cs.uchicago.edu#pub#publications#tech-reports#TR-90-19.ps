@@ -1,0 +1,18 @@
+URL: ftp://ftp.cs.uchicago.edu/pub/publications/tech-reports/TR-90-19.ps
+Refering-URL: http://cs-www.uchicago.edu/publications/tech-reports/
+Root-URL: 
+Title: Sharing Common Subexpressions in EM code Programs  
+Author: David J. Sherman 
+Note: For additional copies, write:  
+Date: 90-019, May 27, 1990  
+Address: Chicago  1100 E. 58th Street Chicago, Illinois 60637 U.S.A.  
+Affiliation: University of  Department of Computer Science University of Chicago  
+Pubnum: Technical Report  
+Abstract-found: 0
+Intro-found: 1
+Reference: [SS90] <author> David J. Sherman and Robert I. Strandh. </author> <title> An abstract machine for 13 efficient implementation of term rewriting. </title> <type> Technical Report 90-012, </type> <institution> University of Chicago Department of Computer Science, </institution> <year> 1990. </year>
+Reference-contexts: We demonstrate the utility of this method by considering examples in which it saves an exponential amount of time. 2 EM Code EM code is an intermediate code for describing the pattern-matching and term construction operations of term-rewriting systems (see <ref> [SS90] </ref>). An EM code program consists of a symbol table, a set of registers, a start state S 0 , a recursion stack, and a forest of (possibly labeled) instructions. The instructions can be divided into three categories: term traversal, term construction, and program control.
+Reference: [Str88] <author> Robert I. Strandh. </author> <title> Compiling Equational Programs into Efficient Machine Code. </title> <type> PhD thesis, </type> <institution> Johns Hopkins University, Baltimore, Mary-land, </institution> <year> 1988. </year> <month> 14 </month>
+Reference-contexts: We consider compile-time detection of common subterms in the right-hand sides of rules for term-rewriting systems, specifically within our compiler for equational logic programs. Previous methods have worked by explicitly considering the terms constructed by rewrite rules, and either factoring these terms into DAGs or (in the case of <ref> [Str88] </ref>) performing a source-level transformation fl Partially supported by NSF grant CCR 8805503. 1 into a different set of rewrite rules with the same output behavior. We consider another method, which is slightly more general: we perform a simple transformation upon the intermediate EM code produced by the compiler. <p> Since the subterm detection is done once while compiling, it costs us nothing extra at run-time. A further performance issue is how this sharing method interacts with other optimizations. We have in mind two optimizations specific to the application of EM code programs to equational logic programming. Strandh, in <ref> [Str88] </ref>, described two source-level transformations to equational logic programs.
+References-found: 2
+

@@ -1,0 +1,16 @@
+URL: http://www.daimi.aau.dk/~rmunk/mgghat.ps.gz
+Refering-URL: http://www.daimi.aau.dk/~rmunk/publications.html
+Root-URL: http://www.daimi.aau.dk
+Title: An Introduction to MGGHAT  
+Author: Rasmus Munk Larsen 
+Date: January 25, 1996  
+Address: Ny Munkegade, Building 540 DK-8000 Aarhus C, Denmark  
+Affiliation: Department of Computer Science University of Aarhus  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> V. A. Barker & J. Reffstrup, </author> <title> The finite Element Method for Partial Differential Equations, </title> <type> DTU, </type> <month> March </month> <year> 1995 </year>
+Reference-contexts: If we compare this notation to that in Section 3.4-3.5 in <ref> [1] </ref>, we note the following relations 1 : Lecture Notes MGGHAT Equation (3.7) T u 1 p Q f Dirichlet b.c. (3.10) f g Neumann b.c. (3.11) n 1 @y n 2 @x q g Robbins b.c. (3.12) h c hT 0 g 1 Note: If we solve an equation with
+Reference: [2] <author> W. F. Mitchell, </author> <note> MGGHAT Users's Guide Version 1.1 9 </note>
+Reference-contexts: In the paragraphs below we will describe how to use a few of these parameters. For further information consult <ref> [2] </ref>, Section 6. Returning to the example, let us look at the parameters iorder, mxlev and gquiet. iorder = 2 : This tells MGGHAT that the finite element basis functions should be piecewise linear functions. <p> A number of different stopping criterias are available; see Section 6.2 in <ref> [2] </ref>. To calculate the computed value at (0:75; 0:75) we have called the function solut (x,y,iderv,t). This function is part of MGGHAT and can be used to obtain the value of the computed solution and its derivatives. <p> This function is part of MGGHAT and can be used to obtain the value of the computed solution and its derivatives. Of course this should only be called from the main program after the call to subroutine MGGHAT has finished. For further details see <ref> [2] </ref>, Section 7.2. Warning: It sometimes happens that solut computes a wrong value if the elements of the mesh are very narrow or if the mesh is very fine. <p> The available graphs and the corresponding entry numbers in pltsel can be found in <ref> [2] </ref>, Section 8. For our example we have chosen to plot 3 graphs: 1. A surface plot of the computed solution; pltsel (1)=.true.. 2. A plot showing the mesh (triangulation); pltsel (41)=.true.. 3. A graph showing the convergence of the solution in infinity norm; pltsel (52)=.true.. <p> A graph showing the convergence of the solution in infinity norm; pltsel (52)=.true.. To make MGGHAT write the data files gptri.dat, gpsol.dat and gpconv.dat, the user parameters gptri, gpsol and gpconv must be set in the main program (for details see <ref> [2] </ref>, Section 6.3). The data written corresponds to the final solution (after the last refinement step).
+References-found: 2
+

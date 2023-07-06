@@ -1,0 +1,25 @@
+URL: ftp://www.cs.rutgers.edu/pub/technical-reports/cap-tr-15.ps.Z
+Refering-URL: http://www.cs.rutgers.edu/pub/technical-reports/
+Root-URL: 
+Email: ling@cs.rutgers.edu, lou@cs.rutgers.edu  
+Title: Approximation Operators in Distributed Modeling  
+Author: Sui-ky Ringo Ling Louis Steinberg 
+Note: This method has been implemented in a running system, MSG.  
+Address: New Brunswick, NJ 08904  
+Affiliation: Department of Computer Science Rutgers University  
+Abstract: Computer programs which do any task which requires reasoning about physical systems need to use models of those systems with varying accuracy/complexity tradeoffs. This paper describes an approach to model generation in the domain of heat transfer which is capable of producing models that vary greatly along this dimension. This approach is based on the law of conservation of energy, which provides a set of choices for the models in terms of "control volumes" and heat flows. These choices are made by using rules of thumb, which can be seen as instances of two reduction operators, delta-iso and dominance. Various rough models are used to estimate the physical parameters on which these rules depend. That is, the rough models are evaluated in the process of building more accurate ones. The application of these operators is only valid for a specific set of physically meaningful quantities; thus we are really reasoning about physics, not equations. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> S. Addanki, R. Cremonini, and J. S. Pen-berthy. </author> <title> Graphs of models. </title> <journal> Artificial Intelligence, </journal> <volume> 51(1-3):145-177, </volume> <year> 1991. </year>
+Reference: <author> Brian Falkenhainer and Ken Forbus. </author> <title> Compositional modeling: Finding the right model for the job. </title> <journal> Artificial Intelligence, </journal> <volume> 51(1-3):95-144, </volume> <year> 1991. </year>
+Reference: <author> Brian Falkenhainer. </author> <title> A Look at Idealization. </title> <booktitle> In Working notes of the AAAI-92 workshop on Approximation and Abstraction of Computational Theories, </booktitle> <year> 1992. </year>
+Reference: <author> D. P. Finn, J. B. Grimson, and N. M. Harty. </author> <title> An intelligent modelling assistant for preliminary analysis in design. </title> <booktitle> In Proceedings of the Second International Conference on Artificial Intelligence in Design, </booktitle> <year> 1992. </year>
+Reference: <author> Andrew Gelsey. </author> <title> Automated physical modeling. </title> <booktitle> In Proceedings of the 11th International Joint Conference on Artificial Intelligence, </booktitle> <address> Detroit, Michigan USA, </address> <month> August </month> <year> 1989. </year>
+Reference: <author> Frank P. Incropera and David P. DeWitt. </author> <title> Fundamentals of Heat and Mass Transfer-3rd Ed. </title> <publisher> John Wiley and Sons, 3rd edition, </publisher> <year> 1990. </year>
+Reference: <author> Ringo Ling and Louis Steinberg. </author> <title> Automated Generation of Approximate models for Thermal Casting Processes-Some Preliminary Results. </title> <booktitle> In Working Notes of the AAAI-90 workshop on Automatic Generation of Approximations and Abstractions, </booktitle> <year> 1990. </year>
+Reference: <author> Pandurang Nayak. </author> <title> Validating approximate equilibrium models. </title> <booktitle> In Proceedings of the AAAI-1991 Workshop on Model-Based Reasoning, </booktitle> <year> 1991. </year>
+Reference: <author> Pandurang Nayak. </author> <title> Causal approximations. </title> <booktitle> In Proceedings of Tenth National Conference on Artificial Intelligence, </booktitle> <year> 1992. </year>
+Reference: <author> Daniel S. Weld. </author> <title> Approximation reformulations. </title> <booktitle> In Proceedings of Eight National Conference on Artificial Intelligence, </booktitle> <pages> pages 407-412, </pages> <address> Cambridge, Ma, 1990. </address> <publisher> AAAI. </publisher>
+Reference: <author> Daniel S. Weld. </author> <title> Reasoning about model accuracy. </title> <journal> Artificial Intelligence, </journal> <volume> 56, </volume> <year> 1992. </year>
+References-found: 11
+

@@ -1,0 +1,16 @@
+URL: http://www.cs.uni-bonn.de/III/lehre/seminare/Handlungsplanung/WS96/AIM-1293.ps.gz
+Refering-URL: http://www.cs.uni-bonn.de/III/lehre/seminare/Handlungsplanung/WS96/
+Root-URL: http://cs.uni-bonn.de
+Title: Intelligence Without Reason  
+Author: Rodney A. Brooks 
+Note: Prepared for Computers and Thought, IJCAI-91 Copyright c Massachusetts Institute of Technology, 1991  
+Date: 1293 April, 1991  
+Affiliation: MASSACHUSETTS INSTITUTE OF TECHNOLOGY ARTIFICIAL INTELLIGENCE LABORATORY  
+Pubnum: A.I. Memo No.  
+Abstract: Computers and Thought are the two categories that together define Artificial Intelligence as a discipline. It is generally accepted that work in Artificial Intelligence over the last thirty years has had a strong influence on aspects of computer architectures. In this paper we also make the converse claim; that the state of computer architecture has been a strong influence on our models of thought. The Von Neumann model of computation has lead Artificial Intelligence in particular directions. Intelligence in biological systems is completely different. Recent work in behavior-based Artificial Intelligence has produced new models of intelligence that are much closer in spirit to biological systems. The non-Von Neumann computational models they use share many characteristics with biological computation. This report describes research done at the Artificial Intelligence Laboratory of the Massachusetts Institute of Technology. Support for this research was provided in part by the University Research Initiative under Office of Naval Research contract N00014-86-K-0685, in part by the Advanced Research Projects Agency under Office of Naval Research contract N00014-85-K-0124, in part by the Hughes Artificial Intelligence Center, in part by Siemens Corporation, and in part by Mazda Corporation. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Ramachandran and Stuart M. </author> <title> Anstis, </title> <booktitle> Perception 14, </booktitle> <year> 1985, </year> <month> 135-143. </month> <title> [Roberts 63] "Machine Perception of Three-Dimensional Solids", </title> <editor> Larry G. </editor> <title> Roberts, </title> <institution> MIT Lincoln Laboratory, </institution> <type> Technical Report No. 315, </type> <month> May, </month> <year> 1963. </year> <title> [Rosenblatt 62] "Principles of Neurodynamics", </title> <publisher> Frank Rosenblatt, Spartan, </publisher> <address> New York, NY, </address> <year> 1962. </year> <title> [Rosenschein and Kaelbling 86] "The Synthesis of Machines with Provable Epistemic Properties", </title> <editor> Stanley J. Rosenschein and Leslie Pack Kaelbling, </editor> <booktitle> Proc. Conf. on Theoretical Aspects of Reasoning about Knowledge, </booktitle> <editor> Joseph Halpern (ed), </editor> <publisher> Morgan Kaufmann, </publisher> <address> Los Altos, CA, </address> <year> 1986, </year> <month> 83-98. </month> <title> [Rumelhart, Hinton and Williams 86] "Learning Internal Representations by Error Propagation", </title> <address> D. </address>
+
+References-found: 1
+

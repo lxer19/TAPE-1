@@ -1,0 +1,21 @@
+URL: ftp://ftp.cs.uu.nl/pub/RUU/CS/techreps/CS-1993/1993-10.ps.gz
+Refering-URL: http://www.cs.ruu.nl/docs/research/publication/TechList1.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: Detecting the Erosion of Hierarchic Information Structures  
+Author: P.D. Bruza T.W.C. Huibers J. van der Linden T. van Opstal 
+Abstract: In this paper the problem of detecting erosion in hierarchical information structures is studied. This problem manifests itself particularly in environments where there is little or no possibility to guarantee structures in accordance with a specification and furthermore where there is a high frequency of mutation of structures. The notion of information structure is formalized in terms of so called structural expressions. The erosion of information structures is paralleled by increased optionality in the associated structural expressions. In order to detect erosion the Choice Normal Form for structural expressions is introduced. In this normal form all implicit optionality is made explicit. It is shown how arbitrary structural expressions can be brought into the normal form via transformations which are semantic preserving. A graphical formalism is presented whereby analysis of erosion is made more convenient.
+Abstract-found: 1
+Intro-found: 1
+Reference: [Bub86] <author> J.A. Bubenko. </author> <title> Information system methodologies a research view. </title> <editor> In T.W. Olle, H.G. Sol, and A.A. Verrijn Stuart, editors, </editor> <booktitle> Information System Design Methodologies: Improving the Practice, </booktitle> <pages> pages 289-318. </pages> <publisher> North-Holland, </publisher> <year> 1986. </year>
+Reference: [BvdW92] <author> P.D. Bruza and T.P. van der Weide. </author> <title> Stratified Hypermedia Structures for Information Disclosure. </title> <journal> The Computer Journal, </journal> <volume> 35(3) </volume> <pages> 208-220, </pages> <year> 1992. </year>
+Reference: [GT87] <author> G. Gonnet and F. Tompa. </author> <title> Mind Your Grammar: a New Approach to Modelling Text. </title> <booktitle> In Proceedings of the Thirteenth Conference on Very Large Data Bases, </booktitle> <pages> pages 339-346, </pages> <year> 1987. </year>
+Reference: [HH86] <author> W. Horak and K. Hoffman. </author> <title> Office Document Architecture and Office Document Interchange Formats-Current status of international standardization. </title> <booktitle> In ESPRIT'85: Status Report of Continuing Work, </booktitle> <pages> pages 903-917. </pages> <booktitle> The Commision of the European Communities, </booktitle> <publisher> El-sevier Science Publishers, </publisher> <year> 1986. </year>
+Reference: [HvL92] <author> T.W.C. Huibers and G-J. van Leeuwen. </author> <title> Structuuronderzoek bij een Uitgeverij (Structure Research at a Publishing House). </title> <type> Master's thesis, </type> <institution> University of Nijmegen, </institution> <year> 1992. </year> <note> (In Dutch). </note>
+Reference: [ISO86] <author> ISO. </author> <title> Information Processing Text and Office Systems Standard General MarkUp Language (SGML). </title> <address> ISO8879, </address> <year> 1986. </year>
+Reference: [LP81] <author> H.R. Lewis and C.H. Papadimitriou. </author> <title> Elements of the Theory of Computation. </title> <publisher> Prentice Hall, </publisher> <address> Englewood Cliffs, New Jersey, </address> <year> 1981. </year>
+Reference: [Mac91] <author> I.A. MacLeod. </author> <title> A Query Language for Retrieving Information from Hierarchic Text Structures. </title> <journal> The Computer Journal, </journal> <volume> 34(3) </volume> <pages> 254-264, </pages> <year> 1991. </year>
+Reference: [RP92] <editor> L.R. Reynolds and S.J. Perose. </editor> <publisher> Electronic Books. BYTE, </publisher> <pages> pages 263-268, </pages> <month> June </month> <year> 1992. </year>
+Reference: [Smi89] <author> J.M. Smith. </author> <title> Standard Generalized Markup Language and related standards. </title> <journal> Computer Communications, </journal> <volume> 12(2) </volume> <pages> 80-84, </pages> <month> April </month> <year> 1989. </year>
+Reference: [Wri92] <author> H. Wright. </author> <title> SGML Frees Information. </title> <journal> BYTE, </journal> <pages> pages 279-286, </pages> <month> June </month> <year> 1992. </year>
+References-found: 11
+

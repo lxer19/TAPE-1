@@ -1,0 +1,16 @@
+URL: ftp://ftp.imag.fr/pub/TRILAN/Publi/PRC92-DG.ps.gz
+Refering-URL: http://clips.imag.fr/trilan/biblio.html
+Root-URL: http://www.imag.fr
+Title: Sminaire Lexique, PRC Communication Homme-Machine, Ple Langage Naturel, Toulouse, Janvier 92 Outils lexicaux de l'quipe
+Author: J. Courtin, D. Dujardin, D. Genthial, I. Kowarski 
+Keyword: finite state transducer, morphological parsing and generating, detection and correction of errors, typed feature structures, lexical databases  
+Note: Mots-cls  
+Address: IMAG-Campus, BP 53X 38041 Grenoble CEDEX Tl. 76-51-48-78  
+Affiliation: Laboratoire de Gnie Informatique  
+Email: EMail courtin@imag.fr  
+Date: Rsum  
+Abstract: L'objectif de l'quipe TRILAN est la ralisation d'outils gnraux pour le traitement automatique des langues. Nous prsentons ici les travaux effectus sur le niveau lexical. Le projet PILAF s'appuie sur un transducteur gnral d'tats finis bas sur le modle thorique des grammaires validations et saturations. Un analyseur et un gnrateur morphologiques ont t raliss sur la base de ce transducteur. Ils sont entirement paramtrs et les paramtres sont modifiables gr---ce des diteurs interactifs qui permettent une adapatation aise des applications diverses. Soutenue par le PRC Communication Homme-Machine, l'quipe TRILAN a mis en uvre trois techniques de correction lexicale : cl squelette, phontique et morphologie. L'intgration de ces techniques dans le prototype DECOR a fait ressentir la ncessit d'une architecture plus sophistique. Les perspectives actuelles de TRILAN concerne la ralisation d'une base de connaissances lexicales dont l'unit de connaissance lmentaire est une structure de trait type : un Y-terme. Ce type de structure peut s'intgrer au outils existants mais la taille de la base envisage pose le problme de sa mise en uvre. Nous indiquons quels seront nos axes de travail et appelons une collaboration sur ce thme avec d'autres quipes du PRC. Abstract The aim of the TRILAN team is to implement general purpose tools for natural language processing. This paper presents the results we have obtained for the lexical level. The PILAF project is centered on a general finite state transducer based on the theoretical validation-saturation grammar model. The morphological parser and generator have been implemented by means of this transducer. They are entirely parametrized and the parameters may be changed by means of interactive editors, thus allowing easy adaptation to various applications. Supported by the PRC Communication Homme-Machine, the TRILAN team has implemented three techniques for lexical correction: skeleton keys, phonetics and morphology. The integration of these techniques in the DECOR prototype has shown the need of a more sophisticated architecture. Present perspectives for TRILAN include the design of a lexical knowledge base where the atomic knowledge unit will be a typed feature structure: a Y-term. This type of structure can be integrated with existing tools but the very large size of this base will render its implementation difficult. We describe our choices in this area and hope for collaboration on this topic with other teams of the PRC. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

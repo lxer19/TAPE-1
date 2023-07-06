@@ -1,0 +1,18 @@
+URL: file://www-path.eecs.berkeley.edu/pub/PATH/FSP/Packages/fsp.man.1.1.ps.Z
+Refering-URL: http://www-path.eecs.berkeley.edu/FSP/
+Root-URL: http://www.cs.berkeley.edu
+Title: FSP 1.1 The Analysis Software for the FSP Project  
+Author: Karl Petty 
+Date: June 4, 1995  
+Note: c fl1994, Karl Petty Mailing for bug reports: pettyk@eecs.berkeley.edu This manual is for the FSP and XFSP programs  
+Address: Berkeley, CA 94720  
+Affiliation: FSP Project Department of Electrical Engineering and Computer Science University of California, Berkeley  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> John K. Ousterhout. </author> <title> Tcl and the Tk Toolkit. </title> <publisher> Addison-Wesley, </publisher> <year> 1993. </year>
+Reference-contexts: The incident filter tells the program which incidents to filter out of the incident database and the incident run number is just an index for the output files. The xfsp program is a graphical user interface to the fsp program that was written in Tcl/Tk <ref> [1] </ref> and Expect [2]. This program allows the user to generate the runfile and the incident filter by clicking on various buttons and widgets with the mouse. <p> The xfsp and xfspview programs are what the normal user will be using. 3.2 Support Software For The xfsp Program The xfsp and xfspview programs were written on top of two different software tools: Tcl/Tk, that was written by John Ousterhout at the University of California at Berkeley <ref> [1] </ref>, and Expect, 23 24 CHAPTER 3. SETTING UP AND RUNNING THE XFSP PROGRAM that was written by Don Libes at the National Institute of Standards and Technology [2]. Tcl/Tk is a very powerful command language that lets you manipulate graphical objects like windows, buttons, sliderbars, etc. <p> This is done with the following command: clair 1: latex delay.55.tex This is TeX, C Version 3.141 (delay.55.tex LaTeX Version 2.09 &lt;14 January 1991&gt; (/usr/local/tex/inputs/book.sty Document Style `book' &lt;24 Nov 89&gt;. (/usr/local/tex/inputs/bk11.sty)) (/usr/local/tex/inputs/amssymbols.sty) No file delay.55.aux. <ref> [1] </ref> (delay.55.aux) ) Output written on delay.55.dvi (1 page, 2956 bytes). Transcript written on delay.55.log. In the output above the L a T E X program tells us that it has created a file named delay.55.dvi.
+Reference: [2] <author> Don Libes. </author> <title> Exploring Expect: A Tcl-based Tookit for Automating Interactive Applications. </title> <publisher> O'Reilly and Associates, Inc., </publisher> <year> 1994. </year>
+Reference-contexts: The incident filter tells the program which incidents to filter out of the incident database and the incident run number is just an index for the output files. The xfsp program is a graphical user interface to the fsp program that was written in Tcl/Tk [1] and Expect <ref> [2] </ref>. This program allows the user to generate the runfile and the incident filter by clicking on various buttons and widgets with the mouse. <p> SETTING UP AND RUNNING THE XFSP PROGRAM that was written by Don Libes at the National Institute of Standards and Technology <ref> [2] </ref>. Tcl/Tk is a very powerful command language that lets you manipulate graphical objects like windows, buttons, sliderbars, etc. Expect is also a command language that is built on top of Tcl/Tk that allows the xfsp script to control the fsp program.
+
+References-found: 2
+

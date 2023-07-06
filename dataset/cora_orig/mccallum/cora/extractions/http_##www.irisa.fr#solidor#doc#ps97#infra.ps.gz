@@ -1,0 +1,17 @@
+URL: http://www.irisa.fr/solidor/doc/ps97/infra.ps.gz
+Refering-URL: http://www.irisa.fr/solidor/work/astrolog.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Email: fasahai, billiart, cmoring@irisa.fr  
+Title: Astrolog: A Distributed and Dynamic Environment for Network and System Management  
+Author: Akhil Sahai Stephane Billiart Christine Morin BULL 
+Keyword: Network Management, System Management, SNMP, Mobile Agents, Java.  
+Address: 35042 Rennes Cedex (France)  
+Affiliation: INRIA  IRISA, Campus Universitaire de Beaulieu  
+Abstract: Astrolog 1 is a highly dynamic and decentralized management system meant for the management of Astrolab, which is a distributed system comprising of heterogeneous machines running varied operating systems connected by a LAN. The design of Astrolog strikes a balance between a centralized management system and a totally distributed management system drawing on strengths of both the mechanisms. It introduces a unique dynamically variant hierarchical management architecture. It also introduces the concept of a mobile network manager for the first time. Astrolog is designed for management of a platform which is in extensive and regular usage, thus the design is highly practical in approach. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> German Goldzmith. </author> <title> Management By Delegation Technical Report, </title> <institution> Columbia University 1996. </institution>
+Reference: [2] <author> W.Stallings. SNMP, SNMPv2 and CMIP: </author> <title> The practical guide to network management standards. </title> <publisher> Addison-Wesley publication, </publisher> <year> 1994. </year>
+Reference: [3] <author> J. Case, M. Fedor, M. Schoffstall, J. </author> <month> Davin. </month>
+References-found: 3
+

@@ -1,0 +1,34 @@
+URL: ftp://ftp.sics.se/pub/SICS-reports/Reports/SICS-R--90-11--SE.ps.Z
+Refering-URL: http://www.sics.se/libindex.html
+Root-URL: 
+Title: for Reasoning about Communicating Agents  
+Author: by Bjrn Gambck and Manny Rayner 
+Note: Contract Bridge as a Microworld  
+Abstract: SICS research report R90011 ISSN 0283-3638 SICS/R-90/9011 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Borel, E. and Chron, A. </author> <year> 1940. </year> <institution> Thorie Mathmatique du Bridge - A la Porte de Tous. </institution>
+Reference: <institution> Paris: </institution> <note> Gauthier-Villars (in French). </note>
+Reference: <author> Berlekamp, E.R. </author> <year> 1963. </year> <title> Program for Double-Dummy Bridge Problems - A New Strategy for Mechanical Game Playing, </title> <editor> in: Levy, D. (ed.) </editor> <booktitle> Computer games II. </booktitle> <address> New York: </address> <publisher> Springer Verlag. </publisher>
+Reference: <author> Berliner, H. and Campbell, M.S. </author> <year> 1984. </year> <title> Using Chunking to Solve Chess Pawn Endgames. </title> <booktitle> Artificial Intelligence 23. </booktitle>
+Reference: <author> Campbell, M.S. </author> <year> 1988. </year> <title> Chunking as an Abstraction Mechanism. </title> <type> Ph. D. Thesis, </type> <institution> Carnegie-Mellon University. </institution>
+Reference: <author> Epstein, R.A. </author> <year> 1977. </year> <title> The Theory of Gambling and Statistical Logic. </title> <address> San Diego, Calif.: </address> <publisher> Academic Press. </publisher>
+Reference: <author> Gambck , B., Rayner, M. and Pell, B., </author> <year> 1990. </year> <title> An Architecture for a Sophisticated Mechanical Bridge Player, </title> <editor> in: D.F. Beal and D.N.L. Levy (eds.), </editor> <booktitle> Heuristic Programming in Artificial Intelligence - Proceedings of the 2nd Lon don Conference on Computer Games. </booktitle> <address> Chichester: </address> <publisher> Ellis Horwood. </publisher>
+Reference: <author> Laskey, K.B. and Lehner, P.E. </author> <year> 1989. </year> <title> Assumptions, Beliefs and Probabilities. </title> <booktitle> Artificial Intelligence 41, </booktitle> <pages> 65-77. </pages>
+Reference: <author> Levy, </author> <month> D.N.L ., </month> <year> 1989. </year> <title> The Million Pound Bridge Program , in: </title> <editor> D.N.L. Levy and D.F. Beal (eds.), </editor> <booktitle> Heuristic Programming in Artificial Intelligence The First Computer Olympiad. </booktitle> <address> Chichester: </address> <publisher> Ellis Horwood. </publisher>
+Reference: <author> Lindelf, E.T. </author> <year> 1983. </year> <title> COBRA The Computer - Designed Bidding System. </title> <address> London: Victor Gollancz. </address>
+Reference: <author> Moore, R. </author> <year> 1985. </year> <title> A Formal Theory of Knowledge and Action, </title> <editor> in: Hobbs, J. and Moore, R. (eds.) </editor> <title> Formal Theories of the Commonsense World. </title> <address> Norwood, New Jersey: </address> <publisher> Ablex Publishing Corp. </publisher>
+Reference: <author> Nilsland, M. </author> <year> 1978. </year> <title> Modern Standard. Malm: </title> <booktitle> Svenska Bridgefrlaget (in Swedish). </booktitle>
+Reference: <author> Lippmann, R.P. </author> <year> 1987. </year> <title> An Introduction to Computing with Neural Nets. </title> <journal> IEEE ASSP Magazine April, </journal> <pages> 4-22. </pages>
+Reference: <author> Pearl, J. </author> <year> 1985. </year> <title> Heuristics - Intelligent Search Strategies for Computer Problem Solving. </title> <address> Reading, Mass.: </address> <publisher> Addison-Wesley. </publisher>
+Reference: <author> Pearl, J. </author> <year> 1988. </year> <title> Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference. </title> <address> San Mateo, Calif.: </address> <publisher> Morgan Kaufmann. </publisher>
+Reference: <author> Root, W.S. and Pavlicek, R. </author> <year> 1981. </year> <title> Modern Bridge Conventions. </title> <address> New York: </address> <publisher> Crown. </publisher>
+Reference: <author> Rumelhart, D.E., Hinton, G.E. and Williams, </author> <title> R . J . 1 9 8 7 . L e a r n i n g I n t e r n a l Representations by Error Propagation, </title> <editor> in: Rumelhart, D.E. and McClelland, J.L. </editor> <booktitle> Parallel Distributed Processing, </booktitle> <volume> Vol. </volume> <pages> 1. </pages> <address> Cambridge, Mass.: </address> <publisher> MIT Press. </publisher>
+Reference: <author> Russell, S. and Wefald, E. </author> <year> 1989. </year> <booktitle> Principles of Metareasoning. Proceedings of the First International Conference on Principles of Knowledge Representation and Reasoning, </booktitle> <pages> 400-411. </pages>
+Reference: <author> Quinlan, J.R. </author> <year> 1979. </year> <title> A Knowledge-Based System for Locating Missing High Cards in Bridge. </title> <booktitle> Proceedings of the Sixth International Joint Conference on Artificial Intelligence, </booktitle> <pages> 705-707. </pages>
+Reference: <author> Stanier, A. </author> <year> 1975. </year> <title> BRIBIP: A Bridge-Bidding Program. </title> <booktitle> Advance Papers of the Fourth International Joint Conference on Artificial Intelligence, </booktitle> <pages> 374-378. </pages>
+Reference: <author> Sterling, L. and Nygate, Y. </author> <year> 1990. </year> <title> PYTHON: An Expert Squeezer. </title> <note> Journal of Logic Programming 8 , 21-40 Tesauro, </note> <author> G. and Sejnowski, T.J. </author> <year> 1989. </year> <title> A Parallel Network that Learns to Play Backgammon. </title> <booktitle> Artificial Intelligence 39, </booktitle> <pages> 357-388. </pages>
+Reference: <author> Turner, R. </author> <year> 1990. </year> <title> Truth and Modality for Knowledge Representation. </title> <address> London: Bibbles. </address>
+Reference: <author> Tzeng, C-H. </author> <year> 1988. </year> <title> A Theory of Heuristic Information in Game-Tree Serarch. Berlin: Springer-Verlag. Contract Bridge as a Microworld for Reasoning about Communicating Agents 27 Wasserman, </title> <editor> A. </editor> <year> 1970. </year> <title> Achievement of Skill and Generality in an Artificial Intelligence Program. </title> <type> Ph. D. Thesis, </type> <institution> University of Wisconsin. </institution>
+References-found: 23
+

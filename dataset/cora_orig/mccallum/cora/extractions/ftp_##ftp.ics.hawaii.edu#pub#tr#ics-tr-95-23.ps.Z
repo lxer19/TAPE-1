@@ -1,0 +1,20 @@
+URL: ftp://ftp.ics.hawaii.edu/pub/tr/ics-tr-95-23.ps.Z
+Refering-URL: ftp://ftp.ics.hawaii.edu/pub/tr/INDEX.html
+Root-URL: 
+Email: e-mail: johnson@hawaii.edu  
+Phone: (808) 956-3489  
+Title: Egret: A Framework for Advanced CSCW Applications  
+Author: Philip Johnson 
+Address: Honolulu, Hawaii 96822  
+Affiliation: Collaborative Software Development Laboratory Department of Information and Computer Sciences University of Hawaii  
+Abstract: Egret is a publically available, advanced framework for construction of computer-supported cooperative work applications. Egret provides an approach to multi-user, interactive application development that differs markedly from other frameworks or infrastructures, such as Groupkit, WWW, or Lotus Notes. This short paper introduces Egret, its architecture, design philosophy, selected applications, and interest groups within the software engineering community. It concludes with information on how Egret's sources, binaries, and documentation may be obtained free of charge using the Internet. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [Joh94a] <author> Philip M. Johnson. </author> <title> Experiences with EGRET: An exploratory group work environment. </title> <journal> Collaborative Computing, </journal> <volume> 1(1), </volume> <month> January </month> <year> 1994. </year>
+Reference-contexts: To avoid duplication of effort for the two applications, we also began working on a generic collaborative infrastructure called Plover. Subsequently, COREVIEW evolved into CLARE [WJ94], CO2-REVIEW evolved into CSRS [Joh94b], and Plover evolved into Egret <ref> [Joh94a] </ref>. Over the past four years, Egret has undergone continuous and intensive co-evolution with CLARE, CSRS, and several other applications as we have learned through sometimes painful experience about the design and performance requirements for a generic computer-supported cooperative work framework.
+Reference: [Joh94b] <author> Philip M. Johnson. </author> <title> An instrumented approach to improving software quality through formal technical review. </title> <booktitle> In Proceedings of the 16th International Conference on Software Engineering, </booktitle> <month> May </month> <year> 1994. </year>
+Reference-contexts: To avoid duplication of effort for the two applications, we also began working on a generic collaborative infrastructure called Plover. Subsequently, COREVIEW evolved into CLARE [WJ94], CO2-REVIEW evolved into CSRS <ref> [Joh94b] </ref>, and Plover evolved into Egret [Joh94a]. Over the past four years, Egret has undergone continuous and intensive co-evolution with CLARE, CSRS, and several other applications as we have learned through sometimes painful experience about the design and performance requirements for a generic computer-supported cooperative work framework.
+Reference: [WJ94] <author> Dadong Wan and Philip M. Johnson. </author> <title> Experiences with CLARE: a computer-supported collaborative learning environment. </title> <journal> International Journal of Human-Computer Systems, </journal> <volume> 41 </volume> <pages> 851-879, </pages> <month> December </month> <year> 1994. </year>
+Reference-contexts: To avoid duplication of effort for the two applications, we also began working on a generic collaborative infrastructure called Plover. Subsequently, COREVIEW evolved into CLARE <ref> [WJ94] </ref>, CO2-REVIEW evolved into CSRS [Joh94b], and Plover evolved into Egret [Joh94a].
+References-found: 3
+

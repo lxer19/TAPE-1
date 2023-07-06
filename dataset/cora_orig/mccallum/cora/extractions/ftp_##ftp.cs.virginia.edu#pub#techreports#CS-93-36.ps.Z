@@ -1,0 +1,18 @@
+URL: ftp://ftp.cs.virginia.edu/pub/techreports/CS-93-36.ps.Z
+Refering-URL: ftp://ftp.cs.virginia.edu/pub/techreports/README.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: Software Engineering Beginning In The First Computer Science Course 1  
+Author: Jane C. Prey James P. Cohoon Greg Fife 
+Address: Charlottesville, VA 22903  
+Affiliation: Department of Computer Science School of Engineering and Applied Sciences University of Virginia  
+Abstract: The demand for computing and computing power is increasing at a rapid pace. With this demand, the ability to develop, enhance and maintain software is a top priority. Educating students to do competent work in software development, enhancement and maintenance has become a complex problem. Software engineering concepts are typically not introduced in beginning computer science courses. Students do not see software engineering until the third or fourth year of the curriculum. We do not believe students can acquire an adequate software engineering foundation with the present approach. We believe an emphasis on software engineering should begin in the very first course and continue throughout the curriculum. We are redesigning our curriculum to reect this. The first course of the new curriculum is complete. This article focuses on two of the laboratory activities we have developed which deal with specific software engineering concepts. 
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <institution> Communications of the ACM, v35, n11, </institution> <month> November, </month> <year> 1992, </year> <note> p. 32. </note>
+Reference-contexts: Indeed, computing and increasingly powerful computers are the driving force behind the movement of society into the information age, affecting transportation, finance, health care, and most other aspects of modern life; computing technology and related services account for about 5% of the gross national product. <ref> [1] </ref> With the demand for software becoming a larger and more significant portion of the GNP, the ability to develop, enhance and maintain the software is a top priority. Educating students to do competent work in software development, enhancement and maintenance has become a complex problem.
+Reference: 2. <author> Knight, John C., </author> <booktitle> International Perspectives in Software Engineering, The Rocky Mountain Institute of Software Engineering, </booktitle> <address> Boulder, CO, Q1, </address> <year> 1993. </year>
+Reference-contexts: The problem is a serious mismatch between what is taught, how it is taught, and the emphasis it receives on one hand, and what the consumers of the education actually need on the other. <ref> [2] </ref> Comparing the content of the curriculum with the situation in the real world, we see a considerable contrast.
+Reference: 3. <author> Fairley, Richard E., </author> <title> Software Engineering Concepts, </title> <publisher> McGraw-Hill Book Company, </publisher> <year> 1985, </year> <note> p. 186. Curriculum Committee Members Dr. </note> <author> Wm A. Wulf Dr. James P. Cohoon Dr. John Knight Dr. Worthy N. Martin Dr. Randy Pausch Dr. Jane C. </author> <title> Prey Mr. Greg Fife Mr. Rob Deline* Ms. Sally McKee* *Student representatives </title>
+Reference-contexts: The focus of a code walkthrough is to review the material to date. During the walkthrough the reviewee 'walks through' the material while the reviewers look for errors, request clarifications, and explore problem areas in the material under review. <ref> [3] </ref> A simple text editor (miniroff) was written to demonstrate a code walkthrough. The idea of a code walk-through was first introduced in lecture. Its concept and rationale are described in general terms.
+References-found: 3
+

@@ -1,0 +1,16 @@
+URL: ftp://ftp.cs.umd.edu/pub/papers/papers/3262/3262.ps.Z
+Refering-URL: http://www.cs.umd.edu/TRs/TR.html
+Root-URL: 
+Title: Skip List Data Structures for Multidimensional Data page 1 of 39 Skip List Data Structures
+Author: G. Nickerson 
+Keyword: Key words dynamic data structures, range search, multidimensional data, skip lists, searching.  
+Address: New Brunswick  P.O. Box 4400 Fredericton, N.B. E3B 5A3 Canada  
+Affiliation: University of  Faculty of Computer Science  
+Note: Bradford  ACM classification codes E.1, F.2.2  
+Email: Email: bgn@unb.ca  
+Date: April 1994  
+Abstract: University of Maryland Institute for Advanced Computer Studies (UMIACS) Technical Report UMIACS-TR-94-52 , CS-TR-3262 Abstract This report presents four new data structures for multidimensional data. All of these data structures are based on the deterministic skip list. Explanations are provided for the 2-d search skip list and three different versions of the k-d skip list. These structures support fast insertion and deletion. The third version of the k-d skip list and the 2-d search skip list require only O(n) space. The 2-d search skip list allows semi-infinite range searches of type ([L 1 1 2 type ([L 1 1 2 ]) in time O(t + log n). The third version of the k-d skip list seems well suited for range search using parallel processing. Algorithms for building, insertion, deletion and range search for all four data structures are given, along with proofs of worst case complexity for these operations. Complete C code for range search, insertion and deletion in the 2-d search skip list is also presented. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

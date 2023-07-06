@@ -1,0 +1,15 @@
+URL: ftp://rievaulx.dur.ac.uk/pub/tech-reports/1992/3-92.ps.gz
+Refering-URL: http://www.dur.ac.uk/~dcs0www/tech-reports.html
+Root-URL: 
+Phone: FAX: +44 (0)91 374 3741.  
+Author: Jonathan E. Hazan and Richard G. Morgan 
+Note: tained using the tool is also presented. The authors can be contacted by emailing J.E.Hazan@durham.ac.uk.  This research is funded by a grant from the Science and Engineering Research Council of Great Britain.  
+Date: 12th July 1993  
+Address: Durham, DH1 3LE, UK  
+Affiliation: Artificial Intelligence Systems Research Group Computer Science Division School of Engineering and Computer Science University of  
+Pubnum: Technical Report no. 3/92  
+Abstract: Programmers using imperative languages have a number of well-established debugging tools available to them; functional programmers have few, if any, tools available. Many of the tools and techniques developed for debugging functional programs are based on those for imperative programming and lack a theoretical basis relevant to functional programming. In addition, the techniques used are typically very time-consuming. A theoretical foundation on which to base the study of errors and debugging in functional programming is presented in this report. Using this theoretical foundation, a set of program transformation schemes has been developed which facilitate the location of the type of error which results in an evaluation-time error message and the termination of evaluation. A brief description of the practical experience ob 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

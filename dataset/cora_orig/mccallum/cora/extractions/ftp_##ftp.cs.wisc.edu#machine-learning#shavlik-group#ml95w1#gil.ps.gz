@@ -1,0 +1,28 @@
+URL: ftp://ftp.cs.wisc.edu/machine-learning/shavlik-group/ml95w1/gil.ps.gz
+Refering-URL: http://www.cs.wisc.edu/~shavlik/ml95w1/procs.html
+Root-URL: 
+Email: gil@isi.edu  
+Title: Acquiring Knowledge from Users in a Reflective Architecture  
+Author: Yolanda Gil 
+Address: 4676 Admiralty Way Marina del Rey, CA 90292  
+Affiliation: USC/Information Sciences Institute  
+Abstract: As a system acquires more knowledge about a task it should be able to take a more active role in learning additional knowledge. To do so, it must be able to reflect upon the knowledge that it has|at each moment| and understand what every piece of knowledge, old and new, contributes to the task. This is the approach taken in expect, a system that represents and manipulates many different types of knowledge distinctly and explicitly, and is able to determine what additional knowledge it needs to learn from a user based on its current knowledge about the task. This kind of active participation in the learning process is essential in learning complex tasks, not only from users but also from any other external sources of knowledge, be it information servers or other agents.
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Angluin, D. </author> <year> 1988. </year> <title> Queries and concept learning. </title> <journal> Machine Learning, </journal> <volume> 2(4) </volume> <pages> 319-342. </pages>
+Reference: <author> Baudin, C., Kedar, S., Underwood, J. G., and Baya, V. </author> <year> 1993. </year> <title> Question-based aquisition of conceptual indices for multimedia design documentation. </title> <booktitle> In Proceedings of the Eleventh National Conference on Artificial Intelligence, </booktitle> <address> Washington, DC. </address>
+Reference: <author> Dent, L., Boticario, J., McDermott, J., Mitchell, T., and Zabowski, D. </author> <year> 1992. </year> <title> A personal learning apprentice. </title> <booktitle> In Proceedings of the Tenth National Conference on Artificial Intelligence, </booktitle> <address> San Jose, CA. </address>
+Reference: <author> Gil, Y. </author> <year> 1994. </year> <title> Knowledge refinement in a reflective architecture. </title> <booktitle> In Proceedings of the Twelfth National Conference on Artificial Intelligence, </booktitle> <address> Seattle, WA. </address>
+Reference: <author> Gil, Y. and Paris, C. </author> <year> 1994. </year> <title> Towards method-independent knowledge acquisition. </title> <journal> Knowledge acquisition, </journal> <volume> 6(2) </volume> <pages> 163-178. </pages>
+Reference: <author> Huffman, S. B. and Laird, J. E. </author> <year> 1993. </year> <title> Learning procedures from interactive natural language instructions. </title> <booktitle> In Proceedings of the Tenth International Conference on Machine Leaning, </booktitle> <address> Amherst, MA. </address>
+Reference: <author> Ling, X. </author> <year> 1991. </year> <title> Inductive learning from good examples. </title> <booktitle> In Proceedings of the Twelfth International Joint Conference on Artificial Intelligence, </booktitle> <address> Sydney, Australia. </address>
+Reference: <author> MacGregor, R. </author> <year> 1991. </year> <title> The evolving technology of classification-based knowledge representation systems. In Principles of Semantic Networks: Explorations in the Representation of Knowledge, </title> <editor> ed. J. Sowa. </editor> <address> San Mateo, CA: </address> <publisher> Morgan Kaufmann. </publisher>
+Reference: <author> Maes, P. and Kozierok, R. </author> <year> 1993. </year> <title> Learning interface agents. </title> <booktitle> In Proceedings of the Eleventh National Conference on Artificial Intelligence, </booktitle> <address> Washington, DC. </address>
+Reference: <author> Mitchell, T. M., Mahadevan, S. and Steinberg, L. </author> <year> 1990. </year> <title> LEAP: a learning apprentice for VLSI design. </title> <booktitle> In Machine Learning: An Artificial Intelligence Approach, </booktitle> <volume> volume 3. </volume> <publisher> Morgan Kaufmann, </publisher> <address> San Mateo, CA. </address>
+Reference: <author> Pitt, L. and Valiant, L. G. </author> <year> 1988. </year> <title> Computational Limitations on Learning from Examples. </title> <journal> Journal of the Association for Computing Machinery </journal> (35):965-984. 
+Reference: <author> Swartout, W. R. and Gil, Y. </author> <year> 1995. </year> <title> EXPECT: Explicit Representations for Flexible Acquisition. </title> <booktitle> Proceedings of the Ninth Knowledge-Acquisition for Knowledge-Based Systems Workshop, </booktitle> <address> Banff, Alberta, Canada. </address>
+Reference: <author> Swartout, W. R., C. L. Paris, and J. D. Moore. </author> <year> 1991. </year> <title> Design for explainable expert systems. </title> <booktitle> IEEE Expert 6(3) </booktitle> <pages> 58-64. </pages>
+Reference: <author> Tecuci, G. D. </author> <year> 1992. </year> <title> Automating knowledge acquisition as extending, updating, and improving a knowledge base. </title> <journal> IEEE transactions on Systems, Man, and Cybernetics 22(6) </journal> <pages> 1444-1460. </pages>
+Reference: <author> Wilkins, D. C. </author> <year> 1990. </year> <title> Knowledge Base Refinement as Improving an Incorrect and Incomplete Domain Theory. </title> <booktitle> In Machine Learning: An Artificial Intelligence Approach, </booktitle> <volume> Vol III, </volume> <pages> pages 493-513. </pages> <publisher> Morgan Kaufmann, </publisher> <address> San Mateo, CA. </address>
+References-found: 15
+

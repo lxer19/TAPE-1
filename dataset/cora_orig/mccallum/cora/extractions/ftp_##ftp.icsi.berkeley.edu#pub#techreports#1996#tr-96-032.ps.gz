@@ -1,0 +1,21 @@
+URL: ftp://ftp.icsi.berkeley.edu/pub/techreports/1996/tr-96-032.ps.gz
+Refering-URL: http://www.icsi.berkeley.edu/techreports/1996.html
+Root-URL: http://www.icsi.berkeley.edu
+Title: A Simple Approximation Algorithm in Z[e 2i=8  
+Phone: (510) 643-9153 FAX (510) 643-7684  
+Author: M.A. Shokrollahi and V. Stemann 
+Date: August 1996  
+Address: I 1947 Center St. Suite 600 Berkeley, California 94704-1198  
+Affiliation: INTERNATIONAL COMPUTER SCIENCE INSTITUTE  
+Pubnum: TR-96-032  
+Abstract: We describe a very simple and efficient new algorithm for the approximation of complex numbers by algebraic integers in Z[e 2i=8 ] whose coeffcients with respect to the usual basis are bounded in absolute value by a given integer M. Its main idea is the use of a novel signature technique. An important application is the reduction of dynamic range requirements for residue number system implementations of the discrete Fourier transform. The algorithm uses at most 10 log(M ) arithmetic steps and 2:4 log(M) additional memroy. It yields approximations within a distance of at most 3:42=M . Several examples are included which show that the algorithm is very fast in practice. For instance, 50000 complex approximations take less than 0.7 seconds on a SPARC-5. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> J. H. Cozzens and L. A. Finkelstein. </author> <title> Computing the discrete Fourier transform using residue number systems in a ring of algebraic integers. </title> <journal> IEEE Transactions on Information Theory, </journal> <volume> 31(5) </volume> <pages> 580-588, </pages> <year> 1985. </year>
+Reference-contexts: The first column corresponds to M , the second contains the theoretical upper bound on the number of iterations as given in Theorem 4, and the third column gives the maximum number of iterations encountered for 1000 runs on random numbers in <ref> [0; 1] </ref>. The fourth column shows the upper bound on the worst case error which is equal to 3 (1 + p 2) 2 =(2M ), and finally, the last column shows the maximum error encountered during the approximation of the random numbers. <p> Using this technique, we get, e.g., the approximation 1 (8120 2856e 2i=8 4080e 4i=8 + 8626e 6i=8 ) with an error less than 10 9 . Our algorithm runs very fast in practice. For instance, 100000 approximations of random numbers in the interval <ref> [0; 1] </ref> took 0.7 seconds on a SPARC-5.
+Reference: [2] <author> R. A. </author> <title> Games. Complex approximations using algebraic integers. </title> <journal> IEEE Transactions on Information Theory, </journal> <volume> 31(5) </volume> <pages> 565-579, </pages> <year> 1985. </year>
+Reference: [3] <author> R. A. </author> <title> Games. An algorithm for complex approximation in Z[e 2i=8 ]. IEEE Transactions on Information Theory, </title> <booktitle> 32(4) </booktitle> <pages> 603-607, </pages> <year> 1986. </year>
+Reference: [4] <author> M. W. Marcellin and Th. R. Fischer. </author> <title> Encoding algorithms for complex approximation in Z[e 2i=8] . IEEE Transactions on Information Theory, </title> <booktitle> 35(5) </booktitle> <pages> 1133-1136, </pages> <month> September </month> <year> 1989. </year>
+Reference: [5] <author> I. Niven and H. S. Zuckerman. </author> <title> An Introduction to the Theory of Numbers. </title> <publisher> Wiley, </publisher> <address> New York, 4th edition, </address> <year> 1980. </year> <month> 6 </month>
+References-found: 5
+

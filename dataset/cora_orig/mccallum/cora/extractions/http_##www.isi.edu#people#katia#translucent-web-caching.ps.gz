@@ -1,0 +1,21 @@
+URL: http://www.isi.edu/people/katia/translucent-web-caching.ps.gz
+Refering-URL: http://www.isi.edu/people/katia/
+Root-URL: http://www.isi.edu
+Title: Scalable, Highly Available Web Caching  P eter Danzig Network Appliance  
+Author: K atia Obraczka S olos Arthachinda M uhammad Yousuf 
+Affiliation: USC Information Sciences Institute  USC Electrical Engineering Department  USC Computer Science Department  
+Abstract: This paper proposes translucent caching as an alternative to transparent caches. Translucent caches use the fact that network routing forwards a request for an object along the best path from the client to the object's home server. Along this best path, routers direct the request toward a cache chosen among a collection of nearby translucent caches. Unlike transparent caching, which relies on routers to serve as TCP connection intermediaries, translucent caches only use routers to get next-hop cache information. By doing away with TCP connection intermediaries, translucent caches conserve the end-to-end argument-based robustness.
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <institution> ArrowPoint. Arrowpoint communications home page. </institution> <note> Available from http://www.arrowpoint.com/. </note>
+Reference-contexts: The content-location database uses location information to re-direct requests. At the target site, load information can be used to direct the request to the "best" available server. The content-based redirection approach can be used for content servers in general, including Web caches. ArrowPoint Communications <ref> [1] </ref> is currently developing a line of network appliances based on the content-based re-direction concept. 2.3 Transparent Caching Drawbacks The strength of transparent caching is also its main weakness: it violates the end-to-end argument by exposing network routing to higher protocol layers and trying to circumvent it.
+Reference: [2] <author> Cisco. </author> <title> Shared network caching and cisco's cache engine. </title> <note> Available from http://www.cisco.com/. </note>
+Reference: [3] <author> S. Knight, D. Weaver, D. Whipple, and R. Hinden. </author> <title> Virtual router redundancy protocol. Internet Draft draft-hinden-vrrp-00.txt, </title> <month> March </month> <year> 1997. </year>
+Reference-contexts: Several transparent caching schemes have been proposed; we review some of them below. 1 Although most of its customers use it as a load balancing scheme for Web servers, Dispatch can also be applied to Web cache servers. 2 Cache Director Cisco's cache director system <ref> [3] </ref> uses router support to intercept HTTP requests (TCP traffic destined to port 80) and partition them among a collection of cache engines. Each cache engine is assigned a share of the 256 address groups into which the IP address space is split.
+Reference: [4] <author> Darren Reed. </author> <title> The ip packet filter. </title> <address> http://coombs.anu.edu.au/ avalon/ip-filter.html. </address>
+Reference: [5] <author> Resonate. </author> <title> Resonate dispatch 2.0 product overview. </title> <note> Available from http://www.resonateinc.com/. </note>
+Reference: [6] <author> D. Wessels. </author> <title> Squid internet object cache. </title> <note> Squid web page http://squid.nlanr.net/, July 1997. </note>
+Reference-contexts: Clients reference a cache cluster using the cluster's IP address, an IP address to which 2 A similar solution has been proposed for achieving fault tolerance in routers <ref> [6] </ref>. 9 the virtual interfaces of all cluster members are bound. Cache cluster clients such as web browsers will be configured to point to a cluster the same way as they point to regular caches. 3.3.1 The Cluster Failover Protocol (CFP) For simplicity, we assume a cluster of two caches.
+Reference: [7] <author> D. Wessels and K. Claffy. </author> <title> Internet cache protocol (icp), </title> <type> version 2. </type> <institution> Internet Draft draft-wessels-icp-v2-00.txt, </institution> <month> November </month> <year> 1996. </year> <title> 3 Note that our default value overwrites ping's default value of 20 seconds. </title> <type> 12 </type>
+References-found: 7
+

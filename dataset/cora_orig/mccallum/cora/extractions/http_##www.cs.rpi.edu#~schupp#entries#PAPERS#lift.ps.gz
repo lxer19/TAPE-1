@@ -1,0 +1,24 @@
+URL: http://www.cs.rpi.edu/~schupp/entries/PAPERS/lift.ps.gz
+Refering-URL: http://www.cs.rpi.edu/~schupp/entries/research.html
+Root-URL: http://www.cs.rpi.edu
+Email: E-mail: schupp@@informatik.uni-tuebingen.de  
+Title: How To Lift a Library  
+Author: Sibylle Schupp 
+Web: URL: http://www.ca-informatik.uni-tuebingen.de/~schupp  
+Address: 72076 Tubingen, Germany  
+Affiliation: Wilhelm-Schickard-Institut fur Informatik, Universitat Tubingen,  
+Abstract: Generic algebraic libraries run the risk of losing efficiency compared to non-generic libraries. To solve the seeming antagonism between genericity and efficiency, we propose a technique which we call lifting. The lifting process is an abstraction process which starts with a well-known efficient algorithm and abstracts carefully from it. As lifting guarantees that fast non-generic algorithms instantiate their generic lifts, we preserve computing time. Apart from generic programming, lifting is interesting for computer algebra in conceptual and conceptional respects. 
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> Bruno Buchberger, George E. Collins, Mark J. Encarnacion, Hoon Hong, Jeremy Johnson, Werner Krandick, Rudiger Loos, Ana M. Mandache, Andreas Neubacher, and Herbert Vielhaber. </author> <title> SACLIB User's Guide. </title> <institution> Kurt Godel Institute, University of Linz, Austria, </institution> <month> Mar </month> <year> 1993. </year>
+Reference-contexts: In section 3, we give an extended example of how the lift works and which mathematical and algorithmic knowledge is necessary. We lift the SAC-2 ([3]) algorithm MIDCRA, which computes Chinese remainders for modular integers, to the generic algorithm cra. (MIDCRA can also be found in <ref> [1] </ref>.) In section 4, we pose an open question: what is the scope of a lift.
+Reference: 2. <author> George E. Collins. </author> <title> Computer algebra of polynomials and rational functions. </title> <journal> American Mathematical Monthly, </journal> <volume> 80(7) </volume> <pages> 725-755, </pages> <month> aug-sept </month> <year> 1973. </year>
+Reference-contexts: Definition 3.1 A gcd-domain is an integral domain in which any two elements have a greatest common divisor. Thus, the concept of a gcd-domain lies between integral domain and principal ideal domain. The concept was introduced by Collins <ref> [2] </ref>. <p> Following Collins <ref> [2] </ref>, we call the set of representatives an ample set and the corresponding function ample function. We give the complete definition of both concepts and some examples.
+Reference: 3. <author> George E. Collins and Rudiger Loos. </author> <title> Specification and index of SAC-2 algorithms. </title> <type> Technical Report WSI-90-4, </type> <institution> Wilhelm-Schickard-Institut fur Informatik, </institution> <year> 1990. </year>
+Reference: 4. <author> Richard D. Jenks and Robert S. Sutor. </author> <title> Axiom: The Scientific Computation System. </title> <publisher> Springer-Verlag, </publisher> <address> New York, </address> <year> 1992. </year>
+Reference: 5. <author> John D. Lipson. </author> <title> Chinese remainder and interpolation algorithms. </title> <booktitle> In SYMSAM, </booktitle> <pages> pages 372-391. </pages> <year> 1971. </year>
+Reference-contexts: For every n values u i 2 R, 1 i n, there exists a solution u u j u i mod M i of the system of congruences. Proof. The solution u can be described in a closed form; for the exact formula we refer to <ref> [5] </ref> ffi Well-known applications of the Chinese remainder algorithm are - u i 2 Zand m i prime 8i, - u i 2 F [X], F field, and m i linear polynomials: m i =X x i , x i 2 F . <p> A solution u, however, is unique only up to " (m i ) = i m i ; T i (m i ) is the kernel of the epimorphism D i D=(m i ), see <ref> [5] </ref>, p. 373). Since an output parameter of an algorithm has to be well defined, we must distinguish one solution from the set of solutions. If we pass from the computed solution to its image in the ample set of D=(m) (M ), we get an unique solution.
+Reference: 6. <author> Sibylle Schupp and Rudiger Loos. </author> <title> Considerations for a generic SAC library. </title> <type> Technical Report 25/95, </type> <institution> Wilhelm-Schickard-Institut fur Informatik, </institution> <year> 1995. </year> <title> This article was processed using the L A T E X macro package with the LLNCS document class. </title>
+Reference-contexts: They all are called cra, because there is no reason to distinguish one of them from the others. In our generic library, therefore, there must be a mechanism to decide which cra has to be called (for considerations in that direction see <ref> [6] </ref>). Let us summarize why it is an advantage to write generic algorithms by lifting. In comparison to our old non-generic library, we neither lose algorithms nor computing time. We can compute what we could compute before.
+References-found: 6
+

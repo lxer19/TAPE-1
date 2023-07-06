@@ -1,0 +1,16 @@
+URL: http://http.icsi.berkeley.edu/~storn/contest4.ps.gz
+Refering-URL: http://http.icsi.berkeley.edu/~storn/litera.html
+Root-URL: http://www.icsi.berkeley.edu
+Email: storn@icsi.berkeley.edu  kprice@solano.community.net  
+Title: Minimizing the real functions of the ICEC'96 contest by Differential Evolution Differential Evolution (DE) has
+Author: Rainer Storn Kenneth Price 
+Address: Street, Berkeley, CA 94704,  Vacaville, CA 95687,  
+Affiliation: Center  836 Owl Circle,  
+Note: Siemens AG, ZFE T SN2, Otto-Hahn Ring 6, D-81739 Muenchen, Germany, currently on leave at ICSI, 1947  proven to be useful.  This paper describes  
+Abstract: by adding the weighted difference between two population vectors to a third vector. If the resulting vector yields a lower objective function value than a predetermined population member, the newly generated vector will replace the vector with which it was compared in the following generation; otherwise, the old vector is retained. This basic principle, however, is extended when it comes to the practical variants of DE. For example an existing vector can be perturbed by adding more than one weighted difference vector to it. In most cases, it is also worthwhile to mix the parameters of the old vector with those of the perturbed one. The performance of the resulting vector is then compared to that of the old vector. We will describe two variants of DE which have 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> pop_new[i][] = temp[]; //it survives if (value_new &lt; value_best) [1] Storn, R. and Price, K., </author> <title> Differential Evolution - a simple and efficient adaptive scheme for global optimization over continuous spaces, Technical Report TR-95-012, ICSI, http://http.icsi.berkeley.edu/~storn/litera.html - //-all time best ?- value_best = value_new; best[] = temp[]; //save best member </title> -
+
+References-found: 1
+

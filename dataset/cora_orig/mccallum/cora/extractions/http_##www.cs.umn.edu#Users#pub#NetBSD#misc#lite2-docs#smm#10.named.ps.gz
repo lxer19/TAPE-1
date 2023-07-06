@@ -1,0 +1,26 @@
+URL: http://www.cs.umn.edu/Users/pub/NetBSD/misc/lite2-docs/smm/10.named.ps.gz
+Refering-URL: http://www.cs.umn.edu/Users/pub/NetBSD/misc/lite2-docs/smm/
+Root-URL: http://www.cs.umn.edu
+Email: &lt;paul@vix.com&gt;  
+Title: Name Server Operations Guide for BIND Release 4.9.2 Releases from 4.9  
+Author: Paul Vixie Kevin J. Dunlap Michael J. Karels 
+Address: Redwood City, CA Releases through 4.8.3  Berkeley CA 94720  
+Affiliation: Vixie Enterprises  Computer Systems Research Group Computer Science Division Department of Electrical Engineering and Computer Sciences University of California  
+Abstract-found: 0
+Intro-found: 1
+Reference: [Birrell] <author> Birrell, A. D., Levin, R., Needham, R. M., and Schroeder, M.D., ``Grapevine: </author> <title> An Exercise in Distributed Computing.'' </title> <journal> In Comm. A.C.M. </journal> <volume> 25, 4 </volume> <month> 260-274 April </month> <year> 1982. </year>
+Reference: [RFC819] <author> Su, Z. Postel, J., </author> <title> ``The Domain Naming Convention for Internet User Applications.'' Internet Request For Comment 819 Network Information Center, </title> <booktitle> SRI International, </booktitle> <address> Menlo Park, California. </address> <month> August </month> <year> 1982. </year>
+Reference: [RFC974] <author> Partridge, C., </author> <title> ``Mail Routing and The Domain System.'' Internet Request For Comment 974 Network Information Center, </title> <booktitle> SRI International, </booktitle> <address> Menlo Park, California. </address> <month> February </month> <year> 1986. </year>
+Reference: [RFC1032] <author> Stahl, M., </author> <title> ``Domain Administrators Guide'' Internet Request For Comment 1032 Network Information Center, </title> <booktitle> SRI International, </booktitle> <address> Menlo Park, California. </address> <month> November </month> <year> 1987. </year>
+Reference: [RFC1033] <author> Lottor, M., </author> <title> ``Domain Administrators Guide'' Internet Request For Comment 1033 Network Information Center, </title> <booktitle> SRI International, </booktitle> <address> Menlo Park, California. </address> <month> November </month> <year> 1987. </year>
+Reference: [RFC1034] <author> Mockapetris, P., </author> <title> ``Domain Names Concept and Facilities.'' Internet Request For Comment 1034 Network Information Center, </title> <booktitle> SRI International, </booktitle> <address> Menlo Park, California. </address> <month> November </month> <year> 1987. </year>
+Reference: [RFC1035] <author> Mockapetris, P., </author> <title> ``Domain Names Implementation and Specification.'' Internet Request For Comment 1035 Network Information Center, </title> <booktitle> SRI International, </booktitle> <address> Menlo Park, California. </address> <month> November </month> <year> 1987. </year>
+Reference: [RFC1101] <author> Mockapetris, P., </author> <title> ``DNS Encoding of Network Names and Other Types.'' Internet Request For Comment 1101 Network Information Center, </title> <booktitle> SRI International, </booktitle> <address> Menlo Park, California. </address> <month> April </month> <year> 1989. </year>
+Reference: [RFC1123] <author> R. Braden, </author> <title> Editor, ``Requirements for Internet Hosts -- Application and Support'' Internet Request For Comment 1123 Network Information Center, </title> <booktitle> SRI International, </booktitle> <address> Menlo Park, California. </address> <month> October </month> <year> 1989. </year>
+Reference: [RFC1183] <author> Everhart, C., Mamakos, L., Ullmann, R., and Mockapetris, P., </author> <title> ``New DNS RR Definitions'' Internet Request For Comment 1183 Network Information Center, </title> <booktitle> SRI International, </booktitle> <address> Menlo Park, California. </address> <month> October </month> <year> 1990. </year>
+Reference: [Terry] <author> Terry, D. B., Painter, M., Riggle, D. W., and Zhou, S., </author> <title> The Berkeley Internet Name Domain Server. </title> <booktitle> Proceedings USENIX Summer Conference, </booktitle> <address> Salt Lake City, Utah. </address> <month> June </month> <year> 1984, </year> <pages> pages 23-31. </pages>
+Reference: [Zhou] <author> Zhou, S., </author> <title> The Design and Implementation of the Berkeley Internet Name Domain (BIND) Servers. </title> <type> UCB/CSD 84/177. </type> <institution> University of California, Berkeley, Computer Science Division. </institution> <month> May </month> <year> 1984. </year>
+Reference: [Mockapetris] <author> Mockapetris, P., Dunlap, </author> <title> K, </title> <journal> Development of the Domain Name System ACM Computer Communications Review 18, </journal> <volume> 4 </volume> <pages> 123-133. </pages> <booktitle> Proceedings ACM SIGCOMM '88 Symposium, </booktitle> <month> August </month> <year> 1988. </year>
+Reference: [Liu] <author> Liu, C., Albitz, P., </author> <title> DNS and BIND O'Reilly & Associates, </title> <address> Sebastopol, CA, </address> <pages> 502 pages, </pages> <note> ISBN 0-937175-82-X 1992 </note>
+References-found: 14
+

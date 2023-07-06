@@ -1,0 +1,17 @@
+URL: http://www-courses.cs.uiuc.edu/~cs423/LiedtkeIPC.ps.gz
+Refering-URL: http://www-courses.cs.uiuc.edu/~cs423/Papers.html
+Root-URL: http://www.cs.uiuc.edu
+Email: jochen.liedtke@gmd.de  
+Title: Improving IPC by Kernel Design experiment shows, significant performance gains are possible: compared with Mach,
+Author: Jochen Liedtke 
+Address: I5.RS, Schlo Birlinghoven, 53757 Sankt Augustin, Germany  
+Date: December, 1993,  
+Note: 14th ACM Symposium on Operating System Principles 5th-8th  As the L3  purpose von  
+Affiliation: German National Research Center for Computer Science (GMD)  Asheville, North Carolina  GMD  
+Abstract: In contrast, we achieve 5 s; a twentyfold improvement. This paper describes the methods and principles used, starting from the architectural design and going down to the coding level. There is no single trick to obtaining this high performance; rather, a synergetic approach in design and implementation on all levels is needed. The methods and their synergy are illustrated by applying them to a concrete example, the L3 -kernel (an industrial-quality operating system in daily use at several hundred sites). The main ideas are to guide the complete kernel design by the ipc requirements, and to make heavy use of the concept of virtual address space inside the -kernel itself. Permission to copy without fee all or part of this material is granted provided that the copies are not made or distributed for direct commercial advantage, the ACM copyright notice and the title of the publication and its date appear, and notice is given that copying is by permission of the Association for Computing Machinery. To copy otherwise, or to republish, requires a fee and/or specific permission. SIGOPS '93/12/93/N.C., USA c fl 1993 ACM 0-89791-632-8/93/0012:: : $1.50
+Abstract-found: 1
+Intro-found: 1
+Reference: [Acc 86] <author> M. J. Accetta, R. V. Baron, W. Bolosky, D. B. Golub, R. F. Rashid, A. Tevanian, M. W. Young. </author> <note> Mach: </note>
+Reference-contexts: We have overcome the ipc dilemma by carefully constructing a -kernel that more than achieves our aim of a tenfold improvement in ipc performance over comparable systems. 2 Related Work Comparable message based kernels are Amoeba [Mul 84], BirliX [H ar 92], Chorus [Gui 82], and Mach <ref> [Acc 86] </ref>. Ipc improvement was addressed earlier by Cheriton [Che 84a] using registers for short messages. A strictly RPC [Bir 84] oriented ipc system was implemented in DEC's Firefly workstation [Sch 89], the SRC RPC.
+References-found: 1
+

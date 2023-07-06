@@ -1,0 +1,17 @@
+URL: ftp://info.mcs.anl.gov/pub/tech_reports/reports/TM157.ps.Z
+Refering-URL: http://www.mcs.anl.gov/publications/abstracts/abstracts91.htm
+Root-URL: http://www.mcs.anl.gov
+Title: User Guide for the MINPACK-2 Test Problem Collection  
+Phone: 60439  
+Author: Brett M. Averick and Jorge J. More 
+Date: October 1991  
+Address: 9700 South Cass Avenue Argonne, Illinois  
+Affiliation: ARGONNE NATIONAL LABORATORY  Mathematics and Computer Science Division  
+Pubnum: Technical Memorandum No. 157  
+Abstract: Work supported in part by the Applied Mathematical Sciences subprogram of the Office of Energy Research, U.S. Department of Energy, under Contract W-31-109-Eng-38 and in part by the Army Research Office under grant DAALO3-89-C-0038. y Army High Performance Computing Research Center (AHPCRC), Institute of Technology, University of Minnesota, 1100 Washington Avenue South, Minneapolis, Minnesota 55415 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> B. Averick, R. Carter, and J. Mor e, </author> <title> The MINPACK-2 test problem collection (Preliminary Version), </title> <type> Technical Memorandum ANL/MCS-TM-150, </type> <institution> Argonne National Laboratory, Argonne, Illinois, </institution> <year> 1991. </year> <month> 9 </month>
+Reference-contexts: The discussion centers on the description of subroutine parameters, but additional information on the implementation of these subroutines is also provided. The information in this report should be sufficient to use these subroutines for testing and evaluating software. Averick, Carter, and More <ref> [1] </ref> describe the preliminary version of the MINPACK-2 test problem collection. This reference should be consulted for information on problem formulation and for additional details on the relationship between the subroutine parameters and the original problem. <p> Other boundary conditions can be obtained by modifying dennbc. 4.4 Optimal Design with Composite Materials The subroutine doptd (nx,ny,x,f,fgrad,task,lambda) defines the optimal design problem. The parameter lambda is the multiplier of the optimal design problem. Values of interest are 2 <ref> [0; 1] </ref>; a typical value is = 0:008 The subroutine dpsif (t,mu1,mu2,t1,t2,result,task,lambda) computes (t) and computes 0 (t)=t. Other functions can be obtained by modifying dpsif. 4.5 Inhomogeneous Superconductors The subroutine dgland (n,x,f,fgrad,t) defines the inhomogeneous superconductor problem. The parameter t specifies the temperature t.
+References-found: 1
+

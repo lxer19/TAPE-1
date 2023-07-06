@@ -1,0 +1,39 @@
+URL: ftp://ftp.cs.arizona.edu/tsql/tsql2/sql3/mci142.ps
+Refering-URL: http://www.cs.arizona.edu/people/rts/sql3.html
+Root-URL: http://www.cs.arizona.edu
+Title: ANSI X3H2-96-151r1 ISO/IEC JTC1/SC21/WG3 DBL MCI-142 INTERNATIONAL ORGANIZATION FOR STANDARDIZATION Status: Change Proposal Title: Adding
+Author: ORGANISATION INTERNATIONALE DE NORMALISATION Authors: Richard T. Snodgrass, Michael H. Bohlen, Christian S. Jensen and Andreas Steiner 
+Note: Subject: SQL/Temporal  
+Date: May 10, 1996  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> Bohlen, M. H. and Marti R. </author> <title> On the Completeness of Temporal Database Query Languages, </title> <booktitle> in Proceedings of the First International Conference on Temporal Logic. </booktitle> <editor> D. M. Gabbay and H. J. Ohlbach, eds. </editor> <booktitle> Lecture Notes in Artificial Intelligence 827. </booktitle> <publisher> Springer-Verlag, </publisher> <month> July </month> <year> 1994, </year> <pages> pp. 283-300. </pages>
+Reference: [2] <author> Bohlen, M. H. </author> <title> Valid-Time Integrity Constraints, </title> <institution> Aalborg University, </institution> <month> October, </month> <year> 1995, </year> <pages> 21 pages. </pages>
+Reference: [3] <author> Bohlen, M. H., C. S. Jensen and R. T. Snodgrass. </author> <title> Evaluating the Completeness of TSQL2, </title> <booktitle> in Proceedings of the VLDB International Workshop on Temporal Databases. </booktitle> <editor> Ed. J. Clifford and A. Tuzhilin. </editor> <publisher> VLDB. Springer Verlag, </publisher> <month> Sep. </month> <year> 1995. </year>
+Reference: [4] <author> Clifford, J., A. Croker and A. Tuzhilin. </author> <title> On Completeness of Historical Relational Query Languages. </title> <journal> ACM Transactions on Database Systems, </journal> <volume> 19, No. 1, </volume> <month> Mar. </month> <year> 1994, </year> <pages> pp. 64-116. </pages>
+Reference: [5] <author> Jackson, M. A. </author> <title> System Development. </title> <booktitle> Prentice-Hall International Series in Computer Science. Prentice-Hall International, </booktitle> <publisher> Inc., </publisher> <year> 1983. </year>
+Reference: [6] <author> Jensen, C. S. and R. Snodgrass. </author> <title> Temporal Specialization and Generalization. </title> <journal> IEEE Transactions on Knowledge and Data Engineering, </journal> <volume> 6, No. 6 (1994), </volume> <pages> pp. 954-974. </pages>
+Reference: [7] <editor> Melton, J. (ed.) SQL/Foundation. </editor> <month> March, </month> <year> 1996. </year> <note> (ISO/IEC JTC 1/SC 21/WG 3 DBL-MCI-002.) </note>
+Reference: [8] <editor> Melton, J. (ed.) SQL/Temporal. </editor> <month> March, </month> <year> 1996. </year> <note> (ISO/IEC JTC 1/SC 21/WG 3 DBL-MCI-009.) </note>
+Reference: [9] <author> Schueler, B. </author> <title> Update Reconsidered, in Architecture and Models in Data Base Management Systems. </title> <editor> Ed. G. M. Nijssen. </editor> <publisher> North Holland Publishing Co., </publisher> <year> 1977. </year>
+Reference: [10] <author> Snodgrass, R. T., S. Gomez and E. McKenzie. </author> <title> Aggregates in the Temporal Query Language TQuel. </title> <journal> IEEE Transactions on Knowledge and Data Engineering, </journal> <volume> 5, </volume> <month> Oct. </month> <year> 1993, </year> <pages> pp. 826-842. </pages>
+Reference: [11] <author> Snodgrass, R. T. and H. Kucera. </author> <title> Rationale for Temporal Support in SQL3. </title> <booktitle> 1994. </booktitle> <address> (ISO/IEC JTC1/SC21/WG3 DBL SOU-177, SQL/MM SOU-02.) </address>
+Reference: [12] <author> Snodgrass, R. T., K. Kulkarni, H. Kucera and N. Mattos. </author> <title> Proposal for a new SQL Part|Temporal. </title> <booktitle> 1994. </booktitle> <address> (ISO/IEC JTC1/SC21/WG3 DBL RIO-75, X3H2-94-481.) </address>
+Reference: [13] <author> Snodgrass, R. T. </author> <title> (editor) The Temporal Query Language TSQL2. </title> <publisher> Kluwer Academic Pub., </publisher> <year> 1995. </year>
+Reference: [14] <author> Steiner, A. and M. H. Bohlen. </author> <title> The TimeDB Temporal Database Prototype, </title> <month> September, </month> <year> 1995. </year> <note> Available at http://www.iesd.auc.dk/general/DBS/tdb/TimeCenter or at ftp://ftp.cs.arizona.edu/tsql/timecenter/TimeDB.tar.gz. </note>
+Reference: [15] <editor> Tsichritzis, D.C. and F.H. Lochovsky. </editor> <booktitle> Data Models. Software Series. </booktitle> <publisher> Prentice-Hall, </publisher> <year> 1982. </year>
+
+Reference: [[&lt;query expression&gt;]] <author> SQL=T (r 1 ; : : :; r n ) 4 = [[&lt;query expression&gt;]] standard (r 1 ; : : : ; r n ) Here, </author> <title> [[&lt;query expression&gt;]] standard , which evaluates to the relational algebra expression that corresponds to &lt;query expression&gt;, is assumed to be given. This definition satisfies upward compatibility. Example 8: We start with a non-temporal query, i.e., a query evaluated with standard semantics. Assume p and q are both tables without temporal support. The query Q 1 SELECT p.X FROM p, q WHERE p.X = q.X is equivalent to the relational algebra expression </title>
+
+Reference: [[Q 1 ]] <institution> SQL=T (p; t) = [[Q 1 ]] standard (p; t vt now (t)) = p:X (p 1 p:X=t:X (t vt now (t))) : ut This definition satisfies temporal upward compatibility. </institution> <month> Next, </month> <title> we define the semantics of sequenced SQL/Temporal additions in terms of the snapshot semantics. This allows these extensions to be consistent with all snapshot constructs defined in SQL3. </title>
+
+
+
+Reference: [[Q]] <editor> SQL=T (p; q) = [[Q]] standard (p; t vt now (q)) = p:X (p 1 p:X=q:X t vt now (q)) : Now consider the SQL/Temporal query Q 2 = NONSEQUENCED VALIDTIME Q. </editor> <title> q is converted to a table without temporal support with an additional column, containing the valid-time period of the row, then the query is evaluated according to the standard SQL semantics. </title>
+Reference: [[Q 2 ]] <author> SQL=T (p; q) = [[NONSEQUENCED VALIDTIME Q]] SQL=T (p; q) = [[Q]] standard (p; SN (q)) = p:X (p 1 p:X=q:X SN (q)) : Completing this example, </author> <title> let's examine sequenced valid semantics. Assume that p is also a table with valid-time support (sequenced semantics requires all underlying tables to be tables with valid-time support). Consider Q 3 = VALIDTIME Q. </title>
+
+Reference: [[VALIDTIME p &lt;query expression&gt;]] <author> SQL=T (r 1 ; : : : ; r n ) 4 = fht jj V T i j ht jj V T 0 i 2 [[VALIDTIME &lt;query expression&gt;]] SQL=T (r 1 ; : : : ; r n ) ^ V T = V T 0 " [[p]] ^ V T 6= ;g If a period expression follows NONSEQUENCED VALIDTIME, </author> <title> a valid-time table results, with the valid-time period as specified. Assume in the following that all the tables are tables with valid-time support. </title>
+
+
+References-found: 20
+

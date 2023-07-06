@@ -1,0 +1,13 @@
+URL: http://www.ai.mit.edu/people/brooks/papers/colt.ps.Z
+Refering-URL: http://www.ai.mit.edu/people/brooks/paperlist.html
+Root-URL: 
+Email: brooks@ai.mit.edu  
+Title: The Role of Learning in Autonomous Robots  
+Author: Rodney A. Brooks 
+Address: 545 Technology Square Cambridge, MA 02139  
+Affiliation: MIT Artificial Intelligence Laboratory  
+Abstract: Applications of learning to autonomous agents (simulated or real) have often been restricted to learning a mapping from perceived state of the world to the next action to take. Often this is couched in terms of learning from no previous knowledge. This general case for real autonomous robots is very difficult. In any case, when building a real robot there is usually a lot of a priori knowledge (e.g., from the engineering that went into its design) which doesn't need to be learned. We describe the behavior-based approach to autonomous robots, and then examine four classes of learning problems associated with such robots.
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

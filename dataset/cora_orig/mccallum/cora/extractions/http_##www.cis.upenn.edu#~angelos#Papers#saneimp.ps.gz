@@ -1,0 +1,14 @@
+URL: http://www.cis.upenn.edu/~angelos/Papers/saneimp.ps.gz
+Refering-URL: http://www.cis.upenn.edu/~switchware/home.html
+Root-URL: 
+Title: Performance Implications of Securing Active Networks  
+Author: D. Scott Alexander, William A. Arbaugh, Angelos D. Keromytis and Jonathan M. Smith flyz 
+Abstract: Security is an obvious risk to active networking, as increased flexibility creates numerous opportunities for mischief. The point at which this flexibility is exposed, e.g., through the loading of code into network elements, must therefore be carefully crafted to ensure security. The Secure Active Network Environment (SANE) architecture provides a secure bootstrap process resulting in a module loader / packet execution environment. As a set of nodes bootstrap, they exchange certificates to permit secure module exchange. This paper demonstrates that SANE, while exhibiting performance degradation relative to unsecured operation, is able to perform acceptably. We include measurements comparing the loading of an active ping on a secure versus an insecure infrastructure. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [ABG + 97] <author> D. Scott Alexander, Bob Braden, Carl A. Gunter, Alden W. Jackson, Ange los D. Keromytis, Gary J. Minden, and David Wether--all. </author> <title> Active network encapsulation protocol (anep). </title> <note> http://www.cis.upenn.edu/angelos/ANEP.txt.gz, August 1997. </note> <author> [AFS97] William A. Arbaugh, David J. Farber, and Jonathan M. Smith. </author> <title> A Secure and Reliable Bootstrap Architecture. </title> <booktitle> In Proceedings 1997 IEEE Symposium on Security and Privacy, </booktitle> <pages> pages 6571, </pages> <month> May </month> <year> 1997. </year> <editor> [AKFS98] William A. Arbaugh, Angelos D. </editor> <address> Keromytis, </address> <note> David J. </note>
+Reference-contexts: The derived shared key is used to authenticate and / or encrypt further communications between the two parties. 4.5 Packet Authentication Once a key has been established between two nodes, they can commence exchanging authenticated and / or encrypted packets. In SANE, we use the ANEP <ref> [ABG + 97] </ref> packet format over UDP, although in an homogenous active network a packet format would be unnecessary. We've added an authentication header, as shown in Figure 4, similar to the one used in the IPsec Authentication Header protocol [Atk95a].
+
+
+References-found: 1
+

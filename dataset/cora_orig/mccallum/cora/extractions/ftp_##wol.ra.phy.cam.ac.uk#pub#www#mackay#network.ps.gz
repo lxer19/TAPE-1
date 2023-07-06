@@ -1,0 +1,14 @@
+URL: ftp://wol.ra.phy.cam.ac.uk/pub/www/mackay/network.ps.gz
+Refering-URL: http://131.111.48.24/mackay/README.html
+Root-URL: 
+Email: mackay@mrao.cam.ac.uk  
+Title: Probable networks and plausible predictions a review of practical Bayesian methods for supervised neural networks  
+Author: David J C MacKay 
+Address: Cambridge, CB3 0HE. United Kingdom.  
+Affiliation: Cavendish Laboratory,  
+Abstract: Bayesian probability theory provides a unifying framework for data modelling. In this framework the overall aims are to find models that are well-matched to the data, and to use these models to make optimal predictions. Neural network learning is interpreted as an inference of the most probable parameters for the model, given the training data. The search in model space (i.e., the space of architectures, noise models, preprocessings, regularizers and weight decay constants) can then also be treated as an inference problem, in which we infer the relative probability of alternative models, given the data. This review describes practical techniques based on Gaussian approximations for implementation of these powerful methods for controlling, comparing and using adaptive networks.
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> R. </author> <title> Statist. Soc. B 49 (3) 240-265 Weir N 1991 Applications of maximum entropy techniques to HST data In Proceedings of the ESO/ST-ECF Data Analysis Workshop, April 1991 Witten I H, Neal R M and Cleary J G 1987 Arithmetic coding for data compression Communications of the ACM 30 (6) 520-540 Wolpert D H 1993 On the use of evidence in neural networks In Advances in Neural Information Processing Systems 5 , ed C L Giles, </title> <editor> S J Hanson and J D Cowan, </editor> <address> pp 539-546, San Mateo, California. </address> <publisher> Morgan Kaufmann (c) by David MacKay. </publisher>
+References-found: 1
+

@@ -1,0 +1,62 @@
+URL: ftp://ftp.icsi.berkeley.edu/pub/techreports/1996/tr-96-055.ps.gz
+Refering-URL: http://www.icsi.berkeley.edu/techreports/1996.html
+Root-URL: http://www.icsi.berkeley.edu
+Title: Aspects of Algebraic Geometry over Non Algebraically Closed Fields  
+Phone: (510) 643-9153 FAX (510) 643-7684  
+Author: Tomas Sander 
+Date: December 1996  
+Address: I 1947 Center St. Suite 600 Berkeley, California 94704-1198  
+Affiliation: INTERNATIONAL COMPUTER SCIENCE INSTITUTE  
+Pubnum: TR-96-055  
+Abstract: In this paper we study algebraic-geometric properties of the set of K-rational points V K of K-varieties V . We introduce an elementary class of fields K of char 0 for which we prove: 1. Algebraic-geometric data of V K (e.g. the dimension of V K ) can be computed 
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <institution> The computability of algebraic-geometric properties of V K </institution> . 
+Reference: 2. <institution> The first order definability of algebraic-geometric properties of V K in the language of rings. </institution>
+
+Reference: 1. <editor> For algebraically closed fields K in 1926 by G. Herrmann (cf. [Her]). </editor> <volume> 2 </volume>
+
+Reference: 1. <institution> Decide for a prime ideal P whether it is K-radical or not. </institution>
+Reference: 2. <institution> If P is not K-radical find a polynomial g that vanishes on V K (P ), but not on V C (P </institution> ). 
+
+Reference: 1. <institution> The dimension of V K </institution>
+Reference: 2. <institution> The decomposition of V K into its K-irreducible components </institution>
+Reference: 3. <institution> The singular locus of V K </institution>
+Reference: 4. <institution> The K-Zariski-closure of the image of V K under projections (Elimination Theory) </institution>
+Reference: 5. <institution> The Zariski-closure of the image of V K under K-regular maps (the Implicitization Problem) </institution>
+
+Reference: 1. <institution> Factorization in K[X]. </institution>
+
+Reference: 1. <institution> They can be chosen to be 0 3 (and also 0 3 ) formulas. </institution>
+Reference: 2. <institution> For an inductive elementary class they can be taken as Boolean combinations of 0 2 formulas. </institution>
+
+Reference: 1. <institution> The existential theory of K with parameters in k is decidable. </institution>
+
+Reference: 1. <institution> The dimension of V , 8 </institution>
+Reference: 2. <institution> The decomposition of V into its K-irreducible components, </institution>
+Reference: 3. <institution> The singular locus of V </institution> , 
+Reference: 4. <institution> The Zariski-closure of V n W , where W is another K-variety, </institution>
+Reference: 5. <institution> The K-Zariski-closure of the image of V under projections (elimination theory), </institution>
+Reference: 6. <institution> The Zariski-closure of the image of V under K-regular maps (the implicitization problem), </institution>
+
+Reference: 1. <institution> A is K-radical. </institution>
+Reference: 2. <institution> V K (A) is Zariski dense in V (A) and A is a radical ideal. </institution>
+
+Reference: 1. <institution> V contains a dense subset of K-rational points. </institution>
+
+Reference: 1. <institution> P is K-radical </institution>
+
+Reference: 1. <institution> Decide for a prime ideal P whether it is K-radical or not. </institution>
+Reference: 2. <institution> If P is not K-radical find a polynomial g that vanishes on V K (P ), but not on V C (P </institution> ). 
+
+Reference: 1. <institution> Decidability whether a system of algebraic equations with coefficients in K has a K-rational solution. </institution>
+Reference: 2. <editor> Factorization in K[X]. </editor> <title> Proof In Theorem 1.8 we have reduced the computation of the K-radical to the following questions: </title>
+Reference: 1. <editor> Decide for a prime ideal P K[: </editor> : :] <title> whether it is K-radical or not. </title>
+Reference: 2. <author> If P is not K-radical, </author> <title> find polynomials not in P vanishing on V K (P </title> ). 
+
+Reference: 1. <author> C, </author> <title> algebraically closed fields, pseudo-algebraically closed fields (PAC-Fields) </title>
+Reference: 2. <author> IR, </author> <title> real closed fields, pseudo-real closed fields (PRC-Fields), the field of totally real numbers </title>
+
+
+References-found: 32
+

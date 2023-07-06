@@ -1,0 +1,12 @@
+URL: ftp://ftp.cs.man.ac.uk/pub/TR/UMCS-97-9-1-burgess.ps.Z
+Refering-URL: ftp://ftp.cs.man.ac.uk/pub/TR/UMCS-97-9-1.html
+Root-URL: http://www.cs.man.ac.uk
+Author: Neil Burgess, James Grant Donnett and John O'Keefe 
+Date: 7/4/97  
+Address: College London  
+Affiliation: Department of Anatomy University  
+Abstract: Do we care about robots, or are we just interested in ourselves? Abstract A robot is "useful" when it can perform a specific task. Often the task is mundane and the particular way the robot solves the task is unimportant with respect to "usefulness". When is a robot "interesting"? We will argue that robotic solutions or behaviours regarded as "interesting" or "intelligent" tend to be those that mimic animal behaviour. This is not accidental: we are actually interested in ourselves. A robot that we think provides insight into animal behaviour is "interesting" because we want to know how animals, and especially humans, work. An alternative position is that roboticists are interested in nature solely because it might be useful, given that nature has found powerful solutions to many specific tasks. This may be self-deception in that many tasks have been best solved by completely unnatural machines, free of the extra biological constraints faced by an evolving organism. We believe that research into "intelligent" robotics should be encouraged precisely because of the potential insight they can provide into animal behaviour, development and evolution. However, this motivation should be explicit: incidental analogies have little value, however cute. This viewpoint will be tested by presenting a robotic simulation of spatial navigation based explicitly on the solution achieved in a part of the rat's brain (the hippocampus) and linking it to human behaviour. The audience's resulting interest or boredom will then speak for itself on this issue. Proc. TIMR 97 Towards Intelligent Mobile Robots, Manchester 1997. Technical Report Series, Department of Computer Science, Manchester University, ISSN 1361 - 6161. Report number UMCS-97-9-1. http://www.cs.man.ac.uk/csonly/cstechrep/titles97.html 
+Abstract-found: 1
+Intro-found: 0
+References-found: 0
+

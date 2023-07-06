@@ -1,0 +1,15 @@
+URL: ftp://info.mcs.anl.gov/pub/tech_reports/reports/P385.ps.Z
+Refering-URL: http://www.mcs.anl.gov/publications/abstracts/abstracts93.htm
+Root-URL: http://www.mcs.anl.gov
+Title: ASYMPTOTIC CONVERGENCE ANALYSIS OF SOME INEXACT PROXIMAL POINT ALGORITHMS FOR MINIMIZATION  
+Author: Ciyou Zhu 
+Keyword: Proximal point algorithm, bundle method, linear convergence, extended linear-quadratic programming.  
+Note: This research was supported by the Office of Scientific Computing, U.S. Department of Energy, under Contract W-31-109-Eng-38 and the National Science Foundation under Contract ASC-9213149.  
+Date: August, 1993; revised July, 1994  
+Address: 9700 South Cass Avenue, Argonne, IL 60439  
+Affiliation: Mathematics and Computer Science Division, Argonne National Laboratory  
+Abstract: In this paper, we prove that the inexact proximal point algorithm (PPA) in the form of Bonnans-Gilbert-Lemarechal-Sagastizabal's "general algorithmic pattern" (GAP-1) converges linearly under mild conditions. Based on this essential result, we prove the linear convergence for the bundle method without requiring the differentiability of the objective function or the uniqueness of the solution. We also prove the linear convergence for Correa-Lemarechal's "implementable form" of PPA and derive its rate of convergence. As applications, we propose another variant (GAP-2) of inexact PPA, which shares the same convergence property as GAP-1 but makes more sense numerically. In the framework of GAP-2, we develop linearly convergent inexact PPA schemes with fixed number of inner-loop iterations, for solving hemiquadratic extended linear-quadratic programming problems, and for minimizing convex C 1 functions without requiring strong convexity. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

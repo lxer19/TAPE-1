@@ -1,0 +1,18 @@
+URL: ftp://theory.cs.uni-bonn.de/pub/reports/cs-reports/1995/85146-cs.ps.gz
+Refering-URL: http://cs.uni-bonn.de/info5/publications/CS-1995-en.html
+Root-URL: http://cs.uni-bonn.de
+Title: A Simple Linear-Time Algorithm to Find the Contour in a Coloured Triangular Graph  
+Author: Carsten Dorgerloh Jens Lussem 
+Address: Romerstr. 164, D-53117 Bonn Germany  
+Affiliation: Institut fur Informatik der Universitat Bonn  
+Abstract: We develop an O(n) algorithm to construct the contour of an n-vertex coloured triangular graph. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [AHU 83] <author> Aho, A., Hopcroft, J., Ullman, J., </author> <title> Data Structures and Algorithms, </title> <publisher> Addison-Wesley Publishing Company, </publisher> <year> 1983. </year>
+Reference-contexts: The remaining graph is made up of what we call the black components of G. The computation of the black components can be done using standard algorithms for connected components which are based on depth-first-search or breadth-first search (see e.g. <ref> [AHU 83] </ref>).
+Reference: [CSJ 93] <author> Chapman, C., Saitou, K., Jakiela, M., </author> <title> Genetic Algorithms as an Approach to Configuration and Topology Design, </title> <booktitle> ASME Design Automation Conference, </booktitle> <address> Albuquerque (1993). </address>
+Reference-contexts: Furthermore, C is constrained to contain only those cycles which are not enclosed by another cycle. The contour of a graph finds industrial applications in topology design <ref> [CSJ 93] </ref>. The paper is organized as follows. Section 2 contains a precise definition of the problem for the 2-dimensional case and some definitions and notations used throughout the paper. Section 3 describes the elementary steps of the algorithm for the contour problem and shows how to implement them efficiently.
+Reference: [Ev 79] <author> Even, S., </author> <title> Graph Algorithms, </title> <publisher> Computer Science Press, </publisher> <year> 1979. </year> <month> 7 </month>
+Reference-contexts: From the proof of correctness of the elementary steps the correctness of the main algorithm of the sequence is immediately clear. Finally, we describe that the algorithm can easily be extended to the d-dimensional case. 2 Notations and definitions The terminology used in this paper follows that of Even <ref> [Ev 79] </ref>. Let G = (V; E) be a planar graph. Consider a fixed plane embedding of G. The unbounded region is called the exterior face. Other faces are called interior faces. The vertices and the edges on the exterior face are called exterior vertices and exterior edges, respectively. <p> The following lemma is helpful, because for planar graphs it implies that an O (jV j + jEj) algorithm is really an O (jV j) algorithm. A proof can be found in <ref> [Ev 79] </ref>. Lemma 1 If G = (V; E) is any planar graph with jV j 3.
+References-found: 3
+

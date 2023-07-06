@@ -1,0 +1,15 @@
+URL: ftp://info.mcs.anl.gov/pub/tech_reports/reports/P377.ps.Z
+Refering-URL: http://www.mcs.anl.gov/publications/preprints.htm
+Root-URL: http://www.mcs.anl.gov
+Title: ON A CERTAIN PARAMETER OF THE DISCRETIZED EXTENDED LINEAR-QUADRATIC PROBLEM OF OPTIMAL CONTROL  
+Author: Ciyou Zhu 
+Keyword: Extended linear-quadratic programming, Minimax problem, Optimal control, Primal-dual projected gradient algorithm  
+Note: This research was supported by the Office of Scientific Computing, U. S. Department of Energy, under Contract W-31-109-Eng-38 and the National Science Foundation under Contract ASC-9213149.  
+Date: July 1993 revised May 1994  
+Address: 9700 South Cass Avenue, Argonne, IL 60439  
+Affiliation: Mathematics and Computer Science Division, Argonne National Laboratory  
+Abstract: The number fl := k ^ Q 1 2 ^ R ^ P 1 2 k is an important parameter for the extended linear-quadratic programming (ELQP) problem associated with the Lagrangian L(^u; ^v) = ^p^u + 1 2 ^u ^ P ^u + ^q^v 1 2 ^v ^ Q^v ^v ^ R^u over polyhedral sets ^ U fi ^ V : Some fundamental properties of the problem, as well as the convergence rates of certain newly developed algorithms for large-scale ELQP, are all related to fl: In this paper, we derive an estimate of fl for the ELQP problems resulting from discretization of an optimal control problem. We prove that the parameter fl of the discretized problem is bounded independently of the number of subintervals in the discretization. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

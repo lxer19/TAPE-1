@@ -1,0 +1,21 @@
+URL: ftp://ftp.cs.man.ac.uk/pub/cnc/network.ps.gz
+Refering-URL: http://www.cs.man.ac.uk/cnc/arena/publication.html
+Root-URL: http://www.cs.man.ac.uk
+Email: email: ken@cs.man.ac.uk bridglaj@cs.man.ac.uk  
+Title: Network performance in Arena  
+Author: K.R. Mayes, J. Bridgland, S. Quick and A. Nisbet 
+Web: http://www.cs.man.ac.uk/cnc/arena  
+Address: Manchester, Oxford Road, Manchester, UK.  
+Affiliation: University of  
+Abstract-found: 0
+Intro-found: 1
+Reference: <author> Mayes, K., S. Quick, J. Bridgland and A. </author> <title> Nisbet (1994) Language- and application-oriented resource management for parallel architectures. </title> <booktitle> Proceedings of the 6th ACM SIGOPS European Workshop, </booktitle> <month> September, </month> <pages> 172-177. </pages>
+Reference-contexts: This issue is seen in distributed systems, where the performance of handling network traffic is of prime importance. This paper describes the mechanisms used in the Arena customisable operating system 1 <ref> (Mayes et al, 1994) </ref> to support flexible and efficient network handling on a distributed store multicomputer.
+Reference: <author> Quick, S. </author> <title> (1996) A generalised hardware interface for operating systems. </title> <type> PhD Thesis, </type> <institution> University of Manchester (In Preparation). </institution>
+Reference-contexts: Resource managers are represented by libraries of manager objects that are linked to the application. Access to the mechanisms of the hardware is provided by a layer of hardware-dependent code which provides a low-level abstraction of processor and store hardware <ref> (Quick, 1996) </ref>. These abstractions form an interface which can be implemented native on many processors for portability. The initial target architecture for the distributed implementation of Arena is the European Declarative System prototype machine (EDSP).
+Reference: <author> Ritchie, </author> <title> D.S. and G.W. Neufeld (1993) User level IPC and device management in the Raven kernel. </title> <booktitle> Usenix Association Proc. Symp. on Microkernels and other Kernel Architectures (Sept), </booktitle> <pages> 111-125. </pages>
+Reference-contexts: Raven maps device registers into a user address space so they are directly accessible to user-level tasks responsible for event handling <ref> (Ritchie and Neufeld, 1993) </ref>. The Arena approach seeks to combine security, flexibility and efficiency in networking by executing device driver code at supervisor-level, allowing policy to be implemented as user-level handler threads, and providing a means of avoiding copying.
+Reference: <author> Ward, M. and P. </author> <title> Townsend (1990) EDS hardware architecture. </title> <booktitle> Lecture Notes in Computer Science 457, </booktitle> <month> 816-827. </month> <title> This article was processed using the L A T E X macro package with LLNCS style. </title>
+Reference-contexts: The initial target architecture for the distributed implementation of Arena is the European Declarative System prototype machine (EDSP). This is a distributed store multicomputer with an internal network connecting the processing nodes, each of which has two Sparc processors sharing 64 Mb of nodal store <ref> (Ward and Townsend, 1990) </ref>. Arena provides an optimised transfer, where the application buffer is used directly by the network driver which executes in supervisor mode. A hardware event may cause an upcall to be made into user-level, to allow deferred processing of the event by an event handler thread. <p> may introduce inefficiency due to the context switch to the handler thread. 1 This work is supported by EPSRC grants GR/J 84045, 93315512 and 91309499. 3 Performance Results and Discussion Performance figures for transferring data between two nodes of the EDSP machine were measured for Arena and for a microkernel <ref> (Ward and Townsend, 1990) </ref>. The values for the microkernel were obtained using an RPCSend () RPCRe-ply () pair. Arena performance was faster than that of the EDSP microkernel.
+References-found: 4
+

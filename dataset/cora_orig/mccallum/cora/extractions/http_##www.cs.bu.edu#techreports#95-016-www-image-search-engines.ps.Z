@@ -1,0 +1,22 @@
+URL: http://www.cs.bu.edu/techreports/95-016-www-image-search-engines.ps.Z
+Refering-URL: http://cs-www.bu.edu/techreports/Home.html
+Root-URL: 
+Title: World Wide Web Image Search Engines  
+Author: Stan Sclaroff 
+Date: June 1995.  
+Note: Position paper for NSF Workshop on Visual Information Management, Cambridge, MA,  
+Address: TR95-016  Boston, MA 02215  
+Affiliation: Boston University Computer Science Dept.  Image and Video Computing Group Computer Science Department Boston University  
+Abstract: We propose the development of a world wide web image search engine that crawls the web collecting information about the images it finds, computes the appropriate image decompositions and indices, and stores this extracted information for searches based on image content. Indexing and searching images need not require solving the image understanding problem. Instead, the general approach should be to provide an arsenal of image decompositions and discrim-inants that can be precomputed for images. At search time, users can select a weighted subset of these decompositions to be used for computing image similarity measurements. While this approach avoids the search-time-dependent problem of labeling what is important in images, it still holds several important problems that require further research in the area of query by image content. We briefly explore some of these problems as they pertain to shape. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> A. Pentland, R. Picard, and S. Sclaroff. Photobook: </author> <title> Tools for content-based manipulation of image databases. </title> <journal> International Journal of Computer Vision, </journal> <note> to appear 1995. </note>
+Reference-contexts: Since what is important in images can be search-dependent, decompositions should preserve as much perceptually important information about the image as possible, while providing a compact (lossy) encoding of the signal <ref> [1] </ref>. Next, there is the problem of determining the appropriate 1 subset of similarity measures for a particular search, and then how the various measures should be weighted and combined.
+Reference: [2] <author> R. Picard and T. Minka. </author> <title> Vision texture for annotation. </title> <journal> Multimedia Systems, </journal> <volume> 3(3) </volume> <pages> 3-14, </pages> <year> 1995. </year>
+Reference-contexts: One way around this is to allow the users to train the system for a search by providing positive and negative examples, and or to allow users to iteratively refine a search. The search engine can then automatically select the appropriate weighting and thresholds for guiding the search <ref> [2] </ref>. Another problem associated with selecting subsets of shape measures is one of providing selective invariance. For instance, in human shape similarity judgments, sometimes scale and rotation invariance are important, other times not [3]; it is therefore desirable to duplicate this performance in our image database search algorithms.
+Reference: [3] <author> D. Mumford. </author> <title> Mathematical theories of shape: Do they model perception? In Proc. </title> <booktitle> SPIE Conf. on Geometric Methods in Computer Vision, </booktitle> <volume> volume 1570, </volume> <year> 1991. </year>
+Reference-contexts: The search engine can then automatically select the appropriate weighting and thresholds for guiding the search [2]. Another problem associated with selecting subsets of shape measures is one of providing selective invariance. For instance, in human shape similarity judgments, sometimes scale and rotation invariance are important, other times not <ref> [3] </ref>; it is therefore desirable to duplicate this performance in our image database search algorithms. Many of the shape discriminants mentioned are not scaling, translation, or rotation invariant.
+Reference: [4] <author> S. Sclaroff and A. Pentland. </author> <title> Modal Matching for Correspondence and Recognition. </title> <journal> IEEE Trans. Pattern Analysis and Machine Intelligence, </journal> <volume> 17(6) </volume> <pages> 545-561, </pages> <year> 1995. </year> <month> 2 </month>
+Reference-contexts: Modal matching is a physically-motivated technique for deformable shape description that was developed with many of these issues in mind <ref> [4] </ref>. Shape is described in terms of an ordered set of deformations from an initial shape: starting with bends, tapers, shears, and moving up towards higher-frequency wiggles.
+References-found: 4
+

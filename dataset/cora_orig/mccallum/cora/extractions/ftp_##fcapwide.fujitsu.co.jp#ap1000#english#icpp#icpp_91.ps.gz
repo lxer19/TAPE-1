@@ -1,0 +1,15 @@
+URL: ftp://fcapwide.fujitsu.co.jp/ap1000/english/icpp/icpp_91.ps.gz
+Refering-URL: 
+Root-URL: 
+Email: E-mail: lions%flab.fujitsu.co.jp@fai.com  
+Phone: Tel: (81-44) 754-2669  
+Title: AP1000 Architecture and Performance of LU Decomposition  
+Author: Takeshi Horie, Hiroaki Ishihata, Toshiyuki Shimizu, Sadayuki Kato, Satoshi Inano, and Morio Ikesaka 
+Keyword: fine-grain, message-passing, low latency, LU decomposition, performance.  
+Address: 1015 Kamikodanaka, Nakahara-ku, Kawasaki 211, Japan  
+Affiliation: Fujitsu Laboratories LTD. Computer-based Systems Laboratory, Kawasaki,  
+Abstract: The AP1000 is a highly parallel computer with distributed memory. The design goal for the AP1000 is to execute fine-grain data-parallel programs efficiently. The AP1000 consists of 16 to 1024 processing elements connected by three independent networks. These are called the torus network (T-Net), the broadcast network (B-Net), and the synchronization network (S-Net). These networks provide low latency and high throughput of communication, and fast barrier synchronization. A message controller (MSC) interfaces a processing element and networks to reduce overall communication latency. In this paper, we present the AP1000 architecture and the performance of LU decomposition to show that our architecture is suitable for fine-grain data-parallelism. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

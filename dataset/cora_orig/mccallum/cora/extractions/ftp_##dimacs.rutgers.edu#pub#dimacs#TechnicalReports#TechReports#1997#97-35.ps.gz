@@ -1,0 +1,28 @@
+URL: ftp://dimacs.rutgers.edu/pub/dimacs/TechnicalReports/TechReports/1997/97-35.ps.gz
+Refering-URL: http://dimacs.rutgers.edu/TechnicalReports/1997.html
+Root-URL: http://www.cs.rutgers.edu
+Title: Limit Values of Probabilities for the First Order Properties of Graphs  
+Author: by Joel Spencer Lubos Thoma 
+Address: New York University 251 Mercer St. New York NY 10012  P.O. Box 1179  Piscataway, NJ 08855  
+Affiliation: Courant Institute  DIMACS,  Rutgers University  
+Note: On the  DIMACS is a cooperative project of Rutgers University, Princeton University, AT&T Bell Laboratories and Bellcore. DIMACS is an NSF Science and Technology Center, funded under contract STC-91-19999; and also receives support from the New Jersey Commission on Science and Technology.  
+Abstract: DIMACS Technical Report 97-35 September 1997 
+Abstract-found: 1
+Intro-found: 1
+Reference: [B 85] <author> B. Bollobas, </author> <title> Random graphs, </title> <publisher> Academic Press, </publisher> <year> 1985. </year>
+Reference-contexts: To justify that l;s form a complete family of completions and, also, to determine the possible limit values, we need the following fact giving the limit probabilities q l;s : The proof of it is standard and can be found for example in <ref> [B 85] </ref>.
+Reference: [BM 77] <author> J.L. Bell, M. Machover, </author> <title> A Course in Mathematical Logic, </title> <publisher> North-Holland Publishing Company, </publisher> <year> 1977. </year>
+Reference-contexts: Let be a theory. If is not complete it has two extensions 1 ; 2 that have different truth value on some sentence and by the Godel Completeness Theorem there would be countable or finite models M 1 ; M 2 of those theories. Thus we obtain (cf. <ref> [BM 77] </ref>): Fact 3 Let be a consistent first order theory which has no finite models.
+Reference: [CK 90] <author> C.C. Chang, H.J. Keisler, </author> <title> Model theory, </title> <publisher> Elsevier Science Publishers B.V., </publisher> <year> 1990. </year>
+Reference: [EF 95] <author> H.-D. Ebbinghaus, J. Flum, </author> <title> Finite model theory, </title> <publisher> Springer-Verlag, </publisher> <year> 1995. </year>
+Reference-contexts: In the case the structures induced by a 1 t in M 1 and by a 2 t in M 2 are naturally isomorphic, the second player wins. We are going to use the following fact about Ehrenfeucht games (cf. <ref> [EF 95] </ref>). Fact 2 Let L 0 be a first order language with a finite number of predicates and let M 1 ; M 2 be two L 0 -models. <p> Proposition 1.3.9 in <ref> [EF 95] </ref>) Let t be a positive integer and let G 1 ; G 2 ; and H be graphs.
+Reference: [Eh 61] <author> A. Ehrenfeucht, </author> <title> An application of games to the completeness problem for formalized theories, </title> <journal> Fundament Math. </journal> <month> 49 </month> <year> (1961) </year> <month> 129-141. </month>
+Reference-contexts: T h t (L 0 ; M ) = f 2 L 0 ; M j= ^ qr ( ) tg : Ehrenfeucht games were introduced in <ref> [Eh 61] </ref>.
+Reference: [ER 60] <author> P. Erd-os, A. Renyi, </author> <title> On the evolution of random graphs, </title> <journal> Magyar Tud. Akad. Mat. Kutato Int. </journal> <volume> Kozl 5 (1960), </volume> <pages> 17-61. </pages>
+Reference-contexts: n ( fl ) s2I 0 "M [ ] so that j n ( fl ) s2M [ ] and thus j n ( ) s2M [ ] which, as * was arbitrary, completes the proof. 8 4 The Erd-os-Renyi Case The classic work of Paul Erd-os and Alfred Renyi <ref> [ER 60] </ref> contains many beautiful results. Surely one of the most striking is their description of the threshold for that most fundamental of graph concepts connectivity. <p> Clearly, all the axioms fl 1 (:) fl 7 (:) are expressible in the first order language of graphs. (1) The fact that fl 1 (H) holds almost surely was originally proved by P. Erd-os and A. Renyi in <ref> [ER 60] </ref>.
+Reference: [L 92] <author> J. F. Lynch, </author> <title> Probabilities of Sentences about Very Sparse Random Graphs, Random Struct. </title> <journal> Alg. </journal> <volume> 3 (1992), 33 - 53. </volume>
+Reference-contexts: This can be shown by checking that it is so for each of the axioms of the almost sure theories as well as their extensions we develop. We omit the calculations. We are inspired by the results of Lynch <ref> [L 92] </ref> on the limit probabilities for first order sentences over G (n; p) where p = c=n or p = cn (u+1)=u ; u 2 N: Lynch showed that all such limit probabilities could be expressed as functions of c that were generated from addition, subtraction, multiplication, division, and base
+Reference: [ LS 91] <author> T. Luczak, J. Spencer, </author> <title> When does the zero-one law hold ?, J. </title> <journal> Amer. Math. Soc. </journal> <volume> 4 (1991), 451 - 468. </volume>
+Reference-contexts: Luczak and the first author proved that the zero one law for G (n; p); p = fi (ln n=n); and the language L (cf. Theorem 5 in <ref> [ LS 91] </ref> for precise statement) holds except for p being "close" to p k;l ; in other words the probabilities p k;l are the only thresholds in the range fi (ln n=n): As the general case is somewhat complicated we here describe our results when k = 1 and l
+References-found: 8
+

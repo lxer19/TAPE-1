@@ -1,0 +1,20 @@
+URL: ftp://ftp.cs.wisc.edu/math-prog/tech-reports/94-07.ps.Z
+Refering-URL: 
+Root-URL: 
+Title: The GAMS Callable Program Library for Variational and Complementarity Solvers  
+Author: Steven P. Dirkse Michael C. Ferris Paul V. Preckel Thomas Rutherford 
+Date: July 19, 1994  
+Abstract: The GAMS modeling language has recently been extended to enable the formulation of Mixed Complementarity Problems (MCP). The GAMS Callable Program Library (CPLIB) is a set of Fortran subroutines developed as an extension for the GAMS I/O library and designed to provide a simple and convenient interface to the MCP defined by a GAMS model. This paper provides technical documentation for CPLIB for use by those who are developing or have developed algorithms for MCP, in order that their solvers may be made available as GAMS subsystems. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Brooke, A., Kendrick, D. & Meeraus, A. </author> <year> (1988), </year> <title> GAMS: A User's Guide, </title> <publisher> The Scientific Press, </publisher> <address> South San Francisco, CA. </address>
+Reference: <author> Drud, A. </author> <year> (1985), </year> <title> `CONOPT: A GRG code for large sparse dynamic nonlinear optimization problems', </title> <booktitle> Mathematical Programming 31, </booktitle> <pages> 153-191. </pages>
+Reference-contexts: It will be the modeler's job to choose an appropriate solution algorithm for a particular application. A number of economists currently use GAMS for economic equilibrium analysis. These models typically use a nonlinear optimizer such as MINOS (Murtagh & Saunders 1983) or CONOPT <ref> (Drud 1985) </ref> to solve square systems of smooth nonlinear equations. We believe that there will be significant interest among these practitioners in solvers for nonsmooth systems of equations, provided the algorithms are sufficiently robust and efficient.
+Reference: <author> Kalvelagen, E. </author> <year> (1992), </year> <title> `The GAMS I/O library', mimeo, GAMS Development Corporation. </title> <note> Preliminary Version. </note>
+Reference-contexts: The names Draft Copy 14 and short descriptions of potentially relevant utilities are presented here. Interested readers should consult the I/O library manual for calling sequences <ref> (Kalvelagen 1992) </ref>. Input library routines: GFOPTI Return options file name GFTIME Return GAMS time. GFWDIR Return GAMS working directory. GFSDIR Return GAMS system directory. GFCDIR Return GAMS scratch directory. Resident library routines: GFMSG Write a message. MEMINF Print memory statistics. GFUOPN Open a file.
+Reference: <author> Murtagh, B. A. & Saunders, M. A. </author> <year> (1983), </year> <title> MINOS 5.0 user's guide, </title> <type> Technical Report SOL 83.20, </type> <institution> Stanford University. </institution>
+Reference-contexts: It will be the modeler's job to choose an appropriate solution algorithm for a particular application. A number of economists currently use GAMS for economic equilibrium analysis. These models typically use a nonlinear optimizer such as MINOS <ref> (Murtagh & Saunders 1983) </ref> or CONOPT (Drud 1985) to solve square systems of smooth nonlinear equations. We believe that there will be significant interest among these practitioners in solvers for nonsmooth systems of equations, provided the algorithms are sufficiently robust and efficient.
+Reference: <author> Press, W. H., Flannery, B. P., Teukolsky, S. A. & Vetterling, W. T. </author> <year> (1988), </year> <title> Numerical Recipes : the Art of Scientific Computing, </title> <publisher> Cambridge University Press. </publisher>
+Reference: <author> Rutherford, T. F. </author> <year> (1994), </year> <title> Extensions of GAMS for complementarity problems arising in applied economic analysis, </title> <type> Manuscript, </type> <institution> Department of Economics, University of Colorado, Boulder. </institution> <type> Draft Copy 17 </type>
+References-found: 6
+

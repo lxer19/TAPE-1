@@ -1,0 +1,25 @@
+URL: ftp://ftp.cse.unsw.edu.au/pub/users/andrewt/publications/1997/82.ps.Z
+Refering-URL: http://www.cse.unsw.edu.au/school/publications/1997/SCSE_publications.html
+Root-URL: 
+Title: Belief Update, the Markovian Situation Calculus, and Discrete Event Systems  
+Author: Tyrone O'Neill and Norman Foo 
+Address: Australia  
+Affiliation: Knowledge Systems Group Department of Artificial Intelligence University of New South Wales  
+Abstract: Imposing a markovian condition on the situation calculus enables the embedding of situation calculus theories into the DEVS (discrete event system specification) modelling and simulation framework. DEVS has an algebraic formalism relying on classical systems theory, and has been used to good effect in practical domains. The demonstrated correspondence between the situation calculus and DEVS is based upon an independently interesting translation from the semantics of circum scription into a simpler semantics based on belief updates.
+Abstract-found: 1
+Intro-found: 1
+Reference: [Bak91] <author> Andrew B. Baker. </author> <title> Nonmonotonic reasoning in the framework of the situation calculus. </title> <journal> Artificial Intelligence, </journal> <volume> 49 </volume> <pages> 5-23, </pages> <year> 1991. </year>
+Reference: [Kar94] <author> G. Neelakantan Kartha. </author> <title> Two counterexamples related to baker's approach to the frame proble m. </title> <journal> Artificial Intelligence, </journal> <volume> 69 </volume> <pages> 379-391, </pages> <year> 1994. </year>
+Reference: [KM91] <author> Hirofumi Katsuno and Alberto O. Mendelzon. </author> <title> On the difference between updating a knowledge and revising it. </title> <editor> In Peter Gardenfors, editor, </editor> <title> Belief Revision. </title> <address> Cambridge U.P., </address> <year> 1991. </year>
+Reference: [MS94] <author> Rob Miller and Murray Shanahan. </author> <title> Narratives in the situation calculus. </title> <journal> Journal of Logic & Computation, </journal> <volume> 4(5) </volume> <pages> 513-530, </pages> <month> October </month> <year> 1994. </year>
+Reference: [PR95] <author> Javier Pinto and Raymond Reiter. </author> <title> Reasoning about time in the situation calculus. </title> <journal> Annals of Mathematical and Artifical Intelligence, </journal> <volume> 14 </volume> <pages> 251-268, </pages> <month> September </month> <year> 1995. </year>
+Reference: [Rei94] <author> Raymond Reiter. </author> <title> Proving properties of states in the situation calculus. </title> <journal> Artifical Intelligence, </journal> <volume> 64 </volume> <pages> 337-351, </pages> <year> 1994. </year>
+Reference-contexts: While the agnostic interpretation is (mostly by default) the most commonly used, it is the arboreal interpretation which, primarily in the hands of Ray Reiter (e.g., <ref> [Rei94] </ref>), has had the most detailed exposition and defence.
+Reference: [San89] <author> Erik Sandewall. </author> <title> Filter preferential entailmentfor the logic of action in almost con tinuous worlds. </title> <booktitle> In Proceedings of IJCAI '89. </booktitle> <publisher> Morgan Kaufmann, </publisher> <year> 1989. </year>
+Reference: [Sha97] <author> Murray Shanahan. </author> <title> Solving the Frame Problem. </title> <publisher> MIT Press, </publisher> <year> 1997. </year>
+Reference: [Win88] <author> Marianne Winslett. </author> <title> Reasoning about action using a possible models approach. </title> <booktitle> In Proceedings of the American Association for Artifical Intelligence Conference, </booktitle> <pages> pages 89-93, </pages> <year> 1988. </year>
+Reference: [Win89] <author> Marianne Winslett. </author> <title> Sometimes updates are circumscription. </title> <booktitle> In Proceedings of the International Joint Conference for Artifical Intelligence, </booktitle> <pages> pages 859-863, </pages> <year> 1989. </year>
+Reference: [Zei76] <author> Bernard P. Zeigler. </author> <title> Theory of Modelling and Simualation. </title> <publisher> Wiley, </publisher> <address> New York, </address> <year> 1976. </year>
+Reference: [Zei90] <author> Bernard P. Zeigler. </author> <title> Object-oriented simulation with hierarchical, modular models: intelligent agents and endomorphic systems. </title> <publisher> Academic Press, </publisher> <address> Boston, </address> <year> 1990. </year>
+References-found: 12
+

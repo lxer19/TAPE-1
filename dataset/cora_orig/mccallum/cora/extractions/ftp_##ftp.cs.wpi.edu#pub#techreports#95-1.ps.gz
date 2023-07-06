@@ -1,0 +1,19 @@
+URL: ftp://ftp.cs.wpi.edu/pub/techreports/95-1.ps.gz
+Refering-URL: http://cs.wpi.edu/Resources/techreports/index.html
+Root-URL: 
+Title: Review  
+Author: Robert E. Kinicki Craig E. Wills 
+Date: August 1, 1995  
+Address: Worcester, MA 01609  
+Affiliation: Computer Science Department Worcester Polytechnic Institute  
+Note: 1995 Computer Science Department MQP  
+Pubnum: WPI-CS-TR-95-01  
+Abstract: This report presents results of a peer review of MQPs conducted within the Computer Science Department during the Summer of 1995 as part of a campus-wide MQP review. The goal of the report is to assess whether the department MQPs are accomplishing their educational goals. The report identifies problems that need to be addressed and trends that need to be continued to make the MQPs a worthwhile learning experience. It reflects data and evaluations for 27 MQPs, involving 43 computer science students, that were completed between the Summer of 1994 and the Spring of 1995. The report also makes comparisons to similar reviews done in 1991 and 1993. Overall, the large majority of the projects are meeting the educational goals of the department as good learning experiences. The reviews indicate the overall quality of the projects is good, about the same as in 1993 and a little better than 1991. The report draws a number of conclusions about the success of the projects based upon the data collected and evaluations done for this review. The report concludes with recommendations for future projects. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Robert E. Kinicki and Craig E. Wills. </author> <note> Computer science department MQP review. Technical Report WPI-CS-TR-91-13, </note> <institution> Worcester Polytechnic Institute, </institution> <month> July </month> <year> 1991. </year>
+Reference-contexts: It reflects data and evaluations for 27 MQPs, involving 43 computer science students, that were completed between the Summer of 1994 and the Spring of 1995. The report also makes comparisons to similar reviews done in 1991 <ref> [1] </ref> with 19 projects, 31 students and 1993 [2] with 26 projects, 44 students. 1.2 Procedure The peer review was conducted during the Summer of 1995 by Robert E. Kinicki, department head, and Craig E. Wills, assistant professor.
+Reference: [2] <author> Robert E. Kinicki and Craig E. Wills. </author> <note> Computer science department MQP review. Technical Report WPI-CS-TR-93-5, </note> <institution> Worcester Polytechnic Institute, </institution> <month> August </month> <year> 1993. </year> <month> 22 </month>
+Reference-contexts: It reflects data and evaluations for 27 MQPs, involving 43 computer science students, that were completed between the Summer of 1994 and the Spring of 1995. The report also makes comparisons to similar reviews done in 1991 [1] with 19 projects, 31 students and 1993 <ref> [2] </ref> with 26 projects, 44 students. 1.2 Procedure The peer review was conducted during the Summer of 1995 by Robert E. Kinicki, department head, and Craig E. Wills, assistant professor. The review was to be for projects completed during the 1993-94 and 1994-95 academic years. <p> The report for each MQP was obtained from either the project advisor or from the Gordon Library. Additional project information was gathered from CDR (Completion of Degree Requirement) records. As in the previous review process <ref> [2] </ref>, the reviewers conducted a detailed evaluation of all projects using the review form in Appendix A. The form contains information used in classifying the projects, information quantified on a scale between 1 and 5, and has questions for written comments concerning the report.
+References-found: 2
+

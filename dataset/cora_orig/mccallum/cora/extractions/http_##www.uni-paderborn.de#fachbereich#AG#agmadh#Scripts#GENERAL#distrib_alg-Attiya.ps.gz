@@ -1,0 +1,20 @@
+URL: http://www.uni-paderborn.de/fachbereich/AG/agmadh/Scripts/GENERAL/distrib_alg-Attiya.ps.gz
+Refering-URL: http://www.uni-paderborn.de/fachbereich/AG/agmadh/WWW/english/scripts.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: "Programming Simultaneous Actions Using Common Knowl- edge," "Simulating Synchronized Clocks and Common Knowledge in "Reaching
+Author: [] Y. Moses and M. Tuttle. G. Neiger and S. Toueg. M. Pease, R. Shostak and L. Lamport, J. G. Peterson. G. Peterson. G. Peterson. [] G. Peterson and M. Fischer. [] S. Srikanth and S. Toueg. [] J. Welch, L. Lamport and N. Lynch. 
+Date: August 1984.  
+Note: Algorithmica, Vol. 3 (1988), pp. 249-259. [49]  Distributed Systems," J. ACM, Vol. 40, No. 2 (April 1993), pp. 334-367. [50]  ACM, Vol. 27, No. 2 (April 1980), pp. 228-234. [51]  ACM Transactions on Programming Languages and Systems, Vol 4 (October 1982), pp. 758-762. [52]  Letters, Vol. 12, No. 3 (June 1981), pp. 115-116. [53]  TR-140, University of Rochester,  In Proceedings of the 9th ACM Symposium on Theory of Computing, 1977, pp. 91-97. [55] M. Raynal,  Computing, Vol. 2 (1987), pp. 80-94. [57] R. Turpin and B. Coan. "Extending Binary Byzantine Agreement to Multivalued Byzantine Agreement," Information Processing Letters, Vol 18, No. 2 (1984), pp. 73  In Proceedings of the Seventh Annual ACM Symp. on Principles of Distributed Computing, 1988, pp. 28-37. 160  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> Y. Afek and E. Gafni. </author> <title> "Time and Message Bounds for Election in Synchronous and Asynchronous Complete Networks," </title> <journal> Siam J. on Computing, </journal> <volume> Vol. 20, No. </volume> <month> 2 (April </month> <year> 1991), </year> <pages> pp. 376-394. </pages>
+Reference: [2] <author> D. Angluin. </author> <title> "Local and Global Properties in Networks of Processors," </title> <booktitle> In Proceedings of 12th ACM Symposium on Theory of Computing, </booktitle> <year> 1980, </year> <pages> pp. 82-93. </pages>
+Reference: [3] <author> H. Attiya. </author> <title> "Constructing Efficient Election Algorithms from Efficient Traversal Algorithms," </title> <booktitle> In Proceedings of the 2nd International Workshop on Distributed Algorithms, </booktitle> <address> Amsterdam, The Netherlands, </address> <note> July 1987 (J. </note> <editor> van Leeuwen, </editor> <publisher> ed.), </publisher> <pages> pp. 337-344, </pages> <booktitle> Lecture Notes in Computer Science #312, </booktitle> <publisher> Springer-Verlag. </publisher>
+Reference: [4] <author> H. Attiya, A. Bar-Noy, D. Dolev, D. Peleg, and R. Reischuk. </author> <title> "Renaming in an Asynchronous Environment," </title> <journal> J. ACM, </journal> <volume> Vol. 37, No. </volume> <month> 3 (July </month> <year> 1990). </year>
+Reference: [5] <author> H. Attiya, J. Burns, G. Peterson and M. Tuttle, </author> <title> "Strong Decider Lemmas with Applications," </title> <type> manuscript. </type>
+Reference: [6] <author> H. Attiya, N. Lynch and N. Shavit. </author> <booktitle> "Are Wait-Free Algorithms Fast?" In Proceedings of the 31st Annual IEEE Symposium on Foundations of Computer Science, 1990, </booktitle> <volume> Vol. 1, </volume> <pages> pp. 55-64. </pages>
+Reference: [7] <author> H. Attiya, M. Snir and M. Warmuth. </author> <title> "Computing in an Anonymous Ring," </title> <journal> J. ACM, </journal> <volume> Vol. 35, No. </volume> <month> 4 (October </month> <year> 1988), </year> <pages> pp. 845-876. </pages>
+Reference: [8] <author> H. Attiya and M. Mavronicolas. </author> <title> "Efficiency of Semi-Synchronous versus Asynchronous Networks," </title> <note> To appear in Mathematical Systems Theory. </note>
+
+References-found: 8
+

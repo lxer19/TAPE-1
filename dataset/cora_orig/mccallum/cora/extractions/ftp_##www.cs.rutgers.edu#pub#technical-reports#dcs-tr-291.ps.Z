@@ -1,0 +1,34 @@
+URL: ftp://www.cs.rutgers.edu/pub/technical-reports/dcs-tr-291.ps.Z
+Refering-URL: http://www.cs.rutgers.edu/pub/technical-reports/
+Root-URL: 
+Email: kshan@cs.rutgers.edu  noordewi@cs.rutgers.edu  
+Phone: Fax: 908-932-0537  
+Title: An Efficient Algorithm for Ordering Random Genomic Clones  
+Author: Kyungsook Han Michiel Noordewier 
+Date: July 2, 1992  
+Address: Piscataway, NJ 08855  
+Affiliation: Computer Science Department Rutgers University  
+Abstract: We propose an algorithm which efficiently constructs a physical map of DNA from a fingerprinted library of random clones. The algorithm clusters clones into contiguous regions using restriction enzyme digest data. Clones which contain overlapping genomic regions are detected and are grouped into an island in such a way that disjoint islands which can be linked by the clones are joined together automatically. This approach solves a common problem in fingerprinting linking disjoint islands becomes more difficult and slow as mapping goes on. A map is produced in O(km 2 n) time where k is the number of cleavage sites of a clone, m is the number of clones in a library, and n is the number of libraries. Our approach provides a general and efficient means for constructing long-range physical maps in large-scale genome mapping. key words: physical map, fingerprinting, restriction enzymes, DNA
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Allison, L. and Yee, C. N. </author> <title> (1988) Restriction site mapping is in separation theory. </title> <journal> CABIOS, </journal> <volume> 4(1) </volume> <pages> 97-101. </pages>
+Reference: <author> Baase, S. </author> <title> (1988) Computer algorithms: introduction to design and analysis. </title> <publisher> Addison-Wesley Pub. Co., </publisher> <address> Reading, Mass. </address>
+Reference: <author> Bell, G. I. </author> <title> (1990) The human genome: An introduction. In Computers and DNA: the proceedings of the Interface between Computation Science and Nucleic Acid Sequencing Workshop, </title> <publisher> AddisonWesley Publishing Company, </publisher> <pages> 7 3-19. </pages>
+Reference: <author> Branscomb, E. W. and Nelson, D. O. </author> <title> (1990) Statistical Considerations of Physical Mapping by Contig Assembly. In Proceedings of the Second Conference on Mathematical Approaches to DNA. Committee on Mapping and Sequencing the Human Genome (1988) Mapping and Sequencing the Human Genome. </title> <publisher> National Academy Press, </publisher> <address> Washington, D.C. </address>
+Reference: <author> Coulson, A., Sulston, J., Brenner, S., and Karn, J. </author> <title> (1986) Toward a physical map fof the genome of the nematode, </title> <booktitle> Caenorhabditis. Proc. </booktitle> <institution> Natl. Acad. Sci. USA, </institution> <month> 83 </month> <pages> 7821-7825. </pages>
+Reference: <author> Dix, T. I. and Kieronska, D. H. </author> <title> (1988) Errors between sites in restriction site mapping. </title> <journal> CABIOS, </journal> <volume> 4(1) </volume> <pages> 117-123. </pages>
+Reference: <author> Duda, R. O. and Hart, P. E. </author> <title> (1973) Pattern classification and scene analysis. </title> <publisher> Wiley, </publisher> <address> New York. </address>
+Reference: <author> Dumas, J. and Ninio, J. </author> <title> (1982) Efficient algorithms for folding and comparing nucleic acid sequences. </title> <journal> Nucleic Acids Research, </journal> <volume> 10(1) </volume> <pages> 197-206. </pages>
+Reference: <author> Itaya, M. and Tanaka, T. </author> <title> (1991) Complete Physical Map of the Bacillus subtilis 168-Chromosome Constructed by a Gene-Directed Mutagenesis Method. </title> <journal> Journal of Molecular Biology, </journal> <volume> 220: 631 17 Karlin, </volume> <editor> S., Ost, F., and Blaisdell, B. E. </editor> <title> (1989) Patterns in dna and amino acid sequences and their statistical significance. In Mathematical Methods for DNA Sequences, </title> <publisher> CRC Press, Inc., </publisher> <pages> pp. 133-158. </pages>
+Reference: <author> Kohara, Y., Akiyama, K., and Isono, K. </author> <title> (1987) The Physical Map of the Whole E. coli Chromosome: Application of a New Strategy for Rapid Analysis and Sorting of a large Genomic Library. </title> <journal> Cell, </journal> <volume> 50 </volume> <pages> 495-508. </pages>
+Reference: <author> Knott, V., Blake, D. J., and Brownlee, G. G. </author> <title> (1989) Completion of the detailed restriction map of the Escherichia coli chromosome by the isolation of overlapping cosmid clones. </title> <journal> Gene, </journal> <volume> 17: </volume> <pages> 5901-5912. </pages>
+Reference: <author> Lander, E. S. </author> <title> (1989) Analysis with restriction enzymes. In Mathematical Methods for DNA Sequences, </title> <publisher> CRC Press, Inc. </publisher> <pages> pp. 35-52. </pages>
+Reference: <author> Lander, E. S. and Waterman, M. S. </author> <title> (1988) Genomic Mapping for Fingerprinting Random Clones: A mathematical Analysis. </title> <journal> Genomics, </journal> <volume> 2 </volume> <pages> 231-239. </pages>
+Reference: <author> Myers, E. W. and Huang, X. </author> <title> (1992) An O(N 2 logN) Restriction Map Comparison and Search Algorithm. </title> <journal> Bulletin of Mathematical Biology, </journal> <volume> 54(4) </volume> <pages> 599-618. </pages>
+Reference: <author> Olson, M. V., Dutchik, J. E., Graham, M. Y., Brodeur, G. M., Helms, C., Frank, M., MacCollin, M., Scheinman, R., and Frand, T. </author> <title> (1986) Random-clone strategy for genomic restriction mapping in yeast. </title> <booktitle> Proc. </booktitle> <institution> Natl. Acad. Sci. USA, </institution> <month> 83 </month> <pages> 7826-7830. </pages>
+Reference: <author> Sirotkin, K. and Loehr, J. J. </author> <title> (1990) Simulation and analysis of physical mapping. In Computers and DNA: the proceedings of the Interface between Computation Science and Nucleic Acid Sequencing Workshop, </title> <publisher> Addison-Wesley Publishing Company, </publisher> <pages> 7 241-257. </pages>
+Reference: <author> Staden, R. </author> <title> (1980) A new computer method for the storage and manipulation of DNA gel reading 18 data. </title> <journal> Nucleic Acids Research, </journal> <volume> 8 </volume> <pages> 3673-3694. </pages>
+Reference: <author> Stephens, J. C., Cavanaugh, M. L., Gradie, M. I., Mador, M. L., and Kidd, K. K. </author> <title> (1990) Mapping the human genome: Current status. </title> <journal> Science, </journal> <volume> 250 </volume> <pages> 237-244. </pages>
+
+References-found: 18
+

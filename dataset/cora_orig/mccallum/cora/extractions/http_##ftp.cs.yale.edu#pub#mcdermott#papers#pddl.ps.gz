@@ -1,0 +1,20 @@
+URL: http://ftp.cs.yale.edu/pub/mcdermott/papers/pddl.ps.gz
+Refering-URL: http://ftp.cs.yale.edu/pub/mcdermott/papers/
+Root-URL: http://www.cs.yale.edu
+Title: PDDL The Planning Domain Definition Language  
+Note: Contact Drew McDermott (mcdermott-drew@yale.edu) for comments on this draft.  
+Abstract: By Too Many People to Mention At Too Many Places to Mention (but of course we will eventually) August 7, 1997 Abstract This manual describes the syntax of PDDL, the Planning Domain Definition Language, proposed as the problem-specification language for the AIPS-98 planning competition. The language has roughly the the expressiveness of Pednault's ADL [8] for propositions, and roughly the expressiveness of UMCP [4] for actions. Our hope is to encourage empirical evaluation of planner performance, and development of standard sets of problems all in comparable notations. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> A. Barrett, D. Christianson, M. Friedman, K. Golden, C. Kwok, J.S. Penberthy, Y. Sun, and D. Weld. </author> <note> UCPOP user's manual, (version 4.0). Technical Report 93-09-06d, </note> <institution> University of Washington, Department of Computer Science and Engineering, </institution> <month> November </month> <year> 1995. </year> <note> Available via FTP from pub/ai/ at ftp.cs.washington.edu. </note>
+Reference: [2] <author> Jim Blythe, Oren Etzioni, Yolanda Gil, Robert Joseph, Dan Kahn, Craig Knoblock, Steven Minton, Alicia Perez, Scott Reilly, Manuela Veloso, and Xuemei Wang. </author> <title> Prodigy 4.0: The manual and tutorial. </title> <type> Technical Report CMU-CS-92-150, </type> <institution> Carnegie Mellon University, </institution> <year> 1992. </year>
+Reference: [3] <author> K. Currie and A. Tate. O-plan: </author> <title> the open planning architecture. </title> <journal> Artificial Intelligence, </journal> <volume> 52(1) </volume> <pages> 49-86, </pages> <month> November </month> <year> 1991. </year>
+Reference: [4] <author> K. Erol, J. Hendler, and D. Nau. UMCP: </author> <title> A sound and complete procedure for hierarchical task-network planning. </title> <booktitle> In Proc. 2nd Intl. Conf. on AI Planning Systems, </booktitle> <pages> pages 249-254, </pages> <month> June </month> <year> 1994. </year>
+Reference: [5] <author> Drew McDermott. </author> <title> Revised Nisp Manual. </title> <type> Technical Report 642, </type> <institution> Yale Computer Science Department, </institution> <year> 1988. </year>
+Reference: [6] <author> Drew McDermott. </author> <title> A Heuristic Estimator for Means-ends Analysis in Planning. </title> <booktitle> In Proc. International Conference on AI Planning Systems 3, </booktitle> <pages> pages 142-149, </pages> <year> 1996. </year>
+Reference: [7] <author> E. Pednault. </author> <title> Synthesizing plans that contain actions with context-dependent effects. </title> <journal> Computational Intelligence, </journal> <volume> 4(4) </volume> <pages> 356-372, </pages> <year> 1988. </year>
+Reference: [8] <author> E. Pednault. </author> <title> ADL: Exploring the middle ground between STRIPS and the situation calculus. </title> <booktitle> In Proc. 1st Int. Conf. on Principles of Knowledge Representation and Reasoning, </booktitle> <pages> pages 324-332, </pages> <year> 1989. </year>
+Reference: [9] <author> Dan Weld and Oren Etzioni. </author> <title> The first law of robotics (a call to arms). </title> <booktitle> In Proc. 12th Nat. Conf. on AI, </booktitle> <pages> pages 1042-1047, </pages> <year> 1994. </year>
+Reference: [10] <author> David Wilkins. </author> <title> Practical Planning: Extending the Classical AI Planning Paradigm. </title> <publisher> Morgan Kaufmann Publishers, Inc, </publisher> <year> 1988. </year> <month> 22 </month>
+References-found: 10
+

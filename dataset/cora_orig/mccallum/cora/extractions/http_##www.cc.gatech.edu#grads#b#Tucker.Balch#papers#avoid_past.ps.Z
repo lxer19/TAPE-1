@@ -1,0 +1,28 @@
+URL: http://www.cc.gatech.edu/grads/b/Tucker.Balch/papers/avoid_past.ps.Z
+Refering-URL: http://www.cs.gatech.edu/aimosaic/robot-lab/mrl-online-publications.html
+Root-URL: 
+Title: Avoiding the Past: A Simple but Effective Strategy for Reactive Navigation  
+Author: Tucker Balch and Ronald Arkin 
+Address: Atlanta, Georgia 30332 U.S.A.  
+Affiliation: Mobile Robot Laboratory College of Computing Georgia Institute of Technology  
+Abstract: An issue central to the navigation problem is memory. Traditional systems build symbolic maps of the world for navigational reference. Reactive methods, in contrast, eliminate or minimize the use of memory. These reactive techniques have been remarkably successful at solving a wide range of navigational problems. Some problems, however, still present a challenge to reactive strategies, (box canyons for example). The addition of a local spatial memory allows a robot to avoid areas that have already been visited. "Avoiding the past" offers a solution to the box canyon and other navigational problems. An avoid-past strategy has been implemented using a spatial memory within a schema-based motor control model. Experiments have produced promising results in simulation and on mobile robots. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Albus, J., McCain, H., and Lumia, R., </author> <title> NBS Standard Reference Model for Telerobot Control System Architecture (NASREM). </title> <type> NBS Technical Note D.C., </type> <year> 1987. </year>
+Reference: [2] <author> Arkin, </author> <title> R.C., "Motor Schema-Based Mobile Robot Navigation", </title> <journal> International Journal of Robotics Research, </journal> <volume> Vol. 8, No. 4, </volume> <month> August </month> <year> 1989, </year> <pages> pp. 92-112. </pages>
+Reference: [3] <author> Arkin, </author> <title> R.C., "The Impact of Cybernetics on the Design of a Mobile Robot System: A Case Study", </title> <journal> IEEE Transactions on Systems, Man, and Cybernetics, </journal> <volume> Vol. 20, No. 6, </volume> <month> Nov/Dec </month> <year> 1990, </year> <pages> pp. 1245-1257. </pages>
+Reference: [4] <author> Bonasso, P., Dean, T., </author> <title> "The AAAI Mobile Robot Competition," </title> <note> to appear, AI Magazine. </note>
+Reference: [5] <author> Brooks, R., </author> <title> "Intelligence Without Representation". </title> <journal> Artificial Intelligence, </journal> <year> 1991. </year>
+Reference: [6] <author> Brooks, R., </author> <title> "A Robust Layered Control System for a Mobile Robot", </title> <journal> IEEE Jour. of Robotics and Auto., RA-2, </journal> <volume> 1, </volume> <editor> p. </editor> <volume> 14, </volume> <year> (1986). </year>
+Reference: [7] <author> Brooks, R.,. </author> <title> "Elephants Don't Play Chess", </title> <booktitle> Robotics and Autonomous Systems, </booktitle> <volume> Vol. 6, Nos. 1, </volume> <pages> 2 pp. 3-16, </pages> <year> 1990. </year>
+Reference: [8] <author> Clark, </author> <title> R.J., Arkin, R.C., 1 and Ram, A., "Learning Momentum: On-line Performance Enhancement for Reactive Systems", </title> <booktitle> Proc. IEEE Conf. on Robotics and Automation, </booktitle> <address> Nice, France, </address> <month> May </month> <year> 1992, </year> <pages> pp. 111-116. </pages>
+Reference: [9] <author> Connell, </author> <title> J.H.,Minimalist Mobile Robotics: A Colony-style Architecture for an Artificial Creature, </title> <publisher> Academic Press, </publisher> <year> 1990. </year>
+Reference: [10] <author> Goss, S., Beckers, R., Deneubourg, J.L., Aron S.,, Pasteels, J.M. </author> <title> "How Trail Laying and Trail Following Can Solve Foraging Problems for Ant Colonies", </title> <booktitle> NATO ASI Series, Vol. </booktitle> <address> G 20, </address> <publisher> Springer-Verlag, </publisher> <address> Berlin (1990). </address>
+Reference: [11] <author> Kaelbling, L., and Rosenschein, S., </author> <title> "Action and planning in embedded agents", in Designing Autonomous Agents, </title> <editor> p. </editor> <volume> 35, </volume> <editor> (P. Maes, ed.), </editor> <publisher> MIT Press, </publisher> <address> Cambridge, MA, </address> <year> 1990. </year>
+Reference: [12] <author> N. Nilsson, N., (Ed.) </author> <title> "Shakey the Robot", </title> <note> SRI International Tech. Note 323 (1984). </note>
+Reference: [13] <author> Payton, D., </author> <title> "Internalized Plans: A Representation for Action Resources", Designing Autonomous Agents, </title> <editor> Maes, P. Ed., </editor> <publisher> MIT Press (1991). </publisher>
+Reference: [14] <author> Pearce, M., Arkin, R.C., Ram, A., </author> <title> "The Learning of Reactive Control Parameters Through Genetic Algorithms", </title> <booktitle> Proc. IEEE/RSJ Int. Conf. on Intelligent Robots and Systems, </booktitle> <address> Raleigh, NC, </address> <year> 1992, </year> <pages> pp. 130-137. </pages>
+Reference: [15] <author> Steels, L., </author> <title> "Exploiting Analogical Representations", Designing Autonomous Agents, </title> <editor> Maes, P. Ed., </editor> <publisher> MIT Press (1991). </publisher>
+Reference: [16] <author> Yamauchi, B., </author> <title> "Behavioral Memory Techniques for Robot Navigation", Research Paper, Hughes Research Laboratories, Malibu CA. (a) Starting configuration, the goal is in the foreground. (c) The robot is repelled from the canyon. (e) Approaching the goal. (b) The robot maneuvers into the canyon. (d) The robot maneuvers around the canyon. (f) At the goal. </title>
+References-found: 16
+

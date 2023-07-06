@@ -1,0 +1,26 @@
+URL: http://www.frc.ri.cmu.edu/~sjm/masc_papers/ICRA96.ps
+Refering-URL: http://www.frc.ri.cmu.edu/~sjm/prev_research.html
+Root-URL: 
+Title: Collision Detection Using a Flexible Link Manipulator A Feasibility Study  
+Author: Stewart J. Moorehead and David Wang 
+Address: Waterloo, Ontario N2L 3G1  
+Affiliation: Department of Electrical and Computer Engineering University of Waterloo  
+Abstract: A simple collision detection method for a flexible link manipulator is proposed. The method only requires two strain measurements to determine the position of a collision with the flexible link. Equations which relate the force and position of contact to the strain at two points in the flexible link are derived assuming the link is at static equilibrium. Since the flexible robot is actually in motion, one needs to examine whether these relationships are accurate enough in a dynamic scenario to be useful Thus the expressions are verified on a robot through collision tests, and used to successfully locate an encountered object so that a path can be planned around it. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Beer F., E.R. Johnston, </author> <title> Mechanics of Materials, </title> <publisher> McGraw-Hill, </publisher> <year> 1981. </year>
+Reference: [2] <author> Cheung E., V. Lumelsky, </author> <title> Development of Sensitive Skin for a 3D Robot Arm Operating in an Uncertain Environment, </title> <booktitle> IEEE Int. Conf. on Robotics and Automation, p. </booktitle> <pages> 1056-1061, </pages> <year> 1989. </year>
+Reference: [3] <author> Cheung E., V. Lumelsky, </author> <title> Motion Planning for Robot Arm Manipulators with Proximity Sensing, </title> <booktitle> IEEE Int. Conf. on Robotics and Automation, p. </booktitle> <pages> 740-745, </pages> <year> 1988. </year>
+Reference: [4] <author> Feddema J.T., J.L. Novak, </author> <title> Whole Arm Obstacle Avoidance for Teleoperated Robots, </title> <booktitle> IEEE Int. Conf. on Robotics and Automation, p. </booktitle> <pages> 3303-3309, </pages> <year> 1994. </year>
+Reference: [5] <author> Kaneko M., </author> <title> Active Antenna, </title> <booktitle> IEEE Int. Conf. on Robotics and Automation, p. </booktitle> <pages> 2665-2671, </pages> <year> 1994. </year>
+Reference-contexts: Another method to give the robot a sense of touch is through the use of flexible links with strain gauges. In [8,9] a system for measuring the position of contact is developed which uses force and moment information provided by a force/ torque sensor. In <ref> [5] </ref> a sensor system is proposed for a mobile robot which is inspired by the antennae of an insect. The sensor is a flexible beam which is actuated at one end.
+Reference: [6] <editor> Popov E.P, </editor> <booktitle> Mechanics of Materials, </booktitle> <publisher> Prentice-Hall, </publisher> <year> 1976. </year>
+Reference-contexts: static equilibrium, F = 0 M = 0 (1) Now equation (1) must hold for each of the two pieces in write, F F V V F = = - fi = 0 (2) M F x a M at A e A _ ( ) = - (3) From <ref> [6] </ref>, M c A e where e a is the strain at point A and c is half the thickness of the beam. Thus by combining equations (3) and (4), an expression for the applied force in terms of the strain at point A is found.
+Reference: [7] <author> Richter K., F. Pfeiffer, </author> <title> A Flexible Link Manipulator as a Force Measuring and Controlling Unit, </title> <booktitle> IEEE Int. Conf. on Robotics and Automation, p. </booktitle> <pages> 1214-1219, </pages> <year> 1991. </year>
+Reference-contexts: Since (5) and (6) cannot distinguish between strains caused by a collision and those caused by beam vibration some other criterion must be used to determine when a collision has occurred. In <ref> [7] </ref>, Richter et. al. use a flexible robot for force control. To detect a collision they simply wait until the measured force exceeds a pre-specified threshold. In this paper, it was decided to instead wait for the first time derivative of the strain to exceed a prespecified threshold.
+Reference: [8] <author> Tsujimura T., T. Yabata, </author> <title> A Tactile Sensing Method Employing Force/Torque Information Through Insensitive Probes, </title> <booktitle> IEEE Int. Conf. on Robotics and Automation, p. </booktitle> <pages> 1315-1320, </pages> <year> 1992. </year>
+Reference: [9] <author> Tsujimura T., T. Yabata, </author> <title> Object Detection by Tactile Sensing Method Employing Force/Torque Information, </title> <journal> IEEE Trans. on Robotics and Automation, </journal> <volume> Vol. 5, No 4, </volume> <year> 1988. </year>
+Reference: [10] <author> Ueno N., M. Kaneko, </author> <title> Dynamic Active Antenna, </title> <booktitle> IEEE Int. Conf. on Robotics and Automation, p. </booktitle> <pages> 1784-1790, </pages> <year> 1994. </year>
+Reference-contexts: As in this paper, these methods look at the static case. Dynamic effects are taken into account in <ref> [10] </ref> which measures the frequency of the fundamental mode of vibration to determine the collision point. However they require the addition of a mass at the end of the beam to be able to uniquely determine the contact position from the frequency measurement.
+References-found: 10
+

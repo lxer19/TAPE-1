@@ -1,0 +1,13 @@
+URL: http://www.eecis.udel.edu/~iren/research/milcom98-conrad.ps.gz
+Refering-URL: http://www.eecis.udel.edu/~iren/research.html
+Root-URL: http://www.eecis.udel.edu
+Email: Email: conrad@acm.org  Email: famer,taube,sezen,iren,acarog@cis.udel.edu  
+Title: TESTING ENVIRONMENT FOR INNOVATIVE TRANSPORT PROTOCOLS  
+Author: Phillip T. Conrad Paul D. Amer Mason Taube Gul Sezen Sami Iren Armando Caro 
+Address: Philadelphia, PA 19122 USA  19716 USA  
+Affiliation: Computer and Information Science Department Temple University,  Computer and Information Science Department University of Delaware, Newark, DE  
+Abstract: This paper describes the development of a test environment for innovative transport protocols. Central to this work is the development of a Universal Transport Library (UTL). UTL is a library of transport protocols that provides application programmers the ability to write to a single Application Programming Interface (API), then test their application with many different transport protocols. UTL also allows for rapid prototyping of transport protocols at user level. UTL has been incoporated into two multimedia communication systems designed to provide better performance over lossy networks by using innovative transport protocol features: NETCICATS (a Network-Conscious Image Compression and Transmission System) and ReMDoR (a Remote Multimedia Document Retrieval system). These three tools facilitate the evaluation of flexible transport protocols and compression techniques for multimedia communications over lossy battlefield networks. 1 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

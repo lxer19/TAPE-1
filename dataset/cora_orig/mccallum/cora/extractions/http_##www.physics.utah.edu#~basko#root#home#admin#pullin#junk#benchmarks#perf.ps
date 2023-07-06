@@ -1,0 +1,20 @@
+URL: http://www.physics.utah.edu/~basko/root/home/admin/pullin/junk/benchmarks/perf.ps
+Refering-URL: http://www.physics.utah.edu/~basko/root/home/admin/pullin/junk/benchmarks/
+Root-URL: 
+Title: Performance of Various Computers Using Standard Linear Equations Software  
+Author: Jack J. Dongarra* and 
+Date: March 11, 1993  
+Address: Knoxville, TN 37996-1301  Oak Ridge, TN 37831  
+Affiliation: Computer Science Department University of Tennessee  Mathematical Sciences Section Oak Ridge National Laboratory  
+Pubnum: CS 89 85  
+Abstract: Electronic mail address: dongarra@cs.utk.edu. This work was supported in part by the Applied Mathematical Sciences subprogram of the Office of Energy Research, U.S. Department of Energy, under Contract DE-AC05-84OR21400, and in part by the Science Alliance a state supported program at the University of Tennessee. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> J. Dongarra, J. Bunch, C. Moler, and G. W. Stewart. </author> <title> LINPACK User's Guide. </title> <publisher> SIAM, </publisher> <address> Philadelphia, PA, </address> <year> 1979. </year>
+Reference-contexts: All performance numbers reflect arithmetic performed in full precision (usually 64-bit), unless noted. On some machines full precision may be single precision, such as the CRAY, or double precision, such as the IBM. The first number is for the LINPACK <ref> [1] </ref> benchmark program for a matrix of order 100 in a Fortran environment. The second number is for solving a system of equations of order 1000, with no restriction on the method or its implementation. The third number is the theoretical peak performance of the machine.
+Reference: [2] <author> J. J. Dongarra, I. S. Duff, D. C. Sorensen, and H. A. Van der Vorst. </author> <title> Solving Linear Systems on Vector and Shared Memory Computers. </title> <publisher> SIAM Publications, </publisher> <address> Philadelphia, PA, </address> <year> 1990. </year>
+Reference-contexts: For these experiments, we used either the standard LINPACK algorithm or an algorithm based on matrix-matrix <ref> [2] </ref> techniques. In the case of the LINPACK algorithm, the loop around the SAXPY can be performed in parallel. In the matrix-matrix implementation the matrix product can be split into submatrices and performed in parallel.
+Reference: [3] <author> C. Lawson, R. Hanson, D. Kincaid, and F. Krogh. </author> <title> Basic linear algebra subprograms for Fortran usage. </title> <journal> ACM Trans. Math. Softw., </journal> <volume> 5 </volume> <pages> 308-323, </pages> <year> 1979. </year>
+Reference-contexts: Department of Energy, under Contract DE-AC05-84OR21400, and in part by the Science Alliance a state supported program at the University of Tennessee. March 11, 1993 2 way Fortran stores arrays. Most floating-point operations in LINPACK take place in a set of subprograms, the Basic Linear Algebra Subprograms (BLAS) <ref> [3] </ref>, which are called repeatedly throughout the calculation. These BLAS, referred to now as Level 1 BLAS, reference one-dimensional arrays, rather than two-dimensional arrays. In the first case, the problem size is relatively small (order 100), and no changes were made to the LINPACK software.
+References-found: 3
+

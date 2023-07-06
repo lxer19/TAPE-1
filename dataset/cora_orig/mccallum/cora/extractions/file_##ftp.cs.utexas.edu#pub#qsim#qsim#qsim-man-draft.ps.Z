@@ -1,0 +1,18 @@
+URL: file://ftp.cs.utexas.edu/pub/qsim/qsim/qsim-man-draft.ps.Z
+Refering-URL: http://net.cs.utexas.edu/users/qr/QR-software.html
+Root-URL: http://www.cs.utexas.edu
+Title: QSIM: The Program and its Use  
+Author: Adam Farquhar Benjamin Kuipers Jeff Rickel David Throop and 
+Note: 1 This work has taken place in the Qualitative Reasoning  the Qualitative Reasoning Group is supported in part by NSF grants IRI-8602665, IRI-8905494, and IRI-8904454, by NASA grants NAG 2-507 and NAG 9-200, and by the Texas Advanced Research Program under grant no. 003658175.  
+Date: October 18, 1994  
+Address: Austin, Texas 78712 USA  
+Affiliation: The Qualitative Reasoning Group Department of Computer Sciences, University of Texas at Austin,  Group at the Artificial Intelligence Laboratory, The University of Texas at Austin. Research of  
+Abstract-found: 0
+Intro-found: 0
+Reference: 1. <institution> Define the structure of a mechanism as one or more qualitative differential equations (QDEs). </institution>
+Reference: 2. <institution> Define the functions that enable transitions between QDEs if there is more than one QDE. </institution> <note> 7 8 CHAPTER 2. INTRODUCTION TO QSIM </note>
+Reference: 3. <institution> Specify the initial conditions (state) for the simulation. </institution>
+Reference: 4. <institution> Generate the behavior tree of states leading from the initial state. </institution>
+
+References-found: 4
+

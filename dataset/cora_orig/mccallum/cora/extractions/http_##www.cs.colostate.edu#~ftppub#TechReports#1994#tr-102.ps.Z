@@ -1,0 +1,16 @@
+URL: http://www.cs.colostate.edu/~ftppub/TechReports/1994/tr-102.ps.Z
+Refering-URL: http://www.cs.colostate.edu/~ftppub/
+Root-URL: 
+Affiliation: Department of Computer Science Colorado State University  
+Abstract: VLC Tries Karl W. Glander and Karl P. Durre Technical Report CS-94-102 February 8, 1994 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Al-Suwaiyel, Mohammed Ibrahim, </author> <title> Algorithms for Trie Compaction, </title> <type> Ph.D. </type> <institution> Thesis at University of Southern California. </institution> <month> June </month> <year> 1979. </year>
+
+Reference: <author> Durre, Karl P., </author> <title> Storing Static Tries, </title> <booktitle> 10th International Workshop WG 84 on Graphtheoretic Concepts in Computer Science, </booktitle> <address> 13-15 June 1984, Berlin, Germany, p. </address> <pages> 125-135. </pages>
+Reference: <author> Glander, Karl W. and Durre, Karl P., </author> <title> Estimating Bounds on the Size of Compressed Tries, (Submitted for publication.). Fredkin, Edward, Trie Memory, </title> <journal> Comm. of the ACM, v.3, </journal> <volume> n.9, </volume> <month> (Sept.) </month> <year> 1960, </year> <month> p.490-499. </month>
+Reference: <author> Knuth, D.E., </author> <title> Sorting and Searching, second ed., </title> <booktitle> vol. 3 of The Art of Computer Programming. </booktitle> <publisher> Addison-Wesley, </publisher> <address> Reading Massachusetts, </address> <year> 1973, </year> <pages> pp. 481-499. </pages>
+Reference: <author> Maly, Kurt, </author> <title> Compressed Tries, </title> <journal> Comm. of the ACM, v.19, </journal> <volume> n.7. </volume> <month> (July) </month> <year> 1976, </year> <month> p.409-415. </month>
+Reference: <author> Purdin, T.D.M., </author> <title> Compressing Tries for Storing Dictionaries, </title> <booktitle> Proceedings of the 1990 Symposium on Applied Computing, Fayetteville, AR, </booktitle> <address> USA, </address> <month> 5-6 April </month> <year> 1990, </year> <pages> p. 336-340. </pages>
+References-found: 6
+

@@ -1,0 +1,16 @@
+URL: ftp://rievaulx.dur.ac.uk/pub/tech-reports/1992/14-92.ps.gz
+Refering-URL: http://www.progsoc.uts.edu.au/~geldridg/cpp/
+Root-URL: 
+Email: EMail C.D.Turner@durham.ac.uk  
+Title: A Suite of Tools for the State- Based Testing of Object Oriented Programs  
+Author: C. D. Turner and Dr D. J. Robson 
+Date: 16 April, 1993  
+Address: Durham, England  
+Affiliation: Computer Science Division, School of Engineering and Computer Science (SECS), University of Durham,  
+Pubnum: Technical Report: TR-14/92  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> Turner, C. D., </author> <title> The Testing of ObjectOriented Programs, </title> <type> Tech. Rep. TR 13/92, </type> <institution> University of Durham, </institution> <address> England, 1992 C.D.Turner - 40 - 16/04/93 </address>
+Reference-contexts: Each feature is tested with all possible states, therefore taking into account the potentially infinite order in which the features of an object can be called. The technique is described in detail in <ref> [1] </ref>. The test cases consist of: code to generate the initial state for the test, checks to make sure that the required state has been reached, the code for the test, and code to validate the final state of the object. These test cases are laborious and tedious to produce. <p> This section will provide suggestions on methods for actually generating the information that goes into it. A separate C.D.Turner - 24 - 16/04/93 report describes the designing of state-based tests (see <ref> [1] </ref>). This section will describe a method for communicating the information to MKTC. The tests basically consist of exercising each feature with all stimuli (parameter values) for every possible state and validating the resulting state.
+References-found: 1
+

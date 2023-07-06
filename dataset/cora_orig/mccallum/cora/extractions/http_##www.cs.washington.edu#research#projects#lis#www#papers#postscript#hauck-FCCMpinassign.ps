@@ -1,0 +1,22 @@
+URL: http://www.cs.washington.edu/research/projects/lis/www/papers/postscript/hauck-FCCMpinassign.ps
+Refering-URL: http://www.cs.washington.edu/research/projects/lis/www/papers/
+Root-URL: 
+Title: Pin Assignment for Multi-FPGA Systems 1 (Extended Abstract)  
+Author: Scott Hauck, Gaetano Borriello 
+Address: Seattle, WA 98195  
+Affiliation: Department of Computer Science and Engineering University of Washington  
+Date: 11-13, April 1994.  
+Note: IEEE Workshop on FPGAs for Custom Computing Machines, pp.  
+Abstract: There is currently great interest in using systems of FPGAs for logic emulators, custom computing devices, and software accelerators. An important step in making these technologies more generally useful is to develop completely automatic mapping tools from high-level specification to FPGA programming files. In this paper we examine one step in this automatic mapping process, the selection of FPGA pins to use for routing inter-FPGA signals. We present an algorithm that greatly increases mapping speed while also improving mapping quality. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> P. K. Chan, M. D. F. Schlag, </author> <booktitle> "Architectural Tradeoffs in Field-Programmable-Device-Based Computing Systems", IEEE Workshop on FPGAs for Custom Computing Machines, </booktitle> <pages> pp. 152-161, </pages> <year> 1993. </year>
+Reference-contexts: Specifically, topologies such as bipartite graphs only connect logic-bearing FPGAs with routing-only FPGAs. In this way, the logic-bearing FPGAs can be placed initially, and it is assumed that the routing-only FPGAs can handle any possible pin assignment. More details on such an approach can be found in <ref> [1] </ref>. However, it is important to note that these approaches only apply to topologies such as bipartite graphs and partial crossbars, topologies where logic-bearing FPGAs are not directly connected. A third approach is to allow the FPGA placement tool to determine its own assignment.
+Reference: [2] <author> S. Hauck, G. Borriello, </author> <title> "Pin Assignment for Multi-FPGA Systems", </title> <institution> University of Washington, Dept. of Computer Science & Engineering Technical Report #94-04-01, </institution> <month> April </month> <year> 1994. </year>
+Reference-contexts: Our algorithm works on arbitrary topologies, including those for which iterative placement approaches generate incorrect results. Complete results, along with a more thorough discussion of this topic, can be found in <ref> [2] </ref>.
+Reference: [3] <author> K. Shahookar, P. Mazumder, </author> <title> VLSI Cell Placement Techniques, </title> <journal> ACM Computing Surveys, </journal> <volume> Vol. 23, No. 2, </volume> <pages> pp. 145-220, </pages> <month> June </month> <year> 1991. </year>
+Reference-contexts: Obviously, with the placement of a single FPGA consuming considerable CPU time, complete placement of all FPGAs simultaneously on a single processor is impractical, and thus simplification of the problem will be key to a workable solution. Our approach is to use forcedirected placement of the individual FPGAs <ref> [3] </ref>. In forcedirected placement, the signals that connect logic in a mapping are replaced by springs between the signals source and each sink, and the placement process consists of seeking a minimum net force placement of the logic.
+Reference: [4] <institution> Xilinx Development System Reference Guide and The Programmable Logic Data Book, Xilinx, Inc., </institution> <address> San Jose, CA, </address> <year> 1993. </year> <note> 1 This paper is an extended abstract of University of Washington, </note> <institution> Dept. of Computer Science & Engineering Technical Report #94-04-01, </institution> <month> April </month> <year> 1994. </year>
+Reference-contexts: A third approach is to allow the FPGA placement tool to determine its own assignment. This requires that the placement tool allow the user to restrict the locations where an I/O pin can be assigned (e.g., Xilinx APR and PPR placement and routing tools <ref> [4] </ref>). With such a system, I/O signals are restricted to only those pin locations that are wired to the proper destinations. Once the placement tool determines the pin assignment for one FPGA, this assignment is propagated to the attached FPGAs.
+References-found: 4
+

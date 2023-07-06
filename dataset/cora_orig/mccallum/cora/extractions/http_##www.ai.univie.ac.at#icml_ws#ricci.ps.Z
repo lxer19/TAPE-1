@@ -1,0 +1,13 @@
+URL: http://www.ai.univie.ac.at/icml_ws/ricci.ps.Z
+Refering-URL: http://www.ai.univie.ac.at/icml_ws/program.html
+Root-URL: 
+Email: fricci,avesanig@irst.itc.it  
+Title: Exact Learning and Data Compression with a Local Asymmetrically Weighted Metric  
+Author: Francesco Ricci and Paolo Avesani 
+Address: 38050 Povo (TN) Italy  
+Affiliation: Istituto per la Ricerca Scientifica e Tecnologica  
+Abstract: This paper is concerned with a local asymmetric weighting scheme for the nearest neighbor classification algorithm and a learning procedure, based on reinforcement, for computing the weights. Theoretical results show that this context dependent metric can learn exactly certain classes of concepts storing fewer examples that those required by the Euclidean metric. Moreover, computer experiments show that the proposed metric, storing a randomly chosen small percentage of the training set, can still outperform the standard nearest neighbor algorithm in terms of accuracy and can obtain almost the same accuracy as the k-NN algorithm. The drastic reduction of the stored examples results in a great speed up of performance at query time.
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

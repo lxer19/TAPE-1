@@ -1,0 +1,17 @@
+URL: ftp://info.mcs.anl.gov/pub/tech_reports/reports/P381.ps.Z
+Refering-URL: http://www.mcs.anl.gov/publications/preprints.htm
+Root-URL: http://www.mcs.anl.gov
+Title: Applications-Driven Parallel I/O  
+Author: N. Galbreath W. Gropp D. Levine 
+Address: Argonne, IL 60439-4801  
+Affiliation: Mathematics and Computer Science Division Argonne National Laboratory  
+Abstract: We investigate the needs of some massively parallel applications running on distributed-memory parallel computers at Argonne National Laboratory and identify some common parallel I/O operations. For these operations, routines were developed that hide the details of the actual implementation (such as the number of parallel disks) from the application, while providing good performance. An important feature is the ability for the application programmer to specify that a file be accessed either as a high-performance parallel file or as a conventional Unix file, simply by changing the value of a parameter on the file open call. These routines are examples of a parallel I/O abstraction that can enhance development, portability, and performance of I/O operations in applications. Some of the specific issues in their design and implementation in a distributed-memory toolset are discussed. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Ralph Butler and Ewing Lusk. </author> <title> Monitors, messages, and clusters: The p4 parallel programming system. </title> <journal> Journal of Parallel Computing. </journal> <note> to appear (Also Argonne National Laboratory Mathematics and Computer Science Division preprint P362-0493). </note>
+Reference: [2] <author> T. Crockett. </author> <title> File concepts for parallel I/O. </title> <booktitle> In Proceedings of Supercomputing'89, </booktitle> <pages> pages 574-579, </pages> <year> 1989. </year>
+Reference: [3] <author> J. M. del Rosario and A. Choudhary. </author> <title> High performance I/O for parallel computers: Problems and prospects. </title> <type> Preprint, </type> <year> 1993. </year>
+Reference-contexts: In the IBM SP-1 "parallel" implementation, each processor void write_graphics (ps, nx, ny, nz, hlx, hly, hlz, sx,ex,sxgp,exgp,sy,ey,sygp,eygp,sz,ez,szgp,ezgp) - int *sx, *sy, *sz, *ex, *ey, *ez; int *sxgp, *sygp, *szgp, *exgp, *eygp, *ezgp; double *hlx, *hly, *hlz, *ps; PIFILE *fp; PIFArrayPart sz <ref> [3] </ref>; sz [0].mdim = nx; sz [0].ndim = ex + exgp - sx + sxgp + 1; sz [0].start = sxgp; sz [0].end = sxgp + ex - sx ; sz [0].gstart = sx - sxgp; sz [0].gend = ex + exgp; sz [1].mdim = ny; sz [1].ndim = ey +
+Reference: [4] <author> W. Gropp and B. Smith. </author> <title> Users manual for the Chameleon parallel programming tools. </title> <type> Technical Report ANL-93/23, </type> <institution> Argonne National Laboratory, </institution> <year> 1993. </year>
+References-found: 4
+

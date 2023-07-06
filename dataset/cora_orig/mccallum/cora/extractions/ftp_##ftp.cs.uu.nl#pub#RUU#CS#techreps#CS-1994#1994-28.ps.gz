@@ -1,0 +1,21 @@
+URL: ftp://ftp.cs.uu.nl/pub/RUU/CS/techreps/CS-1994/1994-28.ps.gz
+Refering-URL: http://www.cs.ruu.nl/docs/research/publication/TechList1.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: What's so special about Kruskal's theorem and the ordinal 0 A survey Two generalizations of
+Author: [] Gallier, J. H. [] Kamin, S., and L evy, J. J. versity [] Lescanne, P. H. Kirchner and G. Levi, Narendran, P., and Rusinowitch, M. Nash-Williams, C. S. J. A. [] Rubio, A., and Nieuwenhuis, R. M. Rusinowitch and J. Remy, 
+Address: 1980.  1979.  
+Affiliation: of Illinois,  Louisiana Technical University, Ruston,  
+Date: 105, 1 (1992), 129-140.  59 (1963), 833-835.  (1993),  
+Note: derivation lengths. Theoretical Computer Science  [10] Kuratowski, K., and Mostowski, A. Set Theory. North-Holland Publishing Com pany, 1968. [11] Lankford, D. S. On proving term rewriting systems are noetherian. Tech. Rep. MTP 3,  Eds., vol. 632 of Lecture Notes in Computer Science, Springer, pp. 21 36. [13]  In Proceedings of the 4th Conference on Rewriting Techniques and Applications (1991), R. V. Book, Ed., vol. 488 of Lecture Notes in Computer Science, Springer, pp. 423-434. [14]  Proc. Cambridge Phil. Soc.  In Proceedings of the 5th Conference on Rewriting Techniques and Applications  Ed., vol. 355 of Lecture Notes in Computer Science, Springer, pp. 434-448. [17] Zantema, H.  Eds., vol. 656 of Lecture Notes in Computer Science, Springer, pp. 155-167. Full version to appear in Journal of Symbolic Computation. 20  
+Abstract: of some results in proof theory. Annals of Pure and Applied Logic 53 (1991), 199-260. [8] Hofbauer, D. Termination proofs by multiset path orderings imply primitive recursive C. Kirchner, Ed., vol. 690 of Lecture Notes in Computer Science, Springer, pp. 374-388. [16] Steinbach, J. Extensions and comparison of simplification orderings. In Proceedings of the 3rd Conference on Rewriting Techniques an Applications (1989), N. Dershowitz, 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Ben-Cherifa, A., and Lescanne, P. </author> <title> Termination of rewriting systems by polynomial interpretations and its implementation. </title> <booktitle> Science of Computing Programming 9, 2 (1987), </booktitle> <pages> 137-159. </pages>
+Reference: [2] <author> Dershowitz, N. </author> <title> Termination of rewriting. </title> <journal> Journal of Symbolic Computation 3, </journal> <volume> 1 and 2 (1987), </volume> <pages> 69-116. </pages>
+Reference: [3] <author> Dershowitz, N., and Jouannaud, J.-P. </author> <title> Rewrite systems. </title> <booktitle> In Handbook of Theoretical Computer Science, </booktitle> <editor> J. van Leeuwen, Ed., </editor> <volume> vol. </volume> <publisher> B. Elsevier, </publisher> <year> 1990, </year> <journal> ch. </journal> <volume> 6, </volume> <pages> pp. 243-320. </pages>
+Reference: [4] <author> Dershowitz, N., and Manna, Z. </author> <title> Proving termination with multiset orderings. </title> <journal> Communications ACM 22, </journal> <volume> 8 (1979), </volume> <pages> 465-476. </pages>
+Reference: [5] <author> Ferreira, M. C. F., and Zantema, H. </author> <title> Total termination of term rewriting. </title> <booktitle> In Proceedings of the 5th Conference on Rewriting Techniques and Applications (1993), </booktitle> <editor> C. Kirchner, Ed., </editor> <volume> vol. </volume> <booktitle> 690 of Lecture Notes in Computer Science, </booktitle> <publisher> Springer, </publisher> <pages> pp. 213-227. </pages> <note> Full version submitted for publication. </note>
+
+
+References-found: 5
+

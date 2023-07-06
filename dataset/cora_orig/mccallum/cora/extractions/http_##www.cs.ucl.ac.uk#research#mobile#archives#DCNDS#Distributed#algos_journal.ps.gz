@@ -1,0 +1,13 @@
+URL: http://www.cs.ucl.ac.uk/research/mobile/archives/DCNDS/Distributed/algos_journal.ps.gz
+Refering-URL: http://www.cs.ucl.ac.uk/research/mobile/archives/DCNDS/Distributed/
+Root-URL: http://www.cs.ucl.ac.uk
+Title: Designing distributed algorithms for mobile computing networks  
+Author: B. R. BADRINATH, Arup ACHARYA and Tomasz IMIELINSKI 
+Address: New Brunswick, NJ 08903, USA  
+Affiliation: Department of Computer Science, Rutgers University,  
+Abstract: Mobile computing represents a new paradigm that aims to provide continuous network connectivity to users regardless of their location. To realize this aim, it is necessary to design distributed algorithms that explicitly account for host mobility and the physical constraints associated with such networks. This paper presents an operational system model for explicitly incorporating the effects of host mobility with appropriate cost measures. It points out the drawbacks of executing distributed algorithms in this model that are not explicitly designed for mobile hosts. To overcome the resource constraints of mobile hosts, we propose a two tier principle for structuring distributed algorithms for mobile hosts so that the computation and communication requirements of an algorithm are borne by the static hosts to the extent possible. In addition, since location of a mobile host could change after initiating a distributed computation and before receiving the result, location management of mobile participants needs to be explicitly integrated with algorithm design. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <editor> In 1992 Winter Usenix (Jan. </editor> <year> 1993). </year> <note> 31 Watson, </note> <author> T., and Bershad, B. N. </author> <title> Local area mobile computing on stock hardware and mostly stock software. </title> <booktitle> In USENIX Symposium on Mobile and Location-Independent Computing (Aug. </booktitle> <year> 1993). </year>
+References-found: 1
+

@@ -1,0 +1,23 @@
+URL: ftp://iride.unipv.it/pub/publ/13.ps.gz
+Refering-URL: http://iride.unipv.it/research/publ.html
+Root-URL: 
+Phone: Tel: int +39.382.391350  
+Title: THE PAPIA2 MACHINE: HARDWARE AND SOFTWARE ARCHITECTURE  
+Author: A. Biancardi, V. Cantoni, M. Ferretti and M. Mosconi 
+Address: Via Abbiategrasso 209 I-27100 PAVIA, ITALY  
+Affiliation: Dipartimento di Informatica e Sistemistica University of Pavia  
+Abstract: This paper presents the overall structure of PAPIA2, a pyramid system belonging to the family of massive parallel machines. It embeds the topology of the quad-pyramid into a highly regular, fault tolerant, eight-connected proces sor array by means of specially reconfigurable near-neighbor interconnections. The system comes with a fully-fledged software environment designed to optimize the use of machine resources. The highly interactive graphic tools help in understanding the machine's capabilities, provide a valuable testbed for the machine instruction set, and offer a suitable context for monitoring program execution. 
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> V. Cantoni and S. Levialdi, </author> <title> "Multiprocessor Computing for Images", </title> <journal> IEEE Proc., </journal> <volume> vol. 76, no. 8, </volume> <month> August </month> <year> 1988. </year>
+Reference: 2. <author> M. Albanesi, V. Cantoni, U. Cei, M. Ferretti, and M. Mosconi, </author> <title> Embedding Pyramids into Mesh Arrays, in Reconfigurable Massively Parallel Computers, </title> <editor> H. Li, and Q. F. Stout, Eds, </editor> <address> Englewood Cliffs, NJ: </address> <publisher> Prentice Hall, </publisher> <year> 1991, </year> <pages> pp. 123-140. </pages>
+Reference: 3. <author> H. Li and M. Maresca, </author> <title> "Connection Autonomy in SIMD Architectures: A VLSI Implementation," </title> <journal> Journal of Parallel and Distributed Computing, </journal> <volume> Vol. 7, No. 2, </volume> <pages> pp. 302-320, </pages> <year> 1989. </year>
+Reference: 4. <author> C. C. Weems, and D. Rana, </author> <title> Reconfiguration in the Low, and Intermediate Levels of the Image Understanding Architecture, in Reconfigurable Massively Parallel Computers, </title> <editor> H. Li, and Q. F. Stout, Eds, </editor> <address> Englewood Cliffs, NJ: </address> <publisher> Prentice Hall, </publisher> <year> 1991, </year> <pages> pp. 88-105. </pages>
+Reference: 5. <author> Y. Ni, A. Mrigot, and F. Devos, </author> <title> "Designing a VLSI Processing Element Chip for Pyramid Computer SPHINX", in Progress in Image Analysis and Processing, </title> <editor> V. Cantoni, L. P. Cordella, S. Levialdi, and G. Sanniti di Baja, eds., </editor> <publisher> Singapore: World Scientific, </publisher> <year> 1990, </year> <pages> pp. 759-766. </pages>
+Reference: 6. <author> V. Cantoni, M. Ferretti, and M. Savini, </author> <title> Connectivity and Spacing Checking with Fine Grained Machine, in Machine Vision for Inspection and Measurement, </title> <editor> H. Freeman Ed., </editor> <address> San Diego (CA): </address> <publisher> Academic Press, </publisher> <year> 1989, </year> <pages> pp. 85-100. </pages>
+Reference: 7. <author> H. Li and M. Maresca, </author> <title> "Polymorphic-Torus Network," </title> <journal> IEEE Trans. on Computer, </journal> <volume> Vol. 38, No. 9, </volume> <pages> pp. 1345-1351, </pages> <year> 1989. </year>
+Reference: 8. <author> H. W. </author> <title> Lawson "Application Machines: an Approach to Realizing Understandable Systems," </title> <journal> Microprocessing and Microprogramming, </journal> <volume> Vol. 35, No. </volume> <pages> 1-5, pp. 5-10, </pages> <year> 1992. </year>
+Reference: 9. <author> A. Biancardi, V. Cantoni and M. Mosconi, </author> <title> "Program Development and Coding on a Fine Grained Vision Machine", </title> <note> to appear on Journal of Machine Vision and Applications. </note>
+Reference: 10. <author> J.K. Ousterhout, </author> <title> "Tcl: An Embeddable Command Language", </title> <booktitle> Proc. 1990 Winter USENIX Conference. </booktitle> <volume> Captions 1 4 2 2 2 2 1 4 1 1 1 2 2 3 represent PEs, </volume> <editor> circles represent switches. </editor> <title> connections from and to switches are on the top-left and bottom-left side respectively. </title>
+References-found: 10
+

@@ -1,0 +1,12 @@
+URL: ftp://ftp.cs.umd.edu/pub/papers/papers/3519/3519.ps.Z
+Refering-URL: http://www.cs.umd.edu/TRs/TR.html
+Root-URL: 
+Title: Supporting Distributed Multimedia Applications on ATM Networks  
+Degree: Debanjan Saha, Doctor of Philosophy, 1995 Dissertation directed by: Professor Satish K. Tripathi  
+Affiliation: Department of Computer Science  
+Note: Abstract Title of Dissertation:  
+Abstract: ATM offers a number of features, such as high-bandwidth, and provision for per-connection quality of service guarantees, making it particularly attractive to multimedia applications. Unfortunately, the bandwidth available at ATM's data-link layer is not visible to the applications due to operating system (OS) bottlenecks at the host-network interface. Similarly, the promise of per-connection service guarantees is still elusive due to the lack of appropriate traffic control mechanisms. In this dissertation, we investigate both of these problems, taking multimedia applications as examples. The OS bottlenecks are not limited to the network interfaces, but affect the performance of the entire I/O subsystem. We propose to alleviate OS's I/O bottleneck by according more autonomy to I/O devices and by using a connection oriented framework for I/O transfers. We present experimental results on a video conferencing testbed demonstrating the tremendous performance impact of the proposed I/O architecture on networked multimedia applications. To address the problem of quality of service support in ATM networks, we propose a simple cell scheduling mechanism, named carry-over round robin (CORR). Using analytical techniques, we analyze the delay performance of CORR scheduling. Besides providing guarantees on delay, CORR is also fair in distributing the excess bandwidth. We show that albeit its simplicity, CORR is very competitive with other more complex schemes both in terms of delay performance and fairness. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

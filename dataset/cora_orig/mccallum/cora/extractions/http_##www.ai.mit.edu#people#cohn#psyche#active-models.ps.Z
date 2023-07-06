@@ -1,0 +1,29 @@
+URL: http://www.ai.mit.edu/people/cohn/psyche/active-models.ps.Z
+Refering-URL: http://www.ai.mit.edu/people/cohn/psyche/
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Email: cohn@psyche.mit.edu, zoubin@psyche.mit.edu, jordan@psyche.mit.edu  
+Title: In  Active Learning with Statistical Models  
+Author: G. Tesauro, D. Touretzky, and T. Leen, David A. Cohn, Zoubin Ghahramani, and Michael I. Jordan 
+Address: Cambridge, MA 02139  
+Affiliation: Department of Brain and Cognitive Sciences Massachusetts Institute of Technology  
+Note: eds., Advances in Neural Information Processing Systems 7. MIT Press, Cambridge, MA (1995).  
+Abstract: For many types of learners one can compute the statistically "optimal" way to select data. We review how these techniques have been used with feedforward neural networks [MacKay, 1992; Cohn, 1994]. We then show how the same principles may be used to select data for two alternative, statistically-based learning architectures: mixtures of Gaussians and locally weighted regression. While the techniques for neural networks are expensive and approximate, the techniques for mixtures of Gaussians and locally weighted regres sion are both efficient and accurate.
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> W. Cleveland, S. Devlin, and E. Grosse. </author> <title> (1988) Regression by local fitting. </title> <journal> Journal of Econometrics 37 </journal> <pages> 87-114. </pages>
+Reference: <author> D. Cohn, L. Atlas and R. Ladner. </author> <title> (1990) Training Connectionist Networks with Queries and Selective Sampling. </title> <editor> In D. Touretzky, ed., </editor> <booktitle> Advances in Neural Information Processing Systems 2, </booktitle> <publisher> Morgan Kaufmann. </publisher>
+Reference: <author> D. Cohn. </author> <title> (1994) Neural network exploration using optimal experiment design. </title> <editor> In J. Cowan et al., eds., </editor> <booktitle> Advances in Neural Information Processing Systems 6. </booktitle> <publisher> Morgan Kaufmann. </publisher>
+Reference: <author> A. Dempster, N. Laird and D. Rubin. </author> <title> (1977) Maximum likelihood from incomplete data via the EM algorithm. </title> <journal> J. Royal Statistical Society Series B, </journal> <volume> 39 </volume> <pages> 1-38. </pages>
+Reference: <author> V. Fedorov. </author> <title> (1972) Theory of Optimal Experiments. </title> <publisher> Academic Press, </publisher> <address> New York. </address>
+Reference: <author> Z. Ghahramani and M. Jordan. </author> <title> (1994) Supervised learning from incomplete data via an EM approach. </title> <editor> In J. Cowan et al., eds., </editor> <booktitle> Advances in Neural Information Processing Systems 6. </booktitle> <publisher> Morgan Kaufmann. </publisher>
+Reference: <author> A. Linden and F. Weber. </author> <title> (1993) Implementing inner drive by competence reflection. </title> <editor> In H. Roitblat et al., eds., </editor> <booktitle> Proc. 2nd Int. Conf. on Simulation of Adaptive Behavior, </booktitle> <publisher> MIT Press, </publisher> <address> Cambridge. </address>
+Reference: <author> D. MacKay. </author> <title> (1992) Information-based objective functions for active data selection, </title> <booktitle> Neural Computation 4(4): </booktitle> <pages> 590-604. </pages>
+Reference: <author> S. Nowlan. </author> <title> (1991) Soft Competitive Adaptation: Neural Network Learning Algorithms based on Fitting Statistical Mixtures. </title> <institution> CMU-CS-91-126, School of Computer Science, Carnegie Mellon University, </institution> <address> Pittsburgh, PA. </address>
+Reference: <author> Paass, G., and Kindermann, J. </author> <year> (1995). </year> <title> Bayesian Query Construction for Neural Network Models. </title> <booktitle> In this volume. </booktitle>
+Reference: <author> M. Plutowski and H. </author> <title> White (1993). Selecting concise training sets from clean data. </title> <journal> IEEE Transactions on Neural Networks, </journal> <volume> 4, </volume> <pages> 305-318. </pages>
+Reference: <author> S. Schaal and C. Atkeson. </author> <title> (1994) Robot Juggling: An Implementation of Memory-based Learning. </title> <journal> Control Systems Magazine, </journal> <volume> 14(1) </volume> <pages> 57-71. </pages>
+Reference: <author> J. Schmidhuber and J. Storck. </author> <title> (1993) Reinforcement driven information acquisition in nondeterministic environments. </title> <type> Tech. Report, </type> <institution> Fakultat fur Informatik, Technische Uni-versitat Munchen. </institution>
+Reference: <author> D. Specht. </author> <title> (1991) A general regression neural network. </title> <journal> IEEE Trans. Neural Networks, </journal> <volume> 2(6) </volume> <pages> 568-576. </pages>
+Reference: <author> S. Thrun and K. Moller. </author> <title> (1992) Active exploration in dynamic environments. </title> <editor> In J. Moody et al., editors, </editor> <booktitle> Advances in Neural Information Processing Systems 4. </booktitle> <publisher> Morgan Kaufmann. </publisher>
+References-found: 15
+

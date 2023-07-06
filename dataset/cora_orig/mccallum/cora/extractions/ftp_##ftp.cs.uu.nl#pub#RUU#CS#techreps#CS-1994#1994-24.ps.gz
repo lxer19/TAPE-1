@@ -1,0 +1,25 @@
+URL: ftp://ftp.cs.uu.nl/pub/RUU/CS/techreps/CS-1994/1994-24.ps.gz
+Refering-URL: http://www.cs.ruu.nl/docs/research/publication/TechList1.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: On the inconsistency of rigid-body frictional planar mechanics. In International conference on Robotics and Automation
+Author: M. T. Mason and Y. Wang. [] M. A. Peshkin and A. C. Sanderson. [] M. A. Peshkin and A. C. Sanderson. A. S. Rao and K. Y. Goldberg. A. S. Rao and K. Y. Goldberg. A. A. Schaeffer and C. J. Van Wyk. ():-, . [] D. E. Whitney. 
+Address: NY.  
+Affiliation: Stony Brook,  
+Date: 4(6), December 1988.  4(5), October 1988.  August 1992.  Oct. 26, 1991,  March 1982.  
+Note: [11] M. T. Mason. Mechanics and planning of manipulator pushing operations. International Journal of Robotics Research, 5(3), Fall 1986. [12] M. T. Mason. On the scope of quasi-static pushing. In O. Faugeras and G. Giralt, editors, The Third International Symposium on Robotics Research. MIT Press, 1986. [13]  IEEE Journal of Robotics and Automation,  that slide. IEEE Journal of Robotics and Automation,  [17]  In 4th Cana-dian Conference on Computational Geometry, pages 210-215, St. John's, Newfoundland, Canada,  Prelim. version presented at the 1st MSI workshop on Computational Geometry,  [19]  On the relation between friction and part curvature in parallel-jaw grasping. In Internationalconference on Robotics and Automation (ICRA), pages III: 461-466, Atlanta, GA, May 1993. IEEE. [20]  [22] I. M. Yaglom and V.G. Boltyanskii. Convex Figures. Holt, Rinehart and Winston, New York, 1951. 19  
+Pubnum: 104:65-77,  
+Abstract: 16] A. S. Rao and K. Y. Goldberg. Computing grasp functions. Submitted to the journal: Computational Geometry: Theory and Applications. Also Tech. Report UU-CS-1994-18, Utrecht University, the Netherlands. Preliminary version appears in Proceedings of the IASTED Conference on Robotics and Manufacturing, Oxford, Sep. 1993. [18] A. S. Rao and K. Y. Goldberg. Manipulating algebraic parts in the plane. Technical Report RUU-CS-93-43, Utrecht University, Department of Computer Science, December 1993. Submitted to the IEEE Transactions on Robotics and Automation; preliminary version appears in Proc. ICRA 1992 under the title Orienting generalized polygonal parts. For a compressed postscript version anonymous ftp to ftp.cs.ruu.nl, cd /pub/RUU/CS/techreps/CS-1993, and get 1993-43.ps.gz. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> S. Akella and M. T. Mason. </author> <title> An open-loop planner for posing polygonal objects in the plane by pushing. </title> <booktitle> In International conference on Robotics and Automation (ICRA). IEEE, </booktitle> <month> May </month> <year> 1992. </year>
+Reference: [2] <author> J. C. Alexander and J. H. Maddocks. </author> <title> Bounds on the friction-dominated motion of a pushed object. </title> <journal> International Journal of Robotics Research, </journal> <volume> 12(3), </volume> <month> June </month> <year> 1993. </year>
+Reference: [3] <author> R. C. Brost. </author> <title> Automatic grasp planning in the presence of uncertainty. </title> <journal> International Journal of Robotics Research, </journal> <volume> 8(1), </volume> <month> February </month> <year> 1988. </year>
+Reference: [4] <author> V. Chandru and R. Venkataraman. </author> <title> Circular hulls and Orbiforms of simple polygons. </title> <booktitle> In ACM-SIAM Symposium on Discrete Algorithms (SODA). </booktitle> <address> SIAM-ACM, </address> <year> 1991. </year>
+Reference: [5] <author> Y-B. Chen and D. J. Ierardi. </author> <title> Oblivious plans for orienting and distinguishing polygonal parts. </title> <booktitle> In 4th Canadian Conference on Computational Geometry, </booktitle> <year> 1992. </year> <note> (Also Tech. Rpt. 92-502, </note> <institution> Computer Science, USC, </institution> <address> Los Angeles, CA 90089-0273). </address>
+Reference: [6] <author> M. A. Erdmann. </author> <title> On a representation of friction in configuration space. </title> <journal> International Journal of Robotics Research, </journal> <volume> 13(3) </volume> <pages> 240-271, </pages> <month> June </month> <year> 1994. </year>
+Reference: [7] <editor> K. Y. Goldberg. A kinematically-yielding gripper. </editor> <booktitle> In 22nd International Symposium on Industrial Automation, </booktitle> <month> October </month> <year> 1991. </year>
+Reference: [8] <author> K. Y. Goldberg. </author> <title> Orienting polygonal parts without sensors. </title> <journal> Algorithmica, </journal> <volume> 10(2) </volume> <pages> 201-225, </pages> <month> Aug </month> <year> 1993. </year> <note> (Special issue on Computational Robotics). </note>
+Reference: [9] <author> S. Goyal, A. Ruina, and J. Papadopoulos. </author> <title> Planar sliding with dry friction part I: Limit surface and moment function. </title> <journal> Wear, </journal> <volume> 143 </volume> <pages> 307-330, </pages> <year> 1991. </year>
+
+References-found: 9
+

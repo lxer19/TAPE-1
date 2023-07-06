@@ -1,0 +1,19 @@
+URL: http://www.cse.ucsc.edu/research/kestrel/papers/parseq96.ps
+Refering-URL: http://www.cse.ucsc.edu/research/kestrel/papers.html
+Root-URL: http://www.cse.ucsc.edu
+Email: rph@cse.ucsc.edu  
+Title: Parallel Hardware for Sequence Comparison and Alignment  
+Author: Richard Hughey 
+Address: Santa Cruz, CA 95064  
+Affiliation: Computer Engineering, University of California,  
+Date: 12(6):473-479, December 1996  
+Note: CABIOS  
+Abstract: Sequence comparison, a vital research tool in computational biology, is based on a simple O(n 2 ) algorithm that easily maps to a linear array of processors. This paper reviews and compares high-performance sequence analysis on general-purpose supercomputers and single-purpose, reconfigurable, and programmable co-processors. The difficulty of comparing hardware from published performance figures is also noted. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Altschul, S. F. et al. </author> <year> (1990). </year> <title> Basic local alignment search tool. </title> <journal> JMB, </journal> <volume> 215, </volume> <pages> 403-410. </pages> <note> 6 Bertin, </note> <author> P., Roncin, D., & Vuillemin, J. </author> <year> (1989). </year> <title> Introduction to programmable active memories. </title> <institution> Technical Report 3 Digital Paris Research Laboratory Rueil Malmaison, France. </institution>
+Reference-contexts: Another, somewhat simpler, recurrence is used by the BioSCAN co-processor (Singh et al., 1993). In this O (n 2 ) recurrence, the score along each diagonal (without insertions or deletions) is computed, and statistical analysis is used to generate a score similar to that of BLAST <ref> (Altschul et al., 1990) </ref>. Such searches are not as sensitive as the full affine cost computation but can be completed more quickly (Pearson, 1995b). Algorithm There are two basic methods of mapping sequence comparison to a parallel processor, one with coarse-grain parallelism, and the other with fine-grain parallelism.
+Reference: <author> Borah, M., Bajwa, R. S., Hannenhalli, S., & Irwin, M. J. </author> <year> (1994). </year>
+Reference-contexts: The 5-board FDF machine has 3360 processing cells, about 40 of which are required for each amino acid position. Recirculation currently enables queries up to 800 amino acids (Roberts, 1989). Reconfigurable Hardware (RH) Reconfigurable hardware includes systems based on field-programmable gate arrays (FPGAs) and other architectures such as MGAP <ref> (Borah et al., 1994) </ref>. RH machines generally cost somewhat more than SP machines. 3 element. The trail blazing general-purpose RH machines are PAM and Splash, both based on Xilinx FPGA technology (Bertin et al., 1989; Lemoine et al., 1994; Gokhale et al., 1991; Hoang, 1993). <p> The mapping works on 128 128-long comparisons at once | a linear pipeline would have somewhat lower total MCUPS but could handle an isolated query longer than 128 characters <ref> (Borah et al., 1994) </ref>. Programmable co-processors (PCP) Programmable co-processors strive for the algorithmic flexibility of reconfigurable systems and the speed and density of single-purpose systems. Cost and ease of programming falls between SP and RH.
+References-found: 2
+

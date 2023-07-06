@@ -1,0 +1,25 @@
+URL: http://www.cs.utexas.edu/users/markus/uv/umc-1-10.ps.gz
+Refering-URL: http://www.cs.utexas.edu/users/markus/uv/uv.html
+Root-URL: 
+Title: Model Checking for UNITY The UV System Revision 1.10  
+Author: Markus Kaltenbach 
+Note: Contents  
+Date: May 9, 1994  
+Address: Austin  
+Affiliation: Department of Computer Sciences The University of Texas at  
+Abstract: We present a description of our current implementation of a model checker for finite state UNITY programs and propositional UNITY logic. The model checker is capable of dealing with all unconditional properties of UNITY logic. Checking safety properties and basic progress properties can be done very efficiently due to the partitioning of the transition relation of a program induced by the program statements. Finding suitable invariants remains a crucial task in proving properties. The model checker provides means for both computing the strongest invariant of a program and for managing established invariants. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [BBR 90] <author> K. S. Brace, R. E. Bryant, R. L. Rudell, </author> <title> Efficient Implementation of a BDD package, </title> <booktitle> in Proceedings of the 27th ACM/IEEE Design Automation Conference 1990. </booktitle>
+Reference-contexts: The internal representation of programs and properties and the actual model checking algorithms are based on our own implementation of an ROBDD package (Reduced Ordered BDDs, many ideas for an efficient implementation are taken from <ref> [BBR 90] </ref>). This allows us to tailor the representation details (in particular as far as housekeeping and gathering statistical information is concerned) to the specific needs of the UMC system.
+Reference: [CM 88] <author> K. M. Chandy, J. Misra, </author> <title> Parallel Program Design: A Foundation, </title> <publisher> Addison Wesley 1988. </publisher>
+Reference-contexts: In the UMC system the formulae considered are the properties of propositional UNITY logic and the programs are finite state UNITY programs. We assume that the reader is familiar with UNITY, in particular with the programming notation and the semantics of the properties (for reference see <ref> [CM 88] </ref>, [Mis 93]).
+Reference: [GF 93] <author> A. Gupta, A. L. Fisher, </author> <title> Parametric Circuit Representation Using Inductive Boolean Functions, </title> <booktitle> in Proceedings of the Conference on Computer Aided Verification 1993, </booktitle> <publisher> Springer LNCS 697. </publisher>
+Reference: [JKR 89] <author> C. S. Jutla, E. Knapp, J. R. Rao, </author> <title> A Predicate Transformer Approach to Semantics of parallel Programs, </title> <month> PODC </month> <year> 1989. </year>
+Reference-contexts: All safety properties and all basic progress properties (with the only exception of leads-to properties) can be dealt with very efficiently that way. The algorithm for checking leads-to properties employs a fixpoint computation based on the predicate transformer wlt (see <ref> [JKR 89] </ref>) taking the fairness constraints on program executions into account. Each property given as input to the UMC system is connected to exactly one program, that serves as the structure over which the property is to be interpreted (and hence the local variables of which it can refer to).
+Reference: [Mis 90] <author> J. Misra, </author> <title> A Family of 2-process Mutual Exclusion Algorithms, </title> <booktitle> Notes on UNITY, </booktitle> <pages> 13. </pages>
+Reference-contexts: This example is taken from <ref> [Mis 90] </ref>: program Mutex declare type PC = (noncritical, requesting, trying, critical, exiting); var m, n: PC; var u, v, p: boolean; var hu, hv: boolean; initially ~u; m = noncritical; n = noncritical; assign u, m := true, requesting if hu /" m = noncritical; p, m := v, trying
+Reference: [Mis 93] <author> J. Misra, </author> <title> Safety, Progress, </title> <type> unpublished manuscripts, </type> <month> August </month> <year> 1993. </year> <month> 23 </month>
+Reference-contexts: In the UMC system the formulae considered are the properties of propositional UNITY logic and the programs are finite state UNITY programs. We assume that the reader is familiar with UNITY, in particular with the programming notation and the semantics of the properties (for reference see [CM 88], <ref> [Mis 93] </ref>).
+References-found: 6
+

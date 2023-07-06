@@ -1,0 +1,24 @@
+URL: ftp://ftp.cm.deakin.edu.au/pub/TR/Computing/rhodos/TR-C94-08.ps.gz
+Refering-URL: http://gollum.cm.deakin.edu.au/techreports.html
+Root-URL: 
+Email: -gjw,ddp,mick-@deakin.EDU.AU  
+Title: The RHODOS Space Manager 1993  
+Author: G. Wickham, D. De Paoli, M. Hobbs 
+Note: This work was partly supported by the Australian Research Council under Grants A48831034, A49232429 and Deakin University Research Grant 0504054151.  
+Address: Geelong Victoria 3217, Australia  
+Affiliation: School of Computing and Mathematics Deakin University,  
+Abstract: The Space Manager is a kernel server within the RHODOS environment that is charged with the task of creation, altering and deleting spaces. This report presents a general overview of how these tasks have been implemented and presents information for a user to be able to use these services. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [De Paoli and Goscinski 1994] <author> D. De Paoli and A. </author> <title> Goscinski An Overview of Process Management in the RHODOS System. </title> <type> Technical Report TR C94/01. </type> <institution> School of Computing and Mathematics, Deakin University (Geelong), </institution> <address> Victoria 3217, Australia. </address>
+Reference-contexts: When twining a process, it is necessary to perform distinct operations depending upon the weight of the process_twin <ref> [De Paoli and Goscinski 1994] </ref>. If the weight of the twin is described as heavy, then the text space will be shared, the data and stack spaces will be duplicated.
+Reference: [Goscinski et al. 1994] <author> A. Goscinski, M. Hobbs, G. Wickham, P. </author> <title> Joyce Message Passing and RPC-based Interprocess Communication Mechanisms in the RHODOS Microkernel. </title> <type> Technical Report TR94/. </type> <institution> School of Computing and Mathematics, Deakin University (Geelong), </institution> <address> Vic-toria 3217, Australia. </address> <note> In preparation. </note>
+Reference-contexts: As a result of this model, all arguments and return values must be transported between the server and the client using inter process communication. RHODOS inherently supports the concept of Remote Procedure Calls through the implementation of the system call call () <ref> [Goscinski et al. 1994] </ref>. When a client wishes to use the services of a server using the RPC mechanism, it is necessary for the client to populate the send arguments so that they conform to the structure that the server is expecting.
+Reference: [Hobbs et al. 1992] <author> M. Hobbs, W. Toomey and G. Wickham. </author> <title> Booting of the RHODOS Distributed Operating System. </title> <type> Technical Report TR C92/3. </type> <institution> Department of Computing and Mathematics, Deakin University, Geelong, Victoria. </institution> <month> August </month> <year> 1992. </year>
+Reference-contexts: According to this definition, the Space Manager has read/write access to the shared data area, whilst the microkernel is limited to read only. 2.1 Booting RHODOS and Priming the Space Manager Before RHODOS can begin operation, it must be booted <ref> [Hobbs et al. 1992] </ref>. During the booting it is necessary to have knowledge about spaces and space management, but the Space Manager is not operational and cannot be invoked by the standard RPC calls.
+Reference: [Toomey 1990] <author> W. Toomey. </author> <title> Memory Management in RHODOS. </title> <type> Technical Report CS90/19. </type> <institution> Department of Computer Science, University College, The University of New South Wales, Canberra. </institution> <month> May </month> <year> 1990. </year>
+Reference-contexts: The Space Manager has undergone a considerably transformation from that which is documented in <ref> [Toomey 1990] </ref>. The most significant difference has been the exporting the memory management from the microkernel, which has moved the Space Manager from to a user mode process.
+Reference: [Toomey 1991] <author> W. Toomey. </author> <title> The Hardware of the SUN 3/50 Workstation. </title> <type> Technical Report CS91/15. </type> <institution> Department of Computer Science, University College, The University of New South Wales, Canberra. </institution> <month> May </month> <year> 1991. </year>
+Reference-contexts: Therefore the secondary task of the Space Manager is to maintain the resource lists of free and used pages, and control their use within spaces. Unfortunately the requirement of managing lists of pages mandates knowledge concerning the size of a page. On a Sun 3/50 <ref> [Toomey 1991] </ref> the size of a physical page is 8192 bytes. This knowledge has been hard coded into the Space Manager.
+References-found: 5
+

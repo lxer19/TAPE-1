@@ -1,0 +1,12 @@
+URL: http://paleale.eecs.berkeley.edu/shift/doc/shift.ps.gz
+Refering-URL: http://paleale.eecs.berkeley.edu/shift/publications.html
+Root-URL: http://www.cs.berkeley.edu
+Title: SHIFT Reference Manual name SHIFT is a permutation of HSTIF (Hybrid System Tool Interchange Format).
+Author: Akash R. Deshpande Aleks Gollu Luigi Semenzato 
+Date: 02 Oct 1996 11:36:21 -0700  1 Overview  
+Note: PRCS project SHIC version 2.17 Wed,  The  
+Abstract: SHIFT is a description language for dynamic networks of hybrid systems. Such systems consist of components which can be created, interconnected and destroyed as the system evolves in time. Components exhibit hybrid behavior, consisting of continuous-time phases separated by discrete-event transitions. They may evolve independently or jointly with each other. They interact through input-output connections and synchronization of events. The interaction network may evolve in time. We believe this model offers the proper level of abstraction for describing complex applications such as highway and air traffic control systems, robotic shopfloors, and other systems whose operation cannot be captured by conventional models, which typically support only static interconnections. SHIFT is extensible. We plan to use SHIFT as a mechanism for defining the Automated Highway System Tool Interchange Format (AHSTIF). An automated highway system is a hybrid system with specific characteristics and restrictions. SHIFT supports the definition and enforcement of AHSTIF-specific semantics. This is a reference manual for SHIFT. It presents its material in a logical order, but it aims to be concise and has no pretense to be a SHIFT tutorial. Section 2 describes the model, and section 3 the language. A world is an evolving set of components. During the evolution of the world new components may be created, and the manner in which they interact may change. At all times the behavior of the world is self-contained, that is, it depends only on the state of its components. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

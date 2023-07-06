@@ -1,0 +1,22 @@
+URL: http://www.cs.ucsd.edu/%7ecfetzer/PS/preprint.letter.ps.gz
+Refering-URL: http://www.cs.ucsd.edu/users/cfetzer/page8.html
+Root-URL: http://www.cs.ucsd.edu
+Email: e-mail: cfetzer@cs.ucsd.edu  
+Title: Fail-Aware Publish/Subscribe Communication in Erlang  
+Author: Christof Fetzer 
+Web: http://www.cs.ucsd.edu/~cfetzer  
+Address: UC San Diego La Jolla, CA 92093-0114  
+Affiliation: Department of Computer Science  
+Abstract: The publish/subscribe communication paradigm provides many-to-many communication. It simplifies the construction of robust applications and the extension of existing applications. There exist several commercially available publish/subscribe middleware products. In this paper we address the issue of how one can extend this paradigm to support real-time applications. Ideally, we would like that a message is distributed within an a priori known amount of time to all subscribers. However, neither in a network of workstations nor in a wide area network one can guarantee such a strong property. Our approach tries to distribute messages in a timely manner but allows a subscriber to detect if it has not received all messages in a timely manner.
+Abstract-found: 1
+Intro-found: 1
+Reference: [Fetzer97a] <author> Fetzer, C., and Cristian, F. </author> <title> A fail-aware datagram service. </title> <booktitle> In Proceedings of the 2nd Annual Workshop on Fault-Tolerant Parallel and Distributed Systems (Geneva, </booktitle> <address> Switzerland, </address> <month> Apr </month> <year> 1997). </year> <note> http://www.cs.ucsd.edu/ ~cfetzer/FADS/fads.html. </note>
+Reference-contexts: For example, a fail-safe application can use this information to determine if and when it has to switch to a fail-safe mode because it has not received any valid sensor information. We showed in <ref> [Fetzer97a] </ref> how one can calculate an upper bound on the transmission delay when a message is delivered to a process even when the clocks of the sender and receiver are not synchronized.
+Reference: [Fetzer97b] <author> Fetzer, C., and Cristian, F. Fail-awareness: </author> <title> An approach to construct fail-safe applications. </title> <booktitle> In Proceedings of the 27th Annual International Symposium on Fault-Tolerant Computing (Seattle, </booktitle> <month> Jun </month> <year> 1997). </year> <note> http:// www.cs.ucsd.edu/~cfetzer/FAPS/faps.html. </note>
+Reference-contexts: We call this ability of a subscriber fail-awareness <ref> [Fetzer97b] </ref>. There are two aspects to fail-awareness. First, if a process receives a message m, it has to be able to determine the transmission delay of m. For example, most sensor information is only valid for a very short amount of time.
+Reference: [NDDS97] <author> Parado-Castellote, G., Schneider, S., and Hamilton, M. Ndds: </author> <title> The real-time publish subscribe network. </title> <booktitle> In IEEE Workshop on Middleware for Distributed Real-Time Systems and Services (San Francisco, </booktitle> <address> CA, </address> <year> 1997), </year> <pages> pp. 222232. </pages>
+Reference-contexts: Also, retransmissions might be unnecessary because the information might anyhow be replaced within a short amount of time. In this paper we extend the existing publish/subscribe paradigm to support real-time communication. There already exist at least one previous approach to extend the publish-/subscribe approach for real-time <ref> [NDDS97] </ref>. However, the approach proposed in this paper puts emphasis on the detectability of slow sporadic messages and how one can implement that.
+Reference: [Schmuck90] <author> Schmuck, F., and Cristian, F. </author> <title> Continuous clock amortization need not affect the precision of a clock synchronization algorithm. </title> <booktitle> In Proceedings of Ninth Annual ACM Symposium on Distributed Computing (1990). </booktitle>
+Reference-contexts: Note that this assumption restricts how one can synchronize the clocks: one cannot decrease the value of a clock to adjust its value to real-time. Instead one has to change the speed of the clock without ever decreasing the value of the clock (e.g. see <ref> [Schmuck90] </ref> for how one can achieve that). We denote the real-time clock of a process p by a function T p from real-time to clock time. Hence, T p (t) denotes the value of ps real-time clock at real-time t.
+References-found: 4
+

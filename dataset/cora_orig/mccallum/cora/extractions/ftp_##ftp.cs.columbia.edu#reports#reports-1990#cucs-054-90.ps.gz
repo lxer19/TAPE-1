@@ -1,0 +1,19 @@
+URL: ftp://ftp.cs.columbia.edu/reports/reports-1990/cucs-054-90.ps.gz
+Refering-URL: http://www.cs.columbia.edu/~library/1990.html
+Root-URL: http://www.cs.columbia.edu
+Title: [27] C.H. Papadimitriou. Serializability of concurrent updates. Superdatabases for composition of heterogeneous databases. In Amar
+Author: A. Sheth and M. Rusinkiewicz. [] G. Wiederhold and X. Qian. [] G. Wiederhold and X. Qian. 
+Address: 1988, Los Angeles.  
+Affiliation: Engineering,  
+Date: 26(4):631-653, October 1979.  [30] K.V.S. Ramarao.  378, May 1988.  250, February 1987.  Houston, November 1990.  
+Note: Journal of ACM,  [29] Calton Pu.  pages 150-157. IEEE Press, 1989. Also appeared in Proceedings of Fourth International Conference on Data  In Proceedings of 1988 ACM SIGMOD Conference on Management of Data, pages 371  [32]  In Proceedings of the Third International Conference on Data Engineering, pages 246  20  
+Pubnum: 130-132,  
+Abstract: 28] C. Pu and A. Leff. Replica control in distributed systems: An asynchronous approach. Technical Report CUCS-053-90, Department of Computer Science, Columbia University, December 1990. Submitted to SIGMOD. [31] A. Sheth and P. Krishnamurthy. Redundant data management in Bellcore and BCC databases. Technical Report TM-STS-015011/1, Bell Communications Research, December 1989. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> D. Agrawal and S. Sengupta. </author> <title> Modular synchronization in multiversion databases: Version control and concurrency control. </title> <booktitle> In Proceedings of the 1989 ACM SIGMOD International Conference on Management of Data, </booktitle> <address> Portland, </address> <year> 1989. </year> <month> ACM/SIGMOD. </month>
+Reference: [2] <author> R. Alonso, D. Barbara, and H. Garcia-Molina. </author> <title> Data caching issues in an information retrieval systems. </title> <journal> ACM Transactions on Database Systems, </journal> <volume> 15(3) </volume> <pages> 359-384, </pages> <month> September </month> <year> 1990. </year>
+Reference: [3] <author> D. Barbara and H. Garcia-Molina. </author> <title> The case for controlled inconsistency in replicated data. </title> <booktitle> In Proceedings of the Workshop on Management of Replicated Data, </booktitle> <pages> pages 35-42, </pages> <address> Hous-ton, </address> <month> November </month> <year> 1990. </year>
+
+References-found: 3
+

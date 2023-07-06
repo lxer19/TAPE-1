@@ -1,0 +1,32 @@
+URL: http://www.eecs.umich.edu/PPP/HPCS98.ps
+Refering-URL: http://www.eecs.umich.edu/PPP/publist.html
+Root-URL: http://www.cs.umich.edu
+Email: -gabandah, davidson-@eecs.umich.edu  
+Title: 1 A COMPARATIVE STUDY OF CACHE-COHERENT NONUNIFORM MEMORY ACCESS SYSTEMS An important approach in building
+Author: Gheith A. Abandah and Edward S. Davidson 
+Keyword: Index Terms:. CC-NUMA multiprocessors, performance evaluation, system architecture, coherence protocols, Stanford DASH, Convex SPP1000, SGI Origin 2000.  
+Note: 1.1 INTRODUCTION  
+Address: Ann Arbor  
+Affiliation: The University of Michigan,  
+Abstract: We present a comparative study of three important CC-NUMA implementations, Stanford DASH, Convex SPP1000, and SGI Origin 2000, to find strengths and weaknesses of current implementations. Although the three systems share many similarities, they have significant differences that translate into large performance differences; e.g., number of processors per node, cache configuration, memory consistency model, location of memory in the node, and cache-coherence protocol. In this study, we evaluate the effects of these differences on cache misses, miss time, and local and internode traffic. We first model the three systems according to their original parameters, and show that they have large performance differences due to using different component speeds and sizes. We then put the three systems on the same technological level by assigning them components of similar size and speed but preserve their organization and coherence protocol differences. Although the normalized Origin 2000 has the least average remote time, it spends the longest time satisfying its misses because most of them are remote. DASH's Illinois protocol and SPP1000's interconnect cache reduce their remote misses. The SPP1000 has the highest average remote time because its coherence protocol requires more signals to satisfy a miss than either of the other two protocols; DASH achieves lower miss time and its relaxed memory consistency model hides some of its miss time.
+Abstract-found: 1
+Intro-found: 1
+Reference: [Abandah, 1998] <author> Abandah, G. </author> <year> (1998). </year> <title> Reducing Communication Cost in Scalable Shared Memory Systems. </title> <type> PhD thesis, </type> <institution> University of Michigan. </institution>
+Reference: [Abandah and Davidson, 1998a] <author> Abandah, G. and Davidson, E. </author> <year> (1998a). </year> <title> Characterizing Distributed Shared Memory Performance: A Case Study of the Convex SPP1000. </title> <journal> IEEE Trans. Parallel and Distributed Systems, 9(2):206216. </journal>
+Reference: [Abandah and Davidson, 1998b] <author> Abandah, G. and Davidson, E. </author> <year> (1998b). </year> <title> Configuration Independent Analysis for Characterizing Shared-Memory Applications. </title> <booktitle> In Proc. 12th IPPS. </booktitle> <pages> 16 </pages>
+Reference: [Astfalk et al., 1994] <author> Astfalk, G., Brewer, T., and Palmer, G. </author> <year> (1994). </year> <title> Cache Coherence in the Convex MPP. </title> <type> Tech. paper, </type> <institution> Hewlett-Packard Co. </institution> <note> http://www.hp.com/wsg/tech/technical.html. </note>
+Reference: [Brewer, 1995] <author> Brewer, T. </author> <year> (1995). </year> <title> A Highly Scalable System Utilizing up to 128 PA-RISC Processors. </title> <booktitle> In Digest of papers, COMPCON'95, </booktitle> <pages> pages 133140. </pages>
+Reference: [Galles, 1996] <author> Galles, M. </author> <year> (1996). </year> <title> Scalable Pipelined Interconnect for Distributed Endpoint Routing: The SGI SPIDER Chip. </title> <booktitle> In HOT Interconnects IV, </booktitle> <pages> pages 141 146. </pages>
+Reference: [Gharachorloo et al., 1991] <author> Gharachorloo, K., Gupta, A., and Hennessy, J. </author> <year> (1991). </year> <title> Performance Evaluation of Memory Consistency Models for Shared-Memory Multiprocessors. </title> <booktitle> In ASPLOS-IV, </booktitle> <pages> pages 245257. </pages>
+Reference: [Hristea et al., 1997] <author> Hristea, C., Lenoski, D., and Keen, J. </author> <year> (1997). </year> <title> Measuring Memory Hierarchy Performance of Cache-Coherent Multiprocessors Using Micro Benchmarks. </title> <booktitle> In Supercomputing. </booktitle>
+Reference: [Lamport, 1979] <author> Lamport, L. </author> <year> (1979). </year> <title> How to Make a Multiprocessor Computer that Correctly Executes Multiprocess Programs. </title> <journal> IEEE Trans. on Computers, C-29(9):241248. </journal>
+Reference: [Laudon and Lenoski, 1997] <author> Laudon, J. and Lenoski, D. </author> <year> (1997). </year> <title> The SGI Origin: A ccNUMA Highly Scalable Server. </title> <booktitle> In Proc. 24th ISCA, </booktitle> <pages> pages 241251. </pages>
+Reference: [Lenoski et al., 1992] <author> Lenoski, D., Laudon, J., Gharachorloo, K., Weber, W.-D., Gupta, A., Hennessy, J., Horowitz, M., and Lam, M. </author> <year> (1992). </year> <title> The Stanford DASH Multiprocessor. </title> <publisher> Computer, 25:6379. </publisher>
+Reference: [Lenoski and Weber, 1995] <author> Lenoski, D. and Weber, W.-D. </author> <year> (1995). </year> <title> Scalable Shared-Memory Multiprocessing. </title> <publisher> Morgan Kaufmann. </publisher>
+Reference: [O2KTune, 1996] <author> O2KTune (1996). </author> <title> Performance Tuning for the Origin2000 and Onyx2. SGI. </title> <address> http://techpubs.sgi.com/library/. </address>
+Reference: [Papamarcos and Patel, 1984] <author> Papamarcos, M. and Patel, J. </author> <year> (1984). </year> <title> A Low Overhead Coherence Solution for Multiprocessors with Private Cache Memories. </title> <booktitle> In Proc. 11th ISCA, </booktitle> <pages> pages 348354. </pages>
+Reference: [R10000, 1997] <author> R10000 (1997). </author> <title> MIPS R10000 Microprocessor User's Manual. </title> <institution> MIPS Technologies Inc. </institution> <note> Version 2.0. </note>
+Reference: [SCI, 1993] <institution> SCI (1993). IEEE Standard for Scalable Coherent Interface (SCI). IEEE Computer Society. IEEE Std 1596-1992. </institution>
+Reference: [Sweazy and Smith, 1986] <author> Sweazy, P. and Smith, A. </author> <year> (1986). </year> <title> A Class of Compatible Cache Consistency Protocols and Their Support by the IEEE Futurebus. </title> <booktitle> In Proc. 13th ISCA, </booktitle> <pages> pages 414423. </pages>
+References-found: 17
+

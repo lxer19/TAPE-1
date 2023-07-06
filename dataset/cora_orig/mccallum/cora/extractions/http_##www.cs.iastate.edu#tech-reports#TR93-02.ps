@@ -1,0 +1,23 @@
+URL: http://www.cs.iastate.edu/tech-reports/TR93-02.ps
+Refering-URL: http://www.cs.iastate.edu/tech-reports/catalog.html
+Root-URL: 
+Title: Memory Access Optimizations for High-Performance Computing  
+Author: TR - Jeffrey S. Clary and S.C. Kothari 
+Address: 226 Atanasoff Ames, IA 50011  
+Affiliation: Iowa State University of Science and Technology Department of Computer Science  
+Date: January 13, 1993  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> G.C. Fox and S.W. Otto, </author> <title> ``Matrix Algorithms on a Hypercube I: Matrix Multiplication,'' </title> <booktitle> Paral lel Computing 4, </booktitle> <publisher> Elsevier Science Publishers B.V. (North Holland), </publisher> <year> 1987. </year>
+Reference-contexts: 2 (Addition): c = c + ctemp 6 STEP 3 (Communication): Shift each a one processor west STEP 4 (Communication): Shift each b one processor north This and other such systolic algorithms can be designed using the method described in [2]. 3.3 Algorithm 3: Broadcast This algorithm, reported by Fox <ref> [1] </ref>, begins with matrices A, B, and C all stored in normal order. As in algorithms 1 and 2, c ij is computed on processor P ij .
+Reference: [2] <author> Kothari, S.C., Gannett, E., and Oh, H., </author> <title> ``Optimal Designs of Linear Flow Systolic Architec tures,'' </title> <booktitle> Proc. Int. Conf. on Parallel Processing, </booktitle> <year> 1989, </year> <pages> pp. </pages> <month> I-247--I-256. </month>
+Reference-contexts: P-1 STEP 1 (Multiplication): ctemp = a * b STEP 2 (Addition): c = c + ctemp 6 STEP 3 (Communication): Shift each a one processor west STEP 4 (Communication): Shift each b one processor north This and other such systolic algorithms can be designed using the method described in <ref> [2] </ref>. 3.3 Algorithm 3: Broadcast This algorithm, reported by Fox [1], begins with matrices A, B, and C all stored in normal order. As in algorithms 1 and 2, c ij is computed on processor P ij .
+Reference: [3] <author> Knuth, Donald E., </author> <booktitle> The Art of Computer Programming, </booktitle> <publisher> Addison-Wesley Publishing Company, </publisher> <year> 1981, </year> <note> vol. 2. </note>
+Reference-contexts: On a fixed-size machine, the behavior of the three algorithms is asymtotically identical as problem size grows. Indeed, any reasonable parallel algorithm based on normal serial matrix multiplication (i.e. not based on methods such as those proposed by Strassen, Winograd, etc. <ref> [3] </ref>) will have an execution time of order N 3 . Reducing execution time becomes a problem of reducing constants. It turns out that reducing the execution time spent on memory accesses is crucial.
+Reference: [4] <institution> MasPar Assembly Language (MPAS) Reference Manual, MasPar Computer Corporation, Sun nyvale, </institution> <address> CA, </address> <year> 1990. </year>
+Reference: [5] <institution> MasPar Commands Reference Manual, MasPar Computer Corporation, </institution> <address> Sunnyvale, CA, </address> <year> 1990. </year>
+Reference: [6] <institution> MasPar Parallel Application Language (MPL) Reference Manual, MasPar Computer Corpora tion, </institution> <address> Sunnyvale, CA, </address> <year> 1990. </year>
+Reference: [7] <institution> MasPar Parallel Application Language (MPL) User Guide, MasPar Computer Corporation, </institution> <address> Sunnyvale, CA, </address> <year> 1990. </year>
+Reference: [8] <institution> MasPar Standard Programming Manual, MasPar Computer Corporation, </institution> <address> Sunnyvale, CA, </address> <year> 1990. </year> <title> 8 Acknowledgments We would like to thank the Scalable Computing Laboratory at Iowa State University for provid ing the MP-1 and MP-2 machines and the support staff. We also thank Michael Carter, Mark Fienup, and Youngtae Kim for useful discussions on the MasPar architecture. </title>
+References-found: 8
+

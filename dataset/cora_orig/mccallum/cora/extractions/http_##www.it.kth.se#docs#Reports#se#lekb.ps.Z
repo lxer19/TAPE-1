@@ -1,0 +1,37 @@
+URL: http://www.it.kth.se/docs/Reports/se/lekb.ps.Z
+Refering-URL: http://www.it.kth.se/docs/Reports/se/
+Root-URL: http://www.it.kth.se
+Title: References 2. Lenat, D. Cyc: Towards Programs with Common Sense. ExpertPriz A Hybrid Expert System
+Author: . Devanbu, P., Brachman, R.J., Selfridge, P.G., Ballard, B.W. J.E. Hayes, D. Michie and E. Tyugu . Wileden, J.C., Wolf, A.L., Rosenblatt, W.R., Tarr, (Ed. J.P. Seldin and J.R. Hindley) 
+Keyword: References  
+Date: 8, 1990, 30 49.  5, 1991, 34  1991, 3 16.  6, 1991, 46 59.  1985, 609 617.  1980, 586 606.  
+Note: Institute of Cybernetics, Tallinn,1991, (Russian).  Comm. ACM, vol. 33, No.  3. Tyugu, E. A Data-Base and Problem Solver for Computer-Aided Design. Information Processing71. North-Holland, 1972, 1046-1049. 4. Minsky, M. Semantic Information Processing. MIT Press, Cambridge. 1968. 5. Koov, M.  LaSSIE: a Knowledge-Based Software Information System. Comm. ACM, vol. 34, No.  497. 7.Tyugu., E. Modularity of Knowledge. In:  (Eds.), Machine Intelligence 12, Clarendon Press, Oxford,  P.L. Specification-Level Conformity. Comm. ACM, vol. 34, No. 5, 1991, 72 -87. 9. Genesereth, M.R., Nilsson, N.J. Logical Foundations of Artificial Intelligence. Morgan Kaufman Publ.1987. 10.Tyugu, E. Three New-Generation Software Environments. Comm. ACM, vol.34, No.  11.Pahapill, J. Programmpaket zur Modellierung der Hydromaschinen Systeme. 6. Fachtagung Hydraulik und Pneumatik,Magdeburg.  Academic Press,  
+Abstract: 12 Large Engineering Knowledge-Bases We did not touch problems like maintenance of large knowledge-bases, because this requires more experience which can be obtained only from practice of using large knowledge-bases. Finally, it seems that a realistic way to get a universal engineering knowledge-base is by evolutionary development. This reminds us again how people are being taught. The crucial question in this case will be the ability of a knowledge-base system to perceive the knowledge, i.e. to learn gradually. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <institution> 12 Large Engineering Knowledge-Bases We did not touch problems like maintenance of large knowledge-bases, </institution> <note> because this requires more experience which can be obtained only from practice of using large knowledge-bases. </note> <editor> Finally, </editor> <title> it seems that a realistic way to get a universal engineering knowledge-base is by evolutionary development. This reminds us again how people are being taught. The crucial question in this case will be the ability of a knowledge-base system to perceive the knowledge, i.e. to learn gradually. References </title>
+Reference: 1. <author> Tyugu, E., Harf, M., Kypp, M., Matskin, M. </author> <title> Large Knowledge-Bases. </title> <type> CS 28/91. </type> <institution> Institute of Cybernetics, Tallinn,1991, (Russian). </institution>
+Reference: 2. <author> Lenat, D. </author> <title> Cyc: Towards Programs with Common Sense. </title> <journal> Comm. ACM, </journal> <volume> vol. 33, No. 8, </volume> <year> 1990, </year> <pages> 30 - 49. </pages>
+Reference: 3. <author> Tyugu, E. </author> <title> A Data-Base and Problem Solver for Computer-Aided Design. Information Processing71. </title> <publisher> North-Holland, </publisher> <year> 1972, </year> <pages> 1046-1049. </pages>
+Reference: 4. <author> Minsky, M. </author> <title> Semantic Information Processing. </title> <publisher> MIT Press, </publisher> <address> Cambridge. </address> <year> 1968. </year>
+Reference: 5. <author> Koov, M. </author> <title> ExpertPriz -- A Hybrid Expert System Building Shell. </title> <booktitle> VTT Symposium 104, Software Development Trends. TRC of Finland. </booktitle> <year> 1989, </year> <note> 173 -185. </note>
+Reference: 6. <author> Devanbu, P., Brachman, R.J., Selfridge, P.G., Ballard, B.W. </author> <title> LaSSIE: a Knowledge-Based Software Information System. </title> <journal> Comm. ACM, </journal> <volume> vol. 34, No. 5, </volume> <year> 1991, </year> <note> 34 - 497. </note> <author> 7.Tyugu., E. </author> <title> Modularity of Knowledge. </title> <editor> In: J.E. Hayes, D. Michie and E. Tyugu (Eds.), </editor> <booktitle> Machine Intelligence 12, </booktitle> <publisher> Clarendon Press, Oxford, </publisher> <year> 1991, </year> <pages> 3 - 16. </pages>
+Reference: 8. <author> Wileden, J.C., Wolf, A.L., Rosenblatt, W.R., Tarr, </author> <title> P.L. </title> <journal> Specification-Level Conformity. Comm. ACM, </journal> <volume> vol. 34, No. 5, </volume> <year> 1991, </year> <note> 72 -87. </note>
+Reference: 9. <author> Genesereth, </author> <title> M.R., Nilsson, </title> <booktitle> N.J. Logical Foundations of Artificial Intelligence. </booktitle> <publisher> Morgan Kaufman Publ.1987. </publisher> <editor> 10.Tyugu, E. </editor> <title> Three New-Generation Software Environments. </title> <journal> Comm. ACM, vol.34, </journal> <volume> No. 6, 1991, 46 - 59. </volume> <editor> 11.Pahapill, J. Programmpaket zur Modellierung der Hydromaschinen Systeme. </editor> <booktitle> 6. Fachtagung Hydraulik und Pneumatik,Magdeburg. 1985, </booktitle> <volume> 609 - 617. 12. </volume> <editor> de Bruijn, N.G. </editor> <title> A survey of the project AUTOMATH. Essays in combinatory logic, Lambda calculus and formalism. </title> <editor> (Ed. J.P. Seldin and J.R. </editor> <publisher> Hindley) Academic Press, </publisher> <year> 1980, </year> <pages> 586 - 606. </pages>
+
+
+
+
+Reference: 4. <editor> What can and what must be put into a knowledge-base This part is based on our experience gained in engineering applications of knowledge-based programming tools. </editor> <title> Most of the applications belong to the electrical and mechanical engineering fields 11 , but there are also examples of successful usage of knowledge-bases in civil engineering design and other engineering fields. These experiments have given us the confidence that all kinds of engineering knowledge can be already presented in computer by means of now available knowledge tools. Meta-knowledge Knowledge-base Analyser Query processor </title>
+Reference: 3. <institution> Architecture of large knowledge-bases Large Engineering Knowledge-Bases 7 FIGURE 1. </institution> <note> Operational part of a knowledge-base. 1 5 7 1 - language processor 2 - knowledge handler 3,4 - inference engines 5 - knowledge repository 6,7 - knowledge packages </note>
+
+
+
+
+
+Reference: 2. <institution> Summary of requirements Large Engineering Knowledge-Bases 3 </institution>
+
+Reference: 1. <institution> Introduction 2 Large Engineering Knowledge-Bases </institution>
+
+References-found: 13
+

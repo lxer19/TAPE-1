@@ -1,0 +1,13 @@
+URL: http://www.cis.ohio-state.edu/~liux/papers/root_modeling_manual.ps.gz
+Refering-URL: http://www.cis.ohio-state.edu/~liux/
+Root-URL: http://www.cis.ohio-state.edu
+Title: PlantRoot Growth Visualizer User's Manual 1.0  
+Author: Xiuwen Liu and Zhaohua Ding and Kikuo Fujimura 
+Date: Jan. 1997  
+Affiliation: Department of Computer and Information Science Biomedical Engineering Center The Ohio State University  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> A. Jain, Y. Zhong, and S. Lakshmanan. </author> <title> Object matching using deformable templates. </title> <journal> IEEE Transactions on Pattern Analysis and Machine Intelligence, </journal> <volume> 18(3) </volume> <pages> 267-277, </pages> <month> March </month> <year> 1996. </year> <month> 7 </month>
+Reference-contexts: Currently, this is not a part of the input. However, the edge information is considered useful for automatic detection and tracking of bead, tip, and boundary locations. 1 3 Method The following image-space method is an adaptation of a parametric deformation method which is used for image matching in <ref> [1] </ref>.
+References-found: 1
+

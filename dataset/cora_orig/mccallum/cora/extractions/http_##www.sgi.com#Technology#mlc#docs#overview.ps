@@ -1,0 +1,15 @@
+URL: http://www.sgi.com/Technology/mlc/docs/overview.ps
+Refering-URL: http://www.sgi.com/Technology/mlc/docs.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Email: long@cs.Stanford.EDU  
+Title: Overview of MLC Library Classes  
+Author: Richard Long 
+Date: April 19, 1994  
+Abstract-found: 0
+Intro-found: 1
+Reference: [Koh94] <author> Ron Kohavi. </author> <title> Bottom-up induction of oblivious, read-once decision graphs. </title> <booktitle> In Proceedings of the European Conference on Machine Learning, </booktitle> <month> April </month> <year> 1994. </year> <note> Paper available by anonymous ftp from starry.stanford.edu:pub/ronnyk/euroML94.ps. </note>
+Reference-contexts: ID3Inducer is a subclass of TDDTInducer that uses the ID3 algorithm to induce the decision tree [Qui86]. 6.3 OODGInducer and HOODGInducer OODGInducer (Oblivious, read-Once Decision Graph inducer) is an abstract base class and a subclass of Inducer. OODGInducer uses a bottom-up method for building levelled rooted decision graphs <ref> [Koh94] </ref>. If the environment variable OODGREMOVEDUP (which defaults to "yes") is set to "yes," conflicting and duplicate instances are removed. num nodes () and num leaves () return the number of nodes and leaves respectively in the induced decision graph.
+Reference: [Qui86] <author> J. R. Quinlan. </author> <title> Induction of decision trees. </title> <journal> Machine Learning, </journal> <volume> 1 </volume> <pages> 81-106, </pages> <year> 1986. </year> <editor> Reprinted in Shavlik and Dietterich (eds.) </editor> <booktitle> Readings in Machine Learning. </booktitle> <address> E N D </address>
+Reference-contexts: TDDTInducer is a subclass of CtrInducer (but still an abstract base class). num nodes () and num leaves () return the number of nodes and leaves respectively in the induced decision tree. ID3Inducer is a subclass of TDDTInducer that uses the ID3 algorithm to induce the decision tree <ref> [Qui86] </ref>. 6.3 OODGInducer and HOODGInducer OODGInducer (Oblivious, read-Once Decision Graph inducer) is an abstract base class and a subclass of Inducer. OODGInducer uses a bottom-up method for building levelled rooted decision graphs [Koh94].
+References-found: 2
+

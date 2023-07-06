@@ -1,0 +1,9 @@
+URL: http://www.cs.unc.edu/~ibr/pubs/mcmillan-tr95_005/tr95_005.ps.gz
+Refering-URL: http://www.cs.unc.edu/~ibr/pubs.html
+Root-URL: http://www.cs.unc.edu
+Keyword: Projected Surfaces Leonard McMillan  
+Abstract: UNC Technical Report 95-005 A List-Priority Rendering Algorithm for Redisplaying Abstract Projected grid surfaces are a particularly interesting subset of bivariate parametric functions. Images generated using three-dimensional computer graphics methods and those resulting from ideal pin-hole cameras fall into this class. Often, a range image is provided in addition to the actual image, this may be in the form of a Z-buffer for synthetic images or stereo-disparity field for acquired images. In this research I report on an algorithm for computing the visible subset of a projected surface from any arbitrary view. This method has several important properties. It determines an occlusion-compatible paint order such that surfaces closest to the desired viewpoint are drawn last, thus overwriting any previously rendered surface. This painting order is determined independent of the range information. Also, facets of the image are drawn sequentially, taking advantage of local spatial coherency. This report also describes a method for the fast rendering of small triangles using a table driven approach. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

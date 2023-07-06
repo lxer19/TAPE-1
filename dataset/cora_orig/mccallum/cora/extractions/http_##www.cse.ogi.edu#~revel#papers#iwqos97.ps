@@ -1,0 +1,26 @@
+URL: http://www.cse.ogi.edu/~revel/papers/iwqos97.ps
+Refering-URL: http://www.cse.ogi.edu/~revel/
+Root-URL: http://www.cse.ogi.edu
+Title: Predictable File Access Latency for Multimedia  
+Author: D. Revel, C. Cowan, D. McNamee, C. Pu, and J. Walpole 
+Keyword: QoS, adaptive, multimedia, prefetching  
+Address: 20000 N.W. Walker Rd., P.O. Box 91000 Portland, OR 97291-1000  
+Affiliation: Department of Computer Science and Engineering Oregon Graduate Institute of Science Technology  
+Note: This research is partially supported by DARPA grant N00014-94-1-0845, DARPA contract F19628--95-C-0193, NSF grant CCR-9224375, and grants from Hewlett-Packard, Intel and Tektronix.  
+Email: revel,crispin,dylan,calton,walpole-@cse.ogi.edu  
+Phone: (503) 690-1121  
+Abstract: Multimedia applications are sensitive to I/O latency and jitter when accessing data in secondary storage. Transparent adaptive prefetching (TAP) uses software feedback to provide multimedia applications with file system quality of service (QoS) guarantees. We are investigating how QoS requirements can be communicated and how they can be met by adaptive resource management. A preliminary test of adaptive prefetching is presented. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Aref, W.G., Kamel, I., Niranjan, T.N. and Ghandeharizadeh, S. </author> <year> (1997). </year> <title> Disk Sceduling for Displaying and Recording Video in NonLinear News Editing Systems. </title> <booktitle> Proceedings of Multimedia Computing and Networking 1997. SPIE Proceedings Vol. 3020, </booktitle> <address> San Jose, </address> <month> February </month> <year> 1997. </year>
+Reference-contexts: First, application management eliminates the device independence provided by utilizing operating system abstractions of resources. Instead applications are left to manually control the timing of prefetch requests. As a result, developers must tune current high performance multimedia applications for specific storage devices <ref> (Aref 1997) </ref>. Without devicespecific information applications may use excessive amount of memory due to overly aggressive prefetching, or they may suffer from poor performance due to under-prefetching and dynamic system behavior. Another possibility is that applications may become overly complex trying to track and adapt to current system load.
+Reference: <author> Koster, R. </author> <year> (1996). </year> <title> Design of a Mulitmedia Player with Advanced QoS Control. </title> <type> Master's thesis, </type> <institution> Oregon Graduate Institute of Science and Technology, Port-land, Oregon, </institution> <year> 1996. </year>
+Reference-contexts: We are currently working on a QoS interface for TAP. This interface will build on Patterson's transparent informed prefetching (Patterson 1995) allowing applications to express their needs in a vocabulary that is meaningful to them. We will then modify OGI's multimedia player <ref> (Koster 1996) </ref> to use TAP.
+Reference: <author> Maier, D., Walpole, J. and Staehli, R. </author> <title> (1993) Storage System Architectures for Continuous Media Data. </title> <booktitle> In FODO '93 Proceedings, </booktitle> <publisher> LNCS, v. 730, Springer-Verlag, </publisher> <pages> pp. 1-18, </pages> <year> 1993. </year>
+Reference-contexts: Data which arrives too early will displace other data from the file system buffer cache. The ideal is to have prefetched data streaming into memory so that it is available just in time as it is needed by the application <ref> (Maier 1993) </ref>. Many file systems recognize when a file is being read sequentially and do heuristic prefetching (McKusick 1984). Prefetch depth, how far in advance data is requested, can be adjusted to match the rate at which data is being read.
+Reference: <author> McKusick, M.K., Joy, W.N., Leffler, S.J., and Fabry, </author> <title> R.S. (1984) A Fast File System for UNIX. </title> <journal> ACM Transactions on Computer Systems, </journal> <volume> 2(3) </volume> <pages> 181-197, </pages> <month> August </month> <year> 1984. </year>
+Reference-contexts: The ideal is to have prefetched data streaming into memory so that it is available just in time as it is needed by the application (Maier 1993). Many file systems recognize when a file is being read sequentially and do heuristic prefetching <ref> (McKusick 1984) </ref>. Prefetch depth, how far in advance data is requested, can be adjusted to match the rate at which data is being read. This approach takes advantage of an access pattern that can be easily inferred to provide the latency hiding benefits of prefetching.
+Reference: <author> Patterson, R.H., Gibson, G.A., Ginting. E., Stodolsky., D., and Zelenka, J. </author> <year> (1995). </year> <title> Informed Prefetching and Caching. </title> <booktitle> Proceedings of the Fifteeth ACM Symposium on Operating System Principles, </booktitle> <pages> pages 79-95, </pages> <month> December </month> <year> 1995. </year>
+Reference-contexts: We are currently working on a QoS interface for TAP. This interface will build on Patterson's transparent informed prefetching <ref> (Patterson 1995) </ref> allowing applications to express their needs in a vocabulary that is meaningful to them. We will then modify OGI's multimedia player (Koster 1996) to use TAP.
+References-found: 5
+

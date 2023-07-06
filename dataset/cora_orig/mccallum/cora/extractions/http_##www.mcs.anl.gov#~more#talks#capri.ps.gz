@@ -1,0 +1,14 @@
+URL: http://www.mcs.anl.gov/~more/talks/capri.ps.gz
+Refering-URL: http://www.mcs.anl.gov/~more/talks/talks.html
+Root-URL: http://www.mcs.anl.gov
+Title: ENVIRONMENTS FOR LARGE-SCALE OPTIMIZATION A R G O N N E N A T I
+Author: Ali Bouaricha and Jorge J. More min ff IR n g end.feval 
+Keyword: Typical Environment  
+Note: NEOS  submission Email submission Sample submission  
+Date: June 22-23, 1995  
+Affiliation: Mathematics and Computer Science Division  
+Abstract: We are developing an environment for large scale optimization problems that only requires the user to provide code to evaluate f . * Develop code to evaluate f * Decide on the software Conjugate gradient methods Limited memory VM methods - Matrix-free Newton methods - Newton methods * Retrieve the software * Hand-code the gradient * Determine the sparsity pattern * Compile, debug, compile, debug, : : : run * Interpret the results * Repeat the process 
+Abstract-found: 1
+Intro-found: 0
+References-found: 0
+

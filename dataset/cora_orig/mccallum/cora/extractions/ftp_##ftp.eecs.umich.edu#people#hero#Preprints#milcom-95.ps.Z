@@ -1,0 +1,16 @@
+URL: ftp://ftp.eecs.umich.edu/people/hero/Preprints/milcom-95.ps.Z
+Refering-URL: http://www.eecs.umich.edu/~hero/comm.html
+Root-URL: http://www.cs.umich.edu
+Title: Blind Channel Identification for Direct-Sequence Spread-Spectrum Systems  
+Author: Dennis L. Goeckel Alfred O. Hero III and Wayne E. Stark 
+Address: Ann Arbor, MI 48109  
+Affiliation: EECS Department University of Michigan  
+Abstract: Channel identification for a binary phase-shift keyed (BPSK) direct-sequence spread-spectrum (DS/SS) system operating over a fading channel with sampling at the chip rate is considered in this work. The system is mapped to a discrete oversampled system, thereby allowing channel identification via second order statistics under a few nonrestrictive conditions. Using the method of subchannel response matching (SRM), the o*ine solution to this channel identification problem involves the determination of the eigenvector corresponding to the minimum eigenvalue of a matrix that depends on the correlation statistics of the samples of the received signal. A low complexity stochastic gradient method for finding this eigenvalue adaptively is derived and a convergence analysis under a few weak assumptions presented. For comparison, a method that utilizes trellis searching for joint data and channel identification when the system is not oversampled is extended in an obvious way to oversampled systems and a different adaptive algorithm developed than has been used in the past. Numerical results in the form of channel estimation error are obtained for the case when the spreading code is unknown but periodic with period equal to the symbol period. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> S. Haykin, Ed., </author> <title> Blind Deconvolution, </title> <publisher> PTR Prentice-Hall, </publisher> <address> Englewood Cliffs, </address> <year> 1994. </year>
+Reference-contexts: This is important as classical blind equalization results show that unique channel identification is not possible (unless the channel is known to have minumum phase) through the use of second order statistics for non-oversampled discrete systems when the input sequence is ergodic and wide-sense stationary <ref> [1] </ref>. <p> S with the expectations removed). This definition suggests an empirical objective function at step k given by J k = l=0 ^ h l S l ^ h l k ^ h l k 2 where 2 <ref> [0; 1] </ref> is a forgetting factor.
+Reference: [2] <author> L. Tong, G. Xu, and T. Kailath, </author> <title> "Blind Identification and Equalization Based on Second-Order Statistics: </title>
+Reference-contexts: This is important as classical blind equalization results show that unique channel identification is not possible (unless the channel is known to have minumum phase) through the use of second order statistics for non-oversampled discrete systems when the input sequence is ergodic and wide-sense stationary [1]. Recent work <ref> [2] </ref>, however, has shown that if the input symbols to the channel in a digital communications system are independent and identically distributed (IID) and the output of the channel is sampled at a rate that is a multiple of the input symbol rate, the oversampling of the cyclosta-tionary input waveform makes
+References-found: 2
+

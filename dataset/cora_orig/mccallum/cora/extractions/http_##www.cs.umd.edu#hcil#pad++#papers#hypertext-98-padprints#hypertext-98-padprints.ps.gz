@@ -1,0 +1,18 @@
+URL: http://www.cs.umd.edu/hcil/pad++/papers/hypertext-98-padprints/hypertext-98-padprints.ps.gz
+Refering-URL: http://www.cs.umd.edu/hcil/pad++/papers/
+Root-URL: 
+Email: hollan-@cs.unm.edu  
+Phone: (505) 277-3112  
+Title: Graphical Multiscale Web Histories: A Study of PadPrints  high,  
+Author: Ron R. Hightower, Laura T. Ring, Jonathan I. Helfman, Benjamin B. Bederson James D. Hollan lring, bederson, jon, 
+Keyword: World Wide Web, Web Navigation, Web Browser, Usability, Pad++, Zooming User Interface (ZUI), Hypertext, Multiscale Interfaces, Information Visualization.  
+Address: Albuquerque, NM 87131  
+Affiliation: Computer Science Department University of New Mexico  
+Abstract: We have implemented a browser companion called PadPrints that dynamically builds a graphical history-map of visited web pages. PadPrints relies on Pad++, a zooming user interface (ZUI) development substrate, to display the history-map using minimal screen space. PadPrints functions in conjunction with a traditional web browser but without requiring any browser modifications. We performed two usability studies of PadPrints. The first addressed general navigation effectiveness. The second focused on history-related aspects of navigation. In tasks requiring returns to prior pages, users of PadPrints completed tasks in 61.2% of the time required by users of the same browser without PadPrints. We also observed significant decreases in the number of pages accessed when using PadPrints. Users found browsing with PadPrints more satisfying than using Netscape alone. 
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> Eric Ayers and John Stasko. </author> <title> "Using Graphic History in Browsing the World Wide Web", </title> <booktitle> The 4 th International World Wide Web Conference, </booktitle> <address> www.w3.org/ Conferences/WWW4/Program_Full.html, </address> <month> December 11-14, </month> <year> 1996. </year>
+Reference-contexts: Webmap graphs may be saved and used by others. WebBook is a three-dimensional Web browser that allows multiple pages to be viewed simultaneously and supports collecting pages in books to replace bookmark files [4]. MosaicG is a modified version of the Mosaic browser that incorporates a graphical history mechanism <ref> [1] </ref>. In contrast to other systems that build maps for individual websites, MosaicG displays pages as users access them, resulting in personal maps of web usage. WWW pages often have links to pages linking back to a starting point. <p> Figure 1 shows the PadPrints history-map to the left of a browser window. Figure 2 shows a detail of the history-map and some of the PadPrints controls. PadPrints is similar to the MosaicG graphical history (MGGH) <ref> [1] </ref> in depicting a left-to-right hierarchical history of web pages visited during a browsing session. Also in both systems a node in the hierarchy displays the title of the web page and a small picture associated with the page.
+Reference: 2. <author> Benjamin B. Bederson and James D. Hollan. </author> <title> "Pad++: </title>
+References-found: 2
+

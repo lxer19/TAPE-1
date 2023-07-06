@@ -1,0 +1,26 @@
+URL: http://www.cs.umd.edu/fs/ftp/pub/sel/papers/ICSE95.ps.Z
+Refering-URL: http://www.cs.umd.edu/users/melo/papers/icse95.html
+Root-URL: 
+Email: Lionel.Briand@crim.ca  melo carolyns basili-@cs.umd.edu  
+Title: Characterizing and Assessing a Large-Scale Software Maintenance Organization*  
+Author: Lionel Briand Walclio Melo, Carolyn Seaman and Victor Basili 
+Address: Montral (Quebec) H3A 2N4, Canada  College Park, MD, 20742  
+Affiliation: CRIM 1801 McGill College Av.  Computer Science Department Institute for Advanced Computer Studies University of Maryland  
+Abstract: One important component of a software process is the organizational context in which the process is enacted. This component is often missing or incomplete in current process modeling approaches. One technique for modeling this perspective is the Actor-Dependency (AD) Model. This paper reports on a case study which used this approach to analyze and assess a large software maintenance organization. Our goal was to identify the approach's strengths and weaknesses while providing practical recommendations for improvement and research directions. The AD model was found to be very useful in capturing the important properties of the organizational context of the maintenance process, and aided in the understanding of the flaws found in this process. However, a number of opportunities for extending and improving the AD model were identified. Among others, there is a need to incorporate quantitative information to complement the qualitative model. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Basili, V.R. </author> <year> (1989). </year> <title> "Software Development: A Paradigm for the Future". </title> <booktitle> In Proceedings, COMPSAC '89, </booktitle> <address> Orlando, FL, </address> <month> September. </month>
+Reference: <author> Benus, B. </author> <year> (1994). </year> <title> "Detailed Design Document; Organisation Model Tool". </title> <type> Technical Report KADS-II/M6/UvA/057/1.0, </type> <institution> University of Amsterdam, </institution> <month> May. </month>
+Reference: <author> Briand, L. C.; Basili, V. R.; Kim, Y.M.; Squier, D. R. </author> <year> (1994). </year> <title> "A Change Analysis Process to Characterize Software Maintenance Projects". </title> <booktitle> In Proc. of the IEEE Int'l Conf. on Software Maintenance. </booktitle> <address> Victoria, Canada, </address> <month> September. </month>
+Reference: <author> Curtis, B.; Kellner, M.I.; Over, J. </author> <year> (1992). </year> <title> "Process Modeling". </title> <journal> Communications of the ACM, </journal> <volume> 35(9) </volume> <pages> 75-90, </pages> <month> September. </month>
+Reference: <author> Finkelstein, A.; Kramer, J.; Nuseibeh, B., eds.(1994). </author> <title> Software Process Modeling and Technology. </title> <publisher> Research Studies Press (distributed by Wiley & Sons). </publisher>
+Reference: <author> Lanphar, R. </author> <year> (1990). </year> <title> "Quantitative Process Management in Software Engineering, a Reconciliation Between Process and Product Views". </title> <journal> Journal of Systems and Software, </journal> <volume> 12 </volume> <pages> 243-248. </pages>
+Reference: <author> Lott, C.M.; Rombach, H.D. </author> <year> (1993). </year> <title> "Measurement-based Guidance of Software Projects Using Explicit Project Plans". </title> <journal> Information and Software Technology, </journal> 35(6/7):407-19, June/July. 
+Reference: <author> Melo, W. and Belkhatir, N. </author> <year> (1994). </year> <title> "Collaborating Software Engineering Processes in Tempo". </title> <journal> Journal of the Brazilian Computer Society, </journal> <volume> 1(1) </volume> <pages> 24-35. </pages>
+Reference: <author> Perry, D.; Staudenmayer, N.; Votta, L. </author> <year> (1994), </year> <title> "People, Organizations, and Process Improvement". </title> <journal> IEEE Software, </journal> <volume> 11(4) </volume> <pages> 36-45. </pages>
+Reference: <author> Rein, G.L. </author> <year> (1992), </year> <title> "Organization Design Viewed as a Group Process Using Coordination Technology". </title> <type> MCC Technical Report No. </type> <institution> CT-039-92, </institution> <month> February. </month>
+Reference: <author> Seaman, C.B. </author> <year> (1994), </year> <title> "Using the OPT Improvement Approach in the SQL/DS Development Environment". In Proceedings of CASCON'94, </title> <type> (CD-ROM version), </type> <institution> Toronto, Canada, </institution> <month> October. </month>
+Reference: <author> Yu, E.; Mylopoulos, J. </author> <year> (1993). </year> <title> "An Actor Dependency Model of Organizational Work - with Application to Business Process Reengineering". </title> <booktitle> In Proc. Conference on Organizational Computing Systems (COOCS 93), Milpitas, </booktitle> <address> CA, </address> <month> November. </month>
+
+References-found: 12
+

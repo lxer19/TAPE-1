@@ -1,0 +1,25 @@
+URL: ftp://ftp.rstcorp.com/pub/papers/intranet96.ps
+Refering-URL: http://rstcorp.com/~gem/gem.pubs-archive.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Email: asbinn@rstcorp.com gem@rstcorp.com  
+Phone: phone: (703) 404-9293 fax: (703) 404-9295  
+Title: Building a Java Software Engineering Tool for Testing Java Applets  
+Author: Aaron S. Binns Gary McGraw 
+Web: http://www.rstcorp.com  
+Address: 21515 Ridgetop Circle, Suite 250 Sterling, VA 20166  
+Affiliation: Reliable Software Technologies Corporation  
+Abstract: As the Java programming environment matures and Java starts to be used to create "real" applications, programmers will require that sophisticated software engineering tools be coopted from C and C++ development environments for use with Java. Software testing tools make up one important class of these software engineering tools. This paper describes some of the issues that we encountered while converting a C/C++ code coverage tool for use on Java code. Our successful conversion resulted in the first code coverage tool suitable for use in testing Java applets. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [Back 1996] <author> Back, G. </author> <title> (1996) How to Bypass Netscape's Security Manager. </title> <note> A web document at URL &lt; http://www.cs.utah.edu/~gback/netscape/bypass.html &gt;. Posted to comp.lang.java 1/29/96. </note>
+Reference-contexts: Much bandwidth in comp.lang.java has been devoted to discussing this issue and various ways to work around it. The most alarming workaround (involving the Netscape browser in particular), is hacking a few bytes of information in the Netscape executable so that it can write remote files <ref> [Back 1996] </ref>. This "solution" calls into question the actual security of Java applets versus the perceived security. Also see [Dean 1996] for related Java/Netscape security concerns.
+Reference: [Dean 1996] <author> Dean, D., Felton, E., and Wallach, D. </author> <title> (1996) Java Security: From HotJava to Netscape and Beyond. </title> <note> A web document at URL &lt; http://www.cs.princeton.edu/~ddean/java &gt;. Also see the related CERT Alert document CA-96.05. </note>
+Reference-contexts: The most alarming workaround (involving the Netscape browser in particular), is hacking a few bytes of information in the Netscape executable so that it can write remote files [Back 1996]. This "solution" calls into question the actual security of Java applets versus the perceived security. Also see <ref> [Dean 1996] </ref> for related Java/Netscape security concerns. A less horrible workaround would be to write and run a daemon on the remote (applet developer's) machine that accepts input from across the net and is able to merge it into a global results file.
+Reference: [Myers 1979] <author> Myers, G. </author> <title> (1979) The Art of Software Testing. </title> <publisher> Wiley. </publisher>
+Reference-contexts: We will discuss our approach to some of these problems in this paper. Before we go on, we must briefly introduce the concept of code coverage <ref> [Myers 1979] </ref>. The PiSCES Coverage Tracker for Java (Tracker) is a code coverage measurement tool.
+Reference: [Pure 1996] <institution> Pure Software. </institution> <note> (1996) PureCoverage Data Sheet. A web document at URL &lt; http://www.pure.com/products/purecoverage/PCdatasheet.html &gt;. </note>
+Reference-contexts: In fact, many C/C++ analysis tools make a point of operating exclusively at the link phase (e.g., Pure Software's Purify and Pure Coverage tools) <ref> [Pure 1996] </ref>. ATM applet (&lt; http://www.rstcorp.com/atm.html &gt;) are shown organized by method. Particular results are linked directly to source-code lines as shown in Figure 2. developer to see which sections of the code have and have not been tested.
+Reference: [RST 1995] <institution> Reliable Software Technologies Corp. </institution> <note> (1995) White paper: PiSCES Coverage Tracker TechnicalBrief. A web document at URL &lt; http://www.rstcorp.com/techbrf.html &gt;. </note>
+Reference-contexts: The C/C++ version of Tracker provides many sophisticated coverage measurement techniques: function, branch, 1 The PiSCES Coverage Tracker and the PiSCES Coverage Tracker for Java are part of Reliable Software Technologies Corporation's PiSCES Software Analysis Toolkit . condition/decision, and multiple condition coverages <ref> [RST 1995] </ref>. The Java Tracker prototype currently supports function and branch coverages. Function coverage measures which subset of defined functions have been exercised during execution over a given test set. In the Java case, this amounts to a coverage measurement over methods associated with a class.
+References-found: 5
+

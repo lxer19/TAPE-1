@@ -1,0 +1,13 @@
+URL: http://www.cms.dmu.ac.uk:80/AUG/useful/htmlconv/latex/latex2html.ps.gz
+Refering-URL: http://www.cms.dmu.ac.uk:80/AUG/useful/htmlconv/latex/
+Root-URL: 
+Title: The LaTeX2HTML Translator  
+Author: Nikos Drakos, 
+Note: This document accompanies LaTeX2HTML Version  
+Date: January 26, 1994  0.5.3.  
+Affiliation: Computer Based Learning Unit, University of Leeds.  
+Abstract: LaTeX2HTML replicates the basic structure of a L a T E X document as a set of interconnected HTML files which can be explored using auto matically generated navigation panels. The cross-references, citations, footnotes, the table of contents and the lists of figures and tables, are also translated into hypertext links. Formatting information which has equivalent "tags" in HTML (lists, quotes, paragraph breaks, type styles, etc.) is also converted appropriately. The remaining heavily formatted items such as mathematical equations, pictures or tables are converted to images which are placed automatically at the correct positions in the final HTML document. LaTeX2HTML extends L a T E X by supporting arbitrary hypertext links and symbolic cross-references between evolving remote documents. It also allows the specification of conditional text and the inclusion of raw HTML commands. These hypermedia extensions to L a T E X are available as new commands and environments from with a L a T E X document. This document presents the main features of LaTeX2HTML , and de scribes how to obtain, install, and use it. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

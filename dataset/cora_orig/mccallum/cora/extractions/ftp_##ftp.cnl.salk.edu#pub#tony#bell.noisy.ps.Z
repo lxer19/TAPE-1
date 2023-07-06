@@ -1,0 +1,24 @@
+URL: ftp://ftp.cnl.salk.edu/pub/tony/bell.noisy.ps.Z
+Refering-URL: http://www.snl.salk.edu/inc/nf-pubs.html
+Root-URL: 
+Title: `Balancing' of conductances may explain irregular cortical spiking.  
+Author: Anthony J. Bell, Zachary F. Mainen, Misha Tsodyks Terrence J. Sejnowski 
+Address: 10010 N. Torrey Pines Road La Jolla, California 92037  
+Affiliation: Computational Neurobiology Laboratory The Salk Institute  
+Abstract: Five related factors are identified which enable single compartment Hodgkin-Huxley model neurons to convert random synaptic input into irregular spike trains similar to those seen in in vivo cortical recordings. We suggest that cortical neurons may operate in a narrow parameter regime where synaptic and intrinsic conductances are balanced to re flect, through spike timing, detailed correlations in the inputs. fl Please send comments to tony@salk.edu. The reference for this paper is: Technical Report no. INC-9502, February 1995, Institute for Neural Computation, UCSD, San Diego, CA 92093-0523. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Abeles M. </author> <year> 1982. </year> <title> Role of the cortical neuron: </title> <journal> integrator or coincidence detector? Israel Journal of Medical Sciences, </journal> <volume> 18, </volume> <pages> 83-92 </pages>
+Reference: [2] <author> Bernander O., Douglas R.J., Martin K. & Koch C. </author> <year> 1991. </year> <title> Synaptic background activity determines spatio-temporal integration in single cortical pyramidal cells. </title> <booktitle> Proc. </booktitle> <institution> Natl. Acad. Sci. </institution> <address> USA 8, </address> <pages> 1569-1573. </pages>
+Reference: [3] <author> Burns B. & Webb A.C. </author> <year> 1976. </year> <title> The spontaneous activity of neurons in the cat's cerebral cortex. </title> <journal> Proc. R. Soc. London B 194, </journal> <pages> 211-223. </pages>
+Reference: [4] <author> Calvin W. & Stevens C. </author> <year> 1968. </year> <title> Synaptic noise and other sources of randomness in motoneuron interspike intervals. </title> <journal> J. Neurophysiol. </journal> <volume> 31, </volume> <pages> 574-587. </pages>
+Reference: [5] <author> Destexhe A., Mainen, Z.F., & Sejnowski, T.J. </author> <year> 1994. </year> <title> Synthesis of models for excitable membranes, synaptic transmission, and neuromodulation using a common kinetic framework. </title> <journal> J. Comput. Neurosci., </journal> <volume> 1, </volume> <pages> 195-230 </pages>
+Reference: [6] <author> Geisler C.D. & Goldberg J.M. </author> <year> 1966. </year> <title> A stochastic model of the repetitive activity of neurons. </title> <journal> Biophys. J. </journal> <volume> 6, </volume> <pages> 53. </pages>
+Reference: [7] <author> Guckenheimer J. & Labouriau I.S. </author> <year> 1993. </year> <title> Bifurcation of the Hodgkin & Huxley equations: a new twist. </title> <journal> Bull. Math. Biol. </journal> <volume> 55, 5, </volume> <pages> 937-952. </pages>
+Reference: [8] <author> Hines M. </author> <year> 1989. </year> <title> A program for simulation of nerve equations with branching geometries. </title> <journal> Int. J. Biomed. Comput., </journal> <volume> 24, </volume> <pages> 55-68. </pages>
+Reference: [9] <institution> Shadlen M.N. & Newsome W.T. </institution> <year> 1994. </year> <title> Noise, neural codes and cortical organisation, </title> <journal> Curr. Opin. Neurobiol., </journal> <volume> 4, 569. </volume> <pages> 5 </pages>
+Reference: [10] <author> Softky W.R. </author> <year> 1995. </year> <title> Simple codes vs. efficient codes, Current Opinion in Neurobiology, </title> <publisher> in press, </publisher> <month> April </month> <year> 1995 </year>
+Reference: [11] <author> Softky W.R. & Koch C. </author> <year> 1993. </year> <title> The highly irregular firing of cortical cells is inconsistent with temporal integration of random EPSPs. </title> <journal> J. Neurosci. </journal> <volume> 13, 1, </volume> <pages> 334-350. </pages>
+
+References-found: 11
+

@@ -1,0 +1,21 @@
+URL: http://www.cs.indiana.edu/hyplan/rudesai/papers/memorymodel.ps.gz
+Refering-URL: http://www.cs.indiana.edu/hyplan/rudesai/research.html
+Root-URL: http://www.cs.indiana.edu
+Title: A REVIEW OF TWO STATISTICAL MODELS OF KNOWLEDGE REPRE SENTATION, ACQUISITION, AND MEMORY  
+Author: Rutvik Desai 
+Note: May 1998  
+Abstract: One persistent problem in cognition is how people acquire large amount knowledge on the basis of relatively little information they get. Some statistical models have been proposed which claim to at least partially present a solution to this problem. In these models, statistical analysis of large amounts of text is performed to produce a high-dimensional representation of words or passages in a semantic space. These representations are claimed to represent meanings of words or passages. I briey present two such statistical models -- Latent Semantic Analysis and Hyperspace Analog of Language -- and attempt to examine how much semantic information is present in their representations of words. The result suggest that while these models can extract valuable semantic information based solely on correlations in textual input, there may be significant deficiencies in the acquired meanings and something more may be necessary for human-level understanding. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Chomsky, N. </author> <year> (1981). </year> <title> Lectures on government and binding. </title> <publisher> Dordrecht: Foris. </publisher>
+Reference: <author> Clancey, W. J. </author> <year> (1997). </year> <title> Situated Cognition: </title> <booktitle> On Human Knowledge and Computer Representations. </booktitle> <address> Cambridge, Mass: </address> <publisher> Cambridge University Press. </publisher>
+Reference: <author> Clark, E. V. </author> <year> (1987). </year> <title> The principle of contrast: A constraint on language acquisition. </title> <booktitle> In B. </booktitle>
+Reference: <author> MacWhinney (Ed.), </author> <title> Mechanisms of language acquisition. </title> <address> Hillsdale, NJ: </address> <publisher> Erlbaum. </publisher>
+Reference: <author> Elman, J. L. </author> <year> (1990). </year> <title> Finding structure in time. </title> <journal> Cognitive Science, </journal> <volume> 14, </volume> <pages> 179-211. </pages>
+Reference-contexts: Elmans Simple Recurrent Network (SRN) <ref> (Elman, 1990) </ref> is a connectionist model which does take word order into account. SRNs can separate words based on grammatical categories, such as nouns and verbs. While some semantic categorization is also present within each grammatical category, it remains to be seen to what degree is meaning represented by SRNs.
+Reference: <author> Landauer, T. K., & Dumais, S. T. </author> <year> (1997). </year> <title> A solution to Platos problem: The Latent Semantic Analysis theory of the acquisition, induction, and representation of knowledge. </title> <journal> Psychological Review, </journal> <volume> 104, </volume> <pages> 211-240. </pages>
+Reference: <author> Landauer, T. K., & Dumais, S. T. </author> <year> (1994). </year> <title> Latent semantic analysis and the measurement of knowledge. </title> <editor> In R. M. Kaplan & J. C. Burstein (Eds.), </editor> <booktitle> Educational testing service conference on natural language processing techniques and technology in assessment and education. </booktitle> <address> Princeton, NJ: </address> <note> Educational Testing Service. 12 Lund, </note> <author> K., Burgess, C., & Atchley, R. A. </author> <year> (1995). </year> <title> Semantic and associative priming in high-dimensional semantic space. </title> <editor> In J. D. Moore & J. F. Lehman (Ed.), </editor> <booktitle> Proceedings of the 17th annual meeting of the Cognitive Science Society (pp. </booktitle> <pages> 660-665). </pages> <address> Pittsburgh, PA: </address> <publisher> Erlbaum. </publisher>
+Reference: <author> Markman, E. M. </author> <year> (1994). </year> <title> Constraints on word meaning in early language acquisition. </title> <journal> Lingua, </journal> <volume> 92, </volume> <pages> 199-277. </pages>
+Reference: <author> Pinker, S. </author> <year> (1994). </year> <title> The language instinct: how the mind creates language.New York: </title> <publisher> William Morrow and Co. </publisher>
+References-found: 9
+

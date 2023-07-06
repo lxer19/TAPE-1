@@ -1,0 +1,38 @@
+URL: ftp://ftp.cs.umd.edu/pub/papers/papers/3810/3810.ps.Z
+Refering-URL: http://www.cs.umd.edu/TRs/TR.html
+Root-URL: 
+Title: Fast Iterative Image Restoration with a Spatially-Varying PSF  
+Author: James G. Nagy a and Dianne P. O'Leary b 
+Keyword: Conjugate gradient, image restoration, interpolation, preconditioner, space variant blur  
+Address: Dallas, TX 75275 USA  College Park, MD 20742 USA  
+Affiliation: a Department of Mathematics, Southern Methodist University,  b Department of Computer Science and Institute for Advanced Computer Studies, University of Maryland,  
+Abstract: We describe how to efficiently apply a spatially-variant blurring operator using linear interpolation of measured point spread functions. Numerical experiments illustrate that substantially better resolution can be obtained at very little additional cost compared to piecewise constant interpolation. 
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> C. W. Groetsch, </author> <title> The Theory of Tikhonov Regularization for Fredholm Integral Equations of the First Kind, </title> <publisher> Pitman, </publisher> <address> Boston, </address> <year> 1984. </year>
+Reference: 2. <author> P. C. Hansen, </author> <title> "The truncated SVD as a method for regularization," </title> <journal> BIT 27, </journal> <pages> pp. 534-553, </pages> <year> 1987. </year>
+Reference: 3. <author> M. Hanke and P. C. Hansen, </author> <title> "Regularization methods for large-scale problems," </title> <journal> Surv. Math. Ind. </journal> <volume> 3, </volume> <pages> pp. 253-315, </pages> <year> 1993. </year>
+Reference: 4. <author> M. Hanke, </author> <title> Conjugate Gradient Type Methods for Ill-Posed Problems, </title> <booktitle> Pitman Research Notes in Mathematics, </booktitle> <publisher> Longman Scientific & Technical, Harlow, Essex, </publisher> <year> 1995. </year>
+Reference: 5. <author> D. P. O'Leary and J. A. Simmons, </author> <title> "A bidiagonalization-regularization procedure for large scale discretizations of ill-posed problems," </title> <journal> SIAM J. Sci. Stat. Comp. </journal> <volume> 2, </volume> <pages> pp. 474-489, </pages> <year> 1981. </year>
+Reference: 6. <author> H. Andrews and B. Hunt, </author> <title> Digital Image Restoration, </title> <publisher> Prentice-Hall, </publisher> <address> Englewood Cliffs, NJ, </address> <year> 1977. </year>
+Reference: 7. <author> R. L. Lagendijk and J. Biemond, </author> <title> Iterative Identification and Restoration of Images, </title> <publisher> Kluwer Academic Publishers, </publisher> <address> Boston/Dordrecht/London, </address> <year> 1991. </year>
+Reference: 8. <author> H. M. Adorf, </author> <title> "Hubble Space Telescope image restoration in its fourth year," </title> <booktitle> Inverse Problems 11, </booktitle> <pages> pp. 639-653, </pages> <year> 1995. </year>
+Reference: 9. <author> H. J. Trussell and S. Fogel, </author> <title> "Identification and restoration of spatially variant motion blurs in sequential images," </title> <journal> IEEE Trans. Image Proc. </journal> <volume> 1, </volume> <pages> pp. 123-126, </pages> <year> 1992. </year>
+Reference: 10. <author> F. C. Wagner, A. Macovski, and D. G. Nishimura, </author> <title> "A characterization fo the scatter point-spread-functions in terms of air gaps," </title> <journal> IEEE Trans. Med. </journal> <volume> Imaging 7, </volume> <pages> pp. 337-344, </pages> <year> 1988. </year>
+Reference: 11. <author> B. Karuta and R. Lecomte, </author> <title> "Effect of detector weighting functions on the point spread function of high-resolution pet tomographs: A simulation study," </title> <journal> IEEE Trans. Med. </journal> <volume> Imaging 11, </volume> <pages> pp. 379-385, </pages> <year> 1992. </year>
+Reference: 12. <author> S. Rathee, A. J. Koles, and T. R. Overton, </author> <title> "Image restoration in computed tomography: Estimation of the spatially variant point spread function," </title> <journal> IEEE Trans. Med. </journal> <volume> Imaging 11, </volume> <pages> pp. 539-545, </pages> <year> 1992. </year>
+Reference: 13. <author> A. W. Lohmann and D. P. Paris, </author> <title> "Space-variant image formation," </title> <journal> J. Opt. Soc. Am. </journal> <volume> 55, </volume> <pages> pp. 1007-1013, </pages> <year> 1965. </year>
+Reference: 14. <author> E. S. Angel and A. K. Jain, </author> <title> "Restoration of images degraded by spatially varying pointspread funcitons by a conjugate gradient method," </title> <journal> Applied Optics 17, </journal> <pages> pp. 2186-2190, </pages> <year> 1978. </year>
+Reference: 15. <author> S. R. McNown and B. R. Hunt, </author> <title> "Approximate shift-invariance by warping shift-variant systems," in The Restoration of HST Images and Spectra II, </title> <editor> R. J. Hanisch and R. L. White, </editor> <booktitle> eds., </booktitle> <pages> pp. 181-187, </pages> <year> 1994. </year>
+Reference: 16. <author> G. M. Robbins and T. S. Huang, </author> <title> "Inverse filtering for linear shift-variant imaging systems," </title> <booktitle> Proc. of the IEEE 60, </booktitle> <pages> pp. 862-872, </pages> <year> 1972. </year>
+Reference: 17. <author> A. A. Sawchuk, </author> <title> "Space-variant image motion degradation and restoration," </title> <booktitle> Proc. of the IEEE 60, </booktitle> <pages> pp. 854-861, </pages> <year> 1972. </year>
+Reference: 18. <author> A. A. Sawchuk, </author> <title> "Space-variant image restoration by coordinate transformations," </title> <journal> J. Opt. Soc. Am. </journal> <volume> 64, </volume> <pages> pp. 138-144, </pages> <year> 1974. </year>
+Reference: 19. <author> H.-M. Adorf, </author> <title> "Towards HST restoration with space-variant PSF, cosmic rays and other missing data," in The Restoration of HST Images and Spectra II, </title> <editor> R. J. Hanisch and R. L. White, </editor> <booktitle> eds., </booktitle> <pages> pp. 72-78, </pages> <year> 1994. </year>
+Reference: 20. <author> D. A. Fish, J. Grochmalicki, and E. R. Pike, </author> <title> "Scanning singular-value-decomposition method for restoration of images with space-variant blur," </title> <journal> J. Opt. Soc. Am. </journal> <volume> A 13, </volume> <pages> pp. 1-6, </pages> <year> 1996. </year>
+Reference: 21. <author> H. J. Trussell and B. R. Hunt, </author> <title> "Image restoration of space-variant blurs by sectional methods," </title> <journal> IEEE Trans. Acoust. Speech, Signal Processing 26, </journal> <pages> pp. 608-609, </pages> <year> 1978. </year>
+Reference: 22. <author> M. Faisal, A. D. Lanterman, D. L. Snyder, and R. L. White, </author> <title> "Implementation of a modified Richardson-Lucy method for image restoration on a massively parallel computer to compensate for space-variant point spread function of a charge-coupled device camera," </title> <journal> J. Opt. Soc. Am. </journal> <volume> A 12, </volume> <pages> pp. 2593-2603, </pages> <year> 1995. </year>
+Reference: 23. <author> A. F. Boden, D. C. Redding, R. J. Hanisch, and J. Mo, </author> <title> "Massively parallel spatially-variant maximum liklihood restoration of Hubble Space Telescope imagery," </title> <journal> J. Opt. Soc. Am. </journal> <volume> A 13, </volume> <pages> pp. 1537-1545, </pages> <year> 1996. </year>
+Reference: 24. <author> J. G. Nagy and D. P. O'Leary, </author> <title> "Restoring images degraded by spatially-variant blur," </title> <note> SIAM J. Sci. Comput. to appear, </note> <year> 1997. </year>
+Reference: 25. <author> A. Bjorck, </author> <title> Numerical Methods for Least Squares Problems, </title> <publisher> SIAM, </publisher> <address> Philadelphia, PA, </address> <year> 1996. </year>
+References-found: 25
+

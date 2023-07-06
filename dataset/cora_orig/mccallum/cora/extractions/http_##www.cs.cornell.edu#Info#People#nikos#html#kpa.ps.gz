@@ -1,0 +1,41 @@
+URL: http://www.cs.cornell.edu/Info/People/nikos/html/kpa.ps.gz
+Refering-URL: http://www.cs.cornell.edu/Info/People/nikos/html/publications.html
+Root-URL: 
+Title: Approximation with Kronecker Products  
+Author: Charles Van Loan and Nikos Pitsianis 
+Address: Ithaca, New York 14853  
+Affiliation: Department of Computer Science Cornell University  
+Abstract: Let A be an m-by-n matrix with m = m 1 m 2 and n = n 1 n 2 . We consider the problem of finding B 2 IR m 1 fin 1 and C 2 IR m 2 fin 2 so that k A B C k F is minimized. This problem can be solved by computing the largest singular value and associated singular vectors of a permuted version of A. If A is symmetric, definite, non-negative, or banded, then the minimizing B and C are similarly structured. The idea of using Kronecker product preconditioners is briefly discussed. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> H.C. Andrews and J. </author> <title> Kane (1970). "Kronecker Matrices, Computer Implementation, and Generalized Spectra," </title> <journal> J. Assoc. Comput. Mach. </journal> <volume> 17, </volume> <pages> 260-268. </pages>
+Reference: <author> R.H. Barham and W. </author> <month> Drane </month> <year> (1972). </year> <title> "An Algorithm for Least Squares Estimation of Nonlinear Parameters when Some of the Parameters are Linear," </title> <journal> Technometrics, </journal> <volume> 14, </volume> <pages> 757-766. </pages>
+Reference: <author> R.H. Bartels and G.W. </author> <title> Stewart (1972). "Solution of the Equation AX + XB = C," </title> <journal> Comm. ACM 15, </journal> <pages> 820-826. </pages>
+Reference: <author> J.W. </author> <title> Brewer (1978). "Kronecker Products and Matrix Calculus in System Theory," </title> <journal> IEEE Trans. on Circuits and Systems, </journal> <volume> 25, </volume> <pages> 772-781. </pages>
+Reference: <author> T.F. </author> <title> Chan (1988). "An Optimal Circulant Preconditioner for Toeplitz Systems," </title> <journal> SIAM J. Sci. Stat. Comp., </journal> <volume> 9, </volume> <pages> 766-771. </pages>
+Reference: <author> R. Chan and X-Q Jin (1992). </author> <title> "A Family of Block Preconditioners for Block Systems," </title> <journal> SIAM J. Sci. and Stat. Comp., </journal> <volume> 13, </volume> <pages> 1218-1235. </pages> <note> 19 P. Concus, G.H. </note> <author> Golub, and G. </author> <title> Meurant (1985). "Block Preconditioning for the Conjugate Gradient Method," </title> <journal> SIAM J. Sci. Stat. Comp., </journal> <volume> 6, </volume> <pages> 220-252. </pages>
+Reference: <author> J. Cullum and R.A. </author> <title> Willoughby (1985). Lanczos Algorithms for Large Sparse Symmetric Eigenvalue Computations, Volume I (Theory) and II (Programs), </title> <publisher> Birkhauser, </publisher> <address> Boston. </address>
+Reference: <author> C. </author> <title> de Boor (1979). "Efficient Computer Manipulation of Tensor Products," </title> <journal> ACM Trans. Math. Software, </journal> <volume> 5, </volume> <pages> 173-182. </pages>
+Reference: <author> D.W. Fausett and C. </author> <title> Fulton (1992). "Large Least Squares Problems Involving Kro-necker Products," </title> <note> SIAM J. Matrix Analysis, to appear. </note>
+Reference: <author> G.H. </author> <title> Golub (1973). "Some Modified Eigenvalue Problems," </title> <journal> SIAM Review, </journal> <volume> 15, </volume> <pages> 318-344. </pages>
+Reference: <author> G.H. Golub, F. Luk, and M. </author> <title> Overton (1981). "A Block Lanzcos Method for Computing the Singular Values and Corresponding Singular Vectors of a Matrix," </title> <journal> ACM Trans. Math. Soft., </journal> <volume> 7, </volume> <pages> 149-169. </pages>
+Reference: <author> G.H. Golub, S. Nash, and C. Van Loan (1979). </author> <title> "A Hessenberg-Schur Method for the Matrix Problem AX + XB = C," </title> <journal> IEEE Trans. Auto. Cont., </journal> <volume> AC-24, </volume> <pages> 909-913. </pages>
+Reference: <author> G.H. Golub and V. </author> <month> Pereya </month> <year> (1973). </year> <title> "The Differentiation of PseudoInverses and Nonlinear least Squares Problems Whose Variables Separate," </title> <journal> SIAM J. Numer. Analysis, </journal> <volume> 10, </volume> <pages> 413-432. </pages>
+Reference: <author> G.H. Golub and C. Van Loan (1989). </author> <title> Matrix Computations, 2nd Ed., </title> <publisher> Johns Hopkins University Press, </publisher> <address> Baltimore, MD. </address>
+Reference: <author> A. </author> <title> Graham (1981). Kronecker Products and Matrix Calculus with Applications, </title> <publisher> Ellis Horwood Ltd., </publisher> <address> Chichester, England. </address>
+Reference: <author> S.R Heap and D.J. </author> <month> Lindler </month> <year> (1986). </year> <title> "Block Iterative Restoration of Astronomical Images with the Massively Parallel Processor," </title> <booktitle> Proc. of the First Aerospace Symposium on Massively Parallel Scientific Computation, </booktitle> <pages> 99-109. </pages>
+Reference: <author> H.V. Henderson, F. Pukelsheim, and S.R. </author> <title> Searle (1983). "On the History of the Kronecker Product," Linear and Multilinear Algebra 14, </title> <type> 113-120. </type>
+Reference: <author> H.V. Henderson and S.R. </author> <title> Searle (1981). "The Vec-Permutation Matrix, The Vec Operator and Kronecker Products: A Review," Linear and Multilinear Algebra 9, </title> <type> 271-288. </type>
+Reference: <author> R.A. Horn and C.A. </author> <title> Johnson (1985). Matrix Analysis, </title> <publisher> Cambridge University Press, </publisher> <address> New York. </address>
+Reference: <author> R.A. Horn and C.A. </author> <title> Johnson (1991). Topics in Matrix Analysis, </title> <publisher> Cambridge University Press, </publisher> <address> New York. </address>
+Reference: <author> C-H Huang, J.R. Johnson, and R.W. </author> <title> Johnson (1991). "Multilinear Algebra and Parallel Programming," </title> <journal> J. Supercomputing, </journal> <volume> 5, </volume> <pages> 189-217. </pages>
+Reference: <author> J. Johnson, R.W. Johnson, D. Rodriguez, and R. </author> <title> Tolimieri (1990). "A Methodology for Designing, Modifying, and Implementing Fourier Transform Algorithms on Various Architectures," Circuits, </title> <booktitle> Systems, and Signal Processing 9, </booktitle> <pages> 449-500. </pages>
+Reference: <author> L. </author> <title> Kaufman (1975). "A Variable Projection Method for Solving Separable Nonlinear Least Squares Problems," </title> <journal> BIT 15, </journal> <pages> 49-57. </pages>
+Reference: <author> B. Klaus and P. </author> <title> Horn (1990). Robot Vision. </title> <publisher> MIT Press, </publisher> <address> Cambridge, Mass. </address>
+Reference: <author> V. Pereyra and G. </author> <title> Scherer (1973). "Efficient Computer Manipulation of Tensor Products with Applications to Multidimensional Approximation," </title> <journal> Mathematics of Computation, </journal> <volume> 27, </volume> <pages> 595-604. </pages>
+Reference: <author> U.A. </author> <month> Rauhala </month> <year> (1980). </year> <title> "Introduction to Array Algebra," </title> <journal> Photogrammetric Engineering and Remote Sensing, </journal> <volume> 46(2), </volume> <pages> 177-182. </pages>
+Reference: <author> P.A. Regalia and S. </author> <title> Mitra (1989). "Kronecker Products, Unitary Matrices, and Signal Processing Applications," </title> <journal> SIAM Rev. </journal> <volume> 31, </volume> <pages> 586-613. </pages>
+Reference: <author> A. Swami and J. </author> <title> Mendel (1990). "Time and Lag Recursive Computation of Cumulants from a State-Space Model", </title> <journal> IEEE Trans. Auto. Cont., </journal> <volume> 35, </volume> <pages> 4-17. </pages>
+Reference: <author> C. Van Loan (1992). </author> <title> Computational Frameworks for the Fast Fourier Transform, </title> <publisher> SIAM Publications, </publisher> <address> Philadelphia, PA. 20 J.H. </address> <month> Wilkinson </month> <year> (1965). </year> <title> The Algebraic Eigenvalue Problem. </title> <publisher> Oxford University Press, </publisher> <address> New York. </address> <month> 21 </month>
+References-found: 29
+

@@ -1,0 +1,25 @@
+URL: http://www.cs.man.ac.uk/ai/Papers/magnus/opt_rule_jpl.ps.gz
+Refering-URL: http://www.cs.man.ac.uk/~magnus/magnus.html
+Root-URL: http://www.cs.man.ac.uk
+Title: LETTER TO THE EDITOR Globally optimal on-line learning rules for multi-layer neural networks  
+Author: Magnus Rattray and David Saad 
+Keyword: PACS numbers: 87.10+e, 02.50r, 05.90+m  
+Date: October 17, 1997  
+Note: Short title: LETTER TO THE EDITOR  
+Address: B4 7ET, UK.  
+Affiliation: Department of Computer Science and Applied Mathematics, Aston University, Birmingham  
+Abstract: We present a method for determining the globally optimal on-line learning rule for a soft committee machine under a statistical mechanics framework. This rule maximizes the total reduction in generalization error over the whole learning process. A simple example demonstrates that the locally optimal rule, which maximizes the rate of decrease in generalization error, may perform poorly in comparison. 
+Abstract-found: 1
+Intro-found: 0
+Reference: [1] <institution> Bishop C M 1995 Neural networks for pattern recognition (Oxford, </institution> <address> UK: </address> <publisher> Oxford University Press) </publisher>
+Reference: [2] <institution> Orr G B and Leen T K 1997 Advances in Neural Information Processing Systems vol 9, edited by Mozer, Jordan and Petsche (Cambridge, </institution> <address> MA: </address> <publisher> MIT Press) p 606 </publisher>
+Reference: [3] <author> LeCun Y, </author> <title> Simard P Y and Pearlmutter B 1993 Advances in Neural Information Processing Systems vol 5, edited by Giles, </title> <address> Hanson and Cowan (San Mateo, CA: </address> <publisher> Morgan Kaufmann) p 156 </publisher>
+Reference: [4] <author> Saad D and Solla S A 1995 Phys. </author> <title> Rev. </title> <journal> Lett. </journal> <volume> 74 4337, </volume> <pages> Phys. </pages> <address> Rev. E 52 4225 </address>
+Reference: [5] <author> Biehl M and Schwarze H 1995 J. </author> <note> Phys. A 28 643 </note>
+Reference: [6] <author> Biehl M, </author> <title> Reigler P and Stechert M 1995 Phys. </title> <address> Rev. E 52 R4624 </address>
+Reference: [7] <institution> Saad D and Rattray M 1997 Phys. </institution> <note> Rev. Lett. 79 to appear </note>
+Reference: [8] <author> Kinouchi O and Caticha N 1992 J. </author> <note> Phys. A 25 6243 </note>
+Reference: [9] <author> Vicente R and Caticha N 1997 J. </author> <note> Phys. A 30 L599 </note>
+
+References-found: 9
+

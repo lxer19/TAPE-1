@@ -1,0 +1,21 @@
+URL: http://www.informatik.hu-berlin.de/~cbr-ws/GWCBR98/PAPERS/Kunze.ps.gz
+Refering-URL: http://www.informatik.hu-berlin.de/~cbr-ws/GWCBR98/program.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Email: Email: -kunze,huebner-@informatik.hu-berlin.de  
+Title: CBR on Semi-structured Documents: The ExperienceBook and the FAllQ Project  
+Author: Mirjam Kunze and Andr Hbner 
+Address: Axel-Springer-Str. 54a, 10117 Berlin, Germany,  
+Affiliation: Dept. of Computer Science, Humboldt University Berlin,  
+Abstract: In this article, we present a case-based approach on flexible query answering systems in two different application areas: The ExperienceBook supports technical diagnosis in the field of system administration. In the FAllQ project we use our CBR system for document retrieval in an industrial setting. The objective of these systems is to manage knowledge stored in less structured documents. The internal case memory is implemented as a Case Retrieval Net. This allows to handle large case bases with an efficient retrieval process. In order to provide multi user access we chose the client server model combined with a web interface.
+Abstract-found: 1
+Intro-found: 1
+Reference: <editor> Grz, G. and S. Hlldobler (Eds.) </editor> <booktitle> (1996). KI-96: Advances in Artificial Intelligence, Lecture Notes in Artificial Intelligence, </booktitle> <volume> 1137. </volume> <publisher> Springer Verlag. </publisher>
+Reference: <author> Kunze, M. </author> <note> The ExperienceBook. http://informatik.hu-berlin.de/~kunze/ studienarbeit.ps. </note>
+Reference: <author> Leake, D. B. and E. Plaza (Eds.) </author> <year> (1997). </year> <title> Case-Based Reasoning Research and Development, </title> <booktitle> Proc. ICCBR-97, Lecture Notes in Artificial Intelligence, </booktitle> <volume> 1266. </volume> <publisher> Springer Verlag. </publisher>
+Reference: <author> Lenz, M. and H.-D. </author> <title> Burkhard (1996). Case Retrieval Nets: Basic ideas and extensions. </title> <booktitle> See Grz and Hlldobler (1996), </booktitle> <pages> pp. 227239. </pages>
+Reference-contexts: The computation of the similarity between cases also includes the domain specific relevance of IEs for the cases. Common speech words are less important than special terms. For providing an efficient retrieval process we chose as internal case memory the model of Case Retrieval Nets (CRNs) <ref> (Lenz and Burkhard 1996) </ref>. In this model, cases are represented as a part of a graph.
+Reference: <author> Lenz, M. and H.-D. </author> <title> Burkhard (1997). CBR for Document Retrieval The FALLQ Project. </title> <note> See Leake and Plaza (1997), pp. 8493. </note>
+Reference-contexts: All clients get input from HTML forms. They connect to the appropriate server, send the task with the input values and receive the result which is displayed to the user as HTML page. At the FAllQ project <ref> (Lenz and Burkhard 1997) </ref> the case server is substituted by a database, and there is no retain server implemented yet (see Figure 2). A precompiler is used offline to convert the different source documents into a structured case format.
+Reference: <author> Salton, G. and M. </author> <title> McGill (1983). Introduction to Modern Information Retrieval. </title> <address> New York: </address> <publisher> McGraw-Hill. </publisher> <editor> van Rijsbergen, C. J. </editor> <booktitle> (1979). Information Retrieval. </booktitle> <address> London: </address> <publisher> Butterworths. </publisher>
+References-found: 6
+

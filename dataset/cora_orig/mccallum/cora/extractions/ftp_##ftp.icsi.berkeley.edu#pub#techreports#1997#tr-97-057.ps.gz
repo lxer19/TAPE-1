@@ -1,0 +1,22 @@
+URL: ftp://ftp.icsi.berkeley.edu/pub/techreports/1997/tr-97-057.ps.gz
+Refering-URL: http://www.icsi.berkeley.edu/techreports/1997.html
+Root-URL: http://www.icsi.berkeley.edu
+Title: Deployment of RASTA-PLP with the Siemens ZT Speech Recognition System  
+Phone: (510) 643-9153 FAX (510) 643-7684  
+Author: Michael L. Shire 
+Note: This work was supported by and conducted at Siemens AG, Munchen, Germany  
+Date: December 1997  
+Address: I 1947 Center St. Suite 600 Berkeley, California 94704-1198  
+Affiliation: INTERNATIONAL COMPUTER SCIENCE INSTITUTE  
+Pubnum: TR-97-057  
+Abstract: RelAtive SpecTral Analysis Perceptual Linear Prediction (RASTA-PLP) is the standard speech feature extraction method used at the International Computer Science Institute. There it has been used primarily in conjunction with a hybrid Artificial Neural Network (ANN) and Hidden Markov Model (HMM) speech recognition system. This work explores the viability of the RASTA-PLP as a candidate feature extraction method in the Siemens ZT recognition system. Experiments with a basic RASTA-PLP setup confirm that it provides good performance and is a potentially useful tool which merits further research and experimentation. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <institution> References </institution>
+Reference: [1] <author> H. Hermansky. </author> <title> Perceptual linear predictive (PLP) analysis of speech. </title> <journal> Journal of the Acoustical Society of America, </journal> <volume> 87(4) </volume> <pages> 1738-1752, </pages> <month> Apr. </month> <year> 1990. </year>
+Reference-contexts: The MEL processing on the other hand did include spectral mean subtraction and this contributes to yet another difference between the results in this report. This difference is absent with respect to the MFCC. A more detailed description of the RASTA-PLP processing can be found in <ref> [1, 2] </ref>. It is worth noting that the delta calculations were also different between the RASTA-PLP and MEL calculated features. RASTA-PLP deltas were calculated using a linear regression over a 9 frame window.
+Reference: [2] <author> H. Hermansky and N. Morgan. </author> <title> RASTA processing of speech. </title> <journal> IEEE Transactions on Speech and Audio Processing, </journal> <volume> 2(4) </volume> <pages> 578-589, </pages> <month> Oct. </month> <year> 1994. </year>
+Reference-contexts: The MEL processing on the other hand did include spectral mean subtraction and this contributes to yet another difference between the results in this report. This difference is absent with respect to the MFCC. A more detailed description of the RASTA-PLP processing can be found in <ref> [1, 2] </ref>. It is worth noting that the delta calculations were also different between the RASTA-PLP and MEL calculated features. RASTA-PLP deltas were calculated using a linear regression over a 9 frame window.
+
+References-found: 3
+

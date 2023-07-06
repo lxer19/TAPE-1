@@ -1,0 +1,18 @@
+URL: http://www.cs.cmu.edu/afs/cs/usr/andrewt/www/chi.ps.gz
+Refering-URL: http://www.cs.cmu.edu/~andrewt/papers.html
+Root-URL: 
+Email: dpl@mitl.com andrewt@cs.cmu.edu  
+Title: PICTOGRAPHIC NAMING  
+Author: Daniel P. Lopresti and Andrew Tomkins 
+Keyword: handwriting recognition, naming paradigms.  
+Date: 609-497-4600  
+Address: 182 Nassau Street Princeton, NJ 08542-7072  
+Affiliation: Matsushita Information Technology Laboratory  
+Abstract: We describe pictographic naming, a new approach to naming for pen-based computers, in which lenames are pictures rather than ASCII strings. Handwriting recognition (HWX) of a name is delayed as long as possible. We show that most le system operations can be accomplished without HWX. Since pictographic names are sets of strokes, they can never be reproduced exactly so name lookup becomes an approximate matching problem. We give efcient algorithms for this problem, and present results for name matching in English and Japanese.
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Lopresti, D. P. and Tomkins, A. Pictographic Naming. No. MITL-TR-21-92, MITL, </author> <month> August </month> <year> 1992. </year>
+Reference-contexts: We have analyzed several algorithms for this problem, including two traditional techniques: Hidden Markov Models with and without Vector Quantization, and Neural Networks. However, we have found that a new algorithm described below performs markedly better than these other techniques. For space reasons, please see <ref> [1] </ref> or contact the authors directly for more details. We present an overview of the algorithm, and a brief statement of our results.
+Reference: [2] <author> Tappert, C. C., Suen, C. Y., and Wakahara, T. </author> <title> The State of the Art in On-Line Handwriting Recognition. </title> <journal> IEEE Transaction on Pattern Analysis and Machine Intelligence, </journal> <volume> vol. Volume 12, No. </volume> <month> 8 (August, </month> <year> 1990), </year> <pages> pp. 179190. </pages>
+References-found: 2
+

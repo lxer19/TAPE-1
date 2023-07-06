@@ -1,0 +1,38 @@
+URL: http://www.ai.mit.edu/~mpf/articles/Baum+Smith/BaumSmith_Apr22.ps
+Refering-URL: 
+Root-URL: 
+Email: Email: eric and wds @research.NJ.NEC.COM  
+Title: Best Play for Imperfect Players and Game Tree Search  
+Author: Eric B. Baum and Warren D. Smith 
+Date: April 23, 1993  
+Note: DRAFT  
+Address: 4 Independence Way Princeton NJ 08540  
+Affiliation: NEC Research Institute  
+Abstract: We propose a new approach to game tree search. We train up an evaluation function which returns, rather than a single number estimating the `value' of a position, a probability distribution P L (x). P L (x) is the probability that if we expanded leaf L to some depth, the backed up value of leaf L would then be found to be x. We describe how to propagate these distributions efficiently up the tree so that at any node n we compute without approximation the probability node n's negamax value is x given that a value is assigned to each leaf from its distribution. After we are done expanding the tree, the best move is the child of the root whose distribution has highest mean. Note that we take means at the child of the root after propagating, whereas the normal (Shannon) approach takes the mean at the leaves before propagating, which throws away information. Now we model the expansion of a leaf as selection of one value from its distribution. The total utility of all possible expansion is then by definition the ensemble sum over those possible leaf configurations for which the current favorite move is inferior to some alternate move, weighted by the probability of the leaf configuration and the amount the current favorite move is inferior. We propose as the natural measure of the expansion importance of leaf L, the expected absolute change in this utility when we expand leaf L. We support this proposal with several arguments including an approximation theorem valid in the limit that one expands until the remaining utility of expansion becomes small. In summary, we gather distributions at the leaves, propagate exactly all this information to the root, and incrementally grow a tree expanding approximately the most interesting leaf at each step. Under reasonable conditions, we accomplish all of this in time O(N ), where N is the number of leaves in the tree when we are done expanding. That is, we pay only a small constant factor overhead for all of our bookkeeping. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> T. Anantharaman, M. Campbell, F. Hsu: </author> <title> Singular extensions; adding selectivity to brute force searching, </title> <booktitle> Artificial Intelligence 43 (1990) 99-109 </booktitle>
+Reference: [2] <author> Thomas S. Anantharaman: </author> <title> A Statistical Study of Selective Min-Max Search in Computer Chess, </title> <type> (PhD thesis, </type> <institution> Carnegie Mellon University, Computer Science Dept.) </institution> <month> May </month> <year> 1990, </year> <month> CMU-CS-90-173 </month>
+Reference: [3] <author> E. B. Baum: </author> <title> On optimal game tree propagation for imperfect players. </title> <booktitle> In Proceedings of the Tenth National Conference on Artificial Intelligence. American Association for Artificial Intelligence 1992. </booktitle>
+Reference: [4] <author> D.F. Beal: </author> <title> A generalized quiescence search algorithm, </title> <booktitle> Artificial Intelligence 43 (1990) 85-98 </booktitle>
+Reference: [5] <author> M. Blum, R. Floyd, V. Pratt, R. Rivest, R. Tarjan: </author> <title> Time Bounds for selection, </title> <journal> J. Computer System Sci. </journal> <month> 7 </month> <year> (1973) </year> <month> 448-461 </month>
+Reference: [6] <author> M. Campbell: </author> <title> The graph-history interaction; on ignoring position history, </title> <booktitle> Proc. ACM National Conf. </booktitle> <year> (1985) </year> <month> 278-280. </month>
+Reference: [7] <author> Chi, P-C, D. S. Nau: </author> <title> Comparison of the Minimax and Product Back-up Rules in a Variety of Games, </title> <booktitle> in Search in Artificial Intelligence, </booktitle> <editor> eds. L. Kanal and V. Kumar, </editor> <publisher> Springer Verlag, </publisher> <address> New York,(1989) pp451-471. </address>
+Reference: [8] <author> R. Floyd and R. Rivest: </author> <title> Expected time bounds for selection, </title> <journal> Commun. </journal> <note> ACM 18,3 (March 1975) 165-173 </note>
+
+Reference: [10] <author> Feng-hsiung Hsu: </author> <title> Large Scale Parallelization of Alpha Beta Search: An Algorithmic and Architectural Study with Computer Chess, </title> <type> (PhD thesis) Tech. </type> <institution> Rept. CMU-CS-90-108 (Feb 1990) School of Computer Science, Carnegie Mellon University, </institution> <address> Pittsburgh PA 15213 </address>
+Reference: [11] <author> Han La Poutre and Warren D. Smith: </author> <title> Approximation of staircases by staircases, Work in progress, NECI, 4 Independence Way, </title> <address> Princeton NJ 08540. </address>
+Reference: [12] <author> Kai-Fu Lee and Sanjoy Mahajan: </author> <title> The development of a world class othello program, </title> <booktitle> Artificial Intelligence 43 (1990) 21-36 </booktitle>
+Reference: [13] <author> Kai-Fu Lee and Sanjoy Mahajan: </author> <title> A pattern classification approach to evaluation function learning, </title> <booktitle> Artificial Intelligence 36 (1988) 1-25 </booktitle>
+Reference: [14] <author> D.A. McAllester: </author> <title> Conspiracy numbers for min max search, </title> <booktitle> Artificial Intelligence 35 (1988) 287-310 </booktitle>
+Reference: [15] <author> A.J. Palay: </author> <title> Searching with probabilities, </title> <publisher> Pitman 1985 </publisher>
+Reference: [16] <author> J. Pearl: </author> <title> Heuristics, </title> <publisher> Addison-Wesley 1984 </publisher>
+Reference: [17] <author> R.L. Rivest: </author> <title> Game tree searching by min max approximation, </title> <booktitle> Artificial Intelligence 34 (1988) 77-96 </booktitle>
+Reference: [18] <author> S. Russell and E. Wefald: </author> <title> Do the Right Thing, </title> <note> MIT Press 1991 (see especially chapter 4) </note>
+Reference: [19] <author> J. Schaeffer: </author> <title> Conspiracy numbers, </title> <booktitle> Artificial Intelligence 43 (1990) 67-84 </booktitle>
+Reference: [20] <author> G. Schrufer: </author> <title> Presence and Absence of Pathology on Game Trees, </title> <editor> in D.F. Beal, ed., </editor> <booktitle> Advances in Computer Chess 4, </booktitle> <publisher> (Pergamon, Oxford, </publisher> <pages> 1986) pp 101-112. </pages>
+Reference: [21] <author> C.E. Shannon: </author> <title> Programming a computer for playing chess, </title> <journal> Philos. </journal> <note> Magazine 41,7 (1950) 256-275 </note>
+Reference: [22] <author> Warren D. Smith: </author> <title> Fixed point for negamaxing probability distributions on regular trees, </title> <note> Submitted for publication </note>
+
+References-found: 21
+

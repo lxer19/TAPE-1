@@ -1,0 +1,30 @@
+URL: ftp://ftp.cs.columbia.edu/reports/reports-1989/cucs-421-89.ps.gz
+Refering-URL: http://www.cs.columbia.edu/~library/1989.html
+Root-URL: http://www.cs.columbia.edu
+Email: djk@cs.columbia.edu feiner@cs.columbia.edu  
+Title: A Visual Language for Browsing, Undoing, and Redoing Graphical Interface Commands Visual Languages and Visual
+Author: David Kurlander Steven Feiner S. K. Chang (ed.). 
+Keyword: visual languages, editable graphical histories, undo, redo, timeline display, user interface design, graphical editing  
+Note: Reprinted from  Plenum Press, New York, NY. pp. 257-275. 1990.  
+Date: February 1989  
+Address: Building  New York, NY 10027  
+Affiliation: Department of Computer Science 450 Computer Science  Columbia University  
+Abstract: We present the concept of an editable graphical history that allows the user to review and modify the actions performed with a graphical user interface. Using a pictorial metaphor borrowed from comic strips, an editable graphical history consists of a series of panels that depict in chronological order the important events in the history of a user's session. We discuss the visual language used in editable graphical histories, and describe Chimera, a graphical editor that generates these histories automatically. The user may scroll through the sequence of panels, reviewing actions at different levels of detail, and selectively undoing, modifying, and redoing previous actions. Chimera's editable graphical histories are constructed from parts of the editor window, the editor control panel, and the editor's pop up menus. Panels indicate both the objects that are modified and the actions performed on them. We describe the heuristics used to determine the objects depicted in each panel, the style in which they are drawn, and how actions are distributed among panels. 
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> Adobe Systems Inc. </author> <title> PostScript Language Reference Manual. </title> <address> Reading, MA: </address> <publisher> Addison-Wesley, </publisher> <year> 1985. </year>
+Reference: 2. <author> Bier, E., and Stone, M. ``Snap-Dragging.'' </author> <booktitle> Proc. SIGGRAPH '86 (Dallas, </booktitle> <address> TX, </address> <month> August 18-22, </month> <year> 1986). </year> <title> In Computer Graphics, </title> <address> 20:4, </address> <month> August </month> <year> 1986, </year> <pages> 233-240. </pages>
+Reference: 3. <author> Christodoulakis, S., and Graham, S. </author> <title> ``Browsing Within Time-Driven Multimedia Documents.'' </title> <booktitle> Proc. COIS88, Conf. on Office Info. Sys., </booktitle> <address> Palo Alto, CA, March 23-25, </address> <year> 1988, </year> <pages> 219-227. </pages>
+Reference: 4. <author> Feiner, S., Nagy, S., and van Dam, A. </author> <title> ``An Experimental System for Creating and Presenting Interactive Graphical Documents.'' </title> <journal> ACM Trans. on Graphics, </journal> <volume> 1:1, </volume> <month> January </month> <year> 1982, </year> <pages> 59-77. </pages>
+Reference: 5. <author> Feiner, S. ``APEX: </author> <title> An Experiment in the Automated Creation of Pictorial Explanations.'' </title> <journal> IEEE Comp. Graphics and Applic., </journal> <volume> 5:11, </volume> <month> November </month> <year> 1985, </year> <pages> 29-38. </pages>
+Reference: 6. <author> Furnas, G. </author> <title> ``Generalized Fisheye Views.'' </title> <booktitle> Proc. CHI '86, Human Factors in Computing Systems, </booktitle> <address> Boston, MA, </address> <month> April 13-17, </month> <year> 1986, </year> <pages> 16-23. </pages>
+Reference: 7. <author> Joy, W. </author> <title> An Introduction to the C Shell. In UNIX Programmer's Manual, Seventh Edition, Third Berkeley UNIX Distribution, </title> <institution> Dept. of EE & CS, University of California, Berkeley, </institution> <year> 1979. </year>
+Reference: 8. <author> Kurlander, D. and Bier, E. </author> <title> ``Graphical Search and Replace.'' </title> <booktitle> Proc. SIGGRAPH '88 (Atlanta, </booktitle> <address> GA, </address> <month> August 1-5, </month> <year> 1988). </year> <title> In Computer Graphics, </title> <address> 22:4, </address> <month> August </month> <year> 1988, </year> <pages> 113-120. </pages>
+Reference: 9. <author> Makkuni, R. </author> <title> ``A Gestural Representation of the Process of Composing Chinese Temples.'' </title> <journal> IEEE Comp. Graphics and Applic., </journal> <volume> 7:12, </volume> <month> December </month> <year> 1987, </year> <pages> 45-61. </pages>
+Reference: 10. <author> Pier, K., Bier, E., and Stone, M. </author> <title> ``An Introduction to Gargoyle: An Interactive Illustration Tool.'' </title> <booktitle> Proc. EP88, Int. Conf. on Electronic Publishing, Document Manipulation, and Typography, </booktitle> <address> Nice, France, </address> <month> April </month> <year> 1988, </year> <pages> 223-238. </pages>
+Reference: 11. <author> Smith, </author> <title> A.R. </title> <institution> ``Paint.'' NYIT Computer Graphics Lab Technical Memo No. 7, Old Westbury, </institution> <address> NY, </address> <month> July 20, </month> <year> 1978. </year> <note> [Also available in Beatty, </note> <editor> J. and Booth, K. (eds.), </editor> <booktitle> IEEE Tutorial: Computer Graphics 2nd Ed., </booktitle> <address> Silver Spring, MD: </address> <publisher> IEEE Comp. Soc. Press, </publisher> <year> 1982, </year> <pages> 501-515.] </pages>
+Reference: 12. <author> Stallman, R. </author> <title> GNU Emacs Manual. Sixth Edition, </title> <type> Version 18, </type> <institution> Cambridge, MA: Free Software Foundation, </institution> <month> March </month> <year> 1987. </year>
+Reference: 13. <author> Swinehart, D., Zellweger, P., Beach, R., and Hagmann, R. </author> <title> ``A Structural View of the Cedar Programming Environment.'' </title> <journal> ACM Trans. on Prog. Lang. and Sys., </journal> <volume> 8:4, </volume> <month> October </month> <year> 1986, </year> <pages> 419-490. </pages>
+
+References-found: 13
+

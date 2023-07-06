@@ -1,0 +1,29 @@
+URL: ftp://softlib.rice.edu/pub/CRPC-TRs/reports/CRPC-TR94468.ps.gz
+Refering-URL: http://www.crpc.rice.edu/CRPC/softlib/TRs_online.html
+Root-URL: 
+Title: A COMPARISON OF NONLINEAR PROGRAMMING APPROACHES TO AN ELLIPTIC INVERSE PROBLEM AND A NEW DOMAIN
+Author: J. E. DENNIS, JR. AND ROBERT MICHAEL LEWIS 
+Keyword: Key Words. Domain decomposition, inverse problems, large-scale nonlinear programming  
+Note: AMS(MOS) subject classification. Primary 90C06, secondary 49M27, 65N55, 86A05  
+Abstract: We compare three nonlinear programming approaches to a well-known elliptic inverse problem in three spatial dimensions. Two of these approaches may be viewed as conventional; the third approach is new and is based on a domain decomposition technique for the solution of the governing elliptic equation. We discuss the benefits that may be obtained from treating the governing differential equation in an inverse problem as equality constraints in the optimization problem. We present numerical results and discuss the relative efficacy of the three approaches. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> G. Alessandrini, </author> <title> On the identification of the leading coefficient of an elliptic equation, </title> <institution> Bolletino U.M.I., Analisi Fun-zionale e Applicazioni, </institution> <month> IV-C </month> <year> (1985). </year>
+Reference: [2] <author> M. Avriel, </author> <title> Nonlinear programming: analysis and methods, </title> <publisher> Prentice-Hall, </publisher> <year> 1976. </year>
+Reference: [3] <author> H. T. Banks and K. Kunisch, </author> <title> Estimation techniques for distributed parameter systems, </title> <publisher> Birkhauser, </publisher> <year> 1989. </year>
+Reference: [4] <author> J. Bear, </author> <title> Dynamics of fluids in porous media, </title> <publisher> Dover, </publisher> <year> 1988. </year>
+Reference: [5] <author> L. C. Cowsar and M. F. Wheeler, </author> <title> Parallel domain decomposition method for mixed finite elements for elliptic partial differential equations, in Fourth International Symposium on Domain Decomposition Methods for Partial Differential Equations, </title> <editor> R. Glowinski, Y. A. Kuznetsov, G. Meurant, J. Periaux, and O. B. Widlund, eds., </editor> <address> Philadelphia, </address> <year> 1991, </year> <note> SIAM. </note>
+Reference: [6] <author> E. J. Cramer, J. J. E. Dennis, P. D. Frank, R. M. Lewis, and G. R. Shubin, </author> <title> On alternative formulations for multidisciplinary design optimization, </title> <booktitle> in Proceedings of the Fourth AIAA/USAF/NASA/OAI Symposium on Multidisciplinary Analysis and Optimization, </booktitle> <month> September </month> <year> 1992. </year> <title> [7] , Problem formulation for multidisciplinary optimization, </title> <note> SIAM J. Optimization, (1994). To appear. </note>
+Reference: [8] <author> P. D. Frank and G. R. Shubin, </author> <title> A comparison of optimization-based approaches for a model computational aerodynamics design problem, </title> <journal> Journal of Computational Physics, </journal> <volume> 98 (1992), </volume> <pages> pp. 74-89. </pages>
+Reference: [9] <author> P. E. Gill, W. Murray, and M. H. Wright, </author> <title> Practical Optimization, </title> <publisher> Academic Press, </publisher> <year> 1981. </year>
+Reference: [10] <author> R. Glowinski and M. F. Wheeler, </author> <title> Domain decomposition and mixed finite element methods for elliptic problems, in First International Symposium on Domain Decomposition Methods for Partial Differential Equations, </title> <editor> R. Glowinski, G. Golub, G. Meurant, and J. Periaux, eds., </editor> <address> Philadelphia, </address> <year> 1988, </year> <note> SIAM. </note>
+Reference: [11] <author> R. T. Haftka, Z. Gurdal, and M. Kamat, </author> <title> Elements of Structural Optimization, </title> <publisher> Kluwer Academic Publishers, </publisher> <year> 1990. </year>
+Reference: [12] <author> R. V. Kohn and B. D. Lowe, </author> <title> A variational method for parameter identification, Mathematical Modelling and Numerical Analysis, </title> <month> 22 </month> <year> (1988). </year>
+Reference: [13] <author> F.-S. Kupfer and E. W. Sachs, </author> <title> A prospective look at SQP methods for semilinear parabolic control problems, in Optimal control of partial differential equations: </title> <booktitle> proceedings of the IFIP WG 7.2 International Conference, </booktitle> <year> 1991, </year> <pages> pp. 145-157. </pages>
+Reference: [14] <author> C. E. Orozco and O. N. Ghattas, </author> <title> Massively parallel aerodynamic shape optimization. </title> <type> preprint. </type>
+Reference: [15] <author> M. H. Rizk, </author> <title> Aerodynamic optimization by simultaneously updating flow variables and design parameters. </title> <journal> AGARD Paper No. </journal> <volume> 15, </volume> <month> May </month> <year> 1989. </year>
+Reference: [16] <author> T. F. Russell and M. F. Wheeler, </author> <title> Finite element and finite difference methods for continuous flows in porous media, in The mathematics of reservoir simulation, </title> <editor> R. E. Ewing, ed., </editor> <booktitle> Society for Industrial and Applied Mathematics, </booktitle> <year> 1983. </year>
+Reference: [17] <author> S. Ta'asan, G. Kuruvila, and M. D. Salas, </author> <title> Aerodynamic design and optimization in one shot. AIAA Paper 92-0025, </title> <booktitle> 30th Aerospace Sciences Meeting, </booktitle> <address> Reno, NV, </address> <month> January, </month> <year> 1992. </year>
+
+References-found: 16
+

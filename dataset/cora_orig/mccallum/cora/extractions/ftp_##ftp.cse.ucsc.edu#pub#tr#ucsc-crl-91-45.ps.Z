@@ -1,0 +1,23 @@
+URL: ftp://ftp.cse.ucsc.edu/pub/tr/ucsc-crl-91-45.ps.Z
+Refering-URL: ftp://ftp.cse.ucsc.edu/pub/tr/README.html
+Root-URL: http://www.cse.ucsc.edu
+Title: BORG: A Reconfigurable Prototyping Board using Field-Programmable Gate Arrays toolset, user FPGAs, and the routing
+Author: Pak K. Chan Martine D.F. Schlag and Marcelo Martin zx 
+Note: The  Supported in part by NSF Grant MIP-9111607 Supported in part by NSF Presidential Young Inves tigator Grant MIP-8896276 Supported by NSF REU Supplement 1991 The authors are grateful to the support and cooper ation of Xilinx, Inc.  
+Address: Santa Cruz, California 95064  
+Affiliation: Computer Engineering University of California, Santa Cruz  
+Abstract: We exploit the reprogrammability of FPGAs and use them for routing. To experiment with the idea, we constructed a PC-based prototyping board that contains two "user" FPGAs, two routing FPGAs, and a fifth FPGA that implements the glue logic to the PC bus. To facilitate the design process using the new prototyping board, we developed algorithms and tools that automatically configure the routing FPGAs. We describe the options that we have examined during the development of this board, and how we arrive at some design decisions. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> A. El Gamal, "Protozone: </author> <title> The PC-Based ASIC Design Frame, User's Guide," </title> <type> Tech. Rep. </type> <institution> SISL90-???, Stanford Information Systems Laboratory, Stanford University, </institution> <month> Aug. </month> <year> 1990. </year>
+Reference-contexts: The traditional techniques of connecting the parts in the prototype are wire-wrapping and bread-boarding, which are often time consuming and error-prone. To alleviate this problem, some prototyping boards have PC-interface logic built-in to the FPGA prototyping boards <ref> [1, 2] </ref>. Connections between parts on the prototyping boards still require manual wiring. We desire a prototyping board with electronically programmable interconnect between the parts. The board has the benefits of being easily alterable, reprogrammable, automatic, reusable, and correct.
+Reference: [2] <author> F. Pirri and O. Bigalli, </author> <title> "A hardware programmable generic interface for the IBM PC," </title> <type> tech. rep., </type> <institution> Dipartimento Di Ingegne-ria Elettronica of the Universita' Di Firenze, Italy, </institution> <month> Sept. </month> <year> 1990. </year>
+Reference-contexts: The traditional techniques of connecting the parts in the prototype are wire-wrapping and bread-boarding, which are often time consuming and error-prone. To alleviate this problem, some prototyping boards have PC-interface logic built-in to the FPGA prototyping boards <ref> [1, 2] </ref>. Connections between parts on the prototyping boards still require manual wiring. We desire a prototyping board with electronically programmable interconnect between the parts. The board has the benefits of being easily alterable, reprogrammable, automatic, reusable, and correct.
+Reference: [3] <author> C. H. Papadimitriou and K. Steiglitz, </author> <title> Combinatorial Optimization: Algorithms and Complexity. </title> <publisher> Prentice Hall, </publisher> <year> 1982. </year>
+Reference-contexts: This problem (also know as the linear assignment problem) is well understood and can be solved both by linear programming and specialized algorithms <ref> [3, 4] </ref>.
+Reference: [4] <author> B. Preas and M. Lorenzetti, </author> <title> Physical Design Automation of VLSI Systems. </title> <publisher> Benjamin Cummings, </publisher> <year> 1988. </year>
+Reference-contexts: This problem (also know as the linear assignment problem) is well understood and can be solved both by linear programming and specialized algorithms <ref> [3, 4] </ref>.
+Reference: [5] <author> XILINX: </author> <title> The Programmable Gate Array Data Book. 2100 Logic Drive, </title> <address> San Jose, CA 95124, </address> <year> 1991. </year>
+Reference-contexts: A 84-pin FPGA XC3020 `X0' serves as the "glue" logic between the PC. It is also responsible for supplying the bit streams to configure the other four FPGAs using the peripheral mode <ref> [5] </ref>. Acknowledgements This work is supported in part by the National Science Foundation. The authors are grateful to Xilinx Inc., DATA I/O Corporation, OrCAD, and ALDEC for their generous support and donations.
+References-found: 5
+

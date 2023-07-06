@@ -1,0 +1,53 @@
+URL: http://www.cs.berkeley.edu/~blasirs/project-report.ps.gz
+Refering-URL: http://www.cs.berkeley.edu/~blasirs/sdrive/sdrive.html
+Root-URL: 
+Title: A Study of Lateral Controllers for the Stereo Drive Project  
+Author: by Robert S. Blasi, Jr. Jitendra Malik Date Professor S. Shankar Sastry 
+Degree: Advisor  
+Affiliation: Research  
+Note: Committee: Professor  Second Reader Date  
+Abstract: Research Project Submitted to the Department of Electrical Engineering and Computer Sciences, University of California at Berkeley, in partial satisfaction of the requirements for the degree of Master of Science, Plan II. Approval for the Report and Comprehensive Examination: 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> D. Auslander, C. Chan, and Y. Takahashi. </author> <title> Parameterinstellung bei linearen DDC-Algorithmen. </title> <booktitle> Regelungstechnick und Prozefi-Datenverarbeitung, </booktitle> <pages> pages 237-244, </pages> <year> 1970. </year>
+Reference: [2] <author> V. Bobal. </author> <title> Self-tuning Ziegler-Nichols PID controller. </title> <booktitle> International Journal of Adaptive Control and Signal Processing, </booktitle> <pages> pages 213-226, </pages> <year> 1995. </year>
+Reference: [3] <author> W. Brogan. </author> <title> Modern Control Theory. </title> <publisher> Prentice Hall, </publisher> <address> third edition, </address> <year> 1991. </year>
+Reference: [4] <author> R. H. Byrne. </author> <title> Robust Lateral Control of Highway Vehicles. </title> <type> PhD thesis, </type> <institution> University of New Mexico, </institution> <year> 1995. </year>
+Reference: [5] <author> W. Chee. </author> <title> Discussions of the dynamics of the Honda EPS steering actuator, </title> <year> 1997. </year>
+Reference: [6] <author> E. Dickmanns and A. Zapp. </author> <title> Autonomous high speed road vehicle guidance by computer vision. </title> <booktitle> In Selected Papers from the 10th Triennial World Congress of the International Federation of Automatic Control, </booktitle> <pages> pages 221-226, </pages> <year> 1987. </year>
+Reference: [7] <author> J. Forbes, T. Huang, K. Kanazawa, and S. Russell. </author> <title> The BATmobile: Towards a Bayesian Automated Taxi. </title> <booktitle> In Proceedings of the Fourteenth International Joint Conference on Artificial Intelligence, </booktitle> <year> 1995. </year> <month> 85 </month>
+Reference: [8] <author> A. Gelb, </author> <title> editor. Applied Optimal Estimation. </title> <publisher> The M.I.T. Press, </publisher> <year> 1974. </year>
+Reference: [9] <author> V. Graefe and K.-D. Kuhnert. </author> <title> Vision-based Autonomous Road Vehicles. </title> <note> In Masaki [23]. </note>
+Reference: [10] <author> G. Hager, S. Hutchinson, and P. Corke. </author> <title> A tutorial introduction to visual servo control. </title> <journal> IEEE Transactions on Robotics and Automation, </journal> <volume> 12(5) </volume> <pages> 651-670, </pages> <year> 1996. </year>
+Reference-contexts: introductions to nonlinear control techniques, such as [33] or [11]. Perhaps a control scheme based on "visual servoing" <ref> [10] </ref>; [21] would be useful? On some level, this is what the controllers in Chapter 4 attempt to do.
+Reference: [11] <author> A. Isidori. </author> <title> Nonlinear Control Systems. </title> <publisher> Springer-Verlag, </publisher> <address> third edition, </address> <year> 1996. </year>
+Reference-contexts: introductions to nonlinear control techniques, such as [33] or <ref> [11] </ref>. Perhaps a control scheme based on "visual servoing" [10]; [21] would be useful? On some level, this is what the controllers in Chapter 4 attempt to do.
+Reference: [12] <author> J. Kosecka. </author> <title> Vision-based lateral control of vehicles: Look-ahead and delay issues. Internal memo, </title> <institution> Berkeley EECS Department, </institution> <month> December </month> <year> 1996. </year>
+Reference: [13] <author> J. Kosecka. </author> <title> Discussions on controller design, 1997. Time domain vs. frequency domain, </title> <type> etc. </type>
+Reference: [14] <author> S. Kozak and J. Hejdis. </author> <title> Simple, robust, self-tuning controller. </title> <journal> Applied Mathematics and Computation, </journal> <pages> pages 203-214, </pages> <year> 1995. </year>
+Reference: [15] <author> B. C. Kuo. </author> <title> Automatic Control Systems. </title> <publisher> Prentice Hall, </publisher> <address> sixth edition, </address> <year> 1991. </year>
+Reference: [16] <author> M. F. Land. </author> <title> The time it takes to process visual information when steering a vehicle. </title> <booktitle> Investigative Opthalmology & Visual Science, 37:S525, 1996. Meeting poster from 1996 Annual Meeting of the Association for Research in Vision and Ophthalmology. </booktitle>
+Reference: [17] <author> M. F. Land and J. </author> <title> Horwood. Which parts of the road guide steering? Nature, </title> <booktitle> 377 </booktitle> <pages> 339-340, </pages> <month> September </month> <year> 1995. </year>
+Reference: [18] <author> M. F. Land and D. Lee. </author> <title> Where we look when we steer. </title> <journal> Nature, </journal> <volume> 369 </volume> <pages> 742-744, </pages> <month> June </month> <year> 1994. </year> <month> 86 </month>
+Reference: [19] <author> J. N. Little and A. J. Laub. </author> <title> Control System Toolbox User's Guide. The MathWorks, </title> <publisher> Inc., </publisher> <month> October </month> <year> 1990. </year>
+Reference: [20] <author> L. Ljung. </author> <title> System Identification Toolbox User's Guide. The MathWorks, </title> <publisher> Inc., </publisher> <month> May </month> <year> 1995. </year>
+Reference: [21] <author> Y. Ma, J. Kosecka, and S. S. Sastry. </author> <title> Visual servoing for a nonholonomic mobile robot. </title> <booktitle> Submitted to IEEE Conference on Decision and Control, </booktitle> <year> 1997. </year>
+Reference-contexts: introductions to nonlinear control techniques, such as [33] or [11]. Perhaps a control scheme based on "visual servoing" [10]; <ref> [21] </ref> would be useful? On some level, this is what the controllers in Chapter 4 attempt to do.
+Reference: [22] <author> J. Malik, C. J. Taylor, and J. Weber. </author> <title> A real-time approach to stereopsis and lane-finding. </title> <booktitle> In Proceedings of the 1996 IEEE Intelligent Vehicles Symposium, </booktitle> <pages> pages 207-212, </pages> <year> 1996. </year>
+Reference: [23] <author> I. Masaki, </author> <title> editor. Vision-based Vehicle Guidance. </title> <publisher> Springer-Verlag, </publisher> <year> 1992. </year>
+Reference: [24] <author> T. Oetiker, H. Partl, I. Hyna, and E. Schlegl. </author> <title> The Not So Short Introduction to L A T E X 2 " . Comprehensive T E X Archive Network, </title> <month> July </month> <year> 1995. </year>
+Reference: [25] <author> S. Patwardhan. </author> <title> Fault detection and tolerant control for lateral guidance of vehicles in automated highways. </title> <type> PhD thesis, </type> <institution> University of California at Berkeley, </institution> <year> 1994. </year>
+Reference: [26] <author> H. Peng. </author> <title> Vehicle Lateral Control for Highway Automation. </title> <type> PhD thesis, </type> <institution> University of California at Berkeley, </institution> <month> April </month> <year> 1992. </year>
+Reference: [27] <author> H. Peng and M. Tomizuka. </author> <title> Lateral control of front-wheel-steering rubber-tire vehicles. Publication of PATH program, ITS, </title> <institution> UC Berkeley, UCB-ITS-PRR-90-5, </institution> <month> July </month> <year> 1990. </year>
+Reference: [28] <author> H. A. Pham. </author> <title> Combined Lateral and Longitudinal Control of Vehicles for the Automated Highway System. </title> <type> PhD thesis, </type> <institution> University of California at Berkeley, </institution> <year> 1996. </year> <month> 87 </month>
+Reference: [29] <author> H. A. Pham. </author> <title> Discussions on the lateral control of vehicles and passenger comfort, </title> <year> 1997. </year>
+Reference: [30] <author> D. Pomerleau. RALPH: </author> <title> Rapidly Adapting Lateral Position Handler. </title> <booktitle> In Proceedings of the Intelligent Vehicles Symposium, </booktitle> <pages> pages 506-511, </pages> <year> 1995. </year>
+Reference: [31] <author> D. Raviv and M. Herman. </author> <title> A new approach to vision and control for road following. </title> <booktitle> In Proceedings of the IEEE Workshop on Visual Motion, </booktitle> <pages> pages 217-225, </pages> <year> 1991. </year>
+Reference: [32] <author> S. S. Sastry. </author> <title> Comments on project report, </title> <year> 1997. </year>
+Reference: [33] <author> S. S. Sastry. </author> <title> Reading material for EECS 222. Class notes, </title> <institution> University of California at Berkeley, </institution> <month> Spring, </month> <year> 1996. </year>
+Reference-contexts: introductions to nonlinear control techniques, such as <ref> [33] </ref> or [11]. Perhaps a control scheme based on "visual servoing" [10]; [21] would be useful? On some level, this is what the controllers in Chapter 4 attempt to do.
+Reference: [34] <author> C. J. Taylor. </author> <title> Discussions and notes on the Stereo Drive project, 1996. Model derivations, </title> <type> etc. </type>
+Reference: [35] <author> S. Thompson. </author> <title> Control Systems Engineering & Design. </title> <publisher> John Wiley & Sons, Inc., </publisher> <year> 1989. </year>
+Reference: [36] <author> C. Thorpe, M. Hebert, T. Kanade, and S. Shafer. </author> <title> The New Generation System for the CMU NavLab. </title> <booktitle> In Masaki [23]. </booktitle> <pages> 88 </pages>
+References-found: 36
+

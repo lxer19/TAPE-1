@@ -1,0 +1,22 @@
+URL: ftp://dimacs.rutgers.edu/pub/dimacs/TechnicalReports/TechReports/1995/95-51.ps.gz
+Refering-URL: http://dimacs.rutgers.edu/TechnicalReports/1995.html
+Root-URL: http://www.cs.rutgers.edu
+Title: Finite Canonization  
+Author: Saharon Shelah 
+Address: Jerusalem, Israel  New Brunswick, NJ 08903, USA  
+Affiliation: Institute of Mathematics The Hebrew University  Rutgers University Department of Mathematics  M S-T E X  
+Date: 1995  
+Note: October  I thank Alice Leonhardt for the beautiful typing Publication 564 Typeset by A  
+Abstract: DIMACS Technical Report 95-51 0 DIMACS is a cooperative project of Rutgers University, Princeton University, AT&T Bell Laboratories and Bellcore. DIMACS is an NSF Science and Technology Center, funded under contract STC-91-19999; and also receives support from the New Jersey Commission on Science and Technology. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [ErRa] <author> P. Erd-os and R. </author> <title> Rado. A combinatorial theorem. </title> <journal> Journal of the London Mathematical Society, </journal> <volume> 25 </volume> <pages> 249-255, </pages> <year> 1950. </year>
+Reference: [ErSp] <author> P. Erd-os and J. Spencer. </author> <title> Probabilistic Methods in Combinatorics. </title> <publisher> Academic Press, </publisher> <address> New York, </address> <year> 1974. </year>
+Reference: [GrRoSp] <author> R. Graham, B. Rotchild, and J. Spencer. </author> <title> Ramsey Theory. </title> <booktitle> Willey - Interscience Series in Discrete Mathematics. </booktitle> <address> Willey, New York, </address> <year> 1980. </year>
+Reference: [LeRo94] <author> H. Lefmann and V. </author> <month> Rodl. </month> ??? 
+Reference: [LeRo93] <author> H. Lefmann and V. Rodl. </author> <title> On Canonical Ramsey Numbers for Complete Graphs versus Paths. </title> <journal> Journal of Combinatorial Theory, ser B, </journal> <volume> 58 </volume> <pages> 1-13, </pages> <year> 1993. </year>
+Reference: [Ra86] <author> R. </author> <title> Rado. Note on canonical partitions. </title> <journal> Bulletin London Mathematical Society, </journal> <volume> 18 </volume> <pages> 123-126, </pages> <year> 1986. </year>
+Reference: [Sh 37] <author> Saharon Shelah. </author> <title> A two-cardinal theorem. </title> <journal> Proceedings of the American Mathematical Society, </journal> <volume> 48 </volume> <pages> 207-213, </pages> <year> 1975. </year>
+Reference-contexts: Arriving to n fl = 1 we eliminate the h's (decreasing a little) so we get the sufficiency of the condition for equality, but we still have the necessity only for u 1 ; u 2 which are neighbors. Then by random choice (as in <ref> [Sh 37] </ref>), we get the necessity for all pairs of sets. The earlier steps cost essentially one exponentiation each, the last two cost only taking a power. 1.2 Claim.
+References-found: 7
+

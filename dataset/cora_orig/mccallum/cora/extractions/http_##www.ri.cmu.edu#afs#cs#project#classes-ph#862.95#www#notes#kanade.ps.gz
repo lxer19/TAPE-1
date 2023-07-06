@@ -1,0 +1,14 @@
+URL: http://www.ri.cmu.edu/afs/cs/project/classes-ph/862.95/www/notes/kanade.ps.gz
+Refering-URL: http://www.ri.cmu.edu/afs/cs/project/classes-ph/862.95/www/notes/viewinterp.html
+Root-URL: 
+Title: visual medium evolved from early paintings to the realistic paintings of the classical era to
+Author: Kanade, P. J. Narayanan, Peter Rander 
+Date: August 17, 1995  
+Note: The  Virtualized reality has  Takeo  CMU-CS-95-153 This work was supported by ARPA grant DAAH04-93-G-0428 and is monitored by the Army Research Office of the Department of the Army. The views and conclusions contained in this document are those of the authors and should not be interpreted as representing the official policies, either expressed or implied, of ARPA, DoD or the U.S. government.  
+Address: Pittsburgh, Pennsylvania 15213-3890  
+Affiliation: School of Computer Science Carnegie Mellon University  
+Abstract: A version of this report appeared in the IEEE Workshop on the Representation of Visual Scenes, Boston, June 24, 1995. Abstract We have been developing a new visual medium called virtualized reality. It delays the selection of the viewing angle till view time, using techniques from computer vision and computer graphics. The visual event is captured using many cameras that cover the action from all sides. The 3D structure of the event, aligned with the pixels of the image, is computed for a few selected directions using a stereo technique. Triangulation and texture mapping enable the placement of a soft-camera to reconstruct the event from any new viewpoint. With a stereo-viewing system, virtualized reality allows a viewer to move freely in the scene, independent of the transcription angles used to record the scene. The applications of virtualized reality are many. Training can become safer and more effective by enabling the trainee to move about freely in a virtualized environment. A whole new entertainment programming can open by allowing the viewer to watch a basketball game while standing on the court or while running with a particular player. In this report, we describe the hardware and software setup in our studio to make virtualized reality movies. Examples are provided to demonstrate the effectiveness of the system. Virtualized Reality: Concept and Early Results 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

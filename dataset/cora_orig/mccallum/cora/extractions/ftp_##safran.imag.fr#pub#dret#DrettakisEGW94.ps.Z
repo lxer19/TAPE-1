@@ -1,0 +1,14 @@
+URL: ftp://safran.imag.fr/pub/dret/DrettakisEGW94.ps.Z
+Refering-URL: http://w3imagis.imag.fr/Publications/index_fr.html
+Root-URL: http://www.imag.fr
+Email: E-mail: George.Drettakis@imag.fr.  
+Title: Simplifying the Representation of Radiance from Multiple Emitters  
+Author: George Drettakis 
+Address: B.P. 53, F-38041 Grenoble Cedex 9, France.  
+Note: iMAGIS is a joint research project of CNRS/INRIA/UJF/INPG. Postal address:  
+Affiliation: iMAGIS IMAG  
+Abstract: In recent work radiance function properties and discontinuity meshing have been used to construct high quality interpolants representing radiance. Such approaches do not consider the combined effect of multiple sources and thus perform unnecessary discontinuity meshing calculations and often construct in-terpolants with too fine subdivision. In this research we present an extended structured sampling algorithm that treats scenes with shadows and multiple sources. We then introduce an algorithm which simplifies the mesh based on the interaction of multiple sources. For unoccluded regions an a posteriori simplification technique is used. For regions in shadow, we first compute the maximal um-bral/penumbral and penumbral/light boundaries. This construction facilitates the determination of whether full discontinuity meshing is required or whether it can be avoided due to the illumination from another source. An estimate of the error caused by potential simplification is used for this decision. Thus full discontinuity mesh calculation is only incurred in regions where it is necessary resulting in a more compact representation of radiance. To accurately render scenes illuminated by area light sources, it is necessary to represent the illumination on surfaces by a simpler, approximating function, even when considering only direct illumination. Piecewise polynomial interpolants are often chosen for this purpose. Such representations are an essential requirement for global illumination computation, in particular for the finite-element style approaches (e.g. [Zatz93, GSCH93]), which extend the radiosity-based method [CoGr85]. In the interpolant construction algorithms presented to date, much effort has been devoted to correctly treating shadow boundaries and identifying the behaviour of radiance. These methods have thus achieved high quality representation of illumination using simple functions. However, despite the significant advances in the field, little has been done to actually compensate for the cu 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

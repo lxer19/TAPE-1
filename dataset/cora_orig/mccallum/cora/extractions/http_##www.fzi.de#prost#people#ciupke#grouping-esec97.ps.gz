@@ -1,0 +1,17 @@
+URL: http://www.fzi.de/prost/people/ciupke/grouping-esec97.ps.gz
+Refering-URL: http://www.fzi.de/prost/people/ciupke.html
+Root-URL: http://www.fzi.de
+Title: Grouping Dieser Text basiert auf einem Positionspapier fur den Reengineering-Workshop der ESEC'97. Da die Beitrage
+Author: Oliver Ciupke glischen "geblieben". 
+Date: November 4, 1997  
+Abstract:  
+Abstract-found: 1
+Intro-found: 1
+Reference: [BW88] <author> Richard Bird and Philip Wadler. </author> <title> Introduction to Functional Programming. </title> <booktitle> International Series in Computer Science. </booktitle> <publisher> Prentice Hall, </publisher> <year> 1988. </year>
+Reference-contexts: To perform an operation on each single element of a group or to filter a subset of elements from a group fulfilling certain properties (i.e. a predicate) there are operations well known from functional programming <ref> [BW88] </ref>: map: takes an operation o and a set (or group) s and performs o on each element of s 1 filter: takes a predicate p (a function returning a boolean) and a set (or group) s and returns a set s 0 containing those elements x of s, for which
+Reference: [Har69] <author> Frank Harary. </author> <title> Graph Theory. Series in Mathematics. </title> <publisher> Addison, </publisher> <year> 1969. </year>
+Reference-contexts: In this case, grouping means replacing nodes or edges by a node or edge representing the group (see figure 1). Formally, grouping and related terms are defined as follows. Terms taken from graph theory are defined e.g. in [SS89], <ref> [Har69] </ref>. * A group is a subset of all entities under consideration (including groups them selves). 1 * A grouping is a surjective graph homomorphism, mapping the elements of a group to a single node (or a single edge) representing this group. * If the difference matters, one can distinguish node
+Reference: [SS89] <editor> Gunther Schmidt and Thomas Strohlein. Relationen und Graphen. Math-ematik fur Informatiker. </editor> <publisher> Springer-Verlag, </publisher> <year> 1989. </year> <month> 6 </month>
+Reference-contexts: In this case, grouping means replacing nodes or edges by a node or edge representing the group (see figure 1). Formally, grouping and related terms are defined as follows. Terms taken from graph theory are defined e.g. in <ref> [SS89] </ref>, [Har69]. * A group is a subset of all entities under consideration (including groups them selves). 1 * A grouping is a surjective graph homomorphism, mapping the elements of a group to a single node (or a single edge) representing this group. * If the difference matters, one can distinguish
+References-found: 3
+

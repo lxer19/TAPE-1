@@ -1,0 +1,22 @@
+URL: http://theory.lcs.mit.edu/~harchol/Papers/elz.ps
+Refering-URL: http://theory.lcs.mit.edu/~harchol/Papers/papers.html
+Root-URL: 
+Title: A note on "The Limited Performance Benefits of Migrating Active Processes for Load Sharing"  
+Author: Allen B. Downey and Mor Harchol-Balter 
+Address: Berkeley, California 94720  
+Affiliation: Computer Science Division (EECS) University of California  
+Date: November 1995  
+Pubnum: Report No. UCB/CSD-95-888  
+Abstract-found: 0
+Intro-found: 1
+Reference: [BSW93] <author> Amnon Barak, Guday Shai, and Richard G. Wheeler. </author> <title> The MOSIX Distributed Operating System:Load Balancing for UNIX. </title> <publisher> Springer Verlag, </publisher> <address> Berlin, </address> <year> 1993. </year>
+Reference: [ELZ88] <author> Derek L. Eager, Edward D. Lazowska, and John Zahorjan. </author> <title> The limited performance benefits of migrating active processes for load sharing. </title> <booktitle> In SIGMETRICS, </booktitle> <pages> pages 662-675, </pages> <month> May </month> <year> 1988. </year>
+Reference: [HBD96] <author> Mor Harchol-Balter and Allen B. Downey. </author> <title> Exploiting process lifetime distributions for dynamic load balancing. </title> <booktitle> In Proceedings ACM SIGMETRICS '96, </booktitle> <month> May </month> <year> 1996. </year> <note> Also appeared in Proceedings Fifteenth ACM Symposium on Operating System Principles Poster Session, </note> <month> December, </month> <year> 1995. </year>
+Reference-contexts: The x axis is log scale. 4 the system and imbalancing occurs, the larger will be the benefits of mi-gration." The problem with this approach is that it eliminates from the performance metrics any benefit that preemptive migration might bestow on short jobs. But in <ref> [HBD96] </ref>, we show that the most significant impact of preemptive migration is on short jobs. <p> In <ref> [HBD96] </ref> we observed that short jobs are the primary beneficiaries of preemptive migration; thus ELZ ignore what we find to be a major benefit of preemptive migration | its effect on the short jobs. * ELZ use a workload description that includes a majority of jobs with zero lifetime.
+Reference: [KL88] <author> Phillip Krueger and Miron Livny. </author> <title> A comparison of preemptive and non-preemptive load distributing. </title> <booktitle> In 8th International Conference on Distributed Computing Systems, </booktitle> <pages> pages 123-130, </pages> <month> June </month> <year> 1988. </year>
+Reference: [LO86] <author> W. E. Leland and T. J. Ott. </author> <title> Load-balancing heuristics and process behavior. </title> <booktitle> In Proceedings of Performance and ACM Sigmetrics, </booktitle> <volume> volume 14, </volume> <pages> pages 54-69, </pages> <year> 1986. </year>
+Reference-contexts: In our simulation studies we found that the extreme case of optimal local scheduling (executing the job with the shortest remaining lifetime) all but eliminates the need for migration, either preemptive or non-preemptive. <ref> [LO86] </ref> make a similar observation: "... the relative improvement from [preemptive migration] becomes more pronounced as the local scheduling policies become worse." The reason for this effect is that under processor-sharing or round-robin scheduling, long-running jobs can impose slowdowns on many shorter jobs.
+Reference: [ZWZD93] <author> S. Zhou, J. Wang, X. Zheng, and P. Delisle. </author> <title> Utopia: a load-sharing facitlity for large heterogeneous distributed computing systems. </title> <journal> Software Practice and Expeience, </journal> <volume> 23(2) </volume> <pages> 1305-1336, </pages> <month> Decem-ber </month> <year> 1993. </year> <month> 9 </month>
+Reference-contexts: For example, <ref> [ZWZD93] </ref> explain, "Our second design decision is to support remote execution only at task initiation time; no checkpointing or task migration is supported. ...
+References-found: 6
+

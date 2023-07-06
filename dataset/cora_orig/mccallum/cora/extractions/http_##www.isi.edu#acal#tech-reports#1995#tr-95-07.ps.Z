@@ -1,0 +1,23 @@
+URL: http://www.isi.edu/acal/tech-reports/1995/tr-95-07.ps.Z
+Refering-URL: http://www.isi.edu/acal/tech-reports/index.html
+Root-URL: http://www.isi.edu
+Title: Tison, Generalization of Consensus Theory and Application to the Minimization of Boolean Functions, IEEE Trans.
+Author: [] Ren-Song Tsay, Ernest Kuh and Chi-Ping Hsu, Proud: [] T. Villa and A. L. Sangiovanni-Vincentelli, NOVA:State [] T. Villa and A. L. Sangiovanni-Vincentelli, NOVA:State [] Saeyang Yang, MCNC, . [] H. J. Zimmermann, 
+Address: Southampton, 1972.  
+Affiliation: Dept. of Electronics, Univ. of  
+Note: 138 1, IRE Trans. Elect. Comput., vol. EC-10, pp.593-603, 1961. [58] P.  IEEE Trans. on CAD, pp. 905 924, 1990. [62] M. C. Waters, Computer aids to logic system design PhD thesis,  and Expert Systems, Kluwer Academic Publishers, 1987.  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> D.B. Armstrong, </author> <title> A programmed algorithmmed algorithm for assigning internal codes to sequential machines, </title> <journal> IRE Trans. Elect. Comp. </journal> , <volume> vol. EC-11, </volume> <pages> pp. 466-472, </pages> <year> 1962. </year>
+Reference: [2] <author> D.B. Armstrong, </author> <title> On the Efficient Assignment of Internal Codes to Sequential Machines, </title> <journal> IRE Trans. Elect. Comp. </journal> , <volume> vol. EC-11, </volume> <pages> pp. 611-622, </pages> <month> oct. </month> <year> 1962. </year>
+Reference: [3] <author> J. E. Brandenburg and D. S. Scott, </author> <title> Embeddings of communication trees and grids into hypercubes, Intel Scientific Computers Report #280182-001, </title> <year> 1985. </year>
+Reference: [4] <author> R. K. Brayton, G. D. Hatchtel, C. T. McMullen and A. L. SangiovanniVincentelli, </author> <title> Logic Minimization Algorithms for VLSI Synthesis, </title> <publisher> Kluwer Academic, </publisher> <year> 1984. </year>
+Reference: [5] <author> M. A. Breuer, </author> <title> Min-cut Placement, Design Automation and Fault Tolerant Computing, </title> <booktitle> 1(4) </booktitle> <pages> 343-362, </pages> <year> 1977. </year>
+Reference: [6] <author> D. W. Brown, </author> <title> A State-Machine Synthesizer - SMS, </title> <address> 18thDAC, pp.301-304, </address> <year> 1981. </year>
+Reference: [7] <author> M. Y. Chan, </author> <title> Dilation-2 embeddings of grids into hypercubes, </title> <booktitle> Proceedings of the 1988 International conference on Parallel Processing, </booktitle> <pages> pp. 295-298, </pages> <year> 1988. </year>
+Reference: [8] <author> G. Cybenko, D.W. Krumme and N. Venkataraman, </author> <title> Fixed hypercube embedding, </title> <journal> Information Processing Letters, v.25, </journal> <volume> pp.35-39, </volume> <year> 1987. </year>
+Reference: [9] <author> G. De Micheli, R. K. Brayton and A. L. Sangiovanni Vincentelli, </author> <title> Optimal state assignment for finite state machines, </title> <journal> IEEE Trans. on CAD, </journal> <volume> pp.269-284, </volume> <year> 1986. </year>
+Reference: [10] <author> G. De Micheli, </author> <title> Symbolic Design of Combinational and Sequential Logic Circuits Implemented by Two-level Macros, </title> <journal> IEEE Trans. on CAD, </journal> <volume> pp.597-616, </volume> <year> 1986. </year>
+
+References-found: 10
+

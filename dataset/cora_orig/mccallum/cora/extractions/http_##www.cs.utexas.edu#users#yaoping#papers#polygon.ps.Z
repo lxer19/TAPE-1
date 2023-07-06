@@ -1,0 +1,18 @@
+URL: http://www.cs.utexas.edu/users/yaoping/papers/polygon.ps.Z
+Refering-URL: http://www.cs.utexas.edu/users/yaoping/ypub.html
+Root-URL: 
+Title: On Optimal Approximation of Orthogonal Polygons  
+Author: Yao-Ping Chen and D. F. Wong 
+Address: Austin, Texas 78712  
+Affiliation: Department of Computer Sciences University of Texas at Austin  
+Abstract: In this paper we consider the following problem in computational geometry which has applications in VLSI floorplan design and image processing. Given an orthogonal polygon P (i.e. edges are either vertical or horizontal) with n vertices and a positive integer m &lt; n, determine an orthogonal polygon Q with less than or equal to m vertices such that ERROR(P; Q) is minimized, where ERROR(P; Q) is defined as the area of the symmetric difference of the interiors of the two polygons. We present a polynomial time optimal algorithm to solve this problem for convex orthogonal polygons. Our algorithm is based on a transformation of the polygon approximation problem into a constrained shortest path problem. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Wang, T.C. and D. F. Wong, </author> <title> "A graph theoretic technique to speed up floorplan area optimization," </title> <booktitle> Proceedings of the 29th ACM/IEEE Design Automation Conference, </booktitle> <year> 1992, </year> <pages> pp. 62-68. </pages>
+Reference-contexts: This problem has applications in VLSI floorplan design and image processing. (For example, the shape curve pruning problem <ref> [1] </ref> in VLSI circuit layout can be formulated as a polygon approximation problem. As for image processing [2], algorithms for approximating polygons can be used for image data compression.
+Reference: [2] <author> Pavlidis, T., </author> <title> Algorithms for Graphics and Image Processing, </title> <publisher> Computer Science Press, </publisher> <year> 1982. </year>
+Reference-contexts: This problem has applications in VLSI floorplan design and image processing. (For example, the shape curve pruning problem [1] in VLSI circuit layout can be formulated as a polygon approximation problem. As for image processing <ref> [2] </ref>, algorithms for approximating polygons can be used for image data compression.
+Reference: [3] <author> Aho, A.V., J. E. Hopcroft and J. D. Ullman, </author> <title> The Design and Analysis of Computer Algorithms, </title> <publisher> Addison Wesley, </publisher> <year> 1974. </year>
+Reference-contexts: We develop an all-pairs constrained shortest path algorithm which is a modification of the all-pairs shortest path algorithm discussed in <ref> [3] </ref>. It uses dynamic programming technique. Assume all the vertices in the grid graph are numbered from 1 to N .
+References-found: 3
+

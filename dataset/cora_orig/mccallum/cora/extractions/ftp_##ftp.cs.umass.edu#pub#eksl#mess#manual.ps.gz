@@ -1,0 +1,18 @@
+URL: ftp://ftp.cs.umass.edu/pub/eksl/mess/manual.ps.gz
+Refering-URL: http://eksl-www.cs.umass.edu/research/mess.html
+Root-URL: 
+Email: anderson@cs.umass.edu  
+Phone: 413-545-3616  
+Title: Mess User Manual  
+Author: Scott D. Anderson 
+Note: Draft of June 19, 1995|comments welcome  
+Address: Amherst, MA 01003-4610  
+Affiliation: Experimental Knowledge Systems Laboratory Computer Science Department, LGRC University of Massachusetts  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> Scott D. Anderson, Adam Carlson, David L. Westbrook, David M. Hart, and Paul R. Cohen. Clasp/Clip: </author> <title> Common Lisp Analytical Statistics Package/Common Lisp Instrumentation Package. </title> <type> Technical Report 93-55, </type> <institution> University of Massachusetts at Amherst, Computer Science Depart ment, </institution> <year> 1993. </year>
+Reference: [2] <author> Jerry Banks and II Carson, John S. </author> <title> Discrete-Event System Simulation. </title> <booktitle> International Series in Industrial and Systems Engineering. </booktitle> <publisher> Prentice-Hall, </publisher> <year> 1984. </year>
+Reference: [3] <author> Paul Bratley, Bennett L. Fox, and Linus E. </author> <note> Schrage. </note>
+Reference-contexts: The hierarchy of event classes can be used to group kinds of events, such as all the movement events, so that they can be controlled and modified as a group. There are two standard ways to structure a simulator around events <ref> [3, p. 13] </ref>: event orientation Each event determines what subsequent events follow from it (that it "causes"). Thus, each event type would have a "successors" function of some kind. process orientation Each event is part of a process, and that process determines the subsequent events.
+References-found: 3
+

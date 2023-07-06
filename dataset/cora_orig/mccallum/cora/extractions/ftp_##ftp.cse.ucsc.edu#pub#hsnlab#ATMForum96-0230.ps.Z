@@ -1,0 +1,22 @@
+URL: ftp://ftp.cse.ucsc.edu/pub/hsnlab/ATMForum96-0230.ps.Z
+Refering-URL: http://www.cse.ucsc.edu/research/hsnlab/projects/cong-control.html
+Root-URL: http://www.cse.ucsc.edu
+Title: CONTRIBUTION TO ATM FORUM PROJECT: Traffic Management Technical Working Group ATM Forum/96-0230 TITLE: Another Examination
+Author: Lampros Kalampoukas, Anujan Varma, K. K. Ramakrishnan and Kerry Fendick 
+Keyword: DISTRIBUTION: ATM Technical Group Members Traffic Management WG  
+Address: Santa Cruz, CA, 95064  Rm 2C-454, 600 Mountain Avenue Murray Hill, NJ 07974  Los Angeles, USA.  
+Affiliation: University of California at Santa Cruz and AT&T  Computer Engineering Department University of California at Santa Cruz  AT&T Bell Labs:  
+Note: SOURCE:  DATE: Feb. 5-9, 1996,  NOTICE: This document has been prepared to  Working Group. This document is offered by the University of California and AT&T  and is not a binding proposal on either the University of California system or AT&T. Any requirements stated herein are subject to change in form and content after more study. UC Santa Cruz and AT&T reserve the right to add to, amend, or withdraw the statements contained herein.  
+Email: E-mail: lampros@cse.ucsc.edu, varma@cse.ucsc.edu, kkrama@research.att.com and kerry@qsun.att.com  
+Phone: Phone: (408) 459-3505  Phone: (908) 582-3154  
+Abstract: We review the new proposed End-System Method 1 for Use-it-or-lose-it behavior proposed in Annex F of the Traffic Management Specification Version 4.0, R10, for bi-directional TCP traffic. We have studied this in an environment of explicit rate switches. This contribution is a follow-up to the work discussed in ATM Forum/95 1598. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> S. Sathaye, </author> <title> "ATM Forum Traffic Management Specification Version 4.0,"Traffic Management Working Group, </title> <address> ATM-Forum/95-0013R10, </address> <month> Feb. </month> <year> 1996. </year>
+Reference-contexts: Finally, Figure 7 shows the queue size of the Switch-1 output port to link D4. Our intention in this contribution is to evaluate the alternative UILI policy described in Annex F of version 10 of the Traffic Management Specification <ref> [1] </ref>. "When an in-rate forward RM is sent, if the ACR exceeds the recent transmission rate plus a fixed bound, the ACR is reduced by a multiplicative factor and the next increase inhibited.
+Reference: [2] <author> J. Ormord, </author> <title> "Traffic Management Working Group Meeting Minutes for December, 1995 (DRAFT)," ATM Forum, Traffic Management Working Group, </title> <publisher> ATM-Forum/96-0009. </publisher>
+Reference: [3] <author> L. Kalampoukas, A. Varma and K.K. Ramakrishnan, </author> <title> "Examination of the Effect of Rule 5 (Use-it-or-Lose-it) on TCP Traffic", ATM Forum, Traffic Management Working Group, </title> <month> December </month> <year> 1995, </year> <month> ATM-Forum/95-1598. </month>
+Reference-contexts: Until the current Rule 5 (Time-Out based UILI) of the source behavior is triggered, the ACR reduction is a "constant factor" of (1/16) of the current ACR. In that sense, it does not impact two-way TCP behavior as significantly as before <ref> [3] </ref>, for the specific scenario examined. Since the UILI behavior has been observed to have a significant impact on performance and is influenced by application characteristics, we believe the proposed policy must be examined for other scenarios as well.
+Reference: [4] <author> L. Kalampoukas, A. Varma and K.K. Ramakrishnan, </author> <title> "Examination of the TM Source Behavior with an Efficient Switch Rate Allocation Algorithm",ATM Forum, Traffic Management Working Group, </title> <month> June </month> <year> 1995, </year> <journal> ATM-Forum/95-0767. </journal> <volume> 3 4 5 enabled). 6 7 </volume>
+References-found: 4
+

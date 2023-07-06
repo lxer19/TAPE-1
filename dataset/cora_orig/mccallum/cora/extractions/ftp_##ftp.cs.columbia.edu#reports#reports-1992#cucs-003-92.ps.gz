@@ -1,0 +1,23 @@
+URL: ftp://ftp.cs.columbia.edu/reports/reports-1992/cucs-003-92.ps.gz
+Refering-URL: http://www.cs.columbia.edu/~library/1992.html
+Root-URL: http://www.cs.columbia.edu
+Title: two-head one-way deterministic finite automaton, Information Pro cessing Letters 22, 231-235. (1962), Approximate formulas for
+Author: [KMP] Knuth, D. E., Morris, J. H. and Pratt, V. R. [LY] Li, M. and Yesha, Y. [RS] Rosser, J. B. and Schoenfeld, L. :-. [Va] Valiant, L. G. J. 
+Address: 4, 348-355.  
+Affiliation: De partment of Computer Science, Cornell University.  of Comput.  
+Note: (1977), Fast pattern matching in strings, SIAM J. Comput. 6, 322-350. [L] Li, M. (1984), Lower bounds on string-matching, TR 84-636  (1986), String-matching cannot be done by a  [V85] Vishkin, U. (1985),  Information and Control 67, 91-113. [V90] Vishkin, U. (1990),  Proc. 22nd ACM Symp. on Theory of Com putation, 170-179. 12  
+Abstract-found: 0
+Intro-found: 1
+Reference: [AILSV] <author> Apostolico, A., Iliopoulos, C., Landau, G. M., Schieber, B. and Vishkin, U. </author> <year> (1988), </year> <title> Parallel construction of a suffix tree with applications, </title> <journal> Algorithmica 3, </journal> <pages> 347-365. </pages>
+Reference: [BG] <author> Breslauer, D. and Galil, Z. </author> <year> (1990), </year> <title> An optimal O(log log n) parallel string matching algorithm, </title> <journal> SIAM Journal on Computing 19:6, </journal> <pages> pp. 1051-1058. </pages>
+Reference: [BFKLT] <author> Borodin, A. B., Fischer, M. J., Kirkpatrick, D. G., Lynch, N. A. and Tompa, M. </author> <year> (1979), </year> <title> A time-space tradeoff for sorting on non-oblivious machines, </title> <booktitle> Proc. 20th IEEE Symp. on Foundations of Computer Science, </booktitle> <pages> 294-301. </pages>
+Reference: [BM] <author> Boyer, R. S., and Moore, J. S. </author> <year> (1977), </year> <title> A fast string searching algorithm, </title> <journal> Comm. ACM 20, </journal> <pages> 762-772. </pages>
+Reference: [C] <author> Crochemore, M., String-Matching and Periods, </author> <note> In Bulletin of EATCS, </note> <month> October </month> <year> 1989. </year>
+Reference: [CP] <author> Crochemore, M. and Perrin, D. </author> <year> (1989), </year> <title> Two way pattern matching, </title> <journal> JACM, </journal> <note> to appear. </note>
+Reference: [FRW] <author> Fich, F. E., Ragde, R. L., and Wigderson, A. </author> <year> (1984), </year> <title> Relations between concurrent-write models of parallel computation, </title> <booktitle> Proc. 3rd ACM Symp. on Principles of Distributed Computing, </booktitle> <pages> 179-189. </pages>
+Reference: [G] <author> Galil, Z. </author> <year> (1985), </year> <title> Optimal parallel algorithms for string matching, </title> <booktitle> Information and Control 67, </booktitle> <pages> 144-157. </pages>
+Reference: [GS80] <author> Galil, Z., Seiferas, J. </author> <year> (1980), </year> <title> Saving space in fast string-matching, </title> <journal> SIAM J. on Comput. </journal> <volume> 2, </volume> <pages> 417-438. </pages>
+Reference: [GS83] <author> Galil, Z., Seiferas, J. </author> <year> (1983), </year> <title> Time-space-optimal string matching, </title> <journal> J. Comput. Syst. Sci. </journal> <volume> 26, </volume> <pages> 280-294. </pages>
+
+References-found: 10
+

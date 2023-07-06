@@ -1,0 +1,23 @@
+URL: ftp://dimacs.rutgers.edu/pub/dimacs/TechnicalReports/TechReports/1997/97-67.ps.gz
+Refering-URL: http://dimacs.rutgers.edu/TechnicalReports/1997.html
+Root-URL: http://www.cs.rutgers.edu
+Title: by  
+Author: Larry Shepp 
+Keyword: Linear Programming in Tomography, Probability, and Finance  
+Address: New Brunswick, New Jersey  
+Affiliation: Rutgers University,  
+Date: August, 1997  
+Note: A contribution to the Second Conference on Discrete Tomography Szeged,  DIMACS is a partnership of Rutgers University, Princeton University, AT&T Labs, Bellcore, and Bell Labs. DIMACS is an NSF Science and Technology Center, funded under contract STC-91-19999; and also receives support from the New Jersey Commission on Science and Technology.  
+Abstract: DIMACS Technical Report 97-67 October 1997 
+Abstract-found: 1
+Intro-found: 1
+Reference: [GKRS] <author> Sam Gutmann J. H. B. Kemperman J. A. Reeds L. A. </author> <title> Shepp Existence of Probability Measures with Given Marginals Annals of Probability volume 19, </title> <type> 1781-1797, </type> <year> 1991 </year>
+Reference-contexts: Suppose 0 &lt; f &lt; 1 everywhere and L is now the set of all lines with any one of n given slopes. Is there a g (x; y) = 0 or 1 everywhere with P g (L) P f (L); L 2 L? The answer is yes, cf <ref> [GKRS] </ref>, since the set, C = fg; 0 g (x; y) 1; supp (g) supp (f)g is convex and compact in the weak-star topology. Thus C has extreme points. It can be shown, though it is not so easy, [GKRS], that no function g, for which f (x; y) : 0 <p> P f (L); L 2 L? The answer is yes, cf <ref> [GKRS] </ref>, since the set, C = fg; 0 g (x; y) 1; supp (g) supp (f)g is convex and compact in the weak-star topology. Thus C has extreme points. It can be shown, though it is not so easy, [GKRS], that no function g, for which f (x; y) : 0 &lt; g (x; y) &lt; 1g has positive Lebesgue measure can be an extreme point. qed NB. This result does not of course imply that CAT scanning is a fraud.
+Reference: [KK] <institution> L.Khalfin L.Klebanov A Solution of the Computer Tomography Paradox and Estimating the Distances Between the Densities of Measures with the Same Marginals Annals of Probability volume 22, </institution> <month> 2235-2241, </month> <year> 1994 </year>
+Reference-contexts: But if one smooths f and g with the same fat test function (such as the indicator of a pixel) then one gets essentially the same image, cf. <ref> [KK] </ref> How is this relevant to discrete tomography? In discrete tomography, we have only say 3 or 4 projection directions and we know the line sums, -S (L) -S (L) = z2L S (z) of the unknown set S along each line, L, in any of the few directions.
+Reference: [FSSV] <author> Peter Fishburn, Peter Schwander, Larry Shepp, </author> <title> Robert L Vanderbei The Discrete Radon Transform and its Approximate Inversion via Linear programming Discrete Applied Mathematics, </title> <note> 1997, to appear </note>
+Reference-contexts: Of course we are not reconstructing S here, only a fuzzy approximation to S. But this may be very useful, and we have applied for a patent on it. Examples of the reconstruction of simulated sets in two dimensions have been given, <ref> [FSSV] </ref>. These indicate that linear programming provides a useful algorithmic approach even though it is not a formula-based inversion procedure. 1 Note that noise in the data might be handled without much additional difficulty via linear programming as follows. <p> But I thought we wanted a set not a fuzzy set? This is true; we changed the problem to one we could solve! The examples in the simulations of <ref> [FSSV] </ref> include one where we do not know whether there is a unique set in C; perhaps examples could even be found of reasonable looking sets where there is no set in C, but there is a fuzzy set, ie C is not empty, if the noise is right, so this
+Reference: [KS] <author> J. B. Kruskal and L. A. </author> <title> Shepp Computerized Tomography: </title> <journal> The New Medical X-Ray Technology Amer. Math. </journal> <volume> Monthly volume 85, </volume> <pages> 420-439, </pages> <year> 1978 </year>
+Reference-contexts: Section 1. A Review of Discrete Tomography In continuous tomography, one measures the line integrals, P f (L) = R known function, f = f (x; y), for L 2 L, where L is a collection of lines, using an X-ray source and a detector, <ref> [KS] </ref>. We always assume f has compact support, and may also assume, via a choice of units, that 0 f (x; y) 1. We begin by two remarks about the continuous case which will be relevant for our discrete analog. Remark 1.
+References-found: 4
+

@@ -1,0 +1,19 @@
+URL: http://www.physics.arizona.edu/~mcguire/vietri.ps.gz
+Refering-URL: http://www.physics.arizona.edu/~mcguire/cv.html
+Root-URL: http://www.cs.arizona.edu
+Title: Training Random Asymmetric `Neural' Networks Towards Chaos A Progress Report  
+Author: P. C. McGuire, G. C. Littlewort C. Pershing and J. Rafelski 
+Address: Tucson, AZ 85721  
+Affiliation: Department of Physics University of Arizona  
+Abstract: We explore a non-Hebbian plasticity algorithm for a random asymmetric 'neural' network in synchronous, discrete time, which causes the period of the network's inherent limit cycles to quickly diverge with the plasticity parameter. The limit cycle period has a strong peak as we increase the neural units' thresholds from normal thresholds. It is much easier to increase the limit cycle period by the plasticity algorithm, when the memory of the accumulating signal of the fields at the non-firing units is non-zero.
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Clark J.W., Rafelski J. and Winston J.V. </author> , <title> Phys. </title> <type> Rep. </type> <year> 1985; </year> <month> 123 </month> <pages> 215-273 </pages>
+Reference-contexts: Such a network either needs to have competing plasticity algorithms, or needs to have a complex architecture, in order to maintain both the ability to correlate, and to decor-relate. In the spirit of the former choice, we investigate a non-Hebbian algorithm, which we call brainwashing <ref> [1] </ref>, for the de-correlating algorithm, which might be complemented by Hebbian algorithm for the competing correlating algorithm. We present some results of simulations of random (without initial architecture) asymmetric networks, which show how strong correlations can quickly and systematically be eliminated, giving rise to extraordinary long period oscillations. <p> The same result is seen for longer cycles and more brainwashing. Another interesting change is the reduction of 2 to a value O (2-3), which suggests that the Gaussian component in the correlation dominates the distribution. 6 Conclusions The brainwashing algorithm was designed <ref> [1] </ref> to discourage steady states and short cycles, and to decorrelate the firing activity of the units in a recurrent network.
+Reference: [2] <institution> Kurten K.E., Phys. Let. </institution> <year> 1988; </year> <month> A129:157-160 </month>
+Reference-contexts: We believe, as implemented here that such a network needs to be an asymmetric network, since symmetric networks have shown little interesting temporal behavior. The decorrelating algorithm is a robust unsupervised unlearning procedure which produces networks with nearly chaotic behavior <ref> [2, 3] </ref>. The unlearning procedure depends on local information in space and time, and only requires sufficient 1 Present Address: Cognitive Science, UCSD, La Jolla, CA 92093-0515 1 mean activity to operate effectively.
+Reference: [3] <author> Sompolinsky H., Crisanti A. </author> <title> and Sommers H.J., </title> <journal> Phys. Rev. Let. </journal> <volume> 1988; 61 </volume> <pages> 259-262 </pages>
+Reference-contexts: We believe, as implemented here that such a network needs to be an asymmetric network, since symmetric networks have shown little interesting temporal behavior. The decorrelating algorithm is a robust unsupervised unlearning procedure which produces networks with nearly chaotic behavior <ref> [2, 3] </ref>. The unlearning procedure depends on local information in space and time, and only requires sufficient 1 Present Address: Cognitive Science, UCSD, La Jolla, CA 92093-0515 1 mean activity to operate effectively.
+
+References-found: 3
+

@@ -1,0 +1,28 @@
+URL: http://www.icsi.berkeley.edu/ftp/global/pub/ai/ethem/vq-em.ps.Z
+Refering-URL: http://www.icsi.berkeley.edu/ftp/global/pub/ai/ethem/
+Root-URL: http://www.icsi.berkeley.edu
+Email: Email: alpaydin@boun.edu.tr  
+Phone: Phone: 90 (212) 263-1540 1862 Fax: ++90 (212) 287-2461  
+Title: Soft Vector Quantization and the EM Algorithm Running Title: Soft Vector Quantization and EM Section:
+Author: Ethem Alpaydn Mike Jordan and Zoubin Ghahramani 
+Note: To appear in Neural Networks. This work is supported by Tubitak Grant EEEAG-143 and Bogazi~ci University Research Funds 95HA0108. Thanks to  for stimulating discussions on Gaussian mixtures and the EM algorithm. In particular, it was Mike Jordan who pointed out the advantage of coupled learning over the uncoupled version. Thanks also to the anonymous  
+Date: September 15, 1997  
+Address: TR-80815 Istanbul Turkey  
+Affiliation: Department of Computer Engineering Bogazi~ci University  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> Alpaydn, E., & Jordan, M. I. </author> <year> (1996). </year> <title> Local linear perceptrons for classification, </title> <journal> IEEE Transactions on Neural Networks, </journal> <volume> 7, </volume> <pages> 788-792. </pages>
+Reference: [2] <author> Bezdek, J. C., & Pal, N. R. </author> <year> (1995). </year> <title> Two soft relatives of learning vector quantization, </title> <booktitle> Neural Networks, </booktitle> <volume> 8, </volume> <pages> 729-743. </pages>
+Reference: [3] <author> Bishop, C. M., Svensen, M., & Williams, C. K. I. </author> <year> (1997). </year> <title> GTM: A principled alternative to the self-organizing map. </title> <editor> In M. C. Mozer, M. I. Jordan, & T. Petsche (Eds.), </editor> <booktitle> Advances in neural information processing systems 9, </booktitle> <address> Cambridge, MA: </address> <publisher> MIT Press. </publisher>
+Reference: [4] <author> Dempster, A. P., Laird, N. M., & Rubin, D. B. </author> <year> (1977). </year> <title> Maximum likelihood from incomplete data via the EM algorithm, </title> <journal> Journal of Royal Statistical Society Series B, </journal> <volume> 39, </volume> <pages> 1-38. </pages>
+Reference: [5] <author> Duda, R. O., & Hart, P. E. </author> <year> (1973). </year> <title> Pattern classification and scene analysis, </title> <address> New York: </address> <publisher> Wiley. </publisher>
+Reference: [6] <author> Jordan, M. I., & Xu, L. </author> <year> (1995). </year> <title> Convergence results for the EM approach to mixtures of experts architectures, </title> <booktitle> Neural Networks, </booktitle> <volume> 8, </volume> <pages> 1409-1431. </pages>
+Reference: [7] <author> Jou, C.-C. </author> <year> (1993). </year> <title> Comparing learning performance of neural networks and fuzzy systems. </title> <booktitle> In Proceedings of the IEEE international conference on neural networks, </booktitle> <volume> (Vol. 2, </volume> <pages> pp. 1028-1033). </pages>
+Reference: [8] <author> Kohonen, T. </author> <year> (1995). </year> <title> Self-organizing maps, </title> <publisher> Berlin: Springer. </publisher>
+Reference: [9] <author> Moody, J. & Darken, C. </author> <year> (1989). </year> <title> Fast learning in networks of locally tuned processing units, </title> <journal> Neural Computation, </journal> <volume> 1, </volume> <pages> 281-294. </pages>
+Reference: [10] <author> Ormoneit, D., & Tresp, V. </author> <year> (1996). </year> <title> Improved Gaussian mixture density estimates using Bayesian penalty terms and network averaging. </title> <editor> In D. S. Touretzky, M. C. Mozer, & M. E. Hasselmo (Eds.), </editor> <booktitle> Advances in neural information processing systems 8, </booktitle> <address> Cambridge, MA: </address> <publisher> MIT Press. </publisher>
+Reference: [11] <author> Redner, R. A., & Walker, H. F. </author> <year> (1984). </year> <title> Mixture densities, maximum likelihood and the EM algorithm, </title> <journal> SIAM Review, </journal> <volume> 26, </volume> <pages> 195-239. </pages>
+Reference: [12] <author> Xu, L., & Jordan, M. I. </author> <year> (1996). </year> <title> On convergence properties of the EM algorithm for Gaussian mixtures, </title> <journal> Neural Computation, </journal> <volume> 8, </volume> <pages> 129-151. </pages>
+
+References-found: 12
+

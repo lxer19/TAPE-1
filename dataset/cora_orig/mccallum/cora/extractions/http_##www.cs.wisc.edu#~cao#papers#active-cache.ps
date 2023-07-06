@@ -1,0 +1,26 @@
+URL: http://www.cs.wisc.edu/~cao/papers/active-cache.ps
+Refering-URL: http://www.cs.wisc.edu/~cao/papers/active-cache.html
+Root-URL: http://www.cs.wisc.edu
+Email: fcao,zj,kbeachg@cs.wisc.edu  
+Title: Active Cache: Caching Dynamic Contents on the Web  
+Author: Pei Cao, Jin Zhang and Kevin Beach 
+Keyword: World-Wide Web, caching, scalability, Java applets, network security  
+Address: 1210 West Dayton Street Madison, WI 53705, USA  
+Affiliation: Computer Sciences Department University of Wisconsin-Madison  
+Abstract: Dynamic documents constitute an increasing percentage of contents on the Web, and caching dynamic documents becomes an increasingly important issue that affects the scalability of the Web. In this paper, we propose the Active Cache scheme to support caching of dynamic contents at Web proxies. The scheme allows servers to supply cache applets to be attached with documents, and requires proxies to invoke cache applets upon cache hits to furnish the necessary processing without contacting the server. We describe the protocol, interface and security mechanisms of the Active Cache scheme, and illustrate its use via several examples. Through prototype implementation and performance measurements, we show that Active Cache is a feasible scheme that can result in significant network bandwidth savings at the expense of moderate CPU costs. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Ramon Caceres, Fred Douglis, Anja Feldmann, Gideon Glass, and Michael Rabinovich. </author> <title> Web proxy caching: The devil is in the details. </title> <booktitle> In Proceedings of 1998 SIGMETRICS Internet Server Performance Workshop, </booktitle> <month> June </month> <year> 1998. </year> <note> http://www.research.att.com/ misha/. </note>
+Reference-contexts: Compared with servalets, cache applets run at proxy sites as guests and face many resource constraints. There are many studies on Web proxy caching. However, few have addressed the caching of dynamic contents. Robinovich et al have proposed macro-encoded HTML documents that are expanded at the browser site <ref> [1] </ref>. The work is similar to ours in the sense that both try to move the work away from the server. Indeed, a cache applet can easily implement the processing for macro-encoded documents.
+Reference: [2] <author> Pei Cao and Sandy Irani. </author> <title> Cost-aware WWW proxy caching algorithms. </title> <booktitle> In Proceedings of the 1997 USENIX Symposium on Internet Technology and Systems, </booktitle> <month> December </month> <year> 1997. </year>
+Reference: [3] <institution> National Lab for Applied Network Research. Icp working group. </institution> <note> http://ircache.nlanr.net/Cache/ICP/, 1998. </note>
+Reference: [4] <author> Javasoft Inc. </author> <title> Java applets, servlets and the jar guide. </title> <note> http://www.javasoft.com/products/, 1997. </note>
+Reference-contexts: The evolution of Java as a mature language for mobile code makes the scheme possible. Cache applets are similar to regular browser applets and servlets <ref> [4] </ref>. Compared with regular browser applets, cache applets have a simple, uniform security interface, which greatly simplifies the security problem. Compared with servalets, cache applets run at proxy sites as guests and face many resource constraints. There are many studies on Web proxy caching.
+Reference: [5] <author> Netscape Inc. </author> <title> Generating dynamic html documents. </title> <note> http://www.netscapeworld.com/nw-05-1997/nw-05-clue.html, 1997. </note>
+Reference: [6] <author> A. Luotonen, H. Frystyk, and T. Berners-Lee. </author> <title> CERN HTTPD public domain full-featured hypertext/proxy server with caching. </title> <type> Technical report, </type> <note> Available from http://www.w3.org/hypertext/WWW/ Daemon/Status.html, </note> <year> 1994. </year>
+Reference: [7] <author> Carlos Maltzahn, Kathy Richardson, and Dirk Grunwald. </author> <title> Performance issues of enterprise level web proxies. </title> <booktitle> In Proceedings of the 1997 ACM SIGMET-RICS International Conference on Measurement and Modelling of Computer Systems, </booktitle> <pages> pages 1323, </pages> <month> June </month> <year> 1997. </year>
+Reference: [8] <author> Jeffrey C. Mogul, Fred Douglis, Anja Feldmann, and Balachander Krish-namurthy. </author> <title> Potential benefits of delta encoding and data compression for http. In Proceedings of ACM SIGCOMM'97, </title> <month> August </month> <year> 1997. </year> <note> Available from http://www.research.att.com/ douglis/. </note>
+Reference: [9] <author> Gene Trent and Mark Sake. WebSTONE: </author> <title> The first generation in HTTP server benchmarking. </title> <type> Technical report, </type> <institution> MTS, Silicon Graphics Inc., </institution> <month> February </month> <year> 1995. </year> <note> available from http://www-europe.sgi.com/TEXT/ Products/WebFORCE/WebStone/paper.html. </note>
+
+References-found: 9
+

@@ -1,0 +1,29 @@
+URL: ftp://dimacs.rutgers.edu/pub/dimacs/TechnicalReports/TechReports/1996/96-38.ps.gz
+Refering-URL: http://dimacs.rutgers.edu/TechnicalReports/1996.html
+Root-URL: http://www.cs.rutgers.edu
+Title: How good are branching rules in DPLL?  
+Author: by Ming Ouyang 
+Note: DIMACS is a partnership of Rutgers University, Princeton University, AT&T Research, Bellcore, and Bell Laboratories. DIMACS is an NSF Science and Technology Center, funded under contract STC-91-19999; and also receives support from the New Jersey Commission on Science and Technology.  
+Address: New Brunswick, New Jersey 08903  
+Affiliation: Department of Computer Science Rutgers University  
+Abstract: DIMACS Technical Report 96-38 September 1996 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> M. Davis, G. Logemann, and D. Loveland, </author> <title> "A Machine Program for Theorem-Proving", </title> <editor> C. </editor> <booktitle> ACM 5 (1962), </booktitle> <pages> 394-397. </pages>
+Reference-contexts: Hence F is satisfiable if and only if F ju is satisfiable. These observations are the backbone of an algorithm for solving SAT, designed by Davis, Logemann, and Loveland <ref> [1] </ref> and evolved from an earlier proposal by Davis and Putnam [2]: see Figure 1. 3 Branching rules Each recursive call of DPLL may involve a choice of a literal u; algorithms for making these choices are referred to as branching rules.
+Reference: [2] <author> M. Davis and H. Putnam, </author> <title> "A computing procedure for quantification theory", </title> <editor> J. </editor> <booktitle> ACM 7 (1960), </booktitle> <pages> 201-215. </pages> <note> [3] http://dimacs.rutgers.edu/Challenges/index.html </note>
+Reference-contexts: Hence F is satisfiable if and only if F ju is satisfiable. These observations are the backbone of an algorithm for solving SAT, designed by Davis, Logemann, and Loveland [1] and evolved from an earlier proposal by Davis and Putnam <ref> [2] </ref>: see Figure 1. 3 Branching rules Each recursive call of DPLL may involve a choice of a literal u; algorithms for making these choices are referred to as branching rules.
+Reference: [4] <author> O. Dubois, </author> <title> "On the r; s-SAT Satisfiability Problem and a Conjecture of Tovey", </title> <booktitle> Discrete Applied Mathematics 26 (1990), </booktitle> <pages> 51-60. </pages>
+Reference: [5] <author> O. Dubois, P. Andre, Y. Boufkhad, and J. Carlier, </author> <title> "SAT versus UNSAT", </title> <journal> American Mathematical Society DIMACS Volume Series 26, </journal> <note> to appear. </note>
+Reference-contexts: Van Gelder and Tsuji [10] proposed another variation (vGT): among all the literals u such that w (F ; u) w (F ; u), choose one that maximizes w (F ; u) fl w (F ; u). Dubois, Andre, Boufkhad, and Carlier <ref> [5] </ref> developed a program called C-SAT, which was shown to be one of the most efficient programs in solving the formulas from the DIMACS benchmarks [3]. Their branching rule (C-SAT) is as follows.
+Reference: [6] <author> J. N. Hooker and V. Vinay, </author> <title> "Branching rules for satisfiability", </title> <editor> J. </editor> <booktitle> of Automated Reasoning 15 (1995), </booktitle> <pages> 359-383. </pages>
+Reference-contexts: are more important than longer ones and, specifically, that clauses of length k are twice as important as clauses of length k + 1. (The idea of progressively halving the weighting factors was used by Johnson [8] some fifteen years earlier in an approximation algorithm for MAX-SAT.) Hooker and Vinay <ref> [6] </ref> proposed a variation (HV) on JW, which they called "two-sided Jeroslow-Wang rule": among all the literals u such that w (F ; u) w (F ; u), choose one that maximizes w (F ; u) + w (F ; u).
+Reference: [7] <author> R. G. Jeroslow and J. Wang, </author> <title> "Solving Propositional Satisfiability Problems", </title> <booktitle> Annals of Mathematics and Artificial Intelligence 1 (1990), </booktitle> <pages> 167-187. </pages>
+Reference-contexts: One branching rule that does not disregard the structure of the formula from which u is to be chosen has been proposed by Jeroslow and Wang <ref> [7] </ref>; it goes as follows. Let d k (F ; u) be the number of clauses of length k in F which contain u.
+Reference: [8] <author> D. S. Johnson, </author> <title> "Approximation Algorithms for Combinatorial Problems", </title> <editor> J. </editor> <booktitle> Computer and System Sciences 9 (1974), </booktitle> <pages> 256-278. - 6 </pages> - 
+Reference-contexts: This branching rule is based on the intuition that shorter clauses are more important than longer ones and, specifically, that clauses of length k are twice as important as clauses of length k + 1. (The idea of progressively halving the weighting factors was used by Johnson <ref> [8] </ref> some fifteen years earlier in an approximation algorithm for MAX-SAT.) Hooker and Vinay [6] proposed a variation (HV) on JW, which they called "two-sided Jeroslow-Wang rule": among all the literals u such that w (F ; u) w (F ; u), choose one that maximizes w (F ; u) +
+Reference: [9] <author> D. W. Loveland, </author> <title> Automated Theorem Proving: A Logical Basis, </title> <publisher> North-Holland, </publisher> <address> Ams-terdam, </address> <year> 1978. </year>
+Reference: [10] <author> A. van Gelder and Y. K. Tsuji, </author> <title> "Satisfiability Testing with More Reasoning and Less Guessing", </title> <journal> American Mathematical Society DIMACS Volume Series 26, </journal> <note> to appear. </note>
+Reference-contexts: Van Gelder and Tsuji <ref> [10] </ref> proposed another variation (vGT): among all the literals u such that w (F ; u) w (F ; u), choose one that maximizes w (F ; u) fl w (F ; u).
+References-found: 9
+

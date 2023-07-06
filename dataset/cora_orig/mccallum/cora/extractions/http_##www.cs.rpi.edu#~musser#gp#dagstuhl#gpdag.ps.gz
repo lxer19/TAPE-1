@@ -1,0 +1,16 @@
+URL: http://www.cs.rpi.edu/~musser/gp/dagstuhl/gpdag.ps.gz
+Refering-URL: http://www.cs.rpi.edu/~musser/gp/dagstuhl/
+Root-URL: http://www.cs.rpi.edu
+Phone: 1  
+Title: Generic Programming form for distribution to the participants and for availability on request lectures, problem
+Web: http://www.cs.rpi.edu/~musser/gp/dagstuhl/gpdag.html  http://www.cs.rpi.edu/~musser/gp/pop  
+Date: updated: August 25, 1998  
+Note: Followup to a Dagstuhl Seminar Held April 27|May 1, 1998 Schlo Dagstuhl, Wadern, Germany Last  A collection of abstracts of all of the lectures, made publicly available via this web site. (As usual the abstracts are also being printed in booklet  from the Dagstuhl office.) Plans for a proceedings volume of papers submitted after the seminar that present (possibly extended) discussions of the topics covered in the  Contents 2 Motivation 2 3 Participants 3 4 Standards Panel 4 The most up to date version of this information will be found at  
+Abstract: A Dagstuhl Seminar on the topic of Generic Programming was held April 27| May 1, 1998, with forty seven participants from ten countries. During the meeting there were thirty seven lectures, a panel session, and several problem sessions. The outcomes of the meeting include * A list of generic programming projects and open problems, 1 which will be maintained publicly on the World Web Web. Additions, clarifications, and progress reports from all interested parties (not just the Dagstuhl seminar participants) are encouraged! The list will also be included in some form in the proceedings volume as it exists at the time the volume is finalized. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> B. W. Weide, W. F. Odgen, and M. Sitaraman, </author> <title> "Recasting Algorithms to Encourage Reuse," </title> <journal> IEEE Software, </journal> <volume> Vol. 11, No. 5, </volume> <month> September </month> <year> 1994, </year> <pages> 80-88. </pages>
+Reference: <author> S. Sreerama, D. Fleming, and M. Sitaraman, </author> <title> "Graceful Object-Based Performance Evolution," </title> <journal> Software Practice and Experience, </journal> <volume> Vol. 27, No. 1, </volume> <month> January </month> <year> 1997, </year> <pages> 111-122. </pages>
+
+References-found: 2
+

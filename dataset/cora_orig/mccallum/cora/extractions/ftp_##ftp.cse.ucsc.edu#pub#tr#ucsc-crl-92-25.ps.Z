@@ -1,0 +1,32 @@
+URL: ftp://ftp.cse.ucsc.edu/pub/tr/ucsc-crl-92-25.ps.Z
+Refering-URL: ftp://ftp.cse.ucsc.edu/pub/tr/README.html
+Root-URL: http://www.cse.ucsc.edu
+Title: Producing an Accurate Call-Stack Trace in the Occasional Absence of Frame Pointers  
+Author: Max Copperman 
+Keyword: Categories and Subject Descriptors: D.2.5 [Software Engineering]: Testing and Debugging debugging aids; D.2.6 [Software Engineering]: Programming Environments; D.3.4 [Programming Languages]: Processors code generation, compilers, optimization General Terms: Algorithms, Languages Additional Keywords and Phrases: debugging, compiler optimization, call-stack trace, run-time stack  
+Address: Santa Cruz, CA 95064  
+Affiliation: Board of Studies in Computer and Information Sciences University of California at Santa Cruz  
+Date: March 1992  
+Pubnum: UCSC-CRL-92-25 Supersedes UCSC-CRL-90-62  
+Abstract: An interactive debugger should be able to provide a call-stack trace, listing active subroutines in reverse order of their invocations. This facility relies on information provided by code within each called routine. This paper describes alternative ways to support this facility in the circumstance that this code is optimized away. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <institution> References </institution>
+Reference: [CM91] <author> M. Copperman, C. E. McDowell, </author> <title> "Debugging Optimized Code Without Surprises," </title> <booktitle> Proceedings of the Supercomputer Debugging Workshop , Albuquerque, </booktitle> <month> November </month> <year> 1991. </year>
+Reference: [Cop90] <author> M. Copperman, </author> <title> "Source-Level Debugging of Optimized Code: Detecting Unexpected Data Values," </title> <institution> University of California, Santa Cruz technical report UCSC-CRL-90-23, </institution> <month> May </month> <year> 1990. </year>
+Reference: [Cor91] <author> Steve Correll, </author> <title> personal communication, </title> <booktitle> Borland International, </booktitle> <address> Scotts Valley, CA, </address> <month> April </month> <year> 1991 </year>
+Reference-contexts: However, in some architectures, such as Mips, the stack pointer is not used in this manner, and this approach is taken <ref> [Cor91] </ref>. 12 4.
+Reference: [CMR88] <author> D. Coutant, S. Meloy, M. </author> <title> Ruscetta "DOC: a Practical Approach to Source-Level Debugging of Globally Optimized Code," </title> <booktitle> Proceedings of the SIGPLAN `88 Conference on Programming Language Design and Implementation, </booktitle> <pages> pp. 125-134, </pages> <year> 1988. </year>
+Reference: [FM80] <author> P. H. Feiler, R. Medina-Mora, </author> <title> "An Incremental Programming Environment," </title> <institution> Carnegie Mellon University Computer Science Department Report, </institution> <month> April </month> <year> 1980. </year>
+Reference: [Hen82] <author> J. Hennessy, </author> <title> "Symbolic Debugging of Optimized Code," </title> <journal> ACM Transactions on Programming Languages and Systems, </journal> <volume> Vol. 4, No. 3, </volume> <pages> pp. 323-344, </pages> <year> 1982. </year>
+Reference: [PS88] <author> L. L. Pollack, M. L. Soffa, </author> <title> "High Level Debugging with the Aid of an Incremental Optimizer," </title> <booktitle> Hawaii International Conference on System Sciences, </booktitle> <month> January </month> <year> 1988. </year>
+Reference: [PS92] <author> L. L. Pollack, M. L. Soffa, </author> <title> "Incremental Global Reoptimization of Programs," </title> <institution> Draft from Department of Computer Science, University of Pittsburgh, </institution> <month> May </month> <year> 1991. </year> <note> To appear in ACM Transactions on Programming Languages and Systems in 1992. </note>
+Reference: [Str91] <author> L. Streepy, </author> <title> "CXdb A New View On Optimization," </title> <booktitle> Proceedings of the Supercomputer Debugging Workshop , Albuquerque, </booktitle> <month> November </month> <year> 1991. </year>
+Reference: [WS78] <author> H. S. Warren, Jr., H. P. Schlaeppi, </author> <title> "Design of the FDS interactive debugging system," </title> <institution> IBM Research Report RC7214, IBM Yorktown Heights, </institution> <month> July </month> <year> 1978. </year>
+Reference: [Ze83a] <author> P. Zellweger, </author> <title> "Interactive Source-Level Debugging of Optimized Programs," </title> <institution> Research Report CSL-83-1 , Xerox Palo Alto Research Center, </institution> <address> Palo Alto, CA, </address> <month> Jan. </month> <year> 1983. </year>
+Reference: [Ze83b] <author> P. Zellweger, </author> <title> "An Interactive High-Level Debugger for Control-Flow Optimized Programs," </title> <journal> SIGPLAN Notices, </journal> <volume> Vol. 18, No. 8, </volume> <pages> pp. </pages> <month> 159-172 Aug. </month> <year> 1983. </year>
+Reference: [Zel84] <author> P. Zellweger, </author> <title> "Interactive Source-Level Debugging of Optimized Programs," </title> <institution> Research Report CSL-84-5, Xerox Palo Alto Research Center, </institution> <address> Palo Alto, CA, </address> <month> May </month> <year> 1984. </year>
+Reference-contexts: Subsequently, only providing a correct call-stack trace is discussed. In particular, we do not further discuss the display of local variables. This problem has not been not discussed in the literature. <ref> [Zel84] </ref> provides a solution to the problem of providing a correct call-stack trace in the presence of procedure integration (inlining).
+Reference: [ZJ90] <author> L. W. Zurawski, R. E. Johnson, </author> <title> "Debugging Optimized Code With Expected Behavior," </title> <institution> Unpublished draft from University of Illinois at Urbana-Champaign Department of Computer Science, </institution> <month> August </month> <year> 1990. </year>
+References-found: 15
+

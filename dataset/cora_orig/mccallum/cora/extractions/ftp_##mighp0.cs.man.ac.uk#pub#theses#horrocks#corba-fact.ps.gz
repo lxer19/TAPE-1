@@ -1,0 +1,21 @@
+URL: ftp://mighp0.cs.man.ac.uk/pub/theses/horrocks/corba-fact.ps.gz
+Refering-URL: http://www.cs.man.ac.uk/~horrocks/Camelot/corba.html
+Root-URL: http://www.cs.man.ac.uk
+Title: A Proposal for a Description Logic Interface use of the Lisp implementations by non-Lisp client
+Author: Sean Bechhofer Ian Horrocks Peter F. Patel-Schneider and Sergio Tessaris 
+Keyword: A CORBA Server for DL Systems  
+Note: It facilitates the  
+Affiliation: University of Manchester Bell Labs Research  
+Abstract: Most description logic (DL) systems present the application programmer with a functional interface, often defined using a Lisp-like syntax. Such interfaces may be more or less complex, depending on the sophistication of the implemented system, and may be more or less compliant with the KRSS description logic specification [7]. The Lisp style of the KRSS syntax reflects the fact that Lisp is still the most common implementation language for DLs. This can create considerable barriers to the use of DL systems by application developers, who often prefer other languages (in particular the currently ubiquitous Java), and who are becoming more accustomed to component based software development environments. In such an environment, a DL might naturally be viewed as a self contained component, the details of whose implementation, and even the precise location in which its code is being executed, is hidden from the application [2]. This approach has several advantages: the issue of implementation language is finessed; the API can be defined in some standard formalism intended for the purpose; a mechanism is provided for applications to communicate with the DL system, either locally or remotely; and alternative DL components can be substituted without affecting the application. We have used the Object Management Group's (OMG) Common Object Request Broker Architecture (CORBA) [5] to build a generic DL server, to be used initially with both the FaCT and iFaCT systems [4]. CORBA was chosen because it is not tied to any particular language or platform. In particular, CORBA can be used with both Lisp and Java running on both Unix and Microsoft platforms. The CORBA solution has all the advantages mentioned above. 
+Abstract-found: 1
+Intro-found: 0
+Reference: [1] <author> P. G. Baker, A. Brass, S. Bechhofer, C. Goble, N. Paton, and R. Stevens. Tambis: </author> <title> Transparent access to multiple bioinformatics information sources: an overview. </title> <booktitle> In Proceedings of ISMB98, </booktitle> <year> 1998. </year>
+Reference: [2] <author> S. K. Bechhofer, C. A. Goble, A. L. Rector, W. D. Solomon, and W. A. Nowlan. </author> <title> Terminologies and Terminology Servers for Information Environments. </title> <booktitle> In Proceedings of STEP97, </booktitle> <pages> pages 484497, </pages> <address> 1997. </address> <publisher> IEEE Computer Society. </publisher>
+Reference: [3] <author> I. Horrocks. </author> <title> Optimising Tableaux Decision Procedures for Description Logics. </title> <type> PhD thesis, </type> <institution> University of Manchester, </institution> <year> 1997. </year>
+Reference: [4] <author> I. Horrocks. FaCT and iFaCT. </author> <note> In Proceedings of DL'99, to appear. </note>
+Reference: [5] <author> The Object Management Group. </author> <title> The Common Object Request Broker: Architecture and Specification, </title> <year> 1998. </year>
+Reference: [6] <author> P. F. Patel-Schneider. </author> <title> DLP system description. </title> <booktitle> In Collected Papers from (DL'98), </booktitle> <pages> pages 8789. </pages> <address> CEUR, </address> <year> 1998. </year>
+Reference: [7] <author> P. F. Patel-Schneider and B. Swartout. </author> <title> Description logic specification from the KRSS effort, </title> <month> June </month> <year> 1993. </year>
+Reference: [8] <institution> Extensible markup language (XML) 1.0. </institution> <note> W3C Recommendation TR REC-xml-19980210, February 1998. </note> <editor> Editors T. Bray, J. Paoli, C. M. Sperberg-McQueen. </editor> <volume> 5 </volume>
+References-found: 8
+

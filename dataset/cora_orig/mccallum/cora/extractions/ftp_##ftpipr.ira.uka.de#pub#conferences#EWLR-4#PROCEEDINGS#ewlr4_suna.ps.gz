@@ -1,0 +1,24 @@
+URL: ftp://ftpipr.ira.uka.de/pub/conferences/EWLR-4/PROCEEDINGS/ewlr4_suna.ps.gz
+Refering-URL: http://wwwipr.ira.uka.de/~kaiser/events/ewlr4program.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Email: e-mail: suna@fzi.de  
+Title: NeuroPipe a neural network based system for pipeline inspec-  
+Author: tion Robert Suna, Karsten Berns 
+Keyword: Key Words. Neural network, interactive learning process, hybrid pattern recognition  
+Address: Haid-und-Neu-Str. 10-14, 76131 Karlsruhe, Germany  
+Affiliation: Research center for computer science at the University of Karlsruhe  
+Abstract: Gas, oil and other pipelines need to be inspected for corrosion and other defects at regular intervals. For this application Pipetronix GmbH (PTX) Karlsruhe has developed a special ultrasonic based probe. Based on the recorded wall thicknesses of this so called pipe pig the Research center for computer science (FZI) has developed in cooperation with PTX an automatic inspection system called NeuroPipe. NeuroPipe has the task to detect defects like metal loss. The kernel of this inspection tool is a neural classifier which was trained using manually collected defect examples. The following paper focus on the aspects of successfull use of learning methods in an industrial application. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Kohonen, T. </author> <year> (1982). </year> <title> Self-organized formation of topologically correct feature maps. </title> <booktitle> Biological Cybernetics 43, </booktitle> <pages> 59-69. </pages>
+Reference-contexts: Pipetronix, however, required a high quality of classification. In order to improve the generalization of the network, the number of inputs was reduced to 41. This was done using a self organizing feature map (see <ref> (Kohonen, 1982) </ref>). Based on this feature description of the defect candidates five different networks are taught. Each of them is responsible for one defect class.
+Reference: <author> Moody, J. and Ch. </author> <month> Darken </month> <year> (1989). </year> <title> Fast learning in networks of locally-tuned processing units. </title> <booktitle> Neural Computation 1, </booktitle> <pages> 281-294. </pages>
+Reference: <author> Reilly, D., L. Cooper and C. </author> <month> Elbaum </month> <year> (1982). </year> <title> A neural model for category learning. </title> <booktitle> Biological Cybernetics 45, </booktitle> <pages> 35-41. </pages>
+Reference: <institution> Riedmiller, Martin (1992). Schnelle adaptive lernverfahren fr mehrschichtige feedforeward netzwerke -vergleich und weiterentwicklung-. </institution> <type> Master's thesis. </type> <institution> Universitt Karlsruhe. </institution>
+Reference: <author> Riedmiller, Martin and Heinrich Braun (1993). </author> <title> A direct adaptive method for faster backpropagation learning: The rprop algorithm. </title> <booktitle> In: International Conference on Neural Networks. The Institut of Electrical and Electronics Engineers. </booktitle> <address> San Francisco, USA. </address> <pages> pp. 586-591. </pages>
+Reference: <author> Suna, R., K. Berns and K. </author> <month> Germerdonk </month> <year> (1995). </year> <title> Pipeline-diagnosis with hybrid neural networks. In: Condition Monitoring and Diagnostic Engineering Management. Vol. </title> <type> 8. </type> <institution> Department of Mechanical Engineering, Queen's University, Kingston, </institution> <address> Ontario, Canada K7L3N6. </address>
+Reference-contexts: The program is designed that the classification of defects in the pipeline is as reliable as possible and generally conservative. In the next section the different parts of the system architecture of NeuroPipe is described. An exhaustive description can be found in <ref> (Suna et al., 1995) </ref>. The main part of this paper concentrates on the experience with the interactive learning process used to generate defect classifier.
+Reference: <author> Suna, R., K. Berns, K. Germerdonk and A.O. </author> <month> Barbian </month> <year> (1993). </year> <title> Pipeline diagnosis using backpropagation networks. </title> <booktitle> In: Neuro-Nimes. Nimes. </booktitle> <pages> pp. 351-358. </pages>
+Reference: <author> Suna, Robert (1994). </author> <title> Neuronale netze fur die klassifikation von defekten in pipelines. </title> <booktitle> In: CoWAN. </booktitle> <pages> pp. 84-94. </pages>
+References-found: 8
+

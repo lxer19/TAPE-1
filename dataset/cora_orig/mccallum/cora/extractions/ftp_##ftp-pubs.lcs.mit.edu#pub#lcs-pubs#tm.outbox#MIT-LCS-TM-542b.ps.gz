@@ -1,0 +1,20 @@
+URL: ftp://ftp-pubs.lcs.mit.edu/pub/lcs-pubs/tm.outbox/MIT-LCS-TM-542b.ps.gz
+Refering-URL: ftp://ftp-pubs.lcs.mit.edu/pub/lcs-pubs/listings/catatm.html
+Root-URL: 
+Title: Efficient Certificate Revocation new systems dismiss with traditional CRLs (Certificate Revocation Lists) and yield public-key
+Author: by Silvio Micali 
+Note: The  
+Date: March 22, 1996  
+Address: Cambridge, MASS 02139  
+Affiliation: Laboratory for Computer Science Massachusetts Institute of Technology  
+Abstract: We apply off-line/on-line signatures to provide an alternative solution to the problem of certificate revocation. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> S. Even, O. Goldreich, and S. Micali. </author> <title> On-Line/Off-line Digital Signing. </title> <booktitle> Proc. Crypto 89, </booktitle> <address> Santa Barbara, CA, </address> <month> August </month> <year> 1989. </year> <type> U.S. Patent No. </type> <institution> 5,016,274. </institution>
+Reference: [2] <author> O. Goldreich, S. Goldwasser, and S. Micali. </author> <title> How To Construct Random Functions. </title> <journal> J. of the ACM, </journal> <volume> Vol. 33, No. 4, </volume> <month> October </month> <year> 1986, </year> <pages> pp. 792-807. 9 </pages>
+Reference: [3] <author> R. Merkle. </author> <title> A Certified Digital Signature. </title> <booktitle> Proc. CRYPTO 89 (G. </booktitle> <editor> Brassard, editor), </editor> <publisher> Springer Verlag, </publisher> <year> 1990, </year> <pages> pp. 218-238. </pages>
+Reference: [4] <author> S. Micali. </author> <title> Enhanced Certificate Revocation System. </title> <note> Technical memo MIT/LCS/TM-542, </note> <month> November </month> <year> 1995. </year>
+Reference: [5] <institution> National Institute of Standards and Technology. Public-key Infrastructure Study. Gaithers-burgh, MD, </institution> <month> April </month> <year> 1994. </year>
+Reference: [6] <author> R. Rivest and A. Shamir. </author> <title> Pay Word and MicroMint: Two simple micropayment schemes. </title> <type> Unpublished manuscript, </type> <month> November 7, </month> <year> 1995. </year> <month> 10 </month>
+References-found: 6
+

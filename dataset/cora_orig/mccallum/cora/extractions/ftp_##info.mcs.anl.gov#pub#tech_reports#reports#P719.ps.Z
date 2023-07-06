@@ -1,0 +1,13 @@
+URL: ftp://info.mcs.anl.gov/pub/tech_reports/reports/P719.ps.Z
+Refering-URL: http://www.mcs.anl.gov/publications/abstracts/abstracts98.htm
+Root-URL: http://www.mcs.anl.gov
+Phone: 3  
+Title: A Fault Detection Service for Wide Area Distributed Computations  
+Author: Paul Stelling Ian Foster Carl Kesselman Craig Lee Gregor von Laszewski 
+Address: El Segundo, CA 90245-4691 Argonne  Argonne, IL 60439  Marina del Rey, CA 90292  
+Affiliation: 1 The Aerospace Corporation 2 Mathematics and Computer Science  National Laboratory  Information Sciences Institute University of Southern California  
+Abstract: The potential for faults in distributed computing systems is a significant complicating factor for application developers. While a variety of techniques exist for detecting and correcting faults, the implementation of these techniques in a particular context can be difficult. Hence, we propose a fault detection service designed to be incorporated, in a modular fashion, into distributed computing systems, tools, or applications. This service uses well-known techniques based on unreliable fault detectors to detect and report component failure, while allowing the user to tradeoff timeliness of reporting against false positive rates. We describe the architecture of this service, report on experimental results that quantify its cost and accuracy, and describe its use in two applications, monitoring the status of system components of the GUSTO computational grid testbed and as part of the NetSolve network-enabled numerical solver. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

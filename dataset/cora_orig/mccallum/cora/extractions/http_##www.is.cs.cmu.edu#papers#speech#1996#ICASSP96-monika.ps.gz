@@ -1,0 +1,17 @@
+URL: http://www.is.cs.cmu.edu/papers/speech/1996/ICASSP96-monika.ps.gz
+Refering-URL: http://www.is.cs.cmu.edu/ISL.speech.publications.html
+Root-URL: 
+Title: MINIMIZING SEARCH ERRORS DUE TO DELAYED BIGRAMS IN REAL-TIME SPEECH RECOGNITION SYSTEMS  
+Author: M.Woszczyna M.Finke 
+Address: Germany  
+Affiliation: INTERACTIVE SYSTEMS LABORATORIES at Carnegie Mellon University, USA and University of Karlsruhe,  
+Abstract: When building applications from large vocabulary speech recognition systems, a certain amount of search errors due to pruning often has to be accepted in order to obtain the required speed. In this paper we tackle the problems resulting from aggressive pruning strategies as typically applied in large vocabulary systems to achieve close to real-time performance. We consider a typical scenario of a two pass viterbi search with the first pass being organized as a phoneme (allophone) tree. For such a tree organized lexicon, there are two possiblities to use a bigram language model: either by building tree copies or by using so-called delayed bigrams. Since copying trees turns out to be too expensive for real time applications we basically refer to delayed bigrams, discuss their drastic influence on the word accuracy and show how to alleviate the desastrous effect of delayed bigrams under aggressive pruning. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> A.Waibel, M.Finke, D.Gates, M.Gavalda, T.Kemp, A.Lavie, L.Levin, M.Maier, L.Mayfield, A.McNair, I.Rogina, K.Shima, T.Sloboda, M.Woszczyna, T.Zeppenfeld, </author> <title> P.Zhan JANUS-II | Advances in Spontaneous Speech Translation ICASSP96; </title>
+Reference-contexts: In this paper we investigate the effects of using delayed bigrams in combination with real-time performance oriented and thus kind of aggressive pruning conditions on our JANUS speech recognition demo system <ref> [1] </ref>. Simulations demonstrate the often desastrous effect of the delayed language model approach under these special circumstances. We also study different strategies of recovering from these additional search errors caused by using delayed bigrams.
+Reference: [2] <author> V.Steinbiss,B.H. Tran, </author> <note> H.Ney Improvements in Beam Search ICSLP'94 Volume 4 pp 2143-2147; </note>
+Reference-contexts: Therefore, the transition probability p (w 2 jw 1 ) which is typically a bigram language model score cannot be computed immediately upon transition. There are two solutions to this problem: either tree copies are generated for each active word end at a given frame <ref> [2] </ref> or the bigram score is not added before reaching the leaf of the tree and thus the word identity is known (delayed bigram approach).
+
+References-found: 2
+

@@ -1,0 +1,10 @@
+URL: http://www.cs.unc.edu/~geom/IMAGES/mysave.pg2.ps.gz
+Refering-URL: http://www.cs.unc.edu/~geom/geom_parallel.html
+Root-URL: http://www.cs.unc.edu
+Title: Fig. 2. Component generation, classification and B-rep computation  Patch-Processor assignment for ray-patch intersection computation Component  
+Note: Processor 0 Processor 1 Processor 2  2  
+Abstract: Stage 5: Component Generation Stage 6: Component Classification by Rayshooting Stage 7: B-Rep Computation of the resulting solid Component 1 Component 0 Result (Solid 1 - Solid 2) 
+Abstract-found: 1
+Intro-found: 0
+References-found: 0
+

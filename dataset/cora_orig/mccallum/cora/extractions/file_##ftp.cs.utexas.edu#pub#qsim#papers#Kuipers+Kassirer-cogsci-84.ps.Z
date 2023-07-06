@@ -1,0 +1,13 @@
+URL: file://ftp.cs.utexas.edu/pub/qsim/papers/Kuipers+Kassirer-cogsci-84.ps.Z
+Refering-URL: http://www.cs.utexas.edu/users/qr/whats-new.html
+Root-URL: 
+Title: Knowledge Acquisition by Analysis of Verbatim Protocols  
+Author: Benjamin Kuipers Jerome P. Kassirer 
+Date: 1984, 1987  
+Address: Austin, Texas 78712.  Boston, Massachusetts 02111.  
+Affiliation: Department of Computer Sciences University of Texas at Austin  Department of Medicine Tufts University School of Medicine  
+Abstract: The ability to identify and represent the knowledge that a human expert has about a particular domain is a key method in the creation of an expert computer system. The first part of this paper demonstrates a methodology for collecting and analyzing observations of experts at work, in order to find the conceptual framework used for the particular domain. The second part develops a representation for qualitative knowledge of the structure and behavior of a mechanism. The qualitative simulation process is given a qualitative structural description of a mechanism and some initialization information, and produces a detailed description of the mechanism's behavior. The simulation process has been fully implemented, and its results are shown for a particular disease mechanism in nephrology. This "vertical" slice of the construction of a cognitive model demonstrates an effective knowledge acquisition method for the purpose of determining the structure of the representation itself, not simply the content of the knowledge to be encoded in that representation. Most importantly, it demonstrates the interaction among constraints derived from the textbook knowledge of the domain, from observations of the human expert, and from the computational requirements of successful performance. fl This research was supported in part by grants to the first author from the National Library of Medicine (NIH R01 LM 04125, LM 04374, and LM 04515), and from the National Science Foundation (MCS-8303640, DCR-8417934, and DCR-8512779). This article appeared in A. Kidd (Ed.), Knowledge Acquisition for Expert Systems. New York: Plenum, 1987. It is an updated version of "Causal reasoning in medicine: analysis of a protocol", Cognitive Science 8: 363-385, 1984. Reprinted by permission. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

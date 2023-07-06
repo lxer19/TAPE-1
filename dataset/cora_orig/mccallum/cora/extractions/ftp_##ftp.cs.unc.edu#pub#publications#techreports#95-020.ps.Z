@@ -1,0 +1,22 @@
+URL: ftp://ftp.cs.unc.edu/pub/publications/techreports/95-020.ps.Z
+Refering-URL: ftp://ftp.cs.unc.edu/pub/publications/techreports/FILE.html
+Root-URL: http://www.cs.unc.edu
+Email: mine@cs.unc.edu  
+Title: ISAAC A Virtual Environment Tool for the Interactive Construction of Virtual Worlds  
+Author: Mark R. Mine 
+Address: Chapel Hill, NC 27599-3175  
+Affiliation: Department of Computer Science University of North Carolina  
+Abstract: This paper presents a description of ISAAC, the Immersive Simulation Animation And Construction program designed and built at the University of North Carolina at Chapel Hill (UNC-CH). ISAAC is a scene composition application for the interactive construction of virtual worlds. Working directly in a virtual environment, objects can be positioned, oriented and scaled using direct and indirect manipulation techniques. Object configurations are stored in ASCII files which can be used to recreate object configurations at a later date for further manipulation and interactive exploration. ISAAC is not a modeling program, worlds are created by manipulating pre-generated three-dimensional models (which can come from sources such as Computer-Aided Design programs or three-dimensional scanning devices). ISAAC has been designed to overcome some of the limitations of working in a virtual environment and to take advantage of the natural and intuitive forms of interaction available in a virtual world. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Bukowski, R. W., C. H. </author> <month> Sequin </month> <year> (1995). </year> <title> Object Associations: A Simple and Practical Approach to Virtual 3D Manipulation, </title> <booktitle> ACM Computer Graphics: Proceedings of 1995 Symposium on Interactive 3D Graphics, </booktitle> <address> Monterey, CA, </address> <pages> pp. 131-138. </pages>
+Reference: <author> Bowman, D. </author> <year> (1995). </year> <title> Conceptual Design Space. </title> <note> Available at WWW URL http://www.cc.gatech.edu/gvu/virtual/CDS. </note>
+Reference: <author> Butterworth, J., A. Davidson, S. Hench, and T. M. </author> <month> Olano </month> <year> (1992). </year> <title> 3DM: A Three-Dimensional Modeler Using a Head-Mounted Display. </title> <booktitle> ACM Computer Graphics: Proceedings of 1992 Symposium on Interactive 3D Graphics, </booktitle> <address> Cambridge, MA, </address> <pages> pp. 135-138 Chung, </pages> <editor> J. </editor> <year> (1994). </year> <title> Intuitive Navigation in the Targeting of Radiation Therapy Treatment Beams. </title> <type> Ph.D. Thesis, </type> <institution> University of North Carolina, Chapel Hill, NC. </institution>
+Reference: <author> Conner, D., S. Snibbe, K. Herndon, D. Robbins, R. Zeleznik, A. </author> <title> van Dam (1992). Three-Dimensional Widgets, </title> <booktitle> ACM Computer Graphics: Proceedings of 1992 Symposium on Interactive 3D Graphics, </booktitle> <address> Cambridge, MA, </address> <pages> pp. 197-208. </pages>
+Reference: <author> Fuchs, H., J. Poulton, J. Eyles, et al. </author> <year> (1989). </year> <title> Pixel-Planes 5: A Heterogeneous Multiprocessor Graphics System Using Processor-Enhanced Memories. </title> <booktitle> ACM Computer Graphics: Proceedings of SIGGRAPH 89, </booktitle> <address> Boston, MA, </address> <pages> pp. 79-88. </pages> <institution> IST (Institute for Simulation and Training) (1995). </institution> <note> PolyShop . Available at WWW URL http://www.vsl.ist.ucf.edu/~polyshop. </note>
+Reference: <author> Liang, J., M. </author> <title> Green (1994). JDCAD: A highly interactive 3D modeling system. Computers & Graphics: </title> <booktitle> Proceedings of the Conference on Computer Aided Design and Computer Graphics, </booktitle> <address> Beijing, China, pp.499-506. </address>
+Reference: <author> Mine, M. </author> <year> (1995). </year> <title> Virtual Environment Interaction Techniques, </title> <institution> UNC Chapel Hill Computer Science Technical Report, TR95-018. </institution>
+Reference: <author> Shoemake, K. </author> <year> (1985). </year> <title> Animating Rotations Using Quaternion Curves, </title> <booktitle> ACM Computer Graphics: Proceedings of SIGGRAPH 85, </booktitle> <address> San Francisco, CA, </address> <pages> pp. 245-254. </pages>
+Reference: <author> Stoakley, R., M. J. Conway, R. </author> <title> Pausch (1995). Virtual Reality on a WIM: Interactive Worlds in Miniature. </title> <note> Proceedings of SIGCHI 1995, (to appear). </note>
+References-found: 9
+

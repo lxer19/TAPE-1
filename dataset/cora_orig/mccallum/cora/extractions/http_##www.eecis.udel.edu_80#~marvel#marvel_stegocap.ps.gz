@@ -1,0 +1,28 @@
+URL: http://www.eecis.udel.edu:80/~marvel/marvel_stegocap.ps.gz
+Refering-URL: http://www.eecis.udel.edu:80/~marvel/
+Root-URL: http://www.cis.udel.edu
+Title: Capacity of the Steganographic Channel  
+Author: Lisa M. Marvel and Charles G. Boncelet, Jr. 
+Date: May 1998  
+Note: Submitted to the IEEE Transactions on Communications,  
+Abstract: We introduce the characteristics of the steganographic channel and derive capacity bounds by employing the similarities of an arbitrary noise channel. These bounds are approximated for image steganography using an estimate of the cover image entropy and compared with the capacity of the additive white Gaussian noise (WGN) channel and the actual performance of an image steganographic system. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> J.R. Smith and B.O. Comisky. </author> <title> Modulation and information hiding in images. </title> <editor> In R. Anderson, editor, </editor> <booktitle> Information Hiding, First International Workshop, volume 1174 of Lecture Notes in Computer Science, </booktitle> <pages> pages 207-226. </pages> <publisher> Springer-Verlag, </publisher> <address> Berlin, </address> <year> 1996. </year>
+Reference: [2] <author> L.M. Marvel, C.G. Boncelet, Jr., </author> <title> and C.T. Retter. Spread spectrum image steganography. </title> <note> submitted to the IEEE Transactions on Image Processing, </note> <month> January </month> <year> 1998. </year>
+Reference: [3] <author> F. Hartung and B. Girod. </author> <title> Fast public-key watermarking of compressed video. </title> <booktitle> Proceedings of the IEEE International Conference on Image Processing, </booktitle> <address> Santa Barbara, CA, </address> <month> October </month> <year> 1997. </year>
+Reference: [4] <author> M.D. Swanson, B. Zhu, and A.H. Tewfik. </author> <title> Robust data hiding for images. </title> <booktitle> Procedings of the IEEE Digital Signal Processing Workshop, </booktitle> <address> Loen, Norway, </address> <pages> pages 37-40, </pages> <month> September </month> <year> 1996. </year>
+Reference: [5] <author> N.F. Johnson and S. Jajodia. </author> <title> Exploring steganography: Seeing the unseen. </title> <booktitle> IEEE Computer, </booktitle> <pages> pages 26-34, </pages> <month> February </month> <year> 1998. </year>
+Reference: [6] <author> I.J. Cox, J. Kilian, T. Leighton, and T. Shamoon. </author> <title> Secure spread spectrum watermarking for images, audio and video. </title> <booktitle> Proceedings of the IEEE International Conference on Image Processing, </booktitle> <address> Lausanne, Switzerland, III:243-246, </address> <month> September </month> <year> 1996. </year>
+Reference: [7] <author> X. Xia, C. G. Boncelet, Jr., and G. Arce. </author> <title> A multiresolution watermark for digital images. </title> <booktitle> Proceedings of the 1997 IEEE International Conference on Image Processing, </booktitle> <address> Santa Barbara CA, </address> <year> 1997. </year>
+Reference: [8] <author> I.J. Cox and M.L. Miller. </author> <title> A review of watermarking and the importance of perceptual modeling. In B.E. </title> <editor> Rogowitz and T.N. Pappas, editors, </editor> <booktitle> Human Vision and Electronic Imaging II, </booktitle> <volume> volume 3016, </volume> <pages> pages 92-99. SPIE, </pages> <month> Feb </month> <year> 1997. </year>
+Reference: [9] <author> C.I. Podilchuk and W. Zeng. </author> <title> Digital image watermarking using visual models. In B.E. </title> <editor> Rogowitz and T.N. Pappas, editors, </editor> <booktitle> Human Vision and Electronic Imaging II, </booktitle> <volume> volume 3016, </volume> <pages> pages 100-111. SPIE, </pages> <month> Feb </month> <year> 1997. </year>
+Reference: [10] <author> C.E. Shannon. </author> <title> Communication in the presense of noise. </title> <booktitle> Proceedings Instudute of Radio Engineers, </booktitle> <volume> 37 </volume> <pages> 10-21, </pages> <year> 1949. </year>
+Reference: [11] <author> R.E. Blahut. </author> <title> Principles and Practices of Information Theory. </title> <publisher> Addison-Wesley Publishing Co., </publisher> <address> Reading, MA, </address> <year> 1987. </year>
+Reference: [12] <author> J.W. Woods. </author> <title> Two-dimensional discrete markovian fields. </title> <journal> IEEE Transactions on Information Theory, </journal> <pages> pages 232-240, </pages> <month> March </month> <year> 1972. </year>
+Reference: [13] <editor> A.K. Jain. </editor> <booktitle> Advances in mathematical models for image processing. Proceedings of the IEEE, </booktitle> <pages> pages 502-528, </pages> <month> May </month> <year> 1981. </year>
+Reference: [14] <author> R.L. Kshyap. </author> <title> Characterization and estimation of two-dimensional arma models. </title> <journal> IEEE Transactions on Information Theory, </journal> <pages> pages 736-745, </pages> <month> September </month> <year> 1984. </year>
+Reference: [15] <author> R.M. Haralick and L. Watson. </author> <title> A facet model for image data. </title> <booktitle> Computer Graphics and Image Processing, </booktitle> <pages> pages 113-129, </pages> <month> February </month> <year> 1981. </year>
+Reference: [16] <author> X. Wu, N. Memom, and K. Sayood. </author> <title> A contex-based, adaptive, lossless/nearly-lossless coding scheme for continuous-tone images (CALIC). A proposal submitted in response to the Call for Contributions for ISO/IEC JTC 1.29.12, </title> <booktitle> 1995. </booktitle> <pages> 7 </pages>
+References-found: 16
+

@@ -1,0 +1,23 @@
+URL: http://www.cs.caltech.edu/~ps/papers/reif/preprint_9520_Sobolev.ps.Z
+Refering-URL: http://www.cs.caltech.edu/~ps/papers/reif/
+Root-URL: http://www.cs.caltech.edu
+Title: Orthogonality of Cardinal B-Splines in Weighted Sobolev Spaces for certain positive weights (n; h). These
+Author: Ulrich Reif 
+Note: =0 (n; h)k@ fk 2  
+Date: December 1, 1995  
+Address: Pfaffenwaldring 57 70550 Stuttgart Germany  
+Affiliation: Mathematisches Institut A Universitat Stuttgart  
+Abstract:  
+Abstract-found: 1
+Intro-found: 1
+Reference: [Ada78] <author> R. A. Adams, </author> <title> Sobolev spaces, Pure and applied mathematics series, </title> <publisher> Academic Press, </publisher> <year> 1978. </year>
+Reference-contexts: In particular, H m;2 ! (R) is continuously embedded into C k (R) for 0 k &lt; m, see <ref> [Ada78] </ref>, i.e. there exist constants (k; m; !) such that k@ k fk 1 (k; m; !) kfk ! : (1.3) The Fourier transform F : f 7! ^ f and its inverse are given by ^ f (y) = p Z 1 f (x) exp (ixy) dx ; f (x)
+Reference: [BS79] <author> I. N. Bronstein and K. A. Semendjajew, </author> <title> Taschenbuch der Mathematik, 19 ed., </title> <publisher> Verlag Harri Deutsch, </publisher> <year> 1979. </year>
+Reference-contexts: Note that @ s n (y) j y=2k 2 Further, with B k the Bernoulli numbers, the Taylor expansion of s 1 at the origin is, see <ref> [BS79] </ref>, 1 X (2 k1 1)B k y 2k : (1.10) The spline space S n;h := span B j;n;h consists of linear combinations of B-splines b := j2Z b j B j;n;h .
+Reference: [dB78] <author> C. de Boor, </author> <title> A practical guide to splines, </title> <publisher> Applied Mathematical Sciences, Springer-Verlag, </publisher> <year> 1978. </year>
+Reference: [Sch81] <author> L. L. Schumaker, </author> <title> Spline functions: basic theory, Pure and Applied Mathematics. A Wiley-Interscience Publication., </title> <publisher> John Wiley & Sons, </publisher> <year> 1981. </year>
+Reference-contexts: Let 8 : 1 for y = 0 then the Fourier transforms of B j;n;h and its derivatives are given by d @ B j;n;h (y) = h (iy) exp (ihy (j + n=2)) s n (hy)= 2 ; (1.8) see <ref> [Sch81] </ref>. <p> Set h := f P h f then k@ k h k 1 C 1 h nk k@ n f k 1 (3.5) with C 1 some constant depending only on n and k, see. <ref> [Sch81] </ref>. S n;h is invariant under Q h , i.e.
+Reference: [SW75] <author> E. M. Stein and G. Weiss, </author> <title> Introduction to fourier analysis on euclidean spaces, </title> <publisher> Princeton University Press, </publisher> <year> 1975. </year> <month> 8 </month>
+Reference-contexts: Further, if f (x) C (1 + jxj) 1ffi and ^ f (y) C (1 + jyj) 1ffi for some constants C; ffi &gt; 0, then the Poisson summation formula holds, <ref> [SW75] </ref>, X f (j) = 2 k2Z Denote by B j;n;h the cardinal B-spline of order n 2 N with knot sequence hZ and support supp B j;n;h = h [j; j + n]. For h = 1 the last index will be dropped.
+References-found: 5
+

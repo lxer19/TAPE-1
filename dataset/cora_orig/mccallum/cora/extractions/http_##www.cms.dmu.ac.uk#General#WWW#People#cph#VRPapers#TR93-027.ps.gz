@@ -1,0 +1,12 @@
+URL: http://www.cms.dmu.ac.uk/General/WWW/People/cph/VRPapers/TR93-027.ps.gz
+Refering-URL: http://www.cms.dmu.ac.uk/General/WWW/People/cph/VRPapers/
+Root-URL: 
+Abstract-found: 0
+Intro-found: 1
+Reference: [Molnar + 92] <author> Steven Molnar, John Eyles, and John Poulton. "PixelFlow: </author> <title> High-Speed Rendering Using Image Composition." </title> <booktitle> Computer Graphics 26(2) </booktitle> <pages> 231-240, </pages> <month> July </month> <year> 1992. </year> <booktitle> Proceedings of SIGGRAPH'92. </booktitle>
+Reference-contexts: PixelFlow Texturing hardware is likely to be a common feature of graphics systems in the future. The PixelFlow graphics system under development at the University of North Carolina at Chapel Hill will have texturing hardware <ref> [Molnar + 92] </ref> that it is suitable for a variant of the polygon resampling approach described above for the RealityEngine. We propose a polygon texturing approach for the PixelFlow system that will overcome the limitations on realistic lighting and data size imposed by the RealityEngine.
+Reference: [SGI] <author> Greg Estes and Joshua Mogal. </author> <title> "Its' Time to Get Real." </title> <type> Iris Universe </type> (21):15-19, Summer 1992. Silicon Graphics Inc. 
+Reference-contexts: 1. Introduction Recently, rendering volume data at truly interactive frame rates has become possible with commercially available graphics systems. Previously, the computing requirements for reconstructing and resampling volumes of data have been too great. With the advent of the Silicon Graphics RealityEngine and its 3D texturing hardware <ref> [SGI] </ref>, the rendering method described here may be used to achieve over 10 frames per-second for a one-million point volume size rendered into a 512 2 window. Other data or image sizes are rendered at inversely-proportional frame rates. 2.
+
+References-found: 2
+

@@ -1,0 +1,32 @@
+URL: ftp://ftp.dcs.ex.ac.uk/pub/usr/lindsey/garth.ps.Z
+Refering-URL: http://www.dcs.ex.ac.uk/~lindsey/CV/index.htm
+Root-URL: http://www.dcs.ex.ac.uk
+Email: email: lindsey@dcs.exeter.ac.uk  
+Title: Video worlds: a training potential for non-invasive surgery  
+Author: Jason Cooper, Lindsey Ford, Gordon Watson 
+Date: October 19, 1995  336  
+Address: Exeter EX4 4PT U.K.  
+Affiliation: Department of Computer Science University of Exeter  
+Pubnum: Research Report  
+Abstract: We consider the use of video images as a possible resource for computer-based arthroscopic training. In particular we examine the feasibility of displaying images as a direct response to movements of an arthroscope made by the practising surgeon. We discuss the use of a 6-D locator device; the problems of space and speed with respect to storage and retrieval of images; and the difficulties associated with ensuring that sufficient and appropriate images are captured. We report on various experiments. Our tentative conclusion is that our approach provides a potentially cost-effective solution to certain training requirements for non-invasive surgery.
+Abstract-found: 1
+Intro-found: 1
+Reference: [Brooks88] <author> Frederick Brooks, </author> <title> Grasping reality through illusion: Interactive graphics serving science, </title> <booktitle> Proc. CHI '88 Conference Human Factors in Computing Systems, ACM, </booktitle> <address> New York (1988), </address> <pages> 1-11. </pages>
+Reference: [Bunker91] <author> Timothy D Bunker and W Angus Wallace Shoulder Arthroscopy. Martin Dunitz Ltd, </author> <year> 1991. </year>
+Reference-contexts: 1 Introduction The decade of the 1980s has seen a spectacular growth in the area of shoulder arthroscopy and there is no doubt that this trend will continue into the next decade <ref> [Bunker91] </ref>.
+Reference: [Haritsis92] <author> Angelo Haritsis, Duncan Gillies, and Christopher Williams, </author> <title> Realistic Generation and Real Time Animation of Images of the Human Colon, </title> <booktitle> Eurographics '92, Volume II, </booktitle> <year> (1992), </year> <title> number 3. </title> <publisher> Blackwell, </publisher> <year> 1992. </year>
+Reference-contexts: An alternative to the visual feedback from the physical model is computer-generated graphics feedback using state-of-the-art graphics and virtual reality techniques. This idea is being pursued by several research groups, for example with colonoscopy <ref> [Haritsis92] </ref>. However, as the developers report, many compromises of visual accuracy have to be made if real time animation of shaded images is to be achieved. It involves high investment in equipment and lengthy development of graphical models.
+Reference: [Evans92] <author> Arthur Evans, </author> <title> IndigoVideo Programming Guide, </title> <institution> Silicon Graphics Inc., </institution> <year> 1992. </year> <month> 23 </month>
+Reference: [McLendon91] <author> Patricia McLendon, </author> <title> Graphics Library Programming Guide, </title> <institution> Sil--icon Graphics Inc., </institution> <year> 1991. </year>
+Reference: [Reimann91] <author> Robert Reimann Claudia Lohnes, Kevin Walsh, </author> <title> Graphics Library Windowing and Font Library Programming Guide with Font Library Man Pages, </title> <institution> Silicon Graphics Inc., </institution> <year> 1991. </year>
+Reference: [Katz91] <author> Seth Katz, </author> <title> IRIX 4D1-4.0 Transition Guide, Programming Environment, </title> <institution> Silicon Graphics Inc., </institution> <year> 1991. </year>
+Reference: [OReilly90] <author> O'Reilly, </author> <title> X Toolkit Intrisics Reference Manual, Second Edition, Volume V, </title> <publisher> O'Reilly & Associates, </publisher> <year> 1990. </year>
+Reference: [Stasko92] <author> John T. Stasko, Joseph F. Wehrli, Polka-3D, </author> <title> Computation Visualization and Animation Designer's Package, Graphics, Visualization and Usability Center, </title> <institution> Georgia Institute of Technology, </institution> <year> 1992. </year>
+Reference: [Williams91] <author> Ross N. Williams, </author> <title> An Extremely Fast Ziv-Lempel Data Compression Algorithm, </title> <booktitle> IEEE Computer Society Data Compression Conference, </booktitle> <address> 8-11 April 1991, </address> <publisher> IEEE Computer Society, </publisher> <year> 1991. </year>
+Reference: [Storer88] <author> J.A. Storer, </author> <title> Data Compression: Methods and Theory, </title> <publisher> Computer Science Press, </publisher> <year> 1988. </year>
+Reference: [Welch84] <author> T.A. Welch, </author> <title> Technique for High-Performance Data Compression, </title> <journal> IEEE Computer, </journal> <volume> Vol. 17, No. 6, </volume> <pages> pp. 8-19. </pages>
+Reference: [Williams90] <author> Ross N. Williams, </author> <title> Adaptative Data Compression, </title> <publisher> Kluwer Academic Publishers, </publisher> <year> 1990. </year>
+Reference: [Ziv77] <author> J. Ziv, A. Lempel, </author> <title> Universal Algorithm for Sequential Data Compression, </title> <journal> IEEE Transactions on Information Theory, </journal> <volume> Vol. 23, No. 3, </volume> <pages> pp. 337-343. </pages>
+Reference: [Ziv78] <author> J. Ziv, A. Lempel, </author> <title> Compression of Individual Sequences via Variable-Rate Coding, </title> <journal> IEEE Transactions on Information Theory, </journal> <volume> Vol. 24, No. 5, </volume> <pages> pp. 530-536. 24 </pages>
+References-found: 15
+

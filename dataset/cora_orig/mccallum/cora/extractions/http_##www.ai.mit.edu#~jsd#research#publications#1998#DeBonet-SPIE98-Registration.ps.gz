@@ -1,0 +1,29 @@
+URL: http://www.ai.mit.edu/~jsd/research/publications/1998/DeBonet-SPIE98-Registration.ps.gz
+Refering-URL: http://www.ai.mit.edu/projects/lv/publications/
+Root-URL: 
+Title: Structure-driven SAR image registration  
+Author: Jeremy S. De Bonet a Alan Chao b 
+Keyword: Registration, Alignment, Coarse-to-fine, Multiresolution, Tie-Point, Texture  
+Address: 545 Technology Square Cambridge, MA 02139  50 Mall Road Burlington, MA 01803  
+Affiliation: a Learning Vision Group Artificial Intelligence Laboratory Massachusetts Institute of Technology  b ALPHATECH, Inc.  
+Abstract: We present a fully automatic method for the alignment SAR images, which is capable of precise and robust alignment. A multiresolution SAR image matching metric is first used to automatically determine tie-points, which are then used to perform coarse-to-fine resolution image alignment. A formalism is developed for the automatic determination of tie-point regions that contain sufficiently distinctive structure to provide strong constraints on alignment. The coarse-to-fine procedure for the refinement of the alignment estimate both improves computational efficiency and yields robust and consistent image alignment. 
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> J. S. De Bonet, </author> <title> Novel statistical multiresolution techniques for image synthesis, discrimination, and recogni tion, </title> <type> Master's thesis, </type> <institution> Massachusetts Institute of Technology, </institution> <address> Cambridge, MA, </address> <month> May </month> <year> 1997. </year>
+Reference: 2. <author> J. S. De Bonet, </author> <title> Multiresolution sampling procedure for analysis and synthesis of texture images, </title> <booktitle> in Computer Graphics, ACM SIGGRAPH, </booktitle> <year> 1997. </year>
+Reference: 3. <author> J. S. De Bonet and P. Viola, </author> <title> Texture recognition using a non-parametric multi-scale statistical model, </title> <booktitle> in Pro ceedings IEEE Conf. on Computer Vision and Pattern Recognition, </booktitle> <year> 1998. </year>
+Reference: 4. <author> P. Dare and I. J. Dowman, </author> <title> An automated procedure for regisering SAR and optical imagery, </title> <booktitle> Proc. SPIE 2958, </booktitle> <pages> pp. 140151, </pages> <year> 1996. </year>
+Reference: 5. <author> A. Chao and J. S. De Bonet, </author> <title> SAR image registration using information maximization. </title> <publisher> ALPHATECH, Inc., </publisher> <month> August </month> <year> 1997. </year>
+Reference: 6. <author> P. Viola and A. Chao, </author> <title> Multiple sensor image alignment by maximization of mutual information. </title> <institution> Mas sachusetts Institute of Technology and ALPHATECH, Inc., </institution> <year> 1995. </year>
+Reference: 7. <author> P. A. Viola, </author> <title> Alignment by Maximization of Mutual Information. </title> <type> PhD thesis, </type> <institution> Massachusetts Institute of Technology, 1995. MIT AI Laboratory TR 1548. </institution>
+Reference: 8. <author> J. S. De Bonet, P. Viola, and J. Fisher, </author> <title> Flexible histograms: A multiresolution target discrimination model, </title> <booktitle> Proc. SPIE , 1998. </booktitle>
+Reference: 9. <author> N. Metropolis, A. Rosenbluth, M. Rosenbluth, A. Teller, and E. Teller, </author> <title> Equations of state calculations by fast computing machines, </title> <journal> Journal of Chemical Physics 21, </journal> <pages> pp. 10871091, </pages> <year> 1953. </year>
+Reference: 10. <author> McCalla, </author> <title> Introduction to Numerical Methods and FORTRAN Programming, </title> <publisher> John Wiley and Sons, </publisher> <address> New York, </address> <year> 1967. </year>
+Reference: 11. <author> S. Kirkpatrick, C. G. Jr, and M. Vecchi, </author> <title> Optimization by simulated annealing, </title> <booktitle> Science 220(4598), </booktitle> <pages> pp. 671680, </pages> <year> 1983. </year>
+Reference: 12. <author> L. Ingber, </author> <title> Simulated annealing: Practice versus theory, </title> <journal> Mathl. Comput. </journal> <volume> Modelling 18(11), </volume> <pages> pp. 2957, </pages> <year> 1993. </year>
+Reference: 13. <author> A. W. W.W. Irving and L. Novak, </author> <title> A multiresolution approach to discriminating targets from clutter in SAR imagery, </title> <booktitle> Proc. SPIE 2487, </booktitle> <year> 1995. </year>
+Reference: 14. <author> M. Basseville, A. Benveniste, K. C. Chou, S. A. Golden, R. Nikoukhah, and A. S. Willsky, </author> <title> Modeling and estimation of multiresolution stochastic processes, </title> <journal> IEEE Transactions on Information Theory 38(2), </journal> <pages> pp. 766784, </pages> <year> 1992. </year>
+Reference: 15. <author> L. M. Novak, G. J. Owirka, and C. M. Netishen, </author> <title> Performance of a high-resolution polarimetric SAR automatic target recognition system, </title> <journal> The Lincoln Laboratory J. </journal> <volume> 6(1), </volume> <pages> pp. 1124, </pages> <year> 1993. </year>
+Reference: 16. <author> V. Larson, L. M. Novak, and C. Stewart, </author> <title> Joint spatial-polarimetric whitening filter to improve SAR target detection performance for spatially distributed targets, </title> <booktitle> SPIE Conf. on Alg. for SAR Imagery , Apr. </booktitle> <year> 1994. </year>
+References-found: 16
+

@@ -1,0 +1,31 @@
+URL: ftp://cns.brown.edu/nin/papers/gross5.ps.Z
+Refering-URL: http://www.math.tau.ac.il/~nin/research.html
+Root-URL: 
+Title: THE QUEST FOR PATTERNS IN HIGH-DIMENSIONAL BIOMEDICAL DATA-SETS: LINKING STATISTICAL INFERENCE TO DYNAMICAL SYSTEMS  
+Author: ZVI GROSSMAN and and NATHAN INTRATOR 
+Address: 69978, Israel  Pittsburgh, Pittsburgh, PA 15260  Providence, RI 02912  
+Affiliation: Department of Physiology and Pharmacology Sackler Faculty of Medicine Tel Aviv University, Tel Aviv  Department of Biostatistics Graduate School of Public Health University of  Computer Science Department Tel-Aviv University and Institute for Brain and Neural Systems Brown University,  
+Abstract: Current mathematical models of complex physio-pathological processes in high organisms are inherently limited in their ability to provide new explanations for the observed phenomena and to predict the future course of events on the basis of initial quantitative specifications. In this communication we discuss the need to develop a methodology to conjoin many pieces of data together and look systematically for explanatory or predictive patterns, prior and in addition to the construction of conventional models. 
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> G.A. Butcher, Parasitol. </author> <note> Today 8 (1992) 307. </note>
+Reference: 2. <author> M.E.J. Woolhouse, Parasitol. Immunol. </author> <month> 14 </month> <year> (1992) </year> <month> 563. </month>
+Reference: 3. <author> L.A. Segel and E. </author> <title> Jager, </title> <journal> Bull. Math. Biol. </journal> <volume> 56 (1994) 687. </volume>
+Reference: 4. <author> Z. Grossman, </author> <title> in Theories of Immune Networks, </title> <editor> ed. H. Atlan and I.R. </editor> <publisher> Cohen (Springer, </publisher> <address> Berlin, </address> <year> 1989). </year> <note> p. 38. </note>
+Reference: 5. <author> M.A. Nowak, R.M. Anderson, A.R. McLean, T.F.W. Wolfs, J. </author> <note> Goudsmith and R.M. Science 254 (1991) 963. </note>
+Reference: 6. <author> Z. Grossman, Z. Bentwich and R. B. Herberman, Clin. Im-munol.Immunopathol. </author> <month> 69 </month> <year> (1993) </year> <month> 123. </month>
+Reference: 7. <author> Z. Grossman, Immunol. </author> <note> Rev. 133 (1993) 45. </note>
+Reference: 8. <author> S.A. Levin, </author> <title> Mathematics and Biology: </title> <institution> The Interface (Lawrence Berkeley Laboratory, Pub-701). </institution> <year> 1992. </year>
+Reference: 9. <author> R. E. Bellman. </author> <title> Adaptive Control Processes. </title> <publisher> Princeton University Press, </publisher> <address> Princeton, NJ, </address> <year> 1961. </year>
+Reference: 10. <editor> S. Geman, E. Bienenstock, and R. Doursat. </editor> <booktitle> Neural Computation, </booktitle> <volume> 4 </volume> <pages> 1-58, </pages> <year> 1992. </year>
+Reference: 11. <author> B. D. Ripley. </author> <booktitle> in Proceedings of the Seminaire Europeen de Statistique, </booktitle> <address> Sand-bjerg, Denmark, April, 1992. </address> <publisher> Chapman and Hall, </publisher> <year> 1993. </year>
+Reference: 12. <editor> D. E. Rumelhart, G. E. Hinton, and R. J. Williams. In D. E. Rumelhart and J. L. McClelland, editors, </editor> <booktitle> Parallel Distributed Processing, </booktitle> <volume> 1, </volume> <pages> 318-362. </pages> <publisher> MIT Press, </publisher> <address> Cambridge, MA, </address> <year> 1986. </year>
+Reference: 13. <author> M. </author> <title> Stone. </title> <journal> J. Royal Statistics Society B, </journal> <volume> 36 </volume> <pages> 111-147, </pages> <year> 1974. </year>
+Reference: 14. <author> A. S. Weigend and N. A. Gershenfeld, </author> <title> editors. Time Series Prediction Addison-Wesley, </title> <year> 1993. </year>
+Reference: 15. <author> J. H. </author> <title> Friedman. </title> <journal> Journal of the American Statistical Association, </journal> <volume> 82 </volume> <pages> 249-266, </pages> <year> 1987. </year>
+Reference: 16. <author> P. Diaconis and D. </author> <title> Freedman. </title> <journal> Annals of Statistics, </journal> <volume> 12 </volume> <pages> 793-815, </pages> <year> 1984. </year>
+Reference: 17. <author> N. Intrator and L. N. Cooper. </author> <booktitle> Neural Networks, </booktitle> <volume> 5 </volume> <pages> 3-17, </pages> <year> 1992. </year>
+Reference: 18. <author> N. Intrator. </author> <note> Neural Computation 5 443-455 (1993). </note>
+Reference: 19. <author> J. D. Farmer, E. Ott and J.A. Yorke, Physica D7, </author> <year> 1983 </year> <month> p.153. </month>
+References-found: 19
+

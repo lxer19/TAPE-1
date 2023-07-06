@@ -1,0 +1,13 @@
+URL: http://www.cs.wustl.edu/~schmidt/IWCDS-94.ps.gz
+Refering-URL: http://www.cs.wustl.edu/~schmidt/ACE-overview.html
+Root-URL: 
+Email: schmidt@ics.uci.edu and suda@ics.uci.edu  
+Title: The Service Configurator Framework An Extensible Architecture for Dynamically Configuring Concurrent, Multi-Service Network Daemons  
+Author: Douglas C. Schmidt and Tatsuya Suda 
+Address: Irvine, CA 92717, (714) 856-4105  
+Affiliation: Department of Information and Computer Science University of California,  
+Abstract: An earlier version of this paper appeared in the proceedings of the IEEE Second International Workshop on Configurable Distributed Systems, Pittsburgh, PA, March 1994. Abstract Developing extensible, robust, and efficient network daemons is a challenging task. This paper describes an object-oriented framework consisting of automated tools and reusable components that simplifies the task of developing, configuring, and reconfiguring concurrent, multi-service network daemons. These daemons may contain multiple communication-related services that execute in one or more processes or threads. This framework uses object-oriented design techniques and C++ language features to enhance operating system mechanisms that provide interprocess communication, communication port demultiplexing, explicit dynamic linking, and parallel processing. In addition to describing the object-oriented architecture of the daemon control framework, this paper presents an example that illustrates how the framework supports the development of network software whose services may be updated and extended without modifying, recompiling, relinking, or restarting active daemons. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

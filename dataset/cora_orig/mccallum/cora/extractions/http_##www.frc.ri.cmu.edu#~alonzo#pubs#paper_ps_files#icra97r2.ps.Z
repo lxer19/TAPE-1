@@ -1,0 +1,19 @@
+URL: http://www.frc.ri.cmu.edu/~alonzo/pubs/paper_ps_files/icra97r2.ps.Z
+Refering-URL: http://www.frc.ri.cmu.edu/~alonzo/pubs/pubs.html
+Root-URL: 
+Note: Page 1 Abstract  
+Abstract: A basic requirement of autonomous vehicles is that of guaranteeing the safety of the vehicle by avoiding hazardous situations. This paper analyses this requirement in general terms of the resolution and accuracy of sensors and computations. Several nondimensional expressions emerge which characterize requirements in canonical form. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> M. Daily et al., </author> <title> Autonomous Cross Country Navigation with the ALV, </title> <booktitle> In Proc. of the 1988 IEEE International Conference on Robotics and Automation, </booktitle> <address> Philadelphia, Pa, </address> <note> April 1988; pp. 718-726. </note>
+Reference: [2] <author> H. P. Moravec, </author> <title> Obstacle Avoidance and Navigation in the Real World by a Seeing Robot Rover, </title> <type> Ph. D. Thesis, </type> <institution> Stanford University, </institution> <year> 1980. </year>
+Reference: [3] <author> A. J. Kelly, </author> <title> An Intelligent Predictive Control Approach to the High-Speed, Cross Country Autonomous Navigation Problem, </title> <type> Ph. D. thesis, </type> <institution> Robotics Institute, Carnegie Mellon University, </institution> <month> June </month> <year> 1995. </year>
+Reference: [4] <author> L. Matthies, A. Kelly, T. Litwin, </author> <title> Obstacle Detection for Unmanned Ground Vehicles: A Progress Report., </title> <note> to appear in IEEE International Symposium on Intelligent Vehicles. </note>
+Reference: [5] <author> L. Matthies, </author> <title> Stereo Vision for Planetary Rovers, </title> <journal> International Journal of Computer Vision, </journal> <volume> 8:1, </volume> <pages> 71-91, </pages> <year> 1992. </year>
+Reference: [6] <author> R. T. Dunlay and D. G. Morgenthaler, </author> <title> Obstacle Detection and Avoidance from Range Data, </title> <booktitle> In Proc. SPIE Mobile Robots Conference, </booktitle> <address> Cam-bridge, Mass., </address> <year> 1986 </year>
+Reference: [7] <author> E.D. Dickmanns. </author> <title> Dynamic computer vision for mobile robot control, </title> <booktitle> Proceedings of the 19th International Symposium and Exposition on Robots, </booktitle> <pages> pp. 314-27; </pages>
+Reference: [8] <author> K. E. Olin and David Tseng. </author> <title> Autonomous Cross Country Navigation, </title> <journal> IEEE Expert, </journal> <month> August </month> <year> 1991. </year>
+Reference: [9] <author> M. Hebert, T. Kanade, and I. Kweon. </author> <title> 3-D Vision Techniques for Autonomous Vehicles, </title> <type> Technical Report CMU-RI-TR-88-12, </type> <institution> The Robotics Institute, Carnegie Mellon University, </institution> <year> 1988 </year>
+Reference: [10] <editor> In So Kweon, </editor> <title> Modelling Rugged Terrain by Mobile Robots with Multiple Sensors, </title> <type> CMU PhD Thesis, </type> <year> 1990 </year>
+References-found: 10
+

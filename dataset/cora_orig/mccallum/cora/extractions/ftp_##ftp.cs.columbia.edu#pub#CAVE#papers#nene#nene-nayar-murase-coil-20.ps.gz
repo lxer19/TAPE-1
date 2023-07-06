@@ -1,0 +1,18 @@
+URL: ftp://ftp.cs.columbia.edu/pub/CAVE/papers/nene/nene-nayar-murase-coil-20.ps.gz
+Refering-URL: http://www.cs.columbia.edu/~sameer/publications.html
+Root-URL: http://www.cs.columbia.edu
+Title: Columbia Object Image Library (COIL-20)  
+Author: Sameer A. Nene and Shree K. Nayar and Hiroshi Murase 
+Abstract: Department of Computer Science Columbia University New York, N.Y. 10027 sameer@cs.columbia.edu nayar@cs.columbia.edu Technical Report No. CUCS-006-96 
+Abstract-found: 1
+Intro-found: 1
+Reference: [ Murase and Nayar, 1995 ] <author> H. Murase and S. K. Nayar. </author> <title> Visual Learning and Recognition of 3D Objects from Appearance. </title> <journal> International Journal of Computer Vision, </journal> <volume> 14(1) </volume> <pages> 5-24, </pages> <month> January </month> <year> 1995. </year>
+Reference: [ Nayar and Poggio, 1996 ] <author> S. K. Nayar and T. Poggio. </author> <title> Early Visual Learning. </title> <editor> In S. K. Nayar and T. Poggio, editors, </editor> <title> Early Visual Learning. </title> <publisher> Oxford University Press, </publisher> <month> March </month> <year> 1996. </year>
+Reference: [ Nayar et al., 1996a ] <author> S. K. Nayar, H. Murase and S. A. Nene. </author> <title> Parametric Appearance Representation. </title> <editor> In S. K. Nayar and T. Poggio, editors, </editor> <title> Early Visual Learning. </title> <publisher> Oxford University Press, </publisher> <month> March </month> <year> 1996. </year>
+Reference: [ Nayar et al., 1996b ] <author> S. K. Nayar, S. A. Nene and H. Murase. </author> <title> Real-Time 100 Object Recognition System. </title> <booktitle> In Proceedings of ARPA Image Understanding Workshop, </booktitle> <address> Palm Springs, </address> <month> February </month> <year> 1996. </year>
+Reference: [ Nayar et al., 1996c ] <author> S. K. Nayar, S. A. Nene and H. Murase. </author> <title> Real-Time 100 Object Recognition System. </title> <booktitle> In Proceedings of IEEE International Conference on Robotics and Automation, </booktitle> <address> Minneapolis, </address> <month> April </month> <year> 1996. </year>
+Reference: [ Nene and Nayar, 1994 ] <author> S. A. Nene and S. K. Nayar. </author> <title> SLAM: A Software Library for Appearance Matching. </title> <booktitle> In Proceedings of ARPA Image Understanding Workshop, </booktitle> <address> Monterey, </address> <month> November </month> <year> 1994. </year> <note> Also Technical Report CUCS-019-94. </note>
+Reference: [ Nene et al., 1996 ] <author> S. A. Nene, S. K. Nayar and H. Murase. </author> <title> Columbia Object Image Library: COIL-100. </title> <type> Technical Report CUCS-006-96, </type> <institution> Department of Computer Science, Columbia University, </institution> <month> February </month> <year> 1996. </year>
+Reference: [ Oppenheim and Schafer, 1989 ] <author> A. V. Oppenheim and R. W. Schafer. </author> <title> Discrete-Time Signal Processing, </title> <booktitle> chapter 3, </booktitle> <pages> pages 111-130. </pages> <publisher> Prentice Hall, </publisher> <year> 1989. </year> <month> 4 </month>
+References-found: 8
+

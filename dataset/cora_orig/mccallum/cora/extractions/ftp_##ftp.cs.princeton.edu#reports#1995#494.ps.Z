@@ -1,0 +1,20 @@
+URL: ftp://ftp.cs.princeton.edu/reports/1995/494.ps.Z
+Refering-URL: 
+Root-URL: 
+Title: achieve fast turnaround at the cost of burdening their editors and associate editors with a
+Author: Andrew W. Appel 
+Keyword: Some refereed scientific journals have long delays  
+Address: Princeton University  
+Affiliation: Department of Computer Science  
+Note: How to Edit a Journal by  from submission to publication. Others  There should be  Electronic mail can replace all paper communications, and electronic databases can replace all paper files.  such as compress, uncompress, ghostview, tar, gzip is useful. If the software were to be implemented on  scientific subject matter is not necessary, but familiarity with journal protocol is useful.  
+Pubnum: CS-TR-494-95  
+Email: E-mail  appel@princeton.edu  
+Date: July 10, 1995  
+Abstract: I have had an opportunity to observe the operation of several journals, some from the vantage point of author, others as associate editor, and one as editor in chief. I have also talked to the editors and production managers of journals in other disciplines. Since my appointment as editor in chief in December 1992, I have run TOPLAS (ACM Transactions on Programming Languages and Systems, published by the Association for Computing Machinery) according to a well organized system that I put together by borrowing the best ideas from as many places as possible. The result is that submissions are refereed quickly without taking too much of my time or the associate editors' time. I can use the time saved to work on editorial policy matters, negotiate page budgets with the publisher, handle special cases, discuss specific editorial decisions with associate editors, and (sometimes) even do my own research. The fundamental principles of this system are: * Associate editors and referees are happy to provide their scientific judgement and expertise; but they do not want to spend their time on clerical or organizational tasks. Associate editors should not be responsible for remembering who owes referee reports by what date, reminding referees, formatting e-mail messages, copying and printing papers. They should just respond to each e-mail message sent them, and not have other worries. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Peter J. Denning and Bernard Rous. </author> <title> The ACM electronic publishing plan. </title> <journal> Communications of the ACM, </journal> <volume> 38(4) </volume> <pages> 97-103, </pages> <year> 1995. </year>
+Reference-contexts: In the new world of electronic composition, global networking, and electronic dissemination <ref> [1] </ref>, things should be much faster. I will not address these issues here. Whether in "old" or "new" style of editing and production, there is a certain comfort in having a long queue of accepted articles awaiting production.
+Reference: [2] <author> Jerry Peek. MH & xmh: </author> <title> E-mail for Users & Programmers. </title> <publisher> O'Reilly & Associates, Inc., </publisher> <address> Sebastopol, CA, </address> <year> 1992. </year>
+References-found: 2
+

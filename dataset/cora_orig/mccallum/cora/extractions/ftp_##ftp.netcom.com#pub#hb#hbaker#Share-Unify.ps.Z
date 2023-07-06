@@ -1,0 +1,54 @@
+URL: ftp://ftp.netcom.com/pub/hb/hbaker/Share-Unify.ps.Z
+Refering-URL: ftp://ftp.netcom.com/pub/hb/hbaker/home.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: Unify and Conquer (Garbage, Updating, Aliasing, in Functional Languages March, 1990  
+Author: Henry G. Baker 
+Address: Encino, CA 91436  
+Affiliation: Nimble Computer Corporation,  
+Date: June 1990, 218-226.  
+Note: Revision of paper in Proc. 1990 ACM Conf. on Lisp and Functional Programming, Nice, France,  
+Abstract: 1. Abstract 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Ada. </author> <title> Reference Manual for the Ada Programming Language. </title> <institution> American National Standards Institute, </institution> <address> New York, </address> <year> 1983. </year>
+Reference: <author> Aho, A.V., Sethi, R., and Ullman, J.D. </author> <title> C o m p i l e r s : Principles, Techniques, and Tools. </title> <address> Addision-Wesley, Reading, MA, </address> <year> 1986. </year>
+Reference: <author> Appel, A.W., Ellis, J.R., and Li, K. </author> <title> "Real-time concurrent garbage collection on stock multiprocessors". </title> <booktitle> SIGPLAN PLDI, </booktitle> <month> June, </month> <year> 1988. </year>
+Reference: <author> Baase, S. </author> <title> Computer Algorithms: Introduction to Design and Analysis. </title> <publisher> Addison-Wesley, </publisher> <address> Reading, MA, </address> <year> 1978. </year>
+Reference: <author> Baker, H.G. </author> <title> "List processing in real time on a serial computer". </title> <journal> CACM 21,4 (April 1978),280-294. </journal>
+Reference: <author> Baker, H.G. </author> <title> "The Nimble Type Inferencer for Common Lisp-84". </title> <institution> Nimble Computer Corporation, </institution> <year> 1990, </year> <note> in preparation. </note>
+Reference: <author> Barth, J.M. </author> <title> "Shifting garbage collection overhead to compile time". </title> <journal> CACM 20,7 (July 1977),513-518. </journal>
+Reference: <author> Bloss, A. </author> <title> "Update Analysis and the Efficient Implementation of Functional Aggregates". </title> <booktitle> 4' th ACM/IFIP Conf. on Funct. Prog. and Comp. Arch., </booktitle> <address> London, </address> <month> Sept. </month> <year> 1989, </year> <pages> 26-38. </pages>
+Reference: <author> Boehm, H.-J., and Demers, A. </author> <title> "Implementing Russell". </title> <booktitle> ACM Sigplan '86 Symp. on Compiler Constr., Sigplan Notices 21,7 (July 1986),186-195. </booktitle>
+Reference: <author> Chase, David R. </author> <title> Garbage Collection and Other Optimizations. </title> <type> Ph.D. Thesis, </type> <institution> Rice University, </institution> <month> August, </month> <year> 1987. </year>
+Reference: <author> Goto, Eiichi. </author> <title> "Monocopy and Associative Algorithms in an Extended Lisp". </title> <type> Info. </type> <institution> Sci. Lab., Univ. of Tokyo, </institution> <year> 1974. </year>
+Reference: <author> Hederman, Lucy. </author> <title> Compile Time Garbage Collection. M.S. </title> <type> Thesis, </type> <institution> Rice Univ. Comp. Sci. Dept., </institution> <month> Sept. </month> <year> 1988. </year>
+Reference: <author> Horowitz, S., Pfeiffer, P., and Reps, T. </author> <title> "Dependence Analysis for Pointer Variables". </title> <journal> ACM Sigplan '89 Conf. on Prog. Lang. Design and Impl., Sigplan Notices 24,7 (July 1989),28-40. </journal>
+Reference: <author> Hudak, P., and Bloss, A. </author> <title> "The aggregate update problem in functional programming systems". </title> <booktitle> 12'th ACM POPL, </booktitle> <month> January, </month> <year> 1985. </year>
+Reference: <author> Hudak, P. </author> <title> "A Semantic Model of Reference Counting and its Abstraction". </title> <booktitle> 1986 ACM Lisp and Functional Programming Conference, </booktitle> <address> Cambridge, MA,351-363. </address>
+Reference: <editor> Ichbiah, J.D., et al. </editor> <booktitle> "Rationale for the Design of the Ada Programming Language". ACM Sigplan Notices 14,6 (June 1979), Part B. Revision of paper in Proc. 1990 ACM Conf. on Lisp and Functional Programming, </booktitle> <address> Nice, France, </address> <month> June </month> <year> 1990, </year> <pages> 218-226. </pages> <note> 9 Inoue, </note> <author> K, Seki, H., and Yagi, H. </author> <title> "Analysis of functional programs to detect runtime garbage cells". A C M TOPLAS 10,4 (Oct. </title> <booktitle> 1988), </booktitle> <pages> 555-578. </pages>
+Reference: <editor> Jones, N.D., and Muchnick, S.S. </editor> <title> "Flow Analysis and Optimization of Lisp-like Structures". </title> <booktitle> 6'th ACM POPL, </booktitle> <month> Jan. </month> <year> 1979,244-256. </year>
+Reference: <editor> Jones, N.D., and Muchnick, S.S. </editor> <title> "A flexible approach to interprocedural data flow analysis and programs with recursive data structures". </title> <booktitle> 9'th ACM POPL, </booktitle> <address> 1982,66 74. </address>
+Reference: <author> Jones, S.B., and Le Metayer, D. </author> <title> "Compile-time garbage collection by sharing analysis". </title> <journal> ACM Func. Prog. Langs. and Comp. Arch. </journal> <volume> (FPCA), </volume> <year> 1989, </year> <pages> 54-74. </pages>
+Reference: <author> Kanellakis, P.C., and Mitchell, </author> <title> J.C. "Polymorphic unification and ML typing". </title> <booktitle> 16'th ACM POPL, </booktitle> <address> Jan.1989,105-115. </address>
+Reference: <author> Kfoury, A.J., Tiuryn, J., and Urzyczyn, P. </author> <title> "A Proper Extension of ML with an Effective Type-Assignment". </title> <booktitle> Proc. 15'th ACM POPL, </booktitle> <address> Jan.1988,58-69. </address>
+Reference: <author> Larus, James Richard. </author> <title> Restructuring Symbolic Programs for Concurrent Execution on Multiprocessors. </title> <type> Ph.D. Thesis, </type> <institution> UC Berkeley, </institution> <note> also published as Rep. No. UCB/CSD/89/502, </note> <month> May, </month> <year> 1989. </year>
+Reference: <author> Lieberman, H., and Hewitt, C. </author> <title> "A real-time garbage collector based on the lifetime of objects". </title> <journal> CACM 26,6 (June 1983),419-429. </journal>
+Reference: <author> Mairson, H.G. </author> <title> "Deciding ML Typability is Complete for Deterministic Exponential Time". </title> <booktitle> 17'th ACM POPL, </booktitle> <month> January </month> <year> 1990, </year> <pages> 382-401. </pages>
+Reference: <author> Mason, Ian A. </author> <title> The Semantics of Destructive Lisp. Center for the Study of Language and Information, </title> <publisher> Stanford, </publisher> <year> 1986. </year>
+Reference: <author> Milner, R. </author> <title> "A theory of type polymorphism in programming". </title> <journal> JCSS 17,3 (1978),348-375. </journal>
+Reference: <author> Mitchell, </author> <title> J.C. "Coercion and Type Inference". </title> <booktitle> 11'th ACM POPL, </booktitle> <year> 1984, </year> <pages> 175-185. </pages>
+Reference: <author> Moon, D. </author> <title> "Garbage collection in a large Lisp system". </title> <booktitle> ACM Lisp and Functional Programming Conf., </booktitle> <address> 1984,235-246. </address>
+Reference: <author> Muchnik, S. S., and Jones, </author> <title> N.D. "Binding time optimizations in programming languages: some thoughts toward the design of an ideal language". </title> <booktitle> ACM POPL, </booktitle> <year> 1976. </year>
+Reference: <author> Muchnik, S., and Jones, N. </author> <title> "Flow analysis and optimization of LISP-like structures". In Program Flow Analysis: Theory and Applications, by the same authors, </title> <publisher> Prentice-Hall, </publisher> <address> Englewood Cliffs, NJ, </address> <year> 1981. </year>
+Reference: <author> Peyton-Jones, </author> <title> S.L. </title> <booktitle> The Implementation of Functional Programming Languages. </booktitle> <publisher> Prentice-Hall, </publisher> <address> NY, </address> <year> 1987. </year>
+Reference: <author> Pleban, Uwe F. </author> <title> Preexecution Analysis Based on Denotational Semantics. </title> <type> Ph.D. Thesis, </type> <institution> University of Kansas, </institution> <year> 1981. </year>
+Reference: <author> Ruggieri, Christina. </author> <title> Dynamic Memory Allocation Techniques Based on the Lifetimes of Objects. </title> <type> Ph.D. Thesis, </type> <institution> Purdue University, </institution> <month> August, </month> <year> 1987. </year>
+Reference: <author> Ruggieri, C. and Murtagh, T. </author> <title> "Lifetime analysis of dynamically allocated objects". </title> <booktitle> 15'th ACM POPL, </booktitle> <month> January, </month> <year> 1988. </year>
+Reference: <author> Schwartz, J.T. </author> <title> "Optimization of very high level languages, Part II: Deducing relationships of inclusion and membership". </title> <booktitle> Computer Languages 1,3 (1975),197 218. </booktitle>
+Reference: <author> Steele, G.L., Jr. Rabbit: </author> <title> A compiler for Scheme. AI Memo 474, </title> <publisher> MIT, </publisher> <month> May </month> <year> 1978. </year>
+Reference: <author> Suzuki, N. </author> <title> "Inferring types in Smalltalk". </title> <booktitle> 8'th ACM POPL, </booktitle> <address> 1981,p.187-199. </address>
+Reference: <author> Ungar, D. </author> <title> "Generation scavenging: A nondisruptive high performance storage reclamation algorithm". A C M Software Eng. </title> <journal> Symp. on Prac. Software Dev. Envs., SIGPLAN Notices 19,5 (May 1984),157-167. </journal>
+Reference: <author> Wand, M. </author> <title> "A Semantic Prototyping System". </title> <booktitle> Proc. of ACM Sigplan '84 Symp. on Compiler Constr., Sigplan Notices 19,6 (June 1984),213-221. </booktitle>
+Reference: <author> Wand, M., and O'Keefe, P. </author> <title> "On the Complexity of Type Inference with Coercion". </title> <journal> ACM Func. Prog. Langs. and Comp. Arch. </journal> <volume> (FPCA), </volume> <year> 1989, </year> <pages> 293-297. </pages>
+References-found: 40
+

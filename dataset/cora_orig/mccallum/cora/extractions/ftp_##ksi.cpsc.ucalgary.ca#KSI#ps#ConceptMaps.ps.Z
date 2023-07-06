@@ -1,0 +1,13 @@
+URL: ftp://ksi.cpsc.ucalgary.ca/KSI/ps/ConceptMaps.ps.Z
+Refering-URL: http://ksi.cpsc.ucalgary.ca/articles/
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Email: -gaines, mildred-@cpsc.ucalgary.ca  
+Title: Concept Maps as Hypermedia Components  
+Author: Brian R. Gaines and Mildred L. G. Shaw 
+Address: Alberta, Canada T2N 1N4  
+Affiliation: Knowledge Science Institute University of Calgary  
+Abstract: Concept mapping has a history of use in many disciplines as a formal or semiformal diagramming technique. Concept maps have an abstract structure as typed hypergraphs, and computer support for concept mapping can associate visual attributes with node types to provide an attractive and consistent appearance. Computer support can also provide interactive interfaces allowing arbitrary actions to be associated with nodes such as hypermedia links to other maps and documents. This article describes a general concept mapping system that is open architecture for integration with other systems, scriptable to support arbitrary interactions and computations, and cutomizable to emulate many styles of map. The system supports collaborative development of concept maps across local area and wide area networks, and integrates with WorldWide Web in both client helper and server gateway roles. A number of applications are illustrated ranging through education, artificial intelligence, active documents, hypermedia indexing and concurrent engineering. It is proposed that concept maps be regarded as basic components of any hypermedia system, complementing text and images with formal and semiformal active diagrams. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

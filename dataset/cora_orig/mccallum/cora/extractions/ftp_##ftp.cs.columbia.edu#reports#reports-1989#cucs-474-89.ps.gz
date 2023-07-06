@@ -1,0 +1,21 @@
+URL: ftp://ftp.cs.columbia.edu/reports/reports-1989/cucs-474-89.ps.gz
+Refering-URL: http://www.cs.columbia.edu/~library/1989.html
+Root-URL: http://www.cs.columbia.edu
+Title: Robot Hands and the Mechanics of Manipulation. The MIT Press, 1985. Some discussion of static
+Author: [Mason and Jr. ] Matthew T. Mason and J. Kenneth Salisbury Jr. [Mishra and Silver ] Bud Mishra and Naomi Silver. [Narasimhan ] Sundar Narasimhan. Dexterous [Pao and Speeter ] L. Pao and T.H. Speeter. [Speeter ] Thomas H. Speeter. [Venkataraman and Djaferis ] S.T. Venkataraman and Theodore E. Djaferis. 
+Degree: teleoperation. 1989. Submitted to IEEE-SMC.  
+Address: 3:1758-1763, 1989.  
+Note: Master's thesis, Massachusetts Institute of Tech nology, 1988.  Proceedings 1989 IEEE International Conference on Robotics and Automation,  Proceedings 1987 IEEE International Conference on Robotics and Automation, 1:77-82, 1987. 15  
+Abstract-found: 0
+Intro-found: 1
+Reference: [Allen and Roberts 89] <author> Peter K. Allen and Kenneth S. Roberts. </author> <title> Haptic object recognition using a multi-fingered dextrous hand. </title> <booktitle> Proceedings 1989 IEEE International Conference on Robotics and Automation, </booktitle> 1():342-347, 1989. 
+Reference: [Allen et al. 89] <author> Peter K. Allen, Paul Michelman, and Kenneth S. Roberts. </author> <title> An integrated system for dextrous manipulation. </title> <booktitle> Proceedings 1989 IEEE International Conference on Robotics and Automation, </booktitle> 1():612-617, 1989. 
+Reference: [An et al. 79] <author> K.N. </author> <title> An, E.Y. Chao, W.P. Cooney III, and R.L. Linscheid. Normative model of human hand for biomedical analysis. </title> <journal> Journal of Biomechanics, </journal> <volume> 12 </volume> <pages> 775-788, </pages> <year> 1979. </year>
+Reference: [Andersson 89] <author> R.L. Andersson. </author> <title> Computer architectures for robot control: a comparison and a new processor delivering 20 real mflops. </title> <booktitle> Proceedings 1989 IEEE International Conference on Robotics and Automation, </booktitle> <volume> 2 </volume> <pages> 1162-1168, </pages> <year> 1989. </year>
+Reference: [Arbib et al. 83] <author> Michael A. Arbib, Thea Iberall, and Damian Lyons. </author> <title> Coordinated Control Programs for Movements of the Hand. </title> <type> Technical Report COINS Technical Report 83-25, </type> <institution> University of Massachusetts, Amherst, </institution> <month> August </month> <year> 1983. </year>
+Reference: [Bekey et al. 88] <author> George Bekey, Rajko Tomovic, and Ilija Zaljkovic. </author> <title> Control architecture for the belgrad-usc hand. </title> <booktitle> Proceedings 1988 IEEE International Conference on Robotics and Automation, </booktitle> <year> 1988. </year>
+Reference: [Buford and Thompson 87] <author> W.L. Buford and D.E. Thompson. </author> <title> A system for three-dimensional interactive simulation of hand biomechanics. </title> <journal> IEEE Transactions on Biomedical Engineering, </journal> <volume> 34(6) </volume> <pages> 444-453, </pages> <year> 1987. </year>
+Reference: [DHM 88] <institution> DHM Technical Specification. Exos Inc., Lexington, </institution> <address> MA, </address> <year> 1988. </year>
+
+References-found: 8
+

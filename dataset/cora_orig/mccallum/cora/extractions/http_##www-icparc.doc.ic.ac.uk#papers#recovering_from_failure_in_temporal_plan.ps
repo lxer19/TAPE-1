@@ -1,0 +1,24 @@
+URL: http://www-icparc.doc.ic.ac.uk/papers/recovering_from_failure_in_temporal_plan.ps
+Refering-URL: http://www-icparc.doc.ic.ac.uk/papers.html
+Root-URL: 
+Title: Recovering from Failure in Temporal Planning  
+Author: Ho-Jin Choi, Vassilis Liatsos, Amin El-Kholy, and Barry Richards 
+Date: 3 June 1996  
+Note: Appeared in ECAI-96 workshop: Cross-fertilisation in Planning  
+Abstract: This paper describes an open problem in temporal planning, namely the problem of recovering from failure in collapsing time intervals. We illustrate this problem in the context of the parcPLAN planning system and show its full complexity by combining the problem with resource reasoning. We also summarise some of the progress made to tackle this problem. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> James F. Allen and J. A. Koomen. </author> <title> Planning using a temporal world model. </title> <booktitle> In Proceedings of the Eighth International Joint Conference on Artificial Intelligence,IJCAI-83, </booktitle> <pages> pages 741-747, </pages> <address> Karlsruhe, Germany, </address> <year> 1983. </year>
+Reference: [2] <author> J.F. Allen, H.A. Kautz, R.N. Pelavin, and J.D. Tenenberg. </author> <title> Reasoning about Plans. </title> <publisher> Morgan Kaufmann Pub., </publisher> <year> 1991. </year>
+Reference: [3] <author> Ho Jin Choi. </author> <title> Controlling Temporal Constraints in Planning. </title> <type> PhD thesis, </type> <institution> Imperial College, University of London, </institution> <year> 1995. </year>
+Reference-contexts: Research is now focused on reducing the branching factor on goal selection by analysing failure in temporal planning and extracting the set of conflicting goals. 4.2 Utilising Decomposition Method In <ref> [3] </ref> an efficient technique is developed for temporal reasoning during collapsing through a strategy of constructing decomposed constraint networks. The decomposition strategy uses a notion of incompatibility connection, which refers to a maximal subgraph connected through incompatibility relations (e.g., domain rules) specified in the planning domain.
+Reference: [4] <author> Thomas L. Dean, R. James Firby, and David Miller. </author> <title> Hierarchical planning involving deadlines, travel time and resources. </title> <journal> Computational Intelligence, </journal> <volume> 4(4) </volume> <pages> 381-398, </pages> <year> 1988. </year>
+Reference: [5] <author> A. El-Kholy and B. Richards. </author> <title> Temporal and Resource reasoning in Planning: the parcPLAN approach. </title> <booktitle> In Proceedings of the 12th European Conference on Artificial In-telligene, </booktitle> <pages> pages 614-618. </pages> <publisher> John Wiley and Sons, Ltd., </publisher> <year> 1996. </year>
+Reference: [6] <author> J.C. Hogge. TPLAN: </author> <title> A temporal interval-based planner with novel extensions. </title> <type> Technical Report UIUCDCS-R-87-1367, </type> <institution> Dept. of Computer Science, University of Illinois at Urbana-Champaign, </institution> <year> 1987. </year>
+Reference: [7] <author> R.E. Korf. </author> <title> Depth-first iterative-deepening: An optimal admissible tree search. </title> <journal> Artificial Intelligence, </journal> <volume> 27 </volume> <pages> 97-109, </pages> <year> 1985. </year>
+Reference-contexts: Currently, the planner selects a goal non-deterministically by creating a choice-point on goal selection. 6 The enhanced version of parcPLAN uses the depth first iterative deepening (DFID) search strategy described in <ref> [7] </ref>, to explore all the options available. The depth cutoff value, in our case, is the number of actions introduced for a plan.
+Reference: [8] <author> J. M. Lever and B. Richards. parcPLAN: </author> <title> a planning architecture with parallel actions, resources and constraints. </title> <booktitle> In Proceedings of the 9th International Symposium on Methodologies for Intelligent Systems, </booktitle> <pages> pages 213-222, </pages> <year> 1994. </year>
+Reference: [9] <author> Q. Yang. </author> <title> A theory of conflict resolution in planning. </title> <journal> Artificial Intelligence, </journal> <volume> 58 </volume> <pages> 361-392, </pages> <year> 1992. </year>
+Reference-contexts: The decomposition method, possibly with the support of some heuristics, helps the planner to perform a global analysis over the failed situation and to decide which local areas to resolve conflicts in an optimal way. Thus, the advantages gained by analysing conflict resolution in a global manner studied by <ref> [9] </ref> can be entertained similarly in our framework. 5 Conclusion In this paper we have presented the failure recovery problem in the context of the parcPLAN 7 temporal planning architecture.
+References-found: 9
+

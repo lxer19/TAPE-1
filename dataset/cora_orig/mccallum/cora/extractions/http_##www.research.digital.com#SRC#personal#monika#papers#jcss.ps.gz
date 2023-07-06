@@ -1,0 +1,14 @@
+URL: http://www.research.digital.com/SRC/personal/monika/papers/jcss.ps.gz
+Refering-URL: http://www.research.digital.com/SRC/personal/monika/papers.html
+Root-URL: http://www.research.digital.com
+Title: Faster shortest-path algorithms for planar graphs  for maximum flow in a directed planar graph.  
+Author: Philip Klein Satish Rao Monika Rauch Sairam Subramanian 
+Affiliation: Brown University  NEC Research Institute  Cornell University  Brown University  
+Date: 1994  
+Note: Special Issue of Journal of Computer and System Sciences on Selected Papers of STOC  obtained  
+Abstract: We give a linear-time algorithm for single-source shortest paths in planar graphs with nonnegative edge-lengths. Our algorithm also yields a linear-time algorithm for maximum flow in a planar graph with the source and sink on the same face. The previous best algorithms for these problems required (n log n) time where n is the number of nodes in the input graph. For the case where negative edge-lengths are allowed, we give an algorithm requiring O(n 4=3 log nL) time, where L is the absolute value of the most negative length. Previous algorithms for shortest paths with negative edge-lengths required (n 3=2 ) time. Our shortest-path algorithm yields an O(n 4=3 log n)- time algorithm for finding a perfect matching in a planar bipartite graph. A similar improvement is 
+Abstract-found: 1
+Intro-found: 1
+Reference: <institution> 15 </institution>
+References-found: 1
+

@@ -1,0 +1,13 @@
+URL: http://www.running-start.com/dkoski/701.ps.gz
+Refering-URL: http://www.sco.com/Technology/tcl/Tcl.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: A TCL Compiler  
+Author: David Koski 
+Pubnum: CS701  
+Abstract: A TCL to C compiler is described. It converts TCL procedures into C functions, which can be linked to the TCL interpreter. The compiler also performs type analysis to enable the use of int and double C variables, where possible. These features combine to provide a remarkable speedup for numerically intensive programs, and a significant speedup for string oriented procedures. This paper discusses how the type inference is performed, future directions that the project might take, and some problems with the TCL language that result in restrictions on what can be compiled. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Ousterhout, John K. </author> <title> Tcl and the Tk Toolkit. </title> <publisher> Addison-Wesley, </publisher> <year> 1994. </year>
+Reference: <author> Sah, Adam; Blow, Jon. </author> <title> "A Compiler for the TCL Language." </title> <editor> Rouse, Forest R.; Christopher, Wayne. </editor> <title> "A TCL to C Compiler." </title> <type> 12 </type>
+References-found: 2
+

@@ -1,0 +1,20 @@
+URL: http://ei.cs.vt.edu/~succeed/IEEEComputer/abdulla.abs.ps.gz
+Refering-URL: http://ei.cs.vt.edu/~succeed/IEEEComputer/
+Root-URL: http://www.cs.vt.edu
+Email: fabdulla,abrams,foxg@vt.edu  
+Phone: +1-540-231-6931  
+Title: Scaling the World-Wide Web ABSTRACT  
+Author: Ghaleb Abdulla Marc Abrams Edward A. Fox 
+Date: March 20, 1996  
+Address: VA 24061-0106  
+Affiliation: Virginia Polytechnic Institute and State University Department of Computer Science Blacksburg,  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> A. Luotonen and K. Altis. </author> <title> World-Wide Web proxies. </title> <journal> Computer Networks and ISDN Systems, </journal> <volume> 27(2), </volume> <year> 1994. </year> <note> &lt;URL: http://www1.cern.ch/PapersWWW94/luotonen.ps&gt;. </note>
+Reference-contexts: We start by identifying techniques that improve scalability other than the brute force solutions of increasing network bandwidth and server throughput. These techniques are: use of caching on the server side, on the client side, and in the network side, known as "Proxy caching" <ref> [1] </ref>, and finally data compression. The Web design, although inherently unscalable, can be helped by widespread migration of document copies from servers to points closer to users.
+Reference: [2] <author> M. Abrams, S. Williams, G. Abdulla, S. Patel, R. Ribler, and E. A. Fox. </author> <title> Multimedia traffic analysis using Chitra95. </title> <booktitle> In Proc. ACM Multimedia '95, </booktitle> <pages> pages 267-276, </pages> <address> San Francisco, </address> <month> November </month> <year> 1995. </year> <note> ACM. </note>
+Reference-contexts: Our model is illustrated in Figure 1. We have defined the model parameters with values that were measured and reported in <ref> [2] </ref> and [3]. We have developed a series of scenarios starting from a base case to study the Web scalability. The objective of the first scenario was to show that with caching and enough network bandwidth, the Web can be scaled up to support the required number of clients.
+Reference: [3] <author> S. Williams, M. Abrams, C. R. Standridge, G. Abdulla, , and E. A. Fox. </author> <title> Removal policies in network caches for world-wide web documents. </title> <note> In submitted for publication, February 1996. &lt;URL: http://ei.cs.vt.edu/~succeed/96sigcomm/96sigcomm.html&gt;. 5 </note>
+Reference-contexts: Our model is illustrated in Figure 1. We have defined the model parameters with values that were measured and reported in [2] and <ref> [3] </ref>. We have developed a series of scenarios starting from a base case to study the Web scalability. The objective of the first scenario was to show that with caching and enough network bandwidth, the Web can be scaled up to support the required number of clients.
+References-found: 3
+

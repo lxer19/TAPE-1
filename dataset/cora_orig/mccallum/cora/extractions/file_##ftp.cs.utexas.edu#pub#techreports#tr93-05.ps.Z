@@ -1,0 +1,27 @@
+URL: file://ftp.cs.utexas.edu/pub/techreports/tr93-05.ps.Z
+Refering-URL: http://www.cs.utexas.edu/users/rvdg/abstracts/JPDC.GSUM2.html
+Root-URL: http://www.cs.utexas.edu
+Title: References The NAS Parallel Benchmarks, Optimal broadcasting in mesh-connected architectures. Efficient Communication Primitives on Mesh
+Author: [] D. Bailey, J. Barton, T. Lasinski, and H. Siman, [] M. Barnett, D.G. Payne, and R. van de Geijn. [] M. Barnett, R. Littlefield, D.G. Payne, and R. van de Geijn. [] M. Barnett, R. Littlefield, D.G. Payne, and R. van de Geijn, [] J. Dongarra and R. van de Geijn, M. Feyereisen and R. A. Kendall, [] C.-T. Ho and S. L. Johnsson, [] R.A. van de Geijn. 
+Note: Sixth SIAM Conf. on Par. Proc.  to appear in the proceedings of the 7th International Parallel Processing Symposium, Newport Beach, CA,  Architectures, Parallel Computing, 18, pp. 973-982, 1992. [6]  In Proceedings of the 1986 International Conference on Parallel Processing, pages 640-648, IEEE, 1986. [8] S.L. Lillevik, The Touchsone 30 Gigaflop DELTA Prototype. In Sixth Distributed Memory Computing Conference Proceedings, pages 671-677. IEEE Computer Society Press, 1991. [9] R. Littlefield.  and iPSC/860. In Proceedings of the 1992 Intel User's Group Meeting,  [10] W. Smith, Molecular dynamics on hypercube parallel computers, Computer Physics Communications  Computing Conference Proceedings, pages 291-294. IEEE Computer Society Press, 1991. [12] R.A. van de Geijn, On Global Combine Operations, to appear in Journal of Parallel and Distributed Computing. 15  
+Address: 1991.  Comp., Norfolk, Virginia,  Dallas, TX,  
+Affiliation: Univ. of Texas,  for Sci.  
+Date: Jan. 1991.  March 22-24, 1993.  April 13-16, 1993.  October 4-7.  62 (1991) 229-248.  
+Pubnum: Report RNR-01-002,  Computer Science report TR-91-38,  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> D. Bailey, J. Barton, T. Lasinski, and H. Siman, </author> <title> The NAS Parallel Benchmarks, </title> <type> Report RNR-01-002, </type> <month> Jan. </month> <year> 1991. </year>
+Reference: [2] <author> M. Barnett, D.G. Payne, and R. van de Geijn. </author> <title> Optimal broadcasting in mesh-connected architectures. </title> <institution> Computer Science report TR-91-38, Univ. of Texas, </institution> <year> 1991. </year>
+Reference: [3] <author> M. Barnett, R. Littlefield, D.G. Payne, and R. van de Geijn. </author> <title> Efficient Communication Primitives on Mesh Architectures with Hardware Routing, </title> <booktitle> Sixth SIAM Conf. on Par. Proc. for Sci. Comp., </booktitle> <address> Norfolk, Virginia, March 22-24, </address> <year> 1993. </year>
+Reference: [4] <author> M. Barnett, R. Littlefield, D.G. Payne, and R. van de Geijn, </author> <title> Global Combine on Mesh Architectures with Wormhole Routing, </title> <booktitle> to appear in the proceedings of the 7th International Parallel Processing Symposium, </booktitle> <address> Newport Beach, CA, </address> <month> April 13-16, </month> <year> 1993. </year>
+Reference: [5] <author> J. Dongarra and R. van de Geijn, </author> <title> Reduction to Condensed Form on Distributed Memory Architectures, </title> <journal> Parallel Computing, </journal> <volume> 18, </volume> <pages> pp. 973-982, </pages> <year> 1992. </year>
+Reference: [6] <author> M. Feyereisen and R. A. Kendall, </author> <title> An efficient implementation of the Direct-SCF Algorithm on Parallel Computer Architectures, </title> <journal> Theoretica Chimica Acta, </journal> <note> in press. </note>
+Reference: [7] <author> C.-T. Ho and S. L. Johnsson, </author> <title> Distributed Routing Algorithms for Broadcasting and Personalized Communication in Hypercubes, </title> <booktitle> In Proceedings of the 1986 International Conference on Parallel Processing, </booktitle> <pages> pages 640-648, </pages> <publisher> IEEE, </publisher> <year> 1986. </year>
+Reference: [8] <author> S.L. Lillevik, </author> <title> The Touchsone 30 Gigaflop DELTA Prototype. </title> <booktitle> In Sixth Distributed Memory Computing Conference Proceedings, </booktitle> <pages> pages 671-677. </pages> <publisher> IEEE Computer Society Press, </publisher> <year> 1991. </year>
+Reference: [9] <author> R. Littlefield. </author> <title> Characterizing and Tuning Communications Performance on the Touchstone DELTA and iPSC/860. </title> <booktitle> In Proceedings of the 1992 Intel User's Group Meeting, </booktitle> <address> Dallas, TX, </address> <month> October 4-7. </month>
+Reference: [10] <author> W. Smith, </author> <title> Molecular dynamics on hypercube parallel computers, </title> <journal> Computer Physics Communications 62 (1991) 229-248. </journal>
+Reference: [11] <author> R.A. van de Geijn. </author> <title> Efficient global combine operations. </title> <booktitle> In Sixth Distributed Memory Computing Conference Proceedings, </booktitle> <pages> pages 291-294. </pages> <publisher> IEEE Computer Society Press, </publisher> <year> 1991. </year>
+
+
+References-found: 11
+

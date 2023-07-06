@@ -1,0 +1,19 @@
+URL: ftp://ftp.cs.umd.edu/pub/papers/papers/3729/3729.ps.Z
+Refering-URL: http://www.cs.umd.edu/TRs/TR.html
+Root-URL: 
+Title: A Prototype for a Distributed Space Physics Data System expressive data model, like the one
+Author: Charles Falkenberg Chuck Goodrich James Gallagher Peter Cornillon Glenn Flierl 
+Keyword: INDEX TERMS: Scientific data formats, scientific database management, distributed data systems, Space Physics Data System, Distributed Oceanographic Data System.  
+Note: The work described demonstrates the power of an  the various sub-disciplines is significant.  This work was supported by NASA grant NAGW-4580 to the University of Maryland and NASA grants NAGW 3784 and NAGW 3790 to the  
+Address: Rhode Island College Park, MD 20742 Narragansett, RI 02882-1197  Cambridge, MA  Rhode Island.  
+Affiliation: Advanced Visualization Laboratory Graduate School of Oceanography University of Maryland University of  Massachusetts Institute of Technology  University of  
+Email: fcsfalk, ccgg@avl.umd.edu fjgallagher, pcornillong@gso.uri.edu  glenn@mead.mit.edu  
+Date: December 23, 1996  
+Abstract: The collaborative analysis of data within the Space Physics community is hindered, in part, by the wide number of data formats and the wide distribution of data archives. In an attempt to address these two problems we have implemented a prototype which retrieves datasets, stored in different data formats at several remote locations. Our prototype uses the Key Parameter Visualization Tools (KPVT) and the Distributed Oceanographic Data System (DODS) to view data from the ISEE1, ISEE2, and ISTP programs. Our goal is to demonstrate the ability to access and use several types of remote data and existing analysis tools. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> C. Falkenberg and J. Purtilo. </author> <title> "Parallel I/O using a distributed disk cluster: An exercise in tailored prototyping". </title> <type> Technical Report UMIACS-TR-95-18, </type> <institution> Institute for Advanced Computer Studies at the University of Maryland, College Park, MD, </institution> <month> February </month> <year> 1995. </year>
+Reference: [2] <institution> National Geophysical Data Center, Boulder, </institution> <address> Co 80303. </address> <month> FreeForm, </month> <title> A Flexible System of Format Descriptions for Data Access, Users Guide, </title> <note> Version 3.1. </note>
+Reference: [3] <author> Russ Rew, Glenn Davis, and Seve Emmerson. </author> <title> NetCDF User's Guide. </title> <institution> Unidata Program Center, University Corporation for Atmospheric Research, </institution> <month> April </month> <year> 1993. </year> <pages> 5 6 </pages>
+References-found: 3
+

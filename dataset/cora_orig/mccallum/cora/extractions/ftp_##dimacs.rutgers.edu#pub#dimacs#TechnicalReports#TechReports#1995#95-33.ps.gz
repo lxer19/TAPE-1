@@ -1,0 +1,17 @@
+URL: ftp://dimacs.rutgers.edu/pub/dimacs/TechnicalReports/TechReports/1995/95-33.ps.gz
+Refering-URL: http://dimacs.rutgers.edu/TechnicalReports/1995.html
+Root-URL: http://www.cs.rutgers.edu
+Note: 9  
+Abstract: Ma] Mal'cev, A. J. (1958), Homomorphisms onto finite groups, Ivanov. Gos. Ped. Inst. Ucen. Zap. Vol 18, 49-60. [Se] Segal, Daniel (1983). Polycyclic Groups. Cambridge, England: Cambridge University Press. [Si] Sims, Charles C. (1994). Computation with finitely presented groups. Cambridge, Eng land: Cambridge University Press. [We] Wehrfritz, B. A. F. (1973). Infinite Linear Groups. New York: Springer-Verlag. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [BBCIL] <author> Babai, L., Beals, R., Cai, J-y., Ivanyos, G., Luks, E. M. </author> <year> (1994), </year> <title> Multiplicative equations over commuting matrices. </title> <type> Manuscript. </type>
+Reference: [BCRS] <author> Baumslag, Gilbert, Cannonito, Frank B., Robinson, Derek J., Segal, </author> <title> Dan (1991). The algorithmic theory of polycyclic-by-finite groups. </title> <journal> J. Algebra 142, </journal> <volume> no. 1, </volume> <pages> 118-149. </pages>
+Reference: [Be1] <author> Beals, Robert (1995). </author> <title> Algorithms for matrix groups and the Tits alternative. </title> <note> To appear, Proc. 36th IEEE FOCS. </note>
+Reference: [Be2] <author> Beals, Robert (1995). </author> <title> Testing integrality of matrix groups. </title> <note> In preparation. </note>
+Reference: [BP] <author> Buchmann, J. Pohst, M. </author> <year> (1989), </year> <title> Computing a lattice basis from a system of generating vectors. </title> <booktitle> EUROCAL '87 (Leipzig), </booktitle> <pages> 54-63, </pages> <note> Lecture Notes in Comput. </note> <institution> Sci., </institution> <address> Berlin: </address> <publisher> Springer. </publisher>
+Reference: [Di1] <author> Dixon, John D. </author> <year> (1985). </year> <title> The orbit-stabilizer problem for linear groups. Can. </title> <journal> J. Math. </journal> <volume> Vol. XXXVII, No. 2, </volume> <pages> 238-259. </pages>
+Reference: [Ge] <author> Ge, G. </author> <year> (1993). </year> <title> Algorithms related to multiplicative representations of algebraic numbers, </title> <type> PhD thesis, </type> <institution> Math Dept., </institution> <address> U. C. Berkeley. </address>
+
+References-found: 7
+

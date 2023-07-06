@@ -1,0 +1,28 @@
+URL: ftp://ftp.cc.gatech.edu/pub/people/arkin/web-papers/coop.ps.Z
+Refering-URL: http://www.cc.gatech.edu/aimosaic/robot-lab/mrl-online-publications.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: Cooperative Multiagent Robotic Systems  
+Author: Ronald C. Arkin and Tucker Balch 
+Address: Atlanta, Georgia 30332-0280  
+Affiliation: Mobile Robot Laboratory College of Computing Georgia Institute of Technology  
+Abstract-found: 0
+Intro-found: 1
+Reference: 1. <author> Arkin, R.C., </author> <year> 1989. </year> <title> "Motor Schema Based Mobile Robot Navigation", </title> <journal> International Journal of Robotics Research, </journal> <volume> vol 8(4), </volume> <pages> pp. 92-112. </pages>
+Reference: 2. <author> Arkin, </author> <title> R.C., "Reactive Robotic Systems", article in Handbook of Brain Theory and Neural Networks, </title> <editor> ed. M. Arbib, </editor> <publisher> MIT Press, </publisher> <pages> pp. 793-796, </pages> <year> 1995. </year>
+Reference: 3. <author> Arkin, R.C. and Ali, K., </author> <title> "Integration of Reactive and Telerobotic Control in Multi-agent Robotic Systems", </title> <booktitle> Proc. Third International Conference on Simulation of Adaptive Behavior, (SAB94) [From Animals to Animats], </booktitle> <address> Brighton, England, </address> <month> Aug. </month> <year> 1994, </year> <pages> pp. 473-478. </pages>
+Reference: 4. <author> Arkin, R. and MacKenzie, D., </author> <title> "Temporal Coordination of Perceptual Algorithms for Mobile Robot Navigation", </title> <journal> IEEE Transactions on Robotics and Automation, </journal> <volume> Vol. 10, No. 3, </volume> <month> June </month> <year> 1994, </year> <pages> pp. 276-286. </pages>
+Reference: 5. <author> Balch, T., and Arkin, </author> <title> R.C., "Motor schema-based formation control for multiagent robot teams", </title> <booktitle> First International Conference on Multiagent Systems, </booktitle> <address> June 1995, San Francisco, </address> <pages> pp. 10-16. </pages>
+Reference: 6. <author> Balch, T., Boone, G., Collins, T., Forbes, H., MacKenzie, D., and Santamara, J. </author> <title> "Io, Ganymede and Callisto amultiagent robot trash-collecting team", </title> <journal> AI Magazine, </journal> <volume> 16(2) </volume> <pages> 39-51, </pages> <year> 1995. </year>
+Reference: 7. <author> Cao, Y., Fukunaga, A., Kahng, A., and Meng, F., </author> <booktitle> "Cooperative Mobile Robotics: Antecedents and Directions", Proc. 1995 IEEE/RSJ International Conference on Intelligent Robotics and Systems (IROS '95), Pittsburgh, PA, </booktitle> <volume> Vol. 1, </volume> <pages> pp. </pages> <month> 226-34 Aug. </month> <year> 1995. </year>
+Reference: 8. <author> Dudek, G., Jenkin, M., Milios, E., and Wilkes, D., </author> <year> 1993. </year> <title> "A Taxonomy for Swarm Robots", </title> <booktitle> Proc. 1993 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). </booktitle> <address> Yokohama, Japan, </address> <pages> pp. 441-447. </pages>
+Reference: 9. <author> Fukuda, T., Nakagawa, S., Kawauchi, Y., and Buss, M., </author> <title> "Structure Decision for Self Organising Robots Based on Cell Structures - CEBOT", </title> <booktitle> IEEE International Conference on Robotics and Automation, </booktitle> <address> Scottsdale Arizona, </address> <year> 1989, </year> <pages> pp. 695-700. </pages>
+Reference: 10. <institution> International Symposium on Distributed Autonomous Robotic Systems, RIKEN, Saitama, </institution> <address> Japan, </address> <year> 1992 </year> <month> and </month> <year> 1994. </year>
+Reference: 11. <author> Khatib, O., </author> <title> "Real-time Obstacle Avoidance for Manipulators and Mobile Robots", </title> <booktitle> Proc. IEEE Int. Conf. Robotics and Automation, </booktitle> <address> p. 500, St. Louis, </address> <year> 1985. </year>
+Reference: 12. <author> Lee, J., Huber, M., Durfee, E., and Kenny, P., "UM-PRS: </author> <title> An Implementation of the Procedural Reasoning System for Multirobot Applications", </title> <booktitle> AIAA/NASA Conference on Intelligent Robots in Field, Factory, Service, and Space (CIRFFSS '94), </booktitle> <month> March </month> <year> 1994, </year> <pages> pp. 842-849. </pages>
+Reference: 13. <author> MacKenzie, D., Cameron, J., Arkin, R., </author> <title> "Specification and Execution of Multiagent Missions", </title> <booktitle> Proc. 1995 Int. Conf. on Intelligent Robotics and Systems IROS '95, Pittsburgh, PA, </booktitle> <volume> Vol. 3, </volume> <pages> pp. 51-58. </pages>
+Reference: 14. <author> Mataric, M., </author> <title> "Minimizing Complexity in Controlling a Mobile Robot Population", </title> <booktitle> Proc. IEEE International Conference on Robotics and Automation, </booktitle> <address> Nice, FR, </address> <month> May </month> <year> 1992. </year>
+Reference: 15. <author> Parker, L., </author> <title> "Adaptive Action Selection for Cooperative Agent Teams", From Animals to Animats: </title> <booktitle> Proc. 2nd International Conference on the Simulation of Adaptive Behavior, </booktitle> <publisher> MIT Press/Bradford Books, </publisher> <address> Honolulu, HI, </address> <year> 1993, </year> <pages> pp. 442-450. </pages>
+Reference: 16. <author> Simmons, R., </author> <title> "The 1994 AAAI mobile robot competition and exhibition", </title> <journal> AI Magazine, </journal> <volume> 16(2) </volume> <pages> 19-30, </pages> <year> 1995. </year>
+Reference: 17. <institution> U.S. Army, Field Manual No 7-7J. Department of the Army, </institution> <address> Washington, D.C., </address> <year> 1986. </year> <month> 16 </month>
+References-found: 17
+

@@ -1,0 +1,25 @@
+URL: http://www.cs.ucla.edu/~stott/ge/CSD-950026.ps.Z
+Refering-URL: http://www.cs.ucla.edu/~stott/ge/
+Root-URL: http://www.cs.ucla.edu
+Title: Elementary Matrix Theory, NY: Dover Books, 1966. Computer Solution of Linear Algebraic Systems, Prentice-Hall, 1967.
+Author: [] G.E. Forsythe, C.B. Moler, [] G.H. Golub, C.F. Van Loan, Y. Robert, James Joseph Sylvester, Volume I (-), H.F. Baker, ed., 
+Date: 1975.  
+Affiliation: Baltimore: Johns Hopkins University  Washington: National Bureau of Standards, 1954.  
+Note: Copyright c fl1995 D. Stott Parker 13 References [3] H. Eves,  Press, 1989.  NY: Dover Books,  [8]  Philosophical Magazine 1, pp. 295-305, 1851. Reprinted in The Collected Mathematical Papers of  pp. 241-250, NY: Chelsea Publishing Company, 1973. [10] J. Todd, "The  Quart. J. Mech. 1, 287-308, 1948. [12] J.H. Wilkinson, The Algebraic Eigenvalue Problem, London: Oxford University Press, 1965.  
+Abstract: 1] F. Chio, "Memoire sur les fonctions connues sous le nom de resultantes ou de determinants". Turin, 32pp, 1853. (citation in [6]) [7] D.S. Parker, "Explicit Formulas for the Results of Gaussian Elimination", Technical Report CSD-950025, UCLA Computer Science Department, 1995. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> F. Chio, "Memoire sur les fonctions connues sous le nom de resultantes ou de determinants". Turin, 32pp, </author> <note> 1853. (citation in [6]) </note>
+Reference: [2] <author> J. Dongarra, I.S. Duff, D.C. Sorensen, H.A. van der Vorst, </author> <title> Solving Linear Systems on Vector and Shared Memory Computers, </title> <address> Philadelphia, PA: </address> <publisher> SIAM Press, </publisher> <year> 1991. </year>
+Reference: [3] <author> H. </author> <title> Eves, Elementary Matrix Theory, </title> <publisher> NY: Dover Books, </publisher> <year> 1966. </year>
+Reference: [4] <author> G.E. Forsythe, C.B. Moler, </author> <title> Computer Solution of Linear Algebraic Systems, </title> <publisher> Prentice-Hall, </publisher> <year> 1967. </year>
+Reference: [5] <author> G.H. Golub, C.F. Van Loan, </author> <title> Matrix Computations: Second Edition, </title> <publisher> Baltimore: Johns Hopkins University Press, </publisher> <year> 1989. </year>
+Reference: [6] <author> A.S. </author> <title> Householder, The Theory of Matrices in Numerical Analysis, </title> <publisher> NY: Dover Books, </publisher> <year> 1975. </year>
+Reference: [7] <author> D.S. Parker, </author> <title> "Explicit Formulas for the Results of Gaussian Elimination", </title> <type> Technical Report CSD-950025, </type> <institution> UCLA Computer Science Department, </institution> <year> 1995. </year>
+Reference: [8] <author> Y. Robert, </author> <title> The Impact of Vector and Parallel Architectures on the Gaussian Elimination Algorithm, </title> <publisher> NY: Halsted Press, </publisher> <year> 1990. </year>
+Reference: [9] <author> J.J. </author> <title> Sylvester, "On the Relation between the Minor Determinants of Linearly Equivalent Quadratic Functions", </title> <journal> Philosophical Magazine 1, </journal> <pages> pp. 295-305, </pages> <note> 1851. Reprinted in The Collected Mathematical Papers of James Joseph Sylvester, Volume I (1837-1853), </note> <editor> H.F. Baker, </editor> <publisher> ed., </publisher> <pages> pp. 241-250, </pages> <address> NY: </address> <publisher> Chelsea Publishing Company, </publisher> <year> 1973. </year>
+Reference: [10] <author> J. Todd, </author> <title> "The Condition of Finite Segments of the Hilbert Matrix", </title> <editor> in O. Taussky, ed., </editor> <title> Contributions to the Solution of Systems of Linear Equations and the Determination of Eigenvalues, </title> <institution> Washington: National Bureau of Standards, </institution> <year> 1954. </year>
+Reference: [11] <author> A.M. </author> <title> Turing, "Rounding-Off Errors in Matrix Processes", </title> <journal> Quart. J. Mech. </journal> <volume> 1, </volume> <pages> 287-308, </pages> <year> 1948. </year>
+
+References-found: 11
+

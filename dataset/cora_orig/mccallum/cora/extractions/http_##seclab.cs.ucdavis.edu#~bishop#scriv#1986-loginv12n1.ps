@@ -1,0 +1,24 @@
+URL: http://seclab.cs.ucdavis.edu/~bishop/scriv/1986-loginv12n1.ps
+Refering-URL: http://seclab.cs.ucdavis.edu/~bishop/secprog.html
+Root-URL: http://www.cs.ucdavis.edu
+Title: How To Write a Setuid Program  
+Author: Matt Bishop 
+Address: Moffett Field, CA 94035  
+Affiliation: Research Institute for Advanced Computer Science NASA Ames Research Center  
+Abstract: UNIX systems allow certain programs to grant privileges to users temporarily; these are called setuid programs. Because they explicitly violate the protection scheme designed into UNIX, they are among the most difficult programs to write. This paper discusses how to write these programs to make using them to compromise a UNIX system as difficult as possible. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Aleph-Null, </author> <note> ``Computer Recreations,'' Software Practise and Experience 1(2) pp. 201 - 204 (April - June 1971) - 19 </note> - 
+Reference-contexts: Introduction A typical problem in systems programming is often posed as a problem of keeping records <ref> [1] </ref>. Suppose someone has written a program and wishes to keep a record of its use.
+Reference: [2] <institution> UNIX System V Release 2.0 Programmer Reference Manual, </institution> <note> DEC Processor Version, AT&T Technologies (April 1984) </note>
+Reference-contexts: There are two versions of the manual referred to in this paper, one for 4.2 BSD UNIX <ref> [2] </ref>, and one for System V UNIX [3].
+Reference: [3] <author> UNIX Programmer's Manual, </author> <title> 4.2 Berkeley Software Distribution, Virtual VAX-11 Version, </title> <institution> Computer Science Division, Department of Electrical Engineering and Computer Science, University of California, Berkeley, </institution> <note> CA ( August 1983) </note>
+Reference-contexts: There are two versions of the manual referred to in this paper, one for 4.2 BSD UNIX [2], and one for System V UNIX <ref> [3] </ref>. Most commands are in the same section in both manuals; when this is not true, the section for each manual will be given. - 4 - One way such an attack was performed provides a classic example of why one needs to be careful when designing system programs.
+Reference: [4] <author> Kernighan, Brian and Plauger, P., </author> <title> The Elements of Programming Style, Second Edition, </title> <publisher> McGraw-Hill Book Company, </publisher> <address> New York, NY (1978) </address>
+Reference-contexts: Programming Style Although threats from the environment create a number of security holes, inappropriate programming style creates many more. While many of the problems in programming style are fairly typical (see <ref> [4] </ref> for a discussion of programming style in general), some are unique to UNIX and some to setuid programs. Do Not Write Interpreted Scripts That Are Setuid Some versions of UNIX allow command scripts, such as shell scripts, to be made setuid.
+Reference: [5] <author> Lampson, Butler, </author> <title> ``A Note on the Confinement Problem,'' </title> <journal> CACM 16(10) pp. </journal> <month> 613 - 615 (October </month> <year> 1973) </year>
+Reference-contexts: The issue of covert channels <ref> [5] </ref> also arises here; that is, information can be sent illicitly by controlling resources. However, this problem is much broader than the scope of this paper, so we shall pass over it.
+Reference: [6] <author> Darwin, Ian and Collyer, Geoff, </author> <title> ``Can't Happen or /* NOTREACHED */ or Real Programs Dump Core,'' </title> <booktitle> 1985 Winter USENIX Proceedings (January 1985) </booktitle>
+Reference-contexts: That way, the user cannot do any d amage as a result of encountering (or cre ating) the condition. For an excellent discussion of error detection and recovery under UNIX, see <ref> [6] </ref>. Be Careful With I/O Operations When a setuid process must create and write to a file owned by the person who is running the setuid program, either of two problems may arise.
+References-found: 6
+

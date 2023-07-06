@@ -1,0 +1,14 @@
+URL: http://polaris.cs.uiuc.edu/reports/1524.ps.gz
+Refering-URL: http://polaris.cs.uiuc.edu/polaris/rep2.html
+Root-URL: http://www.cs.uiuc.edu
+Title: Automatically Parallelizing the Main Loops in TFFT2 Via Access Region Analysis  
+Author: Jay Hoeflinger 
+Date: August 27, 1997  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> A. Aho, R. Sethi, J. Ullman. </author> <booktitle> Compilers Principles, Techniques, and Tools. </booktitle> <publisher> Addison-Wesley, </publisher> <address> CA, </address> <year> 1986 </year>
+Reference-contexts: To summarize an array reference in a nested loop, we must first identify the set of basic induction variables <ref> [1] </ref>, one per loop, in the loop nest. We will refer to such a basic induction variable for a loop as the loop index.
+Reference: [2] <author> Peng Tu. </author> <title> Automatic Array Privatization and Demand-Driven Symbolic Analysis. </title> <type> PhD Thesis, </type> <institution> University of Illinois at Urbana-Champaign, </institution> <year> 1995. </year> <month> 15 </month>
+Reference-contexts: But if it can be determined that the write accesses happen before the reads and that the write access region covers the read access region, then we can mark the descriptor write-first. This subject has been extensively discussed in the array privatization literature, for instance in <ref> [2] </ref>.
+References-found: 2
+

@@ -1,0 +1,17 @@
+URL: http://www.cs.cmu.edu/afs/cs.cmu.edu/usr/avrim/www/Papers/tocs.ps.gz
+Refering-URL: http://www.cs.cmu.edu/afs/cs.cmu.edu/usr/avrim/www/Randalgs98/
+Root-URL: http://www.cs.cmu.edu/~jr6b
+Email: avrim@cs.cmu.edu  pragh@almaden.ibm.com  
+Title: On a Theory of Computing Symposia  
+Author: Avrim Blum Prabhakar Raghavan 
+Address: Pittsburgh PA 15213-3891  650 Harry Rd. San Jose, CA 95120  
+Affiliation: School of Computer Science Carnegie Mellon University  IBM Almaden Research Center  
+Abstract: We consider the problem of scheduling a conference to achieve the benefits in time-compression of parallel sessions, but without the associated high degree of conflict between talks. We describe a randomized construction meeting these goals that we analyze based on an expansion property of an associated graph. We also give algorithms for attendees scheduling their time within such a conference, and algorithms for verifying a proposed conference schedule. Finally, we present simulation results for typical conference sizes. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> N. Alon and J. Spencer. </author> <title> The Probabilistic Method. </title> <publisher> Wiley, </publisher> <year> 1991. </year>
+Reference-contexts: If the cycles do not touch, then the two cycles together with the path in the tree between them (which has length at most 2 lg n) is our desired set. 2 What if we allow each talk to be given 3 times? In this case, standard arguments <ref> [1, 2] </ref> show that the bipartite graph will with high probability be an expander, and therefore all sets of ffn talks have the property that they can be seen without conflict. 2.1 Algorithms We now describe two algorithms.
+Reference: [2] <author> R. Motwani and P. Raghavan. </author> <title> Randomized Algorithms. </title> <publisher> Cambridge University Press, </publisher> <year> 1995. </year>
+Reference-contexts: If the cycles do not touch, then the two cycles together with the path in the tree between them (which has length at most 2 lg n) is our desired set. 2 What if we allow each talk to be given 3 times? In this case, standard arguments <ref> [1, 2] </ref> show that the bipartite graph will with high probability be an expander, and therefore all sets of ffn talks have the property that they can be seen without conflict. 2.1 Algorithms We now describe two algorithms.
+References-found: 2
+

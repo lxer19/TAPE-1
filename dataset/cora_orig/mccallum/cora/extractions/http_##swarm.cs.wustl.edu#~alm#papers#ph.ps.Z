@@ -1,0 +1,14 @@
+URL: http://swarm.cs.wustl.edu/~alm/papers/ph.ps.Z
+Refering-URL: http://swarm.cs.wustl.edu/~alm/
+Root-URL: http://www.cs.wustl.edu
+Title: A Formally Specified Negotiation Strategy for the Feature Interaction Problem  
+Author: Amy Murphy 
+Date: July 28, 1995, January 8, 1996  
+Abstract-found: 0
+Intro-found: 1
+Reference: <institution> References </institution>
+Reference: [1] <author> R. Gamble and S. Sen. </author> <title> Using formal specification to resolve conflicts between contracting agents. </title> <booktitle> In Proceedings AAAI-94 Workshop on Conflict Management in Cooperative Problem Solving, </booktitle> <pages> pages 33-38, </pages> <month> August </month> <year> 1994. </year>
+Reference-contexts: This paper describes a formal specification for a DAI system and provides a specific example within the telecommunications problem to explain some of the details. It relies heavily on the previous work <ref> [1, 2] </ref> and provides details of the comparisons and negotiation strategies that are only briefly discussed in these papers. 2 Overview The system has been divided into three levels of agents: managing agents, service agents, and operations agents, as shown in Figure 1.
+
+References-found: 2
+

@@ -1,0 +1,31 @@
+URL: http://www.cs.caltech.edu/~ps/papers/deboor/multdvdf.ps.Z
+Refering-URL: http://www.cs.caltech.edu/~ps/papers/deboor/
+Root-URL: http://www.cs.caltech.edu
+Email: j  
+Title: A Multivariate Divided Difference trying to understand what might be a reasonable way to describe
+Author: C. de Boor g() g(a) Charles K. Chui and Larry L. 
+Note: In  in which hx; yi  Schumaker (eds.), pp. 1-10. Copyright o c 1995 by World Scientific Publishing Co., Inc. All rights of reproduction in any form reserved. ISBN 0-12-xxxxxx-  
+Abstract: A multivariate kth divided difference is proposed and shown to lead to new error formul for polynomial interpolation on some standard multivariate point sets. x1. Introduction
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> Byelostotskij, A. Ja., </author> <title> Some methods for the solution of functional equations (Russian), </title> <booktitle> Uspekhi Matem. Nauk 17(5) (1962), </booktitle> <pages> 192-193. </pages>
+Reference: 2. <author> Boor, Carl de, </author> <title> Newton form and error in multivariate polynomial interpolation, </title> <address> ms, </address> <month> dec, </month> <year> 1994. </year>
+Reference-contexts: of the (polynomial) interpolant, at y 0 ; : : : ; y h , to the univariate function t 7! [(x 0 ; t); : : : ; (x k ; t); (x; y); i 1 ; : : : ; i 1 ]g: It can be shown (see <ref> [2] </ref>) that such an error formula, in terms of an H-basis (p; q; : : :) for the ideal of the polynomials vanishing at the set fi of interpolation points, is available in the more general situation when fi consists of a lower set of grid points from a rectangular grid
+Reference: 3. <author> Boor, Carl de, </author> <title> On the Sauer-Xu formula for the error in multivariate polynomial interpolation, </title> <address> ms, </address> <month> mar, </month> <year> 1995. </year>
+Reference: 4. <author> Chung, K. C. and T. H. Yao, </author> <title> On lattices admitting unique Lagrange interpolations, </title> <journal> SIAM J. Numer. Anal. </journal> <volume> 14 (1977), </volume> <pages> 735-743. </pages> <address> 10 C. de Boor </address>
+Reference: 5. <author> Dahmen, W., </author> <title> On multivariate B-splines, </title> <journal> SIAM J. Numer. Anal. </journal> <volume> 17 (1980), </volume> <pages> 179-191. </pages>
+Reference: 6. <author> Hakopian, Hakop A., </author> <title> Multivariate divided differences and multivariate interpolation of Lagrange and Hermite type, </title> <journal> J. Approx. Theory 34 (1982), </journal> <pages> 286-305. </pages>
+Reference: 7. <author> Isaacson, Eugene and Herbert B. Keller, </author> <title> Analysis of Numerical Methods, </title> <publisher> John Wiley & Sons, </publisher> <address> New York, </address> <year> 1966. </year>
+Reference: 8. <author> Kergin, P., </author> <title> A natural interpolation of C k functions, </title> <journal> J. Approx. Theory 29 (1980), </journal> <pages> 278-293. </pages>
+Reference: 9. <author> Kunkle, Thomas, </author> <title> Multivariate differences, polynomials, and splines, </title> <journal> J. Approx. Theory, </journal> <note> (1994), to appear. </note>
+Reference: 10. <author> Micchelli, C. A., </author> <title> A constructive approach to Kergin interpolation in lR k : multivariate B-splines and Lagrange interpolation, </title> <journal> Rocky Mountain J. Math. </journal> <volume> 10 (1980), </volume> <pages> 485-497. </pages>
+Reference: 11. <author> Micchelli, C. A., </author> <title> On a numerically efficient method for computing mul-tivariate B-splines, in Multivariate Approximation Theory, </title> <editor> W. Schempp and K. Zeller (eds), </editor> <publisher> Birkhauser (Basel), </publisher> <year> 1979, </year> <pages> 211-248. </pages>
+Reference: 12. <author> Micchelli, C. A. and P. Milman, </author> <title> A formula for Kergin interpolation in lR k , J. Approx. </title> <booktitle> Theory 29 (1980), </booktitle> <pages> 294-296. </pages>
+Reference: 13. <author> Potra, F.-A. and V. Ptak, </author> <title> Nondiscrete induction and iterative processes, </title> <booktitle> Research Notes in Mathematics 103, </booktitle> <publisher> Pitman Publishing Inc (Marshfield MA), </publisher> <year> 1984. </year>
+Reference: 14. <author> Sauer, T. and Yuan Xu, </author> <title> On multivariate Lagrange interpolation, </title> <journal> Math. Comp., </journal> <note> (1994), to appear. </note>
+Reference: 15. <author> Schroder, Johann, </author> <title> Nichtlineare Majoranten beim Verfahren der schritt-weisen Naherung, </title> <journal> Archiv der Math. </journal> <volume> 7 (1956), </volume> <pages> 471-484. </pages>
+Reference: 16. <author> Serge'ev, A. S., </author> <title> On the method of chords, </title> <booktitle> Sibirsk. Matem. Zhournal 2 (1961), </booktitle> <pages> 282-289. </pages>
+Reference: 17. <author> Waldron, S., </author> <title> The error in linear interpolation at the vertices of a simplex, </title> <address> ms, </address> <month> fall, </month> <year> 1994. </year>
+Reference: 18. <author> Waldron, S., </author> <title> A multivariate form of Hardy's inequality and L p -error bounds for multivariate Lagrange interpolation schemes, </title> <journal> SIAM J. Math. </journal> <note> Anal., (1994), to appear. </note> <author> C. de Boor CS, U. </author> <title> Wisconsin, </title> <publisher> 1210 W. </publisher> <address> Dayton St., Madison WI 53706-1685 USA deboor@cs.wisc.edu </address>
+References-found: 18
+

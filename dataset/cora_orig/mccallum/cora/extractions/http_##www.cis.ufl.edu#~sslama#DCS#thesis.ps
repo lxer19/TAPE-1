@@ -1,0 +1,20 @@
+URL: http://www.cis.ufl.edu/~sslama/DCS/thesis.ps
+Refering-URL: http://www.cis.ufl.edu/~sslama/DCS/acs_index.html
+Root-URL: http://www.cis.ufl.edu
+Date: Fall 1995  
+Note: Skander Slama  
+Abstract: High Honors Report Computer Engineering Access Control in a Distributed Conferencing System 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Steven J. Greenwald et al. </author> <title> DCS version 2 requirements specification. </title> <month> September </month> <year> 1993. </year>
+Reference-contexts: 1 Introduction The Distributed Conferencing System (DCS), an ongoing research project at the University of Florida, provides an infrastructure for group-oriented collaborative work. Access control in DCS is necessary to protect the objects of each conference from unauthorized subjects <ref> [1] </ref>. The Access Control Service (ACS) presented herein provides this protection through discretionary access control, in a flexible and efficient manner. 2 Background The DCS project aims to bring together users from wide area networks, in a manner that supports group interaction.
+Reference: [2] <author> Manish Ghayalod. </author> <title> Database service. </title> <month> January </month> <year> 1994. </year>
+Reference-contexts: This information is stored in seven different tables which are maintained using the DCS Database Services (DBS) <ref> [2] </ref>. Default permissions are entered into the ACS tables when a conference is created based upon certain policies in effect and choices made by the creator. The tables themselves are viewed as objects and access to them is controlled by the ACS itself.
+Reference: [3] <author> Elliot I. Organick. </author> <title> The Multics System. </title> <publisher> MIT Press, </publisher> <year> 1972. </year>
+Reference-contexts: The DCS roles concept is similar to that of groups in Unix, except since only system administrators can create them in Unix, they are impractical to create on demand for special purposes. 4.2 MULTICS The MULTICS operating system <ref> [3] </ref> organizes protection domains into a ring structure, which is a generalization of the supervisor mode/user mode scheme. The innermost ring, at the center has the most privileges. All rings may access outer rings but not inner ones, unless they switch domains to a more privileged ring.
+Reference: [4] <author> Abraham Silberschatz and Peter B. Galvin. </author> <title> Operating System Concepts. </title> <publisher> Addison-Wesley, </publisher> <year> 1994. </year>
+Reference-contexts: As in Unix, these access bits limit the operations available, and do not come close to offering the flexibility that the ACS does. The MULTICS system does offer classes of users which are similar to the roles concept in DCS. In any event, Silberchatz <ref> [4, page 438] </ref> notes that the MULTICS system is fairly complex and generally not as efficient as others. 4.3 HYDRA The HYDRA kernel [5] uses the concept of capabilities to provide access control.
+Reference: [5] <author> W. Wulf et al. Hydra: </author> <title> The kernel of a multiprocessor operating system. </title> <journal> Communications of the ACM, </journal> <volume> 17(6) </volume> <pages> 337-344, </pages> <month> June </month> <year> 1974. </year> <month> 13 </month>
+Reference-contexts: The MULTICS system does offer classes of users which are similar to the roles concept in DCS. In any event, Silberchatz [4, page 438] notes that the MULTICS system is fairly complex and generally not as efficient as others. 4.3 HYDRA The HYDRA kernel <ref> [5] </ref> uses the concept of capabilities to provide access control. A capability is defined as a reference to an object along with the set of access rights to that object. HYDRA allows classes, or types of objects but does not require them.
+References-found: 5
+

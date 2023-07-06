@@ -1,0 +1,34 @@
+URL: ftp://ftp.icsi.berkeley.edu/pub/techreports/1992/tr-92-063.ps.gz
+Refering-URL: http://www.icsi.berkeley.edu/techreports/1992.html
+Root-URL: http://www.icsi.berkeley.edu
+Email: 2m  e-mail schnorr@informatik.uni-frankfurt.de  
+Title: Block Korkin-Zolotarev Bases and Successive Minima fi1 i fi1 i 3 where fi is the
+Author: C.P. Schnorr satisfying kx vk m 
+Address: D-6000 Frankfurt a.M., Germany.  
+Affiliation: Fachbereich Mathematik/Informatik, Universitat Frankfurt, Postfach 111932,  
+Note: 4  L and given  for the  
+Date: September 1992  
+Pubnum: TR-92-063  
+Abstract: A lattice basis b 1 ; : : : ; b m is called block Korkin-Zolotarev with block size fi if for every fi consecutive vectors b i ; : : : ; b i+fi1 the orthogonal projections of b i ; : : : ; b i+fi1 in span(b 1 ; : : : ; b i1 ) ? are reduced in the sense of Hermite and Korkin-Zolotarev. Let i denote the successive minima of lattice L and let b 1 ; : : : ; b m be a basis of L that is block Korkin-Zolotarev with block size fi. We prove that for i = 1; : : : ; m we show that max kb 1 k 2 2 1 = 3 m3 , where the maximum is taken over all block Korkin-Zolotarev bases of lattices L. We present "critical" block Korkin-Zolotarev bases achieving this maximum. Using block Korkin-Zolotarev bases we improve Babai's construction of a nearby lattice point. Given a block Korkin-Zolotarev basis with block size fi of the lattice fi min u2L kx uk 2 . These results also bear improvements 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> L. Babai: </author> <title> On Lovasz' lattice reduction and the nearest lattice point problem. </title> <journal> Combi-natorica, </journal> <volume> 6 (1986), </volume> <pages> 1-13. 15 </pages>
+Reference: [2] <author> A. Bachem and R. Kannan: </author> <title> Lattices and the basis reduction algorithm. </title> <type> TR, </type> <institution> Carnegie Mellon University (1984), </institution> <address> 22 pages. </address>
+Reference: [3] <author> J.W.S. Cassels: </author> <title> An introduction to the geometry of numbers. </title> <publisher> Springer-Verlag, </publisher> <address> Berlin, New York (1971). </address>
+Reference: [4] <author> J.H. Conway and H.J.A. Sloane: </author> <title> Sphere Packings, Lattices and Groups. </title> <publisher> Springer-Verlag, </publisher> <address> New York Berlin (1988). </address>
+Reference: [5] <author> M.J. Coster, A. Joux, B.A. LaMacchia, A.M. Odlyzko, C.P. Schnorr and J. Stern: </author> <title> An improved low-density subset sum algorithm. </title> <note> To appear in computational complexity. </note>
+Reference: [6] <author> M. Grtschel, L. Lov asz, and A. Schrijver: </author> <title> Geometric algorithms and combinatorial optimization. </title> <publisher> Springer-Verlag, </publisher> <address> Berlin, </address> <year> 1988. </year>
+Reference: [7] <author> C. Hermite: Extraits de lettres de M. Ch. Hermite a M. </author> <title> Jacobi sur differents objets de la theorie des nombres, Deuxieme lettre du 6 ao^ut 1845. </title> <journal> J. Reine Angew. Math. </journal> <volume> 40 (1850), </volume> <pages> 279-290. </pages>
+Reference: [8] <author> R. Kannan: </author> <title> Minkowski's convex body theorem and integer programming. </title> <journal> Math. Oper. Res. </journal> <volume> 12 (1987), </volume> <pages> 415-440. </pages>
+Reference: [9] <author> A. Korkine, and G. Zolotareff: </author> <title> Sur les formes quadratiques. </title> <journal> Math. Ann. </journal> <volume> 6 (1873), </volume> <pages> 366-389. </pages>
+Reference: [10] <author> J.C. Lagarias, H.W. Lenstra, Jr., and C.P. Schnorr: </author> <title> Korkin-Zolotarev bases and successive minima of a lattice and its reciprocal lattice. </title> <journal> Combinatorica, </journal> <volume> 10 (1990), </volume> <pages> 333-348. </pages>
+Reference: [11] <institution> J.L. Lagrange: Recherches d'arithmetique, Nouv. Mem. Acad. </institution> <address> Berlin (1773), </address> <month> 265-312. </month> <journal> vres, </journal> <volume> vol. VIII, </volume> <pages> 693-753. </pages>
+Reference: [12] <author> A.K. Lenstra, H.W. Lenstra, Jr., and L. Lov asz: </author> <title> Factoring polynomials with rational coefficients. </title> <journal> Math. Ann. </journal> <volume> 261 (1982), </volume> <pages> 515-534. </pages>
+Reference: [13] <author> H.W. Lenstra, Jr.: </author> <title> Integer programming with a fixed number of variables. </title> <journal> Math. Oper. Res. </journal> <volume> 8 (1983), </volume> <pages> 538-548. </pages>
+Reference: [14] <author> L. Lov asz: </author> <title> An algorithmic theory of numbers, graphs and convexity. </title> <booktitle> CBMS-NSF Regional Conference Series in Applied Mathematics 50, </booktitle> <publisher> SIAM, </publisher> <address> Philadelphia, Penn-sylvania, </address> <year> 1986. </year>
+Reference: [15] <author> L. Lov asz: </author> <title> Geometry of numbers and integer programming. </title> <booktitle> Proceedings 13th Annual Symp. on Mathematical Programming (1988), </booktitle> <pages> 177-201. </pages>
+Reference: [16] <author> K. Mahler: </author> <title> A theorem on inhomogeneous diophantine inequalities. </title> <journal> Nederl. Akad. Wetensch., Proc. </journal> <volume> 41 (1938), </volume> <pages> 634-637. </pages>
+Reference: [17] <author> C.P. Schnorr: </author> <title> A hierarchy of polynomial time lattice basis reduction algorithms. </title> <type> Theoret. </type> <institution> Comput. Sci. </institution> <month> 53 </month> <year> (1987), </year> <pages> 201-224. 16 </pages>
+Reference: [18] <author> C.P. Schnorr and M. Euchner: </author> <title> Lattice basis reduction: improved algorithms and solving subset sum problems. </title> <booktitle> Proceedings of Fundamentals of Computation Theory, </booktitle> <editor> FCT'91, Ed. L. Budach, </editor> <publisher> Springer LNCS 529, </publisher> <year> (1991), </year> <pages> 68-85. 17 </pages>
+References-found: 18
+

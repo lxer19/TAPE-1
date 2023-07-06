@@ -1,0 +1,23 @@
+URL: ftp://ftp.cs.colorado.edu/pub/HPSC/ElementsOfFortran.ps.Z
+Refering-URL: http://www.cs.colorado.edu/current/courses/materials.hpsc.html
+Root-URL: http://www.cs.colorado.edu
+Title: Elements of Fortran  High Performance Scientific  
+Author: Lloyd D. Fosdick 
+Address: Boulder  
+Affiliation: University of Colorado at  
+Date: 18 January 1987 Revised June 21, 1995  
+Pubnum: Computing  
+Abstract-found: 0
+Intro-found: 1
+Reference: [Adams et al. 92] <author> ADAMS, JEANNE C., WALTER S. BRAINERD, JEANNE T. MARTIN, BRIAN T. SMITH, AND JERROLD L. WAGENER. </author> <year> [1992]. </year> <title> Fortran 90 Handbook. </title> <publisher> Intertext Publications. McGraw-Hill Book Company, </publisher> <address> New York, NY. </address>
+Reference-contexts: Fortran 90 and HPF (High Performance Fortran) are more recent versions of Fortran that include vector operations and other features for high performance computing. Descriptions of Fortran 90 can be found in Programmers Guide to Fortran 90 [Brainerd et al. 90] and in the more complete Fortran 90 Handbook <ref> [Adams et al. 92] </ref>. A reference for HPF is The High Performance Fortran Handbook [Koelbel et al. 94]. This tutorial consists of four parts. Section 2 is a brief overview of Fortran. Section 3 contains basic definitions. Section 4 is a description of Fortran statements, organized alphabetically.
+Reference: [Brainerd et al. 90] <author> BRAINERD, WALTER S., CHARLES GOLDBERG, AND JEANNE C. ADAMS. </author> <year> [1990]. </year> <title> Programmers Guide to Fortran 90. </title> <publisher> McGraw-Hill Book Company, </publisher> <address> New York, NY. </address>
+Reference-contexts: Fortran 90 and HPF (High Performance Fortran) are more recent versions of Fortran that include vector operations and other features for high performance computing. Descriptions of Fortran 90 can be found in Programmers Guide to Fortran 90 <ref> [Brainerd et al. 90] </ref> and in the more complete Fortran 90 Handbook [Adams et al. 92]. A reference for HPF is The High Performance Fortran Handbook [Koelbel et al. 94]. This tutorial consists of four parts. Section 2 is a brief overview of Fortran. Section 3 contains basic definitions.
+Reference: [Koelbel et al. 94] <author> KOELBEL, CHARLES H., DAVID B. LOVEMAN, ROBERT S. SCHREIBER, JR. GUY L. STEELE, AND MARY E. ZOSEL. </author> <year> [1994]. </year> <title> The High Performance Fortran Handbook. Scientific and Engineering Computation. </title> <publisher> MIT Press, </publisher> <address> Cambridge, MA. </address>
+Reference-contexts: Descriptions of Fortran 90 can be found in Programmers Guide to Fortran 90 [Brainerd et al. 90] and in the more complete Fortran 90 Handbook [Adams et al. 92]. A reference for HPF is The High Performance Fortran Handbook <ref> [Koelbel et al. 94] </ref>. This tutorial consists of four parts. Section 2 is a brief overview of Fortran. Section 3 contains basic definitions. Section 4 is a description of Fortran statements, organized alphabetically. Section 5 is a short description of the use of the READ and WRITE statements.
+Reference: [Metcalf 85] <editor> METCALF, MICHAEL, editor. </editor> <year> [1985]. </year> <title> Effective FORTRAN 77. </title> <publisher> Oxford University Press, Oxford. </publisher>
+Reference-contexts: Nevertheless, you will probably find a need for a more thorough description of Fortran. Two texts that you may find useful are Fortran 77 for Humans [Page 83] and Effective Fortran 77 <ref> [Metcalf 85] </ref>. Besides these texts, you may find it useful to refer to the book which defines fl This work has been supported by the National Science Foundation under an Educational Infrastructure grant, CDA-9017953.
+Reference: [Page 83] <author> PAGE, REX L., editor. </author> <year> [1983]. </year> <title> FORTRAN 77 for Humans. </title> <publisher> West Publishing Co., </publisher> <address> St. Paul, MN, </address> <note> 2nd edition. CUBoulder : HPSC Course Notes </note>
+Reference-contexts: Nevertheless, you will probably find a need for a more thorough description of Fortran. Two texts that you may find useful are Fortran 77 for Humans <ref> [Page 83] </ref> and Effective Fortran 77 [Metcalf 85]. Besides these texts, you may find it useful to refer to the book which defines fl This work has been supported by the National Science Foundation under an Educational Infrastructure grant, CDA-9017953.
+References-found: 5
+

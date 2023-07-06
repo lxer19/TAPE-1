@@ -1,0 +1,19 @@
+URL: ftp://ftp.informatik.uni-siegen.de/pub/papers/pmerz/icga97.ps.gz
+Refering-URL: http://www.ing.unlp.edu.ar/cetad/mos/memetic_home.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Email: E-Mail: fpmerz,freislebg@informatik.uni-siegen.de  
+Title: A Genetic Local Search Approach to the Quadratic Assignment Problem  
+Author: Peter Merz and Bernd Freisleben 
+Address: Holderlinstr. 3, D-57068 Siegen, Germany  
+Affiliation: Department of Electrical Engineering and Computer Science (FB 12) University of Siegen  
+Abstract: Augmenting genetic algorithms with local search heuristics is a promising approach to the solution of combinatorial optimization problems. In this paper, a genetic local search approach to the quadratic assignment problem (QAP) is presented. New genetic operators for realizing the approach are described, and its performance is tested on various QAP instances containing between 30 and 256 facilities/locations. The results indicate that the proposed algorithm is able to arrive at high quality solutions in a relatively short time limit: for the largest publicly known prob lem instance, a new best solution could be found.
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> V. Bachelet, P. Preux, and E.-G. Talbi, </author> <title> Parallel Hybrid Meta-Heuristics: Application to the Quadratic Assignment Problem, </title> <booktitle> in Proceedings of the Parallel Optimization Colloquium, </booktitle> <address> (Versailles, France), </address> <year> 1996. </year>
+Reference-contexts: The optima for both problems could be found in 279 seconds and 363 seconds, respectively, on a transputer with 64 processors. However, on our state-of-the-art workstation, we found the optima in 13 seconds and 7 seconds, respectively. Comparison studies have been made in <ref> [1, 16] </ref> for relatively small instances with the conclusion that genetic algorithms perform relatively poor, but that hybridization may enhance the search significantly.
+Reference: [2] <author> R. Battiti and G. Tecchiolli, </author> <title> The Reactive Tabu Search, </title> <journal> ORSA Journal on Computing, </journal> <volume> vol. 6, no. 2, </volume> <pages> pp. 126-140, </pages> <year> 1994. </year>
+Reference-contexts: Therefore, several heuristics have been proposed for finding near-optimum solutions to large QAP instances, including ant colonies [15], evolution strategies [20], genetic algorithms [3, 8, 18], simulated annealing [7], tabu search <ref> [2, 21, 22, 23] </ref>, threshold accepting [19], and randomized greedy search (GRASP) [14]. Genetic local search [13, 25, 27] is a hybrid heuristic that combines the advantages of population-based search and local optimization.
+Reference: [3] <author> E. D. Brown, L. C. Huntley, and R. A. </author> <month> Spillance, </month>
+Reference-contexts: Therefore, several heuristics have been proposed for finding near-optimum solutions to large QAP instances, including ant colonies [15], evolution strategies [20], genetic algorithms <ref> [3, 8, 18] </ref>, simulated annealing [7], tabu search [2, 21, 22, 23], threshold accepting [19], and randomized greedy search (GRASP) [14]. Genetic local search [13, 25, 27] is a hybrid heuristic that combines the advantages of population-based search and local optimization.
+References-found: 3
+

@@ -1,0 +1,20 @@
+URL: http://www.cs.toronto.edu/~mackay/sensit.ps.gz
+Refering-URL: http://131.111.48.24/mackay/README.html
+Root-URL: 
+Email: mackay@mrao.cam.ac.uk  
+Title: Performance of Low Density Parity Check Codes as a Function of Actual and Assumed Noise
+Author: David J.C. MacKay Christopher P. Hesketh 
+Date: July 15, 1998  
+Note: First submitted for publication November 25, 1997. Submitted to IEEE Trans. on Communications  
+Address: Cambridge, CB3 0HE, United Kingdom.  
+Affiliation: Cavendish Laboratory,  
+Abstract: We investigate how sensitive Gallager's codes are, when decoded by belief propagation, to the assumed noise level. We have found a remarkably simple function that fits the empirical results as a function of the actual noise level at both high and low noise levels. A linear code may be described in terms of a generator matrix G or in terms of a parity check matrix H, which satisfies Hx = 0 for all codewords x. In 1962, Gallager reported work on binary codes defined in terms of low density parity check matrices [2, 3]. The matrix H is defined in a non-systematic form; each column of H has the same small predetermined weight (e.g., 3) and the weight per row is also uniform; the matrix H is constructed at random subject to these constraints. When these codes are decoded using Gallager's iterative probabilistic decoding method, also known as the sum-product algorithm or belief propagation, their empirical performance is found to be excellent [4, 5]. In this paper, we investigate the dependence of the performance of a low density parity check code on both the assumed and actual noise levels of a binary symmetric channel and a Gaussian channel. All the experiments make use of binary codes whose parity check matrices are randomly generated with weight per column t = 3. The present work has four motivations. First, since the decoding algorithm (reviewed in detail in [4, 5]) is somewhat ad hoc, it seems an interesting experiment to `tweak' it, checking to see whether any of its control parameters can be set to better values than their standard values; specifically, we tweak the assumed noise level to see if setting it to higher or lower values improves the performance of belief propagation. Second, this project sheds light on the nature of the errors made by low density parity check codes. Are decoding errors associated solely with unusually high noise levels, or are there particular noise patterns which are associated with decoding errors? Third, in practical situations, we are unlikely to know the channel's characteristics exactly, and it will be helpful if 
+Abstract-found: 1
+Intro-found: 0
+Reference: [1] <author> C. Berrou, A. Glavieux, and P. Thitimajshima. </author> <title> Near Shannon limit error-correcting coding and decoding: </title> <booktitle> Turbo-codes. In Proc. 1993 IEEE International Conference on Communications, </booktitle> <address> Geneva, Switzerland, </address> <pages> pages 1064-1070, </pages> <year> 1993. </year>
+Reference: [2] <author> R. G. Gallager. </author> <title> Low density parity check codes. </title> <journal> IRE Trans. Info. Theory, </journal> <volume> IT-8:21-28, </volume> <month> Jan </month> <year> 1962. </year>
+Reference: [3] <author> R. G. Gallager. </author> <title> Low Density Parity Check Codes. Number 21 in Research monograph series. </title> <publisher> MIT Press, </publisher> <address> Cambridge, Mass., </address> <year> 1963. </year>
+Reference: [4] <author> D. J. C. MacKay. </author> <title> Good error correcting codes based on very sparse matrices. </title> <note> submitted to IEEE transactions on Information Theory. Available from http://wol.ra.phy.cam.ac.uk/, 1997. </note>
+Reference: [5] <author> D. J. C. MacKay and R. M. Neal. </author> <title> Near Shannon limit performance of low density parity check codes. </title> <journal> Electronics Letters, </journal> <volume> 32(18) </volume> <pages> 1645-1646, </pages> <month> August </month> <year> 1996. </year> <journal> Reprinted Electronics Letters, </journal> 33(6):457-458, March 1997. <volume> 7 </volume>
+References-found: 5
+

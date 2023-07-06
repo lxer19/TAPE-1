@@ -1,0 +1,22 @@
+URL: http://osl-www.cs.umass.edu/~stefanov/modula-X-1994.ps
+Refering-URL: http://www.cs.umass.edu/~stefanov/
+Root-URL: 
+Title: An experimental optimising compiler for Modula-X  
+Author: Darko Stefanovi c 
+Date: June 1994  
+Affiliation: Department of Computer Science University of Massachussets  
+Abstract: We describe the organisation and implementation of an optimising compiler for Modula-X, and discuss peformance results. We first describe the language and its origins. We then describe our compilation model, and discuss the construction of the front-end and the back-end. Finally we give some performance measurements.
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Brendon Cahoon, Stephanie Coleman, John Ridgway, Sharad Singhai, and Glen Weaver. </author> <title> 710 compiler experiment. </title> <institution> University of Massachusetts, Amherst, </institution> <year> 1994. </year>
+Reference-contexts: A testbed for optimisation techniques based on this language has also been developed and tried, <ref> [5, 2, 1] </ref> but it is not used in the compiler discussed here. <p> The test programs were as follows. From the joint test suite: <ref> [1] </ref> 2 * joint-matmult.m Matrix multiplication. * joint-fortest.m Trivial FOR loop test. * joint-fib.m Non-recursive Fibonacci sequence calculator. * joint-pano.m Small contrived program offering many optimisation opportunities.
+Reference: [2] <author> Eliot Moss. </author> <title> CMPSCI 710 project compiler description. </title> <institution> University of Massachusetts, Amherst, </institution> <year> 1994. </year>
+Reference-contexts: A testbed for optimisation techniques based on this language has also been developed and tried, <ref> [5, 2, 1] </ref> but it is not used in the compiler discussed here.
+Reference: [3] <author> David Schmidt. </author> <title> Denotational Semantics. </title> <publisher> Allyn and Bacon, Inc., </publisher> <address> Boston, first edition, </address> <year> 1986. </year>
+Reference-contexts: It would have been nice to be able to eliminate VAR parameters as well, since their less obscure but nevertheless unpleasant semantics is said to be the result of improper language design. <ref> [3] </ref> We felt that this mode is frequently used in practice and could not be eliminated from the language. Also, for practical reasons (see below) we disallowed nested comments. We added reference types and dynamic storage allocation for values of such types.
+Reference: [4] <author> Darko Stefanovi c. </author> <title> Implementing a small imperative language with safe dynamic allocation. </title> <type> Memo, </type> <month> April </month> <year> 1993. </year>
+Reference-contexts: There are two alternate back ends. The old one is a non-optimising translator to GNU C, which is described elsewhere <ref> [4] </ref> and will not be further mentioned here. 1 The new back end is itself multi-pass and manipulates a control-flow graph based internal representation which will be detailed below. There is an inlining (procedure integration) pass and an expression propagation pass (the latter bundled with several kinds of code elimination).
+Reference: [5] <author> Norm Walsh. </author> <title> CS791V project report: Constructing a framework for compiler optimization. </title> <institution> University of Massachusetts, Amherst, </institution> <year> 1992. </year> <month> 12 </month>
+Reference-contexts: A testbed for optimisation techniques based on this language has also been developed and tried, <ref> [5, 2, 1] </ref> but it is not used in the compiler discussed here.
+References-found: 5
+

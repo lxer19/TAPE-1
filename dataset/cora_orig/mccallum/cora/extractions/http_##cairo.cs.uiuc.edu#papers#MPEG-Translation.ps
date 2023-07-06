@@ -1,0 +1,18 @@
+URL: http://cairo.cs.uiuc.edu/papers/MPEG-Translation.ps
+Refering-URL: http://cairo.cs.uiuc.edu/papers.html
+Root-URL: http://www.cs.uiuc.edu
+Title: QoS Translation and Admission Control for MPEG Video  
+Author: Kiwook Kim 
+Keyword: QoS translation, Admission Control, MPEG video, Quality of service  
+Affiliation: Computer Science Department University of Illinois at Urbana-Champaign Klara Nahrstedt Computer Science Department University of Illinois at Urbana-Champaign  
+Abstract: In this paper we present an integrated view of translation and admission control relations for MPEG video streams between a multimedia distributed application such as video-on-demand, and its underlying system resource, CPU. Both services are presented as core services of our Quality of Service (QoS) communication model. This communication model is analyzed for different MPEG grouping schemes and communication paradigms. We show under these schemes and paradigms the translation and admission control implications for deterministic QoS specification which must be considered in any MPEG-based multimedia system. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> C. Liu and J. Layland. </author> <title> Scheduling Algorithms for Multiprogramming in a Hard Real Time Environment. </title> <journal> JACM, </journal> <volume> 20(1) </volume> <pages> 46-61, </pages> <year> 1973. </year>
+Reference-contexts: G = P A Processing size of GOP M 0 G Degradation factor D D = (M 0 G =M G ) System Computation time C (C F ; C G ; C M ) QoS Cycle time T (T F ; T G ) Table 1 QoS specification Layland <ref> [1] </ref> suggested rate monotonic (RM) scheduling and earliest deadline first (EDF) scheduling based on specific assumptions. Both of them require as parameters computation time (C) and cycle time (T ) for their schedulability test. Frame-based scheme In frame-based scheme, the processor allocates scheduling time to process and transmit each frame.
+Reference: [2] <author> K. Nahrstedt and J. Smith. </author> <title> Design, Implementation and Experiences of the OMEGA End-Point Architecture. </title> <journal> IEEE JSAC, </journal> <year> 1996. </year>
+Reference-contexts: 1 INTRODUCTION Communication model for quality-of-service (QoS) guarantees has been proposed to ensure the guaranteed service video servers and clients need <ref> [2] </ref>. The service user sends the QoS specification to the service provider. The service provider translates the overall, higher-level QoS specification requirements into requirements for individual resources which the service provider needs for service provisions. Once the QoS specification has the corresponding QoS/resource domain representation (e.g.
+Reference: [3] <author> H. Takagi. </author> <title> Queueing Analysis: a Foundation of Performance Evaluation, vol 1: Vacation and Priority Systems. </title> <publisher> North-Holland, </publisher> <address> New York, NY, </address> <year> 1991. </year> <note> Kiwook Kim is a graduate student majoring in Computer Science at UIUC. He got his MS and BS degrees in Seoul National University in Korea in 1994 and 1996 respectively. Klara Nahrstedt is an assistant professor in Computer Science at UIUC. She got her PhD from University of Pennsylvania in 1995. </note>
+Reference-contexts: If we assume the arrival process is Poisson and the system is M/G/1, then the expected number of requests is E [N ] = t and, expected latency (L) for a request <ref> [3] </ref> is E [L] = 2 (1+t) . Then the computation time of requests within t in uni casting scheme becomes C U = i=1 where cs denotes accumulated context switching time for all requests.
+References-found: 3
+

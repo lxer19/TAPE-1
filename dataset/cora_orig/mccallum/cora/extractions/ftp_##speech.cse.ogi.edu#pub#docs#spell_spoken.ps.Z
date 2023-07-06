@@ -1,0 +1,16 @@
+URL: ftp://speech.cse.ogi.edu/pub/docs/spell_spoken.ps.Z
+Refering-URL: http://www.cse.ogi.edu/CSLU/publications/publications.html
+Root-URL: http://www.cse.ogi.edu
+Title: A TELEPHONE SPEECH DATABASE OF SPELLED AND SPOKEN NAMES  for Spoken Language Understanding  
+Author: Ronald Cole, Krist Roginski and Mark Fanty 
+Address: 97006  
+Affiliation: Center  Oregon Graduate Institute Beaverton, Oregon,  
+Abstract: This report describes a telephone speech corpus collected at the Oregon Graduate Institute's Center for Spoken Language Understanding. Over four thousand people called in response to public requests. They were prompted by a recorded voice to say and spell their first and last names|with and without pauses, to say what city they grew up in and what city they were calling from, and to answer two yes/no questions. In order to collect sufficient instances of each letter, about 1000 callers also recited the alphabet. Each call is checked and transcribed by two people. In addition, a subset of the calls is being phonetically labeled. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Fanty, M., Pochmara, J. and R. Cole, </author> <title> "An interactive environment for speech recognition research," </title> <booktitle> ICSLP 92. </booktitle>
+Reference-contexts: For example, when asked to say their last name, many callers also spell it. We distinguish between direct answers to the query and additional comments by bracketing the latter. Each utterance is transcribed and evaluated by two different listeners. The procedure uses the LYRE interactive graphics program <ref> [1] </ref> that allows the transcriber to play selected portions of an utterance, and access other utterances produced by the same speaker. For example, if the caller's first or last name is ambiguous, the transcriber can listen to the spelled version of the same name before transcribing it.
+Reference: [2] <author> Lamel, L., Kassel, R. and S. Seneff, </author> <title> ""Speech Database Development: Design and Analysis of the Acoustic-Phonetic Corpus", </title> <booktitle> Proceedings of the DARPA Speech Recognition Workshop, </booktitle> <pages> pp. 100-110, </pages> <year> 1986. </year>
+Reference: [3] <author> Fisher, W., Doddington, G., and K. Goudie-Marshall, </author> <title> "The DARPA Speech Recognition Research Database: Specification and Status.", </title> <booktitle> Proceedings of the DARPA Speech Recognition Workshop, </booktitle> <pages> pp. 93-100, </pages> <year> 1986. </year> <month> 7 </month>
+References-found: 3
+

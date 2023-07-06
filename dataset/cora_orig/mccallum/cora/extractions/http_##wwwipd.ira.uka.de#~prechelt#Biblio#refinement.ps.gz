@@ -1,0 +1,22 @@
+URL: http://wwwipd.ira.uka.de/~prechelt/Biblio/refinement.ps.gz
+Refering-URL: 
+Root-URL: 
+Email: (prechelt@ira.uka.de)  
+Title: The Need for Inner-Procedural Refinements  
+Author: Lutz Prechelt 
+Keyword: Key words: refinements, C, programming language extension, Top-Down method The Top-Down design process  
+Date: November 23, 1992  
+Address: D-7500 Karlsruhe, Germany  
+Affiliation: Institut fur Programmstrukturen und Datenorganisation Universitat Karlsruhe  
+Abstract: Today one of the most widely accepted paradigms of software engineering is the Top-Down method. Based on the hypothesises that (a) Top-Down is a good way to go and (b) programmers are lazy by their very nature, I show here that with most modern imperative programming languages, we stop the Top-Down process at least one level too early. What languages need is the concept of refinements within procedures, so the Top-Down development process can continue arbitrarily deep inside each procedure. This leads to better-structured code with improved understandability. Existing languages can be extended to support the notion of inner-procedural refinements. It is described how this was done with a fast preprocessor for C and C ++ and what the Let us take a quick look on why Top-Down is a good method. We will see that the ultimate reason lies in the human nature. Today we build a huge software system by first decomposing it into subsystems that interact through a (hopefully) well designed protocol. Each of these subsystems is then divided into a hierarchical collection of modules and/or classes. Each of these modules or classes consists (among other things) of several procedures or other kinds of subprograms, some of which represent the interface of the module or class, and some of which are merely there to master the complexity of the module or class. (In this respect object-oriented programming is just a particular form of the Top-Down method.) The underlying paradigm of Top-Down design and development is `divide and conquer'. From a cognitive point of view this means to separate the task of answering the question what must I do from the task of answering the question how should I do it , then solving these two problems one after the other and applying the same method to each of the emerging subproblems recursively. experiences with it are.
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Nikolaus Wirth. </author> <title> Program development by stepwise refinement. </title> <journal> Communications of the ACM, </journal> <volume> 14(4), </volume> <month> April </month> <year> 1971. </year>
+Reference: [2] <author> Gunther Hommel, Joachim Jackel, Stefan Jahnichen, Karl Kleine, Wilfried Koch, and Kees Koster. ELAN Sprachbeschreibung. Akademische Verlagsgesellschaft, </author> <type> Wiesbaden, </type> <institution> Deutschland, </institution> <year> 1979. </year>
+Reference: [3] <author> Brian W. Kernighan and Dennis M. Ritchie. </author> <title> The C Programming Language. </title> <publisher> Prentice Hall, </publisher> <year> 1977. </year>
+Reference: [4] <author> Margaret A. Ellis and Bjarne Stroustrup. </author> <title> The Annotated C ++ Reference Manual. </title> <publisher> Addison Wesley, </publisher> <address> Reading, Mass., </address> <year> 1990. </year>
+Reference: [5] <institution> MasPar Computers, Sunnyvale, Calif. </institution> <note> MPL Language Reference Manual. </note>
+Reference: [6] <author> Donald Ervin Knuth. </author> <title> The WEB system of structured documentation. </title> <type> Technical report, </type> <institution> Stanford University, Department of Computer Science, Stanford, Calif., </institution> <year> 1983. </year> <month> 6 </month>
+Reference-contexts: In this respect the basic idea behind C-Refine differs substantially from that of WEB <ref> [6] </ref>: The goal is not to get a nice documentation for the program after some processing steps, but instead to maximize the readability of the source code itself. This type of readability can be exploited already in the ongoing coding process.
+References-found: 6
+

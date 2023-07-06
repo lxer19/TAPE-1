@@ -1,0 +1,20 @@
+URL: ftp://ftp.lcs.mit.edu/student-workshop/1996/abstracts/Ng.ps
+Refering-URL: http://www.cag.lcs.mit.edu/student96/
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Email: ng@lcs.mit.edu  
+Title: Efficient Garbage Collection for Large, Object-Oriented Databases  
+Author: Tony C. Ng 
+Date: May 17, 1996  
+Affiliation: MIT Laboratory for Computer Science  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> Barbara Liskov, Mark Day, and Liuba Shrira. </author> <title> Distributed object management in Thor. In Distributed Object Management. </title> <publisher> Morgan Kaufmann, </publisher> <year> 1994. </year>
+Reference-contexts: In addition, the recovery process should remain fast even in the presence of GC. We have designed and implemented a garbage collection scheme that addresses all the above issues. The work is done in the context of Thor <ref> [1] </ref>, a distributed, client-server object-oriented database. Our scheme uses a partitioned approach [4]. The database is divided into partitions and each partition is collected independently. Our scheme uses a copying algorithm to collect each partition. Live objects are copied from a from-space to a to-space.
+Reference: [2] <author> Barbara Liskov, Sanjay Ghemawat, Robert Gruber, Paul Johnson, Liuba Shrira, and Michael Williams. </author> <title> Replication in the Harp file system. </title> <booktitle> In Proceedings of the ACM SOSP Symposium on Operating Systems Principles, </booktitle> <pages> pages 226-238, </pages> <address> Pacific Grove, California, </address> <month> October </month> <year> 1991. </year>
+Reference-contexts: The disk stores the objects in the database and the log is used to hold recent updates from clients. The log resides in main-memory and stability is achieved by replication across multiple machines backed up by uninterruptible power supplies <ref> [2] </ref>. Reading from the log is the same as memory access and flushing a log record is equivalent to a network round-trip delay. A client interacts with the server by reading and updating objects of the database. It reads the objects from the server cache.
+Reference: [3] <author> James O'Toole, Scott Nettles, and David Gifford. </author> <title> Concurrent compacting garbage collection of a persistent heap. </title> <booktitle> In Proceedings of the ACM SOSP Symposium on Operating Systems Principles, </booktitle> <pages> pages 161-174, </pages> <address> Asheville, North Carolina, </address> <month> December </month> <year> 1993. </year>
+Reference-contexts: During GC, the flusher is suspended so that the from-space will not be modified. The to-space is the new, empty partition created by the garbage collector. The garbage collector copies objects that are still used from the from-space to the to-space. A replicating GC technique <ref> [3] </ref> is used to make GC concurrent. The collector only modifies the to-space. Clients can continue to fetch objects from the cache or from-space and continue to perform updates by appending modifications to the log. Very little synchronization is required between the collector and the clients.
+Reference: [4] <author> Voon-Fee Yong, Jeffrey Naughton, and Jie-Bing Yu. </author> <title> Storage reclamation and reorganization in client-server persistent object stores. </title> <booktitle> In Proceedings of the ICDE International Conference on Data Engineering, </booktitle> <pages> pages 120-133, </pages> <address> Houston, Texas, </address> <month> February </month> <year> 1994. </year> <month> 2 </month>
+Reference-contexts: We have designed and implemented a garbage collection scheme that addresses all the above issues. The work is done in the context of Thor [1], a distributed, client-server object-oriented database. Our scheme uses a partitioned approach <ref> [4] </ref>. The database is divided into partitions and each partition is collected independently. Our scheme uses a copying algorithm to collect each partition. Live objects are copied from a from-space to a to-space.
+References-found: 4
+

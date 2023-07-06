@@ -1,0 +1,19 @@
+URL: http://www.cse.psu.edu/~barlow/cse455/notes2.ps.gz
+Refering-URL: http://www.cse.psu.edu/~barlow/cse455/
+Root-URL: http://www.cse.psu.edu
+Title: Chapter 1 Preliminaries 1.1. Introduction  
+Keyword: 1.2. Notation for Vectors, Matrices, and Algorithms  
+Note: B B 1 C A fi B B fi 1 C A  
+Abstract: We give some necessary background for the study of least squares. The first section gives the notational conventions to be used in the book. In the second section, we give some elementary results and definitions from linear algebra and probability. The final section is on matrix and vector norms, and stresses the importance of the Euclidean norm. No proofs are supplied for any of the results given in this chapter. For such proofs, see some of the references given in x1.5. Vectors and scalars are denoted by lower case Roman or Greek letters. Scalars are written in ordinary type, whereas vectors are written in boldface type. For instance, we write a real n-vector y componentwise in a column as where y 1 ; y 2 ; : : : ; y n are real scalars. We can also have a p-vector fi given by Usually instead of saying "y is an n-vector", we will say "y 2 &lt; n " where &lt; n is the vector space of n-tuples of real numbers. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> K.L. Chung. </author> <title> A course in probability theory. </title> <publisher> Academic Press, </publisher> <address> New York, </address> <year> 1974. </year>
+Reference: [2] <author> G.H. Golub and C.F. Van Loan. </author> <title> Matrix Computations, Second Edition. </title> <publisher> The Johns Hopkins Press, </publisher> <address> Baltimore, </address> <year> 1989. </year>
+Reference-contexts: This is called a gaxpy operation <ref> [2, Chapter 1] </ref> for "generalized Ax plus y". If y = 0, it is simply a matrix-vector multiplication.
+Reference: [3] <author> A.S. </author> <title> Householder. The Theory of Matrices in Numerical Analysis. </title> <publisher> Blaisdell, </publisher> <address> New York, 1964. </address> <publisher> Reprinted by Dover, </publisher> <address> New York, </address> <year> 1975. </year>
+Reference: [4] <author> C.R. Rao. </author> <title> Linear Statistical Inference and Its Applications. </title> <publisher> Wiley, </publisher> <address> New York, </address> <note> second edition, </note> <year> 1973. </year>
+Reference: [5] <author> G.W. Stewart. </author> <title> Introduction to Matrix Computations. </title> <publisher> Academic Press, </publisher> <address> New York, </address> <year> 1973. </year>
+Reference: [6] <author> G.W. Stewart and J.-G. Sun. </author> <title> Matrix Perturbation Theory. </title> <publisher> Academic Press, </publisher> <address> New York, </address> <year> 1990. </year>
+
+References-found: 6
+

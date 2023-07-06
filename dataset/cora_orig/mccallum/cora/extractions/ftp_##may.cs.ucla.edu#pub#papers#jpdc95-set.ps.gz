@@ -1,0 +1,21 @@
+URL: ftp://may.cs.ucla.edu/pub/papers/jpdc95-set.ps.gz
+Refering-URL: http://may.cs.ucla.edu/papers/
+Root-URL: http://www.cs.ucla.edu
+Phone: [29]  
+Title: Synchronization Issues in Data-Parallel Languages. In Sixth Annual Workshop on Languages and Compilers for Parallel
+Author: Prakash, S., Dhagat, M., and Bagrodia, R. Rosing, M., Schnabel, R.B., and Weaver, R.B. [] Sabot, G. [] Schwartz, J.T., Dewar, R.B.K, Dubinsky, E., and Schonberg, E. 
+Address: Press, Cambridge, MA, 1988.  New York, 1986.  Cambridge, MA  Cambridge, MA  Cambridge, MA  New York,  
+Affiliation: MIT  Thinking Machines Corp.,  [30] Thinking Machines Corp.,  [31] Thinking Machines Corp.,  
+Date: August 1993.  November 1990.  November 1990.  1994.  
+Note: [24]  puting, pages 76-95, Portland, Oregon,  [26]  Springer-Verlag,  02139. Cfl User's Guide, 6.0 edition,  02139. CM Fortan Reference Manual, 6.0 edition,  02139. Programming in flLisp, 6.0 edition, November 1990. [32] Thinking Machines Corporation, Cambridge, MA. Paris Reference Manual, 6.0 edition, Febuary 1991. [33] Van de Velde, E.F. Concurrent Scientific Computing. Springer-Verlag,  28  
+Abstract: 21] Kwan, E. The UC Implementation on the Connection Machine. Master's Report, Computer Science Department, University of California, Los Angeles, CA 90024, July 1990. [22] Mehrotra, P. and Van Rosendale, J. Programming distributed memory architectures using Kali. Technical Report 90-69, Institute for Computer Application in Science and Engineering, Hampton, VA, 1990. [23] Mishev, I.D., Austel, V., Chan, T.F., and Vassilevski, P.S. Experiments with Algebraic Multilevel Preconditioners on Connection Machine. Technical Report CAM 93-25, Department of Mathematics, University of California, Los Angeles, CA 90024, 1993. [25] Rose, J.R. and Steele Jr., G.L. Cfl: An Extended C Language for Data Parallel Programming. Technical Report PL-87.5, Thinking Machines Corporation, Cambridge, MA, March 1987. [34] Williams, R. Voxel Databases: A Paradigm for Parallelism with Spatial Structure. Technical Report CCSF-19-92, Caltech Concurrent Supercomputing Facilities, Pasadena, CA 91125, April 1992. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Austel, V. </author> <title> Compiling UC Using Source-to-source Transformations. </title> <type> Master's Report, </type> <institution> Computer Science Department, University of California, </institution> <address> Los Angeles, CA 90024, </address> <month> De-cember </month> <year> 1991. </year>
+Reference: [2] <author> Austel, V., Bagrodia, R., Chandy, K.M., and Dhagat, M. </author> <title> Reductions + Relations = Data-Parallelism. </title> <type> Technical Report 930009, </type> <institution> University of California, </institution> <address> Los Angeles, CA 90024, </address> <month> April </month> <year> 1993. </year>
+Reference: [3] <author> Bagrodia, R. and Liao, W. </author> <title> Maisie User Manual. </title> <institution> Computer Science Department, University of California, </institution> <address> Los Angeles, CA 90024, </address> <year> 1990. </year>
+Reference: [4] <author> Bagrodia, R. and Mathur, S. </author> <title> Efficient implementation of high-level parallel programs. </title> <booktitle> In 4th International Conference on Architectural Support for Programming Languages, </booktitle> <pages> pages 142-153, </pages> <month> April </month> <year> 1991. </year>
+Reference: [5] <author> Beguelin, A., Dongarra, J., Geist, A., Manchek, B., and Sunderam, V. </author> <title> A users' guide to PVM: Parallel virtual machine. </title> <type> Technical Report ORNL/TM-11826, </type> <institution> Oak Ridge National Laboratory, </institution> <month> March </month> <year> 1991. </year>
+
+References-found: 5
+

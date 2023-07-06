@@ -1,0 +1,26 @@
+URL: http://www.cs.helsinki.fi/research/pmdm/datamining/pubs/compstat96.ps.gz
+Refering-URL: http://www.cs.helsinki.fi/research/pmdm/publications/
+Root-URL: 
+Email: e-mail: fmannila, salmenki, suramo, htoivoneg@cs.helsinki.fi  e-mail: Elja.Arjas@oulu.fi  
+Title: BASS: Bayesian Analyzer of Event Sequences  
+Author: E:Arjas H:M annila M:Salmenkivi R:Suramo and H:T oivonen 
+Keyword: Bayesian analysis, event sequences, Metropolis-Hastings algorithm  
+Address: P.O. Box 26 (Teollisuuskatu 23), FIN-00014 Helsinki, FINLAND  Linnanmaa, FIN-90570 Oulu, FINLAND  
+Affiliation: U niversity of Helsinki Department of Computer Science  U niversity of Oulu Department of Mathematical Sciences  
+Abstract: We describe the BASS system, a Bayesian analyzer of event sequences. BASS uses Markov chain Monte Carlo methods, especially Metropolis-Hastings algorithm, for exploring posterior distributions. The system allows the user to specify an intensity model in a high-level definition language, and then runs the Metropolis-Hastings algorithm on it. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Arjas, E. </author> <year> (1989). </year> <title> "Survival models and martingale dynamics". </title> <journal> Scandinavian Journal of Statistics, </journal> <volume> 16, </volume> <pages> p. 177-225. </pages>
+Reference: <author> Cox, D. R.; Oakes, D. </author> <year> (1984). </year> <title> Analysis of Survival Data. Monographs on Statistics and Applied Probability 21. </title> <publisher> Chapman & Hall. </publisher>
+Reference-contexts: 1 Introduction Statistical data are often expressed in the form of a sequences of events in time. Such data arise in a variety of applied areas, for instance, in telecommunications, quality control, as well as in infectious disease epidemiology and other areas of biostatistics. Intensity functions <ref> (see, e.g., Cox et al., 1984, and Arjas, 1989) </ref> are nowadays extensively used as a methodical tool in applications of this kind, to describe the instantaneous risk of observing the event of interest over time.
+Reference: <author> Hastings, W. K. </author> <year> (1970). </year> <title> "Monte Carlo sampling methods using Markov chains and their applications". </title> <booktitle> Biometrica 57, p. </booktitle> <pages> 97-109. </pages>
+Reference-contexts: The sample, on the other hand, can be used to obtain numerical Monte Carlo approximations of integrals with respect to the posterior. The program uses the Metropolis-Hastings algorithm <ref> (Hastings, 1970, Smith et al., 1993) </ref>. Section 2 introduces some related work. We present our problem setting in Section 3. In Section 4 we give two examples of the use of BASS, and then describe briefly its current status of development.
+Reference: <author> Neal, R. M. </author> <year> (1995). </year> <title> Bayesian Learning for Neural Networks. </title> <type> Ph.D. thesis, </type> <institution> Department of Computer Science, University of Toronto. </institution>
+Reference-contexts: On the contrary, in BASS there is no such restrictions. We are aware of two other tools for MCMC simulation. EMSS, an Environment for Montecarlo Simulation Studies (Sanchez et al., 1992), is a package intended to assist the users of Monte Carlo simulations at different levels. Another study <ref> (Neal, 1995) </ref> uses ordered over-relaxation to speed up the convergence of MCMC simulation in the context of training neural networks; the associated software seems to provide some general tools for using MCMC.
+Reference: <author> Sanchez, A.; Oca~na, J.; Ruiz de Villa, C. </author> <year> (1992). </year> <title> "An Environment for Montecarlo Simulation Studies (EMSS)". </title> <journal> Symposium of Computational Statistics (COMPSTAT'92), </journal> <volume> Vol. 2, </volume> <pages> p. 195-199. </pages>
+Reference-contexts: In Gibbs sampling the user can only use conjugate distributions as priors. On the contrary, in BASS there is no such restrictions. We are aware of two other tools for MCMC simulation. EMSS, an Environment for Montecarlo Simulation Studies <ref> (Sanchez et al., 1992) </ref>, is a package intended to assist the users of Monte Carlo simulations at different levels.
+Reference: <author> Smith, A. F. M.; Roberts, G. O. </author> <year> (1993). </year> <title> "Bayesian Computation via the Gibbs Sampler and Related Markov Chain Monte Carlo Methods". </title> <journal> Journal of the Royal Statistical Society, Series B, </journal> <volume> 55, No. 1, </volume> <pages> pp. 3-23. </pages>
+Reference-contexts: BASS is built on the use of the Metropolis-Hastings algorithm, whereas BUGS relies entirely on a special case of it, namely Gibbs sampling <ref> (Smith et al., 1993) </ref>. In Gibbs sampling the user can only use conjugate distributions as priors. On the contrary, in BASS there is no such restrictions. We are aware of two other tools for MCMC simulation.
+Reference: <author> Spiegelhalter, D.; Thomas, A.; Best, N.; Gilks, W. </author> <year> (1994). </year> <title> "BUGS* Bayesian inference Using Gibbs Sampling", </title> <type> Version 0.30. </type> <institution> MRC Biostatistics Unit, Institute of Public Health. </institution> <address> Cambridge, UK. </address>
+References-found: 7
+

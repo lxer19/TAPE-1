@@ -1,0 +1,22 @@
+URL: http://swarm.cs.wustl.edu/~picco/papers/ISPW9.ps.gz
+Refering-URL: http://swarm.cs.wustl.edu/~picco/listpub.html
+Root-URL: http://www.cs.wustl.edu
+Title: long as SPADE is bound to O 2 that imposes its architecture, concurrent access mechanisms,
+Author: Sergio Bandinelli, Alfonso Fuggetta, and Carlo Ghezzi. [] Antonio Carzaniga, Gian Pietro Picco, and Gio-vanni Vigna. [] S. Reiss. [] Ian Thomas and Brian A. Nejmeh. 
+Date: 34(10), October 1991.  December 1991.  57-67, July 1990.  March 1992.  
+Note: properties described in [9]. Acknowledgments This work is being carried out within and partially supported by the ESPRIT III  [3]  the International Symposium Object-Oriented Systems, Methodologies and Applications, Palermo (Italy), September 1994. AICA. [5] O. Deux. The O 2 System. Communications of the ACM,  [6] Digital Equipment Corporation, Maynard, Massa-chusetts. DEC FUSE Handbook,  Version 1.1.  IEEE Software, pages  
+Pubnum: 9(2):29-35,  
+Abstract: In this paper we presented the integration of tools in the SPADE-1 process centered software engineering environment. In particular a mechanism that achieves both control integration and data-integration was described. By means of this mechanism, tools can be controlled at the service level via selectively multicasted messages and can share data (i.e., persistent objects stored in the O 2 OODBMS, in the case of SPADE-1). The process model has a strong control over tools, while tools can share the process data in a disciplined and controlled way. We believe that the availability of ICCM gives us the means to achieve nearly all the tool integration [1] S. Bandinelli, M. Braga, A. Fuggetta, and L. La-vazza. The Architecture of the SPADE-1 Process-Centered SEE. In 3rd European Workshop on Software Process Technology, Grenoble (France), Fe-bruary 1994. [2] S. Bandinelli, A. Fuggetta, C. Ghezzi, and L. Lavazza. The SLANG 1.0 Process Modeling Language Reference Manual. Technical Report RT93032, CEFRIEL, Via Emanueli, 15 - 20126 Mi-lano (Italy), September 1993. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> S. Bandinelli, M. Braga, A. Fuggetta, and L. La-vazza. </author> <booktitle> The Architecture of the SPADE-1 Process-Centered SEE. In 3rd European Workshop on Software Process Technology, </booktitle> <address> Grenoble (France), </address> <month> Fe-bruary </month> <year> 1994. </year>
+Reference: [2] <author> S. Bandinelli, A. Fuggetta, C. Ghezzi, and L. Lavazza. </author> <title> The SLANG 1.0 Process Modeling Language Reference Manual. </title> <type> Technical Report RT93032, </type> <address> CEFRIEL, Via Emanueli, 15 - 20126 Mi-lano (Italy), </address> <month> September </month> <year> 1993. </year>
+Reference: [3] <author> Sergio Bandinelli, Alfonso Fuggetta, and Carlo Ghezzi. </author> <title> Software Process Model Evolution in the SPADE Environment. </title> <journal> IEEE Transactions on Software Engineering. Special Issue on Process Evolution, </journal> <month> December </month> <year> 1993. </year>
+Reference: [4] <author> Antonio Carzaniga, Gian Pietro Picco, and Gio-vanni Vigna. </author> <title> Designing and Implementing Inter-Client Communication in the O 2 Object-Oriented Database Management System. </title> <booktitle> In Proceedings of the International Symposium Object-Oriented Systems, Methodologies and Applications, </booktitle> <address> Palermo (Italy), </address> <month> September </month> <year> 1994. </year> <month> AICA. </month>
+Reference: [5] <author> O. </author> <title> Deux. The O 2 System. </title> <journal> Communications of the ACM, </journal> <volume> 34(10), </volume> <month> October </month> <year> 1991. </year>
+Reference: [6] <institution> Digital Equipment Corporation, Maynard, Massa-chusetts. </institution> <note> DEC FUSE Handbook, December 1991. Version 1.1. </note>
+Reference: [7] <author> OMG. </author> <title> The Common Object Request Broker: Architecture and Specification. Document 91.12.1, </title> <type> OMG, </type> <year> 1991. </year> <note> Rev. 1.1. </note>
+Reference: [8] <author> S. Reiss. </author> <title> Connecting Tools using Message Passing in the FIELD Program Development Environment. </title> <journal> IEEE Software, </journal> <pages> pages 57-67, </pages> <month> July </month> <year> 1990. </year>
+
+References-found: 8
+

@@ -1,0 +1,20 @@
+URL: http://www.cs.toronto.edu/~ftp/pub/reports/na/imsl-9005.ps.Z
+Refering-URL: http://www.cs.toronto.edu/NA/reports.html
+Root-URL: 
+Phone: Telephone (713) 782-6060 Telex 791923  
+Title: Using the IMSL MATH/LIBRARY in Numerical Methods Courses  
+Author: by K. R. Jackson T. E. Hull 
+Note: Copyright c 1990 by IMSL, Inc. All Rights Reserved.  
+Address: Toronto  2500 Permina Tower 2500 City West Boulevard Houston, Tesas 77042-3020, USA  
+Affiliation: University of  IMSL, Inc.  IMSL INC HOU  
+Abstract: IMSL Technical Report Series No. 9005 
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> Dongarra, Jack J., and Eric Grosse (1987), </author> <title> Distribution of mathematical software via electronic mail, </title> <journal> CACM 30, </journal> <pages> pp. 403-407. </pages>
+Reference-contexts: Secondary goals for these courses were to sharpen the students' programming skills, and to train them in good computing practices. In previous courses, we used software packages distributed with the popular numerical methods textbooks, as well as mathematical software collected from colleagues and public domain sources such as netlib <ref> (1987) </ref> and ACM TOMS. We feel that exposing students to a comprehensive and sophisticated library, such as the IMSL MATH/LIBRARY, better meets our course objectives. <p> Having chosen the IMSL MATH/LIBRARY, our next task was to select a textbook and appropriate documentation. We first considered Numerical Methods, Software, and Analysis by Rice (1983), but reluctantly decided against using it because that edition is based on the "old" IMSL Library <ref> (before the major revision in 1987) </ref>.
+Reference: 2. <author> Enright, Wayne H., and John D. </author> <title> Pryce (1987), Two FORTRAN packages for assessing initial value methods, </title> <booktitle> ACM TOMS 13, </booktitle> <pages> pp. 1-27. </pages>
+Reference: 3. <author> Gregory, Robert T., and David L. </author> <month> Karney </month> <year> (1969), </year> <title> A Collection of Matrices for Testing Computational Algorithms, </title> <publisher> Wiley-Interscience, </publisher> <address> New York. </address>
+Reference: 4. <author> Ortega, James M., and William G. Poole, Jr. </author> <year> (1981), </year> <title> An Introduction to Numerical Methods for Differential Equations, </title> <publisher> Pitman, </publisher> <address> Marshfield, MA. </address>
+Reference: 5. <author> Rice, John R. </author> <year> (1983), </year> <title> Numerical Methods, Software, and Analysis: IMSL Reference Edition, </title> <publisher> McGraw-Hill, </publisher> <address> New York. </address>
+References-found: 5
+

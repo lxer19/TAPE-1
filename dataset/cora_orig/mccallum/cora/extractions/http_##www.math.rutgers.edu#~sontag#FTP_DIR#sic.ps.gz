@@ -1,0 +1,24 @@
+URL: http://www.math.rutgers.edu/~sontag/FTP_DIR/sic.ps.gz
+Refering-URL: http://www.math.rutgers.edu/~sontag/papers.html
+Root-URL: 
+Title: AN ALGEBRAIC APPROACH TO BOUNDED CONTROLLABILITY OF LINEAR SYSTEMS  
+Author: Eduardo D. Sontag 
+Address: New Brunswick, NJ 08903  
+Affiliation: Department of Mathematics Rutgers University  
+Abstract: In this note we present an algebraic approach to the proof that a linear system with matrices (A,B) is null-controllable using bounded inputs iff it is null-controllable (with unbounded inputs) and all eigenvalues of A have nonpositive real parts (continuous time) or magnitude not greater than one (discrete time). We also give the analogous results for the asymptotic case. Finally, we give an interpretation of these results in the context of local nonlinear controllability. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> R.Brammer, </author> <title> "Controllability in linear autonomous systems with positive controllers", </title> <journal> SIAM J. Control 10(1972): </journal> <pages> 339-353. </pages>
+Reference-contexts: This more general statement was proved for continuous time scalar (m=1) systems in [2], which also gives a proof in the (continuous) case with m&gt;1 but with extra assumptions on A. These assumptions were dropped in <ref> [1] </ref> (see also [5]).
+Reference: [2] <author> E.B.Lee and L.Markus, </author> <title> Foundations of Optimal Control Theory, </title> <publisher> Wiley, </publisher> <address> NY, </address> <year> 1968. </year>
+Reference-contexts: This more general statement was proved for continuous time scalar (m=1) systems in <ref> [2] </ref>, which also gives a proof in the (continuous) case with m&gt;1 but with extra assumptions on A. These assumptions were dropped in [1] (see also [5]).
+Reference: [3] <author> R.Hermann and C.Martin, </author> <title> Algebro-geometric and Lie Techniques in Systems Theory, </title> <publisher> Math. Sci. Press, </publisher> <address> Brookline(MA), </address> <year> 1977. </year>
+Reference-contexts: It can be proved that every matrix can be written as [S,L]+BL, for fixed (A,B) and varying (S,L), if and only if (A,B) is reachable; see <ref> [3] </ref>. Thus, L is a submersion at e. By the implicit function theorem, L is open on a ngbd N of e. Pick b&gt;0, and restrict N so that (T,K)N implies ||K||&lt;b.
+Reference: [4] <editor> R.E.Kalman, P.L.Falb, and M.A.Arbib, </editor> <booktitle> Topics in Mathematical System Theory, </booktitle> <address> Mc-Graw-Hill, NY, </address> <year> 1969. </year>
+Reference: [5] <author> W.E.Schmitendorf and B.R.Barmish, </author> <title> "Null controllability of linear systems with constrained controls", </title> <journal> SIAM J. Control and Opt. </journal> <volume> 18(1980): </volume> <pages> 327-345. </pages>
+Reference-contexts: This more general statement was proved for continuous time scalar (m=1) systems in [2], which also gives a proof in the (continuous) case with m&gt;1 but with extra assumptions on A. These assumptions were dropped in [1] (see also <ref> [5] </ref>).
+Reference: [6] <author> E.D.Sontag, </author> <title> "Conditions for abstract nonlinear regulation", </title> <journal> Information and Control, </journal> <note> to appear. </note>
+Reference: [7] <author> E.D.Sontag, </author> <title> "A Lyapunov-like characterization of asymptotic controllability", </title> <journal> SIAM J. Control and Opt., </journal> <note> to appear. </note>
+Reference: [8] <author> W.M.Wonham, </author> <title> Linear Multivariable Control, </title> <publisher> Springer, </publisher> <address> NY, </address> <year> 1974. </year>
+References-found: 8
+

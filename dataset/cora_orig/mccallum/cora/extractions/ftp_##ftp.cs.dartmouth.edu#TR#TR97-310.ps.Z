@@ -1,0 +1,24 @@
+URL: ftp://ftp.cs.dartmouth.edu/TR/TR97-310.ps.Z
+Refering-URL: http://www.cs.dartmouth.edu/reports/abstracts/TR97-310/
+Root-URL: http://www.cs.dartmouth.edu
+Title: Multimedia Data Analysis using ImageTcl  
+Author: B. Owen, Fillia Makedon 
+Keyword: TCL/TK, MULTIMEDIA, INFORMATION RETRIEVAL  
+Address: 6211 Sudikoff Labs  College, Hanover, NH, 03755, USA  
+Affiliation: Dartmouth Experimental Visualization Laboratory  Dartmouth  
+Note: (Extended version)  Charles  
+Email: devlab@cs.dartmouth.edu  
+Date: 1  
+Abstract: Dartmouth College Computer Science Technical Report PCS-TR97-310 Abstract: I MAGE T CL is an new system which provides powerful Tcl/Tk based media scripting capabilities similar to those of the ViewSystem and Rivl in a unique environment that allows rapid prototyping and development of new components in the C++ language. Powerful user tools automate the creation of new components as well as the addition of new data types and file formats. Applications using I MAGE T CL at the Dartmouth Experimental Visualization Laboratory (DEVLAB) include multiple stream media data analysis, automatic image annotation, and image sequence motion analysis. I MAGE T CL combines the high speed of compiled languages with the testing and parameterization advantages of scripting languages. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> BAHAN, B. J. </author> <year> (1996): </year> <title> Non-manual realization of agreement in American sign language, </title> <type> Ph.D. Thesis, </type> <institution> Boston University. </institution>
+Reference: <author> LINDBLAD, C. J. </author> <year> (1994): </year> <title> A programming system for the dynamic manipulation of temporally sensitive data. </title> <institution> MIT/LCS/TR-637, Massachusetts Institute of Technology. </institution>
+Reference: <author> LIU, X. and OWEN, C. B. and MAKEDON, F. S., </author> <title> Automatic video pause detection filter, </title> <type> Technical Report PCS-TR97-307, </type> <institution> Dartmouth College, </institution> <year> 1997. </year>
+Reference: <author> MATTHEWS, J., GLOOR, P. and MAKEDON, F. </author> <year> (1993): </year> <title> VideoScheme: A programmable video editing system for automation and media recognition. </title> <booktitle> Proc. of ACM Multimedia'93, </booktitle> <address> Anaheim, CA. </address>
+Reference: <author> OWEN, C. B. </author> <year> (1996): </year> <title> I MAGE T CL multimedia development environment, </title> <note> http://devlab.dartmouth.edu/imagetcl/. 8 RABINER, </note> <author> L. and JUANG, B.-H. </author> <year> (1993): </year> <title> Fundamentals of Speech Recognition, Signal Processing Series, </title> <publisher> PTR Prentice Hall, </publisher> <address> Englewood Cliffs, NJ. </address>
+Reference: <author> STERNBERG, M. L. A. </author> <year> (1996): </year> <title> Essential ASL, </title> <publisher> HarperPerennial Press, </publisher> <address> New York. </address>
+Reference: <author> SWARTZ, J. and SMITH, B. C. </author> <year> (1995): </year> <title> A Resolution Independent Video Language. </title> <booktitle> Proc. ACM Multimedia'95, </booktitle> <address> San Francisco, CA. </address>
+Reference: <author> TENNENHOUSE, D. et. al. </author> <year> (1993): </year> <note> The ViewStation Collected Papers. </note> <institution> Mas-sachusetts Institute of Technology Technical Report MIT/LCS/TR-590. </institution> <month> 9 </month>
+References-found: 8
+

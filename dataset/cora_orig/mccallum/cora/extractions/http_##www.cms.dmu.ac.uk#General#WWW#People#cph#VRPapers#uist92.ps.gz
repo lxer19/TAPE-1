@@ -1,0 +1,14 @@
+URL: http://www.cms.dmu.ac.uk/General/WWW/People/cph/VRPapers/uist92.ps.gz
+Refering-URL: http://www.cms.dmu.ac.uk/General/WWW/People/cph/VRPapers/
+Root-URL: 
+Email: Email: dannenberg@cs.cmu.edu, tpn+@andrew.cmu.edu, newcomer@cs.cmu.edu, dandb+@andrew.cmu.edu  
+Title: Tactus: Toolkit-Level Support for Synchronized Interactive Multimedia  
+Author: Roger B. Dannenberg Tom Neuendorffer Joseph M. Newcomer Dean Rubine 
+Keyword: interface, toolkit, multimedia, synchronization, interactive, real-time  
+Address: Pittsburgh, PA 15213 USA  
+Affiliation: Information Technology Center School of Computer Science Carnegie Mellon University  
+Abstract: Tactus addresses problems of synchronizing and controlling various interactive continuous-time media. The Tactus system consists of two main parts. The first part is a server that synchronizes the presentation of multiple media, including audio, video, graphics, and MIDI, at a workstation. The second is a set of extensions to a graphical user interface toolkit to help compute and/or control temporal streams of information and deliver them to the Tactus Server. Temporal toolkit objects schedule computation events that generate media. Computation is scheduled in advance of real time to overcome system latency, and timestamps are used to allow accurate synchronization by the server in spite of computation and transmission delays. Tactus supports precomputing branches of media streams to minimize latency in interactive applications. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

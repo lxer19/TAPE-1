@@ -1,0 +1,23 @@
+URL: http://ilk.kub.nl/~zavrel/stinfon2.wp.ps.gz
+Refering-URL: http://ilk.kub.nl/~zavrel/tagtest.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Email: -walter.daelemans,zavrel-@kub.nl  peter.berck@uia.ua.ac.be  
+Title: Part-of-Speech Tagging of Dutch with MBT, a Memory-Based Tagger Generator  
+Author: Walter Daelemans, Jakub Zavrel Peter Berck 
+Date: October 28, 1996  
+Address: P.O. Box 90153, NL-5000 LE Tilburg  Universiteitsplein 1, B-2610 Wilrijk  
+Affiliation: Computational Linguistics and AI Tilburg University  Center for Dutch Language and Speech University of Antwerp  
+Abstract: We present a part of speech tagger (morphosyntactic disambiguator) for Dutch, constructed by means of the Memory-Based Tagger generation method. In this approach, inductive learning methods are used to derive a tagger, lexicon and unknown word category guesser fully automatically from a tagged example corpus. Advantages of the approach are (i) fast tagger development time without linguistic engineering, (ii) accuracy better than or comparable to state of the art statistical and rule-based approaches, (iii) fast tagging speed, and (iv) reliable unknown word category guessing without the overhead of morphological analysis. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Berghmans, J. </author> <year> (1995). </year> <institution> WOTAN - een probabilistische grammatikale tagger voor het Nederlands. Doctoraalscriptie, K.U. Nijmegen. </institution>
+Reference-contexts: thousand words already gives very good performance. 3 Experimental Results for Dutch We applied the MBT tagger-generator architecture to the written part of the Eindhoven corpus (Uit Den Boogaart), tagged using the WOTAN tagset developed by the TOSCA group of the Language and Speech department of the University of Nijmegen <ref> (Berghmans, 1995) </ref>. In the experiment, the tagger was generated on the basis of the 610806 first words of the tagged example corpus (27651 sentences). The performance of the resulting tagger was tested on the 100,000 last words (5763 sentences) of the 710806 word Eindhoven corpus.
+Reference: <author> Brill, E. </author> <year> (1992). </year> <title> A simple rule-based part-of-speech tagger. </title> <booktitle> Proceedings Third ACL Applied, </booktitle> <address> Trento, Italy, 152--155. </address>
+Reference: <author> Church, K. </author> <year> (1988). </year> <title> A stochastic parts program and noun phrase parser for unrestricted text. </title> <booktitle> Proceedings Second ACL Applied NLP, </booktitle> <address> Austin, Texas, 136--143. </address>
+Reference: <author> Cutting, D., Kupiec, J., Pederson, J., Sibun, P. </author> <year> (1992). </year> <title> A practical part of speech tagger. </title> <booktitle> Proceedings Third ACL Applied NLP, </booktitle> <address> Trento, Italy, 133--140. </address>
+Reference: <author> Daelemans, W., J. Zavrel, P. Berck, and S. Gillis. </author> <year> (1996). </year> <title> MBT: A Memory-Based Part of speech Tagger Generator. </title> <booktitle> In Proceedings of the Fourth Workshop on Very Large Corpora, Copenhagen: ACL SIGDAT, </booktitle> <pages> 14-27. </pages>
+Reference: <author> Daelemans, W., Van den Bosch, A., & Weijters, A. IGTree: </author> <title> Using Trees for Compression and Classification in Lazy Learning Algorithms. </title> <note> To appear in Artificial Intelligence Review, special issue on Lazy Learning, </note> <year> 1997. </year>
+Reference-contexts: Given an annotated corpus, three datastructures are automatically extracted: a lexicon (associating words to possible tags as evidenced in the training corpus), a case base for known words (words occurring in the lexicon), and a case base for unknown words . Case Bases are compressed using IGTree <ref> (Daelemans et al., 1997) </ref> for efficiency. During tagging, each word in the text to be tagged is looked up in the lexicon.
+Reference: <author> Karlsson, F., Voutilainen, A., Heikkila, J., Anttila, A. </author> <year> (1995). </year> <title> Constraint Grammar. A Language-Independent System for Parsing Unrestricted Text. </title> <publisher> Mouton de Gruyter: Berlin and New York. </publisher> <editor> van der Voort van der Kleij, J., Raaijmakers S., Panhuysen M., Meijering M., van Sterkenburg R. (1994). Een automatisch geanalyseerd corpus hedendaags Nederlands in een flexibel retrievalsysteem. In: Noordman, L. & W. Vroomen (red.) </editor> <booktitle> Informatiewetenschap 1994. </booktitle> <address> Tilburg: </address> <publisher> STINFON, </publisher> <pages> 181-194, </pages> <year> 1994. </year> <month> 8 </month>
+References-found: 7
+

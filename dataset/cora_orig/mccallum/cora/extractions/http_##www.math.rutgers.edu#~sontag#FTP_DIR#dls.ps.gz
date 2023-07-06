@@ -1,0 +1,12 @@
+URL: http://www.math.rutgers.edu/~sontag/FTP_DIR/dls.ps.gz
+Refering-URL: http://www.math.rutgers.edu/~sontag/papers.html
+Root-URL: 
+Title: Separating Bi-Chromatic Points by Parallel Lines  
+Author: Tetsuo Asano John Hershberger Janos Pach Eduardo Sontag Diane Souvaine Subhash Suri 
+Date: October 18, 1994  
+Abstract: Given a 2-coloring of the vertices of a regular n-gon P , how many parallel lines are needed to separate the vertices into monochromatic subsets? We prove that bn=2c is a tight upper bound, and also provide an O(n log n) time algorithm to determine the direction that gives the minimum number of lines. If the polygon is a non-regular convex polygon, then n 3 lines may be necessary, while n 2 lines always suffice. This problem arises in machine learning and has implications about the representational capabilities of some neural networks. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> (AHU 74) Aho, A. V., Hopcroft, J. E., and Ullman, J. D., </author> <title> The Design and Analysis of Computer Algorithms, </title> <publisher> Addison-Wesley, </publisher> <year> 1974. </year> <note> (Baum 88) Baum, </note> <author> E. B., </author> <title> "On the capabilities of multilayer perceptrons," </title> <note> J.Complexity 4 (1988): 193-215. </note> <author> (Baum and Haussler 89) Baum, E. B., and D. Haussler, </author> <title> "What size net gives valid generalization?," </title> <booktitle> Neural Computation 1 (1989): </booktitle> <pages> 151-160. </pages> <note> (Bombieri 74) E. Bombieri, "le Grand Crible," Asterisque 18, 1974. (Linnik 41), </note> <author> Y. V. </author> <title> Linnik, </title> <journal> Dokl. Akad. Nauk SSSR 30 (1941): </journal> <month> 292-294. </month> <title> (Sontag 89) "Sigmoids distinguish better than Heavisides," </title> <booktitle> Neural Computation 1 (1989): </booktitle> <pages> 470-472. </pages>
+References-found: 1
+

@@ -1,0 +1,26 @@
+URL: http://www.ai.mit.edu/people/holly/papers/SSS98.ps.Z
+Refering-URL: http://www.ai.mit.edu/people/holly/papers/papers.html
+Root-URL: 
+Email: holly@ai.mit.edu  
+Title: Integrating Robotic Research: A Survey of Robotic Wheelchair Development  
+Author: Holly A. Yanco 
+Address: 545 Technology Square, Room 705 Cambridge, MA 02139  
+Affiliation: MIT Artificial Intelligence Laboratory  
+Abstract: The integration of solutions to small problems is necessary to solve larger ones. However, this integration does not need the consensus of the entire robotics community. Individual research groups can integrate the necessary pieces to build solutions for larger problems. Community-wide standardization may lead to research stagnation. To address the issues of integration, five of the many research efforts towards developing a robotic wheelchair are discussed. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Bayliss, J.; Brown, C.; Carceroni, R.; Eveland, C.; Harman, C.; Singhal, A.; and Van Wie, M. </author> <year> 1997. </year> <title> Mobile robotics 1997. </title> <type> Technical Report 661, </type> <institution> The University of Rochester Computer Science Department. </institution>
+Reference-contexts: Work is continuing on the ability to add maps to the system for commonly traveled areas. Tin Man systems have been purchased by several research groups, including the MIT Artificial Intelligence Lab (see the next section on Wheelesley) and the University of Rochester <ref> (Bayliss et al. 1997) </ref>, resulting in increased research in the field of robotic wheelchairs with a fairly standardized platform.
+Reference: <author> Crisman, J. D., and Cleary, M. E. </author> <title> In press. Progress on the deictically controlled wheelchair. </title> <editor> In Mittal et al. </editor> <publisher> (In press). </publisher>
+Reference: <author> Gomi, T., and Griffith, A. </author> <title> In press. Developing intelligent wheelchairs for the handicapped. </title> <editor> In Mittal et al. </editor> <publisher> (In press). </publisher>
+Reference: <author> Miller, D. P., and Slack, M. G. </author> <year> 1995. </year> <title> Design and testing of a low-cost robotic wheelchair prototype. </title> <booktitle> Autonomous Robots 2 </booktitle> <pages> 77-88. </pages>
+Reference-contexts: The chair navigated using its vision routines with few modifications. KISS Institute for Practical Robotics: Tin Man II The goal of the Tin Man project is the development of a low-cost robotic wheelchair to aid people with impaired mobility <ref> (Miller & Slack 1995) </ref>. Miller and Slack point out that the focus for robotic wheelchairs, in contrast to the field of mobile robotics, is the human interface and cost issues. Two wheelchair prototypes were developed; Tin Man II is discussed here.
+Reference: <editor> Mittal, V.; Yanco, H. A.; and Aronis, J., eds. In press. </editor> <booktitle> Lecture Notes in Artificial Intelligence: Assis-tive Technology and Artificial Intelligence. </booktitle> <publisher> Springer-Verlag. </publisher>
+Reference: <author> Simpson, R. C.; Levine, S. P.; Bell, D. A.; Jaros, L. A.; Koren, Y.; and Borenstein, J. </author> <title> In press. Navchair: an assistive wheelchair navigation system with automatic adaptation. </title> <editor> In Mittal et al. </editor> <publisher> (In press). </publisher>
+Reference: <author> Yanco, H. A., and Gips, J. </author> <year> 1997. </year> <title> Preliminary investigation of a semi-autonomous robotic wheelchair directed through electrodes. </title> <editor> In Sprigle, S., ed., </editor> <booktitle> Proceedings of the Rehabilitation Engineering Society of North America 1997 Annual Conference, </booktitle> <pages> 414-416. </pages> <publisher> RESNA Press. </publisher>
+Reference-contexts: The chair can be controlled in its robotic mode by using a graphical user interface running on a Power-book or the joystick. To demonstrate the ease of customizing the graphical user interface, Wheelesley's interface has been modified for two access methods: an eye tracking system <ref> (Yanco & Gips 1997) </ref> and single switch scanning (Yanco & Gips 1998). In both cases, the adaptation of the interface took less than one hour. Work is continuing on automatic mode selection and the vision system for outdoor navigation.
+Reference: <author> Yanco, H. A., and Gips, J. </author> <year> 1998. </year> <title> Driver performance using single switch scanning with a powered wheelchair: robotic assisted control versus traditional control. </title> <note> Submitted to RESNA-98. </note>
+Reference-contexts: To demonstrate the ease of customizing the graphical user interface, Wheelesley's interface has been modified for two access methods: an eye tracking system (Yanco & Gips 1997) and single switch scanning <ref> (Yanco & Gips 1998) </ref>. In both cases, the adaptation of the interface took less than one hour. Work is continuing on automatic mode selection and the vision system for outdoor navigation.
+Reference: <author> Yanco, H. A. </author> <title> In press. Wheelesley, a robotic wheelchair system: indoor navigation and user interface. </title> <editor> In Mittal et al. </editor> <publisher> (In press). </publisher>
+References-found: 9
+

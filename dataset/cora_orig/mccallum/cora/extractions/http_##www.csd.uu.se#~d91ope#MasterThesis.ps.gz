@@ -1,0 +1,27 @@
+URL: http://www.csd.uu.se/~d91ope/MasterThesis.ps.gz
+Refering-URL: http://www.csd.uu.se/~d91ope/thesis.html
+Root-URL: 
+Title: A Service Creation and Execution Environment based on the Intelligent Network Concept  Radio Systems AB  
+Author: Olle Pellijeff Supervisor: John-Olof Bauner, ERA/T/N, Ericsson Examiner: Johan Bevemyr, 
+Note: Uppsala Masters Thesis in Computer Science 83 Masters thesis DV3 1995-12-1 ISSN 1100-1883  
+Address: Box 311 S-751 05 Uppsala Sweden  Document T/N 95:134  
+Affiliation: Computing Science Department Uppsala University  Computing Science Department, Uppsala University  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <editor> Jan Thrner Intelligent Networks. </editor> <publisher> Artech House, </publisher> <address> London, </address> <year> 1994 </year>
+Reference-contexts: This demands ability of the service node to control exchanges. Rapid definition and verification of control logic is also necessary. The prevalent approach to do this is to modularize and reuse modules. 3.2 The ITU Intelligent Network Concept In the 1980s the Intelligent Network (IN) concept emerged <ref> [1] </ref>. The International Telecommunication Union (ITU) has defined a conceptual model [17, 2].
+Reference: [2] <author> IEEE Communications Magazine, </author> <month> March </month> <year> 1993, </year> <journal> Vol. </journal> <volume> 31 NO. </volume> <pages> 3. </pages>
+Reference-contexts: Rapid definition and verification of control logic is also necessary. The prevalent approach to do this is to modularize and reuse modules. 3.2 The ITU Intelligent Network Concept In the 1980s the Intelligent Network (IN) concept emerged [1]. The International Telecommunication Union (ITU) has defined a conceptual model <ref> [17, 2] </ref>. Datum - Date 1995-11-24 A Dokumentnr - Document no T/N 95:134 Dokument - Document Master Thesis Blad - Sheet 12 (48) 3.2.1 The Service Plane This plane is service-oriented and shows services without indicating how they are implemented.
+Reference: [3] <author> Ericsson document EN/LZT 101 1270/R5B, </author> <title> Intelligent Networks, AXE Service Script Concept, Survey Cource, </title> <year> 1994. </year>
+Reference-contexts: Logical outlets of the SIB are: greater than, less than, equal to and error. One of these outlets will be chosen due to the result of the comparison. To implement a service several SIBs are connected to form a script <ref> [3] </ref>. The connection patters of the SIBs, decision options and data required by the SIBs, are stored in Global Service Logic (GSL).
+Reference: [4] <institution> Ericsson document EN/LZT 120 589 Uen R1B 1995-06, </institution> <note> CCITT Signalling System No. 7 in GSM, </note> <year> 1995. </year>
+Reference-contexts: Such communication is possible with Common Channel Signalling (CCS), in which signals are multiplexed into dedicated signalling chan nels totally separated from speech channels. ITU has standardized protocols in digital networks, and their current specification (1995) is called Signalling System Number 7 (SS No. 7) <ref> [4] </ref>. The SS No. 7 was specified before the Open Systems Interconnection (OSI) model [11] was finished, and therefore not wholly compatible with the OSI model. 3.4.1 The Message Transfers Parts and the SCCP Message Transfer Parts (MTPs) one, two and three provides connection-less message service.
+Reference: [5] <institution> Ericsson documents (21, </institution> <note> 22, 25, 27 and 29)/155 17-CNT 249 01 Uen, Ericssons protocoll for Intelligent Networks. </note>
+Reference-contexts: Service Data Function (SDF). This function assists the SCF by providing data about customers and the network. Specialized Resource Function (SRF). This function is used to receive information from and give information to users. An example could be voice prompting. The IN CS1 <ref> [5] </ref> also defines a Service Creation Environment Function (SCEF) which handles definition and development of services, a Service Management Agent Function which handles human interaction with the SCEF and a Service Management Function (SMF) which is used to man age the IN-based services. 3.2.4 Physical Plane The physical plane describes the
+Reference: [6] <institution> Ericsson document EN/LZT 101 548 R2A, </institution> <note> Getting to know AXE,1987. </note>
+Reference: [7] <institution> Telecommunications part one and two, Studentlitteratur, Lund 1986. </institution>
+Reference: [8] <author> Ericsson document ETM/RR-94:0004 Uen, </author> <title> Intelligent Network SIMULATOR, </title> <year> 1994. </year>
+Reference-contexts: The SMF has a GUI written in Tcl/Tk [15, 16]. The state of the SMF is active FEs and currently loaded scripts. 5.3 Implementation of the SCEF The IN Application Laboratory managed by Jan van der Meer at Erics-son Telecommunicative B.V. have implemented an IN simulator <ref> [8, 10] </ref>.
+
+References-found: 8
+

@@ -1,0 +1,22 @@
+URL: http://www.eecs.umich.edu/~tyson/Postscript/tk.ps.gz
+Refering-URL: http://www.eecs.umich.edu/~tyson/publications.html
+Root-URL: http://www.cs.umich.edu
+Email: email: tyson@cs.ucdavis.edu,  
+Phone: tel: (916) 752-7004  
+Title: An Interactive Compiler Development System  
+Author: Gary S. Tyson, Robert J. Shaw and Matthew K. Farrens 
+Address: CA 95616  
+Affiliation: Division of Computer Science University of California, Davis,  
+Abstract:  
+Abstract-found: 1
+Intro-found: 1
+Reference: [BeDa91] <author> M. E. Benitez and J. W. Davidson, </author> <title> Code Generation for Streaming: an Access/Execute Mechanism, </title> <booktitle> Proceedings of the Fourth International Conference on Architectural Support for Programming Languages and Operating Systems, </booktitle> <address> Santa Clara, CA (April 8-11, </address> <year> 1991), </year> <pages> pp. 132-141. </pages>
+Reference-contexts: Compiler Overview Once we decided to develop a compiler model for MISC, a study was made of existing compilers and the very portable C compiler (vpcc) <ref> [BeDa91] </ref> was chosen as the base model for IaGO. The design of vpcc, ongoing at the University of Virginia, is an extension of the portable C compiler developed at Bell Labs.
+Reference: [Site93] <author> R. L. </author> <title> Sites, Alpha AXP Architecture, </title> <journal> Communications of the ACM, </journal> <volume> vol. 36, no. </volume> <month> 2 (February, </month> <year> 1993), </year> <pages> pp. 33-44. </pages>
+Reference-contexts: Unlike other MIMD 1 architectures, MISC has been designed to separate a task into multiple, finely interleaved instruction streams which cooperate to execute a sequential task; this is the same ILP exploited by Superscalar architectures such as DEC's Alpha processor <ref> [Site93] </ref>. The partitioning of the task requires the compiler to identify both independent and dependent operations and to assign them to different processing elements. The separation of instructions to exploit ILP is a relatively new strategy and compiler support is unavailable.
+Reference: [Stal] <author> R. M. Stallman, </author> <title> Using and Porting GNU CC, Free Software Foundation, </title> <publisher> Inc. </publisher> <year> 1991. </year>
+Reference-contexts: 1. Introduction The development of high performance architectures requires considerable interaction between the architectural specification and the machine specific optimizations performed to exploit the capabilities of the architecture. These optimizations often expand on more general techniques found in current compilers <ref> [Stal] </ref>. However, few tools exist to aid in the integration of new and existing optimization techniques. We hav e developed an Interactive Graphical Optimizer (IaGO) to facilitate the construction of a high performance code optimizer for new target architectures.
+Reference: [TyFP92] <author> G. Tyson, M. Farrens and A. Pleszkun, MISC: </author> <title> A Multiple Instruction Stream Computer, </title> <booktitle> Proceedings of the 25th Annual International Symposium on Microarchitecture, </booktitle> <address> Portland, Oregon (December 1-4, </address> <year> 1992), </year> <pages> pp. 193-196. </pages>
+Reference-contexts: Generally, the more complex the architecture, the less applicable current compiler technology becomes in the generation of efficient code. We have dev eloped a set of tools to facilitate the design and analysis of the Multiple Instruction Stream Computer (MISC) <ref> [TyFP92] </ref> architecture and simplify the construction of new optimization strategies suited to the unique capabilities of this architecture. This paper briey discusses one of these tools, IaGO, which provides an interactive compilation environment used to develop prototype code optimization strategies for MISC and other new architectures.
+References-found: 4
+

@@ -1,0 +1,17 @@
+URL: http://www.cs.caltech.edu/~lines/filter/contest.ps
+Refering-URL: http://www.cs.caltech.edu/~lines/filter/filter.html
+Root-URL: http://www.cs.caltech.edu
+Title: An Asynchronous Pipelined Filter  
+Author: Uri Cummings and Andrew Lines 
+Date: May 13, 1997  
+Affiliation: California Institute of Technology  
+Abstract-found: 0
+Intro-found: 0
+Reference: [1] <author> U. V. Cummings, A. M. Lines, and A. J. Martin, </author> <title> "An Asynchronous Pipelined Lattice Structure Filter," Advanced Research in Asynchronous Circuits and Techniques, </title> <institution> IEEE Computer Society Technical Committee, </institution> <address> Salt Lake City, Utah, Nov 3-5, </address> <year> 1994. </year>
+Reference-contexts: We chose to implement a digital finite impulse response (FIR) lattice structure filter. This filter is intended for high speed video processing or satellite communications. We described our filter at the Aysnc94 conference, as published in <ref> [1] </ref>. We used the Caltech synthesis method [2] to formally transform our filter specification into an asynchronous chip. In this method, a circuit is described as a set of sequential processes which communicate through channels. <p> It became necessary to develop a complete theory for predicting the system throughput of an arbitrary connection of asynchronous pipelines 3 <ref> [1] </ref>. Using this theory, we found that we needed to add additional buffers (slack match) along many channels so that the global cycle time was limited only by the handshakes between neighboring cells. We wrote a c-program to find the optimal transistor sizes.
+Reference: [2] <author> A. J. Martin, </author> <title> "Compiling Communicating Processes into Delay-Insensitive Circuits," </title> <journal> Distributed Computing, Vol.1, </journal> <volume> No. 4, </volume> <pages> pp. 226-234, </pages> <year> 1986. </year>
+Reference-contexts: We chose to implement a digital finite impulse response (FIR) lattice structure filter. This filter is intended for high speed video processing or satellite communications. We described our filter at the Aysnc94 conference, as published in [1]. We used the Caltech synthesis method <ref> [2] </ref> to formally transform our filter specification into an asynchronous chip. In this method, a circuit is described as a set of sequential processes which communicate through channels. These sequential processes are recursively decomposed into smaller processes, until they are small enough to implement directly in CMOS.
+Reference: [3] <author> P. P. Vaidyanathan, </author> <title> "Passive Cascaded-Lattice Structures for Low-Sensitivity FIR Filter Design, with Applications to Filter Banks," </title> <journal> IEEE Transactions on Circuits and Systems, </journal> <volume> Vol. CAS-33, No. 11, </volume> <pages> pp. 1045-1064, </pages> <month> Nov. </month> <year> 1986. </year>
+Reference-contexts: The lattice consists of a repeated structure of two multipliers, two adders, and a delay element Z 1 . As stated in <ref> [3] </ref>, the mathematical recursion relations for this filter are A [i + 1; t] = A [i; t] + K [i] fl B [i; t] and B [i + 1; t + 1] = B [i; t] K [i] fl A [i; t].
+References-found: 3
+

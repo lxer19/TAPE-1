@@ -1,0 +1,24 @@
+URL: http://www.eecs.umich.edu/mistic/papers/ecarlen/sispad97.ps.gz
+Refering-URL: http://www.eecs.umich.edu/mistic/publications.html
+Root-URL: http://www.eecs.umich.edu
+Title: An Experimental Methodology for the Estimation of Spatially Correlated Parametric Yield in Thin Film Devices  
+Author: Edwin T. Carlen and Carlos H. Mastrangelo 
+Address: Rm. 2405, EECS Bldg., Ann Arbor, MI 48109-2122, USA (313)-763-7162, FAX:(313)-763-9324  
+Affiliation: Center for Integrated Sensors and Circuits Department of Electrical Engineering and Computer Science, University of Michigan  
+Date: SEPT. 8-10, 1997 1  
+Note: PRESENTED AT THE 1997 SISPAD CONFERENCE, CAMBRIDGE, MA  
+Abstract: In this paper we present an experimental methodology for parametric yield estimation that accounts for spatial correlations between features of the same device at specific wafer locations. Each device feature is representative of a device parameter that must fit with a specific tolerance box and may be influenced by several steps of the manufacturing process. If the process flow is known and each of its steps is characterized in a spatially correlated manner, the feature pointwise probability density functions (PDFs) can be accurately reconstructed from the processing step pointwise PDFs. This method thus permits the estimation of pointwise device yield more accurately than the common multilevel (run,wafer,die) averaging approach. Because spatially correlated phenomena is subject to both random and systematic non uniformities, the pointwise step (PDFs) are determined by a decomposition process that separates the systematic and random error components. The systematic PDFs are determined from interpolation functions representing the spatial variations across the entire wafer lot, and the random PDFs are approximated using a combination of principle component analysis and factor analysis with a few uncorrelated random variables valid for the entire lot. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> D. Moore and H. Walker, </author> <title> Yield Simulation for Integrated Circuits. </title> <address> Boston: </address> <publisher> Kluwer, </publisher> <year> 1987. </year>
+Reference: [2] <author> B. E. Stine, D. S. Boning, and J. E. Chung, </author> <title> "Analysis and decomposition of spatial variation in integrated circuit processes and devices," </title> <journal> IEEE Transactions on Semiconductor Manufacturing, </journal> <volume> vol. 10, no. 1, </volume> <month> February </month> <year> 1997. </year>
+Reference: [3] <author> W. Maly and A. J. Strojwas, </author> <title> "Statistical simulation of the IC manufacturing process," </title> <journal> IEEE Trans. on Computer-Aided Design, </journal> <volume> vol. CAD-1, no. 7, </volume> <pages> pp. 120-131, </pages> <month> July </month> <year> 1982. </year>
+Reference: [4] <author> P. Feldman and S. </author> <title> Director, "Integrated circuit quality optimization using surface integrals," </title> <journal> IEEE Trans. on Computer-Aided Design, </journal> <volume> vol. 12, no. 12, </volume> <pages> pp. 1868-1879, </pages> <year> December1993. </year>
+Reference: [5] <author> J. C. Zhang and M. A. Styblinski, </author> <title> Yield and Variability Optimization of Integrated Circuits. </title> <address> Boston: </address> <publisher> Kluwer, </publisher> <year> 1995. </year>
+Reference: [6] <author> C. J. Spanos and S. W. </author> <title> Director, "Parameter extraction for statistical IC process characterization," </title> <journal> IEEE Trans. on Computer-Aided Design, </journal> <volume> vol. CAD-5, no. 1, </volume> <month> January </month> <year> 1986. </year>
+Reference: [7] <author> M. Hasanuzzaman and C. H. Mastrangelo, </author> <title> "Process compilation of thin film microdevices," </title> <journal> IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, </journal> <volume> vol. 15, no. 7, </volume> <month> July </month> <year> 1996. </year>
+Reference: [8] <author> E. Carlen and C. Mastrangelo, </author> <title> "Statistical multi-lot characterization of spatial thickness variations in lpcvd oxide, </title> <journal> nitride, polysilicon, and thermal oxide films," </journal> <note> To be presented at the 1997 SPIE Conference, </note> <institution> Austin, TX, </institution> <month> October 1-2, </month> <year> 1997. </year>
+Reference: [9] <author> R. A. Johnson and D. W. Wichern, </author> <title> Applied Multivariate Statistical Analysis. </title> <address> New Jersey: </address> <publisher> Prentice Hall, </publisher> <year> 1982. </year>
+Reference: [10] <author> Z. Drezner, </author> <title> "Computation of the multivariate normal integral," </title> <journal> ACM Transactions on Mathematical Software, </journal> <volume> vol. 18, no. 4, </volume> <pages> pp. 470-480, </pages> <month> Dec. </month> <year> 1992. </year>
+References-found: 10
+

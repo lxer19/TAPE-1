@@ -1,0 +1,23 @@
+URL: ftp://ftp.cs.kun.nl/pub/CSI/SoftwEng.FunctLang/papers/bare93-copyingextab.ps.gz
+Refering-URL: http://www.cs.kun.nl/~clean/Clean.Papers.html
+Root-URL: 
+Email: e-mail erikb@cs.kun.nl, sjakie@cs.kun.nl,  
+Phone: fax +31.80.652525.  
+Title: aaaaaaa Extending Graph Rewriting with Copying  
+Author: Erik Barendsen Sjaak Smetsers 
+Note: sented.  
+Address: Toernooiveld 1, 6525 ED Nijmegen, The Netherlands  
+Affiliation: University of Nijmegen, Computing Science Institute  
+Abstract: The notion of term graph rewrite system (TGRS) is extended with a lazy copying mechanism. By analyzing this mechanism, a confluence result is obtained for these so-called copy term graph rewrite systems (C-TGRS). Some ideas on the use of lazy copying in practice are pre 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Barendregt, H.P., M.C.J.D. van Eekelen, J.R.W. Glauert, J.R. Kennaway, M.J. </author> <title> Plasmeijer and M.R. Sleep [1987a] Term graph reduction, </title> <booktitle> in: Proceedings of Parallel Architectures and Languages Europe (PARLE'87), </booktitle> <address> Eindhoven, The Netherlands, </address> <publisher> LNCS 259, vol-ume II, Springer-Verlag, Berlin, </publisher> <pages> pp. </pages> <month> 141-158. </month> <title> [1987b] Towards an intermediate language based on graph rewriting, </title> <booktitle> in: Proceedings of Parallel Architectures and Languages Europe (PARLE'87), Eindhoven, The Netherlands, LNCS 259, volume II, </booktitle> <publisher> Springer-Verlag, Berlin, </publisher> <pages> pp. 159175. </pages>
+Reference: <author> Barendsen, E. and J.E.W. </author> <title> Smetsers [1992] Graph rewriting and copying, </title> <type> Technical report no. 92-20, </type> <institution> Department of Computer Science, University of Nijmegen. </institution>
+Reference: <author> Brus, T., M.C.J.D. van Eekelen, M.O. van Leer and M.J. </author> <title> Plasmeijer [1987] Clean: a language for functional graph rewriting, </title> <booktitle> in: Proceedings of the 3rd International Conference on Functional Programming Languages and Computer Architecture, </booktitle> <address> Portland, Oregon, </address> <publisher> LNCS 274, Springer-Verlag, Berlin, </publisher> <pages> pp. 364-384. </pages> <editor> van Eekelen, M.C.J.D., M.J. Plasmeijer and J.E.W. </editor> <title> Smetsers [1991] Parallel graph rewriting on loosely coupled machine architectures, </title> <booktitle> in: Proceedings of Conditional and Typed Rewriting Systems (CTRS'90), </booktitle> <address> Montreal, Canada, </address> <publisher> LNCS 516, Springer-Verlag, Berlin, </publisher> <pages> pp. 354-369. </pages>
+Reference: <editor> Ehrig, H., M. Nagl, G. Rozenberg and A. Rosenfeld (eds.) </editor> <booktitle> [1987] Proceedings of the 3rd International Workshop on Graph-Grammars and the Application to Computer Science, </booktitle> <address> Warrenton, Virginia, USA, </address> <note> December 1986 , LNCS 291, Springer-Verlag, Berlin. </note>
+Reference: <author> Hindley, J.R. </author> <title> [1964] The Church-Rosser property and a result in Combinatory Logic, </title> <institution> disserta-tion, University of Newcastle-upon-Tyne. </institution>
+Reference: <author> N ocker, E.G.J.M.H., J.E.W. Smetsers, M.C.J.D. van Eekelen and M.J. </author> <title> Plasmeijer [1991] Concurrent Clean, </title> <booktitle> in: Proceedings of Parallel Architectures and Languages Europe (PARLE'91), </booktitle> <address> Eindhoven, The Netherlands, </address> <publisher> LNCS 505, SpringerVerlag, Berlin, </publisher> <pages> pp. 202-219. </pages>
+Reference: <author> Rosen, B.K. </author> <title> [1973] Tree manipulation systems and Church-Rosser theorems, </title> <journal> J. Assoc. Comput. Mach. </journal> <volume> 20, </volume> <pages> pp. 160-187. </pages>
+Reference: <author> Smetsers, J.E.W., E.G.J.M.H. N ocker, J.H.G. van Groningen and M.J. </author> <title> Plasmeijer [1991] Generating efficient code for lazy functional languages, </title> <booktitle> in: Proceedings of Conference on Functional Programming Languages and Computer Architecture (FPCA '91), </booktitle> <address> Cambridge, MA, </address> <publisher> LNCS 523, Springer-Verlag, Berlin, </publisher> <pages> pp. </pages> <month> 592-617. </month> <title> This article was processed using the L a T E X macro package with LLNCS style </title>
+References-found: 8
+

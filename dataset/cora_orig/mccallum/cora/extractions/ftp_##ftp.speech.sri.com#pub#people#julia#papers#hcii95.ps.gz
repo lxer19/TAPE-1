@@ -1,0 +1,22 @@
+URL: ftp://ftp.speech.sri.com/pub/people/julia/papers/hcii95.ps.gz
+Refering-URL: http://www.speech.sri.com/people/julia/ix.html
+Root-URL: 
+Email: julia@ai.sri.com  cheyer@ai.sri.com  
+Title: A Multimodal Computer-augmented Interface for Distributed Applications  
+Author: Luc JULIA ab and Adam CHEYER b 
+Keyword: Distributed Applications, Multimodal Interface, Agent Architecture, Pen Computing, Speech Recognition.  
+Address: 46, rue Barrault, 75634 PARIS Cedex 13 FRANCE julia@sig.enst.fr or  333 Ravenswood Ave, Menlo Park, CA 94025 U.S.A.  
+Affiliation: a ENST dpt SIG CNRS URA 820  b A.I.Center SRI International  
+Abstract: In this paper, we present a distributed application integrating handwriting, gesture and speech recognition for a map-based task. Our implementation combines the best features of two existing agentstyle approaches to developing multimodal systems. 
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> OVIATT, S. </author> <title> Toward Empirically-Based Design of Multimodal Dialogue Systems. </title> <booktitle> In Proc. AAAI94 - IM4S (Stanford), </booktitle> <pages> pp. 30-36. </pages>
+Reference-contexts: When dealing with different modalities, there are various ways of combining them and interpreting their combination. As indicated by various studies, the parallel and combined use of both pen and voice helps an application interface to be more convivial and natural to the user <ref> [1] </ref>.
+Reference: 2. <author> COHEN, P.R., CHEYER, A., WANG, M. and BAEG, </author> <title> S.C. An Open Agent Architecture. </title> <booktitle> In Proc. </booktitle> <address> AAAI94 - SA (Stanford), </address> <pages> pp. 1-8. </pages>
+Reference-contexts: MMAAR (Micro/Macro Agent ARchitecture) In this section, we propose a new architecture that unifies and incorporates the best features of two of our agent-based applications, the Open Agent Architecture (OAA) <ref> [2] </ref> and TAPAGE (Tables editor by speech and gestures) [3].
+Reference: 3. <author> FAURE, C. and JULIA, L. </author> <title> An Agent-Based Architecture for a Multimodal Interface. </title> <booktitle> In Proc. AAAI94 - IM4S (Stanford), </booktitle> <pages> pp. 82-86. </pages>
+Reference-contexts: MMAAR (Micro/Macro Agent ARchitecture) In this section, we propose a new architecture that unifies and incorporates the best features of two of our agent-based applications, the Open Agent Architecture (OAA) [2] and TAPAGE (Tables editor by speech and gestures) <ref> [3] </ref>.
+Reference: 4. <author> SCHWARTZ, D.G. </author> <title> Cooperating heterogeneous systems: A blackboard-based meta approach. </title> <type> Technical Report 93-112, </type> <institution> Center for Automation and Intelligent Systems Research, Case Western Reserve University, Cleveland Ohio, </institution> <month> April </month> <year> 1993. </year> <type> Unpublished PhD. thesis. </type>
+Reference-contexts: MMAAR (Micro/Macro Agent ARchitecture) In this section, we propose a new architecture that unifies and incorporates the best features of two of our agent-based applications, the Open Agent Architecture (OAA) [2] and TAPAGE (Tables editor by speech and gestures) [3]. The OAA, based loosely on Schwartz's FLiPSiDE system <ref> [4] </ref>, makes possible a distributed integration of various functional agents by : defining an Interagent Communication Language (ICL) among agents; providing a standard toolbox for all agents that manages network and interagent communication, and provides functionality for executing queries and installing monitors; routing and coordinating distributed computation, controlled by a specialized
+References-found: 4
+

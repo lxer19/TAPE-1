@@ -1,0 +1,13 @@
+URL: http://www.cs.unc.edu/~wynn/pubs/Samples/parallelnbody.ps.gz
+Refering-URL: http://www.cs.unc.edu/~wynn/pubs/
+Root-URL: http://www.cs.unc.edu
+Title: An Efficient Parallel Implementation of the N-Body Problem  
+Author: William C. Wynn 
+Date: March 23, 1998  
+Address: Chapel Hill  
+Affiliation: Department of Computer Science University of North Carolina,  
+Abstract: This paper presents an efficient, scalable algorithm for simulating the N-body problem on shared-memory or message-passing parallel architectures. The approach takes advantage of the force symmetry implied by Newton's third law and utilizes efficient communication operations available on most parallel machines. We present an analytical model of performance based on the BSP cost model and we compare this theoretical performance with our experimental results. We conclude with a discussion of the regime in which this N-Body algorithm is most attractive. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

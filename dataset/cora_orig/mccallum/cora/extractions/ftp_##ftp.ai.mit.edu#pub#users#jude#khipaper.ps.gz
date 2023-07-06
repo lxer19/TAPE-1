@@ -1,0 +1,13 @@
+URL: ftp://ftp.ai.mit.edu/pub/users/jude/khipaper.ps.gz
+Refering-URL: http://www.ai.mit.edu/people/jude/research/research.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: On the Best Constants in the Khintchine Inequality  
+Author: Johannes Wissel and Jseph Turian Mentor: Arteom Zvavitch Supervisor: Gideon Schechtman 
+Affiliation: Department of Theoretical Mathematics, Weizmann Institute of Science  
+Abstract: We show a self-contained new proof for the best B p constant in the Khintchine Inequality for p &gt; 3 using only elementary calculus. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Haagerup U. </author> <year> (1981). </year> <title> The best constants in the Khintchine inequality, </title> <journal> Studia Math-ematica 70, </journal> <pages> pp. 232-283. </pages>
+Reference-contexts: But we are looking for the best constants A p and B p that satisfy the inequality for all natural numbers n. For all p, a solution and proof was given in <ref> [1] </ref>. Here we present another proof, for p &gt; 3, which uses only elementary calculus. Proof Because of the homogeneity of the inequality, we may assume that P n i = 1. <p> the " sequence, f" i g n i=3 : n X " i ff ; i and with k () = (1 )ff 2 2 = (ff 2 1 ) + ff 2 l () = (1 )ff 2 1 = (ff 2 2 ) + ff 2 and 2 <ref> [0; 1] </ref>. Note that k (0) = ff 1 , l (0) = ff 2 , and k () 2 + l () 2 = ff 2 1 + ff 2 2 [0; 1]. Because ff 2 6= 0, k () and l () are not zero-functions. <p> 2 l () = (1 )ff 2 1 = (ff 2 2 ) + ff 2 and 2 <ref> [0; 1] </ref>. Note that k (0) = ff 1 , l (0) = ff 2 , and k () 2 + l () 2 = ff 2 1 + ff 2 2 [0; 1]. Because ff 2 6= 0, k () and l () are not zero-functions.
+References-found: 1
+

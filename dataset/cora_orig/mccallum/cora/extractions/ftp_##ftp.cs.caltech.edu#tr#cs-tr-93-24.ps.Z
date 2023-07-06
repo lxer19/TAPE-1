@@ -1,0 +1,27 @@
+URL: ftp://ftp.cs.caltech.edu/tr/cs-tr-93-24.ps.Z
+Refering-URL: ftp://ftp.cs.caltech.edu/tr/INDEX.html
+Root-URL: http://www.cs.caltech.edu
+Title: An Axiomatic Basis for Computer Programming,  Specification and Design of (Parallel) Programs.  
+Author: [] Hoare, C. A. R., CACM, () -. [] Jones, C.B., 
+Address: Austin, TX78712,  
+Affiliation: Computer Sciences Dept., Univ. of Texas,  
+Note: [5] Misra, J., Safety Properties,  12  
+Date: 1983  July 24, 1992.  
+Pubnum: Proc.IFIP'83, North-Holland,321-332,  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> Chandy, K. M. and J. </author> <title> Misra Parallel Program Design: A Foundation, </title> <publisher> Addison-Wesley, </publisher> <address> Reading, Massachusetts, </address> <year> 1988. </year>
+
+
+
+Reference: [false * V ] <author> (4) From (2), </author> <title> setting X to the empty set: </title>
+Reference: [U * true] <institution> (5) From (2) and (5), for any predicates U , U 0 and V on S: </institution>
+Reference: [U ( U 0 ] ) <author> [(U * V ) ) (U 0 * V )] (6) From (1) and (4), </author> <title> for any predicates U , V and V 0 on S. </title>
+
+Reference: [(9U : U 2 X : h:U ) h:(9U : U 2 X : U )] <author> (9) For any bag X of predicates on S, </author> <title> where X can be empty, and we postpone consideration of whether X can be infinite: </title>
+
+Reference: [(8U : U 2 X : U * V ) (9U : U 2 X : U ) * V ] <editor> (1) For any any predicate U on S and any bag X of predicates on S, </editor> <title> where X can be empty and we postpone consideration of whether X can be infinite: </title>
+Reference: [(8V : V 2 X : U * V ) U * (8V : V 2 X : V )] <institution> (2) For any predicates U , V and W on S: </institution>
+Reference: [(U * V ) ^ (V * W ) ) (U * W )] <author> (3) We suggest two such program properties: </author> <title> one to reason about progress properties and the other to reason about parallel composition of programs. fl Supported in Part by AFOSR 91-0070. </title> <type> 1 </type>
+References-found: 8
+

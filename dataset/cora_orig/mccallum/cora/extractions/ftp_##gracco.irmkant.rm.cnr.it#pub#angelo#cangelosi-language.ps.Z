@@ -1,0 +1,24 @@
+URL: ftp://gracco.irmkant.rm.cnr.it/pub/angelo/cangelosi-language.ps.Z
+Refering-URL: http://kant.irmkant.rm.cnr.it/public.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: The emergence of a "language" in an evolving population of neural networks  
+Author: Angelo Cangelosi Domenico Parisi Reparto Reti Neurali e Vita Artificiale, 
+Address: Viale Marx 15 00137 Rome, Italy  
+Affiliation: Group, Institute of Psychology, National Research Council, Rome  Istituto di Psicologia, C.N.R.,  
+Note: Neural Systems and Artificial Life  note the paper will be presented to the 18th Conference of the Cognitive Science Society, San Diego,  
+Pubnum: Technical Report NSAL-96004  
+Email: email: gral@kant.irmkant.rm.cnr.it  
+Phone: voice: +39 6 86090231 fax: +39 6 824737  
+Web: http://kant.irmkant.rm.cnr.it/gral.html  
+Date: January 1996  12-15 July 1996  
+Abstract-found: 0
+Intro-found: 1
+Reference: <author> Burling, R. </author> <year> 1993. </year> <title> Primate calls, human language, </title> <journal> and nonverbal communication. Current Anthropology, </journal> <volume> 34 (1), </volume> <pages> 25-53. </pages>
+Reference: <author> Clark, E. </author> <year> 1993. </year> <title> The lexicon in acquisition. </title> <publisher> Cambridge, Cambridge University Press. </publisher>
+Reference: <author> Floreano, D., Miglino, O., & Parisi, D. </author> <year> 1991. </year> <title> Emerging complex behaviors in ecosystems of neural networks. In E.R. Caianiello (ed.) Parallel architectures and neural networks. </title> <publisher> Singapore, World Scientific. </publisher>
+Reference-contexts: At this point the individual can categorize the mushroom appropriately and it can either eat the mushroom or go away from the mushroom as required. In a second type of population the language is externally provided and it does not evolve <ref> (Floreano, Miglino, & Parisi, 1991) </ref>. When an individual belonging to this population encounters a mushroom, the three input units of its neural network that encode perceived signals have an activation pattern of '010' whenever the encountered mushroom is edible and an activation pattern of '100' if it is poisonous.
+Reference: <author> Hutchins, E. & Hazelhurst, B. </author> <year> 1995. </year> <title> How to invent a lexicon. The development of shared symbols in interaction. </title> <editor> In N. Gilbert & R Conte (eds.) </editor> <booktitle> Artificial societies: The computer simulation of social life. </booktitle> <address> London, </address> <publisher> UCL Press. </publisher>
+Reference: <author> Parisi, D. </author> <title> in press. An Artificial Life approach to language. Brain and Language. </title>
+Reference: <author> Werner, G. M. & Dyer, M.G. </author> <year> 1994 </year> <month> BioLand: </month> <title> a massively paralle environment for evolving distributed forms of intelligent behavior. </title> <editor> In H. Kitano (ed.) </editor> <booktitle> Massively parallel artificial intelligence. </booktitle> <address> Cambridge, Mass., </address> <publisher> MIT Press. </publisher> <pages> 11 </pages>
+References-found: 6
+

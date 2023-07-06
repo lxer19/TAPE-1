@@ -1,0 +1,18 @@
+URL: http://agents.www.media.mit.edu/groups/agents/publications/kasbah-paam96.ps.gz
+Refering-URL: http://agents.www.media.mit.edu/groups/agents/publications/
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Email: asc/pattie@media.mit.edu  
+Title: Kasbah: An Agent Marketplace for Buying and Selling Goods  
+Author: Anthony Chavez Pattie Maes 
+Address: 20 Ames Street Cambridge, MA 02139  
+Affiliation: MIT Media Lab  
+Abstract: While there are many Web services which help users find things to buy, we know of none which actually try to automate the process of buying and selling. Kasbah is a virtual marketplace on the Web where users create autonomous agents to buy and sell goods on their behalf. Users specify parameters to guide and constrain an agent's overall behavior. A simple prototype has been built to test the viability of this concept. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [AdWorld 1996] <author> AdWorld, </author> <year> 1996. </year> <note> http://www.scbe.on.ca/int/adworld.html </note>
+Reference: [Seattle Times/PI 1996] <institution> Seattle Times/PI, </institution> <year> 1996. </year> <note> http://webster.seatimes.com/classified/index.html </note>
+Reference: [Infomaster 1995] <author> Infomaster, </author> <year> 1995. </year> <note> http://infomaster.stanford.edu:4000/ASK/RENTAL </note>
+Reference: [Demazeau and Muller 1990] <editor> Demazeau, Y., and Muller, J. </editor> <booktitle> 1990. Decentralized Artificial Intelligence. In: Decentralized AI. </booktitle> <editor> Eds. Demazeau and Muller. </editor> <publisher> Elsevier Science Publishers, North Holland. </publisher>
+Reference: [Geddis et al.] <author> Geddis, D., Genesereth, M., Keller, A., and Singh., N. </author> <year> 1995. </year> <month> "Infomaster: </month>
+References-found: 5
+

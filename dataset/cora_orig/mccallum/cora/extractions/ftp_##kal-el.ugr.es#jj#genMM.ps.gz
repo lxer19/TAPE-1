@@ -1,0 +1,18 @@
+URL: ftp://kal-el.ugr.es/jj/genMM.ps.gz
+Refering-URL: http://kal-el.ugr.es/mastermind.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Email: e-mail: jmerelo@kal-el.ugr.es  
+Title: Genetic MasterMind, a case of dynamic constraint optimization  
+Author: J. J. Merelo 
+Note: This problem can also be placed inside the class of constrained optimization [1], although in this case, not all the constraints are know in advance.  
+Date: January 16, 1996  
+Address: Campus Fuentenueva, s/n 18071 Granada (Spain)  
+Affiliation: Department of Electronics and Computer Technology Facultad de Ciencias  
+Pubnum: Technical Report G-96-1  
+Abstract: MasterMind is a game in which the player must find out a hidden combination of colors set by the opponent. The player lays a combination of colors, and the opponent points out the number of positions the player has found out (black tokens) and the number of colors that are in a different place from the hidden combination (white tokens). This problem can be formulated in the following way: the target is to find a string composed of n symbols, drawn from an alphabet of cardinality c, using as constraints hints that restrict the search space. The partial objective of the search is to find a string that meets all the constraints made so far, being the final objective to find the hidden string. For the solution of this problem, two algorithms have been matched: a random search with constraints algorithm, and a genetic algorithm. This paper proves that the genetic algorithm is the best approach, even being as it is a difficult problem for a GA, because it evaluates less combinations, although it usually plays more turns than the random search algorithm.
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Marc Schoenauer, </author> <title> Spyros Xanthakis; Constrained GA optimization, </title> <booktitle> Procs 5th. Int. Conf. on Genetic Algorithms, ICGA 95; S. </booktitle> <editor> Forrest, ed.; Morgan-Kauffmann, </editor> <year> 1993. </year> <month> 8 </month>
+Reference-contexts: The partial objective of the search is to find a string that meets all the constraints (which will not necessarily be the correct one), being the final objective to find the hidden string. This problem can be placed amongh the kind of problems of constrained optimization <ref> [1] </ref>, the only difference being that the constraints are not know in advance. Several combinations must be found that meet an increasing number of constraints, until the hidden combination is found.
+References-found: 1
+

@@ -1,0 +1,22 @@
+URL: ftp://ftp.cs.columbia.edu/reports/reports-1990/cucs-051-90.ps.gz
+Refering-URL: http://www.cs.columbia.edu/~library/1990.html
+Root-URL: http://www.cs.columbia.edu
+Title: An Object-Based Approach to Implementing Distributed Concurrency Control  
+Author: Steven S. Popovich Gail E. Kaiser Shyhtsun F. Wu Steven S. Popovich, Gail E. Kaiser and Shyhtsun F. Wu 
+Keyword: topics: Languages, Tools and Software Engineering; Distributed Databases  
+Note: Copyright 1990  
+Address: New York, NY 10027  
+Affiliation: Columbia University Department of Computer Science  
+Pubnum: CUCS-051-90  
+Date: 20 November 1990  
+Abstract: We have added distributed concurrency control to the MELD object system by representing in-progress transactions as simulated objects. Transaction objects exploit MELD's normal message passing facilities to support the concurrency control mechanism. We have completed the implementation of an optimistic mechanism using transaction objects and have designed a two-phase locking mechanism based on the same paradigm. We discuss the tradeoffs made and lessons learned, dealing both with transactions on objects and with transactions as objects. Popovich and Wu are supported in part by the Center for Telecommunications Research. Kaiser is supported by National Science Foundation grants CCR-9000930, CDA-8920080 and CCR-8858029, by grants from AT&T, BNR, Citicorp, DEC, IBM, Siemens, SRA, Sun and Xerox, by the Center for Advanced Technology and by the Center for Telecommunications Research. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> D. Agrawal, A.J. Bernstein, P. Gupta and [7] Gail E. Kaiser and David Garlan. S. Sengupta. </author> <title> MELDing Data Flow and Object-Oriented Distributed Optimistic Concurrency Control Programming. with Reduced Rollback. In Object-Oriented Programming Systems, </title> <journal> Journal of Distributed Computing Languages and Applications Conference, </journal> <volume> 2(1) </volume> <pages> 45-59, </pages> <month> April, </month> <year> 1987. </year> <pages> pages 254-267. </pages> <address> Orlando FL, </address> <month> October, </month> <year> 1987. </year>
+Reference-contexts: The name server consists of approximately 2400 lines of C. 3 3. Background: Concurrency Control Algorithms Our first application of the transaction object concept implements the multi-version parallel validation (MVPV) optimistic concurrency control algorithm. MVPV, presented in a paper by Agrawal et al. <ref> [1] </ref>, is a variant of the original optimistic concurrency control algorithm devised by Kung and Robinson [10]. Only short descriptions of these algorithms are included here; the 1 full details are in the papers.
+Reference: [2] <author> Philip A. Bernstein, Vassos Hadzilacos and Nathan Goodman. [8] Gail E. Kaiser, Steven S. Popovich, </author> <title> Wenwey Concurrency Control and Recovery in Hseush and Shyhtsun Felix Wu. Database Systems. MELDing Multiple Granularities of Addison-Wesley, </title> <address> Reading MA, </address> <year> 1987. </year> <title> Parallelism. </title> <booktitle> In 3rd European Conference on Object </booktitle>
+Reference-contexts: Only short descriptions of these algorithms are included here; the 1 full details are in the papers. Our second application of transaction objects, only a design at this point, is to the conventional two-phase locking concurrency control algorithm (2PL) <ref> [2] </ref>. We assume that the reader is familiar with 2PL. Both MVPV and 2PL employ standard distributed commit protocols, involving a coordinator in the process where the transaction is initiated and cohorts in every process where the transaction executes; we also assume the reader is familiar with such commit protocols.
+Reference: [3] <author> Don Cohen and K. </author> <title> Narayanaswamy. </title> <booktitle> Oriented Programming, </booktitle> <pages> pages 147-166. </pages>
+Reference-contexts: Their implementations change as described in Figure 7-2. This design allows two-phase locking to be substituted for MELD's optimistic protocol, without any other changes to MELD's implementation. 8. Related Work A few innovative engineering or design-oriented systems represent development tasks as objects (e.g., <ref> [3] </ref>). The purpose of these objects is to provide a persistent developer-visible "audit trail" of changes to the system under development and allow reasoning about these changes.
+References-found: 3
+

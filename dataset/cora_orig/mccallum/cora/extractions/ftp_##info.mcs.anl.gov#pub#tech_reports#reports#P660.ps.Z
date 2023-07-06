@@ -1,0 +1,19 @@
+URL: ftp://info.mcs.anl.gov/pub/tech_reports/reports/P660.ps.Z
+Refering-URL: http://www.mcs.anl.gov/publications/abstracts/abstracts97.htm
+Root-URL: http://www.mcs.anl.gov
+Email: fdiachin,herzogg@mcs.anl.gov  
+Title: ANALYTIC STREAMLINE CALCULATIONS ON LINEAR TETRAHEDRA  
+Author: Darin P. Diachin and James A. Herzog 
+Address: Argonne, Illinois 60439  
+Affiliation: Mathematics and Computer Science Division Argonne National Laboratory  
+Abstract: Analytic solutions for streamlines within tetrahedra are used to define operators that accurately and efficiently compute streamlines. The method presented here is based on linear interpolation, and therefore produces exact results for linear velocity fields. In addition, the method requires less computation than the forward Euler numerical method. Results are presented that compare accuracy measurements of the method with forward Euler and fourth-order Runge-Kutta applied to both a linear and a nonlinear velocity field. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> D. L. Darmofal and R. Haimes. </author> <title> An analysis of 3d particle path integration algorithms. </title> <journal> Journal of Computational Physics, </journal> <volume> 123 </volume> <pages> 182-195, </pages> <year> 1995. </year>
+Reference: [2] <author> David N. Kenwright and David A. Lane. </author> <title> Optimization of time-dependent particle tracing using tetrahedral decomposition. </title> <booktitle> In Proceedings of Visualization '95, </booktitle> <pages> pages 321-327. </pages> <publisher> IEEE Computer Society Press, </publisher> <year> 1995. </year> <month> 9 </month>
+Reference: [3] <author> Cleve Moler and Charles Van Loan. </author> <title> Nineteen dubious ways to compute the exponential of a matrix. </title> <journal> SIAM Review, </journal> <volume> 20 </volume> <pages> 801-832, </pages> <year> 1978. </year>
+Reference: [4] <author> B. N. Parlett. </author> <title> A recurrence among the elements of functions of triangular matrices. </title> <journal> Linear Algebra and Its Applications, </journal> <volume> 14 </volume> <pages> 117-121, </pages> <year> 1976. </year>
+Reference: [5] <author> K. Sikorski S. K. Ueng and Kwan-Liu Ma. </author> <title> Fast algorithms for visualizing fluid motion in steady flow on unstructured grids. </title> <booktitle> In Proceedings of Visualization '95, </booktitle> <pages> pages 313-320. </pages> <publisher> IEEE Computer Society Press, </publisher> <year> 1995. </year>
+Reference: [6] <author> Susumu Shirayama. </author> <title> Processing of computed vector fields for visualization. </title> <journal> Journal of Computational Physics, </journal> <volume> 106 </volume> <pages> 30-41, </pages> <year> 1993. </year> <month> 10 </month>
+References-found: 6
+

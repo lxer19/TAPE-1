@@ -1,0 +1,27 @@
+URL: ftp://ftp.cis.ohio-state.edu/pub/tech-report/1996/TR49.ps.gz
+Refering-URL: http://www.cis.ohio-state.edu/~liux/
+Root-URL: http://www.cis.ohio-state.edu
+Title: Range Image Segmentation Using a LEGION Network  
+Author: Xiuwen Liu and DeLiang Wang 
+Address: Columbus, Ohio 43210, USA  
+Affiliation: Department of Computer and Information Science Center for Cognitive Science The Ohio State University  
+Abstract: This paper presents a neural network approach for range image segmentation. We use a locally excitatory globally inhibitory oscillator network (LEGION) as the framework for range image segmentation. Each oscillator in the LEGION network has excitatory lateral connections to the oscillators in its neighborhood as well as a connection with a global inhibitor. The feature detector associated with each oscillator estimates the surface normal and curvature at its corresponding pixel location. The lateral connection between two oscillators is established based on a similarity measure of their feature vectors. The emergent behavior of the LEGION network gives rise to the segmentation result. Unlike other methods, our scheme needs no assumption about the underlying structures in image data and no prior knowledge regarding the number of regions. Experimental results using real range images are presented. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> P. J. Besl and R. C. Jain, </author> <title> Segmentation through variable-order surface fitting, </title> <journal> IEEE Transactions on Pattern Analysis and Machine Intelligence, </journal> <volume> vol. 10(2), </volume> <pages> pp. 167-192, </pages> <year> 1988. </year>
+Reference: [2] <author> B. Bhanu, S. Lee, C. C. Ho, and T. Henderson, </author> <title> Range data processing: Representation of surfaces by edges, </title> <booktitle> in Proceedings of the IEEE International Pattern Recognition Conference, </booktitle> <pages> pp. 236-238, </pages> <year> 1986. </year>
+Reference: [3] <author> R. Hoffman and A. K. Jain, </author> <title> Segmentation and classification of range images, </title> <journal> IEEE Transactions on Pattern Analysis and Machine Intelligence, </journal> <volume> vol. 9(5), </volume> <pages> pp. 608-620, </pages> <year> 1987. </year>
+Reference: [4] <author> A. Hoover, G. Jean-Baptiste, and et al, </author> <title> An experimental comparison of range image segmentation algorithms, </title> <journal> IEEE Transactions on Pattern Analysis and Machine Intelligence, </journal> <volume> vol. 18(7), </volume> <pages> pp. 673-689, </pages> <year> 1996. </year>
+Reference: [5] <author> J. Y. Hsiao and A. A. Sawchuk, </author> <title> Unsupervised textured image segmentation using feature smoothing and probabilistic relaxation techniques, Computer Vision, </title> <journal> Graphics, and Image Processing, </journal> <volume> vol. 48(1), </volume> <pages> pp. 1-21, </pages> <year> 1989. </year>
+Reference: [6] <author> D. J. Ittner and A. K. Jain, </author> <title> 3-D surface discrimination from local curvature measures, </title> <booktitle> in Proceedings of the Computer Vision and Pattern Recognition Conference, </booktitle> <pages> pp. 119-123, </pages> <year> 1985. </year>
+Reference: [7] <author> J. Koh, M. Suk, and S. M. Bhandarkar, </author> <title> A multilayer self-organizing feature map for range image segmentation, </title> <booktitle> Neural Networks, </booktitle> <volume> vol. 8(1), </volume> <pages> pp. 67-86, </pages> <year> 1995. </year>
+Reference: [8] <author> T. Kohonen, </author> <title> Self-Organizing Maps, </title> <address> Berlin Heidelberg: </address> <publisher> Springer, </publisher> <year> 1995. </year>
+Reference: [9] <author> A. Leonardis, A. Gupta, and R. </author> <title> Bajcsy, Segmentation as the search for the best description of the image in terms of primitives, </title> <booktitle> in Proceedings of the International Conference on Computer Vision, </booktitle> <pages> pp. 121-125, </pages> <year> 1990. </year>
+Reference: [10] <author> D. Terman and D. L. Wang, </author> <title> Global competition and local cooperation in a network of neural oscillators, </title> <journal> Physica D, </journal> <volume> vol. 81, </volume> <pages> pp. 148-176, </pages> <year> 1995. </year>
+Reference: [11] <author> B. C. Vemuri, A. Mitiche, and J. K. Aggarwal, </author> <title> Curvature-based representation of objects from range data, </title> <journal> Image and Vision Computing, </journal> <volume> vol. 4(2), </volume> <pages> pp. 107-114, </pages> <year> 1986. </year>
+Reference: [12] <author> D. L. Wang and D. Terman, </author> <title> Locally exicitatory globally inhibitory oscillator networks, </title> <journal> IEEE Transactions on Neural Networks, </journal> <volume> vol. 6(1), </volume> <pages> pp. 283-286, </pages> <year> 1995. </year>
+Reference: [13] <author> D. L. Wang and D. Terman, </author> <title> Image Segmentation Based on Oscillatory Correlation, </title> <type> Technical Report 19, </type> <institution> Center for Cognitive Science, The Ohio State University, </institution> <year> 1996. </year>
+Reference: [14] <author> M. A. Wani and B. G. Batchelor, </author> <title> Edge-region-based segmentation of range images, </title> <journal> IEEE Transactions on Pattern Analysis and Machine Intelligence, </journal> <volume> vol. 16(3), </volume> <pages> pp. 314-319, </pages> <year> 1994. </year>
+
+References-found: 14
+

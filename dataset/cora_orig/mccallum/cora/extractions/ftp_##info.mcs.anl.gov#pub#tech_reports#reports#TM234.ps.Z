@@ -1,0 +1,19 @@
+URL: ftp://info.mcs.anl.gov/pub/tech_reports/reports/TM234.ps.Z
+Refering-URL: http://www.mcs.anl.gov/publications/abstracts/abstracts97.htm
+Root-URL: http://www.mcs.anl.gov
+Title: Users Guide for ROMIO: A High-Performance, Portable MPI-IO Implementation  
+Author: by Rajeev Thakur, Ewing Lusk, and William Gropp 
+Note: This work was supported by the Mathematical, Information, and Computational Sciences Division subprogram of the Office of Computational and Technology Research, U.S. Department of Energy, under Contract W-31-109-Eng-38; and by the Scalable I/O Initiative, a multiagency project funded by the Defense Advanced Research Projects Agency (Contract DABT63-94-C-0049), the Department of Energy, the National Aeronautics and Space Administration, and the National Science Foundation.  
+Date: October 1997  
+Web: ANL/MCS-TM-234  
+Address: 9700 South Cass Avenue Argonne, IL 60439  
+Affiliation: ARGONNE NATIONAL LABORATORY  Mathematics and Computer Science Division  
+Pubnum: Technical Memorandum No. 234  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> Message-Passing Interface Forum. </author> <title> MPI-2: Extensions to the Message-Passing Interface. </title> <month> July </month> <year> 1997. </year> <note> On the World-Wide Web at http://www.mpi-forum.org/docs/docs.html. </note>
+Reference-contexts: 1 Introduction ROMIO 1 is a high-performance, portable implementation of MPI-IO (the I/O chapter in MPI-2 <ref> [1] </ref>). This document describes how to install and use ROMIO version 1.0.0 on various machines. <p> file: setenv MPI TYPE MAX 65536 Use a larger number if you still get the error message. * If a Fortran program uses a file handle created using ROMIO's C interface, or vice versa, you must use the functions MPI File c2f or MPI File f2c (see Sec. 4.12.4 in <ref> [1] </ref>). Such a 6 situation occurs, for example, if a Fortran program uses an I/O library written in C with MPI-IO calls.
+Reference: [2] <author> R. Thakur, W. Gropp, and E. Lusk. </author> <title> An Abstract-Device Interface for Implementing Portable Parallel-I/O Interfaces. </title> <booktitle> In Proceedings of the 6th Symposium on the Frontiers of Massively Parallel Computation, </booktitle> <pages> pages 180-187, </pages> <month> October </month> <year> 1996. </year> <month> 7 </month>
+Reference-contexts: * the type of system (often uname -a), * the output of configure, * the output of make, and * any programs or tests to romio-maint@mcs.anl.gov. 9 ROMIO Internals A key component of ROMIO that enables such a portable MPI-IO implementation is an internal abstract I/O device layer called ADIO <ref> [2] </ref>. Most users of ROMIO will not need to deal with the ADIO layer at all. However, ADIO is useful to those who want to port ROMIO to some other file system. The ROMIO source code and the ADIO paper [2] will help you get started. <p> implementation is an internal abstract I/O device layer called ADIO <ref> [2] </ref>. Most users of ROMIO will not need to deal with the ADIO layer at all. However, ADIO is useful to those who want to port ROMIO to some other file system. The ROMIO source code and the ADIO paper [2] will help you get started.
+References-found: 2
+

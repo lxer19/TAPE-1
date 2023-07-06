@@ -1,0 +1,24 @@
+URL: http://www.cs.wustl.edu/cs/techreports/1995/wucs-95-07.ps.Z
+Refering-URL: http://www.cs.wustl.edu/cs/cs/publications.html
+Root-URL: 
+Title: MAINTAINING HIGH THROUGHPUT DURING OVERLOAD IN ATM SWITCHES  
+Author: Jonathan S. Turner wucs-- 
+Note: 0 This work was supported by the ARPA Computing Systems Technology Office, Ascom Timeplex, Bay Networks, Bell Northern Research,  
+Address: Campus Box 1045  One Brookings Drive St. Louis, MO 63130-4899  
+Affiliation: Department of Computer Science  Washington University  NEC, NTT, Southwestern Bell and Tektronix.  
+Date: April 18, 1995  
+Abstract: This report analyzes two popular heuristics for ensuring packet integrity in ATM switching systems. In particular, we analyze the behavior of packet tail discarding, in order to understand how the packet level link efficiency is dependent on the rates of individual virtual circuits and the degree of the imposed overload. In addition, we study early packet discard and show that the queue capacity needed to achieve high efficiency under worst-case conditions grows with the number of virtual circuits and we determine the efficiency obtainable with more limited queue capacities. Using the insights from these analyses, extensions to early packet discard are proposed which achieve high efficiency with dramatically smaller queue capacities (independent of the number of virtual circuits). 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Boyer, P. </author> <title> "A Congestion Control for the ATM," </title> <booktitle> International Teletraffic Congress Seminar on Broadband Technologies: Architectures, Applications and Performance, </booktitle> <pages> 10/90. </pages>
+Reference-contexts: A number of approaches have been proposed to address this problem, including fast-reservation protocols, such as described in <ref> [1] </ref>. Turner [5] has shown that fast reservation protocols can be implemented efficiently and Mahdavian [4] has shown that they can maintain high link efficiencies during overload with small buffers.
+Reference: [2] <author> Floyd, Sally and Allyn Romanov. </author> <title> "Dynamics of TCP Traffic over ATM Networks," </title> <journal> Computer Communication Review, </journal> <volume> vol. 24, no. 4, </volume> <pages> 10/94. </pages>
+Reference-contexts: The Jonathan S. Turner 3 mechanism needed to implement this scheme is quite simple and it can be effective under certain conditions. Floyd and Romanov <ref> [2] </ref> have performed a simulation study to assess the performance of packet tail discarding in a simple network configuration, where the link in question is heavily overloaded and carries TCP/IP traffic.
+Reference: [3] <author> Jain, Raj. </author> <title> "Congestion Control and Traffic Management in ATM Networks: Recent Advances and a Survey," </title> <type> draft technical report, </type> <institution> Ohio State University, Department of Computer and Information Science, </institution> <month> 1/26/95. </month>
+Reference-contexts: The ATM Forum is currently working toward the standardization of a rate-based flow control scheme to manage congestion in the presence of unpredictable bursty traffic <ref> [3] </ref>. This will be part of the service definition for the Available Bit Rate (ABR) service. However, like adaptive windowing mechanisms, the rate-based flow control mechanisms can require one or more network round-trip times before they effectively control congestion.
+Reference: [4] <author> Mahdavian, Seyyed. </author> <title> "Resource Management and Bandwidth Allocation in ATM Networks," </title> <type> Doctoral dissertation, </type> <institution> Washington University, Department of Electrical Engineering, </institution> <month> 12/94. </month>
+Reference-contexts: A number of approaches have been proposed to address this problem, including fast-reservation protocols, such as described in [1]. Turner [5] has shown that fast reservation protocols can be implemented efficiently and Mahdavian <ref> [4] </ref> has shown that they can maintain high link efficiencies during overload with small buffers. The ATM Forum is currently working toward the standardization of a rate-based flow control scheme to manage congestion in the presence of unpredictable bursty traffic [3].
+Reference: [5] <author> Turner, Jonathan S. </author> <title> "Managing Bandwidth in ATM Networks with Bursty Traffic," </title> <journal> IEEE Network, </journal> <volume> vol. 6, no. 5, </volume> <month> September </month> <year> 1992, </year> <pages> 50-58. </pages>
+Reference-contexts: A number of approaches have been proposed to address this problem, including fast-reservation protocols, such as described in [1]. Turner <ref> [5] </ref> has shown that fast reservation protocols can be implemented efficiently and Mahdavian [4] has shown that they can maintain high link efficiencies during overload with small buffers.
+References-found: 5
+

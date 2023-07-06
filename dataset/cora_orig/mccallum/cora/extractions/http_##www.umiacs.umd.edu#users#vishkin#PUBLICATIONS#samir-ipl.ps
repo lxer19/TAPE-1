@@ -1,0 +1,18 @@
+URL: http://www.umiacs.umd.edu/users/vishkin/PUBLICATIONS/samir-ipl.ps
+Refering-URL: http://www.umiacs.umd.edu/users/vishkin/PUBLICATIONS/papers.html
+Root-URL: 
+Title: On the Parallel Complexity of Digraph Reachability  
+Author: Samir Khuller Uzi Vishkin 
+Abstract: We formally show that the directed graph reachability problem can be reduced to several problems using a linear number of processors; hence an efficient parallel algorithm to solve any of these problems would imply an efficient parallel algorithm for the directed graph reachability problem. This formally establishes that all these problems are at least as hard as the s t reachability problem.
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> M. J. Atallah, S. R. Kosaraju, L. L. Larmore, G. L. Miller and S. H. Teng, </author> <title> Constructing trees in parallel, </title> <booktitle> Proc. of 1 st Symp. on Parallel Algorithms and Architectures, </booktitle> <pages> pp. 421-431, </pages> <year> (1989). </year>
+Reference-contexts: Given a linear CFL and a string, we would like to know if the string belongs to the language. A parallel algorithm for this problem was given by Atallah et. al. <ref> [1] </ref>. 3 Reductions We only outline the first reduction from directed reachability to 2-SAT in detail.
+Reference: [2] <author> S. A. Cook and M. Luby, </author> <title> A simple parallel algorithm for finding a satisfying truth assignment to a 2-CNF formula, </title> <journal> Information Processing Letters, </journal> <volume> 27, </volume> <pages> pp. 141-145, </pages> <year> (1988). </year>
+Reference-contexts: variables X 1 ; : : : ; X n , where the formula is written in Conjuctive Normal Form (CNF) such that each clause has at most two literals, is there a satisfying assignment for the formula? A parallel algorithm for this problem was given by Cook and Luby <ref> [2] </ref>.
+Reference: [3] <author> D. Coppersmith and S. Winograd, </author> <title> Matrix multiplication via arithmetic progressions, </title> <journal> Journal of Symbolic Computation, </journal> <volume> 9, </volume> <pages> pp. 251-280, </pages> <year> (1990). </year>
+Reference-contexts: s to t (also called the directed graph reachability problem)? The only known poly-logarithmic time algorithms for this problem use M (n) processors on a PRAM, where M (n) is the number of processors required to do matrix multiplication in O (log n) time (currently, M (n) = n 2:376 <ref> [3] </ref>). We do not consider such an algorithm to be work-efficient since there exists a linear time serial algorithm for this problem. There are many other problems that also suffer from the same transitive closure bottleneck, and have eluded efficient parallelization.
+Reference: [4] <author> R. M. Karp and V. L. Ramachandran, </author> <title> Parallel algorithms for shared memory machines, </title> <booktitle> Handbook of Theoretical Computer Science (Volume A), </booktitle> <publisher> MIT Press/Elsevier, </publisher> <pages> pp. 869-941, </pages> <year> (1992) </year>
+Reference-contexts: There are many other problems that also suffer from the same transitive closure bottleneck, and have eluded efficient parallelization. For more on the transitive closure bottleneck see Section 4. 8. 1 in <ref> [4] </ref>. We formally show that the directed graph reachability problem can be reduced to several such problems using a linear number of processors; hence an efficient parallel algorithm to solve any of these problems would imply an efficient parallel algorithm for the directed graph reachability problem.
+References-found: 4
+

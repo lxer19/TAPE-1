@@ -1,0 +1,32 @@
+URL: ftp://ftp.cs.columbia.edu/reports/reports-1997/cucs-016-97.ps.gz
+Refering-URL: http://www.cs.columbia.edu/~library/1997.html
+Root-URL: http://www.cs.columbia.edu
+Email: @cs.columbia.edu  
+Title: BUILDING A RICH LARGE-SCALE LEXICAL BASE FOR GENERATION  Summary  
+Author: Hongyan Jing and Kathleen R. McKeown and Rebecca Passonneau fhjing, kathy, beckyg 
+Note: TR Number: CUCS-016-97  
+Date: May, 1997  
+Address: Building  New York, N.Y. 10027  
+Affiliation: Department of Computer Science 450 Computer Science  Columbia University  
+Abstract: Most large lexical resources have been developed with language interpretation in mind and can not be used directly for generation. We present a rich large-scale lexical base for generation, constructed by merging various linguistic resources. Our approach meets the needs of language generation systems by providing the facilities for mapping from semantic concepts to verb/sense pairs, for identifying the valid subcategorization forms for a given verb sense, and for representing alternations for paraphrasing power. Information from different resources enriches and constrains each other, so the final result is complete as well as accurate. We show by example how this lexical base can be intergrated into a generation package and how it simplifies development process while improving system performance. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> M. Elhadad. </author> <year> 1991. </year> <title> Fuf user manual version 5.0. </title> <type> (Tech. Rep. </type> <institution> CUCS-038-91) CUCS-038-91, Columbia University Computer Science. </institution>
+Reference: <author> W. N Francis and H. Kucera. </author> <year> 1982. </year> <title> Frequency Analysis of English Usage: Lexicon and Grammar. </title> <publisher> Houghton Mi*in, </publisher> <address> Boston, MA. </address>
+Reference: <author> Ralph Grishman, Catherine Macleod, and Adam Meyers. </author> <year> 1994. </year> <title> COMLEX syntax: Building a computational lexicon. </title> <booktitle> In Proceedings of COLING-94, </booktitle> <address> Kyoto, Japan. </address>
+Reference: <author> M.A.K Halliday. </author> <year> 1985. </year> <title> An Introduction to Functional Grammar. </title> <publisher> Edward Arnold, London. </publisher>
+Reference: <author> Hongyan Jing, Vasileios Hatzivassiloglou, Rebecca Passonneau, and Kathleen McKeown. </author> <year> 1997. </year> <title> Investigating complementary methods for verb sense pruning. </title> <booktitle> In Proceedings of ANLP97 Lexical Semantics Workshop, </booktitle> <address> Washington, D.C., </address> <month> April. </month>
+Reference: <author> J. Klavans, R. Byrd, N. Wacholder, and M. Chodorow. </author> <year> 1991. </year> <title> Taxonomy and polysemy. </title> <type> Technical Report Research Report RC 16443, </type> <institution> IBM Research Division, T.J. Watson Research Center, </institution> <address> Yorktown Heights, NY 10598. </address>
+Reference: <author> Kevin Knight and Vasileios Hatzivassiloglou. </author> <year> 1995. </year> <title> Two-level, many-paths generation. </title> <booktitle> In Proceedings of the 33st Annual Meeting of the Association for Computational Linguistics, </booktitle> <address> Boston, MA, </address> <month> June. </month>
+Reference: <author> Kevin Knight and Steve K. Luk. </author> <year> 1994. </year> <title> Building a large-scale knowledge base for machine translation. </title> <booktitle> In In AAAI-94 proceedings. </booktitle>
+Reference: <author> H Kucera and W. N. Francis. </author> <year> 1967. </year> <title> Computational Analysis of Present-day American English. </title> <publisher> Brown University Press, </publisher> <address> Providence, RI. </address>
+Reference: <author> Beth Levin. </author> <year> 1993. </year> <title> English Verb Classes and Alternations: A Preliminary Investigation. </title> <publisher> University of Chicago Press, Chicago, Illinois. </publisher>
+Reference: <author> Catherine Macleod and Ralph Grishman, </author> <year> 1995. </year> <title> COMLEX Syntax Reference Manual. Proteus Project, </title> <address> New York University. </address>
+Reference: <author> Catherine Macleod, Adam Meyers, and Ralph Grishman. </author> <year> 1995. </year> <title> Tagging as a means of refining and extending syntactic classes. </title> <booktitle> In Proceedings of the 1995 AAAI Spring Symposium on the Lexicon, </booktitle> <publisher> Stanford University. </publisher>
+Reference: <author> Catherine Macleod, Adam Meyers, and Ralph Grishman. </author> <year> 1996. </year> <title> The influence of tagging on the classification of lexical complements. </title> <booktitle> In Proceedings of COLING-96, </booktitle> <address> Copenhagen, Denmark. </address>
+Reference: <author> George A. Miller, Richard Beckwith, Christiane Fellbaum, Derek Gross, and Katherine J. Miller. </author> <year> 1990. </year> <title> Introduction to WordNet: An on-line lexical database. </title> <journal> International Journal of Lexicography (special issue), </journal> <volume> 3(4) </volume> <pages> 235-312. </pages>
+Reference: <author> Jacques Robin. </author> <year> 1994. </year> <title> Revision-Based Generation of Natural Language Summaries Providing Historical Background: Corpus-Based Analysis, Design, Implementation, and Evaluation. </title> <type> Ph.D. thesis, </type> <institution> Department of Computer Science, Columbia University, </institution> <address> New York. </address> <note> Also Technical Report CU-CS-034-94. 16 R. </note> <author> K. Rohini and D. T. Burhans. </author> <year> 1994. </year> <title> Visual semantics: Extracting visual information from text accompanying pictures. </title> <booktitle> In In AAAI-94 proceedings. </booktitle>
+Reference: <author> Frank Smadja and Kathleen R. McKeown. </author> <year> 1991. </year> <title> Using collocations for language generation. </title> <journal> Computational Intelligence, </journal> <volume> 7(4), </volume> <month> December. </month>
+Reference: <author> T. Winograd. </author> <year> 1983. </year> <title> Language as a Cognitive Process. </title> <publisher> Addison-Wesley, </publisher> <address> Reading, Ma. </address> <month> 17 </month>
+References-found: 17
+

@@ -1,0 +1,23 @@
+URL: http://www.cs.cornell.edu/skeshav/tenet/KhKe92.ps
+Refering-URL: http://www.cs.cornell.edu/skeshav/papers.html
+Root-URL: 
+Email: khedkar@diva.berkeley.edu  keshav@tenet.berkeley.edu  
+Title: Fuzzy Prediction of Timeseries  
+Author: PRATAP S. KHEDKAR SRINIVASAN KESHAV 
+Address: Berkeley, CA 94720.  Berkeley, CA 94720.  
+Affiliation: CS Division, Department of EECS, University of California at Berkeley,  CS Division, Department of EECS, University of California at Berkeley and International Computer Science Institute,  
+Abstract: This paper presents an approach to time series extrapolation based on fuzzy control. The standard exponential averaging scheme is inflexible in that it gives a fixed weight to past history, thus ignoring transient phases in system dynamics. We present a modification to the scheme where the control parameter of the averaging scheme is dynamically adjusted by a simple fuzzy logic controller. The design of the controller is described, and the scheme is evaluated by simulation on test workloads and by application to the real-world problem of flow control in communication networks. We also study the sensitivity of our system to its descriptive parameters. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> B.D.O. Anderson, J.B. Moore, </author> <title> Optimal Filtering, </title> <publisher> Prentice Hall, </publisher> <year> 1979 </year>
+Reference-contexts: What we require, instead, is that ^ k , the predictor of k , be optimal in some sense. 2 Classical approach The standard solution to this problem is to use a Kalman predictor or one of its many variants <ref> [1] </ref> [3]. This is optimal in the sense that the expected squared error in ^ k is zero.
+Reference: [2] <author> H. Berenji, </author> <title> A Reinforcement Learning-Based Architecture for Fuzzy Control, </title> <journal> International Journal of Approximate Reasoning, </journal> <note> 1992, to appear </note>
+Reference-contexts: Hence there are two degrees of freedom left: m e and m ff . The tuning to compute a good value for these can be done using a neural network training algorithm (as in <ref> [2] </ref>), but here we concentrate on the effects of these two parameters as they are varied over the entire range. In any case, fine-tuning is bound to be application specific, and we are only interested in general characteristics of such a system at the moment.
+Reference: [3] <author> G.C. Goodwin, </author> <title> K.S. Sin, Adaptive Filtering, Prediction and Control, </title> <publisher> Prentice Hall, </publisher> <year> 1984 </year>
+Reference-contexts: What we require, instead, is that ^ k , the predictor of k , be optimal in some sense. 2 Classical approach The standard solution to this problem is to use a Kalman predictor or one of its many variants [1] <ref> [3] </ref>. This is optimal in the sense that the expected squared error in ^ k is zero.
+Reference: [4] <author> S. Keshav, </author> <title> Congestion Control in Computer Networks, </title> <type> PhD thesis, </type> <institution> University of California, Berkeley, </institution> <month> August </month> <year> 1991 </year>
+Reference-contexts: Since the controller drops the value of ff whenever the prediction error is large, it can quickly catch up with the probe value. Thus the source is able to send more data than it could otherwise. See <ref> [4] </ref> for further details. 11 Drawbacks of the approach The most important assumption in our work is that system perturbation and observation noise are distinguished by the time-constants associated with them. We do not need specific values but their ratio must be "high enough".
+Reference: [5] <author> C.C. Lee, </author> <title> Fuzzy Logic in Control Systems: Fuzzy logic Controllers, </title> <journal> IEEE Trans. on Systems, Man and Cybernetics, </journal> <volume> Vol. 20, No. 2, </volume> <year> 1990 </year> <month> 8 </month>
+Reference-contexts: Then a standard fuzzify-combine-defuzzify technique can be used for inference <ref> [5] </ref>. Since we do not have a good grasp of the state dynamics, we have only three gradations in the values of ff and error. Even if additional resolution was provided, there is not enough domain knowledge to specify ff values for all the finer gradations of error.
+References-found: 5
+

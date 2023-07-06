@@ -1,0 +1,22 @@
+URL: ftp://ftp.cs.columbia.edu/pub/CAVE/papers/nene/nene-nayar-search-cvpr_96.ps.gz
+Refering-URL: http://www.cs.columbia.edu/~sameer/publications.html
+Root-URL: http://www.cs.columbia.edu
+Title: Closest Point Search in High Dimensions  
+Author: Sameer A. Nene and Shree K. Nayar 
+Address: New York, NY 10027  
+Affiliation: Department of Computer Science, Columbia University  
+Abstract: The problem of finding the closest point in high-dimensional spaces is common in computational vision. Unfortunately, the complexity of most existing search algorithms, such as k-d tree and R-tree, grows exponentially with dimension, making them impractical for dimensionality above 15. In nearly all applications, the closest point is of interest only if it lies within a user specified distance *. We present a simple and practical algorithm to efficiently search for the nearest neighbor within Euclidean distance *. Our algorithm uses a projection search technique along with a novel data structure to dramatically improve performance in high dimensions. A complexity analysis is presented which can help determine * in structured problems. Benchmarks clearly show the superiority of the proposed algorithm for high dimensional search problems frequently encountered in machine vision, such as real-time object recognition. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [ Aho et al., 1974 ] <author> A. V. Aho, J. E. Hopcroft and J. D. Ull-man. </author> <title> The Design and Analysis of Computer Algorithms. </title> <publisher> Addison-Wesley Publishing Company, </publisher> <year> 1974. </year>
+Reference: [ Bentley, 1975 ] <author> J. L. Bentley. </author> <title> Multidimensional Binary Search Trees Used for Associative Searching. </title> <journal> Communications of the ACM, </journal> <volume> 18(9) </volume> <pages> 509-517, </pages> <month> September </month> <year> 1975. </year>
+Reference: [ Friedman et al., 1975 ] <author> J. H. Friedman, F. Baskett and L. J. Shustek. </author> <title> An Algorithm for Finding Nearest Neighbors. </title> <journal> IEEE Transactions on Computers, </journal> <pages> pages 1000-1006, </pages> <month> Oc-tober </month> <year> 1975. </year>
+Reference: [ Guttman, 1984 ] <author> A. Guttman. R-trees: </author> <title> A Dynamic Index Structure for Spatial Searching. </title> <booktitle> In ACM SIGMOD, </booktitle> <pages> pages 47-57, </pages> <month> June </month> <year> 1984. </year>
+Reference: [ Knuth, 1973 ] <author> D. E. Knuth. </author> <title> Sorting and Searching, </title> <booktitle> volume 3 of The Art of Computer Programming. </booktitle> <publisher> Addison-Wesley, </publisher> <address> Reading, Mass., </address> <year> 1973. </year>
+Reference: [ Murase and Nayar, 1995 ] <author> H. Murase and S. K. Nayar. </author> <title> Visual Learning and Recognition of 3D Objects from Appearance. </title> <journal> International Journal of Computer Vision, </journal> <volume> 14(1) </volume> <pages> 5-24, </pages> <month> January </month> <year> 1995. </year>
+Reference: [ Nayar et al., 1994 ] <author> S. K. Nayar, H. Murase and S. A. Nene. </author> <title> Learning, Positioning, and Tracking Visual Appearance. </title> <booktitle> In Proceedings of IEEE International Conference on Robotics and Automation, </booktitle> <address> San Diego, </address> <month> May </month> <year> 1994. </year>
+Reference: [ Nayar et al., 1996a ] <author> S. K. Nayar, S. Baker and H. Murase. </author> <title> Parametric Feature Detection. </title> <booktitle> In Proceedings of IEEE Conference on Computer Vision and Pattern Recognition, </booktitle> <month> June </month> <year> 1996. </year> <note> Also Technical Report CUCS-028-95. </note>
+Reference: [ Nayar et al., 1996b ] <author> S. K. Nayar, S. A. Nene and H. Murase. </author> <title> Real-Time 100 Object Recognition System. </title> <booktitle> In Proceedings of IEEE International Conference on Robotics and Automation, </booktitle> <address> Minneapolis, </address> <month> April </month> <year> 1996. </year>
+Reference: [ Nene and Nayar, 1994 ] <author> S. A. Nene and S. K. Nayar. </author> <note> SLAM: </note>
+References-found: 10
+

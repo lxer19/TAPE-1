@@ -1,0 +1,15 @@
+URL: http://www.cs.cmu.edu/afs/cs.cmu.edu/project/coda/Web/docdir/mobile93.ps.Z
+Refering-URL: http://www.cs.cmu.edu/afs/cs.cmu.edu/project/coda/Web/docs-coda.html
+Root-URL: 
+Title: Experience with Disconnected Operation in a Mobile Computing Environment  
+Author: M. Satyanarayanan, James J. Kistler, Lily B. Mummert, Maria R. Ebling, Puneet Kumar, Qi Lu 
+Note: To appear in Proceedings of the 1993 USENIX Symposium on  
+Address: Pittsburgh, PA 15213  Cambridge, MA,  
+Affiliation: School of Computer Science Carnegie Mellon University  Mobile and Location-Independent Computing,  
+Date: June 1993  August 1993  
+Pubnum: CMU-CS-93-168  
+Abstract: In this paper we present qualitative and quantitative data on file access in a mobile computing environment. This information is based on actual usage experience with the Coda File System over a period of about two years. Our experience confirms the viability and effectiveness of disconnected operation. It also exposes certain deficiencies of the current implementation of Coda, and identifies new functionality that would enhance its usefulness for mobile computing. The paper concludes with a description of what we are doing to This work was supported by the Advanced Research Projects Agency (Avionics Laboratory, Wright Research and Development Center, Aeronautical Systems Division(AFSC), U.S. Air Force, Wright-Patterson AFB under Contract F33615-90-C-1465, Arpa Order No. 7597), the National Science Foundation (Grant ECD 8907068), IBM, Digital Equipment Corporation, and Bellcore. The views and conclusions contained in this document are those of the authors and should not be interpreted as representing the official policies, either express or implied, of the U.S. Government, IBM Corporation, Digital Equipment Corporation, or Bellcore. address these issues.
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

@@ -1,0 +1,19 @@
+URL: ftp://ftp.cs.virginia.edu/pub/techreports/CS-93-29.ps.Z
+Refering-URL: ftp://ftp.cs.virginia.edu/pub/techreports/README.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: Super-criticality revisited  
+Author: Sudhir Srinivasan Paul F. Reynolds, Jr. 
+Abstract: Computer Science Report No. CS-93-29 Issued May 25, 1993 Revised November 8, 1994 
+Abstract-found: 1
+Intro-found: 1
+Reference: 1. <author> Berry O., </author> <title> Performance evaluation of the Time Warp distributed simulation mechanism, </title> <type> Ph.D. thesis, </type> <institution> University of Southern California, </institution> <year> 1986. </year>
+Reference: 2. <author> Berry, O. and Jefferson, D., </author> <title> Critical path analysis of distributed simulation, </title> <booktitle> Proceedings of the 1985 SCS Conference on Distributed Simulation, </booktitle> <month> January </month> <year> 1985, </year> <pages> 57-60. </pages>
+Reference: 3. <author> Gunter, M., </author> <title> Understanding supercritical speedup, </title> <booktitle> Proceedings of the 1994 Workshop on Parallel and Distributed Simulation, </booktitle> <month> July </month> <year> 1994, </year> <pages> 81-87. </pages>
+Reference: 4. <author> Gunter, M., </author> <title> Private communication, </title> <month> November </month> <year> 1994. </year>
+Reference: 5. <author> Jefferson, D., </author> <title> Virtual time, </title> <journal> ACM Transactions on Programming Languages and Systems. </journal> <volume> Vol. 7, No. 3, </volume> <month> July </month> <year> 1985, </year> <pages> 404-425. </pages>
+Reference: 6. <author> Jefferson, D. and Reiher, P., </author> <title> Supercritical speedup, </title> <booktitle> Proceedings of the 24th Annual Simulation Symposium, </booktitle> <month> April </month> <year> 1991, </year> <pages> 159-168. </pages>
+Reference: 7. <author> Lin, Y-B., </author> <title> Parallelism analyzers for parallel discrete event simulation, </title> <journal> ACM Transactions on Modeling and Computer Simulation, </journal> <volume> Vol. 2, No. 3, </volume> <month> July </month> <year> 1992, </year> <pages> 236-264. </pages>
+Reference: 8. <author> Lin, Y-B. and Lazowska, E.D., </author> <title> A study of Time Warp rollback mechanisms, </title> <journal> ACM Transactions on Modeling and Computer Simulation, </journal> <volume> Vol. 1, No. 1, </volume> <month> January </month> <year> 1991, </year> <pages> 51-72. </pages>
+Reference-contexts: ACKNOWLEDGMENTS The concept of SCG, the condition which guarantees super-critical speed is due to a referee of an earlier version of this paper. This work was supported in part by the National Science Foundation <ref> (grant CCR-9108448, Aug. 91, number 48) </ref>, MITRE Corporation (Academic Affiliates Program) and Mystech, Inc. (Academic Affiliates Program). A S 1 (a) Before straggler (b) After straggler C B C D P 1 [0-100] P 1 [0-100] Super-criticality revisited 16
+References-found: 8
+

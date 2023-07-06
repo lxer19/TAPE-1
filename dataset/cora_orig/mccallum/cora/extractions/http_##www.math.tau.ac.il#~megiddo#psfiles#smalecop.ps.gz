@@ -1,0 +1,19 @@
+URL: http://www.math.tau.ac.il/~megiddo/psfiles/smalecop.ps.gz
+Refering-URL: http://www.math.tau.ac.il/~megiddo/pub.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: A General NP-Completeness Theorem  
+Author: Nimrod Megiddo 
+Date: (Revised)  
+Abstract: A detailed model of a random access computation over an abstract domain is presented, and the existence of an NP-complete problem is proven under broad conditions which unify Cook's theorem and recent results in the real number model by Blum, Shub and Smale.
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> A. V. Aho, J. E. Hopcroft and J. D. Ullman, </author> <title> The design and analysis of computer algorithms, </title> <publisher> Addison-Wesley, </publisher> <address> Reading, MA, </address> <year> 1976. </year>
+Reference-contexts: There are many equivalent models of computation. I have chosen to generalize the model of a RAM as described by Aho, Hopcroft and Ullman <ref> [ 1 ] </ref> , so I try to stay as close as possible to the notation used by those authors. A RAM has a memory and two tapes: a read-only input tape and a write-only output tape.
+Reference: [2] <author> L. Blum, M. Shub and S. Smale, </author> <title> "On a theory of computation and complexity over the real numbers: NP-completeness, recursive functions and universal machines," </title> <journal> Bulletin of the American Mathematical Society 21 (1989) 1-46. </journal>
+Reference-contexts: 1. Introduction Blum, Shub and Smale <ref> [ 2 ] </ref> formalized a model of computation over a general ring. They proved an analogue of Cook's theorem [ 3 ] over the reals.
+Reference: [3] <author> S. A. Cook, </author> <title> "The complexity of theorem proving procedures," </title> <booktitle> Proceedings of the 3rd Annual ACM Symposium on Theory of Computing (1971), </booktitle> <pages> pp. 151-158. </pages>
+Reference-contexts: 1. Introduction Blum, Shub and Smale [ 2 ] formalized a model of computation over a general ring. They proved an analogue of Cook's theorem <ref> [ 3 ] </ref> over the reals. Smale [ 4 ] has recently raised the question of existence of NP-complete problems relative to "linear" machines, i.e., machines which add, subtract, multiply by constants, and branch, depending on the sign of a number.
+Reference: [4] <author> S. Smale, </author> <title> Talk at the Workshop on Computational Complexity, </title> <institution> IMPA, Rio de Janeiro, </institution> <month> January, </month> <year> 1990. </year> <month> 12 </month>
+Reference-contexts: 1. Introduction Blum, Shub and Smale [ 2 ] formalized a model of computation over a general ring. They proved an analogue of Cook's theorem [ 3 ] over the reals. Smale <ref> [ 4 ] </ref> has recently raised the question of existence of NP-complete problems relative to "linear" machines, i.e., machines which add, subtract, multiply by constants, and branch, depending on the sign of a number. My motivation for writing up this note is the encouragement I received from Steve Smale.
+References-found: 4
+

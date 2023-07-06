@@ -1,0 +1,18 @@
+URL: http://www.cs.duke.edu/~jsv/Papers/Vit87.jacm.ps.gz
+Refering-URL: http://www.cs.duke.edu/~jsv/Papers/catalog/node26.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: (page 1) Design and Analysis of Dynamic Huffman Codes Dessein et Analyse des Codes Huffman Dynamiques  
+Author: Jeffrey Scott Vitter ;; 
+Abstract: We introduce and analyze a new one-pass algorithm for constructing dynamic Huffman codes and also analyze the one-pass algorithm due to Faller, Gallager, and Knuth. In each algorithm, both the sender and the receiver maintain equivalent dynamically varying Huffman trees, and the coding is done in real time. We show that the number of bits used by the new algorithm to encode a message containing t letters is &lt; t bits more than that used by the conventional two-pass Huffman scheme, independent of the alphabet size. This is best possible in the worst case, for any one-pass Huffman method. Tight upper and lower bounds are derived. Empirical tests show that the encodings produced by the new algorithm are shorter than those of the other one-pass algorithm and, except for long messages, are shorter than those of 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> J. L. Bentley, D. D. Sleator, R. E. Tarjan, and V. K. Wei. </author> <title> "A Locally Adaptive Data Compression Scheme," </title> <journal> Communications of the ACM, </journal> <volume> 29, </volume> <month> 4 (April </month> <year> 1986), </year> <pages> 320-330. </pages>
+Reference: <author> P. Elias. </author> <title> "Interval and Recency-Rank Source Coding: Two Online Adaptive Variable-Length Schemes," IEEE Transactions on Information Theory (to appear). Design and Analysis of Dynamic Huffman Codes / 37 N. Faller. "An Adaptive System for Data Compression," </title> <booktitle> Record of the 7th Asilomar Conference on Circuits, Systems, and Computers (1973), </booktitle> <pages> 593-597. </pages>
+Reference: <author> R. G. Gallager. </author> <title> "Variations on a Theme by Huffman," </title> <journal> IEEE Transactions on Information Theory, </journal> <volume> IT-24, </volume> <month> 6 (November </month> <year> 1978), </year> <pages> 668-674. </pages>
+Reference: <author> D. A. Huffman. </author> <title> "A Method for the Construction of Minimum Redundancy Codes," </title> <booktitle> Proceedings of the Institute of Radio Engineers, 40 (1951), </booktitle> <pages> 1098-1101. </pages>
+Reference: <author> D. E. Knuth. </author> <title> "Dynamic Huffman Coding," </title> <journal> Journal of Algorithms, </journal> <volume> 6 (1985), </volume> <pages> 163-180. </pages>
+Reference: <author> E. S. Schwartz. </author> <title> "An Optimum Encoding with Minimum Longest Code and Total Number of Digits," </title> <journal> Information and Control, </journal> <volume> 7, </volume> <month> 1 (March </month> <year> 1964), </year> <pages> 37-44. </pages>
+Reference: <author> C. L. </author> <title> Mc Master. "Documentation of the Compact Command," UNIX User's Manual, 4.2 Berkeley Software Distribution, Virtual VAX-11 Version, </title> <address> University of California (March 1984). </address>
+Reference: <author> J. S. Vitter and W. C. Chen. </author> <title> Design and Analysis of Coalesced Hashing. </title> <publisher> Oxford University Press, </publisher> <address> New York (1987). </address> <booktitle> Design and Analysis of Dynamic Huffman Codes / 38 </booktitle>
+References-found: 8
+

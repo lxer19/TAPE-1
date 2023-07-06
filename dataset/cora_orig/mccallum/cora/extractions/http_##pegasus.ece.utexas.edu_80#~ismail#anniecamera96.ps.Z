@@ -1,0 +1,24 @@
+URL: http://pegasus.ece.utexas.edu:80/~ismail/anniecamera96.ps.Z
+Refering-URL: 
+Root-URL: 
+Email: E-mail: fismail,ghoshg@pine.ece.utexas.edu  
+Title: THREE TECHNIQUES FOR EXTRACTING RULES FROM FEEDFORWARD NETWORKS  
+Author: Ismail Taha and Joydeep Ghosh 
+Address: Austin, TX 78712-1084  
+Affiliation: Department of Electrical and Computer Engineering, University of Texas,  
+Date: 8 August 1996 12:59  
+Abstract: Hybrid intelligent systems that combine knowledge based and artificial neural network systems typically have four phases involving domain knowledge representation, mapping into connectionist network, network training, and rule extraction respectively. The final phase is important because it can provide a trained connectionist architecture with explanation power and validate its output decisions. Moreover, it can be used to refine and maintain the initial knowledge acquired from domain experts. In this paper, we introduce three new rule extraction techniques. The first technique extracts a set of binary rules from any neural network regardless of its kind (MLP, RBF etc.,). The second technique extracts partial rules that represent the most important embedded knowledge in a trained MLP. The fidelity of the second technique is adjustable to the desired level of knowledge extraction. The third technique is a universal and comprehensive approach that extracts almost all embedded knowledge in a trained artificial neural network and represents it in a rule base format. Experimental results of implementing these three rule extraction techniques are presented. Keyword: Knowledge Extraction. Also: Hybrid Artificial Neural Network Systems. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Andrews, R., Diederich, J., Tickle, A., </author> <year> 1995, </year> <title> "A Survey And Critique Of Techniques For Extracting Rules From Trained Artificial Neural Networks," </title> <institution> Neurocomputing Research Center, Queensland University of Technology, Queensland, Australia. </institution>
+Reference: <author> Fu, L., </author> <year> 1994, </year> <booktitle> Neural Networks in Computer Intelligence McGraw-Hill, </booktitle> <publisher> Inc. </publisher>
+Reference: <author> Ghosh, J., Tumer, K., </author> <year> 1994, </year> <title> "Structural Adaptation and Generalization in Supervised Feed-Forward Networks," </title> <journal> Journal of Artificial Neural Networks, </journal> <volume> Vol. 1, </volume> <pages> pp. 431-458. </pages>
+Reference: <author> Liu, H., Setiono, R., </author> <year> 1995, </year> <title> "Chi2: Feature Selection and Discretization of Numeric attributes," </title> <booktitle> Proc. Proceedings of the Seventh International Conference on Tools with Artificial Intelligence, </booktitle> <pages> pp. 388-391. </pages>
+Reference: <author> Mahoney, J., Mooney, R., </author> <year> 1993, </year> <title> "Combining Connectionist and Symbolic Learning to Refine Certainty Factor Rule Bases," </title> <journal> Connection Science, </journal> <volume> Vol. 5, </volume> <pages> pp. 339-364. </pages>
+Reference: <author> Ruddel, R., Sangiovanni-Vincentelli, A., </author> <year> 1985, </year> <title> "Espresso-MV: Algorithms for Multiple-Valued Logic Minimization," </title> <booktitle> Proc. Proceedings of Cust. Int. Circ. Conf. </booktitle> <address> Portland. </address>
+Reference: <author> Setiono, R., Liu, H., </author> <year> 1996, </year> <title> "Symbolic Representation of Neural Networks," </title> <journal> IEEE Computer, </journal> <volume> Vol., </volume> <pages> pp. 71-77. </pages>
+Reference: <author> Taha, I., Ghosh, J., </author> <year> 1995, </year> <title> "Controlling Water Reservoirs using A Hybrid Intelligent Architecture," </title> <booktitle> Proc. Intelligent Engineering Systems Through Artificial Neural Networks, </booktitle> <volume> Vol. 5, </volume> <pages> pp. 63-68. </pages> <publisher> ASME Press. </publisher>
+Reference: <author> Towell, G., Shavlik, J., </author> <year> 1993, </year> <title> "The Extraction of Refined Rules from Knowledge-Based Neural Networks," </title> <journal> Machine Learning, </journal> <volume> Vol. 13, </volume> <pages> pp. 71-101. </pages>
+Reference: <author> Towell, G., Shavlik, J., </author> <year> 1994, </year> <title> "Knowledge-Based Artificial Neural Networks," </title> <journal> Artificial Intelligence, </journal> <volume> Vol. 70, </volume> <pages> pp. 119-165. </pages>
+References-found: 10
+

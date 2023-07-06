@@ -1,0 +1,16 @@
+URL: ftp://ee.pitt.edu/pub/papers/steve/prediction_final.ps.gz
+Refering-URL: http://www.cs.pitt.edu/~don/optoelectronic-pubs.html
+Root-URL: 
+Email: sakr@research.nj.nec.com  
+Phone: 2  3  4  5  
+Title: Predictive Control of Opto-Electronic Reconfigurable Interconnection Networks Using Neural Networks  
+Author: M.F. Sakr , S. P. Levitan C. L. Giles , B. G. Horne M. Maggini D. M. Chiarulli 
+Address: Princeton, NJ, 08540  Pittsburgh, Pittsburgh, PA, 15261  Pittsburgh, Pittsburgh, PA, 15260  Via di Santa Marta, 3, 50139 Firenze, Italy  College Park, MD 20742  
+Affiliation: 1 NEC Research Institute,  EE Department, University of  CS Department, University of  Universita di Firenze Dipartimento di Sistemi e Informatica  UMIACS, University of Maryland,  
+Abstract: Opto-electronic reconfigurable interconnection networks are limited by significant control latency when used in large multiprocessor systems. This latency is the time required to analyze the current traffic and reconfigure the network to establish the required paths. The goal of latency hiding is to minimize the effect of this control overhead. In this paper, we introduce a technique that performs latency hiding by learning the patterns of communication traffic and using that information to anticipate the need for communication paths. Hence, the network provides the required communication paths before a request for a path is made. In this study, the communication patterns (memory accesses) of a parallel program are used as input to a time delay neural network (TDNN) to perform on-line training and prediction. These predicted communication patterns are used by the interconnection network controller that provides routes for the memory requests. Based on our experiments, the neural network was able to learn highly repetitive communication patterns, and was thus able to predict the allocation of communication paths, resulting in a reduction of communication latency. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> P. Levitan and D. M. </author> <title> Chiarulli would also like to acknowledge support from AFOSR Grant F-49620-93-1-0023 for work done at the University of Pittsburgh. References [1] M. Bigrigg, </title> <type> Personal Communication. </type> <note> [2] D. </note> <author> M. Chiarulli, S. P. Levitan, R. G. Melhem, C. Qiao, </author> <title> Locality based control algorithms for reconfigurable interconnection networks, </title> <journal> Applied Optics, </journal> <volume> vol. 33, </volume> <pages> pp. 1528-1537, </pages> <month> March </month> <year> 1994. </year> <note> [3] D. </note> <author> M. Chiarulli, S. P. Levitan, R. G. Melhem, C. Qiao, </author> <title> Bandwidth as a virtual resource in reconfigurable optical interconnections, </title> <journal> Optical Computing Digest, </journal> <volume> vol. 7, </volume> <pages> pp. 229-302, </pages> <year> 1993. </year> <note> [4] D. </note> <author> M. Chiarulli, S. P. Levitan, R. G. Melhem, J. </author> <note> P. </note>
+
+References-found: 1
+

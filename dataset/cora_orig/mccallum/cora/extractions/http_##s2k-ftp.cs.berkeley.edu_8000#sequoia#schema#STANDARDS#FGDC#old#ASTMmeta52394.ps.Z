@@ -1,0 +1,13 @@
+URL: http://s2k-ftp.cs.berkeley.edu:8000/sequoia/schema/STANDARDS/FGDC/old/ASTMmeta52394.ps.Z
+Refering-URL: http://s2k-ftp.cs.berkeley.edu:8000/sequoia/schema/STANDARDS/FGDC/old/
+Root-URL: http://www.cs.berkeley.edu
+Title: Content Specification for Digital Geospatial Metadata 1. Scope of metadata for a set of digital
+Address: Terminology.  
+Affiliation: Washington, Department of Commerce, National Institute of Standards and Technology.Supportive  
+Note: Final DRAFT document, revised to include 5/23/94 FGDC elements Page 1 ASTM Section D18.01.05 Draft Specification  1.1. This specification describes the information content  in this specification is not intended to  2. Related Documents 2.1. American National Standards Institute, 1975,  X3.51-1975): New York, American National Standards Institute. 2.2. American National Standards Institute, 1986, Representation for calendar date and ordinal date for information interchange (ANSI X3.30-1985): New York, American National Standards Institute 2.3. American National Standards Institute, 1986, Representation for calendar date and ordinal date for information interchange (ANSI X3.30-1985): New York, American National Standards Institute 2.4. Department  2.5. Department of Defense, 1992, Vector Product Format (MIL-STD-600006): Philadelphia, Department of Defense, Defense Printing Service Detachment Office. 2.6. National Information  Z39.50-1992): Bethesda, MD: National Information Standards Organization. 3. Definitions These definitions are provided to  
+Pubnum: 173):  
+Abstract: 1.4. There are at least three categories of use for geospatial metadata: 1) to accompany data transfers as documentation, 2) internal, on-line documentation of processing steps and data lineage, and 3) as stand-alone data set synopses for use by spatial data catalogs, indexes, and referral services. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

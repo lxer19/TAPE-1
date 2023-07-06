@@ -1,0 +1,15 @@
+URL: ftp://www.cs.rutgers.edu/pub/technical-reports/dcs-tr-315.ps.Z
+Refering-URL: http://www.cs.rutgers.edu/pub/technical-reports/
+Root-URL: 
+Email: phalke@aquarius.rutgers.edu  gopinath@aquarius.rutgers.edu  
+Phone: Tel: (908) 445-0606  Tel: (908) 445-5394  
+Title: An Inter-Reference Gap Model for Temporal Locality in Program Behavior  
+Author: Vidyadhar Phalke Bhaskarpillai Gopinath 
+Keyword: Key Words: Locality of Reference, Markov Chains, Prediction, Memory Replacement, Dynamic Memory Management, Trace compaction, Trace Driven Simulation.  
+Address: New Brunswick, NJ 08903.  New Brunswick, NJ 08903.  
+Affiliation: Dept. of Computer Science Hill Center, Rutgers University  Dept. of Elect. and Computer Engg Rutgers University  
+Abstract: Locality of reference in program behavior has been studied and modelled extensively because of its application to memory design, code optimization, multiprogramming etc. We propose a k-order Markov chain based scheme to model the sequence of time intervals between successive references to the same address in memory during program execution. Each unique address in a program is modelled separately. To validate our model, which we call the Inter-Reference Gap (IRG) model, we show substantial improvements in three different areas where it is applied. (1) We improve upon the miss ratio for the Least Recently Used (LRU) memory replacement algorithm by up to 37%. (2) We achieve up to 22% space-time product improvement over the Working Set (WS) algorithm for dynamic memory management. (3) A new trace compression technique is proposed which compresses up to 2.5% with zero error in WS simulations and up to 3.7% error in the LRU simulations. All these results are obtained experimentally, via trace driven simulations over a wide range of cache traces, page reference traces, object traces and database traces. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

@@ -1,0 +1,25 @@
+URL: http://www.ai.mit.edu/~mpf/rc/memos/M01_symmarch.ps
+Refering-URL: 
+Root-URL: 
+Email: mpf@ai.mit.edu  
+Title: "Time-Symmetric Control-Flow Instructions for Less Garbage in Reversible Programs" DRAFT potentially more space-efficient approach is
+Author: Michael Frank 
+Note: A  [Note: After this memo was written, I noticed that many of the same ideas were previously developed in a paper by Hall, published in 1994 [3]. Thus, the present memo needs to be rewritten to credit Hall's contributions where appropriate.] "M" is for "Michael."  
+Date: December 19, 1996  
+Address: 12/5/95  
+Affiliation: Started  
+Pubnum: MIT Reversible Computing Project Memo #M1  Revision: 1.21  
+Abstract: To solve these problems, we borrow from physics the concept of "time-symmetry," which says that the same sorts of operations should apply whether time (or in this case, program execution) is run forwards or backwards. Inspired by this notion, we can design time-symmetric branching, looping, and procedure-calling instructions that can be used to greatly reduce, and in many cases eliminate, the garbage created by control-flow operations in structured programs, in a way that is simple and elegant and mirrors the time-symmetry of the underlying physics. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> C. H. Bennett. </author> <title> Logical reversibility of computation. </title> <journal> IBM Journal of Research and Development, </journal> <volume> 6 </volume> <pages> 525-532, </pages> <year> 1973. </year>
+Reference-contexts: However, this does not address the large amount of garbage storage space that may be temporarily needed during the computation. Charles Bennett has shown <ref> [1, 2, 4] </ref> that the amount of temporary storage needed for garbage can be reduced further by reversing pieces of a computation in clever patterns. But so far as is known, linear-time algorithms can only do polynomial garbage reductions.
+Reference: [2] <author> C. H. Bennett. </author> <title> Time/space trade-offs for reversible computation. </title> <journal> Society for Industrial and Applied Mathematics Journal on Computing, </journal> <volume> 18(4) </volume> <pages> 766-776, </pages> <year> 1989. </year>
+Reference-contexts: However, this does not address the large amount of garbage storage space that may be temporarily needed during the computation. Charles Bennett has shown <ref> [1, 2, 4] </ref> that the amount of temporary storage needed for garbage can be reduced further by reversing pieces of a computation in clever patterns. But so far as is known, linear-time algorithms can only do polynomial garbage reductions.
+Reference: [3] <author> J. Storrs Hall. </author> <title> A reversible instruction set architecture and algorithms. </title> <booktitle> In Physics and Computation, </booktitle> <pages> pages 128-134, </pages> <month> November </month> <year> 1994. </year>
+Reference: [4] <author> Robert Y. Levine and Alan T. Sherman. </author> <title> A note on Bennett's time-space tradeoff for reversible computation. </title> <journal> Society for Industrial and Applied Mathematics Journal on Computing, </journal> <volume> 19(4) </volume> <pages> 673-677, </pages> <year> 1990. </year>
+Reference-contexts: However, this does not address the large amount of garbage storage space that may be temporarily needed during the computation. Charles Bennett has shown <ref> [1, 2, 4] </ref> that the amount of temporary storage needed for garbage can be reduced further by reversing pieces of a computation in clever patterns. But so far as is known, linear-time algorithms can only do polynomial garbage reductions.
+Reference: [5] <author> Carlin J. Vieri. Pendulum: </author> <title> A reversible computer architecture. </title> <type> Master's thesis, </type> <institution> MIT Artificial Intelligence Laboratory, </institution> <year> 1995. </year> <month> 11 </month>
+Reference-contexts: Some garbage results from the execution of what Vieri has called expanding operations <ref> [5] </ref>: primitive reversible operations in which the number of interesting (non-constant) output bits exceeds the number of interesting input bits. No one knows for sure whether expanding operations are absulutely necessary for universal computing. <p> This observation leads to the simplest policy for handling control-flow operations: allow arbitrary branch and jump operations, but always push the address prior to the branch onto a special branch stack. This is the approach taken by Vieri <ref> [5] </ref> in the Pendulum architecture. No further modifications of traditional control flow operations are required. <p> Worse, if many branches target a single location, a single instruction seems insufficient to allow branching back to any of them. These issues were observed and considered in more detail by Vieri <ref> [5] </ref>. But let us set aside, for the moment, the traditional architecture's ability to handle arbitrary branches, and instead consider the sorts of control flow structures that appear in actual structured programs.
+References-found: 5
+

@@ -1,0 +1,12 @@
+URL: ftp://ftp.cs.kun.nl/pub/SoftwEng.InfSyst/articles/SchemaEquiv.ps.Z
+Refering-URL: http://www.sci.kun.nl/afdis/publist.html
+Root-URL: 
+Title: A note on Schema Equivalence  
+Author: A.H.M. ter Hofstede and H.A. Proper and Th.P. van der Weide 
+Address: Netherlands, 1992.  
+Affiliation: jmegen, Nijmegen, The  
+Abstract: Published as: A.H.M. ter Hofstede, H.A. Proper, and Th.P. van der Weide. A Note on Schema Equivalence. Technical Report 92-30, Depart- ment of Information Systems, University of Ni Abstract In this paper we introduce some terminology for comparing the expressiveness of conceptual data mod- elling techniques, such as ER, NIAM, and PM, that are finitely bounded by their underlying domains. Next we consider schema equivalence and discuss the effects of the sizes of the underlying domains. This leads to the introduction of the concept of finite equivalence. We give some examples of finite equivalence and inequivalence in the context of PM. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

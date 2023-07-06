@@ -1,0 +1,12 @@
+URL: http://robotics.eecs.berkeley.edu/~mayi/psfile/EECS226/midterm96.ps.gz
+Refering-URL: http://robotics.eecs.berkeley.edu/~mayi/EECS226.html
+Root-URL: http://www.cs.berkeley.edu
+Title: a n-dimensional random vector, and Y hX Z K and V N (0; K v
+Author: Y X 
+Address: i B B i  
+Note: EECS 226A: Random Processes in Systems These are modified questions from last Year's midterm 1. 1. Let X be equally likely to be 1 or 1, Y be  2. Let X N (0;  H i A A  c) Suppose now that M 2 and that A 1 A 2 0, B 1 6= B 2  &gt; 1, such that a record occurs at time n (i.e T is the earliest time the next  
+Abstract: where ~ h 2 &lt; n . We estimate X from observing ~ Y , but before hand we have the freedom to choose ~ h to make the probability of error as small as possible. The constraint on ~ h is: a) Suppose ~ Z ~ N (0; 2 I). What should we choose ~ h to be? What is the resulting probability of error? b) Suppose ~ Z ~ N (0; K z ), where K z is non-singular. Repeat part (a). Express your answer in terms of K z . c) Repeat part (b) if K z is singular. a) Suppose A and B are some known constant matrices. Is ~ Y Gaussian? What is its covariance matrix K y ? a) Suppose that the matrices A, B are random and we have M equally like hypotheses: where A i ; B i are the values of A; B under the ith hypothesis. We measure ~ Y . Determine a decision rule for choosing one of the hypotheses on the basis of ~ Y so as to minimize the probability of error. (Do not do any algebra.) 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

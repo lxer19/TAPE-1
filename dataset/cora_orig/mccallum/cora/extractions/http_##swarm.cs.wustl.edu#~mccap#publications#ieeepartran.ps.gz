@@ -1,0 +1,17 @@
+URL: http://swarm.cs.wustl.edu/~mccap/publications/ieeepartran.ps.gz
+Refering-URL: http://swarm.cs.wustl.edu/~mccap/publications/
+Root-URL: 
+Email: pjm3@cs.wustl.edu barry@cs.wustl.edu  
+Title: Parallel Training of Simple Recurrent Neural Networks  
+Author: Peter J. McCann and Barry L. Kalman 
+Address: Campus Box 1045, St. Louis, Missouri 63130-4899  
+Affiliation: Department of Computer Science, Washington University,  
+Abstract: A concurrent implementation of the method of conjugate gradients for training Elman networks is discussed. The parallelism is obtained in the computation of the error gradient and the method is therefore applicable to any gradient descent training technique for this form of network. The experimental results were obtained on a Sun Sparc Center 2000 multiprocessor. The Sparc 2000 is a shared memory machine well suited to coarse-grained distributed computations, but the concurrency could be extended to other architectures as well. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Elman, J.L. </author> <year> (1990). </year> <title> Finding Structure in Time. </title> <booktitle> Cognitive Science 14, </booktitle> <pages> 179-211. </pages>
+Reference: [2] <author> Kalman, B.L., and Kwasny, Stan C. </author> <year> (1993). </year> <title> TRAINREC: A System for Training Feed-forward and Simple Recurrent Networks Efficiently and Correctly. </title> <type> Technical Report WUCS-93-26, </type> <institution> St. Louis: Department of Computer Science, Washington University. </institution>
+Reference: [3] <author> Kalman, B.L., and Kwasny, Stan C. </author> <year> (1992). </year> <title> Why Tanh: Choosing a Sigmoidal Function. </title> <booktitle> Proceedings of the International Joint Conference on Neural Networks (Baltimore 1992), </booktitle> <volume> vol. IV, </volume> <pages> 578-581. </pages> <address> New York: </address> <publisher> IEEE. </publisher>
+Reference: [4] <author> Kalman, B.L., and Kwasny, Stan C. </author> <year> (1991). </year>
+References-found: 4
+

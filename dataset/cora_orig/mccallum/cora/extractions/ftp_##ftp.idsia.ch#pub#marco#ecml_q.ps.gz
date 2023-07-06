@@ -1,0 +1,32 @@
+URL: ftp://ftp.idsia.ch/pub/marco/ecml_q.ps.gz
+Refering-URL: http://www.idsia.ch/~marco/publications.html
+Root-URL: 
+Title: Speeding up Q()-learning In Proceedings of the Tenth European Conference on Machine Learning (ECML'98)  
+Author: Marco Wiering and Jurgen Schmidhuber 
+Keyword: Reinforcement learning, Q-learning, TD(), online Q(), lazy learning  
+Address: Corso Elvezia 36 CH-6900-Lugano, Switzerland  
+Affiliation: IDSIA,  
+Abstract: Q()-learning uses TD()-methods to accelerate Q-learning. The worst case complexity for a single update step of previous online Q() implementations based on lookup-tables is bounded by the size of the state/action space. Our faster algorithm's worst case complexity is bounded by the number of actions. The algorithm is based on the obser vation that Q-value updates may be postponed until they are needed.
+Abstract-found: 1
+Intro-found: 1
+Reference: [Albus, 1975] <author> Albus, J. S. </author> <year> (1975). </year> <title> A new approach to manipulator control: The cerebellar model articulation controller (CMAC). Dynamic Systems, </title> <booktitle> Measurement and Control, </booktitle> <pages> pages 220-227. </pages>
+Reference: [Atkeson et al., 1997] <author> Atkeson, C. G., Schaal, S., and Moore, A. W. </author> <year> (1997). </year> <title> Locally weighted learning. </title> <journal> Artificial Intelligence Review, </journal> <volume> 11 </volume> <pages> 11-73. </pages>
+Reference: [Barto et al., 1983] <author> Barto, A. G., Sutton, R. S., and Anderson, C. W. </author> <year> (1983). </year> <title> Neu-ronlike adaptive elements that can solve difficult learning control problems. </title> <journal> IEEE Transactions on Systems, Man, and Cybernetics, SMC-13:834-846. </journal>
+Reference: [Bertsekas and Tsitsiklis, 1996] <author> Bertsekas, D. P. and Tsitsiklis, J. N. </author> <year> (1996). </year> <title> Neuro-dynamic Programming. </title> <publisher> Athena Scientific, </publisher> <address> Belmont, MA. </address>
+Reference: [Caironi and Dorigo, 1994] <author> Caironi, P. V. C. and Dorigo, M. </author> <year> (1994). </year> <title> Training Q-agents. </title> <type> Technical Report IRIDIA-94-14, </type> <institution> Universite Libre de Bruxelles. </institution>
+Reference: [Cichosz, 1995] <author> Cichosz, P. </author> <year> (1995). </year> <title> Truncating temporal differences: On the efficient implementation of TD() for reinforcement learning. </title> <journal> Journal on Artificial Intelligence, </journal> <volume> 2 </volume> <pages> 287-318. </pages>
+Reference: [Koenig and Simmons, 1996] <author> Koenig, S. and Simmons, R. G. </author> <year> (1996). </year> <title> The effect of representation and knowledge on goal-directed exploration with reinforcement learning algorithms. </title> <journal> Machine Learning, </journal> <volume> 22 </volume> <pages> 228-250. </pages>
+Reference: [Kohonen, 1988] <author> Kohonen, T. </author> <year> (1988). </year> <title> Self-Organization and Associative Memory. </title> <publisher> Springer, second edition. </publisher>
+Reference: [Lin, 1993] <author> Lin, L. </author> <year> (1993). </year> <title> Reinforcement Learning for Robots Using Neural Networks. </title> <type> PhD thesis, </type> <institution> Carnegie Mellon University, Pittsburgh. </institution>
+Reference: [Peng and Williams, 1996] <author> Peng, J. and Williams, R. </author> <year> (1996). </year> <title> Incremental multi-step Q-learning. </title> <journal> Machine Learning, </journal> <volume> 22 </volume> <pages> 283-290. </pages>
+Reference: [Rummery and Niranjan, 1994] <author> Rummery, G. and Niranjan, M. </author> <year> (1994). </year> <title> On-line Q-learning using connectionist sytems. </title> <type> Technical Report CUED/F-INFENG-TR 166, </type> <institution> Cambridge University, UK. </institution>
+Reference: [Singh and Sutton, 1996] <author> Singh, S. and Sutton, R. </author> <year> (1996). </year> <title> Reinforcement learning with replacing eligibility traces. </title> <journal> Machine Learning, </journal> <volume> 22 </volume> <pages> 123-158. </pages>
+Reference: [Sutton, 1988] <author> Sutton, R. S. </author> <year> (1988). </year> <title> Learning to predict by the methods of temporal differences. </title> <journal> Machine Learning, </journal> <volume> 3 </volume> <pages> 9-44. </pages>
+Reference: [Sutton, 1996] <author> Sutton, R. S. </author> <year> (1996). </year> <title> Generalization in reinforcement learning: Successful examples using sparse coarse coding. </title> <editor> In D. S. Touretzky, M. C. M. and Hasselmo, M. E., editors, </editor> <booktitle> Advances in Neural Information Processing Systems 8, </booktitle> <pages> pages 1038-1045. </pages> <publisher> MIT Press, </publisher> <address> Cambridge MA. </address>
+Reference: [Tesauro, 1992] <author> Tesauro, G. </author> <year> (1992). </year> <title> Practical issues in temporal difference learning. </title> <editor> In Lippman, D. S., Moody, J. E., and Touretzky, D. S., editors, </editor> <booktitle> Advances in Neural Information Processing Systems 4, </booktitle> <pages> pages 259-266. </pages> <address> San Mateo, CA: </address> <publisher> Morgan Kauf-mann. </publisher>
+Reference: [Thrun, 1992] <author> Thrun, S. </author> <year> (1992). </year> <title> Efficient exploration in reinforcement learning. </title> <type> Technical Report CMU-CS-92-102, </type> <institution> Carnegie-Mellon University. </institution>
+Reference: [Watkins, 1989] <author> Watkins, C. J. C. H. </author> <year> (1989). </year> <title> Learning from Delayed Rewards. </title> <type> PhD thesis, </type> <institution> University of Cambridge, </institution> <address> England. </address>
+Reference: [Watkins and Dayan, 1992] <author> Watkins, C. J. C. H. and Dayan, P. </author> <year> (1992). </year> <title> Q-learning. </title> <journal> Machine Learning, </journal> <volume> 8 </volume> <pages> 279-292. </pages>
+Reference: [Whitehead, 1992] <author> Whitehead, S. </author> <year> (1992). </year> <title> Reinforcement Learning for the adaptive control of perception and action. PhD thesis, University of Rochester. This article was processed using the L A T E X macro package with LLNCS style </title>
+References-found: 19
+

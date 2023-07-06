@@ -1,0 +1,19 @@
+URL: http://www.cc.gatech.edu/grads/b/Tucker.Balch/papers/teaming.ps.Z
+Refering-URL: http://www.cc.gatech.edu/grads/b/Tucker.Balch/papers/
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Email: tucker@cc.gatech.edu, tom.collins@gtri.gatech.edu  
+Title: Teaming Up: Georgia Techs Multi-robot Competition Teams  
+Author: Thomas R. Collins and Tucker R. Balch 
+Address: 400 Tenth St., NW, CRB553 Atlanta, GA 30332-0840  
+Affiliation: Georgia Institute of Technology  
+Abstract-found: 0
+Intro-found: 1
+Reference: <author> Arkin, R. C. and MacKenzie, D. C. </author> <year> 1994. </year> <title> Temporal C o-ordination of Perceptual Algorithms for Mobile Robot Navigation. </title> <journal> IEEE Transactions on Robotics and Autom a-tion 10(3) </journal> <pages> 276-286. </pages>
+Reference-contexts: A resulting task sol v-ing strategy can be represented as a Finite State Acceptor (FSA). This technique is referred to as temporal sequencing <ref> (Arkin and MacKenzie 1994) </ref>. Find Life on Mars is a foraging task, in which a robot is to wander about the environment looking for items of i n-terest (Martian life). Upon encountering a life form, the robot moves towards it, finally attaching itself.
+Reference: <author> Arkin, R. C. and Balch, T. R. </author> <year> 1997. </year> <title> AuRA: principles and practice in review. </title> <journal> Journal of Experimental and Theoret i-cal Artificial Intelligence. Forthcoming. </journal>
+Reference-contexts: The motor schema paradigm is the central me thod of robot control in use at the Georgia Tech Mobile Robot Laboratory, and is utilized for these robots. Motor sch e-mas are the reactive component of Arkins AuRA, or Autonomous Robot Architecture <ref> (Arkin and Balch 1997) </ref>. AuRAs design integrates deliberative planning at a top level with behavior-based motor control at the bottom. The lower levels, concerned with executing the reactive Copyright 1997, American Association for Artificial Intelligence (www.aaai.org). All rights reserved. behaviors, are incorporated in these robots.
+Reference: <author> Balch, T., Boone, G., Collins, T., Forbes, H., MacKenzie, D., and Santamaria, J. </author> <year> 1995a. </year> <title> Io, Ganymede and Callisto a Multiagent Robot Trash-collecting Team. </title> <journal> AI Mag a-zine 16(2) </journal> <pages> 39-51. </pages>
+Reference-contexts: Find Life on Mars entry Georgia Tech expects to compete in Find Life on Mars with at least two (and potentially four) robots operating as a cooperating group. Research at Georgia Tech and els e-where has demonstrated the speed and robustness afforded by multiple robot cooperation <ref> (Balch et al. 1995a, Balch and Arkin 1995b) </ref>. The robots, Nomad 150s from N o-madics Technologies, are pictured in Figure 1. The Nomad 150 is a holonomic three-wheeled mobile robot about half a meter in diameter. The steerable upper turret supports sensors and a control computer. <p> As the capabilities of the Handy Board are e x-ceeded, PC/104 modules can be plugged directly into a reserved connector. Once before, in the 1994 Clean Up the Office task, Georgia Tech has taken a minimalist a p-proach to a AAAI competition event with good results <ref> (Balch et al. 1995a) </ref>. For this years competition, the Home Vacuum event was chosen as the most suitable for the small LoCoRoBos, since there is no requirement to manipulate large objects or to examine surfaces that are out of reach.
+Reference: <author> Balch, T. and Arkin, R. C. </author> <year> 1995b. </year> <title> Communication in R e-active Multiagent Robotic Systems . Autonomous Robots 1(1) </title> <type> 27-52. </type> <institution> Vacuum event. </institution>
+References-found: 4
+

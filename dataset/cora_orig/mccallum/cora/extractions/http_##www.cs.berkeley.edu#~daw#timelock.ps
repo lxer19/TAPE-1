@@ -1,0 +1,21 @@
+URL: http://www.cs.berkeley.edu/~daw/timelock.ps
+Refering-URL: http://www.cs.berkeley.edu/~daw/me.html
+Root-URL: http://www.cs.berkeley.edu
+Email: frivest,shamirg@theory.lcs.mit.edu, daw@cs.berkeley.edu  
+Title: Time-lock puzzles and timed-release Crypto  
+Author: Ronald L. Rivest Adi Shamir flfl and David A. Wagner flflfl 
+Address: 545 Technology Square, Cambridge, Mass. 02139  Rehovot, Israel  Berkeley, California 94720  
+Affiliation: MIT Laboratory for Computer Science  flfl Weizmann Institute of Science Applied Mathematics Department  flflfl Computer Science Department U.C. Berkeley  
+Date: Revised February 21, 1996  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> Timothy C. </author> <month> May. </month> <note> Timed-release crypto, February 1993. http://www.hks.net/cpunks/cpunks-0/1460.html. </note>
+Reference-contexts: The goal is to "send information into the future." This problem was first discussed by Timothy May <ref> [1] </ref>.
+Reference: [2] <author> R. C. Merkle. </author> <title> Secure communications over insecure channels. </title> <journal> Communications of the ACM, </journal> <volume> 21 </volume> <pages> 294-299, </pages> <month> April </month> <year> 1978. </year>
+Reference-contexts: We save the ciphertext and throw away the key. By using exhaustive search of the key space, a workstation will take about T seconds, on the average, to find the key. We note that Merkle <ref> [2] </ref> was the first to suggest this method of designing puzzles, and was also the first to introduce the notion of a "puzzle," in research that ultimately led to the invention of the concept of public-key cryptography.
+Reference: [3] <author> Ronald L. Rivest. </author> <title> The RC5 encryption algorithm. </title> <editor> In Bart Preneel, editor, </editor> <booktitle> Fast Software Encryption, </booktitle> <pages> pages 86-96. </pages> <publisher> Springer, </publisher> <year> 1995. </year> <booktitle> (Proceedings Second International Workshop, </booktitle> <address> Dec. 1994, Leuven, Belgium). </address>
+Reference-contexts: Let M denote the information to be encrypted for a period of time. Let S denote the speed of a workstation measured in decryptions per second. Then to encrypt M to be decryptable after T seconds, we choose a conventional cryptosystem (say RC5 <ref> [3] </ref>) with a key size of approximately k = lg (2ST ) bits and encrypt M with a k-bit key. We save the ciphertext and throw away the key.
+Reference: [4] <author> A. Shamir. </author> <title> How to share a secret. </title> <journal> Communications of the ACM, </journal> <volume> 22 </volume> <pages> 612-613, </pages> <month> November </month> <year> 1979. </year>
+Reference-contexts: As an extension of this idea, the message M could be shared among several agents (using standard secret-sharing techniques, such as the one proposed by Shamir <ref> [4] </ref>) who all agree to release their shares at time t. The message M can then be reconstructed from those shares. As a further refinement, the agents can be asked to store shares of a cryptographic key K instead of shares of M.
+References-found: 4
+

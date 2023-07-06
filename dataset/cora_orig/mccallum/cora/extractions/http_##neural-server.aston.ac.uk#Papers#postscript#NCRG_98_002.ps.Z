@@ -1,0 +1,22 @@
+URL: http://neural-server.aston.ac.uk/Papers/postscript/NCRG_98_002.ps.Z
+Refering-URL: http://www.cs.toronto.edu/~carl/gp.html
+Root-URL: 
+Email: pwg@dcs.warwick.ac.uk  c.k.i.williams@aston.ac.uk  cmbishop@microsoft.com  
+Title: Regression with Input-dependent Noise: A Gaussian Process Treatment  
+Author: Paul W. Goldberg Christopher K.I. Williams Christopher M. Bishop 
+Address: Coventry, CV4 7AL, UK  Birmingham B4 7ET, UK  St. George House Cambridge, CB2 3NH, UK  
+Affiliation: Department of Computer Science University of Warwick  Neural Computing Research Group Aston University  Microsoft Research  
+Abstract: Technical Report NCRG/98/002, available from http://www.ncrg.aston.ac.uk/ To appear in Advances in Neural Information Processing Systems 10 eds. M. I. Jordan, M. J. Kearns and S. A. Solla. Lawrence Erlbaum (1998). Abstract Gaussian processes provide natural non-parametric prior distributions over regression functions. In this paper we consider regression problems where there is noise on the output, and the variance of the noise depends on the inputs. If we assume that the noise is a smooth function of the inputs, then it is natural to model the noise variance using a second Gaussian process, in addition to the Gaussian process governing the noise-free output value. We show that prior uncertainty about the parameters controlling both processes can be handled and that the posterior distribution of the noise rate can be sampled from using Markov chain Monte Carlo methods. Our results on a synthetic data set give a posterior noise variance that well-approximates the true variance.
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> C.M. </author> <title> Bishop (1994). Mixture Density Networks. </title> <type> Technical report NCRG/94/001, </type> <institution> Neural Computing Research Group, Aston University, Birmingham, UK. </institution>
+Reference-contexts: be possible to use more sophisticated MCMC algorithms such as the Hybrid Monte Carlo algorithm which uses derivative information, as discussed in Neal (1997). 3 Results We have tested the method on a one-dimensional synthetic problem. 60 data points were generated from the function y = 2 sin (2x) on <ref> [0; 1] </ref> by adding independent Gaussian noise. This noise has a standard deviation that increases linearly from 0:5 at x = 0 to 1:5 at x = 1.
+Reference: [2] <author> C.M. </author> <title> Bishop (1995). Neural Networks for Pattern Recognition. </title> <publisher> Oxford University Press. </publisher>
+Reference: [3] <author> C.M. Bishop and C. </author> <month> Qazaz </month> <year> (1997). </year> <title> Regression with Input-dependent Noise: A Bayesian Treatment. </title> <editor> In M. C. Mozer, M. I. Jordan and T. </editor> <booktitle> Petsche (Eds) Advances in Neural Information Processing Systems 9 Cambridge MA MIT Press. </booktitle>
+Reference: [4] <author> D. J. C. </author> <title> MacKay (1995). Probabilistic networks: new models and new methods. </title> <editor> In F. Fogelman-Soulie and P. Gallinari (Eds), </editor> <booktitle> Proceedings ICANN'95 International Conference on Neural Networks, </booktitle> <pages> pp. 331-337. </pages> <address> Paris, </address> <publisher> EC2 & Cie. </publisher>
+Reference: [5] <author> R. </author> <title> Neal (1997). Monte Carlo Implementation of Gaussian Process Models for Bayesian Regression and Classification. </title> <type> Technical Report 9702, </type> <institution> Department of Statistics, University of Toronto. </institution> <note> Available from http://www.cs.toronto.edu/~radford/. </note>
+Reference: [6] <author> C.E. </author> <title> Rasmussen (1996). Evaluation of Gaussian Processes and Other Methods for Nonlinear Regression. </title> <type> PhD thesis, </type> <institution> Department of Computer Science, University of Toronto. </institution> <note> Available from http://www.cs.utoronto.ca/~carl/. </note>
+Reference: [7] <author> C.K.I. Williams and C.E. </author> <title> Rasmussen (1996). Gaussian Processes for Regression. </title> <editor> In D. S. Touretzky, M. C. Mozer and M. E. </editor> <booktitle> Hasselmo Advances in Neural Information Processing Systems 8 pp. </booktitle> <pages> 514-520, </pages> <publisher> Cambridge MA MIT Press. </publisher>
+Reference: [8] <author> P. </author> <month> Whittle </month> <year> (1963). </year> <title> Prediction and regulation by linear least-square methods. </title> <publisher> English Universities Press. </publisher>
+References-found: 8
+

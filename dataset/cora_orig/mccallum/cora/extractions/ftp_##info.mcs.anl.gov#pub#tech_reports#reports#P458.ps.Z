@@ -1,0 +1,23 @@
+URL: ftp://info.mcs.anl.gov/pub/tech_reports/reports/P458.ps.Z
+Refering-URL: http://www.mcs.anl.gov/publications/abstracts/abstracts94.htm
+Root-URL: http://www.mcs.anl.gov
+Title: A Parallel Genetic Algorithm for the Set Partitioning Problem  
+Author: David Levine 
+Keyword: Island model, combinatorial optimization, parallel computing, airline crew scheduling  
+Note: This work was supported by the Office of Scientific Computing, U.S. Department of Energy, under Contract W-31-109-Eng-38. It was  
+Address: 9700 South Cass Avenue Argonne, Illinois 60439, U.S.A.  
+Affiliation: Argonne National Laboratory Mathematics and Computer Science Division  Illinois Institute of Technology.  
+Email: levine@mcs.anl.gov  
+Degree: in partial fulfillment of the requirements for the degree of Doctor of Philosophy in Computer Science in the Graduate School of the  
+Date: submitted  
+Abstract: This paper describes a parallel genetic algorithm developed for the solution of the set partitioning problem|a difficult combinatorial optimization problem used by many airlines as a mathematical model for flight crew scheduling. The genetic algorithm is based on an island model where multiple independent subpopulations each run a steady-state genetic algorithm on their own subpopulation and occasionally fit strings migrate between the subpopulations. Tests on forty real-world set partitioning problems were carried out on up to 128 nodes of an IBM SP1 parallel computer. We found that performance, as measured by the quality of the solution found and the iteration on which it was found, improved as additional subpopulations were added to the computation. With larger numbers of subpopulations the genetic algorithm was regularly able to find the optimal solution to problems having up to a few thousand integer variables. In two cases, high-quality integer feasible solutions were found for problems with 36,699 and 43,749 integer variables, respectively. A notable limitation we found was the difficulty solving problems with many constraints. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> R. Anbil, E. Gelman, B. Patty, and R. Tanga. </author> <title> Recent Advances in Crew Pairing Optimization at American Airlines. </title> <journal> INTERFACES, </journal> <volume> 21 </volume> <pages> 62-74, </pages> <year> 1991. </year>
+Reference-contexts: Estimates of over a billion dollars a year for pilot and flight attendant expenses have been reported <ref> [1, 5] </ref>. Even a small improvement over existing solutions can have a large economic benefit. At one time, solutions to the SPP were generated manually. However, airline crew scheduling problems have grown significantly in size and complexity. <p> The first step is to pick a random string, x random , and apply the ROW heuristic to it. Next, two parent strings, x 1 and x 2 , are selected by holding two binary tournaments, and a random number, r 2 <ref> [0; 1] </ref>, is generated. If r is less than the crossover probability of 0:6, we create two new offspring via uniform crossover with parameter 0:7 [27], and randomly select one of them, x new , to insert in the population.
+Reference: [2] <author> R. Anbil, R. Tanga, and E. Johnson. </author> <title> A Global Approach to Crew Pairing Optimization. </title> <journal> IBM Systems Journal, </journal> <volume> 31(1) </volume> <pages> 71-78, </pages> <year> 1992. </year>
+Reference-contexts: However, in recent years it has been noted that as SPP problems grow in size, fractional solutions occur more frequently, and simply rounding or performing a "small" branch-and-bound tree search may not be effective <ref> [2, 5, 13] </ref>. Branch-and-bound may be viewed as an exact approach if the algorithm runs until an integer solution (if one exists) is proven optimal, or as an approximate approach if the algorithm is terminated "early" with a "good" integer solution.
+Reference: [3] <author> J. Arabeyre, J. Fearnley, F. Steiger, and W. Teather. </author> <title> The Airline Crew Scheduling Problem: </title>
+Reference-contexts: Fourth, genetic algorithms contain a population of possible solutions. As noted by Arabeyre et al. <ref> [3] </ref>, "The knowledge of a family of good solutions is far more important than obtaining an isolated optimum." Finally, we believe genetic algorithms have great potential for scaling to take advantage of the larger and larger numbers of processors increasingly available on parallel computers.
+References-found: 3
+

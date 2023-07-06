@@ -1,0 +1,15 @@
+URL: http://www.csl.sri.com/reports/postscript/sss86.ps.gz
+Refering-URL: http://www.csl.sri.com/reports/postscript/
+Root-URL: 
+Title: Proving multilevel security of a system Computer Society. Extending the non-interference model of MLS for
+Author: R.J. Feiertag, K.N. Levitt, and L. Robinson. [] J. Haigh and W. Young. 
+Address: Gaithersburg, MD,  Gaithersburg, MD,  
+Date: November 1977.  December 1981.  5).  September  September 1984.  
+Note: [3] Department of Defense Trusted Computer System Evaluation Criteria. Department of Defense, December 1985. DOD 5200.28-STD (supersedes CSC-STD-001-83). [5]  design. In Proc. 6th ACM Symposium on Operating System Principles, pages 57-65,  [7] J.A. Goguen and J. Meseguer. Security policies and security models. In Proceedings of the Symposium on Security and Privacy, pages 11-20, Oakland, CA, April 1982. IEEE Computer Society. [8] J.A. Goguen and J. Meseguer. Inference control and unwinding. In Proceedings of the Symposium on Security and Privacy, pages 75-86, Oakland, CA, April 1984. IEEE  Proceedings of the Symposium on Security and Privacy, pages 232-239, Oakland, CA, April 1986. IEEE Computer Society. [10] N.G. Leveson et al. Design for safe software. In Proc. AIAA 21st Aerospace Sciences Meeting, Reno NV, January 1983. American Institute of Aeronautics and Astronautics. [11] John Rushby. The design and verification of secure systems. In Proc. 8th ACM Symposium on Operating System Principles, pages 12-21, Asilomar, CA,  (ACM Operating Systems Review Vol. 15, No.  [13] John Rushby.  In Proc. 5th International Symposium on Programming, pages 352-367, Turin, Italy, April 1982. Springer-Verlag Lecture Notes in Computer Science, Vol. 137. [14] John Rushby. The security model of Enhanced HDM. In Proceedings 7th DoD/NBS Computer Security Initiative Conference, pages 120-136,  1984. [15] John Rushby. A trusted computing base for embedded systems. In Proceedings 7th DoD/NBS Computer Security Initiative Conference, pages 294-311,  10  
+Abstract: 4] R.J. Feiertag. A technique for proving specifications are multilevel secure. Technical Report CSL109, Computer Science Laboratory, SRI International, Menlo Park, CA, January 1980. [6] J.N. Froscher and J.M. Carroll. Security requirements for navy embedded computers. NRL Memorandum Report 5425, Naval Research Laboratory, September 1984. [12] John Rushby. Verification of secure systems. Technical Report 166, Computing Labo ratory, University of Newcastle upon Tyne, Newcastle upon Tyne, UK, August 1981. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> S.R. Ames Jr. </author> <title> Security kernels: </title> <booktitle> a solution or a problem? In Proceedings of the Symposium on Security and Privacy, </booktitle> <pages> pages 141-150, </pages> <address> Oakland, CA, April 1981. </address> <publisher> IEEE Computer Society. </publisher>
+
+References-found: 1
+

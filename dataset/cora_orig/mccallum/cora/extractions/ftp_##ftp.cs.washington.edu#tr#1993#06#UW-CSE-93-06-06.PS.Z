@@ -1,0 +1,14 @@
+URL: ftp://ftp.cs.washington.edu/tr/1993/06/UW-CSE-93-06-06.PS.Z
+Refering-URL: http://www.cs.washington.edu/homes/pardo/sim.d/index4.d/Bib-REAL-106.html
+Root-URL: 
+Title: Shade: A Fast Instruction-Set Simulator for Execution Profiling  
+Author: Robert F. Cmelik David Keppel 
+Date: 93-06-06  
+Address: 2550 Garcia Avenue Mountain View, CA 94043  FR-35 Seattle, WA 98195  
+Affiliation: Sun Microsystems Laboratories, Inc.  Department of Computer Science and Engineering University of Washington,  
+Pubnum: Technical Report UWCSE  
+Abstract: Shade is an instruction-set simulator and custom trace generator. Application programs are executed and traced under the control of a user-supplied trace analyzer. To reduce communication costs, Shade and the analyzer are run in the same address space. To further improve performance, code which simulates and traces the application is dynamically generated and cached for reuse. Current implementations run on SPARC systems and, to varying degrees, simulate the SPARC (Versions 8 and 9) and MIPS I instruction sets. This paper describes the capabilities, design, implementation, and performance of Shade, and discusses instruction set emulation in general. Shade improves on its predecessors by providing their various tracing capabilities together in a single tool. Shade is also fast: Running on a SPARC and simulating a SPARC, SPEC 89 benchmarks run about 2.3 times slower for floating-point programs and 6.2 times slower for integer programs. Saving trace data costs more, but Shade provides fine control over tracing, so users pay a collection overhead only for data they actually need. Shade is also extensible so that analyzers can examine arbitrary target state and thus collect special information that Shade does not know how to collect.
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

@@ -1,0 +1,20 @@
+URL: http://www.cs.ucl.ac.uk/research/mobile/archives/DCNDS/IR/wwos-93-schilit.ps.gz
+Refering-URL: http://www.cs.ucl.ac.uk/research/mobile/archives/DCNDS/IR/
+Root-URL: http://www.cs.ucl.ac.uk
+Email: fschilit,norman,gold,wantg@parc.xerox.com tso@lcs.mit.edu  
+Title: The PARCTAB Mobile Computing System  
+Author: Bill N. Schilit Norman Adams Rich Gold Michael M. Tso Roy Want 
+Address: 3333 Coyote Hill Road Palo Alto, CA 94304  
+Affiliation: Palo Alto Research Center Xerox Corporation  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> Norman Adams, Rich Gold, Bill N. Schilit, Michael Tso, and Roy Want. </author> <title> An infrared network for mobile computers. </title> <booktitle> In Proceedings USENIX Symposium on Mobile & Location-independent Computing, </booktitle> <pages> pages 41-52. </pages> <publisher> USENIX Association, </publisher> <month> August </month> <year> 1993. </year>
+Reference-contexts: In contrast to the approach used by other PDAs, most PARCTAB applications run on remote hosts and therefore depend on reliable communication through the IR network. The infrastructure provides reliability as well as uninterrupted service when a PARCTAB moves from cell to cell. The PARCTAB and a supporting infrastructure <ref> [1, 4] </ref> has been operational since March 1993 at the Computer Science Lab at Xerox PARC. The system currently comprises thirty cells and twenty-five PARCTABs and will expand in the near future. There are three types of software components in the PARCTAB system: gateways, agents, and applications.
+Reference: [2] <author> Scott Elrod, Gene Hall, Rick Costanza, Michael Dixon, and Jim des Rivieres. </author> <title> Responsive office environments. </title> <journal> CACM, </journal> <volume> 36(7) </volume> <pages> 84-85, </pages> <month> July </month> <year> 1993. </year> <note> In Special Issue, Computer-Augmented Environments. </note>
+Reference-contexts: The tab can be used as a general purpose, programmable remote control. In one research project the tab is used to control lights and temperature for the current location. <ref> [2] </ref>. * Calendar. The calendar application provides a tab interface to Sun's calendar manager program. A user may view and modify appointments while away from their workstation. * Weather. The weather application is an example of the tab accessing time dependent information.
+Reference: [3] <author> Roy Want, Andy Hopper, Veronica Falcao, and Jonathan Gibbons. </author> <title> The active badge location system. </title> <journal> ACM Transactions on Information Systems, </journal> <year> 1992. </year>
+Reference-contexts: This section describes a few representative applications that have been implemented. * Birddog. A reverse pager application that reports peoples location from active badge sightings <ref> [3] </ref>. * Dictionary & Thesaurus. Allows accessing a large dictionary and thesaurus. It would be difficult to store this amount of information onto a device the size of the tab. * Responsive environment control. The tab can be used as a general purpose, programmable remote control.
+Reference: [4] <author> Mark Weiser. </author> <title> Some computer science issues in ubiquitous computing. </title> <journal> CACM, </journal> <volume> 36(7) </volume> <pages> 74-83, </pages> <month> July </month> <year> 1993. </year> <note> In Special Issue, Computer-Augmented Environments. </note>
+Reference-contexts: In contrast to the approach used by other PDAs, most PARCTAB applications run on remote hosts and therefore depend on reliable communication through the IR network. The infrastructure provides reliability as well as uninterrupted service when a PARCTAB moves from cell to cell. The PARCTAB and a supporting infrastructure <ref> [1, 4] </ref> has been operational since March 1993 at the Computer Science Lab at Xerox PARC. The system currently comprises thirty cells and twenty-five PARCTABs and will expand in the near future. There are three types of software components in the PARCTAB system: gateways, agents, and applications.
+References-found: 4
+

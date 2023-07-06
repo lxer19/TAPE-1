@@ -1,0 +1,18 @@
+URL: http://www.research.digital.com/SRC/personal/monika/papers/monika-ipl96.ps.gz
+Refering-URL: http://www.research.digital.com/SRC/personal/monika/papers.html
+Root-URL: http://www.research.digital.com
+Title: On the Number of Small Cuts in a Graph  
+Author: Monika Rauch Henzinger David P. Williamson 
+Note: 3=2 of the size of the minimum cut.  
+Affiliation: Cornell University  IBM Watson  
+Abstract: We prove that in an undirected graph there are at most O(n 2 ) cuts of size strictly less than 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> David R. Karger. </author> <title> Minimum cuts in near-linear time. </title> <booktitle> To appear in the Proceedings of the 28th Annual Symposium on the Theory of Computing, </booktitle> <year> 1996. </year>
+Reference-contexts: To see this, consider a graph of two vertices joined by k paths of n=k vertices each. The minimum cut is of size 2, but there are (n=k) k cuts of size k. Recently, Karger <ref> [1] </ref> has informed us that he can almost prove the conjecture; namely, he can show that there are O ( 1 * n k1 ) cuts of size less than k 2 * times the optimal for * &lt; 1 2 .
+Reference: [2] <author> David R. Karger and Clifford Stein. </author> <title> A new approach to the minimum cut problem. Manuscript, </title> <booktitle> 1994. Earlier version is in the Proceedings of the 25th Annual Symposium on the Theory of Computing, </booktitle> <pages> 757-765, </pages> <year> 1993. </year>
+Reference-contexts: 1 Introduction Recently there have been a number of efforts to bound the number of nearly minimum cuts in a weighted undirected graph. Karger and Stein <ref> [2] </ref> show that there are at most n 2ff cuts of size no more than ff times the size of the minimum cut, where n is the number of vertices in the graph.
+Reference: [3] <author> Hiroshi Nagamochi, Kazuhiro Nishimura, and Toshihide Ibaraki. </author> <title> Computing all small cuts in an undirected network. </title> <editor> In Ding-Zhu Du and Xiang-Sun Zhang, editors, </editor> <booktitle> Proceedings of the 5th International Symposium on Algorithms and Computation, number 834 in Lecture Notes in Computer Science, </booktitle> <pages> pages 190-198. </pages> <publisher> Springer-Verlag, </publisher> <address> Berlin, </address> <year> 1994. </year> <month> 5 </month>
+Reference-contexts: Karger and Stein [2] show that there are at most n 2ff cuts of size no more than ff times the size of the minimum cut, where n is the number of vertices in the graph. Nagamochi, Nishimura, and Ibaraki <ref> [3] </ref> provide an improvement on this result by showing that if the size of the minimum cut is , then there are at most n cuts of size strictly less than 4 3 .
+References-found: 3
+

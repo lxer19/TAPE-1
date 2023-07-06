@@ -1,0 +1,14 @@
+URL: ftp://ftp.cs.unc.edu/pub/users/sc/COMP203-S96/L1996-03-28.PS.Z
+Refering-URL: http://www.cs.unc.edu/~sc/teaching/COMP203-S1996/lectures.html
+Root-URL: http://www.cs.unc.edu
+Email: (mleung@email.unc.edu) Voicu Popescu (popescu@cs.unc.edu)  
+Title: Paradigms for process interaction in distributed programs transformation to every element of the input stream.
+Author: Man-Chi Leung 
+Keyword: 2. Clients  
+Date: March 28, 1996  
+Note: CO MP20 3: Parallel and Distributed Computing  (see Gregory Andrews paper; ACM Computing Surveys, Vol. 23, No. 1, March 1991; it is the first paper in the reader)  3. Servers 4. Peers transformation has a limited number of states. Typically they apply the same  Examples  
+Abstract: In the analysis of distributed computing in this lecture we will not consider (hardware) failure. In the distributed computing world, processes belong to one of the four major groups: 2. & 3. In the clientserver cooperation, the client initiates an activity by requesting a service to the server; the server reacts and solves the client's request; the client exists from the moment it formulates the request to the moment it gets the solution; the server is permanently present, working for the clients or waiting for their requests; typically there is a one to many relation between servers and clients. An example is the distributed file system AFS. 4. This group contains what we have talked about so far in this course. All the processes are equal. They collaborate on a peer-to-peer basis. The relationship between them is symmetric. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

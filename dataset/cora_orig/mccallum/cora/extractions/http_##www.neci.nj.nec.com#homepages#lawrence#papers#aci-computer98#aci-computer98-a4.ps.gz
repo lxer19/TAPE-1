@@ -1,0 +1,16 @@
+URL: http://www.neci.nj.nec.com/homepages/lawrence/papers/aci-computer98/aci-computer98-a4.ps.gz
+Refering-URL: http://www.neci.nj.nec.com/homepages/lawrence/papers/aci-computer98/
+Root-URL: http://www.neci.nj.nec.com
+Title: Digital Libraries and Autonomous Citation Indexing Index R ACI aims to improve the dissemination and
+Author: Steve Lawrence, C. Lee Giles, Kurt Bollacker 
+Keyword: dissemination and feedback.  Keywords: citation indexing, digital libraries, bibliometrics, information retrieval, scientific literature, literature search.  
+Address: 4 Independence Way, Princeton, NJ 08540  
+Affiliation: NEC Research Institute,  
+Note: Accepted for publication, IEEE Computer, 1998. Copyright c IEEE.  Short Abstract: Autonomous Citation Indexing (ACI) automates the construction of citation indices similar to the Science Citation  and timeliness.  
+Email: flawrence,giles,kurtg@research.nj.nec.com  
+Phone: Phone: 609 951 2676 (lawrence) 2642 (giles) Fax: 609 951 2482  
+Abstract: The World Wide Web is revolutionizing the way that researchers access scientific information. Articles are increasingly being made available on the homepages of authors or institutions, at journal Web sites, or in online archives. However, scientific information on the Web is largely disorganized. This article introduces the creation of digital libraries incorporating Autonomous Citation Indexing (ACI). ACI autonomously creates citation indices similar to the Science Citation Index R fl. An ACI system autonomously locates articles, extracts citations, identifies identical citations that occur in different formats, and identifies the context of citations in the body of articles. ACI can organize the literature and provide most of the advantages of traditional citation indices, such as literature search using citation links, and the evaluation of articles based on citation statistics. Furthermore, ACI can provide significant advantages over traditional citation indices. No manual effort is required for indexing, which should result in a reduction in cost and an increase in the availability of citation indices. An ACI system can also provide more comprehensive and up-to-date indices of the literature by indexing articles on the Web, technical reports, conference papers, etc. Furthermore, ACI makes it easy to browse the context of citations to given articles, allowing researchers to quickly and easily see what subsequent researchers have said about a given article. Digital libraries incorporating ACI may significantly improve scientific 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

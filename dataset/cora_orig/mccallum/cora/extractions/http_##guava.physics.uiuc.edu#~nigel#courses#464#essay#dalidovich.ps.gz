@@ -1,0 +1,23 @@
+URL: http://guava.physics.uiuc.edu/~nigel/courses/464/essay/dalidovich.ps.gz
+Refering-URL: http://guava.physics.uiuc.edu/~nigel/courses/464/
+Root-URL: http://www.cs.uiuc.edu
+Title: Metal-Insulator Transition (Scaling Theory)  
+Author: Denis L. Dalidovich 
+Abstract: In this paper I briefly discuss the concepts of localization and metal-insulator transition. The phenomenological description of the conducting properties depending on the dimensionality and disorder, and the physical arguments for the scaling fi-function are presented. The conducting properties of the 3D system near the critical point of the metal-insulator transition predicted by this scaling model are also discussed. It is shown how the corresponding critical exponent can be calculated from the 2 + * expansion. I also give the formulas for the weak-localization corrections to the conductivity for the one-, two-and three-dimensional systems and their dependencies on frequency and temperature. The limits of validity of this theory and ways of its confirmation from the microscopic point of view are also considered. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> P.A. Lee and T.V. Ramakrishnan, </author> <year> 1985, </year> <title> Rev. Mod. </title> <journal> Phys., </journal> <volume> 57, </volume> <pages> 287. </pages>
+Reference: [2] <author> P.W. Anderson, </author> <year> 1958, </year> <journal> Phys. Rev., </journal> <volume> 109, </volume> <pages> 1492. </pages>
+Reference: [3] <author> N.F. Mott and W.D. Twose, </author> <year> 1961, </year> <journal> Adv. Phys., </journal> <volume> 10, </volume> <pages> 107 </pages>
+Reference: [4] <author> P. Phillips and G. Baym. </author> <title> Advanced Solid State Physics. </title> <publisher> (in press) </publisher>
+Reference: [5] <author> D.J. Thouless, </author> <year> 1974, </year> <journal> Phys. Rep., </journal> <volume> 13, </volume> <pages> 93 </pages>
+Reference: [6] <author> E.Abrahams,P.Anderson,D.Licciardello,T.Ramakrishnan, </author> <year> 1979, </year> <note> Phys.Rev.Lett., 42,673 </note>
+Reference: [7] <author> L.P. Gor'kov, A.I. Larkin, D.E. Khmel'nitskii, </author> <year> 1979, </year> <title> JETP. </title> <journal> Lett., </journal> <volume> 30, </volume> <pages> 248 </pages>
+Reference: [8] <author> P.W. Anderson, D.J. Thouless, E. Abrahams, D.S. Fisher, </author> <year> 1980, </year> <journal> Phys. Rev. </journal> <volume> B 22, </volume> <pages> 3519 </pages>
+Reference: [9] <author> F.J. Wegner, </author> <year> 1976, </year> <journal> Z. Phys., B25, </journal> <volume> 327 </volume>
+Reference: [10] <author> D.J. Thouless, </author> <year> 1977, </year> <journal> Phys. Rev. Lett., </journal> <volume> 39, </volume> <pages> 1167 </pages>
+Reference: [11] <author> D. Belitz and T.R. Kirkpatrick, </author> <year> 1994, </year> <title> Rev. Mod. </title> <journal> Phys., </journal> <volume> 66, </volume> <pages> 261. </pages>
+Reference: [12] <editor> S.V. Kravchenko, et. al., </editor> <year> 1995, </year> <journal> Phys. Rev., B51, </journal> <volume> 7038 </volume>
+Reference: [13] <author> V. Dobrosavljevic, et al., </author> <year> 1997, </year> <journal> Phys. Rev. Lett., </journal> <volume> 79, 455 13 </volume>
+References-found: 13
+

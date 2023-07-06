@@ -1,0 +1,16 @@
+URL: http://www-networking.eecs.berkeley.edu/Networking/EE290Q/lecture18/lecture18.ps
+Refering-URL: http://www-networking.eecs.berkeley.edu/Networking/EE290Q/course.html
+Root-URL: http://www.cs.berkeley.edu
+Title: EE 290Q Routing in circuit-switched networks Lecture Notes: 18 arrival rate on route r; w
+Author: Kirill Mostov @W ( L r )(W r jr L r 
+Keyword: Routing scheme  
+Affiliation: j2r  
+Note: -r  can show that the  
+Date: April 12, 1996 Motivation  
+Abstract: The objective of this lecture is to look at how to use Erlang fixed point approximation to come up with good routing schemes. Static and adaptive routing will be discussed, where the calls, when they arrive, have a prescribed route. The goal is to find a solution to the problems of choosing good routes for the call given some measure of the traffic load, and of adapting the route to gradual change in traffic load. Let's assume that there exists a routing scheme, which we want to improve. The idea is to execute an optimizing procedure with a goal of increasing the revenue from the system. Note that since w r is the revenue that you can gain from the route r call, then W can be defined as a global objective function. The function computes the total revenue associated with the whole system, and should be maximized. In order to optimize the function W , we will make use of Erlang Fixed Point approximation. The idea is to compute the gradient of W with respect to the arrival rates, -r . Every call needs to travel from some node A to some node B. After computing the gradient of W , we will shift the calls towards routes, which will allow us to derive more revenue. We 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> F. P. Kelly, </author> <title> "Routing in Circuit-Switched Networks: </title> <journal> Optimization, Shadow Prices and Decentralization",Advanced Applied Probability,Vol.20, </journal> <pages> pp. 112-144, </pages> <year> 1988. </year>
+Reference: [2] <author> F. P. Kelly, </author> <booktitle> "Blocking probabilities in large circuit-switched networks.",Advanced Applied Probability,Vol.18, </booktitle> <pages> pp. 473-505, </pages> <year> 1986. </year> <month> 5 </month>
+References-found: 2
+

@@ -1,0 +1,17 @@
+URL: ftp://ftp.cs.columbia.edu/pub/nlp-class/fuf-manual.ps
+Refering-URL: http://www.cs.columbia.edu/~hjing/cs4705.html
+Root-URL: http://www.cs.columbia.edu
+Email: elhadad@bengus.bgu.ac.il  
+Title: FUF: the Universal Unifier User Manual Version 5.2  
+Author: Michael Elhadad 
+Note: Copyright 1993 Michael Elhadad  
+Date: 27 June 1993  
+Address: 84105 Beer Sheva, Israel  
+Affiliation: Department of Computer Science Ben Gurion University of the Negev  
+Abstract: This document is the user manual for FUF version 5.2, a natural language generator program that uses the technique of unification grammars. The program is composed of two main modules: a unifier and a linearizer. The unifier takes as input a semantic description of the text to be generated and a unification grammar, and produces as output a rich syntactic description of the text. The linearizer interprets this syntactic description and produces an English sentence. This manual includes a detailed presentation of the technique of unification grammars and a reference manual for the current implementation (FUF 5.2). Version 5.2 includes novel techniques in the unification allowing the specification of types and the expression of complete information. It also allows for procedural unification and supports sophisticated forms of control. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <editor> Ait-Kaci, </editor> <publisher> H. </publisher>
+Reference-contexts: The distinction between these two functions of variables is best explained in <ref> [1] </ref>. In FDs, coreference and unspecification are represented by two different syntactic devices: variables are features which are unspecified (they simply do not appear in the FD, or appear with an empty value), coreference is handled with paths. <p> The solution is to define a subsumption relation over the set of constants C. One way to define this order is to 9 define types of symbols, as illustrated below: 9 This notion of typing is similar to the Y-terms defined in <ref> [1] </ref>. 43 (define-feature-type noun (pronoun proper common)) (define-feature-type pronoun (personal-pronoun question-pronoun demonstrative-pronoun quantified-pronoun)) (define-feature-type common (count-noun mass-noun)) The grammar becomes: ((cat noun) (alt (((cat pronoun) (cat ((alt (question-pronoun personal-pronoun demonstrative-pronoun quantified-pronoun))))) ((cat proper)) ((cat common) (cat ((alt (count-noun mass-noun)))))))) And the input: ((cat personal-pronoun)) The syntax of the new function define-feature-type
+References-found: 1
+

@@ -1,0 +1,20 @@
+URL: ftp://ftp.cs.caltech.edu/tr/cs-tr-91-08.ps.Z
+Refering-URL: ftp://ftp.cs.caltech.edu/tr/INDEX.html
+Root-URL: http://www.cs.caltech.edu
+Title: 24 [G], where G is a boolean expression, stands for [G skip], and thus for
+Author: [[G S []G n S [] Edsger W. Dijkstra. [] Alain J. Martin, S.M. Burns, T.K. Lee, D. Borkovic, P.J. Hazewin-dus. Alain J. Martin. [] Carver Mead and Lynn Conway. 
+Date: 1989.  
+Address: Englewood Cliffs NJ, 1976.  
+Note: A Discipline of Programming. Prentice-Hall,  Caltech Conference on VLSI, ed. C.L. Seitz, MIT Press, 351-273,  [5]  Introduction to VLSI Systems, Addison-Wesley, Reading MA, 1980. [7] Charles L. Seitz. System Timing. in [6].  
+Abstract: 3] Alain J. Martin, S.M. Burns, T.K. Lee, D. Borkovic, P.J. Hazewin-dus. The First Asynchronous Microprocessor: The Test Results. Computer Architecture News, 17 (4):95-110, June 1989. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Edsger W. Dijkstra. </author> <title> A Discipline of Programming. </title> <publisher> Prentice-Hall, </publisher> <address> Englewood Cliffs NJ, </address> <year> 1976. </year>
+Reference: [2] <author> Alain J. Martin, S.M. Burns, T.K. Lee, D. Borkovic, P.J. Hazewin-dus. </author> <title> The Design of an Asynchronous Microprocessor. Decennial Caltech Conference on VLSI, </title> <editor> ed. C.L. Seitz, </editor> <publisher> MIT Press, </publisher> <pages> 351-273, </pages> <year> 1989. </year>
+Reference: [3] <author> Alain J. Martin, S.M. Burns, T.K. Lee, D. Borkovic, P.J. Hazewin-dus. </author> <title> The First Asynchronous Microprocessor: The Test Results. </title> <journal> Computer Architecture News, </journal> <volume> 17 </volume> (4):95-110, June 1989. 
+Reference: [4] <author> Alain J. Martin. </author> <title> Compiling Communicating Processes into Delay-insensitive VLSI circuits. </title> <journal> Distributed Computing, </journal> <volume> 1(4), </volume> <year> 1986. </year>
+Reference: [5] <author> Alain J. Martin. </author> <title> Programming in VLSI: From Communicating Processes to Delay-insensitive Circuits, in C.A.R. </title> <editor> Hoare (ed), </editor> <booktitle> UT Year of Programming Institute on Concurrent Programming, </booktitle> <publisher> Addison-Wesley, </publisher> <address> Reading MA, </address> <year> 1989. </year>
+Reference: [6] <author> Carver Mead and Lynn Conway. </author> <title> Introduction to VLSI Systems, </title> <publisher> Addison-Wesley, </publisher> <address> Reading MA, </address> <year> 1980. </year>
+
+References-found: 6
+

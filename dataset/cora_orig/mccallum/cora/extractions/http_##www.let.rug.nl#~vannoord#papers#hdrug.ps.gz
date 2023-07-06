@@ -1,0 +1,33 @@
+URL: http://www.let.rug.nl/~vannoord/papers/hdrug.ps.gz
+Refering-URL: http://www.let.rug.nl/~vannoord/prolog-app/Hdrug/
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Email: fvannoord,gosseg@let.rug.nl  
+Title: Hdrug. A Flexible and Extendible Development Environment for Natural Language Processing. both for the development
+Author: Gertjan van Noord Gosse Bouma Alfa-informatica BCN, 
+Note: Hdrug is designed to be as flexible and extendible as possible. This is illustrated by the fact that Hdrug has been used  
+Address: Groningen  
+Affiliation: University of  
+Abstract: Hdrug is an environment to develop grammars, parsers and generators for natural languages. The package is written in Sic-stus Prolog and Tcl/Tk. The system provides a graphical user interface with a command interpreter, and a number of visuali-sation tools, including visualisation of feature structures, syntax trees, type hierarchies, lexical hierarchies, feature structure trees, definite clause definitions, grammar rules, lexical entries, and graphs of statistical information of various kinds. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Gosse Bouma and Gertjan van Noord. </author> <year> 1993. </year> <title> Head-driven parsing for lexicalist grammars: Experimental results. </title> <booktitle> In Sixth Conference of the European Chapter of the Association for Computational Linguistics, </booktitle> <address> Utrecht. </address>
+Reference: <author> Gosse Bouma and Gertjan van Noord. </author> <year> 1994. </year> <title> Constraint-based categorial grammar. </title> <booktitle> In 32th Annual Meeting of the Association for Computational Linguistics, </booktitle> <address> New Mexico. </address>
+Reference: <author> Lou Boves, Jan Landsbergen, Remko Scha, and Gertjan van Noord. </author> <year> 1995. </year> <title> Language and Speech Technology. </title>
+Reference: <author> NWO Den Haag. </author> <title> Project plan for the NWO Priority Programme `Language and Speech Technology'. </title>
+Reference: <author> Bob Carpenter. </author> <year> 1992. </year> <title> The attribute logic engine user guide. </title> <type> Technical report, </type> <institution> Laboratory for Computa-tonal Linguistics, Carnegie Mellon University, Pitts-burgh. </institution>
+Reference: <author> Karten Konrad, Holger Maier, and Manfred Pinkal. </author> <year> 1996. </year> <title> CLEARS | an education and research tool for computational semantics. </title> <booktitle> In Proceedings of the 16th International Conference on Computational Linguistics (COLING), </booktitle> <address> Copenhagen. </address>
+Reference: <author> Eleftherios Koutsofios and Stephen C. North. </author> <year> 1994. </year> <title> Editing graphs with dotty. dotty User Manual. </title>
+Reference: <author> C.S. Mellish. </author> <year> 1988. </year> <title> Implementing systemic classification by unification. </title> <journal> Computational Linguistics, </journal> <volume> 14(1). </volume>
+Reference-contexts: In addition, the Hdrug library contains mechanisms to translate Prolog terms into fea ture structures and vice versa (on the basis of a number of declarations). Furthermore, a library is provided for the creation of `Mellish' Prolog terms on the basis of boolean expressions over finite domains <ref> (Mellish, 1988) </ref>. The reverse translation is provided too. Such terms can be used as values of feature structures to implement a limited form of disjunction and negation by unification.
+Reference: <author> Richard A. O'Keefe. </author> <year> 1990. </year> <title> The Craft of Prolog. </title> <publisher> The MIT Press. </publisher>
+Reference: <author> Fernando C.N. Pereira and David Warren. </author> <year> 1980. </year> <title> Definite clause grammars for language analysis | a survey of the formalism and a comparison with augmented transition networks. </title> <journal> Artificial Intelligence, </journal> <volume> 13. </volume>
+Reference: <author> Fernando C.N. Pereira. </author> <year> 1981. </year> <title> Extraposition grammars. </title> <journal> Computational Linguistics, </journal> <volume> 7(4). </volume>
+Reference: <author> Peter Ross. </author> <year> 1989. </year> <title> Advanced Prolog. </title> <publisher> Addison-Wesley. </publisher>
+Reference: <author> G. Sander. </author> <year> 1995. </year> <title> Graph layout through the VCG tool. </title> <editor> In R. Tamassia and I.G. Tollis, editors, </editor> <title> Graph Drawing, </title> <booktitle> DIMACS International Workshop GD '94, Proceedings; Lecture Notes in Computer Science 894, </booktitle> <pages> pages 194-205. </pages> <publisher> Springer Verlag. </publisher>
+Reference-contexts: Furthermore, similar to the View menu of Ale it is also possible to obtain visualisation of datastruc-tures such as lexical entries and grammar rules. This menu also provides an interface for the visualisation of word graphs by piping these word graphs to either the VCG <ref> (Sander, 1995) </ref> or dotty (Koutsofios and North, 1994) graph drawing tools. Apart from adding new menu buttons it is also easy to add items to existing pull-down menus. For example, in OVIS we are not only interested in the speed of the parser, but also in the accuracy.
+Reference: <author> Stuart M. Shieber, Gertjan van Noord, Robert C. Moore, and Fernando C.N. Pereira. </author> <year> 1989. </year> <title> A semantic-head-driven generation algorithm for unification based formalisms. </title> <booktitle> In 27th Annual Meeting of the Association for Computational Linguistics, </booktitle> <pages> pages 7-17, </pages> <month> Vancou-ver. </month>
+Reference: <author> Gertjan van Noord and Gosse Bouma. </author> <year> 1994. </year> <title> Adjuncts and the processing of lexical rules. </title> <booktitle> In Proceedings of the 15th International Conference on Computational Linguistics (COLING), </booktitle> <address> Kyoto. </address>
+Reference: <author> Gertjan van Noord, Gosse Bouma, Rob Koeling, and Mark-Jan Nederhof. </author> <year> 1996. </year> <title> Conventional natural language processing in the NWO priority programme on language and speech technology. October 1996 De-liverables. </title> <type> Technical Report 28, </type> <institution> NWO Priority Pro-gramme Language and Speech Technology. </institution>
+Reference: <author> Gertjan van Noord. </author> <year> 1994. </year> <title> Head corner parsing for TAG. </title> <journal> Computational Intelligence, </journal> <volume> 10(4). </volume>
+References-found: 17
+

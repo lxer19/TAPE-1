@@ -1,0 +1,27 @@
+URL: ftp://ftp.cs.berkeley.edu/ucb/sprite/papers/spritemach.ps.Z
+Refering-URL: http://www.cs.berkeley.edu/projects/sprite/sprite.papers.html
+Root-URL: http://www.cs.berkeley.edu
+Title: 16 Kernel Support For Network Protocol Servers, Proceedings The Design and Implementation of a Log-Structured
+Author: [] Franklin Reynolds and Jeffrey Heller. [] Mendel Rosenblum and John K. Ousterhout. [] Ken W. Shirriff and John K. Ousterhout. 
+Date: November 1991, 149162.  October 1991, 115.  January 1992, 315331.  November 1987, 6376.  
+Note: of the USENIX Mach Symposium,  Proceedings of the Thirteenth ACM Symposium on Operating Systems Principles,  Proceedings of the Winter 1992 USENIX Conference,  [20] Michael Young et al. The  Proceedings of the 11th Symposium on Operating Systems Principles,  
+Abstract: 19] Brent Welch. Naming, State Management, and User-Level Extensions in the Sprite Distributed File System, PhD thesis, University of California, Berkeley, February 1990. Also available as Technical Report UCB/CSD 90/567. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Mary G. Baker, John H. Hartman, Michael D. Kupfer, Ken W. Shirriff, and John K. Ousterhout. </author> <title> Measurements of a Distributed File System, </title> <booktitle> Proceedings of the Thirteenth ACM Symposium on Operating Systems Principles, </booktitle> <month> October </month> <year> 1991, 198212. </year>
+Reference: [2] <author> Joseph Barrera III. </author> <title> private communication, </title> <month> September </month> <year> 1992. </year>
+Reference: [3] <editor> David L. Black et al. </editor> <booktitle> Microkernel Operating System Architecture and Mach, Proceedings of the USENIX Microkernel Workshop, </booktitle> <month> April </month> <year> 1992, </year> <month> 1129. </month>
+Reference: [4] <author> David R. Cheriton, Gregory R. Whitehead, and Edward W. Sznyter. </author> <title> Binary Emulation of UNIX Using the V Kernel, </title> <booktitle> Proceedings of the Summer 1990 USENIX Conference, </booktitle> <month> June </month> <year> 1990, </year> <month> 7386. </month>
+Reference: [5] <author> Eric C. Cooper and Richard P. Draves. </author> <title> C Threads, </title> <type> Technical report CMUCS88154, </type> <institution> Carnegie Mellon University, </institution> <month> February </month> <year> 1988. </year>
+Reference: [6] <author> F. Douglis and J. Ousterhout. </author> <title> Transparent Process Migration: Design Alternatives and the Sprite Implementation, </title> <journal> SoftwarePractice & Experience 21, </journal> <volume> 8, </volume> <month> August </month> <year> 1991. </year>
+Reference: [7] <author> David Finkel, Robert E. Kinicki, Aju John, Bradford Nichols, and Somesh Rao. </author> <title> Developing Benchmarks to Measure the Performance of the Mach Operating System, </title> <booktitle> Proceedings of the USENIX Mach Workshop, </booktitle> <month> October </month> <year> 1990, </year> <month> 83100. </month>
+Reference: [8] <author> Alessandro Forin, Joseph Barrera, and Richard Sanzi. </author> <title> The Shared Memory Server, </title> <booktitle> Proceedings of the Winter 1989 USENIX Conference, </booktitle> <month> January </month> <year> 1989, </year> <month> 229244. </month>
+Reference: [9] <author> David Golub, Randall Dean, Alessandro Forin, and Richard Rashid. </author> <title> UNIX as an Application Program, </title> <booktitle> Proceedings of the Summer 1990 USENIX Conference, </booktitle> <month> June </month> <year> 1990, </year> <month> 8796. </month>
+Reference: [10] <author> M. D. Hill et al. </author> <title> Design Decisions in SPUR, </title> <journal> IEEE Computer 19, </journal> <volume> 11, </volume> <month> November </month> <year> 1986, </year> <month> 822. </month>
+Reference: [11] <author> Daniel P. Julin, Jonathan J. Chew, J. Mark Stevenson, Paulo Guedes, Paul Neves, and Paul Roy. </author> <title> Generalized Emulation Services for Mach 3.0Overview, Experiences and Current Status, </title> <booktitle> Proceedings of the USENIX Mach Symposium, </booktitle> <month> November </month> <year> 1991, </year> <month> 1326. </month>
+Reference: [12] <author> Yousef A. Khalidi and Michael N. Nelson. </author> <title> An Implementation of UNIX on an Object-oriented Operating System, </title> <booktitle> Proceedings of the Winter 1993 USENIX Conference, </booktitle> <month> January </month> <year> 1993, </year> <month> 469480. </month>
+Reference: [13] <author> Dejan S. Milojicic, Wolfgang Zint, Andreas Dangel, and Peter Giese. </author> <title> Task Migration on Top of the Mach Microkernel, </title> <booktitle> Proceedings of the Third USENIX Mach Symposium, </booktitle> <month> April </month> <year> 1993. </year>
+Reference: [14] <author> J. Ousterhout, A. Cherenson, F. Douglis, M. Nelson, and B. Welch. </author> <title> The Sprite Network Operating System, </title> <journal> IEEE Computer 21, </journal> <volume> 2, </volume> <month> February </month> <year> 1988, </year> <month> 2336. </month>
+
+References-found: 14
+

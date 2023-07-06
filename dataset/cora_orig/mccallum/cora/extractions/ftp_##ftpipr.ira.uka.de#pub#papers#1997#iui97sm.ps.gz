@@ -1,0 +1,18 @@
+URL: ftp://ftpipr.ira.uka.de/pub/papers/1997/iui97sm.ps.gz
+Refering-URL: ftp://ftpipr.ira.uka.de/.public_html/papersna.html
+Root-URL: 
+Title: Haptic Output in Multimodal User Interfaces  
+Author: Stefan M unch and R udiger Dillmann 
+Keyword: Haptic output; User modelling; Adaptive interfaces; Intelligent feedback; Multimodality  
+Address: Kaiserstrae 12, D-76128 Karlsruhe, Germany  
+Affiliation: University of Karlsruhe, Department of Computer Science Institute for Real-Time Computer Systems and Robotics  
+Note: In: 1997 Int. Conf. on Intelligent User Interfaces (IUI97 Conf. Proc.),pp. 105-112, Orlando, FL,  
+Email: email: fsmuench,dillmanng@ira.uka.de  
+Phone: phone: +49 721 608 3547 fax: +49 721 606740  
+Web: www: http://wwwipr.ira.uka.de/  
+Date: 1997  
+Abstract: This paper presents an intelligent adaptive system for the integration of haptic output in graphical user interfaces. The system observes the user's actions, extracts meaningful features, and generates a user and application specific model. When the model is sufficiently detailled, it is used to predict the widget which is most likely to be used next by the user. Upon entering this widget, two magnets in a specialized mouse are activated to stop the movement, so target acquisition becomes easier and more comfortable. Besides the intelligent control system, we will present several methods to generate haptic cues which might be integrated in multimodal user interfaces in the future. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

@@ -1,0 +1,14 @@
+URL: ftp://ftp.cs.unc.edu/pub/users/sc/COMP122-F96/hw10-ans.PS.Z
+Refering-URL: http://www.cs.unc.edu/~sc/teaching/COMP122-F1996/homework.html
+Root-URL: http://www.cs.unc.edu
+Phone: 2 3 4 5 6 7 8 9 10 11 12  2 3 4 5 6  
+Title: COMP 122: Algorithms and Analysis Solutions to Problem Set 10 Practice problems P-1 Exercise 6.2-3
+Author: Siddhartha Chatterjee E(S) m E(M) 
+Note: s  1  Var(X) E(X 2 [E(X)] 2 (1 p) (1 p) 2 p p 2 p(1 p) E(X)E(1 X):  
+Date: Fall 1996  7:  4:47:  
+Pubnum: 36 252  36 161  
+Abstract: P-3 Exercise 6.3-8 (page 115). Show that for any random variable X that takes on only the values 0 and 1, we have Var[X] = E[X]E[1 - X]. Solution: Let Pr(X = 0) = p, and let Pr(X = 1) = 1 - p. Then E(X) = p 0 + (1 - p) 1 = 1 - p, and E(1 - X) = (1 - p) 0 + p 1 = p. Also, E(X 2 ) = p 0 2 + (1 - p) 1 2 = 1 - p. Then 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

@@ -1,0 +1,17 @@
+URL: ftp://ai.iit.nrc.ca/pub/ksl-papers/NRC-38327.ps.Z
+Refering-URL: http://www.cs.cmu.edu/afs/cs.cmu.edu/project/anneal/www/tech_reports.html
+Root-URL: 
+Title: A hierarchical protocol for coordinating multiagent behaviors. Toward an Architecture for Adaptive, Rational, Mobile Agents
+Author: [DM] Edmund H. Durfee and Thomas A. Montgomery. Innes A. Ferguson. Innes A. Ferguson. TouringMa-chines: Innes A. Ferguson. E. Werner and Y. Demazeau (eds.) [Ferc] Innes A. Ferguson. TouringMa-chines: [Geo] Michael P. Georgeff. James Allen, James Hendler, and Austin Tate, Yoav Shoham and Drew McDer-mott. In James Allen, James Hendler, and Austin [VB] Steven Vere and Timothy Bickmore. 
+Date: August,  47:161184, 1991.  
+Affiliation: of Rational Agents,  Science (North  Computer Laboratory, University of Cambridge,  
+Address: San Mateo, CA, 1988.  Sydney, Australia,  Holland): Amsterdam, 1992.  Cambridge UK, 1992.  San Mateo, CA, 1990.  San Mateo, CA, 1990.  
+Note: 9 297346. Morgan Kaufmann:  In Proceedings Conference of the American Association for Artificial Intelligence, pages 8693, 1990. [Fer91]  (extended abstract). In M.P. Georgeff and A.S. Rao (eds.) Proc. of the IJCAI-91 Workshop on Theoretical and Practical Design  1991. [Fer92a]  IEEE Computer, 25(5), 5155, 1992. [Fer92b]  Decentralized AI 3, Elsevier  Ph.D. thesis,  editors, Readings in Planning, pages 525. Morgan Kaufmann:  [HBJ91] Ameen Abu-Hanna, Richard Ben-jamins, and Wouter Jansweijer. Integrating  Anaheim CA, July, 1991. [Kir91] David Kirsh. Today the earwig, tomorrow man? Artificial Intelligence,  [Sch87] M.J. Schoppers.  In Proceedings International Joint Conference on Artificial Intelligence, pages 10391046, 1987. [Sho90] Yoav Shoham. AGENT0: A simple agent language and its interpreter. In Proceedings Conference of the American Association for Artificial Intelligence, pages 704709, 1991. [SM90]  Tate, editors, Readings in Planning, pages 581587. Morgan Kaufmann:  A basic agent. Computational Intelligence, 6(1):4160, 1990.  
+Abstract: PGA86] David L. Poole, Randy G. Goebel, and Romas Aleliunas. Theorist: A logical reasoning system for defaults and diagnosis. Research Report CS-86-06, University of Waterloo, Waterloo, Ont., February 1986. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [AC87] <author> Philip E. Agre and David Chapman. Pengi: </author> <title> An implementation of a theory of activity. </title> <booktitle> In Proceedings Conference of the American Association for Artificial Intelligence, </booktitle> <pages> pages 268272, </pages> <year> 1987. </year>
+Reference: [Bro86] <author> Rodney A. Brooks. </author> <title> A robust layered control system for a mobile robot. </title> <journal> IEEE Journal of Robotics and Automation, </journal> <volume> 2(1):1423, </volume> <year> 1986. </year>
+
+References-found: 2
+

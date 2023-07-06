@@ -1,0 +1,19 @@
+URL: ftp://ftp.cs.umd.edu/pub/realtime/rtas97.ps.gz
+Refering-URL: http://www.cs.umd.edu/projects/TimeWare/TimeWare-index-no-abs.html
+Root-URL: 
+Email: fdikang, richg@cs.umd.edu  manas@cs.concordia.ca  
+Title: Performance-Based Design of Distributed Real-Time Systems  
+Author: Dong-In Kang, Richard Gerber Manas Saksena 
+Address: College Park, MD 20742  Montreal Quebec H3G 1M8 Canada  
+Affiliation: Institute for Advanced Computer Studies Department of Computer Science University of Maryland  Dept. of Computer Science Concordia University  
+Abstract: This paper presents a design method for distributed systems with statistical, end-to-end real-time constraints, and with underlying stochastic resource requirements. A system is modeled as a set of chains, where each chain is a distributed pipeline of tasks, and a task can represent any activity requiring nonzero load from some CPU or network resource. Every chain has two end-to-end performance requirements: Its delay constraint denotes the maximum amount time a computation can take to flow through the pipeline, from input to output. A chain's quality constraint mandates a minimum allowable success rate for outputs that meet their delay constraints. Our design method solves this problem by deriving (1) a fixed proportion of resource load to give each task; and (2) a deterministic processing rate for every chain, in which the objective is to optimize the output success rate (as determined by an analytical approximation). We demonstrate our technique on an example system, and compare the estimated success rates with those derived via simulated on-line behavior. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Alan Burns. </author> <title> Preemptive Priority Based Scheduling: An Appropriate Engineering Approach. In Sang Son, editor, </title> <booktitle> Principles of Real-Time Systems. </booktitle> <publisher> Prentice Hall, </publisher> <year> 1994. </year>
+Reference-contexts: Since the analysis is approximate, we validate the solution generated using a simulation model. Related Work. Like much of the work in real-time systems, our results extend from preemptive, uniprocessor scheduling analysis. There are many old and new solutions to this problem (e.g., <ref> [11, 1, 7, 10] </ref>); moreover, these methods come equipped o*ine, analysis tests, which determine a priori whether the underlying system is schedulable.
+Reference: [2] <author> Alan Demers. </author> <title> Analysis and Simulation of a Fair Queueing Algorithm. </title> <booktitle> In Proceedings of ACM SIGCOMM, </booktitle> <pages> pages 1-12. </pages> <publisher> ACM Press, </publisher> <month> September </month> <year> 1989. </year>
+Reference-contexts: In particular, we assume a network model in which per-connection real-time performance guarantees can be provided, assuming that a certain proportion of bandwidth has been allocated to each connection. Many policies have recently proposed to accommodate this, including the "Virtual Clock Method" [24], "Fair-Share Queueing" <ref> [2] </ref>, "Generalized Processor Sharing" (or GPS) [13], and "Rate Controlled Static Priority Queueing" (or RCSP) [22]. These models have also been extended to derive statistical guarantees; in particular, within the framework of RCSP (in [23]), and for GPS (in [25]).
+Reference: [3] <author> Norival R. Figueira and Joseph Pasquale. </author> <month> Leave-in-Time: </month>
+Reference-contexts: These models have also been extended to derive statistical guarantees; in particular, within the framework of RCSP (in [23]), and for GPS (in [25]). Related results for real-time traf fic sources can be found in <ref> [3] </ref> (using a policy like "Virtual Clock" [24]), and in [21] (using a modified FCFS method, with a variety of traffic distributions).
+References-found: 3
+

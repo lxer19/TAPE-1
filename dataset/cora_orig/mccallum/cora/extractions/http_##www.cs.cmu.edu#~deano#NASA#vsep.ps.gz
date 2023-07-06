@@ -1,0 +1,17 @@
+URL: http://www.cs.cmu.edu/~deano/NASA/vsep.ps.gz
+Refering-URL: http://www.cs.cmu.edu/~deano/NASA/deans.html
+Root-URL: 
+Title: Eigenfunction Analysis of Coherent Structures on the Solar Surface  
+Author: Matthew C. Deans and Anil Deane 
+Address: Greenbelt, MD 20771  
+Affiliation: High Performance Computing Division NASA/Goddard Space Flight Center  
+Abstract: The appearance of coherent structures on the surface of the sun has been studied for many years. In this paper, we attempt to gain some understanding of the nature of the flow of material in such a structure by determining a set of empirical eigenfunctions which describe the flow such that the eigenfunction representation is most compact. In determining these eigenfunctions, we determine the primary modes of the evolution of the structure.
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Winter,M., Barber, T. J., Everson, R. M., and Sirovich, L., </author> <title> "Eigenfunction Analysis of Turbulent Mixing Phenomena," </title> <journal> AIAA Journal, </journal> <volume> Vol. 30, No. 7, </volume> <pages> pp 1681-1688, </pages> <month> July </month> <year> 1992. </year>
+Reference: [2] <author> Sirovich, L., </author> <title> "Turbulence and the Dynamics of Coherent Structures Part I: Coherent Structures," </title> <journal> Quarterly of Applied Mathematics, </journal> <volume> Vol. XLV, Number 3, </volume> <pages> pp 561-571, </pages> <month> Oct. </month> <year> 1987. </year>
+Reference: [3] <author> Deane, A. and Sirovich, L., </author> <title> "A Computational Study of Rayleigh-Benard Convection. Part 1. Rayleigh-number scaling," </title> <journal> Journal of Fluid Mechanics, </journal> <volume> Vol. 222, </volume> <pages> pp 231-250 (1991). </pages>
+Reference: [4] <author> Lumley, </author> <title> "Proper Orthogonal Decomposition," </title> <note> Some Journal Somewhere, Vol. X, pp Y-Z (a while ago). 21 </note>
+Reference-contexts: The resulting data appears as in Figure 2 where the first and last frames of the data set are shown. 3 The Karhunen-Loeve Transform The Karhunen-Loeve (KL) transform, also called the Proper Orthogonal Decomposition <ref> [4] </ref>, was used by Lorenz and by Lumley for the analysis of turbulence data. Lorenz used the procedure to study meteorological data, and Lumley used it to isolate coherent structures. This procedure has been widely used in the study of turbulent flows since. Consider the data set described above.
+References-found: 4
+

@@ -1,0 +1,35 @@
+URL: ftp://ftp.netcom.com/pub/hb/hbaker/LQsort.ps.Z
+Refering-URL: ftp://ftp.netcom.com/pub/hb/hbaker/home.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Phone: (818) 501-4956(818) 986-1360 (FAX)  
+Title: A "Linear Logic" Quicksort  
+Author: Henry G. Baker 
+Address: 16231 Meadow Ridge Way, Encino, CA 91436  
+Affiliation: Nimble Computer Corporation,  
+Note: ACM Sigplan Notices 29,2 (Feb.1994), 13-18. Copyright 1993 by Nimble Computer Corporation 1  This material is based upon work supported by the National Science Foundation under Grant No. III-9261682.  
+Abstract: The linear style of programming inspired by linear logic has been proposed to reduce garbage collection and synchronization costs in serial and parallel systems. We programmed Quicksort for both lists and arrays in a "linear" fragment of Lisp to estimate the performance impact of linearity on a serial machine. Even though Quicksort is well-tuned for current nonlinear architectures, we find that linearity extracts no real penalty. Our "linear" list Quicksort is as fast as any nonlinear list Quicksort, and our "linear" vector Quicksort is only 3.5% slower than a nonlinear vector Quicksort. The linear style is moderately pleasant, and the redundancy of linearity checking can aid in finding bugs. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Abramsky, S. </author> <title> "Computational interpretations of linear logic". </title> <journal> Theor. Comp. Sci. </journal> <volume> 111 (1993), </volume> <pages> 3-57. </pages>
+Reference: <author> Aho, </author> <title> A.V., </title> <editor> et al. </editor> <booktitle> The Design and Analysis of Computer Algorithms. </booktitle> <publisher> Addison-Wesley, </publisher> <address> Reading, MA, </address> <year> 1974. </year>
+Reference: <author> Baase, S. </author> <title> Computer Algorithms: Introduction to Design and Analysis. </title> <publisher> Addison-Wesley, </publisher> <address> Reading, MA, </address> <year> 1978. </year>
+Reference: <author> Baker, H.G. </author> <title> "The Buried Binding and Dead Binding Problems of Lisp 1.5: Sources of Incomparability in Garbage Collector Measurements". </title> <booktitle> ACM Lisp Pointers V,2 (Apr.-June1992), </booktitle> <pages> 11-19. </pages>
+Reference: <author> Baker, H.G. </author> <title> "Lively Linear Lisp 'Look Ma, No Garbage!'". </title> <journal> ACM Sigplan Notices 27,8 (Aug.1992), </journal> <pages> 89-98. </pages>
+Reference: <author> Baker, H.G. </author> <title> "NREVERSAL of FortuneThe Thermodynamics of Garbage Collection". </title> <booktitle> Int'l. W/S on Memory Mgmt., </booktitle> <address> St Malo, France, Sept. 1992, </address> <publisher> Springer LNCS 637. </publisher>
+Reference: <author> Chirimar, J., et al. </author> <title> "Proving Memory Management Invariants for a Language Based on Linear Logic". </title> <booktitle> Proc. ACM Conf. Lisp & Funct. Prog., </booktitle> <address> San Francisco, CA, </address> <month> June, </month> <year> 1992, </year> <note> also ACM Lisp Pointers V,1 (Jan.-Mar.1992), 139. </note>
+Reference: <author> Friedman, </author> <title> D.P., and Wise, D.S. "Aspects of applicative programming for parallel processing". </title> <journal> IEEE Trans. Comput. C-27,4 (Apr.1978), </journal> <pages> 289-296. </pages>
+Reference: <author> Girard, J.-Y. </author> <title> "Linear Logic". </title> <journal> Theoretical Computer Sci. </journal> <volume> 50 (1987),1-102. </volume>
+Reference: <author> Harms, D.E., and Weide, B.W. </author> <title> "Copying and Swapping: Influences on the Design of Reusable Software Components". </title> <journal> IEEE Trans. SW Eng. </journal> <note> 17,5 (May 1991),424-435. </note>
+Reference: <author> Hesselink, </author> <title> W.H. "Axioms and Models of Linear Logic". </title> <journal> Formal Aspects of Comput. 2,2 (Apr-June1990), </journal> <pages> 139-166. </pages>
+Reference: <author> Hogg, J. </author> <title> "Islands: Aliasing Protection in ObjectOriented Languages". </title> <booktitle> Proc. OOPSLA'91, Sigplan Not. 26,11 (Nov.1991), </booktitle> <pages> 271-285. </pages>
+Reference: <author> Knuth, D.E. </author> <title> The Art of Computer Programming, v. 3, Sorting and Searching. </title> <publisher> Addison-Wesley, </publisher> <address> Reading, MA 1973. </address>
+Reference: <author> Lafont, Y. </author> <title> "The Linear Abstract Machine". </title> <journal> Theor. Comp. Sci. </journal> <volume> 59 (1988), </volume> <pages> 157-180. </pages>
+Reference: <author> Mart-Oliet, N., and Meseguer, J. </author> <title> "From Petri nets to linear logic". </title> <journal> Math. </journal> <note> Struct. in Comp. Sci. 1,1 (Mar.1991). </note>
+Reference: <author> Mendelson, A. </author> <title> "A Single Cached Copy Data Coherence Scheme for Multiprocessor Systems". </title> <journal> Comput. Arch. News 17,6 (Dec.1989), </journal> <pages> 36-49. </pages>
+Reference: <author> Shalit, A. </author> <title> Dylan: An objectoriented dynamic language. </title> <institution> Apple Computer, Camb., </institution> <address> MA, </address> <year> 1992. </year>
+Reference: <author> Strom, R.E. </author> <title> "Mechanisms for Compile-Time Enforcement of Security". </title> <booktitle> Proc. 10th ACM POPL, </booktitle> <month> Jan. </month> <year> 1983. </year>
+Reference: <author> Suzuki, N. </author> <title> "Analysis of Pointer 'Rotation'". </title> <journal> CACM 25,5 (May1982)330-335. </journal>
+Reference: <author> Wadler, P. </author> <title> "Is there a use for linear logic?". </title> <booktitle> Proc. ACM PEPM'91, </booktitle> <address> New Haven, </address> <month> June </month> <year> 1991, </year> <pages> 255-273. </pages>
+Reference: <author> Wakeling, D., and Runciman, C. </author> <title> "Linearity and Laziness". </title> <journal> Proc. Funct. Progr. & Computer Arch., </journal> <volume> LNCS 523, </volume> <publisher> Springer-Verlag, </publisher> <month> Aug. </month> <year> 1991, </year> <pages> 215-240. </pages>
+References-found: 21
+

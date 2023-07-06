@@ -1,0 +1,12 @@
+URL: ftp://ftp.cs.unc.edu/pub/users/sc/COMP140-F95/L1995-08-24.PS.Z
+Refering-URL: http://www.cs.unc.edu/~sc/teaching/COMP140-F1995/lectures.html
+Root-URL: http://www.cs.unc.edu
+Title: COMP 140: Introduction to Translator Systems Lecture 1 (Introduction) Chapter 1. 1 Why study language
+Author: Siddhartha Chatterjee Aho, Sethi, Ullman, 
+Note: References: Calingaert, Chapter 1;  2. As  4. This is the first  to participate in such advanced research and devel opment efforts. 2 Languages, grammars, and recognizers  
+Date: Fall 1995  
+Abstract: 1. You may not be a compiler writer, but as a programmer, you will undoubtedly be a user of compilers, interpreters, assemblers, and so on. Although we would like to treat our tools as black boxes, we can be more effective users of these tools if we understand something about the internal workings of the tools. What, then, is language? While several definitions exist, the one most pertinent to our purposes is the fol lowing, taken from Webster's New Universal Unabridged Dictionary. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

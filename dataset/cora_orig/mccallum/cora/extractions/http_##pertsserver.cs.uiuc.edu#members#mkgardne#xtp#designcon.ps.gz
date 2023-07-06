@@ -1,0 +1,13 @@
+URL: http://pertsserver.cs.uiuc.edu/members/mkgardne/xtp/designcon.ps.gz
+Refering-URL: http://pertsserver.cs.uiuc.edu/members/mkgardne/xtp/xtp.html
+Root-URL: http://www.cs.uiuc.edu
+Title: XTP/PE Design Considerations  
+Author: Greg Chesson 
+Affiliation: Silicon Graphics  
+Abstract: The Xpress Transfer Protocol, XTP, is an approach to protocol design for next generation networks. The Protocol Engine, PE, is a hardware architecture for implementing network protocols and system interfaces using VLSI techniques. The two projects are related: XTP is designed with a PE in mind. This paper presents some of the ideas and goals in XTP. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> XTP Protocol Definition, </author> <title> Revision 3.3, Protocol Engines, </title> <publisher> Inc., </publisher> <address> Santa Barbara, Ca, </address> <month> 12 December </month> <year> 1988. </year>
+Reference-contexts: Introduction XTP <ref> [1] </ref> represents a compromise between issues of bandwidth, latency, protocol complexity, VLSI constraints, transport services, system interfacing, and speculation about future network evolution. The general goals are to demonstrate feasibility of Gbit/sec operation, to fit in a VLSI environment, and to provide adequate functionality for distributed system applications.
+References-found: 1
+

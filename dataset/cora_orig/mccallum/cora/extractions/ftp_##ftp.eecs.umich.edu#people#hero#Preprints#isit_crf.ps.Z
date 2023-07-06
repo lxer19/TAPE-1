@@ -1,0 +1,11 @@
+URL: ftp://ftp.eecs.umich.edu/people/hero/Preprints/isit_crf.ps.Z
+Refering-URL: http://www.eecs.umich.edu/~hero/det_est.html
+Root-URL: http://www.cs.umich.edu
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> A.O. Hero, </author> <title> "A Cramer-Rao type lower bound for essentially unbiased parameter estimation," </title> <type> Technical Report TR-890, </type> <institution> MIT Lincoln Laboratory, </institution> <address> Lexington MA, 02173-0073, 1992, DTIC AD-A246666. </address>
+Reference-contexts: supported by NSF Grant BCS-9024370 In (2) &gt; 0 is determined by the unique non-negative solution of the following equation: g () = e T h Y D T D + F Y F + i By calculating the family of points f (B (; ffi); ffi) : ffi 2 <ref> [0; 1] </ref>g we sweep out a curve in the bias-variance plane which lower bounds any estimator plotted in the plane. Figure 1 illustrates this curve for a simple one dimensional Gaussian deconvolu-tion problem and the unweighted l 2 norm (D=identity) [2].
+Reference: [2] <author> M. Usman and A.O. Hero, </author> <title> "Bias-variance tradeoffs for para-metric estimation problems using the uniform CR bound," </title> <note> in revision for publication in IEEE Trans. on Signal Processing. </note>
+Reference-contexts: Figure 1 illustrates this curve for a simple one dimensional Gaussian deconvolu-tion problem and the unweighted l 2 norm (D=identity) <ref> [2] </ref>. The region above and including the curve is the so called `achievable' region where all the realizable pairs of estimator variance and bias-gradients exist. Note that if an estimator lies on the curve then lower variance can only be bought at the price of increased bias and vice versa. <p> Note that if an estimator lies on the curve then lower variance can only be bought at the price of increased bias and vice versa. For this example the regularized least squares estimator attains optimal bias-variance tradeoff, i.e. it hits the lower bound for all values of ffi <ref> [2] </ref>. In this case the bias gradient norm ffi was swept out by varying the smoothing (regularization) parameter of the estimator. In general to place an estimator somewhere within the achievable region of Figure 1 requires the variance and length of the estimator bias gradient.
+References-found: 2
+

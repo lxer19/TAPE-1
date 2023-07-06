@@ -1,0 +1,24 @@
+URL: http://www.cs.wisc.edu/~rdopt/papers/runlength.ps
+Refering-URL: http://www.cs.wisc.edu/~rdopt/papers/papers.html
+Root-URL: 
+Email: Email: ratnakar@cs.wisc.edu  Email: feig@watson.ibm.com  Email: viscito@watson.ibm.com  Email: kalluri@eecis.udel.edu  
+Phone: Phone: (608) 262-1721 Fax: (608) 262-9777  Phone: (914) 784-7014 Fax: (914) 784-6688  Phone: (914) 784-6555 Fax: (914) 784-6688  Phone: (302) 831-2405 Fax: (302) 831-4316  
+Title: Runlength encoding of quantized DCT coefficients  
+Author: Viresh Ratnakar Ephraim Feig Eric Viscito Sudhakar Kalluri 
+Keyword: runlength encoding, discrete cosine transform, quantization, image compression, JPEG, MPEG, Huffman coding.  
+Address: Madison, Wisconsin 53706  P.O. Box 704 Yorktown Heights, New York 10598  P.O. Box 704 Yorktown Heights, New York 10598  Newark, Delaware 19716  
+Affiliation: University of Wisconsin-Madison, Computer Science Department  IBM Research,  IBM Research,  University of Delaware, Department of Electrical Engineering  
+Abstract: Runlength encoding is used in image and video compression methods to efficiently store quantized DCT coefficients. These coefficients are scanned in a zig-zag fashion, and runs of zeros are entropy coded. We experimented with several images and found that the bit-rate of such a scheme is quite close to the coefficient-wise sum of entropies. In this paper we present a comparison of the two encoding schemes. We also develop an analytical model to characterize the bit-rates. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Ahmed, N., Natarajan, T., and Tao, K. R. </author> <title> Discrete Cosine Transform. </title> <journal> IEEE Trans. Computers, </journal> <volume> C-2390-3, </volume> <month> Jan. </month> <year> 1974. </year>
+Reference-contexts: 1. INTRODUCTION Digital image and video compression standards, such as JPEG and MPEG, use the discrete cosine transform (DCT) <ref> [1] </ref> to break up image blocks into spatial frequency components [3, 4]. These frequency coefficients are quantized using a table of quantization steps, commonly referred to as a quantization table.
+Reference: [2] <author> Huffman, D. A. </author> <title> A Method for the Construction of Minimum Redundancy Codes. </title> <journal> Proc. IRE., </journal> <volume> 40(9) </volume> <pages> 1098-101, </pages> <month> Sept. </month> <year> 1952. </year>
+Reference-contexts: If there is an index n such that C (i) = 0 for all i n, then the symbol eob is produced. This gives a string of symbols from the set possibly followed by the end-of-block symbol eob. This string is then Huffman-coded <ref> [2] </ref> to produce the final code. The code lengths for the symbols (r; v), and the symbol eob, are determined by their frequency of occurrence over all the blocks.
+Reference: [3] <editor> MPEG proposal package description, </editor> <month> July </month> <year> 1989. </year> <note> Document ISO/WG8/MPEG/89-128. </note>
+Reference-contexts: 1. INTRODUCTION Digital image and video compression standards, such as JPEG and MPEG, use the discrete cosine transform (DCT) [1] to break up image blocks into spatial frequency components <ref> [3, 4] </ref>. These frequency coefficients are quantized using a table of quantization steps, commonly referred to as a quantization table. The quantized DC coefficients are encoded differentially; the quantized AC coefficients for each block are scanned in a zigzag order and grouped into runs of zeros which are then entropy-coded.
+Reference: [4] <author> Pennebaker, W. B. and Mitchell, J. L. </author> <title> JPEG Still Image Data Compression Standard. </title> <publisher> Van Nostrand Reinhold, </publisher> <address> New York, </address> <year> 1993. </year>
+Reference-contexts: 1. INTRODUCTION Digital image and video compression standards, such as JPEG and MPEG, use the discrete cosine transform (DCT) [1] to break up image blocks into spatial frequency components <ref> [3, 4] </ref>. These frequency coefficients are quantized using a table of quantization steps, commonly referred to as a quantization table. The quantized DC coefficients are encoded differentially; the quantized AC coefficients for each block are scanned in a zigzag order and grouped into runs of zeros which are then entropy-coded. <p> This simplifies the Huffman code tables without a drastic increase in bit-rate <ref> [4] </ref>. The range of l is 0 l L, where L = size (V ).
+
+References-found: 4
+

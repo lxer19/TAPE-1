@@ -1,0 +1,15 @@
+URL: ftp://alife.santafe.edu/pub/topics/cas/postscript/types.ps.gz
+Refering-URL: http://alife.santafe.edu/alife/topics/cas/ca-faq/ca-faq.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Email: &lt;jstrout@ucsd.edu&gt;  &lt;levine@symcom.math.uiuc.edu&gt;  
+Title: 1 Special Types of CA 1.1 What is the Fredkin rule? Contributions by: initial pattern
+Author: Joseph J. Strout Lenore Levine [G 
+Note: Fredkin's rule has the fascinating property that any  The first paper on the Gacs rule was published in Problems of Transmission of Information, in 1978. The Russian journal has been translated into English. There are two co-authors, Kurdyumov and Levin. Here are a few later papers that are probably related: [Gac83] [GR85] [G 86] [GR88] [G 89] One piece of further work is this: [dSM92] Some related papers: [Gra82]; this is  [Gra87]; this is Gray's proof for discrete time. [BS88] This is  86] This is my Gacs' 1 dimensional construction. [G 89] This is a 2-dimensional construction which may help understanding the difficult 1-dimensional paper and has a little more general discussion. 1 http://sdcc3.ucsd.edu/TILDEjstrout/  
+Abstract: Strout 1 The rule is described in The Armchair Universe by A.K. Dewdney, p. 24. It's a simple rule: the cell becomes "alive" iff the number of living neighbors is odd. (Assuming cells are represented as 0 and 1, you can write c = sum(c,N) neighborhood, 
+Abstract-found: 1
+Intro-found: 1
+Reference: <institution> BZ specific publications: </institution>
+Reference: [Dew88a] <author> [MPH85] [MPH87] [MF87] [Dew89] [Dew88b] [Dur91] [Win74] General CA: </author> <title> [Lan89] [Lea90] Introductory books: [Dav88] [BP89] 1.5 What are some good references on Eater Rules? Contributions by: </title> <note> Harold McIntosh &lt;mcintosh@redvax1.dgsca.unam.mx&gt; 2 ../aux/filter.html 3 ftp://lumpi.informatik.uni-dortmund.de/pub/CA/src/hodge-c-0.98j.tar.Z 4 http://www.germany.eu.net/people/joke.html 5 http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/ca/sys tems/hodge/0.html 2 </note>
+Reference: [DS91] <editor> [Eps91] [?] [GHH78] [GGH80] [MF83] [Mur88] [Win74] [WWS85] 1.6 What are Vants? Contributions by: John N. Rachlin &lt;rachlin@cs.jhu.edu&gt; Charles F. </editor> <publisher> Wells &lt;cfw2@po.CWRU.Edu&gt; </publisher>
+References-found: 3
+

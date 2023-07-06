@@ -1,0 +1,26 @@
+URL: http://www.cs.umn.edu/Users/dept/users/hsieh/wireless.ps.gz
+Refering-URL: http://www.cs.umn.edu/Users/dept/users/hsieh/
+Root-URL: http://www.cs.umn.edu
+Email: -cheshire,mgbaker-@cs.stanford.edu  
+Title: Experiences with a Wireless Network in MosquitoNet 1 Experiences with a Wireless Network in MosquitoNet  
+Author: Stuart Cheshire and Mary Baker 
+Address: Stanford, CA 94305-2140  
+Affiliation: Computer Science Department, Stanford University  
+Abstract: The MosquitoNet project is studying issues in wireless and mobile computing, and this paper presents our performance analysis and observations of one of the emerging wireless technologies: the Metri-com Microcellular Digital Network (MCDN). Metricom provides one of the best combinations of bandwidth, coverage area and cost for a wir eless data network. We find that the throughput of their radio devices is comparable to a modern modem, but the latency, or round-trip delay, is much higher. The maximum throughput we measured was 30-40 Kbits/second, but the minimum latency for even the smallest IP packet is at least 60ms. We have experimented with both the datagram and Hayes modem emulation modes of Metricoms wireless radios. We are early users of the datagram mode, and our comparisons of these modes confirm two well-known but sometimes forgotten principles. First, packet switching allows mor e efficient sharing of resources than does circuit switching. Second, interfaces that are satisfactory for use by human beings often show their flaws, ambiguities and omissions when used as pr ogramming interfaces for software control of devices. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Mary Baker, </author> <title> Changing Communication Environments in MosquitoNet. </title> <booktitle> Proceedings of the IEEE Workshop on Mobile and Computing Sys tems and Applications, </booktitle> <month> December </month> <year> 1994. </year>
+Reference-contexts: 1. Introduction With smaller, lighter, more powerful computers becoming ever more common, the MosquitoNet project <ref> [1] </ref> is exploring how to keep these computers permanently connected to the world-wide Internet. This connectivity is both wired and wireless, depending on physical location and the availability of wired access points.
+Reference: [2] <author> Various Authors, </author> <title> Linux Documentation Project, </title> <address> http://sunsite.unc.edu/mdw/wel come.html, </address> <year> 1995. </year>
+Reference: [3] <author> R. Caceres and L. Iftode, </author> <title> The Effects of Mobil ity on Reliable Transport Protocols. </title> <booktitle> Proceed ings of the 14th International Conference on Distributed Computing Systems, </booktitle> <month> June </month> <year> 1994. </year>
+Reference-contexts: This variable delay may be even worse for higher - level network protocols. Transport protocols like TCP will treat the unexpected delay as indicating packet loss and will react by retransmitting, thereby building up even more queued data and making the delay even worse <ref> [3] </ref>. The second observation is that although the graphs are far more noisy, the best-case performance is better than the best-case Starmode performance for packet sizes above 500 bytes.
+Reference: [4] <author> R. Droms, </author> <title> Dynamic Host Configuration Protocol. </title> <type> RFC 1541, </type> <month> October </month> <year> 1993. </year>
+Reference-contexts: In our current software, the address translation tables are manually administered. However, we are now planning to implement an automatic directory service incorporated into a DHCP <ref> [4] </ref> server that manages dynamic assignment of addresses. FIGURE 1. Starmode packet format. This figure shows the format of a Starmode packet. The Start of Address (SOA) and End of Address (EOA) are marked by asterisk characters.
+Reference: [5] <institution> The Linux Journal, </institution> <address> P.O. Box 85867, Seattle, Washington, </address> <note> 98145. </note> <editor> Editor Phil Hughes, pub lisher Robert F. Young, </editor> <volume> 1 (1), </volume> <month> March </month> <year> 1994. </year>
+Reference: [6] <author> C. Perkins, </author> <title> IP Mobility Support. </title> <institution> Internet Engi neering Task Force, Internet Draft, </institution> <month> July 8, </month> <year> 1995. </year>
+Reference-contexts: To execute our work in supporting adaptive software, we are developing a mobile computing testbed. This consists of two components: f irst, a Mobile IP implementation (based on the IETF s Mobile IP specification <ref> [6] </ref>) to allow hosts to switch between different network interfaces, and second, drivers and support for several dif ferent network technologies.
+Reference: [7] <author> M. Pettus, </author> <title> Unlicensed Radio Using Spread Spectrum: A Technical Overview. Available from Metricom, </title> <publisher> Inc., </publisher> <address> Sept. 27, </address> <year> 1993. </year>
+Reference: [8] <author> J. Postel, </author> <title> Internet Protocol, </title> <type> RFC 791, </type> <month> September </month> <year> 1981. </year>
+Reference: [9] <author> Matt Welsh, </author> <title> The Linux Bible, </title> <institution> Yggdrasil Comput ing Incorporated, </institution> <year> 1994. </year>
+References-found: 9
+

@@ -1,0 +1,23 @@
+URL: http://www.cs.colostate.edu/~ftppub/TechReports/1998/tr98-101.ps.Z
+Refering-URL: http://www.cs.colostate.edu/~ftppub/
+Root-URL: 
+Phone: Phone: (970) 491-5792 Fax: (970) 491-2466  
+Title: Antirandom Test Patterns Generation Tool  
+Author: Huifang Yin 
+Web: WWW: http://www.cs.colostate.edu  
+Date: Fall, 1996  
+Address: Fort Collins, CO 80523  Fort Collins, CO 80523-1873  
+Affiliation: Computer Science  Computer Science Dept. Colorado State University  Computer Science Department Colorado State University  
+Pubnum: Technical Report  Technical Report CS-98-101  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> Y. K. Malaiya, </author> <title> "Antirandom Testing: Getting the most out of black-box testing," </title> <booktitle> Proc. International Symposium On Software Reliability Engineering, </booktitle> <month> Oct. </month> <year> 1995, </year> <pages> pp. 86-95. </pages>
+Reference-contexts: Section 6, The analysis for the fault coverage diagrams. Section 7, Conclusion. 2 Some definitions in Antirandom Test patterns Generation Tool Dr. Malaiya formally define the antirandom testing algorithm using two kinds of distances-Hamming distance and Cartesian distance as the measures of difference <ref> [1] </ref>.
+Reference: [2] <author> Craig Hall and Brian Chess, </author> <title> "The Nemesis User Manual", </title> <institution> Computer Engineering University of California, </institution> <address> Santa Cruz 95064. </address>
+Reference-contexts: In the antirandom test patterns generation tool, I use these three theorems to implement the antirandom algorithm, the speed is greatly increased. 4 Brief introduction to Nemesis Nemesis is a diverse program that simulates and generates test patterns for circuits with a variety of different types of faults <ref> [2] </ref>. Nemesis generates and simulates tests for stuck-at and 3 bridgeIDDQ faults in combinational circuits.
+Reference: [3] <author> Barry W. Johnson, </author> <title> "Design and Analysis of Fault-Tolerant Digital Systems", </title> <institution> University of Virginia, Charlttesville. </institution>
+Reference: [4] <author> Naixin Li, </author> <title> "Measurement and Enhancement of Software Reliability through Testing", </title> <institution> Col-orado State University. </institution>
+Reference-contexts: In the overall hardware development time, the testing time is a significant fraction. How to make the testing as efficient as possible is a big challenging task for testers. For minimize the testing time, finding an efficient algorithm for the test generation is very important <ref> [4] </ref>. Random testing and its variations have been extensively used and studied for hardware systems. However, random testing does not exploit some information like the previous tests applied.
+
+References-found: 4
+

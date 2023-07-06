@@ -1,0 +1,33 @@
+URL: ftp://ftp.netcom.com/pub/hb/hbaker/Inlines.ps.Z
+Refering-URL: ftp://ftp.netcom.com/pub/hb/hbaker/home.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Phone: (818) 501-4956(818) 986-1360 (FAX)  
+Title: Inlining Semantics for Subroutines which are Recursive  
+Author: Henry G. Baker 
+Address: 16231 Meadow Ridge Way, Encino, CA 91436  
+Affiliation: Nimble Computer Corporation,  
+Note: ACM Sigplan Notices 27,12 (Dec.1992), 39-46. Copyright 1992 by Nimble Computer Corporation 1  This work was supported in part by the U.S. Department of Energy Contract No. DE-AC03-88ER80663  
+Abstract: Many modern programming languages offer a facility for "inlining" designated procedure and function calls, but this process is not well defined in most language standards documents. We offer a model for inlining which has the property that the resulting code does not depend upon the presentation of the order of function definitions, and which also provides a finite and consistent interpretation for the inlining of mutually recursive functions. Finally, when used on "tail-recursive" functions, our model of inlining provides for the equivalent of "loop unrolling". 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Ada83. </author> <title> Reference Manual for the Ada Programming Language. ANSI/MIL-STD-1815A-1983. </title> <type> U.S. </type> <institution> Gov't Printing Office, </institution> <year> 1983. </year>
+Reference: <editor> Allen, F.E., et al. </editor> <title> "The Experimental Compiling System". </title> <journal> IBM J. Res. & Devel. </journal> <volume> 24 (1980),695-715. </volume>
+Reference: <author> Allen, Randy, and Johnson, Steve. </author> <title> "Compiling C for Vectorization, Parallelization, and Inline Expansion". </title> <journal> ACM PLDI'88, </journal> <note> also Sigplan Not. 23,7 (July1988),241-249. </note>
+Reference: <author> Baker, H.G. </author> <title> "Equal Rights for Functional Objects". </title> <journal> ACM OOPS Messenger 4,4 (Oct.1993), </journal> <pages> 2-27. </pages>
+Reference: <author> Baker, H.G. </author> <title> "Metacircular Semantics for Common Lisp Special Forms". </title> <booktitle> ACM Lisp Pointers V,4 (Oct-Dec1992), </booktitle> <pages> 11-20. </pages>
+Reference: <author> Ball, J. Eugene. </author> <title> "Predicting the Effects of Optimization on a Procedure Body". </title> <note> Proc.Sigplan '79 Symp. on Compiler Constr., also Sigplan Not. 14,8 (Aug.1979),214-220. </note>
+Reference: <author> Barendregt, </author> <title> H.P. The Lambda Calculus: Its Syntax and Semantics. </title> <publisher> North-Holland, </publisher> <address> New York, </address> <year> 1984. </year>
+Reference: <author> Callahan, David, et al. </author> <title> "Interprocedural Constant Propagation". </title> <booktitle> Proc. Sigplan '86 Symp. on Compiler Constr., also Sigplan Not. </booktitle> <address> 21,7 (July1986),152-161. </address>
+Reference: <author> Ellis, John R. Bulldog: </author> <title> A Compiler for VLIW Architectures. </title> <publisher> MIT Press, </publisher> <address> Cambridge, MA, </address> <year> 1986, </year> <month> 320p. </month>
+Reference: <author> Ershov. </author> <title> A.P. On the essence of translation. </title> <editor> In Neuhold, E.J., ed. </editor> <booktitle> Formal Description of Programming Concepts. </booktitle> <publisher> North-Holland, </publisher> <address> Amsterdam, 1977,391-418. </address>
+Reference: <author> Gabriel, Richard P. </author> <title> "The Why of Y". Lisp Pointers 2,2 (Oct./Dec.1988),15-25. </title>
+Reference: <author> Harrison, William. </author> <title> "A new strategy for code generationthe general purpose optimizing compiler". </title> <booktitle> ACM POPL 4 (1977),29-37. </booktitle>
+Reference: <author> Hwu, Wen-mei W., and Chang, Pohua P. </author> <title> "Inline Function Expansion for Compiling C Programs". </title> <journal> Sigplan PLDI'89, </journal> <note> also Sigplan Not. 24,7 (July1989),246-255. </note>
+Reference: <author> Hyun, Kio C., and Doberkat, Ernst-Erich. </author> <title> "Inline Expansion of SETL Procedures". </title> <journal> Sigplan Not. </journal> <volume> 20, 1 2 (Dec.1985),33-38. </volume>
+Reference: <author> MacLaren, M. Donald. </author> <title> "Inline Routines in VAXELN Pascal". </title> <booktitle> Proc. Sigplan '84 Symp. on Compiler Constr., also Sigplan Not. </booktitle> <address> 19,6 (June1984),266-275. </address>
+Reference: <author> Scheifler, Robert W. </author> <title> "An Analysis of Inline Substitution for a Structured Programming Language". </title> <journal> CACM 20,9 (Sept.1977),647-654. </journal>
+Reference: <author> Steele, G.L. </author> <title> Common Lisp, the Language: Second Edition. </title> <publisher> Digital Press, </publisher> <address> Bedford, MA, </address> <year> 1990. </year> <title> Stroustrup, Bjarne. The C++ Programming Language. </title> <publisher> Addison-Wesley, </publisher> <address> Reading, MA, </address> <year> 1986. </year>
+Reference: <author> Turchin, Valentin F. </author> <title> "The Concept of a Supercompiler". </title> <journal> ACM TOPLAS 8,3 (July1986),292-325. </journal>
+Reference: <author> Turner, D. </author> <title> "A New Implementation Technique for Applicative Languages". </title> <journal> SWPract.&Exper. </journal> <volume> 9 (1979),31-49. </volume>
+References-found: 19
+

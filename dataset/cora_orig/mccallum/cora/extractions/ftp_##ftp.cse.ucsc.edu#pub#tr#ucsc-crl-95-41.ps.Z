@@ -1,0 +1,20 @@
+URL: ftp://ftp.cse.ucsc.edu/pub/tr/ucsc-crl-95-41.ps.Z
+Refering-URL: ftp://ftp.cse.ucsc.edu/pub/tr/README.html
+Root-URL: http://www.cse.ucsc.edu
+Title: The Planar Pin Assignment and Routing Problem (PPARP) is NP-complete  
+Author: Joel Darnauer 
+Address: Santa Cruz, CA 95064 USA  
+Affiliation: Baskin Center for Computer Engineering Information Sciences University of California, Santa Cruz  
+Date: August 1, 1995  
+Pubnum: UCSC-CRL-95-41  
+Abstract: Many package routing problems involve routing one set of pins to another set of pins in a single layer without regard to how the pins in each set are connected. We call this type of problem a Planar Pin Assignment and Routing Problem (PPARP). Unlike general routing problems which correspond to the NP-complete multi-commodity flow problem, the pin distribution problem seems to have a natural formulation as a single-commodity flow problem, which suggests that it can be solved efficiently. In this paper, we show that the problem is surprisingly NP-complete. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [DD94] <author> Joel Darnauer and Wayne Dai. </author> <title> Fast pad redistribution from periphery io to array io. </title> <booktitle> In IEEE Multichip Module Conference, </booktitle> <year> 1994. </year>
+Reference-contexts: This task is repetitious and a good target for automation. Unfortunately, most routing programs cannot handle pin assignment. Previous work has addressed the topic of generating fan-in and fan-out patterns for arrays of pads and rings of pads <ref> [DD94, YD95] </ref>. The previous approaches have three main deficiencies: 1. They rely on the symmetry of the problem to generate solutions and cannot cope with missing, skewed, or arbitrarily placed bumps. 2.
+Reference: [GJ79] <author> Garey and David S. Johnson. </author> <title> Computers and Intractability A Guide to the Theory of NP-completeness. W.H. </title> <publisher> Freeman, </publisher> <year> 1979. </year>
+Reference-contexts: PPARP is NP-complete 3 2 PPARP is NP-complete The basic problem we will encounter is that the constraints may allow prevent some set of cuts from being satisfied simultaneously. We try the following constructive reduction from SATISFIABILITY using the method of components <ref> [GJ79] </ref> Given an instance of satisfiability in the form of a boolean circuit, we can find a PPARP instance such that a feasible topological routing exists if and only if the circuit is satisfiable.
+Reference: [YD95] <author> Man-fai Yu and Wayne Wei-Ming Dai. </author> <title> Single-layer fanout routing and. </title> <type> Technical Report UCSC-CRL-95-18, </type> <institution> Computer Engineering, UC Santa Cruz, </institution> <month> June 28 </month> <year> 1995. </year> <title> References 5 6 References construct non-planar circuits. </title>
+Reference-contexts: This task is repetitious and a good target for automation. Unfortunately, most routing programs cannot handle pin assignment. Previous work has addressed the topic of generating fan-in and fan-out patterns for arrays of pads and rings of pads <ref> [DD94, YD95] </ref>. The previous approaches have three main deficiencies: 1. They rely on the symmetry of the problem to generate solutions and cannot cope with missing, skewed, or arbitrarily placed bumps. 2.
+References-found: 3
+

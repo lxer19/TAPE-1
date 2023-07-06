@@ -1,0 +1,22 @@
+URL: http://www-cad.eecs.berkeley.edu/HomePages/lcarloni/research/auraICCAD97.ps
+Refering-URL: http://www-cad.eecs.berkeley.edu/HomePages/lcarloni/research/papersIndex.html
+Root-URL: http://www.cs.berkeley.edu
+Title: Negative Thinking by Incremental Problem Solving: Application to Unate Covering  
+Author: Evguenii I. Goldberg Luca P. Carloni Tiziano Villa Robert K. Brayton Alberto L. Sangiovanni-Vincentelli 
+Address: Berkeley,Berkeley, CA 94720 66, 00186 Roma  
+Affiliation: Department of EECS Academy of Sciences of PARADES, University of California at Belarus, Minsk Via di S.Pantaleo,  
+Abstract: We introduce a new technique to solve exactly a discrete optimization problem, based on the paradigm of negative thinking. The motivation is that when searching the space of solutions, often a good solution is reached quickly and then improved only a few times before the optimum is found: hence most of the solution space is explored to certify optimality, but it does not yield any improvement of the cost function. So it is quite natural for an algorithm to be skeptical about the chance to improve the current best solution. For illustration we have applied our approach to the unate covering problem. We designed a procedure, raiser, implementing a negative thinking search, which is incorporated into a common branch-and-bound procedure. Raiser is invoked at a node of the search tree which is deep enough to justify negative thinking. Raiser tries to detect a hard core of the matrix corresponding to the node by augmenting an independent set of rows in order to increase incrementally the cost of the minimum solutions covering the matrix. Eventually either raiser prunes the subtree rooted at the node (having found a lower bound equal or greater than the current best solution) or returns a new solution that becomes the current best one. Experiments show that our program, AURA, outperforms both ESPRESSO and our enhancement of ESPRESSO using Coudert's limit lower bound [3]. It is always faster and in the most difficult examples either has a running time better by up to two orders of magnitude, or the other programs fail to finish due to timeout or spaceout. The package SCHERZO is faster on some examples and loses on others, due to a less powerful pruning strategy of the search space, partially mitigated by a more effective computation of the maximal independent set. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> O. Coudert. </author> <title> Two-level logic minimization: an overview. Integration, </title> <address> 17-2:97-140, </address> <month> October </month> <year> 1994. </year>
+Reference: [2] <author> O. Coudert. </author> <title> On solving binate covering problems. </title> <booktitle> In The Proceedings of the Design Automation Conference, </booktitle> <pages> pages 197-202, </pages> <month> June </month> <year> 1996. </year>
+Reference: [3] <author> O. Coudert and J.C. Madre. </author> <title> New ideas for solving covering problems. </title> <booktitle> In The Proceedings of the Design Automation Conference, </booktitle> <pages> pages 641-646, </pages> <month> June </month> <year> 1995. </year>
+Reference-contexts: introduction of the limit lower bound <ref> [3] </ref>. Our approach is more radical because when we are dealing with a subspace of solutions unlikely to improve the upper bound, we switch the search strategy to a different one geared to raise the lower bound.
+Reference: [4] <author> T. Kam, T. Villa, R. Brayton, and A. Sangiovanni-Vincentelli. </author> <title> Synthesis of FSMs: functional optimization. </title> <publisher> Kluwer Academic Publishers, </publisher> <year> 1996. </year>
+Reference: [5] <author> S. Liao and S. Devadas. </author> <title> Solving covering problems using LPR-based lower bounds. </title> <booktitle> In The Proceedings of the Design Automation Conference, </booktitle> <month> June </month> <year> 1997. </year>
+Reference: [6] <editor> J.-K. Rho and F. Somenzi. Stamina. </editor> <booktitle> Computer Program, </booktitle> <year> 1991. </year>
+Reference: [7] <author> R. Rudell. </author> <title> Espresso. </title> <booktitle> Computer Program, </booktitle> <year> 1987. </year>
+Reference: [8] <author> R. Rudell and A. Sangiovanni-Vincentelli. </author> <title> Multiple-valued minimization for PLA optimization. </title> <journal> IEEE Transactions on Computer-Aided Design, </journal> <volume> CAD-6:727-750, </volume> <month> September </month> <year> 1987. </year>
+
+References-found: 8
+

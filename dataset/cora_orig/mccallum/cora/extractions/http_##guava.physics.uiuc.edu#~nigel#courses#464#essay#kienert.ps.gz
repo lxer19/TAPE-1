@@ -1,0 +1,25 @@
+URL: http://guava.physics.uiuc.edu/~nigel/courses/464/essay/kienert.ps.gz
+Refering-URL: http://guava.physics.uiuc.edu/~nigel/courses/464/
+Root-URL: http://www.cs.uiuc.edu
+Title: Self-Organized Criticality  
+Author: Jochen Kienert 
+Date: May 7 1998  
+Abstract: The concept of self-organized criticality (SOC) has been evoked by Bak, Tang and Wiesenfeld (BTW) as a possible unifying framework to describe a vast class of dynamically driven systems which evolve spontaneously toward a critical stationary state with no characteristic time or length scale. In this essay we will discuss SOC models that have been studied and to what extent they are related to real physical systems. We will also present recently developed analytical approaches, among them a renormalization group scheme, the Dynamically Driven Renormalization Group. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> P.Bak, C.Tang, K.Wiesenfeld: Phys.Rev.Lett. </author> <month> 59, 381 </month> <year> (1987) </year>
+Reference: [2] <author> P.Bak, C.Tang, K.Wiesenfeld: Phys.Rev. </author> <note> A 38, 3645 (1988) </note>
+Reference: [3] <author> B.Drossel, F.Schwabl: Phys.Rev.Lett. </author> <month> 69, 1629 </month> <year> (1992) </year> <month> 17 </month>
+Reference: [4] <author> S.Clar, B.Drossel, F.schwabl: J.Phys.: Condens. </author> <type> Matter 8, </type> <month> 6803 </month> <year> (1996) </year>
+Reference: [5] <author> Z.Olami, H.J.Feder, K.Christensen: Phys.Rev.Lett. </author> <month> 68, 1244 </month> <year> (1992) </year>
+Reference: [6] <author> D.Dhar: Phys.Rev.Lett. </author> <month> 64, 1613 </month> <year> (1990) </year>
+Reference: [7] <author> V.B.Priezzhev, D.V.Ktitarev, E.V. Ivashkevich: Phys.Rev.Lett. </author> <month> 76, </month> <year> 2093 (1996) </year>
+Reference: [8] <author> A.Vespignani, S.Zapperi: Phys.Rev.Lett. </author> <month> 78, 4793 </month> <year> (1997) </year>
+Reference: [9] <author> S.S.Manna: </author> <note> Physica A 179, 249 (1991) </note>
+Reference: [10] <author> A.Vespignani, S.Zapperi, V.Loreto: Phys.Rev.Lett. </author> <month> 77, 4560 </month> <year> (1996) </year>
+Reference: [11] <author> A.Vespignani, S.Zapperi, V.Loreto: J.Stat.Phys. </author> <month> 88, 47 </month> <year> (1997) </year>
+Reference: [12] <author> A.Vespignani, S.Zapperi, L.Pietronero: Phys.Rev. E, </author> <month> 51, 1711 </month> <year> (1995) </year>
+Reference: [13] <author> V.Loreto, L.Pietronero, A.Vespignani, S.Zapperi: Phys.Rev.Lett. </author> <month> 75, 465 </month> <year> (1995) </year>
+Reference: [14] <author> H.J. Jensen: </author> <title> Self-Organized Criticality, </title> <publisher> Cambridge, Cambridge University Press (1998) 18 </publisher>
+References-found: 14
+

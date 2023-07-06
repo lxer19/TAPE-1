@@ -1,0 +1,18 @@
+URL: http://www.cs.unc.edu/~us/chen/paper.ps.gz
+Refering-URL: http://www.cs.unc.edu/~us/hybrid.html
+Root-URL: http://www.cs.unc.edu
+Title: Superior Augmented Reality Registration by Integrating Landmark Tracking and Magnetic Tracking for an AR system:
+Author: Andrei State, Gentaro Hirota, David T. Chen, William F. Garrett, Mark A. Livingston hirota, chen, garrett, s t e r e o p s 
+Keyword: CR Categories and Subject Descriptors: I.3.7 [Three-Dimensional Graphics and Realism]: Virtual Reality, I.3.1: [Hardware Architecture]: Three-dimensional displays, I.3.6 [Methodology and Techniques]: Interaction techniques. Additional Keywords and Phrases: Augmented reality, stereo video see-through head-mounted display, frame buffer techniques, registration, calibration.  
+Note: -state,  The following are typical requirements  appears to swim about as the user moves, and often does not appear to rest at the same  [Holloway95]. No conventional tracker satisfies all of the above requirements. 2 PREVIOUS WORK Other AR systems have used mechanical [Sutherland68] or  should be  
+Address: Chapel Hill  #3175 Sitterson Hall, Chapel Hill, NC  ABSTRA CT  
+Affiliation: Department of Computer Science University of North Carolina at  CB  
+Email: Email:  livingst-@cs.unc.edu  
+Phone: 27599-3175. Tel: +1-919-962-1700.  
+Web: http://www.cs.unc.edu/~us/hybrid.html  
+Abstract: Accurate registration between real and virtual objects is crucial for augmented reality applications. Existing tracking methods are individually inadequate: magnetic trackers are inaccurate, mechanical trackers are cumbersome, and vision-based trackers are computationally problematic. We present a hybrid tracking method that combines the accuracy of vision-based tracking with the robustness of magnetic tracking without compromising real-time performance or usability. We demonstrate excellent registration in three sample applications. While the advent of Head-Mounted Displays (HMDs) and affordable real-time computer graphics engines has given rise to much research in the field of Virtual Reality (VR), comparatively little work has been done in the closely-related field of Augmented Reality (AR). A VR system immerses the user in a totally synthetic, computer-generated environment. An AR system, on the other hand, merges computer-synthesized objects with the users space in the real world. Synthetic objects enhance the users interaction with, or his perception of, the real world [Azuma95]. There has been much research in the field of tracking and registration. Most tracking systems used today in fully immersive VR systems have been magnetic. In the field of computer vision there is a wealth of research on motion tracking. Todays magnetic trackers are subject to large amounts of error and jitter. An uncalibrated system can exhibit errors of 10cm or more, particularly in the presence of magnetic field disturbances such as metal and electric equipment. Carefully calibrating a magnetic system can reduce position errors to within 2cm [Livingston95]. Despite their lack of accuracy, magnetic trackers are popular because they are robust and place minimal constraints on user motion. 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> AZUMA, R. </author> <title> A Survey of Augmented Reality. </title> <booktitle> SIGGRAPH 1995 Course Notes #9 (Developing Advanced Virtual Reality Applications). </booktitle>
+References-found: 1
+

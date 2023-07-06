@@ -1,0 +1,11 @@
+URL: ftp://ftp.cs.unc.edu/pub/publications/techreports/92-019.ps.Z
+Refering-URL: ftp://ftp.cs.unc.edu/pub/publications/techreports/FILE.html
+Root-URL: http://www.cs.unc.edu
+Title: A Short Guide to AutoCAD Drawing Primitives for 3D Computer Graphics Models and the Walkthrough
+Author: John C. Alspaugh 
+Date: 22 April 1992  
+Abstract: Intended for those who want to build models for 3D computer graphics as painlessly as possible, this document introduces the reader to those AutoCAD drawing primitives and AutoCAD structures that can be converted to polygons with the Walkthrough AutoCAD-to-polygon conversion program. It also discusses those primitives that are not converted and why they are not converted. In addition, this document introduces the reader to more advanced AutoCAD modelling techniques for efficient model-building and model-management. The final section tells how to run the AutoCAD-to-polygon conversion program: file locations, input file requirements and forms, and the format of the output file. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

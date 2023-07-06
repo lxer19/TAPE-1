@@ -1,0 +1,16 @@
+URL: http://www.cs.utexas.edu/users/kornerup/synch.ps.Z
+Refering-URL: http://www.cs.utexas.edu/users/kornerup/kornerup-papers.html
+Root-URL: 
+Title: Verifying Synchronous Programs (draft) where R[ e] denotes textual substitution of all free occurrences of
+Author: Jacob Kornerup P:t b e :R [(b R[ e]) (:b R)] W P:(t b e t b e ):R fDefinitiong 
+Note: W  In the WP calculus the synchronous composition is defined when [b 0 b 1 0 6= 1 by  [(b 0 b 1 R[ 0 1 e 0 e 1 (:b 0 b 1 R[ 1 e 1  
+Address: &gt;&gt;  
+Affiliation: &lt;&lt; b e  
+Date: October 11, 1994  
+Abstract: Synchronous programs are often used to describe the abstract functional behavior of clocked VLSI circuits. In this note we will examine how one can verify safety properties of certain synchronous programs. In contrast to asynchronous programs where the proof obligation usually is linear in the number of asynchronous components; the proof obligation for a synchronous program is of exponential size, due to the fact that one should consider all possible combinations of the enabledness of the components guards. By imposing restrictions on the structure of the synchronous components, we can reduce the size of the proof obligation to one linear in the number of synchronous components. We consider a language of transitions composed using a synchronous operator. A transition is a guarded assignment statement. In this note we will use the Synchronized Transitions notation [GS90] for transitions: where b is a boolean expression (guard), x is a variable and e is an expression of the same type as x. In the W P calculus ([Dij76]) we interpret a transition by: Transitions are combined synchronously using the + operator. This construct is more general than the synchronous composition in the UNITY notation [CM88], where only non-guarded transitions may be combined. We call the synchronous composition of a set of transitions a program. Operationally a program executes in synchronous steps, where all transitions are executed in each step. At the start of a step all expressions (guards and right hand sides) are evaluated; if the guard of a transition evaluates to true, then the value of the right hand side of the transition is assigned to the variable; if the guard evaluates to false then the transition has no effect. We require that two distinct transitions must have mutually exclusive guards if they write to the same variable. 
+Abstract-found: 1
+Intro-found: 0
+Reference: <editor> Cla90 L.J.M. Claesen (ed.): </editor> <title> Formal VLSI Specification and Synthesis. </title> <booktitle> Proceedings of the IFIP WG 10.2/WG 10.5 International Workshop on Formal Methods for Correct VLSI Design, </booktitle> <address> Houthalen, Belgium 13-16 November, 1989. </address> <publisher> North-Holland 1990. </publisher>
+Reference: <author> CM88 K.M. Chandy, J. Misra: </author> <title> Parallel Program Design A Foundation. Addison Wesley 1988 Dij76 E.W. Dijkstra: A Discipline of Programming. </title> <publisher> Prentice Hall 1976 GS90 M.R. </publisher> <editor> Greenstreet and J. Staunstrup: </editor> <title> Synchronized Transitions. In: Formal Methods for VLSI design, </title> <booktitle> IFIP WG 10.5 Lecture Notes, edited by J. Staunstrup. </booktitle> <publisher> North-Holland 1990. </publisher>
+References-found: 2
+

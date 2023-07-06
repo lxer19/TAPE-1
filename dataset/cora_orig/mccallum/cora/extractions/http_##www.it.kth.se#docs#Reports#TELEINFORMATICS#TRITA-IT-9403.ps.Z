@@ -1,0 +1,22 @@
+URL: http://www.it.kth.se/docs/Reports/TELEINFORMATICS/TRITA-IT-9403.ps.Z
+Refering-URL: http://www.it.kth.se/docs/Reports/TELEINFORMATICS/
+Root-URL: http://www.it.kth.se
+Title: A  Extent Analysis of Data Fields  
+Author: Bjorn Lisper and Jean-Francois Collard 
+Note: TRITA-IT R 94:03 ISSN 1103-534X ISRN KTH/IT/R 94/03-SE  
+Date: January 14, 1994  
+Affiliation: Royal Institute of Technology Department of Teleinformatics  
+Abstract-found: 0
+Intro-found: 1
+Reference: [1] <author> S. Anderson and P. Hudak. </author> <title> Compilation of Haskell array comprehensions for scientific computing. </title> <booktitle> In Proceedings of the ACM SIGPLAN'90 Conference on Programming Language Design and Implementation, </booktitle> <pages> pages 137-149. </pages> <publisher> ACM, </publisher> <month> June </month> <year> 1990. </year>
+Reference: [2] <author> M. C. Chen. </author> <title> Transformation of parallel programs in Crystal. </title> <editor> In H.-J. Kugler, editor, </editor> <booktitle> INFORMATION PROCESSING 86, </booktitle> <pages> pages 455-462. </pages> <publisher> Elsevier Publishers B.V. (North-Holland), </publisher> <year> 1986. </year>
+Reference: [3] <author> J. T. Feo, D. C. Cann, and R. R. Oldehoeft. </author> <title> A report on the SISAL language project. </title> <journal> Journal of Parallel and Distributed Computing, </journal> <volume> 10 </volume> <pages> 349-366, </pages> <year> 1990. </year>
+Reference-contexts: One can wonder whether suitable type systems can be designed, so type checking algorithms can be employed instead. We would finally like to point out that the Build-in-Place Analysis of the SISAL compiler <ref> [3] </ref> really is a simple, nonrecursive instance of extent analysis.
+Reference: [4] <author> P. Hammarlund and B. Lisper. </author> <title> On the relation between functional and data parallel programming languages. </title> <booktitle> In Proc. of the Sixth Conference on Functional Programming Languages and Computer Architecture, </booktitle> <pages> pages 210-222. </pages> <publisher> ACM Press, </publisher> <month> June </month> <year> 1993. </year>
+Reference: [5] <author> J. Hughes. </author> <title> Compile-time analysis of functional programs. </title> <editor> In D. A. Turner, editor, </editor> <booktitle> Research Topics in Functional Programming, The UT Year of Programming Series, chapter 5, </booktitle> <pages> pages 117-153. </pages> <publisher> Addison-Wesley, </publisher> <address> Reading, MA, </address> <year> 1989. </year>
+Reference: [6] <author> B. Lisper. </author> <title> Synthesis of Synchronous Systems by Static Scheduling in Space-Time, </title> <booktitle> volume 362 of Lecture Notes in Comput. </booktitle> <publisher> Sci. Springer-Verlag, </publisher> <address> Heidelberg, </address> <month> May </month> <year> 1989. </year>
+Reference: [7] <author> D. I. Moldovan. </author> <title> On the analysis and synthesis of VLSI algorithms. </title> <journal> IEEE Trans. Comput., </journal> <volume> C-31:1121-1126, </volume> <month> Oct. </month> <year> 1982. </year>
+Reference: [8] <author> A. Mycroft. </author> <title> Abstract interpretation and optimizing transformations for applicative programs. </title> <type> PhD thesis, </type> <institution> Computer Science Dept,. Univ. of Edinburgh, </institution> <year> 1981. </year>
+Reference: [9] <author> P. Wadler and R. J. M. Hughes. </author> <title> Projections for strictness analysis. </title> <editor> In G. Kahn, editor, </editor> <booktitle> Proc. Functional Programming Lang. and Computer Arch., </booktitle> <pages> pages 385-407, </pages> <address> Berlin, </address> <month> Sept. </month> <year> 1987. </year> <booktitle> Volume 274 of Lecture Notes in Comput. </booktitle> <publisher> Sci., Springer-Verlag. </publisher> <pages> 17 </pages>
+References-found: 9
+

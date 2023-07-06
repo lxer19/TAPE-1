@@ -1,0 +1,19 @@
+URL: ftp://info.mcs.anl.gov/pub/tech_reports/reports/TM185.ps.Z
+Refering-URL: http://www.mcs.anl.gov/publications/abstracts/abstracts94.htm
+Root-URL: http://www.mcs.anl.gov
+Title: A Collection of Tools in Support of Automatic Differentiation  
+Author: by Andrew Mauer 
+Note: This work was supported by the Office of Scientific Computing, U.S. Department of Energy, under Contract W-31 109-Eng-38.  
+Date: February 1994  
+Web: ANL/MCS-TM-185  
+Address: 9700 South Cass Avenue Argonne, IL 60439  
+Affiliation: ARGONNE NATIONAL LABORATORY  Mathematics and Computer Science Division  
+Pubnum: Technical Memorandum No. 185  
+Abstract-found: 0
+Intro-found: 0
+Reference: [1] <author> Andreas Griewank, David Juedes, and Jay Srinivasan. ADOL-C, </author> <title> a package for the automatic differentiation of algorithms written in C/C++. </title> <type> Technical Report MCS-P180-1190, </type> <institution> Argonne National Laboratory, </institution> <year> 1990. </year>
+Reference-contexts: Of course, the whole package needs to be put together. "renaming-tool" 5c j hfort macro 3ai hAll supported architecture definitions 3bi hSupport Functions 4ei 3 2 On Linking ADOL-C and Fortran Programs It is important that you skim the ADOL-C manual <ref> [1] </ref>. It has most of the basics. I elaborate here only the representation of the power series. The gradient objects corresponding to f is the n-th derivative of f with respect to x divided by n factorial.
+Reference: [2] <author> Norman Ramsey. </author> <title> Literate-programming tools can be simple and extensible. </title> <note> Report at bellcore.com in /pub/norman/noweb/xdoc/ieee.tex. software at bellcore.com in /pub/norman/noweb-2.5a.shar.z., </note> <institution> Department of Computer Science, Princeton University, </institution> <month> October </month> <year> 1993. </year> <month> 20 </month>
+Reference-contexts: Changing case is beyond the scope of the C preprocessor but is possible in m4, hence the choice. Many sections of this document are written in the literate programming system noweb <ref> [2] </ref> based on Donald Knuth's original WEB. It is designed to blend the program code with an intelligible explanation of what occurs.
+References-found: 2
+

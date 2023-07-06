@@ -1,0 +1,24 @@
+URL: ftp://dimacs.rutgers.edu/pub/dimacs/TechnicalReports/TechReports/1995/95-23.ps.gz
+Refering-URL: http://dimacs.rutgers.edu/TechnicalReports/1995.html
+Root-URL: http://www.cs.rutgers.edu
+Author: Stephen G. Penrice 
+Keyword: Balanced Graphs and Network Flows  
+Date: July 31, 1995.  
+Address: Cortland, New York 13045  
+Affiliation: Dept. of Mathematics S.U.N.Y. College at Cortland  
+Note: by  DIMACS is a cooperative project of Rutgers University, Princeton University, AT&T Bell Laboratories and Bellcore. DIMACS is an NSF Science and Technology Center, funded under contract STC-91-19999; and also receives support from the New Jersey Commission on Science and Technology.  
+Abstract: DIMACS Technical Report 95-23 July 1995 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> P. Erdos and A. Renyi, </author> <title> On the evolution of random graphs, </title> <type> Pub. </type> <institution> Math. Hungar. Acad. Sci. </institution> <month> 5 </month> <year> (1960), </year> <pages> 17-61. </pages>
+Reference-contexts: These latter results are also consequences of our characterization. Balanced graphs first arose in the study of random graphs. See <ref> [1] </ref>. More recently, there have been several papers written on balanced extensions of graphs. Among these is [4], which gives references to several more papers on this topic. In [5], a result is proved which implies that maximal planar graphs and maximal outerplanar graphs are balanced.
+Reference: [2] <author> L. Lovasz and M. Plummer, </author> <title> "Matching theory," </title> <publisher> North-Holland, </publisher> <address> Amsterdam, </address> <year> 1986. </year>
+Reference-contexts: Details of these theorems and their relationship to the max-flow/min-cut theorem can be found in <ref> [2] </ref>. The intent of this article is to add another area which can be profitably studied from this point of view: balanced graphs. Throughout this paper, graphs are assumed to be finite without loops or multiple edges. <p> Theorem 1 Let G be a graph. Then G is balanced if and only if I (G) has a normalized edge weight assignment. Proof: We adopt the network terminology used in <ref> [2] </ref>.
+Reference: [3] <author> J. C. Picard and M. Queyranne, </author> <title> A network flow solution to some non-linear 0-1 programming problems, with applications to graph theory, </title> <booktitle> Networks 12 (1982), </booktitle> <pages> 141-159. </pages>
+Reference-contexts: In Section 2 we prove a good characterization of balanced graphs. The proof shows that deciding whether a given graph G is balanced is equivalent to finding a minimum cut in a certain network related to G. The main idea of this proof first appeared in <ref> [3] </ref>, which gives an efficient algorithm for the more general problem of finding a subgraph H of a given graph G such that d (H) is maximum. However, our characterization of balanced graphs appears to be new. <p> However, there are examples of graphs G where the algorithm produces a subgraph H with d (H) &gt; d (G), but d (H) is not maximum. For a version of this algorithm which does find a subgraph of maximum density in polynomial time, see <ref> [3] </ref>. 3 Applications In this section we apply Theorem 1 to prove some results on how balanced graphs may be combined to form a larger balanced graph.
+Reference: [4] <author> A. Rucinski and A. Vince, </author> <title> The solution to an extremal problem on balanced extensions of graphs, </title> <editor> J. </editor> <booktitle> of Graph Theory 17 (1993), </booktitle> <pages> 417-431. </pages>
+Reference-contexts: These latter results are also consequences of our characterization. Balanced graphs first arose in the study of random graphs. See [1]. More recently, there have been several papers written on balanced extensions of graphs. Among these is <ref> [4] </ref>, which gives references to several more papers on this topic. In [5], a result is proved which implies that maximal planar graphs and maximal outerplanar graphs are balanced.
+Reference: [5] <author> N. Veerapandiyan and S. Arumugam, </author> <title> On balanced graphs, </title> <booktitle> Ars Combinatoria 32 (1991), </booktitle> <pages> 222-224. </pages>
+Reference-contexts: These latter results are also consequences of our characterization. Balanced graphs first arose in the study of random graphs. See [1]. More recently, there have been several papers written on balanced extensions of graphs. Among these is [4], which gives references to several more papers on this topic. In <ref> [5] </ref>, a result is proved which implies that maximal planar graphs and maximal outerplanar graphs are balanced. After deriving ad hoc proofs that edge-transitive graphs and complete m-partite graphs are balanced, the present author began to suspect that a common proof was possible.
+References-found: 5
+

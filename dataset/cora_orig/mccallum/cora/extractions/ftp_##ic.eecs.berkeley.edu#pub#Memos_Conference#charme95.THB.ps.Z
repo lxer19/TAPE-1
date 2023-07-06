@@ -1,0 +1,24 @@
+URL: ftp://ic.eecs.berkeley.edu/pub/Memos_Conference/charme95.THB.ps.Z
+Refering-URL: http://www.eecs.berkeley.edu/~serdar/publications/index.html
+Root-URL: http://www.cs.berkeley.edu
+Title: using the L A T E X macro package with LLNCS style  
+Note: This article was processed  
+Abstract-found: 0
+Intro-found: 1
+Reference: [Cho74] <author> Y. Choueka. </author> <title> Theories of Automata on !-Tapes: A Simplified Approach. </title> <journal> Journal of Computer and System Sciences, </journal> <volume> 8 </volume> <pages> 117-141, </pages> <year> 1974. </year>
+Reference: [SVW87] <author> A.P. Sistla, M.Y. Vardi and P. Wolper. </author> <title> The Complementation Problem for Buchi Automata with Applications to Temporal Logic. </title> <journal> Theoretical Computer Science, </journal> <volume> 49 </volume> <pages> 217-237, </pages> <year> 1987. </year>
+Reference: [Kur87] <author> R. P. Kurshan. </author> <title> Reducibility in Analysis of Coordination. In Discrete Events Systems: Models and Applications, </title> <booktitle> volume 103 of LINCS, </booktitle> <pages> pages 19-39, </pages> <year> 1987 </year>
+Reference: [Lin91] <author> B. Lin. </author> <title> Synthesis of VLSI Designs with Symbolic Techniques. </title> <type> Ph.D. thesis, </type> <institution> University of California, Berkeley, </institution> <year> 1991. </year>
+Reference: [Saf89] <author> S. Safra. </author> <title> Complexity of Automata on Infinite Objects. </title> <type> Ph.D. thesis, </type> <institution> The Weizman Institute of Science, Rehovot, Israel, </institution> <month> March </month> <year> 1989. </year>
+Reference: [Saf88] <author> S. Safra. </author> <title> On the Complexity of !-Automata. </title> <booktitle> In Proc. 29th IEEE Symp. on Foundations of Computer Science, </booktitle> <pages> pages 319-327, </pages> <year> 1988. </year>
+Reference: [SV89] <author> S. Safra, </author> <title> and M.Y.Vardi On !-Automata and Temporal Logic. </title> <booktitle> In Proc. 21st ACM Symp. on Theory of Computing, </booktitle> <year> 1989. </year>
+Reference: [Kur92] <author> R. P. </author> <title> Kurshan Automata-Theoretic Verification of Coordinating Processes. </title> <booktitle> UC Berkeley Lecture Notes, </booktitle> <year> 1992. </year>
+Reference: [Saf92] <author> S. Safra. </author> <title> Exponential Determinization for !-Automata with Strong-Fairness Acceptance Conditions. </title> <booktitle> In Proc. 24th ACM Symposium on Theory of Computing, </booktitle> <year> 1992. </year>
+Reference: [Saf93] <author> S. Safra. </author> <title> Private Communication. </title>
+Reference: [Cer92] <author> E. Cerny. </author> <title> Verification of I/O Trace Set Inclusion for a Class of Nondeterministic Finite State Machines. </title> <booktitle> In Proc. Int'l Conference on Computer Design, </booktitle> <address> Cambridge, </address> <pages> pages 526-529, </pages> <month> October </month> <year> 1992. </year>
+Reference: [DHW91] <author> D. L. Dill, A. J. Hu and H. </author> <title> Wong-Toi Checking for Language Inclusion Using Simulation Preorders. </title> <booktitle> In Proc. of the Third Workshop on Computer-Aided Verification, </booktitle> <year> 1991. </year>
+Reference: [HB95] <author> R. Hojati and R. K. </author> <title> Brayton Computing Fair Simulation Relations. </title> <type> Unpublished manuscript. </type>
+Reference: [HSIS94] <author> A. Aziz, F. Balarin, R. K. Brayton, S.-T. Cheng, R. Hojati, T. Kam, S. C. Krishnan, R. K. Ranjan A. L. Sangiovanni-Vincentelli T. R. Shiple V. Singhal, S. Ta~sran, H.-Y. Wang. HSIS: </author> <title> A BDD-Based Environment for Formal Verification. </title> <booktitle> In Proc. of the Design Automation Conf., </booktitle> <month> June </month> <year> 1994. </year>
+
+References-found: 14
+

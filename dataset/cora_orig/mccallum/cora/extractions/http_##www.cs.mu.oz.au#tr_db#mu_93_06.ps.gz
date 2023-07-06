@@ -1,0 +1,29 @@
+URL: http://www.cs.mu.oz.au/tr_db/mu_93_06.ps.gz
+Refering-URL: http://www.cs.mu.oz.au/tr_db/TR.html
+Root-URL: 
+Title: The Deductive and Object Oriented Features of BeBOP a unique combination of sequential and parallel
+Author: Andrew Davison 
+Keyword: Key words: parallelism, logic programming, object oriented programming, meta-level programming  
+Date: 1993  
+Note: April  The language BeBOP is  is sketched.  
+Abstract: Technical Report 93/6 Department of Computer Science University of Melbourne Parkville, Victoria 3052, Australia Email: ad@cs.mu.oz.au Abstract 
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Abramson, H., and Rogers, M.H. </author> <year> 1989. </year> <title> Meta-Programming in Logic Programming, </title> <publisher> MIT Press, </publisher> <address> Cambridge, MA. </address>
+Reference: <author> Agha, G. </author> <year> 1986. </year> <title> Actors: A Model of Concurrent Computation in Distributed Systems, </title> <publisher> MIT Press, </publisher> <address> Cambridge, MA. </address>
+Reference: <author> Atkinson, M., Bancilhon, F., DeWitt, D., Dittrich, K., Maier, D., and Zdonik, S. </author> <year> 1989. </year> <title> `The ObjectOriented Database System Manifesto', </title> <booktitle> In DOOD'89: 1st Int. Conf. on Deductive and Object Oriented Databases, </booktitle> <editor> W. Kim, J-M. Nicholas, S. Nishio (eds.), Kyoyo, </editor> <address> Japan, </address> <month> December, pp.40-57. </month>
+Reference: <author> Bancilhon, F. </author> <year> 1988. </year> <title> `Object-Oriented Database Systems', </title> <booktitle> In Proc. 7th ACM SIGART-SIGMOD-SIGACT Symp. on Principles of Database Systems, </booktitle> <publisher> ACM Press. </publisher>
+Reference: <author> Bowen, K.A., and Kowalski, R.A. </author> <year> 1982. </year> <title> `Amalgamating language and metalanguage in logic programming', In Logic Programming, </title> <editor> K.L.Clark, and S.A. Tarnlund (eds.), </editor> <publisher> Academic Press, </publisher> <address> New York, </address> <pages> pp. 153-172. </pages>
+Reference: <author> Burt, A.D., Hill, P.M., and Lloyd, J. W. </author> <title> 1990 `Preliminary Report on the Programming Language Goedel', </title> <type> Tech. Report TR-90-02, </type> <institution> University of Bristol. </institution>
+Reference: <author> Davison, A. </author> <year> 1989. </year> <title> `Polka: A Parlog Object Oriented Language', </title> <type> PhD Thesis, </type> <institution> Dept. of Computing, Imperial College, </institution> <address> London, </address> <month> September. </month>
+Reference: <author> Dittrich, K.R. </author> <year> 1986. </year> <title> `Object-Oriented Database Systems: the Notion and the Issues (extended abstract)', </title> <booktitle> In Proc. of 1986 Int. Workshop on Object-Oriented Database Systems, </booktitle> <editor> K. Dittrich and U. Dayal (eds.), </editor> <month> Sept. </month> <pages> 23-26, pp. 2-4. </pages>
+Reference: <author> Gregory, S. </author> <year> 1987. </year> <title> Parallel logic programming in PARLOG, </title> <publisher> Addison Wesley, </publisher> <address> Reading, Mass. </address>
+Reference: <author> Haridi, S., and Janson, S. </author> <year> 1990. </year> <title> `Kernel Andorra Prolog and its Computational Model', </title> <booktitle> In Proc. of the 7th Int. Conf. on LP, </booktitle> <address> Jerusalem, </address> <publisher> MIT Press. </publisher>
+Reference: <author> Hewitt, C.E. </author> <year> 1985. </year> <title> `The Challenge of Open Systems', </title> <journal> Byte, </journal> <volume> 10(4), </volume> <month> April, pp.223-242. </month>
+Reference: <author> Janson, S., and Haridi, S. </author> <year> 1991. </year> <title> `Programming Paradigms of the Andorra Kernel Language', </title> <booktitle> In Proc. of the 1991 Int. Symp. of LP, </booktitle> <editor> V. Saraswat, K. Ueda (eds.), </editor> <publisher> MIT Press, pp.167-183. </publisher>
+Reference: <author> Naish, L. </author> <year> 1987. </year> <title> `Parallelizing NU-Prolog', </title> <type> Technical Report 87/17, </type> <institution> Dept. of Computer Science, Univ. of Melbourne, Australia. </institution>
+Reference: <author> Shapiro, E.Y. </author> <year> 1989. </year> <title> `The Family Of Concurrent Logic Programming Languages', </title> <journal> ACM Computing Surveys, </journal> <volume> Vol. 21, No.3, </volume> <month> September, pp.413-510. </month>
+Reference: <author> Thom, J.A., and Zobel, J. </author> <year> 1990. </year> <title> `NU-Prolog Reference Manual', Version 1.5.24, </title> <type> Technical Report 86/10, </type> <institution> Dept. of Computer Science, Univ. of Melbourne, Australia. </institution>
+Reference: <author> Warren, D.H.D. </author> <year> 1990. </year> <title> `The Extended Andorra Model with Implicit Control', </title> <booktitle> In ICLP'90 Workshop on Parallel LP, </booktitle> <address> Israel, </address> <month> June. 16 </month>
+References-found: 16
+

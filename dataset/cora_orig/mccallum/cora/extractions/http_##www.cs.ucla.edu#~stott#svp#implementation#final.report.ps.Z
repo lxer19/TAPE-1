@@ -1,0 +1,18 @@
+URL: http://www.cs.ucla.edu/~stott/svp/implementation/final.report.ps.Z
+Refering-URL: http://www.cs.ucla.edu/~stott/svp/
+Root-URL: http://www.cs.ucla.edu
+Title: printf("the value of the MaxDepth is %d, and the value of the totalforks is %d"n",
+Author: SVPptr R; SVPptr S; int argc; char *argv[]; char *names[MAXSTRUCTS]; SVPptr data[MAXSTRUCTS]; printf("%d: %s.", i, names[i]); printSVP(data[i]); printf (""n"); [] Val Breazu-Tannen, O. Peter Buneman and Shamim Naqvi, [] Eric C. Cooper and Richard P. Draves, "C D. Stott Parker, Eric Simon, and Patrick Valduriez, "SVP 
+Address: Canada,  
+Affiliation: Threads", Department of Computer Science, Carnegie Mellon University,  Vancouver, British Columbia,  
+Date: fclose(opf);  20 July 1987.  August 1992.  
+Note: int depthR depth(R); int depthS depth(S); int delta, totalforks; if ((totalforks (depthR depthS 2 2 depthR 2)) &gt; MAXFORKS) printf("this will fork more than can be done safely"n"); delta totalforks MAXFORKS; MaxDepth ceil((double)(delta (2 depthR) 1));  Draft of  [4]  Proceedings of the 18th VLDB Conference, pp. 115-126,  25  
+Abstract: 3] D. Stott Parker, Eric Simon, and Patrick Valduriez, "SVP a Model Capturing Sets, Streams, and Parallelism", Technical Report CSD-9200020, 48pp, UCLA Computer Science Department, April 1992. Submitted to ACM TODS. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> Val Breazu-Tannen, O. Peter Buneman and Shamim Naqvi, </author> <title> Structural Recursion as a Query Language, </title> <booktitle> Proc. Workshop on Data Base Programming Languages, </booktitle> <address> Napthlion, Greece, </address> <month> September </month> <year> 1991. </year>
+Reference: [2] <author> Eric C. Cooper and Richard P. Draves, </author> <title> "C Threads", </title> <institution> Department of Computer Science, Carnegie Mellon University, </institution> <note> Draft of 20 July 1987. </note>
+Reference: [3] <author> D. Stott Parker, Eric Simon, and Patrick Valduriez, </author> <title> "SVP a Model Capturing Sets, Streams, and Parallelism", </title> <type> Technical Report CSD-9200020, </type> <institution> 48pp, UCLA Computer Science Department, </institution> <month> April </month> <year> 1992. </year> <note> Submitted to ACM TODS. </note>
+
+References-found: 3
+

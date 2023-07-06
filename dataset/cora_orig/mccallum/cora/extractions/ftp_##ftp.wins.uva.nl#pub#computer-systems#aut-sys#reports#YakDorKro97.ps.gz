@@ -1,0 +1,20 @@
+URL: ftp://ftp.wins.uva.nl/pub/computer-systems/aut-sys/reports/YakDorKro97.ps.gz
+Refering-URL: http://www.fwi.uva.nl/research/neuro/publications/publications.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Email: e-mail: yakali@fwi.uva.nl  
+Title: characterization by independent moment-based image features of planar objects Novel Functions: a unique characterization of
+Author: Huseyin Hakan Yakal, Leo Dorst and Ben Krose RWCP 
+Address: Kruislaan 403, 1098 SJ, Amsterdam, The Netherlands.  
+Affiliation: Faculty of Mathematics and Computer Science, University of Amsterdam  
+Note: Pose  For  
+Pubnum: SNN Laboratory  
+Abstract: RWC Technical Report Abstract We consider only white planar targets located in a black background and designed a special target which allows a unique perspective from any relative position. From the image of this target, the 6 relative position and orientation parameters can be characterized by means of 6 independent features. We use moments to extract these features and choose the proper representation to make them independent.
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> B.K.P Horn. </author> <title> Robot Vision. </title> <publisher> MIT Press, </publisher> <address> Cambridge, Massachusetts, </address> <year> 1986. </year>
+Reference: [2] <author> Ming-Kuei Hu. </author> <title> Visual pattern recognition by moment invariants. </title> <journal> IRE Transactions on Information Theory, </journal> <volume> 50 </volume> <pages> 179-187, </pages> <year> 1962. </year>
+Reference: [3] <author> Yubin Hung, Pen-Shu Yeh, and David Harwood. </author> <title> Passive ranging to known planar point sets. </title> <type> Technical Report CAR-TR-65, </type> <institution> CS-TR-1408, Center for Automation Research, </institution> <month> June </month> <year> 1984. </year>
+Reference: [4] <author> Z. Pizlo, A. Rosenfeld, and I. Weiss. </author> <title> The geometry of visual space: </title> <booktitle> About the incompatibility between science and mathematics. Computer Vision and Image Understanding, </booktitle> <month> Jan. </month> <year> 1997. </year> <note> in press. </note>
+Reference: [5] <author> Cho-Huak Teh and Roland T. Chin. </author> <title> On image analysis by the methods of moments. </title> <journal> IEEE Transactions on PAMI, </journal> <volume> 10(4) </volume> <pages> 496-513, </pages> <year> 1988. </year> <month> 8 </month>
+References-found: 5
+

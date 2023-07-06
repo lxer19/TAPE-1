@@ -1,0 +1,17 @@
+URL: http://www.merl.com/reports/TR93-13/TR93-13.ps.gz
+Refering-URL: http://www.merl.com/reports/TR93-13/index.html
+Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
+Title: Buffering in an ATM Local Area Network With Real Time Channels  
+Author: Hugh C. Lauer 
+Note: Extended abstract submitted to Fourth International Workshop on Network and Operating System Support for Digital Audio and Video,  
+Date: Abstract  November 1993.  July 16, 1993  
+Address: 201 Broadway, Cambridge, Massachusetts 02139  
+Affiliation: Mitsubishi Electric Research Laboratories Cambridge Research Center Mitsubishi Electric Research Laboratories, Inc.,  
+Pubnum: TR93-13  
+Abstract: Traffic in local area networks is characterized by considerable burstiness, even traffic representing continuous data types such as audio or video which require real-time network guarantees. Existing algorithms for implementing real-time channels assume large or unlimited buffer space in network switches in order to buffer entire messages. However, such large buffers also imply large worst-case delays and high jitter. An alternative approach in an ATM network is to move the buffering to the client interface and to transmit cells of a real-time channel more uniformly. This allows the network to guarantee tighter deadlines and less jitter and to reduce the amount of reserved buffer space required to support the real-time channels at each switch. It is argued that this is practical in local area networks, even when it is not always practical in wider area networks. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [Ferrari90] <author> D. Ferrari and D. Verma, </author> <title> A Scheme for Real-Time Channel Establishment in Wide-Area Networks, </title> <journal> IEEE Journal on Selected Areas in Communications, </journal> <volume> vol. 8, </volume> <editor> n. </editor> <volume> 3, </volume> <month> April </month> <year> 1990, </year> <pages> pp. </pages> <note> 368-379. </note> <author> [Zheng93] Q. Zheng, K. G. Shin, and C. Shen, </author> <title> Real-time Communication in ATM Networks, submitted to Real-Time System Symposium, </title> <year> 1993. </year>
+Reference-contexts: Much has been written about establishing real-time channels within a network in order to provide guaranteed performance, bandwidth, delay, and/or jitter characteristics to clients with real-time or continuous data requirements <ref> [Ferrari90, Zheng93] </ref>.
+References-found: 1
+

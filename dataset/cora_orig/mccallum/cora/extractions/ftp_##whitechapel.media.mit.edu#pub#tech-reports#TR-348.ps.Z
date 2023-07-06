@@ -1,0 +1,24 @@
+URL: ftp://whitechapel.media.mit.edu/pub/tech-reports/TR-348.ps.Z
+Refering-URL: http://www-white.media.mit.edu/cgi-bin/tr_pagemaker/
+Root-URL: http://www.media.mit.edu
+Email: email=steve@media.mit.edu  
+Title: Recording `lightspace' so shadows and highlights vary with varying viewing illumination. proposed to record the
+Author: Steve Mann, 
+Note: Methods are  
+Address: Building E15-389; 20 Ames Street; Cambridge, MA 02139  
+Affiliation: MIT Media Lab;  
+Abstract: M.I.T Media Laboratory Perceptual Computing Section Technical Report No. 348 MAS854 final course project, Submitted to Stephen A. Benton, Dec.1994; also appears OPTICS LETTERS; Vol.20, No. 24; December 15, 1995 Figure 1: Hypothetical measurement of the response of a scene to light, using a spot meter and idealized spotlight (producing a single ray). The entire measurement space provides all information necessary to reconstruct the scene from any viewpoint under any illumination. Abstract 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> E. H. Adelson and J. R. Bergen. </author> <title> The plenoptic function and the elements of early vision. </title> <editor> M. Landy and J. A. Movshon, </editor> <booktitle> (eds) Computational Models of Visual Processing, </booktitle> <year> 1991. </year>
+Reference-contexts: Traditional holography captures the part of `lightspace' that corresponds to fixed lighting and varying viewpoint (Adelson refers to this part of `lightspace' as the plenoptic function <ref> [1] </ref>).
+Reference: [2] <author> H. Hayakawa. </author> <title> Photometric stereo under a light source with arbitrary motion. </title> <journal> J. Opt. Soc. Am. A, </journal> <volume> 11(11), </volume> <month> November </month> <year> 1994. </year>
+Reference-contexts: These recordings surprised people: these new dimensions of `lightspace' alone provided a compelling sense of 3D structure despite the lack of parallax. (It has been shown <ref> [2] </ref> that changes in lighting alone provide suf ficient information to determine the 3-D scene content.) 1 (a) (b) light over a planar lattice 41 source widths across and 15 source widths high. (a) Frame 163 left. (b) Frame 163 right. (c) Frame 203 left. (d) Frame 203 right.
+Reference: [3] <author> D. J. De Bitetto. </author> <title> Holographic panoramic stereograms synthesized from white light recordings. </title> <journal> Applied Optics, </journal> <volume> 8 </volume> <pages> 1740-1, </pages> <year> 1969. </year>
+Reference: [4] <author> M. C. King, A. M. Noll, and D. H. Berry. </author> <title> A new approach to computer-generated holography. </title> <journal> Applied Optics, </journal> <volume> 9-2:471-475, </volume> <year> 1970. </year>
+Reference: [5] <author> S. A. Benton. </author> <title> Survey of holographic stereograms. SPIE Processing and display of three-dimensional data, </title> <type> 367, </type> <year> 1992. </year>
+Reference: [6] <author> Graham Saxby. </author> <title> practical holography. </title> <publisher> Prentice hall, </publisher> <address> second edition, </address> <year> 1994. </year>
+Reference: [7] <author> J. D. Redman. </author> <title> The three dimensional reconstruction of people and outdoor scenes using holographic multiplexing. </title> <booktitle> SPIE Proceedings, seminar-in-depth holography, </booktitle> <volume> 15 </volume> <pages> 117-122, </pages> <year> 1968. </year>
+Reference: [8] <author> N. D. Haig. </author> <title> Three-dimensional holograms by rotational multiplexing of two-dimensional films. </title> <journal> Applied Optics, </journal> <volume> 12(2) </volume> <pages> 419-420, </pages> <month> Feb </month> <year> 1973. </year> <month> 3 </month>
+References-found: 8
+

@@ -1,0 +1,15 @@
+URL: ftp://ftpipr.ira.uka.de/pub/projects/BRA7274_B-Learn_II/papers/syroco94rs.ps.gz
+Refering-URL: http://wwwipr.ira.uka.de/projects/blearn/blearnpub.html
+Root-URL: 
+Email: e-mails: suarez@ic.upc.es, basanez@ic.upc.es, rosell@ic.upc.es  
+Phone: TE. +34 (3) 4016653, FAX. +34 (3) 4016605  
+Title: ASSEMBLY CONTACT FORCE DOMAINS IN THE PRESENCE OF UNCERTAINTY  
+Author: RA UL SU AREZ, LUIS BASA NEZ and JAN ROSELL 
+Keyword: Key Words. Robots, Assembling, Reaction Forces, Uncertainty, Dual Force Representation.  
+Address: (UPC-CSIC), Diagonal 647, 08028 Barcelona, SPAIN  
+Affiliation: Institut de Cibernetica  
+Abstract: A key aspect of the automatic planning and execution of assembly tasks with robots is the prediction of the contact forces between the objects. The paper addresses the off-line computation of the sets of reaction force directions that can be expected in the presence of uncertainty for any contact situation during an assembly task. The approach, developed for polyhedral objects moved in a plane, makes use of the dual representation methodology, considering friction and different sources of geometric and sensory uncertainties. Theoretical concepts are illustrated through a simple example: positioning a block in a corner. 
+Abstract-found: 1
+Intro-found: 1
+References-found: 0
+

@@ -1,0 +1,14 @@
+URL: ftp://ftp.cs.columbia.edu/reports/reports-1990/cucs-063-90.ps.gz
+Refering-URL: http://www.cs.columbia.edu/~library/1990.html
+Root-URL: http://www.cs.columbia.edu
+Title: For 4SP, there is similar: Theorem 4 4SP() is linear time solvable if 1=3. Remarks
+Author: S.J.Stolfo, L. Woodbury, J. Glazier, and P. Chan . [] M. R. Garey and D. S. Johnson, W. H. Freeman, . 
+Date: 11  
+Note: References [1]  
+Abstract: This paper discussed some subproblems of MPA. For other subproblems whose instances distribute in other manners, similar results may be developed. For example, small pools may be added into the inventory without affecting its major properties, differences between pool sizes may be made no less than some specific value. etc. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [1] <author> S.J.Stolfo, L. Woodbury, J. Glazier, and P. </author> <title> Chan "The ALEXSYS Mortgage Pool Allocation Expert System: A Case Study of Speeding Up Rule-based Program", </title> <year> 1990. </year>
+
+References-found: 1
+

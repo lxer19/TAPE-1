@@ -1,0 +1,18 @@
+URL: file://ftp.cs.utexas.edu/pub/qsim/papers/Kay-MA-91.ps.Z
+Refering-URL: http://www.cs.utexas.edu/users/bert/my-papers.html
+Root-URL: http://www.cs.utexas.edu
+Author: VITA 
+Affiliation: T E X program for computer typesetting. T E X  T E X macro package for The University of Texas at Austin  
+Address: East 41st St Austin, Texas 78751  
+Note: Permanent address: 302  This thesis was typeset 1 with L a T E X by the author. version of Donald Knuth's  is a trademark of the American Mathematical Society. The L a  thesis format was written by Khe-Sing The.  
+Abstract: Herbert "Bert" Kay, the son of Jack and Olga Veronica Kay, was born on May 1, 1959, in Boston, Massachusetts. He graduated from Belmont High School in June, 1977. In September, 1977, he entered the California Institute of Technology. He received a Bachelor of Science in Engineering and Applied Science in June, 1981. After summering in Europe, he began work as a Development Engineer for the Hewlett-Packard Company in their logic test group in Santa Clara, California. In October, 1986, he took a position as a Software Engineer at Mettler Instrumente AG, in Greifensee, Switzerland. In September, 1988, he entered The Graduate School of The University of Texas. On August 4, 1989, he married Margaret Clare Fletcher. 
+Abstract-found: 1
+Intro-found: 1
+Reference: [Berleant and Kuipers, 1990] <author> Daniel Berleant and Benjamin Kuipers. </author> <title> Qualitative and numerical simulation : Bridging the gap. Submitted to AI Journal special volume on qualitative reasoning about continuous systems., </title> <year> 1990. </year>
+Reference: [Berleant, 1989] <author> Daniel Berleant. </author> <title> A unification of numerical and qualitative model simulation. </title> <booktitle> In Proceedings of the Model-based Reasoning Workshop, </booktitle> <year> 1989. </year>
+Reference: [Cheung and Stephanopoulos, 1989] <author> Jarvis Tat-Yin Cheung and G. Stephanopoulos. </author> <title> Representation of process trends part i. a formal representation framework. </title> <type> Technical Report LISPE-89-052, </type> <institution> Massachusetts Institute of Technology, </institution> <year> 1989. </year>
+Reference: [Dalle Molle, 1989] <author> David Dalle Molle. </author> <title> Qualitative simulation of dynamic chemical processes. </title> <type> Technical Report AI89-107, </type> <institution> Artificial Intelligence Laboratory, University of Texas at Austin, Austin, Texas 78712, </institution> <month> May </month> <year> 1989. </year>
+Reference: [de Kleer, 1977] <author> Johan de Kleer. </author> <title> Multiple representations of knowledge in a mechanics problem solver. </title> <booktitle> In Proceedings of IJCAI-77, </booktitle> <pages> pages 299-304, </pages> <year> 1977. </year>
+
+References-found: 5
+

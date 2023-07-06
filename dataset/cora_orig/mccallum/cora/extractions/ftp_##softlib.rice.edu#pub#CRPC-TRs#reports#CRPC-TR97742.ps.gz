@@ -1,0 +1,26 @@
+URL: ftp://softlib.rice.edu/pub/CRPC-TRs/reports/CRPC-TR97742.ps.gz
+Refering-URL: http://www.crpc.rice.edu/CRPC/softlib/TRs_online.html
+Root-URL: 
+Title: Real-Space Envelopes by the Connectivity Constraint: An Approach to the Ab initio Macromolecular Phase Problem  
+Author: Guangzhou Zou George N. Phillips, Jr. 
+Date: August 15, 1997  
+Abstract: An approach is proposed for the ab initio macromolecular phase problem in which the information that proteins are make up of connected chains of atoms is exploited by connectivity constraints. It is show here that the simple forms of the connectivity constraint together with the non-negativity constraint can generate approximate molecular envelopes from the diffraction data jF hklj. Examples with different solvent contents, space groups, and numbers of molecules per asymmetric unit cell were chosen to illustrate the applicability of the algorithms.
+Abstract-found: 1
+Intro-found: 1
+Reference: <author> Baker, D. Krukouski, A. E. and Agard, D. A. </author> <year> (1993). </year> <note> Acto Cryst. D49:186-192. </note>
+Reference: <author> Bates, R. H. T. </author> <year> (1982). </year> <month> Optik 61 </month> <pages> 247-262. </pages>
+Reference: <author> Bystrodd, C., Baker, D., Fletterick, R. J. and Agard, D. </author> <year> (1993). </year> <note> Acta Cryst. D49:429-439. </note>
+Reference: <author> Dainty, J. C and Fienup, J. R. </author> <year> (1987). </year> <title> In Image Recovery: Theory and Application. </title> <publisher> (Academic Press, </publisher> <address> New York). </address>
+Reference-contexts: This has been borne out in practice by the development of simple iterative algorithms for reconstructing an object from only the magnitude data <ref> (Dainty & Fienup, 1987) </ref>. 1.2.2 Phase problem in xray crystallography The application of the iterative algorithms to crystallography fails because the Fourier transform of the object can only be sampled at discrete points in the crystallographical experiments.
+Reference: <author> Greer, J. </author> <year> (1985). </year> <journal> Meth. Enzymol. </journal> <volume> 115 </volume> <pages> 206-226. </pages>
+Reference: <author> Hauptman, H.A. </author> <year> (1989). </year> <journal> Physics Today. </journal> <volume> 42 </volume> <pages> 24-29. </pages>
+Reference-contexts: 1 Introduction 1.1 The Phase Problem The phase problem <ref> (Hauptman, 1989) </ref> arises because a monochromatic diffraction experiment on a single crystal provides only the amplitudes of the reflections. The phases of the reflections cannot be recorded in the experiment.
+Reference: <author> Hayes, M. H. </author> <year> (1982). </year> <journal> IEEE Trans. Acoustics, Speech, and Signal Proceesing 30 </journal> <pages> 140-154. </pages>
+Reference: <author> Hayes, M. H. </author> <year> (1987). </year> <title> In Image Recovery: Theory and Application. </title> <publisher> (Academic Press, </publisher> <address> New York). </address>
+Reference-contexts: Thus, the phase problem in one dimension generally does not have a unique solution. However, there is no equivalent of the fundamental theorem in higher dimensions, and in fact almost all polynomials in two or higher dimensions are irreducible <ref> (Hayes, 1987) </ref>.
+Reference: <author> Karle, J. and Hauptman, H. </author> <year> (1956). </year> <journal> Acta crystallogr. </journal> <volume> 9 </volume> <pages> 635-651. </pages>
+Reference-contexts: Thus, the phase problem can be viewed as the recovery of an object from the amplitudes of its Fourier transform. 1 The phase problem has been solved in the case of small molecules (up to a few hundred atoms in the unit cell) through the socalled direct methods <ref> ( Karle & Hauptman, 1956) </ref>.
+Reference: <author> Millane, R. P. </author> <year> (1990). </year> <journal> J. Opt. Soc. Am. </journal> <volume> 7 </volume> <pages> 394-411. </pages>
+
+References-found: 10
+
