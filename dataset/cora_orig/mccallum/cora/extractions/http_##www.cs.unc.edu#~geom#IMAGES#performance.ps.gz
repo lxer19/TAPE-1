@@ -1,8 +1,0 @@
-URL: http://www.cs.unc.edu/~geom/IMAGES/performance.ps.gz
-Refering-URL: http://www.cs.unc.edu/~geom/geom_parallel.html
-Root-URL: http://www.cs.unc.edu
-Abstract: Figure 1: B-reps of some solids from the Bradley fighting vehicle Intersection Time Total Time for CSG Final Solid Computation Rayshooting, and Graph Computation, Link 1 2 3 4 5 10 20 30 40 50 60 1 2 Time (in secs.) 3 4 5 10 20 30 40 50 60 70 80 90 100 Drivewheel 1 2 3 4 5 10 20 30 40 50 60 70 80 90 100 Idlerwheel No. of processors Time (in secs.) Time (in secs.) No. of processors No. of processors Figure 2: Performance of our system as a function of processor count Page 1 
-Abstract-found: 1
-Intro-found: 0
-References-found: 0
-

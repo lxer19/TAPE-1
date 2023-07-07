@@ -1,9 +1,0 @@
-URL: http://www.eecis.udel.edu/~bao/psfile/chapter5.ps.gz
-Refering-URL: http://www.eecis.udel.edu/~bao/phdthesis.html
-Root-URL: http://www.eecis.udel.edu
-Note: Chapter 5 CONCLUSIONS AND FUTURE WORK 5.1 Conclusions 146  
-Abstract: In this chapter, we summarize our research in QoS control for multimedia applications in the packet-switched network environment. Section 5.1 presents the conclusions of our research and Section 5.2 discusses the related future work. In the current packet-switched networks such as the Internet, only best-effort QoS is provided. Such QoS cannot support the continuous data transmission of multimedia applications in a real-time fashion. Most multimedia applications demand better QoS from the network. Many efforts have been made to enhance the current networks with better QoS control ability. However, how to achieve the dual purposes of reliable QoS and high resource utilization is still an open issue. The difficulty arises from the dynamic traffic characteristics of the multimedia applications. Such dynamics make traffic modeling extremely difficult; hence even if a certain amount of resources may be reserved based on the traffic modeling to satisfy the requested QoS, the resource isolation is likely to result in low resource utilization. In our research to solve this problem, we proposed a set of QoS control schemes to achieve the end-to-end QoS for multimedia applications with high resource utilization. We proposed a dynamic rate-based scheduling scheme | OCcuPancy Adjusting (OCP A) | to achieve the requested QoS on a single network node. By dynamically adjusting the resource shares among the flows sharing the resources according to their QoS performances and resource utilization, OCP A 
-Abstract-found: 1
-Intro-found: 0
-References-found: 0
-

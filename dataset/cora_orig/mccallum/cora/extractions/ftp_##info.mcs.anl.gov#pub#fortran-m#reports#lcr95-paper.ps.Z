@@ -1,8 +1,0 @@
-URL: ftp://info.mcs.anl.gov/pub/fortran-m/reports/lcr95-paper.ps.Z
-Refering-URL: http://www.mcs.anl.gov/fortran-m/papers/
-Root-URL: http://www.mcs.anl.gov
-Abstract: POINT-TO-POINT COMMUNICATION USING MIGRATING PORTS Ian T. Foster, David R. Kohr, Jr., Robert Olson, Steven Tuecke, and Ming Q. Xu Mathematics and Computer Science Division Argonne National Laboratory Argonne, IL 60439 ffoster,kohr,olson,tuecke,mqxug@mcs.anl.gov ABSTRACT We describe and evaluate an implementation of a port-based communication model for task-parallel programs. This model permits tasks to communicate without explicit knowledge of the location or identity of their communication partners, which facilitates modular programming and the development of programs that consist of multiple communicating tasks per processing node. We present the protocols used for point-to-point communication and port migration, expressed in terms of portable abstractions for naming, threading, and asynchronous communication provided by the Nexus runtime system. Experimental results on an IBM SP allow us to quantify the performance costs of the functionality associated with port-based communication. We conclude that task-to-task communication via ports can be achieved efficiently even using standard system software, but that improvements in the integration of threading and communication mechanisms would improve performance significantly. 
-Abstract-found: 1
-Intro-found: 1
-References-found: 0
-

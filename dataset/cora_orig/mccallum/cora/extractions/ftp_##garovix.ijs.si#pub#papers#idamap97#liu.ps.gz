@@ -1,9 +1,0 @@
-URL: ftp://garovix.ijs.si/pub/papers/idamap97/liu.ps.gz
-Refering-URL: http://www-ai.ijs.si/ailab/activities/idamap97.html
-Root-URL: http://www.aic.nrl.navy.mil/~aha/people.html
-Title: Abstract  
-Abstract: One problem in applying machine learning and knowledge discovery techniques to solve real-world problems is how to incorporate the users concepts about the application domain into the learning process to discover interesting rules to the user. Rules are i n-teresting if they are useful and/or provide new know ledge to the user. Interesting rules are subjective b e-cause they depend on the individual users existing knowledge (concepts or hypotheses) about the domain and his/her interests at a particular point in time. In the applications of classification rule induction tec h-niques to real-world problems, we encounter a nu m-ber of problems regarding the production of interes t-ing knowledge to the user. In this paper, we address a specific problem, i.e., characterizing the conforming and unexpected tuples in the database with respect to the users existing concepts, which can be correct, partially correct or entirely incorrect. This helps the user to find interesting rules and enables him/her to have a better understanding of the d omain.
-Abstract-found: 1
-Intro-found: 1
-References-found: 0
-

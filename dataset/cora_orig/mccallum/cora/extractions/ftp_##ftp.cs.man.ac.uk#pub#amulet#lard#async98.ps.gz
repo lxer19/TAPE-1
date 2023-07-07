@@ -1,9 +1,0 @@
-URL: ftp://ftp.cs.man.ac.uk/pub/amulet/lard/async98.ps.gz
-Refering-URL: http://www.cs.man.ac.uk/amulet/projects/lard/papers.html
-Root-URL: http://www.cs.man.ac.uk
-Title: Abstract  
-Abstract: A new high level hardware description language called LARD has been developed for use in the AMULET3 asynchronous microprocessor project. Behavioural models written in this language act as specifications for the manual circuit implementation of the system. In order to validate the circuit implementation we compare behavioural model simulations with transistor level simulations. To perform this comparison we must first overcome a number of problems, including the mapping of atomic channel communication to signal transitions, reconciling different timing characteristics and coping with nondeterminism. This paper describes the solutions adopted to these problems. 
-Abstract-found: 1
-Intro-found: 1
-References-found: 0
-
